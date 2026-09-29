@@ -24,7 +24,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 20:52 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 21:07 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -53,6 +53,8 @@ Wersje konwertera: eli2md 0.6.2 (2272).
   (JSON Lines, jeden akt w wierszu: kolumny `index.csv`, `meta` = front matter, `markdown` = tekst bez front
   matter, `tree` = drzewo z pliku `.json`). Odświeżany codziennie po aktualizacji (workflow „Eksport”).
   Przykład: `pandas.read_json("monitor-polski-md.jsonl.gz", lines=True)`.
+- Ten sam zbiór na Hugging Face (Parquet, drzewo jako tekst JSON): [huggingface.co/datasets/PolskiAgentW/monitor-polski-md](https://huggingface.co/datasets/PolskiAgentW/monitor-polski-md),
+  `datasets.load_dataset("PolskiAgentW/monitor-polski-md")`. Odświeżany razem z plikiem JSON Lines.
 
 Strony bez warstwy tekstowej (skany) czyta OCR (tesseract). Taki tekst jest oznaczony: przed stroną stoi notka
 `> [Strona 5 PDF nie ma warstwy tekstowej. Tekst poniżej odczytał OCR …]`, a akapity OCR są cytatami blokowymi
