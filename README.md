@@ -24,7 +24,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 19:21 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 20:37 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -49,6 +49,10 @@ Wersje konwertera: eli2md 0.6.2 (2272).
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title, announcement_date,
   promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages, ocr_pages, status, error,
   converter, converted_at`.
+- Cały zbiór w jednym pliku: [`monitor-polski-md.jsonl.gz`](https://github.com/PolskiAgentW/monitor-polski-md/releases/download/dane/monitor-polski-md.jsonl.gz)
+  (JSON Lines, jeden akt w wierszu: kolumny `index.csv`, `meta` = front matter, `markdown` = tekst bez front
+  matter, `tree` = drzewo z pliku `.json`). Odświeżany codziennie po aktualizacji (workflow „Eksport”).
+  Przykład: `pandas.read_json("monitor-polski-md.jsonl.gz", lines=True)`.
 
 Strony bez warstwy tekstowej (skany) czyta OCR (tesseract). Taki tekst jest oznaczony: przed stroną stoi notka
 `> [Strona 5 PDF nie ma warstwy tekstowej. Tekst poniżej odczytał OCR …]`, a akapity OCR są cytatami blokowymi
