@@ -1,0 +1,491 @@
+{
+ "eli": "MP/2026/351",
+ "title": "Zarządzenie nr 26 Prezesa Rady Ministrów z dnia 31 marca 2026 r. w sprawie Rady Przyszłości",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/351/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 26"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 marca 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Rady Przyszłości"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Radę Przyszłości, zwaną dalej „Radą”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Rada jest organem pomocniczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Rady należy identyfikacja rozwiązań systemowych umożliwiających transformację gospodarki Rzeczypospolitej Polskiej w gospodarkę wysoko rozwiniętą, z silną bazą technologiczną, w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "opracowanie koncepcji zwiększania podaży jakościowej własności intelektualnej na polskich uczelniach i w instytutach badawczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "przedstawianie propozycji, w tym legislacyjnych, skracających proces od przeprowadzenia badań naukowych do ich komercjalizacji i skalowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "identyfikowanie barier w zakresie testowania i wdrażania innowacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "przedstawianie propozycji zwiększania efektywności wykorzystania środków publicznych do wzmacniania bodźców do zaangażowania prywatnego kapitału i know-how polskich naukowców i przedsiębiorców w krajowe programy oraz w spółki technologiczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "przedstawianie propozycji zmian, w tym legislacyjnych, w zakresie eliminowania barier w pozyskiwaniu utalentowanej kadry naukowej, skalowaniu infrastruktury i działań oraz bezpiecznego uwalniania danych na potrzeby badawcze i komercyjne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "przedstawianie propozycji mechanizmów zapewniających spójność i efektywność powiązań w szczególności między start-upami, inwestorami, polskimi uczelniami, instytutami badawczymi i przedsiębiorstwami, w celu tworzenia i wdrażania innowacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "przedstawianie propozycji zmian, w tym legislacyjnych, w zakresie zamówień publicznych, w celu rozwijania mechanizmów tworzenia popytu na innowacje.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W skład Rady wchodzą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "przewodniczący Rady – Andrzej Domański, Minister Finansów i Gospodarki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "pozostali członkowie Rady:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_2/lit_a",
+       "text": "Dominik Batorski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_2/lit_b",
+       "text": "Stefan Batory,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_2/lit_c",
+       "text": "Grzegorz Brona,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_3/pkt_2/lit_d",
+       "text": "Sebastian Kondracki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_3/pkt_2/lit_e",
+       "text": "Tomasz Konik,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_3/pkt_2/lit_f",
+       "text": "Jarosław Królewski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_3/pkt_2/lit_g",
+       "text": "Rafał Modrzewski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_3/pkt_2/lit_h",
+       "text": "Aleksandra Pędraszewska,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_3/pkt_2/lit_i",
+       "text": "Aleksandra Przegalińska,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_3/pkt_2/lit_j",
+       "text": "Paweł Przewięźlikowski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_3/pkt_2/lit_k",
+       "text": "Krzysztof Pyrć,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "l",
+       "path": "par_3/pkt_2/lit_l",
+       "text": "Mikołaj Raczyński,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "par_3/pkt_2/lit_m",
+       "text": "Piotr Sankowski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "n",
+       "path": "par_3/pkt_2/lit_n",
+       "text": "Sebastian Siemiątkowski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "o",
+       "path": "par_3/pkt_2/lit_o",
+       "text": "Mateusz Staniszewski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "p",
+       "path": "par_3/pkt_2/lit_p",
+       "text": "Sławosz Uznański-Wiśniewski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "q",
+       "path": "par_3/pkt_2/lit_q",
+       "text": "Marta Winiarska,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "r",
+       "path": "par_3/pkt_2/lit_r",
+       "text": "Piotr Wojciechowski.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przewodniczący Rady, z własnej inicjatywy lub na wniosek członka Rady, może zapraszać do udziału w pracach Rady, z głosem doradczym, osoby, których kwalifikacje, wiedza lub doświadczenie mogą być przydatne w realizacji zadań Rady.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przewodniczący Rady:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "kieruje pracami Rady i reprezentuje ją na zewnątrz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "zwołuje posiedzenia Rady i im przewodniczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "ustala terminy i porządek posiedzeń Rady, z uwzględnieniem wniosków zgłaszanych przez członków Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "może zlecać członkom Rady wykonanie określonych prac, niezbędnych do realizacji zadań Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "może zlecać wykonanie opracowań, ekspertyz, raportów i analiz istotnych dla realizacji zadań Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_1/pkt_6",
+       "text": "przedstawia Prezesowi Rady Ministrów bieżące informacje o przebiegu prac Rady.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Podczas nieobecności przewodniczącego Rady, w zakresie określonym w ust. 1 pkt 1–4 i 6, zastępuje wskazany przez niego członek Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Sekretarzem Rady jest osoba wyznaczona przez przewodniczącego Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Do zadań sekretarza Rady należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "przekazywanie członkom Rady oraz osobom, o których mowa w § 4, zaproszeń na posiedzenia Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "przygotowywanie posiedzeń Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "sporządzenie protokołów z posiedzeń Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_2/pkt_4",
+       "text": "wykonywanie innych zadań związanych z obsługą Rady, zleconych przez przewodniczącego Rady.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Posiedzenia Rady odbywają się w formie stacjonarnej co najmniej raz na kwartał.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przewodniczący Rady może zarządzić odbycie posiedzenia Rady przy użyciu środków komunikacji elektronicznej, co obejmuje w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "transmisję posiedzenia w czasie rzeczywistym między uczestnikami posiedzenia Rady,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia Rady mogą wypowiadać się w toku posiedzenia",
+       "children": [
+        {
+         "type": "text",
+         "text": "‒ z zachowaniem niezbędnych zasad bezpieczeństwa."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Rozstrzygnięcia Rady zapadają w formie uzgodnienia stanowisk, w obecności co najmniej połowy liczby członków Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Protokół z posiedzenia Rady podpisuje osoba przewodnicząca posiedzeniu Rady oraz sekretarz Rady.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "W celu realizacji zadań Rady przewodniczący Rady może powoływać grupy robocze złożone z członków Rady oraz osób, o których mowa w § 4.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Organy administracji rządowej oraz jednostki organizacyjne im podległe lub przez nie nadzorowane współdziałają z Radą oraz udzielają Radzie, w ramach swoich kompetencji, pomocy przy wykonywaniu zadań Rady, w szczególności przedstawiają niezbędne informacje i dokumenty, z zachowaniem zasad bezpieczeństwa informacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Udział w pracach Rady oraz grup roboczych jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Obsługę techniczno-organizacyjną oraz biurową prac Rady zapewnia urząd obsługujący ministra właściwego do spraw gospodarki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Wydatki związane z obsługą organizacyjno-techniczną oraz biurową Rady są pokrywane z budżetu państwa z części 20 – gospodarka, której dysponentem jest minister właściwy do spraw gospodarki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

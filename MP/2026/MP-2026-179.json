@@ -1,0 +1,72 @@
+{
+ "eli": "MP/2026/179",
+ "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 28 stycznia 2026 r. w sprawie kursu wymiany euro przyjętego do obliczenia maksymalnej ceny za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci, jaka może być wskazana w ofertach złożonych w aukcji przez wytwórców, oraz wysokości tej maksymalnej ceny w przeliczeniu na euro zgodnie z tym kursem",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/179/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA KLIMATU I ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 stycznia 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kursu wymiany euro przyjętego do obliczenia maksymalnej ceny za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci, jaka może być wskazana w ofertach złożonych w aukcji przez wytwórców, oraz wysokości tej maksymalnej ceny w przeliczeniu na euro zgodnie z tym kursem"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 31a ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych (Dz. U. z 2025 r. poz. 498 i 1535) ogłasza się, co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kurs wymiany euro przyjęty do obliczenia maksymalnej ceny za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci, jaka może być wskazana w ofertach złożonych w aukcji przez wytwórców, określonej w rozporządzeniu Ministra Klimatu i Środowiska z dnia 9 stycznia 2025 r. w sprawie maksymalnej ceny za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci, jaka może być wskazana w ofertach złożonych w aukcji przez wytwórców (Dz. U. poz. 41), wynosi 4,34 zł za 1 euro;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "maksymalna cena za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci, jaka może być wskazana w ofertach złożonych w aukcji przez wytwórców, określona w rozporządzeniu Ministra Klimatu i Środowiska z dnia 9 stycznia 2025 r. w sprawie maksymalnej ceny za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci, jaka może być wskazana w ofertach złożonych w aukcji przez wytwórców, w przeliczeniu na euro zgodnie z kursem, o którym mowa w pkt 1, wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "111,91 euro za 1 MWh – dla obszarów wskazanych w załączniku nr 1 do ustawy z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych, zwanej dalej „ustawą”, oraz dla obszarów 14.E.1, 14.E.2, 14.E.3, 14.E.4, 45.E.1 i 46.E.1 wskazanych w załączniku nr 2 do ustawy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "115,05 euro za 1 MWh – dla obszarów 43.E.1 i 44.E.1 wskazanych w załączniku nr 2 do ustawy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "118,05 euro za 1 MWh – dla obszarów 53.E.1, 60.E.1, 60.E.2, 60.E.3 i 60.E.4 wskazanych w załączniku nr 2 do ustawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Klimatu i Środowiska: P. Hennig-Kloska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 995)."
+ }
+}

@@ -1,0 +1,55 @@
+name: Aktualizacja
+
+on:
+  schedule:
+    - cron: "53 4 * * *"  # codziennie 04:53 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalacja tesseract (OCR stron bez warstwy tekstowej)
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q tesseract-ocr tesseract-ocr-osd tesseract-ocr-pol tesseract-ocr-eng \
+            tesseract-ocr-por tesseract-ocr-fra tesseract-ocr-swe tesseract-ocr-ell tesseract-ocr-spa
+          tesseract --list-langs
+      - name: Instalacja eli2md
+        run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.6.2"
+      - name: Nowe i zmienione akty
+        run: python -m eli2md.dataset --publisher MP --root . --years $(seq 2025 $(date -u +%Y)) --jobs 2 --max 400 --time-budget 7200 --json --ocr
+      - name: Statystyki w README
+        run: python .github/stats.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Bez zmian."; exit 0; fi
+          n=$(git diff --cached --name-only -- MP | wc -l)
+          git commit -q -m "Aktualizacja $(date -u +%Y-%m-%d): zmienione pliki aktów: $n"
+          git push
+      # Zielony run, który nic nie znajduje, wygląda jak zdrowy. Najdłuższa przerwa w ogłaszaniu
+      # aktów w Monitorze Polskim w 2025–2026 to 6 dni, więc brak nowego aktu przez 10 dni oznacza awarię.
+      - name: Kontrola świeżości
+        run: |
+          python - <<'EOF'
+          import csv, datetime as dt, sys
+          last = max(r["promulgation"] for r in csv.DictReader(open("index.csv", encoding="utf-8")))
+          age = (dt.date.today() - dt.date.fromisoformat(last)).days
+          print(f"Najnowszy akt w indeksie ogłoszono {last} ({age} dni temu).")
+          sys.exit(1 if age > 10 else 0)
+          EOF

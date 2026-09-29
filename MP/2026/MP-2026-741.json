@@ -1,0 +1,304 @@
+{
+ "eli": "MP/2026/741",
+ "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 23 lipca 2026 r. w sprawie górnych granic stawek kwotowych podatków i opłat lokalnych na rok 2027",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/741/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW I GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 lipca 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie górnych granic stawek kwotowych podatków i opłat lokalnych na rok 2027"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 2 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2025 r. poz. 707) ogłasza się górne granice stawek kwotowych na rok 2027 określone w tej ustawie w:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "art. 5 ust. 1:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "pkt 1:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_1/lit_a/tir_1",
+       "text": "lit. a – 1,49 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_1/lit_a/tir_2",
+       "text": "lit. b – 7,35 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_1/lit_a/tir_3",
+       "text": "lit. c – 0,80 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "pkt_1/lit_a/tir_4",
+       "text": "lit. d – 4,85 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "pkt 2:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_1/lit_b/tir_1",
+       "text": "lit. a – 1,29 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_1/lit_b/tir_2",
+       "text": "lit. b – 36,49 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_1/lit_b/tir_3",
+       "text": "lit. c – 17,09 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "pkt_1/lit_b/tir_4",
+       "text": "lit. d – 7,47 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "pkt_1/lit_b/tir_5",
+       "text": "lit. e – 12,33 zł;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "art. 10 ust. 1:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "pkt 1:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_2/lit_a/tir_1",
+       "text": "lit. a – 1293,09 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_2/lit_a/tir_2",
+       "text": "lit. b – 2157,14 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_2/lit_a/tir_3",
+       "text": "lit. c – 2588,54 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "pkt 2 – 4939,57 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "pkt 3 – 3019,91 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "pkt 4:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_2/lit_d/tir_1",
+       "text": "lit. a – 3817,95 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_2/lit_d/tir_2",
+       "text": "lit. b – 4939,57 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "pkt 5 – 2588,54 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_2/lit_f",
+     "text": "pkt 6:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_2/lit_f/tir_1",
+       "text": "lit. a – 3019,91 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_2/lit_f/tir_2",
+       "text": "lit. b – 3817,95 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_2/lit_g",
+     "text": "pkt 7:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_2/lit_g/tir_1",
+       "text": "lit. a – 3056,57 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_2/lit_g/tir_2",
+       "text": "lit. b – 3864,33 zł;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "art. 19 pkt 1:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "lit. a – 1208,45 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "lit. b – 3,56 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "lit. c – 5,03 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_3/lit_d",
+     "text": "lit. d – 6,86 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_3/lit_e",
+     "text": "lit. f – 191,32 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_3/lit_f",
+     "text": "lit. g – 4,00 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_3/lit_g",
+     "text": "lit. h – 0,37 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów i Gospodarki: wz. J. Drop"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów i Gospodarki kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997)."
+ }
+}

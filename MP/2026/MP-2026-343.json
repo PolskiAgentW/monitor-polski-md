@@ -1,0 +1,2321 @@
+{
+ "eli": "MP/2026/343",
+ "title": "Uchwała nr 93 Rady Ministrów z dnia 12 marca 2026 r. zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Program inwestycyjny modernizacji podmiotów leczniczych\"",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/343/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 93"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 marca 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą „Program inwestycyjny modernizacji podmiotów leczniczych”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889 oraz z 2025 r. poz. 1739) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 173 Rady Ministrów z dnia 16 sierpnia 2022 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą „Program inwestycyjny modernizacji podmiotów leczniczych” (M.P. poz. 908) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Łączna kwota środków z Funduszu Medycznego w okresie realizacji Programu wyniesie 5 100 mln zł.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "rozdział I „Informacje ogólne” otrzymuje brzmienie określone w załączniku nr 1 do niniejszej uchwały,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w rozdziale III „Wsparcie rozwoju infrastruktury udzielania świadczeń opiekuńczo-leczniczych”:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_b/tir_1",
+         "text": "część poprzedzająca podrozdział III.1. „Planowane interwencje” oraz podrozdział III.1. „Planowane interwencje” otrzymują brzmienie określone w załączniku nr 2 do niniejszej uchwały,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_b/tir_2",
+         "text": "w podrozdziale III.4. „Opieka długoterminowa”:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_1/pkt_2/lit_b/tir_2/tir_1",
+           "text": "w części poprzedzającej podrozdział III.4.1. „Diagnoza obecnego potencjału” skreśla się zdanie „Z uwagi na planowany zakres wsparcia w niniejszym dokumencie skupiono się na opiece długoterminowej realizowanej w warunkach stacjonarnych.”,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_1/pkt_2/lit_b/tir_2/tir_2",
+           "text": "w podrozdziale III.4.3. „Cel interwencji w obszarze opieki długoterminowej” skreśla się punkt „Przez interwencję w ramach Programu planujemy utworzyć około 15 tys. łóżek. Pozostałe potrzeby planuje się zabezpieczyć w ramach działań finansowanych z innych środków będących w dyspozycji Ministra Zdrowia.”,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_2/lit_b/tir_3",
+         "text": "w podrozdziale III.5. „Geriatria” w podrozdziale III.5.3. „Cel interwencji w obszarze geriatrii”:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_1/pkt_2/lit_b/tir_3/tir_1",
+           "text": "skreśla się zdanie „Interwencją w ramach Programu planuje się objąć 40% zapotrzebowania na dodatkowe łóżka, wyliczonego na bazie kolejek (40% z 2502 osób oczekujących na przyjęcie do oddziału geriatrii w trybie zarówno pilnym, jak i stabilnym).”,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_1/pkt_2/lit_b/tir_3/tir_2",
+           "text": "skreśla się punkt „Obecnie placówki dysponują 1208 łóżkami w oddziałach geriatrycznych, a więc zwiększenie liczby łóżek o 40% z oszacowanego zapotrzebowania pozwoli na podwojenie obecnej bazy miejsc w opiece geriatrycznej, dzięki czemu zwiększy się liczba łóżek na oddziałach geriatrii przynajmniej o około 1000 łóżek (40% z 2502).”,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "par_1/pkt_2/lit_b/tir_4",
+         "text": "po podrozdziale III.5. „Geriatria” dodaje się podrozdział III.5a. „Centrum Zdrowia 75+” w brzmieniu określonym w załączniku nr 3 do niniejszej uchwały,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "5",
+         "path": "par_1/pkt_2/lit_b/tir_5",
+         "text": "podrozdział III.7. „Oczekiwany rezultat” otrzymuje brzmienie określone w załączniku nr 4 do niniejszej uchwały,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "6",
+         "path": "par_1/pkt_2/lit_b/tir_6",
+         "text": "skreśla się podrozdział III.8. „Wskaźniki” oraz podrozdział III.9. „Budżet”,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "w rozdziale IV „Wymiana łóżek szpitalnych”:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_c/tir_1",
+         "text": "w podrozdziale IV.4. „Cel interwencji” skreśla się punkt „Dzięki wsparciu Funduszu Medycznego, planowana jest wymiana na nowe 75% najstarszych łóżek szpitalnych (mających 12 lat i starszych) – tj. około 90 tys. łóżek (75% z 120 tys. łóżek). Zakłada się, że 5%, tj. 4,5 tys. wymienianych łóżek, będą stanowić łóżka intensywnej opieki medycznej.”,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_c/tir_2",
+         "text": "skreśla się podrozdział IV.5. „Wskaźniki” oraz podrozdział IV.6. „Budżet”,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_2/lit_d",
+       "text": "w rozdziale V „Wsparcie infrastruktury ratownictwa medycznego”:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_d/tir_1",
+         "text": "część poprzedzająca podrozdział V.1. „Planowane interwencje” oraz podrozdział V.1. „Planowane interwencje” otrzymują brzmienie określone w załączniku nr 5 do niniejszej uchwały,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_d/tir_2",
+         "text": "w podrozdziale V.2. „Diagnoza obecnego potencjału” w części „STAN INFRASTRUKTURY SZPITALNYCH ODDZIAŁÓW RATUNKOWYCH I CENTRÓW URAZOWYCH” skreśla się akapit „Wsparte zostają także istniejące jednostki systemu (SOR) i jednostki współpracujące z systemem (CU) w celu poprawy jakości udzielanych świadczeń zdrowotnych i dostępności do nich oraz efektywności systemu ratownictwa medycznego. Ponadto tworzone są dodatkowe centra urazowe, co pozwoli na zwiększenie skuteczności udzielania świadczeń ratowniczych w przedziale do jednej godziny od chwili wystąpienia obrażeń mnogich u poszkodowanych.”,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_2/lit_d/tir_3",
+         "text": "podrozdział V.3. „Wyzwania” oraz podrozdział V.4. „Cel interwencji” otrzymują brzmienie określone w załączniku nr 6 do niniejszej uchwały,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "par_1/pkt_2/lit_d/tir_4",
+         "text": "skreśla się rozdziały V.5. „Wskaźniki” oraz V.6. „Budżet”,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_2/lit_e",
+       "text": "po rozdziale V „Wsparcie infrastruktury ratownictwa medycznego” dodaje się rozdział Va „Opieka paliatywna i hospicyjna” oraz rozdział Vb „Wsparcie procesów konsolidacyjnych w podmiotach leczniczych – „Zdrowy szpital – bezpieczny pacjent” ” w brzmieniu określonym w załączniku nr 7 do niniejszej uchwały,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_2/lit_f",
+       "text": "rozdział VI „Ramy finansowe” oraz rozdział VII „Monitoring Programu i ocena stopnia osiągnięcia celów Programu” otrzymują brzmienie określone w załączniku nr 8 do niniejszej uchwały.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały nr 93 Rady Ministrów z dnia 12 marca 2026 r. (M.P. poz. 343) Załącznik nr 1",
+   "body": [
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Informacje ogólne"
+    },
+    {
+     "type": "text",
+     "text": "Jednym z kluczowych elementów systemu ochrony zdrowia, wpływającym na jakość i dostępność udzielanych świadczeń, jest stan infrastruktury ochrony zdrowia zarówno budowlanej, jak i sprzętowej. Dzięki ciągłemu rozwojowi technologii medycznych, zakup nowoczesnych wyrobów medycznych zwiększa możliwości diagnostyczne i terapeutyczne, a także pozwala na tworzenie nowych procedur i terapii przez wiodące ośrodki naukowo-badawcze. Powyższe powoduje konieczność stworzenia mechanizmów finansowych do podjęcia pilnych i skoordynowanych działań zapewniających zarówno budowę, modernizację, przebudowę infrastruktury budowlanej, jak i systematyczne uzupełnianie i odnawianie wyposażenia podmiotów leczniczych. Aby zapewnić wzajemną spójność i komplementarność inwestycji w sektorze ochrony zdrowia, zasadne jest podejmowanie ich z poziomu centralnego."
+    },
+    {
+     "type": "text",
+     "text": "Program Inwestycyjny Modernizacji Podmiotów Leczniczych (dalej: „Program”) to program inwestycyjny, którego celem jest poprawa jakości i dostępności świadczeń opieki zdrowotnej oraz bezpieczeństwa udzielania świadczeń opieki zdrowotnej przez inwestycje w infrastrukturę ochrony zdrowia. Program realizowany jest w ramach subfunduszu modernizacji podmiotów leczniczych wyodrębnionego w strukturze Funduszu Medycznego – mechanizmu finansowego, ustanowionego na mocy ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889, z późn. zm.), zwanej dalej „ustawą o Funduszu Medycznym”, którego celem jest poprawa zdrowia i jakości życia w Rzeczypospolitej Polskiej przez zapewnienie dodatkowych źródeł finansowania w zakresie:"
+    },
+    {
+     "type": "text",
+     "text": "✓ profilaktyki, wczesnego wykrywania, diagnostyki i leczenia chorób cywilizacyjnych, w tym chorób nowotworowych, chorób zakaźnych i chorób rzadkich;"
+    },
+    {
+     "type": "text",
+     "text": "✓ infrastruktury ochrony zdrowia wpływającej na jakość i dostępność oraz bezpieczeństwo udzielanych świadczeń opieki zdrowotnej;"
+    },
+    {
+     "type": "text",
+     "text": "✓ dostępu do wysokiej jakości świadczeń opieki zdrowotnej;"
+    },
+    {
+     "type": "text",
+     "text": "✓ rozwoju systemu opieki zdrowotnej przez koncentrację działań wokół pacjenta i jego potrzeb, ze szczególnym uwzględnieniem poprawy jakości życia pacjentów i ich rodzin;"
+    },
+    {
+     "type": "text",
+     "text": "✓ świadczeń opieki zdrowotnej udzielanych osobom do ukończenia 18. roku życia;"
+    },
+    {
+     "type": "text",
+     "text": "✓ świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom poza granicami kraju."
+    },
+    {
+     "type": "text",
+     "text": "Subfundusz modernizacji podmiotów leczniczych to mechanizm finansowy, który został utworzony w wyniku zdiagnozowanych potrzeb w zakresie infrastruktury ochrony zdrowia. Wychodzi naprzeciw zidentyfikowanym potrzebom, a dzięki temu pozwala na poprawę konkretnych elementów systemu opieki zdrowotnej. Daje możliwość realizacji inwestycji w infrastrukturę budowlaną oraz jej wyposażenie, co przekładać się będzie na podniesienie komfortu i bezpieczeństwa udzielanych świadczeń opieki zdrowotnej."
+    },
+    {
+     "type": "text",
+     "text": "Celem subfunduszu modernizacji podmiotów leczniczych jest poprawa jakości opieki zdrowotnej i dostępności do niej oraz poprawa bezpieczeństwa udzielanych świadczeń przez inwestycje w infrastrukturę ochrony zdrowia."
+    },
+    {
+     "type": "text",
+     "text": "Dzięki środkom finansowym gromadzonym w Funduszu Medycznym możliwa będzie w ramach subfunduszu modernizacji realizacja zadań polegających na budowie, modernizacji, przebudowie i doposażeniu podmiotów leczniczych."
+    },
+    {
+     "type": "text",
+     "text": "PROGRAM MODERNIZACJI PODMIOTÓW LECZNICZYCH"
+    },
+    {
+     "type": "text",
+     "text": "Okres realizacji: 2022–2029."
+    },
+    {
+     "type": "text",
+     "text": "Szacunkowy budżet: 5 100 mln zł."
+    },
+    {
+     "type": "text",
+     "text": "Tryb wyboru inwestycji: konkursowy. Nabór wniosków będzie prowadzony w trybie zamkniętym, tj. z określoną datą początkową i końcową składania wniosków o dofinansowanie, zgodnie z rozdziałem 4 ustawy o Funduszu Medycznym."
+    },
+    {
+     "type": "text",
+     "text": "Działania w następujących obszarach:"
+    },
+    {
+     "type": "text",
+     "text": "✓ wsparcie rozwoju infrastruktury świadczeń opiekuńczo-leczniczych, świadczeń z zakresu opieki paliatywnej i hospicyjnej udzielanych w warunkach stacjonarnych,"
+    },
+    {
+     "type": "text",
+     "text": "✓ wsparcie centrów zdrowia 75+ (dalej: CZ75+), o których mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U. z 2024 r. poz. 1666, z późn. zm.), ✓ wymiana łóżek szpitalnych,"
+    },
+    {
+     "type": "text",
+     "text": "✓ wsparcie procesów konsolidacyjnych podmiotów leczniczych,"
+    },
+    {
+     "type": "text",
+     "text": "✓ wsparcie infrastruktury ratownictwa medycznego."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "Przez wsparcie rozwoju infrastruktury udzielania świadczeń opiekuńczo-leczniczych są rozumiane interwencje skierowane do podmiotów leczniczych udzielających świadczeń opieki zdrowotnej finansowanych ze środków publicznych w zakresie:"
+    },
+    {
+     "type": "text",
+     "text": "✓ leczenia szpitalnego – geriatria oraz świadczenia opieki geriatrycznej udzielanej poza oddziałami geriatrycznymi,"
+    },
+    {
+     "type": "text",
+     "text": "✓ opieki długoterminowej – świadczenia pielęgnacyjne i opiekuńcze w warunkach stacjonarnych i domowych,"
+    },
+    {
+     "type": "text",
+     "text": "✓ leczenia w ramach CZ75+."
+    },
+    {
+     "type": "text",
+     "text": "Zakłada się, że cel subfunduszu modernizacji podmiotów leczniczych w tym obszarze będzie osiągany dzięki realizacji szeregu działań nakierowanych w szczególności na niżej wymienione planowane interwencje."
+    },
+    {
+     "type": "text",
+     "text": "III.1. Planowane interwencje"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wsparcie rozwoju infrastruktury podmiotów leczniczych przekształcających oddziały szpitalne lub ich części w:",
+     "children": [
+      {
+       "type": "text",
+       "text": "A. oddziały geriatryczne udzielające stacjonarnych świadczeń w rodzaju leczenie szpitalne w zakresie: geriatria;"
+      },
+      {
+       "type": "text",
+       "text": "B. struktury opieki długoterminowej w ramach, której udzielane będą stacjonarne i domowe świadczenia pielęgnacyjne i opiekuńcze finansowane ze środków publicznych."
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie obejmuje: roboty budowlane, doposażenie w aparaturę i sprzęt medyczny oraz niezbędne wyposażenie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wsparcie podmiotów leczniczych udzielających świadczeń finansowanych ze środków publicznych w rodzaju:",
+     "children": [
+      {
+       "type": "text",
+       "text": "A. leczenie szpitalne w zakresie: geriatria oraz świadczenia opieki geriatrycznej udzielanej poza oddziałami geriatrycznymi;"
+      },
+      {
+       "type": "text",
+       "text": "B. opieka długoterminowa w ramach stacjonarnych i domowych świadczeń pielęgnacyjnych i opiekuńczych."
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie obejmuje: roboty budowlane, doposażenie w aparaturę i sprzęt medyczny oraz niezbędne wyposażenie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wsparcie rozwoju infrastruktury podmiotów leczniczych tworzących nowe oddziały lub struktury, w których ze środków publicznych udzielane będą świadczenia w rodzaju:",
+     "children": [
+      {
+       "type": "text",
+       "text": "A. leczenie szpitalne w zakresie: geriatria;"
+      },
+      {
+       "type": "text",
+       "text": "B. opieka długoterminowa – świadczenia pielęgnacyjne i opiekuńcze."
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie obejmuje: roboty budowlane, doposażenie w aparaturę i sprzęt medyczny oraz niezbędne wyposażenie."
+      },
+      {
+       "type": "text",
+       "text": "W ramach wsparcia w zakresie geriatrii dopuszcza się podejmowanie działań ukierunkowanych na tworzenie poradni specjalistycznych oraz oddziałów dziennej opieki – jako dopełnienie kompleksowości opieki świadczonej przez podmiot leczniczy lub samodzielną interwencję w zakresie geriatrii."
+      },
+      {
+       "type": "text",
+       "text": "Przewidziane w Programie interwencje wpisują się w założenia i działania Krajowego Planu Transformacji przez realizację wsparcia w zakresie zgodnym z Działaniem 2.6.5, tj. 1. Wsparcie rozwoju infrastruktury podmiotów leczniczych przekształcających oddziały szpitalne lub ich części, w których ze środków publicznych udzielane będą stacjonarne świadczenia w zakresie geriatrii i opieki długoterminowej. 2. Wsparcie rozwoju infrastruktury podmiotów leczniczych tworzących oddziały opieki długoterminowej."
+      },
+      {
+       "type": "text",
+       "text": "Szczegółowy zakres każdego naboru oraz wymogi jakie będzie musiał spełnić wnioskodawca w celu uzyskania dofinansowania zostaną przedstawione w regulaminach poszczególnych naborów."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "III.5a.Centrum Zdrowia 75+"
+    },
+    {
+     "type": "text",
+     "text": "✓ Brakuje podmiotów leczniczych, które mogły udzielać świadczeń opieki zdrowotnej uwzględniających cechy charakterystyczne dla kondycji zdrowotnej osób starszych z wielochorobowością, schorzeniami przewlekłymi i licznymi dolegliwościami. Obecnie pacjenci muszą oczekiwać na konsultacje u wielu lekarzy specjalistów. Wdrożone liczne terapie, w tym lekowe, wywołują niejednokrotnie interakcje mogące skutkować niekorzystnymi efektami, nawet zagrażającymi zdrowiu pacjenta (polipragmazja)."
+    },
+    {
+     "type": "text",
+     "text": "✓ Obecnie realizowany model licznych konsultacji specjalistycznych i rozproszonej diagnostyki starszego pacjenta jest mało efektywny."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zgodnie z danymi Narodowego Funduszu Zdrowia w ambulatoryjnej opiece specjalistycznej w 2024 r. udzielono łącznie 35,7 mln porad pacjentom w wieku 65 lat i więcej. Najwięcej świadczeń opieki zdrowotnej zrealizowano w zakresie okulistyki (12 %), kardiologii (11 %), chirurgii urazowo-ortopedycznej (9 %), chirurgii ogólnej (7 %) oraz urologii (7 %) i neurologii (6 %). Świadczenia opieki zdrowotnej w zakresie geriatrii stanowiły 0,2 % ogółu porad specjalistycznych dla tej grupy wiekowej."
+    },
+    {
+     "type": "text",
+     "text": "✓ W skali kraju brakuje poradni geriatrycznych. W 2024 r. działało 111 poradni geriatrycznych, o 10 więcej niż w 2022 r. W większości z 314 powiatów nie było dostępu do poradni geriatrycznej. Najwięcej poradni o tym profilu w 2024 r. funkcjonowało w województwach: śląskim (21), mazowieckim (15), małopolskim (11), zaś najmniej w województwach podkarpackim i podlaskim (po 3) oraz świętokrzyskim i warmińsko-mazurskim (po 2)."
+    },
+    {
+     "type": "text",
+     "text": "✓ W Rzeczypospolitej Polskiej brakuje także geriatrów. Liczba pracujących geriatrów w 2024 r. była równa 559 (stan na ostatni kwartał roku). Statystyki zamieszczone na stronie internetowej Naczelnej Izby Lekarskiej wskazują, że dnia 31 grudnia 2025 r. w kraju było 607 geriatrów, w tym 594 z nich wykonywało swój zawód. Młodzi lekarze nie wyrażają zainteresowania geriatrią, postrzegając ten kierunek jako mało atrakcyjny, nisko wyceniany i mało perspektywiczny z powodu znikomego rozwoju infrastruktury w podmiotach leczniczych."
+    },
+    {
+     "type": "text",
+     "text": "✓ Ograniczona dostępność do świadczeń opieki zdrowotnej powoduje, że pacjent w wieku starszym jest zbyt często hospitalizowany, a brak powszechności dokonywania oceny geriatrycznej (dokonywana jest głównie podczas hospitalizacji) uniemożliwia wcześniejsze rozpoznanie problemów zdrowotnych i zapobieganie ich pogłębianiu."
+    },
+    {
+     "type": "text",
+     "text": "✓ Wsparcie zdrowotne dla osób starszych w zbyt małym stopniu opiera się na profilaktyce."
+    },
+    {
+     "type": "text",
+     "text": "✓ Opieka koordynowana została wprowadzona w POZ dla pacjentów ze schorzeniami z zakresu: kardiologii, diabetologii, chorób płuc, endokrynologii, chorób nerek. Nie obejmuje kompleksowego podejścia do opieki nad starszym pacjentem zagrożonym wielochorobowością i jej skutkami."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zaspokojenie potrzeb szybko rosnącej grupy osób w wieku podeszłym wymaga przygotowania odpowiedniej infrastruktury, świadczeń opieki zdrowotnej, a przede wszystkim kadr medycznych i opiekuńczych."
+    },
+    {
+     "type": "text",
+     "text": "✓ Specyfika procesu chorowania i powrotu do utraconych funkcjonalności u osób starszych wymaga wielokierunkowego podejścia i koordynacji wsparcia."
+    },
+    {
+     "type": "text",
+     "text": "✓ Niezbędne jest ustalenie właściwej ścieżki leczenia i koordynacja tego procesu. Osoby starsze bywają zagubione, niektóre doświadczają chorób otępiennych i niezbędne jest udzielenie im dodatkowego wsparcia w samym dotarciu do kolejnych świadczeń opieki zdrowotnej."
+    },
+    {
+     "type": "text",
+     "text": "✓ Na konieczność podjęcia polityki aktywnego wspierania zdrowia seniorów, tzw. healthy ageing, wyraźnie wskazuje zbyt wolne wydłużanie fazy życia, w której osoby starsze w Rzeczypospolitej Polskiej mogą cieszyć się dobrym stanem zdrowia."
+    },
+    {
+     "type": "text",
+     "text": "✓ Lekarze POZ nie posiadają wystarczających narzędzi, czasu, a często również kompetencji do kompleksowej opieki nad starszym pacjentem. Regularne kierowanie pacjenta do szeregu specjalistów nie zapewnia odpowiedniej opieki (długi czas oczekiwania, segmentacja leczenia, brak koordynacji)."
+    },
+    {
+     "type": "text",
+     "text": "✓ Konieczność rozwoju sieci oddziałów geriatrycznych w celu zapewnienia starszym pacjentom z wielochorobowością holistycznego wsparcia i tworzenie warunków sprzyjających zwiększeniu liczby lekarzy ze specjalizacją w dziedzinie geriatrii (miejsca szkoleniowe i miejsca pracy)."
+    },
+    {
+     "type": "text",
+     "text": "✓ Brakuje kanałów komunikacji pomiędzy poszczególnymi elementami systemu wsparcia dla osób starszych z problemami zdrowotnymi, w tym komunikacji między POZ, poradniami specjalistycznymi, szpitalem i systemem pomocy społecznej. W konsekwencji koordynacja procesu leczenia spada albo na pacjenta, albo na jego rodzinę, a brak przejrzystych i łatwo dostępnych praktycznych informacji o dostępnym wsparciu proces ten bardzo komplikuje."
+    },
+    {
+     "type": "text",
+     "text": "✓ Brak skoordynowanego wsparcia w środowisku dla osób starszych (szczególnie samotnych) po zakończonej hospitalizacji (w szczególności rehabilitacji, na którą oferowany byłby dowóz) powoduje, iż następuje cofnięcie efektów leczenia i starsi pacjenci często wracają na oddział szpitalny."
+    },
+    {
+     "type": "text",
+     "text": "✓ Interwencje będą ukierunkowane na wsparcie organizacji CZ75+ przez budowę, modernizację, przebudowę i doposażenie podmiotów leczniczych."
+    },
+    {
+     "type": "text",
+     "text": "✓ Organizacja CZ75+ ma na celu udostępnienie skoordynowanej opieki medycznej dla pacjentów geriatrycznych w celu ustabilizowania ich stanu zdrowia oraz umożliwienia dalszego autonomicznego funkcjonowania w dotychczasowym środowisku. Głównym celem wdrożenia koncepcji CZ75+ jest upowszechnienie opieki geriatrycznej i wsparcie procesu deinstytucjonalizacji opieki nad starszym pacjentem."
+    },
+    {
+     "type": "text",
+     "text": "✓ Wprowadzenie realizacji kompleksowego wsparcia zdrowotnego dla osób starszych (przeprowadzenie diagnozy geriatrycznej, identyfikacja problemów geriatrycznych, stworzenie planu leczenia i pomoc w realizacji kolejnych kroków tego planu). Kompleksowe spojrzenie na zdrowie seniora stworzy możliwość rozwiązywania problemów medycznych wykraczających poza jedną gałąź medycyny i wydłużenie okresu życia w zdrowiu."
+    },
+    {
+     "type": "text",
+     "text": "✓ Upowszechnienie realizacji oceny geriatrycznej pacjentów w podeszłym wieku w celu wsparcia procesu wczesnego diagnozowania pod kątem ryzyka wystąpienia problemów geriatrycznych."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zapobieganie zbędnym hospitalizacjom i oddalenie konieczności kierowania pacjenta do różnych form opieki długoterminowej przez udostępnienie dodatkowego wsparcia w ramach opieki ambulatoryjnej. Pobyt w podmiocie leczniczym całodobowym powinien być rozważany w ostateczności, jako że ta forma jest radykalną zmianą modelu funkcjonowania człowieka, a ponadto opcją bardzo kosztowną."
+    },
+    {
+     "type": "text",
+     "text": "✓ Tworzenie zachęt do wyboru specjalizacji geriatrycznej i wzrost liczby lekarzy o tej specjalności. Nowe oddziały geriatryczne i CZ75+ będą zwiększać liczbę miejsc szkoleniowych oraz oferować realne możliwości sprawowania opieki nad pacjentami, co umożliwi zdobywanie doświadczenia opieki zdrowotnej."
+    },
+    {
+     "type": "text",
+     "text": "✓ Objęcie osób starszych i osób z niepełnosprawnościami po pobycie w szpitalu (na oddziale geriatrycznym lub innym) szczególnym wsparciem i monitoringiem w celu ograniczenia ryzyka pogłębienia się problemów zdrowotnych."
+    },
+    {
+     "type": "text",
+     "text": "✓ Obniżenie wskaźnika ponownych hospitalizacji oraz odciążenie oddziałów szpitalnych w zapewnianiu opieki i rehabilitacji usprawniającej w ramach CZ75+."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zapewnienie w szerszym zakresie rehabilitacji geriatrycznej, która pozwoli na przywrócenie sprawności funkcjonalnej osoby w podeszłym wieku i umożliwi powrót do środowiska domowego."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zapewnienie koncyliacji lekowej i zapobieganie skutkom polipragmazji u starszych pacjentów z wielochorobowością."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zapewnienie działań profilaktycznych i promocji zdrowia dostosowanych do potrzeb osób uprawnionych, w tym mających na celu zapobieganie niepełnosprawności i niesamodzielności tych osób."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zapewnienie starszym pacjentom, którzy zostaną zakwalifikowani do CZ75+, wsparcia ze strony koordynatora opieki geriatrycznej, który powinien uczestniczyć w konsylium podsumowującym diagnozę, a następnie wspierać pacjenta, planując proces leczenia i jego realizację."
+    },
+    {
+     "type": "text",
+     "text": "✓ Informowanie o zasadach korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych oraz zasadach korzystania ze świadczeń pomocy społecznej i usług społecznych realizowanych przez ośrodki pomocy społecznej i centra usług społecznych działające na obszarze działania CZ75+."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zapewnienie edukacji zdrowotnej pacjentom CZ75+ oraz ich opiekunom."
+    },
+    {
+     "type": "text",
+     "text": "✓ Zapewnienie wsparcia psychologicznego pacjentom CZ75+."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "III.7. Oczekiwany rezultat"
+    },
+    {
+     "type": "text",
+     "text": "✓ Dzięki dedykowanemu wsparciu, planowane jest przekształcenie części łóżek w oddziałach szpitalnych o niskim obłożeniu na łóżka w oddziałach geriatrycznych i łóżka opieki długoterminowej, w celu zwiększenia dostępności do świadczeń z ww. zakresów, poprawy ich jakości oraz zapewnienia kompleksowości opieki geriatrycznej. Zwiększenie bazy stacjonarnej wpłynie na zmniejszenie czasu oczekiwania na udzielanie świadczenia i w konsekwencji spowoduje obniżenie kosztów realizacji świadczeń opieki zdrowotnej."
+    },
+    {
+     "type": "text",
+     "text": "✓ W konsekwencji zwiększenia liczby łóżek i oddziałów zmniejszą się dysproporcje w dostępie do świadczeń opieki zdrowotnej udzielanych blisko miejsca zamieszkania pacjenta – zniwelowane zostaną różnice w dostępności do świadczeń między województwami."
+    },
+    {
+     "type": "text",
+     "text": "✓ Interwencje umożliwią z wyprzedzeniem przygotowanie systemu opieki zdrowotnej do zwiększającej się liczby starszych pacjentów i udzielania im kosztochłonnych, ciągłych świadczeń opieki długoterminowej i geriatrycznej."
+    },
+    {
+     "type": "text",
+     "text": "✓ Poprawa istniejących zasobów podmiotów leczniczych zwiększy bezpieczeństwo zdrowotne pacjenta i wpłynie pozytywnie na efekty zastosowanego leczenia, a także umożliwi dalszy rozwój i specjalizację podmiotów leczniczych w kierunku kompleksowej, koordynowanej opieki nad pacjentem geriatrycznym. W ramach wsparcia planuje się wsparcie infrastrukturalne około 70 podmiotów."
+    },
+    {
+     "type": "text",
+     "text": "✓ Inwestycje w infrastrukturę umożliwią sprawowanie opieki nad seniorami zgodnie ze standardami leczenia geriatrycznego, a także stworzą warunki do kształcenia ustawicznego i tworzenia nowych miejsc specjalizacyjnych i miejsc pracy dla przyszłych lekarzy geriatrów."
+    },
+    {
+     "type": "text",
+     "text": "✓ Uzupełnieniem wsparcia infrastruktury bazy łóżkowej dla pacjentów geriatrycznych są inwestycje w ambulatoryjną opiekę specjalistyczną oraz oddziały opieki dziennej, które stanowią dopełnienie kompleksowości opieki świadczonej przez podmiot leczniczy pacjentom i powyższych interwencji w zakresie geriatrii."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "Przez wsparcie rozwoju infrastruktury ratownictwa medycznego rozumiane są interwencje skierowane do podmiotów leczniczych, w których skład wchodzą:"
+    },
+    {
+     "type": "text",
+     "text": "✓ jednostki systemu – Państwowe Ratownictwo Medyczne (PRM): zespoły ratownictwa medycznego, w tym lotnicze zespoły ratownictwa medycznego oraz motocyklowe jednostki ratunkowe, wchodzące w skład podmiotu leczniczego będącego samodzielnym publicznym zakładem opieki zdrowotnej albo jednostką budżetową, albo spółką kapitałową, w której co najmniej 51 % udziałów albo akcji należy do Skarbu Państwa lub jednostki samorządu terytorialnego oraz szpitalne oddziały ratunkowe."
+    },
+    {
+     "type": "text",
+     "text": "Zakłada się, że cel subfunduszu modernizacji podmiotów leczniczych w tym obszarze będzie osiągany dzięki realizacji szeregu działań nakierowanych w szczególności na niżej wymienione interwencje, skierowane do jednostek systemu PRM¹."
+    },
+    {
+     "type": "text",
+     "text": "V.1. Planowane interwencje"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wsparcie rozwoju infrastruktury podmiotów leczniczych udzielających świadczeń finansowanych ze środków publicznych z zakresu ratownictwa medycznego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wsparcie obejmuje:"
+      },
+      {
+       "type": "text",
+       "text": "A. zakup ambulansów dla zespołów ratownictwa medycznego (ZRM) zgodnych z normą PN:EN 1789 wraz z dodatkowym wyposażeniem – w szczególności wsparcie obejmuje zakup ambulansów wraz z podstawowym wyposażeniem wskazanym w normie PN:EN 1789 oraz dodatkowym, niezbędnym do zapewnienia wysokiej jakości i bezpieczeństwa świadczeń zdrowotnych, np. zakup urządzeń do kompresji klatki piersiowej, urządzeń do transportu chorych, noszy, wideolaryngoskopów itd.;"
+      },
+      {
+       "type": "text",
+       "text": "B. budowę, modernizację, przebudowę i doposażenie infrastruktury śmigłowcowej oraz zaplecza naziemnego na potrzeby działań ratowniczych i szkoleniowych lotniczych zespołów ratownictwa medycznego (LZRM), tj. LPR – w szczególności wsparcie obejmuje zakup śmigłowców, zabezpieczenie zaplecza szkoleniowego, a także budowę, modernizację, przebudowę i doposażenie zaplecza naziemnego przez budowę bazy HEMS."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wsparcie rozwoju infrastruktury podmiotów leczniczych udzielających świadczeń finansowanych ze środków publicznych z zakresu leczenia szpitalnego, w których skład wchodzą jednostki systemu PRM – szpitalne oddziały ratunkowe (SOR).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wsparcie obejmuje: roboty budowlane, doposażenie w aparaturę i sprzęt medyczny oraz niezbędne wyposażenie."
+      },
+      {
+       "type": "text",
+       "text": "W ramach interwencji wymienionych w pkt 2 dopuszcza się także tworzenie całodobowych lądowisk przy szpitalnych oddziałach ratunkowych lub dostosowanie obecnych do funkcjonowania całodobowo – jako dopełnienie kompleksowości opieki przedszpitalnej i szpitalnej świadczonej pacjentom w stanach zagrożenia zdrowia i życia."
+      },
+      {
+       "type": "text",
+       "text": "Szczegółowy zakres każdego naboru oraz wymogi jakie będzie musiał spełnić wnioskodawca w celu uzyskania dofinansowania zostaną przedstawione w regulaminach poszczególnych konkursów."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6",
+   "body": [
+    {
+     "type": "text",
+     "text": "V.3. Wyzwania"
+    },
+    {
+     "type": "text",
+     "text": "Mimo znaczącej poprawy wyposażenia i funkcjonowania dotychczasowej infrastruktury ratownictwa medycznego, nadal istnieją potrzeby doposażenia, wymiany sprzętu i modernizacji infrastruktury jednostek systemu, na każdym etapie udzielania pomocy w stanie nagłym w ramach łańcucha przeżycia."
+    },
+    {
+     "type": "text",
+     "text": "Jednostki systemu – PRM wymagają wzmocnienia na etapie zarówno pozaszpitalnym, czyli w zakresie wyposażenia zespołów ratownictwa medycznego w środki transportu sanitarnego (ambulanse, śmigłowce), jak i szpitalnym, czyli w odniesieniu do SOR."
+    },
+    {
+     "type": "text",
+     "text": "Ambulanse są specjalistycznym środkiem transportu sanitarnego, spełniającym cechy techniczne i jakościowe określone w Polskich Normach przenoszących europejskie normy zharmonizowane. Są podstawową infrastrukturą użytkowaną w opiece przedszpitalnej, muszą działać niezawodnie w każdym terenie i w każdych warunkach atmosferycznych, zapewniając jednocześnie komfort użytkowania zarówno dla ZRM, jak i dla pacjenta."
+    },
+    {
+     "type": "text",
+     "text": "Jak pokazują powyższe dane techniczne dotyczące eksploatacji ambulansu jako pojazdu oraz zużycia sprzętu, zasadna jest wymiana ambulansu po 5 latach użytkowania z uwagi na zwiększającą się znacznie po tym okresie awaryjność infrastruktury. Pojazdy te z racji intensywnej eksploatacji częściej podlegają rutynowej konserwacji i wymianie części, a także są wyłączane czasowo z użytkowania w przypadku konieczności przeprowadzenia gruntownej dezynfekcji po zdarzeniach z udziałem czynnika zakaźnego. Powyższe jasno wskazuje na konieczność wymiany wyeksploatowanej i przestarzałej floty ambulansów, co umożliwi zapewnienie ciągłości i niezawodności działania opieki przedszpitalnej w ramach systemu PRM."
+    },
+    {
+     "type": "text",
+     "text": "Wyroby medyczne będące na wyposażeniu jednostek systemu PRM, w tym LPR, również wymagają wymiany na nowsze modele. Powszechnie przyjęta żywotność wyrobów medycznych to 8–10 lat. Częściowo wyeksploatowane wyroby wymagają intensywnego i niejednokrotnie kosztownego serwisu technicznego. Nowe modele urządzeń w stosunku do poprzednich mają wprowadzone innowacyjne rozwiązania techniczne, są dostosowane do bieżących potrzeb użytkowników, co pozwala na rozszerzenie diagnostyki pacjentów w pomocy przedszpitalnej i zwiększenie bezpieczeństwa wykonywanych interwencji systemu PRM."
+    },
+    {
+     "type": "text",
+     "text": "Zakup nowoczesnych śmigłowców LPR zwiększa możliwości w zakresie konieczności szybkiej pomocy i diagnostyki w stanie nagłego zagrożenia zdrowotnego na pokładzie śmigłowca. Z uwagi na coraz częstsze dysponowanie zespołów LPR w miejsca zdarzeń nagłych i całodobową gotowość do pomocy, sprzęt ten ulega szybkiemu zużyciu w wyniku intensywnej eksploatacji w trudnych warunkach. Zasadne jest skierowanie wsparcia również celem zakupu nowych śmigłowców dla LZRM, wraz z dostosowaniem infrastruktury do warunków częstych lotów i całodobowej służby."
+    },
+    {
+     "type": "text",
+     "text": "Oprócz wsparcia opieki na miejscu zdarzenia, nacisk powinien zostać położony również na wsparcie opieki szpitalnej – mając na uwadze, że to właśnie po zabezpieczeniu pacjenta na miejscu zdarzenia w SOR prowadzone są procedury diagnostyczne decydujące o dalszej sprawności i warunkujące przeżycie oraz udzielane są nierzadko wysokospecjalistyczne świadczenia. Użytkowane wyroby medyczne muszą zapewniać wszechstronność działania, łatwość obsługi, a także możliwość wdrożenia właściwego leczenia już na etapie początkowej opieki."
+    },
+    {
+     "type": "text",
+     "text": "Równocześnie infrastruktura SOR i organizacja jego przestrzeni wpływa na jakość i bezpieczeństwo udzielanych świadczeń. Tym samym każdy SOR powinien być umiejscowiony w przestronnych, łatwych w utrzymaniu czystości pomieszczeniach, jednocześnie zapewniających dostęp do infrastruktury dostarczającej gazy medyczne oraz mieszczących niezbędny sprzęt ratunkowy – co mając na uwadze obecny stan większości infrastruktury podmiotów leczniczych, zlokalizowanych w budynkach w większości kilkudziesięcioletnich, stanowi wyzwanie dla systemu ochrony zdrowia i kadry zarządzającej podmiotami."
+    },
+    {
+     "type": "text",
+     "text": "Warunki określone dla SOR jasno wskazują, że każdy SOR powinien również dysponować bezpośrednio przy nim zlokalizowanym odpowiednim lądowiskiem lub lotniskiem dla śmigłowca ratunkowego, celem sprawnego przekazania pacjenta – zgodnie z obecnym prawodawstwem każdy SOR powinien spełnić ten wymóg do końca 2026 r. Mając na uwadze, że zapewnienie lądowiska umożliwia udzielenie kompleksowej pomocy i znacznie skraca czas dostępu pacjenta w stanie nagłym do opieki szpitalnej, jest konieczne dalsze wspieranie SOR w dostosowywaniu obecnie funkcjonujących lądowisk do całodobowej gotowości i w dążeniu do spełnienia wymagań technicznych, a także tworzenie nowych lądowisk w jednostkach ich nieposiadających."
+    },
+    {
+     "type": "text",
+     "text": "Powyższe przepisy oraz warunki działalności oddziałów ratunkowych wskazują na potrzebę dalszych prac w zakresie budowy, modernizacji, przebudowy i doposażenia SOR w celu dostosowania całości infrastruktury SOR do zwiększających się wymagań projakościowych celem umożliwienia prawidłowego i niezakłóconego ich funkcjonowania, co stanowi wyzwanie pod względem zarówno organizacyjnym, jak i finansowym dla podmiotów leczniczych, w których działają SOR."
+    },
+    {
+     "type": "text",
+     "text": "Wsparcie poszczególnych jednostek systemu PRM pozwala nie tylko zwiększać jego efektywność, poprawiać jakość i bezpieczeństwo udzielanych świadczeń, lecz także wypełniać luki w dostępie do infrastruktury ratownictwa medycznego. Obecne działania dofinansowywane ze środków unijnych oraz z Funduszu Medycznego wzajemnie się uzupełniają."
+    },
+    {
+     "type": "text",
+     "text": "V.4. Cel interwencji"
+    },
+    {
+     "type": "text",
+     "text": "Priorytetem wsparcia dla infrastruktury ratownictwa medycznego ze środków Funduszu Medycznego będzie wymiana wyeksploatowanych ambulansów ZRM, których wiek wynosi 5 lat i więcej, mając na uwadze ich kluczowe znaczenie dla prawidłowości funkcjonowania systemu PRM."
+    },
+    {
+     "type": "text",
+     "text": "Równolegle, strategiczną interwencją do podjęcia ze środków Funduszu Medycznego, będzie tworzenie całodobowych lądowisk przy SOR lub dostosowanie obecnie funkcjonujących, celem spełnienia przez wszystkie jednostki wymagań wskazanych w rozporządzeniu Ministra Zdrowia z dnia 27 czerwca 2019 r. w sprawie szpitalnego oddziału ratunkowego."
+    },
+    {
+     "type": "text",
+     "text": "Wymienione poniżej pozostałe interwencje skierowane do jednostek systemu PRM będą podejmowane i finansowane w ramach Funduszu po bieżącej analizie potrzeb i przy dostępności środków finansowych."
+    },
+    {
+     "type": "text",
+     "text": "✓ Interwencją planuje się objąć szereg działań skierowanych do jednostek systemu PRM, którymi są SOR oraz ZRM (w tym LZRM), ze szczególnym uwzględnieniem wymiany wyeksploatowanych ambulansów, których wiek wynosi 5 lat i więcej oraz w dalszej kolejności ambulansów o przebiegu większym niż 300 tys. km."
+    },
+    {
+     "type": "text",
+     "text": "✓ W ramach Programu planuje się zakupić 120 nowych ambulansów dla ZRM, co pozwoli zapewnić wymianę części floty kwalifikującej się obecnie do wymiany z uwagi na wiek ."
+    },
+    {
+     "type": "text",
+     "text": "✓ Planuje się również skierowanie interwencji do pozostałych jednostek systemu PRM w ramach dalszego rozwoju systemu ratownictwa. Mając na uwadze potrzebę spełniania wymagań jakościowych dotyczących nowoczesnej infrastruktury i użytkowania wysokospecjalistycznych wyrobów medycznych, wsparciem powinny zostać objęte te spośród obecnie funkcjonujących 2451 SOR, które wymagają dalszej budowy, modernizacji, przebudowy pomieszczeń i doposażenia i nie zostały objęte do tej pory wsparciem ze środków POIŚ, tj. około 50 SOR oraz w dłuższej perspektywie około 25 % jednostek spośród 190 dotychczas wspartych, czyli 50 SOR. Tym samym w ramach Programu przewiduje się wsparcie sumarycznie dla 100 istniejących SOR."
+    },
+    {
+     "type": "text",
+     "text": "✓ Z uwagi na zmieniające się przepisy prawa w zakresie wymagań, jakie powinny spełniać SOR jest zasadne objęcie wsparciem podmiotów leczniczych, które w swoich strukturach mają SOR, celem budowy i dostosowania lądowisk przyszpitalnych do obecnych wymagań – spośród obecnie działających 251 SOR, 23 SOR nie mają lądowisk wcale, a 18 SOR ma lądowiska, ale niedostosowane do obecnych przepisów. W zależności od zabudowy podmiotów leczniczych należy różnicować planowane do utworzenia lądowiska na naziemne, które wymagają zapewnienia odpowiedniej powierzchni na terenie przyszpitalnym i lądowiska wyniesione, utworzone w obrębie obecnej infrastruktury, wymagające wzmocnienia struktury budowlanej lub powodujące konieczność budowy niezależnej konstrukcji, systemu przeciwpożarowego i windy. Tym samym należy dążyć do zapewnienia wsparcia inwestycji polegających na budowie lądowisk lub ich dostosowaniu do wymagań dla łącznie 41 SOR¹."
+    },
+    {
+     "type": "text",
+     "text": "✓ Ponadto, mając na uwadze częste wypadki komunikacyjne i inne zdarzenia nagłe, w których występują urazy wielonarządowe, należy wskazać, że obszarem wymagającym niezbędnego dalszego wsparcia w uzupełnianiu interwencji odnoszących się do floty naziemnych zespołów ratownictwa medycznego jest lotnictwo sanitarne i funkcjonowanie lotniczych zespołów ratownictwa medycznego, które gwarantują szybkie dotarcie do odległego miejsca zdarzenia i sprawny transport pacjenta do ośrodka zapewniającego kompleksowe jego zaopatrzenie. Zasadne jest dalsze wsparcie Śmigłowcowej Służby Ratownictwa Medycznego w zakresie budowy, modernizacji, przebudowy i doposażenia infrastruktury śmigłowcowej oraz zaplecza naziemnego przez budowę bazy HEMS i zakup nowych śmigłowców, wyposażenia lub doposażenia w systemy bezpieczeństwa, komunikacyjne i teleinformatyczne."
+    },
+    {
+     "type": "text",
+     "text": "✓ Realizacja planowanych działań, w tym przede wszystkim wymiana wyeksploatowanych ambulansów, pozwoli na zwiększenie efektywności systemu ratownictwa medycznego. Zwiększą się zasoby zaawansowanych technicznie wyrobów medycznych, pozwalające na szybkie i całodobowe udzielanie pomocy medycznej."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7",
+   "body": [
+    {
+     "type": "text",
+     "text": "Va. Opieka paliatywna i hospicyjna"
+    },
+    {
+     "type": "text",
+     "text": "Va.1. Planowane interwencje"
+    },
+    {
+     "type": "text",
+     "text": "Wykaz oraz warunki realizacji świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej określa rozporządzenie Ministra Zdrowia z dnia 29 października 2013 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej (Dz. U. z 2022 r. poz. 262). Zgodnie z ww. rozporządzeniem świadczenia gwarantowane z zakresu opieki paliatywnej i hospicyjnej są realizowane w warunkach: ✓ stacjonarnych – w hospicjum stacjonarnym lub w oddziale medycyny paliatywnej, ✓ domowych – w hospicjum domowym dla dorosłych lub dla dzieci do ukończenia 18. roku życia, ✓ ambulatoryjnych – w poradni medycyny paliatywnej, ✓ perinatalnej opieki paliatywnej – w ośrodku diagnostyki prenatalnej, w ośrodku kardiologii prenatalnej, w zakładzie genetyki, w poradni medycyny paliatywnej, w hospicjum domowym dla dzieci lub w hospicjum stacjonarnym."
+    },
+    {
+     "type": "text",
+     "text": "Planowane interwencje będą dotyczyć wsparcia rozwoju infrastruktury podmiotów leczniczych realizujących świadczenia gwarantowane z zakresu opieki paliatywnej i hospicyjnej w warunkach stacjonarnych przez ich modernizację i doposażenie."
+    },
+    {
+     "type": "text",
+     "text": "Va.2. Diagnoza obecnego potencjału"
+    },
+    {
+     "type": "text",
+     "text": "LICZBA PACJENTÓW W OPIECE PALIATYWNEJ I HOSPICYJNEJ"
+    },
+    {
+     "type": "text",
+     "text": "Ze świadczeń opieki zdrowotnej z zakresu opieki paliatywnej i hospicyjnej w 2024 r. łącznie skorzystało 109 908 pacjentów. W porównaniu do 2023 r. liczba pacjentów wzrosła o 4,5 %."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 28. Liczba pacjentów korzystających z opieki paliatywnej i hospicyjnej w Rzeczypospolitej Polskiej w latach 2017–2024"
+    },
+    {
+     "type": "text",
+     "text": "Rok W 2024 r. opieką paliatywną i hospicyjną było objętych średnio 293 pacjentów na 100 tys. mieszkańców Rzeczypospolitej Polskiej."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 29. Liczba pacjentów korzystających z opieki paliatywnej i hospicyjnej w przeliczeniu na 100 tys. mieszkańców Rzeczypospolitej Polskiej w latach 2017–2024"
+    },
+    {
+     "type": "text",
+     "text": "350 279,36 293,17 w 300 ó 247,07 251,26 259,16 c 238,48 237,1 244,02 w ó t ń a k 250 n e j z s e 200 c a m i p a . s y 150 b z t 100 c L i 001 a n 50"
+    },
+    {
+     "type": "text",
+     "text": "0 2017 2018 2019 2020 2021 2022 2023 2024"
+    },
+    {
+     "type": "text",
+     "text": "Rok"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: opracowanie MZ na podstawie danych NFZ i GUS"
+    },
+    {
+     "type": "text",
+     "text": "W 2024 r. największą liczbę pacjentów na 100 tys. mieszkańców odnotowano w województwach dolnośląskim (375,56), kujawsko-pomorskim (363,72) oraz opolskim (338,60), a najmniejszą w województwach zachodniopomorskim (226,47), lubelskim (253,45) oraz podlaskim (257,01)."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 30. Liczba pacjentów korzystających z opieki paliatywnej i hospicyjnej w przeliczeniu na 100 tys. mieszkańców Rzeczypospolitej Polskiej w 2024 r."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 16 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Spośród pacjentów opieki paliatywnej i hospicyjnej w 2024 r. 84,5 % chorowało na nowotwory, z czego najczęściej występującym nowotworem był nowotwór złośliwy tchawicy, oskrzeli i płuc (14,4 % pacjentów)."
+    },
+    {
+     "type": "text",
+     "text": "Ze świadczeń opieki zdrowotnej w ramach opieki paliatywnej i hospicyjnej w warunkach stacjonarnych skorzystało 45,8 tys., domowych 69,9 tys., a ambulatoryjnych – 11,7 tys. pacjentów. W przeliczeniu na 100 tys. mieszkańców opieką w zakresie świadczeń opieki zdrowotnej stacjonarnych było objętych średnio 122, a w zakresie świadczeń opieki zdrowotnej domowych 186, w zakresie świadczeń opieki zdrowotnej ambulatoryjnych 31 pacjentów."
+    },
+    {
+     "type": "text",
+     "text": "Największą liczbę pacjentów stacjonarnej opieki paliatywnej i hospicyjnej na 100 tys. mieszkańców odnotowano w województwach świętokrzyskim (175,04), podkarpackim (137,95) i lubelskim (137,19), a najmniejszą w zachodniopomorskim (80,23), warmińsko-mazurskim (81,31) i lubuskim (96,31)."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 31. Liczba pacjentów stacjonarnej opieki paliatywnej i hospicyjnej na 100 tys. mieszkańców Rzeczypospolitej Polskiej w 2024 r."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 17 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Aż w 10 województwach liczba pacjentów domowej opieki paliatywnej i hospicyjnej na 100 tys. mieszkańców była poniżej średniej wartości dla kraju. Największą wartość tego wskaźnika odnotowano w województwach kujawsko-pomorskim (282,69), dolnośląskim (257,34) i opolskim (228,96), a najmniejszą w świętokrzyskim (117,62), podlaskim (136,14) i zachodniopomorskim (138,22)."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 32. Liczba pacjentów domowej opieki paliatywnej i hospicyjnej na 100 tys. mieszkańców Rzeczypospolitej Polskiej w 2024 r."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 18 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: opracowanie MZ na podstawie danych NFZ i GUS"
+    },
+    {
+     "type": "text",
+     "text": "Struktura pacjentów ze względu na płeć była zbliżona, z niewielką przewagą kobiet (51,6 %). W przeważającej większości ze świadczeń opieki zdrowotnej korzystały osoby w wieku 65 lat i więcej (78,4 %), przy czym osoby w wieku 65–79 lat stanowiły 48,9 % pacjentów, a osoby w wieku 80 lat i więcej – 29,5 % pacjentów."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 33. Struktura wieku pacjentów w opiece paliatywnej i hospicyjnej ludności Rzeczypospolitej Polskiej w 2024 r."
+    },
+    {
+     "type": "text",
+     "text": "Według danych Ministra Rodziny, Pracy i Polityki Społecznej, 49,9 % pacjentów opieki paliatywnej i hospicyjnej posiadało orzeczoną niepełnosprawność, z czego 74,9 % pacjentów niepełnosprawnych stanowili pacjenci ze znacznym stopniem niepełnosprawności, 17,9 % z umiarkowanym, 3,6 % z lekkim, natomiast 3,5 % stanowiły osoby niepełnosprawne do 16. roku życia."
+    },
+    {
+     "type": "text",
+     "text": "LICZBA ŚWIADCZENIODAWCÓW W RAMACH OPIEKI PALIATYWNEJ I HOSPICYJNEJ STACJONARNEJ"
+    },
+    {
+     "type": "text",
+     "text": "W 2024 r. w ramach NFZ świadczeń opieki zdrowotnej w ramach opieki paliatywnej i hospicyjnej udzielano w 234 ośrodkach opieki stacjonarnej¹. Najwięcej stacjonarnych ośrodków opieki paliatywnej i hospicyjnej było zlokalizowanych w województwie mazowieckim (30), wielkopolskim (23) i małopolskim (22), najmniej zaś w lubuskim (5) oraz warmińsko-mazurskim (6)."
+    },
+    {
+     "type": "text",
+     "text": "Liczba ośrodków stacjonarnych na 100 tys. ludności wyniosła 0,62, przy czym wartość poniżej średniej dla Rzeczypospolitej Polskiej odnotowano w 8 województwach. Największą wartością tego wskaźnika charakteryzowały się województwa: świętokrzyskie (1,12), opolskie (0,86) i lubelskie (0,85), najmniejszą zaś województwa: zachodniopomorskie (0,43), warmińsko-mazurskie (0,44) i śląskie (0,49)."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 34. Liczba ośrodków stacjonarnej opieki paliatywnej i hospicyjnej na 100 tys. ludności Rzeczypospolitej Polskiej w 2024 r."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 19 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: opracowanie MZ na podstawie danych NFZ i GUS"
+    },
+    {
+     "type": "text",
+     "text": "TABELA 11. Liczba ośrodków udzielających świadczeń opieki zdrowotnej w ramach opieki paliatywnej i hospicyjnej w trybie stacjonarnym w Rzeczypospolitej Polskiej w latach 2019–2024"
+    },
+    {
+     "type": "text",
+     "text": "2019 2020 2021 2022 2023 2024"
+    },
+    {
+     "type": "text",
+     "text": "Liczba świadczeniodawców 191 193 199 221 228 234"
+    },
+    {
+     "type": "text",
+     "text": "Liczba łóżek 3 506 3 581 3 727 4 287 4 757 5 162"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: opracowanie MZ na podstawie danych NFZ oraz sprawozdań MZ i MSWiA LICZBA ŁÓŻEK W RAMACH STACJONARNEJ OPIEKI PALIATYWNEJ I HOSPICYJNEJ"
+    },
+    {
+     "type": "text",
+     "text": "Liczba łóżek na koniec 2024 r. w stacjonarnych ośrodkach opieki paliatywnej i hospicyjnej wynosiła 5162. Najwięcej łóżek znajdowało się na terenie województwa mazowieckiego (768), małopolskiego (578) i śląskiego (529), najmniej zaś na terenie województwa lubuskiego (81), warmińsko-mazurskiego (111) oraz opolskiego (128)."
+    },
+    {
+     "type": "text",
+     "text": "Rozkład liczby łóżek na 1000 ludności w wieku 65 lat lub więcej w 2024 r. nie był równomierny względem wszystkich województw. Średnia dla Rzeczypospolitej Polskiej wynosiła 0,7, a wartość poniżej średniej dla kraju odnotowano w 7 województwach. Największą wartością charakteryzowały się województwa świętokrzyskie (1,08), podkarpackie (0,98) i małopolskie (0,96), najmniejszą zaś województwa lubuskie (0,43), warmińsko-mazurskie (0,44) oraz zachodniopomorskie (0,44)."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 35. Średnioroczna liczba łóżek stacjonarnej opieki paliatywnej i hospicyjnej na 1000 ludności Rzeczypospolitej Polskiej powyżej 65 lat w 2024 r."
+    },
+    {
+     "type": "text",
+     "text": "0,72"
+    },
+    {
+     "type": "text",
+     "text": "0,44"
+    },
+    {
+     "type": "text",
+     "text": "0,44"
+    },
+    {
+     "type": "text",
+     "text": "0,72"
+    },
+    {
+     "type": "text",
+     "text": "0,62"
+    },
+    {
+     "type": "text",
+     "text": "0,43 0,79 0,76"
+    },
+    {
+     "type": "text",
+     "text": "0,53"
+    },
+    {
+     "type": "text",
+     "text": "0,72"
+    },
+    {
+     "type": "text",
+     "text": "0,74"
+    },
+    {
+     "type": "text",
+     "text": "0,69 1,08"
+    },
+    {
+     "type": "text",
+     "text": "0,60"
+    },
+    {
+     "type": "text",
+     "text": "0,98"
+    },
+    {
+     "type": "text",
+     "text": "0,96"
+    },
+    {
+     "type": "text",
+     "text": "Obsługiwane przez usługę Bing"
+    },
+    {
+     "type": "text",
+     "text": "© GeoNames, Microsoft"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: opracowanie MZ na podstawie GUS oraz sprawozdań MZ i MSWiA"
+    },
+    {
+     "type": "text",
+     "text": "Va.3. Wyzwania"
+    },
+    {
+     "type": "text",
+     "text": "Analiza stanu opieki paliatywnej i hospicyjnej w Rzeczypospolitej Polskiej na tle innych krajów, jak również fakt, że społeczeństwo się starzeje i rośnie liczba pacjentów z nowotworami, powodują, że zabezpieczenie świadczeń opieki zdrowotnej i poprawa infrastruktury w tym obszarze są koniecznością."
+    },
+    {
+     "type": "text",
+     "text": "POLSKA NA TLE INNYCH KRAJÓW"
+    },
+    {
+     "type": "text",
+     "text": "Według raportu OECD (Time for Better Care at the End of Life 2023)² mniej niż 40 % osób potrzebujących opieki paliatywnej lub opieki u schyłku życia otrzymuje taką opiekę. Wskaźnik udziału osób w wieku 65 lat i więcej, które skorzystały z opieki paliatywnej i hospicyjnej przed śmiercią w naszym kraju miał wartość poniżej 30 %. Najwyższą wartość wskaźnika odnotowano w Finlandii (ok. 65 %), a najniższą w Bułgarii (ok. 15 %) (Wykres 36.). Różnice w wartościach wskaźnika mogą wynikać z definicji opieki paliatywnej i hospicyjnej oraz opieki długoterminowej w danym kraju, a także od struktury demograficznej populacji."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 36. Średni procent osób, które skorzystały z opieki paliatywnej i hospicyjnej wśród osób, które zmarły w wieku 65 lat i więcej w poszczególnych krajach OECD (2023 r.)"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 21 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: raport OECD"
+    },
+    {
+     "type": "text",
+     "text": "Według ekspertów Europejskiego Towarzystwa Opieki Paliatywnej (ang. European Association for Palliative Care, EAPC) liczba świadczeń opieki zdrowotnej w ramach opieki paliatywnej w przeliczeniu na liczbę mieszkańców jest jednym z najlepszych wskaźników rozwoju opieki paliatywnej w danym kraju. Wskaźnik ten powinien być rozpatrywany w zakresie paliatywnej opieki domowej oraz szpitalnej opieki paliatywnej. Według raportu EAPC³ Rzeczpospolita Polska znalazła się w pierwszym kwartylu (7. miejsce) pod względem ogólnej liczby świadczeń opieki zdrowotnej w ramach opieki paliatywnej – 1,5 na 100 000 mieszkańców. Jest to drugi najwyższy wynik wśród krajów Europy Środkowej i Wschodniej (na pierwszym miejscu znalazła się Litwa – 1,7). W zakresie domowej opieki paliatywnej nasze państwo zajęło 3. miejsce w Europie – 1,06 zespołów domowej opieki paliatywnej na 100 000 mieszkańców."
+    },
+    {
+     "type": "text",
+     "text": "PROGNOZA"
+    },
+    {
+     "type": "text",
+     "text": "W Mapie potrzeb zdrowotnych na lata 2022–2026 przeprowadzono prognozę zapotrzebowania na miejsca w opiece paliatywnej i hospicyjnej. Zgodnie z przyjętą metodyką model prognozowania liczby miejsc w opiece paliatywnej i hospicyjnej opiera się na zapadalności i przeżywalności dla wybranej grupy nowotworów oraz na prognozie demograficznej. W prognozie uwzględniono także stosunek łącznej liczby pacjentów w opiece paliatywnej i hospicyjnej do liczby pacjentów z analizowanymi nowotworami w 2022 r. Prognozowana liczba miejsc odzwierciedla liczbę pacjentów, którzy zgodnie z założeniami będą potrzebowali opieki paliatywnej i hospicyjnej w danym roku. Wynik skorygowany jest przez współczynnik uwzględniający pacjentów pozostających pod opieką dłużej niż rok. Prognozowane zapotrzebowanie na miejsca w opiece paliatywnej i hospicyjnej wynosi 185 tys. w 2030 r. i 207 tys. w 2060 r."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 37. Prognoza zapotrzebowania na miejsca w opiece paliatywnej i hospicyjnej na lata 2025–2060 w Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 22 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: opracowanie MZ na podstawie danych z NFZ, KRN i GUS"
+    },
+    {
+     "type": "text",
+     "text": "Prognozowana liczba miejsc w opiece stacjonarnej bazuje na wytycznych Europejskiego Towarzystwa Medycyny Paliatywnej. Wytyczne te mówią o konieczności zapewnienia co najmniej 100 łóżek na milion populacji. W związku z tym prognozowana liczba miejsc w stacjonarnej opiece paliatywnej i hospicyjnej wynosi 3,7 tys. w 2030 r. i 3,1 tys. w 2060 r."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 38. Prognoza zapotrzebowania na miejsca w stacjonarnej opiece paliatywnej i hospicyjnej na lata 2025–2060 w Rzeczypospolitej Polskiej Va.4. Cel interwencji"
+    },
+    {
+     "type": "text",
+     "text": "Zdaniem ekspertów w Rzeczypospolitej Polskiej dostęp do świadczeń opieki zdrowotnej z zakresu opieki paliatywnej i hospicyjnej:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "jest zróżnicowany terytorialnie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zauważalne są znaczne różnice w dostępie do opieki paliatywnej w poszczególnych województwach, 3) w województwach o największych potrzebach wzrost liczby łóżek jest znikomy, pogłębia się więc różnica w dostępie do świadczeń opieki zdrowotnej między województwami⁴.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Najważniejszymi wyzwaniami dla opieki paliatywnej, w ocenie ekspertów, są m.in. wyrównanie różnic w dostępie do opieki paliatywnej, integracja opieki paliatywnej i onkologicznej czy poprawa w dostępie do pediatrycznej opieki paliatywnej. Innymi problemami są:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "niewystarczająca liczba jednostek w wybranych województwach⁵,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "brak bazy – wiele jednostek opieki paliatywnej znajduje się w wymagających remontu, starych budynkach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "brak funduszy na uzupełnienie bazy lokalowej, modernizacje i remonty⁶,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Biorąc pod uwagę zidentyfikowane problemy dotyczące złej kondycji infrastruktury podmiotów leczniczych udzielających świadczeń opieki zdrowotnej w ramach opieki paliatywnej i hospicyjnej, konieczne jest zapewnienie osobom u kresu życia nie tylko godnych warunków życia aż do śmierci, ale również zapewnienia wsparcia ich rodzinom."
+      },
+      {
+       "type": "text",
+       "text": "Według danych przedstawionych powyżej w 2024 r. 234 świadczeniodawców udzielało świadczeń opieki zdrowotnej w ramach opieki paliatywnej i hospicyjnej w warunkach stacjonarnych. Zgodnie z wytycznymi Europejskiego Towarzystwa Medycyny Paliatywnej dotyczącymi zapewnienia minimum 100 łóżek na 1 milion populacji w niektórych województwach wskaźnik ten nie został osiągnięty. Konieczne jest podjęcie działań zmierzających do wyrównania dysproporcji w dostępie do ww. świadczeń."
+      },
+      {
+       "type": "text",
+       "text": "Niezbędne zatem jest zapewnienie wysokiej jakości świadczeń opieki zdrowotnej w już działających podmiotach leczniczych przez ich modernizację oraz doposażenie w sprzęt medyczny oraz przez powstanie nowych miejsc udzielania świadczeń opieki zdrowotnej, przez rozbudowę i przebudowę istniejących ośrodków specjalizujących się w opiece paliatywnej i hospicyjnej, a także budowę nowych miejsc udzielania świadczeń opieki zdrowotnej, szczególnie w województwach, w których zidentyfikowano niedostateczne pokrycie potrzeb stacjonarnej opieki paliatywnej i hospicyjnej, w tym nie osiągnięto zalecanego przez Europejskie Stowarzyszenie Opieki Paliatywnej wskaźnika minimum 100 łóżek na 1 mln mieszkańców."
+      },
+      {
+       "type": "text",
+       "text": "Działania realizowane w ramach Programu będą działaniami komplementarnymi do tych ujętych w Narodowej Strategii Onkologicznej. W ramach Narodowej Strategii Onkologicznej w zakresie inwestycji ukierunkowanych na system opieki onkologicznej wskazano zadania dotyczące obszaru związanego z budową sieci ośrodków opieki paliatywnej i hospicyjnej dla pacjentów onkologicznych, zlokalizowanych w ośrodkach onkologicznych lub współpracujących z ośrodkami onkologicznymi. Zadania mają doprowadzić do osiągnięcia celu głównego związanego z zapewnieniem pacjentom dostępu do najwyższej jakości procesów diagnostyczno-terapeutycznych oraz kompleksowej opieki na całej „ścieżce pacjenta”, w tym wyrównanie i zwiększenie dostępu do świadczeń opieki zdrowotnej w ramach opieki rehabilitacyjnej, opieki paliatywnej i hospicyjnej w poszczególnych województwach."
+      },
+      {
+       "type": "text",
+       "text": "Biorąc pod uwagę, że świadczenia opieki zdrowotnej w ramach opieki paliatywnej i hospicyjnej udzielane są nie tylko osobom zmagającym się z chorobami onkologicznymi, wymagane jest ukierunkowanie działań finansowanych ze środków subfunduszu modernizacji podmiotów leczniczych na podmioty lecznicze, które zajmują się również osobami cierpiącymi na choroby inne aniżeli nowotworowe⁷, a także na podmioty lecznicze, które będą rozszerzać zakres udzielanych świadczeń opieki zdrowotnej na obszary wiejskie."
+      },
+      {
+       "type": "text",
+       "text": "Przyjmując jako dane wyjściowe liczbę ośrodków stacjonarnej opieki paliatywnej i hospicyjnej na 100 tys. ludności w 2024 r. oraz rozkład liczby łóżek na 1000 ludności w wieku 65 lat lub więcej w 2024 r., działania podejmowane w ramach Programu powinny w pierwszej kolejności odbywać się w województwach, w których wskaźniki zabezpieczenia ludności są poniżej średniej dla kraju."
+      },
+      {
+       "type": "text",
+       "text": "Przewidziane w Programie w tym zakresie interwencje wpisują się w założenia i działania Krajowego Planu Transformacji przez realizację wsparcia w zakresie zgodnym z Działaniem 2.10.3, tj. Wsparcie rozwoju infrastruktury podmiotów leczniczych realizujących świadczenia w ramach opieki paliatywnej i hospicyjnej w warunkach stacjonarnych przez ich modernizację i doposażenie."
+      },
+      {
+       "type": "text",
+       "text": "Va.5.Oczekiwany rezultat"
+      },
+      {
+       "type": "text",
+       "text": "✓ W ramach interwencji dąży się do poprawy jakości udzielania świadczeń opieki zdrowotnej z zakresu opieki paliatywnej i hospicyjnej w warunkach stacjonarnych i zapewnienia godnych warunków opieki osobom chorym i ich rodzinom jak najbliżej ich miejsca zamieszkania. Dzięki dedykowanemu wsparciu zostaną stworzone warunki dla zapewnienia kompleksowości udzielanych świadczeń opieki zdrowotnej, w tym tych ukierunkowanych na opiekę wyręczającą, opiekę psychologiczną czy rehabilitację."
+      },
+      {
+       "type": "text",
+       "text": "✓ Dzięki wsparciu planowane jest zdecydowane polepszenie stanu infrastruktury podmiotów leczniczych, w których udzielane są świadczenia opieki zdrowotnej z zakresu opieki paliatywnej i hospicyjnej w warunkach stacjonarnych."
+      },
+      {
+       "type": "text",
+       "text": "✓ Wsparcie inwestycyjne, obejmujące budowę, przebudowę, rozbudowę, modernizację infrastruktury podmiotów leczniczych udzielających stacjonarnie świadczeń opieki zdrowotnej z zakresu opieki paliatywnej i hospicyjnej oraz wymiana i doposażenie w nowoczesne sprzęty i aparaturę medyczną umożliwiające podniesienie jakości opieki w najtrudniejszej fazie życia osób zmagających się z chorobą jak i ich rodzin, pozwoli na wyprzedzające przygotowanie właściwej infrastruktury zapewniającej możliwość sprawowania wszechstronnej i kompleksowej opieki paliatywnej i hospicyjnej."
+      },
+      {
+       "type": "text",
+       "text": "Vb. Wsparcie procesów konsolidacyjnych w podmiotach leczniczych – „Zdrowy szpital – bezpieczny pacjent”"
+      },
+      {
+       "type": "text",
+       "text": "Vb.1. Planowane interwencje"
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie procesów konsolidacyjnych dotyczyć będzie podmiotów leczniczych, które przeprowadzą konsolidację w celu podniesienia efektywności i racjonalności ich funkcjonowania."
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie obejmuje dofinasowanie budowy, modernizacji, przebudowy i doposażenia podmiotów leczniczych – inwestycji wynikających z procesów konsolidacyjnych i ukierunkowanych na osiągnięcie zakładanych celów konsolidacji."
+      },
+      {
+       "type": "text",
+       "text": "Vb.2. Diagnoza obecnego potencjału"
+      },
+      {
+       "type": "text",
+       "text": "OGÓLNY STAN SZPITALNICTWA"
+      },
+      {
+       "type": "text",
+       "text": "Leczenie szpitalne stanowi integralną i zasadniczą część każdego funkcjonującego systemu opieki zdrowotnej."
+      },
+      {
+       "type": "text",
+       "text": "Podmioty szpitalne w rozumieniu niniejszego Rozdziału to podmioty lecznicze działające w formie:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "samodzielnych publicznych zakładów opieki zdrowotnej (SPZOZ),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "spółek kapitałowych, o których mowa w art. 6 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156), dalej jako „ustawa o działalności leczniczej”, w tym powstałych w drodze przekształceń przewidzianych w tej ustawie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "instytutów badawczych",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– które wykonują działalność leczniczą w rodzaju świadczenia szpitalne, z wyłączeniem podmiotów leczniczych wykonujących wyłącznie świadczenia udzielane z zamiarem zakończenia ich udzielania w czasie nieprzekraczającym 24 godzin lub podmiotów wykonujących wyłącznie świadczenia w szpitalu uzdrowiskowym; podmiotem szpitalnym jest podmiot udzielający świadczeń opieki zdrowotnej ze środków publicznych."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 39. Forma organizacyjno-prawna podmiotów szpitalnych w Systemie Podstawowego Szpitalnego Zabezpieczenia Świadczeń Opieki Zdrowotnej (PSZ) Świadczenia z zakresu leczenia szpitalnego, o których mowa w rozporządzeniu Ministra Zdrowia z dnia 22 listopada 2013 r. w sprawie świadczeń gwarantowanych z zakresu leczenia szpitalnego (Dz. U. z 2023 r. poz. 870, z późn. zm.), obejmują świadczenia realizowane w trybie pełnej hospitalizacji, planowej lub w trybie jednodniowym (tzw. „chirurgia jednego dnia”), czyli świadczenia udzielane z zamiarem zakończenia ich udzielania w czasie nieprzekraczającym 24 godzin. W ramach przyjętej we wrześniu 2025 r.⁸ reformy szpitalnictwa wprowadzono ścieżkę umożliwiającą podmiotom szpitalnym zamianę niektórych zakresów świadczeń w trybie pełnej hospitalizacji na leczenie planowe lub jednodniowe, a także, w niektórych przypadkach, zamianę oddziałów szpitalnych na zakłady opiekuńczo-lecznicze lub pielęgnacyjno-opiekuńcze. Przewidziano także finansowy mechanizm zachęcający do przekształceń w postaci zachowania części ryczałtu."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 40. Podział podmiotów szpitalnych zakwalifikowanych do PSZ ze względu na strukturę właścicielską"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "12"
+    },
+    {
+     "type": "text",
+     "text": "13 13 21"
+    },
+    {
+     "type": "text",
+     "text": "40 powiat"
+    },
+    {
+     "type": "text",
+     "text": "województwo"
+    },
+    {
+     "type": "text",
+     "text": "miasto na prawach powiatu 43 251"
+    },
+    {
+     "type": "text",
+     "text": "uczelnia medyczna"
+    },
+    {
+     "type": "text",
+     "text": "gmina"
+    },
+    {
+     "type": "text",
+     "text": "MZ"
+    },
+    {
+     "type": "text",
+     "text": "MON"
+    },
+    {
+     "type": "text",
+     "text": "MSWiA"
+    },
+    {
+     "type": "text",
+     "text": "169"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Dane własne MZ (stan na listopad 2025 r.)"
+    },
+    {
+     "type": "text",
+     "text": "Obecnie jednym z największych wyzwań dla wielu podmiotów leczniczych jest sytuacja finansowa i poziom zadłużenia. Zadłużenie podmiotów szpitalnych w Rzeczypospolitej Polskiej jest problemem systemowym, który utrzymuje się od wielu lat. Ma ono charakter strukturalny i wynika nie tylko z bieżących trudności poszczególnych podmiotów, ale także ze zobowiązań zaciągniętych we wcześniejszych latach. Stan finansowy wynika m.in. z niedostosowania istniejących zasobów do potrzeb zdrowotnych na danym terenie i trendów demograficznych, rosnących kosztów pracy i trudności w pozyskaniu personelu medycznego, przerostu zatrudnienia, niedoszacowanych wycen części świadczeń oraz konieczności utrzymania kosztownej infrastruktury, a także z braku właściwego nadzoru właścicielskiego. W ostatnich latach podejmowane są działania mające na celu zwiększenie rentowności podmiotów szpitalnych, wzmocnienie nadzoru nad podmiotami szpitalnymi, wdrażane są działania restrukturyzacyjne i inwestycyjne oraz podnoszone są wyceny wybranych procedur, jednak stabilność finansowa podmiotów szpitalnych nadal pozostaje jednym z największych wyzwań systemu ochrony zdrowia w Polsce."
+    },
+    {
+     "type": "text",
+     "text": "Podmioty szpitalne mierzą się z licznymi wyzwaniami, takimi jak: brak dostosowania ich struktury organizacyjnej oraz struktury wykonywanych świadczeń opieki zdrowotnej do aktualnych potrzeb zdrowotnych, niedobory kadrowe, przeciążenie personelu, długie kolejki oczekujących na świadczenia opieki zdrowotnej oraz potrzeba modernizacji infrastruktury. Mimo trudności, podmioty szpitalne pozostają podstawowym filarem ochrony zdrowia. W 2023 r. ze świadczeń w zakresie lecznictwa szpitalnego skorzystało ponad 8,5 mln pacjentów (22,7 % populacji)⁹."
+    },
+    {
+     "type": "text",
+     "text": "✓ Sieć szpitali"
+    },
+    {
+     "type": "text",
+     "text": "Wprowadzenie systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (dalej także jako „sieć szpitali” albo „PSZ”) w odniesieniu do znacznej części świadczeń opieki zdrowotnej zmieniło zasady kontraktowania tych świadczeń przez NFZ. Powyższa zmiana systemowa w założeniu projektodawców, oprócz ogólnego uporządkowania i ustrukturyzowania sektora szpitalnego, miała pociągać za sobą korzyści w postaci poprawy koordynacji i ciągłości opieki nad pacjentem, lepszego dostosowania struktury organizacyjnej podmiotów leczniczych oraz struktury wykonywanych świadczeń opieki zdrowotnej do aktualnych potrzeb pacjentów, bardziej racjonalnego gospodarowania zasobami na opiekę zdrowotną oraz zwiększenia stabilności finansowej podmiotów szpitalnych, a przez to poprawy warunków do inwestowania w ich rozwój."
+    },
+    {
+     "type": "text",
+     "text": "System podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (PSZ), o którym mowa w art. 95l ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.), zapewnia świadczeniobiorcom dostęp do świadczeń opieki zdrowotnej w zakresie: leczenia szpitalnego, świadczeń wysokospecjalistycznych, ambulatoryjnej opieki specjalistycznej realizowanej w poradniach przyszpitalnych, rehabilitacji leczniczej, programów lekowych, leków stosowanych w chemioterapii oraz nocnej i świątecznej opieki zdrowotnej, przy jednoczesnym zagwarantowaniu ciągłości i kompleksowości udzielanych świadczeń oraz stabilności ich finansowania."
+    },
+    {
+     "type": "text",
+     "text": "W ramach PSZ wyodrębniono 6 poziomów zabezpieczenia świadczeń: poziom I, poziom II, poziom III, poziom szpitali onkologicznych i pulmonologicznych, poziom szpitali pediatrycznych oraz poziom szpitali ogólnopolskich."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 41. Przynależność do sieci szpitali podmiotów szpitalnych w RP"
+    },
+    {
+     "type": "text",
+     "text": "450"
+    },
+    {
+     "type": "text",
+     "text": "400"
+    },
+    {
+     "type": "text",
+     "text": "350"
+    },
+    {
+     "type": "text",
+     "text": "300"
+    },
+    {
+     "type": "text",
+     "text": "250"
+    },
+    {
+     "type": "text",
+     "text": "200"
+    },
+    {
+     "type": "text",
+     "text": "150"
+    },
+    {
+     "type": "text",
+     "text": "100"
+    },
+    {
+     "type": "text",
+     "text": "50"
+    },
+    {
+     "type": "text",
+     "text": "0"
+    },
+    {
+     "type": "text",
+     "text": "I II III ogólnop onkolog pulmolo pediatry poza poziom poziom poziom olskie iczne giczne czne siecią u u u"
+    },
+    {
+     "type": "text",
+     "text": "przynależność do sieci podmiotów"
+    },
+    {
+     "type": "text",
+     "text": "szpitalnych w RP 267 99 66 84 17 29 7 395"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Opracowanie MZ na podstawie danych NFZ i Mapy potrzeb zdrowotnych na okres od dnia 1 stycznia 2027 r. do dnia 31 grudnia 2031 r."
+    },
+    {
+     "type": "text",
+     "text": "Poziomy te zostały zdefiniowane przez wskazanie charakteryzujących je profili z zakresu leczenia szpitalnego (realizowanych w trybie hospitalizacji). Wyodrębnienie ww. poziomów odzwierciedla, w przypadku trzech pierwszych poziomów, gradację pod względem liczby realizowanych profili i stopnia ich specjalizacji. Dwa kolejne poziomy zostały wyodrębnione ze względu na specyfikę świadczeń, którym są one dedykowane. Natomiast wyodrębnienie poziomu ogólnopolskiego czyni zadość uznaniu szczególnej roli w systemie opieki zdrowotnej szpitali klinicznych oraz instytutów badawczych i niektórych innych podmiotów szpitalnych tworzonych przez ministrów."
+    },
+    {
+     "type": "text",
+     "text": "Kwalifikacja szpitali do PSZ (na 4-letnie okresy) dokonywana jest przez Prezesa NFZ. Aktualny wykaz świadczeniodawców zakwalifikowanych do poszczególnych poziomów systemu zabezpieczenia obowiązuje od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2027 r."
+    },
+    {
+     "type": "text",
+     "text": "✓ Liczba udzielonych świadczeń opieki zdrowotnej"
+    },
+    {
+     "type": "text",
+     "text": "Dostępność do świadczeń opieki zdrowotnej z zakresu leczenia szpitalnego jest dla pacjenta kluczowym elementem bezpieczeństwa zdrowotnego, ponieważ decyduje o tym, czy w sytuacji nagłej lub przewlekłej uzyska pomoc na czas i na odpowiednim poziomie. Dostępność do świadczeń opieki zdrowotnej z zakresu leczenia szpitalnego ma bezpośrednie przełożenie na kondycję zdrowia publicznego."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 42. Liczba pacjentów ze względu na miejsce zamieszkania w podziale na poziomy PSZ na 100 tys. ludności w 2023 r."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 28 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Mała liczba pacjentów leczonych w szpitalach onkologicznych, pediatrycznych i pulmonologicznych może wynikać z ograniczonej dostępności szpitali na każdym z tych poziomów PSZ w danym województwie. W tym przypadku realizację świadczeń opieki zdrowotnej przejmują szpitale na pozostałych poziomach PSZ, a w przypadku świadczeń pediatrycznych realizacja odbywa się także w szpitalach funkcjonujących poza PSZ."
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z danymi opracowanymi w ramach Mapy potrzeb zdrowotnych na okres od dnia 1 stycznia 2027 r. do dnia 31 grudnia 2031 r. w Rzeczypospolitej Polskiej w 2023 r. ze świadczeń opieki zdrowotnej z zakresu lecznictwa szpitalnego skorzystało ponad 8,5 mln pacjentów (22,7 % populacji). W 2023 r. ww. świadczenia zostały udzielone ponad 4,5 mln kobiet oraz ponad 4 mln mężczyzn."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 43. Liczba pacjentów szpitali z podziałem na województwa w 2023 r. – Mapy potrzeb zdrowotnych na okres od dnia 1 stycznia 2027 r. do dnia 31 grudnia 2031 r."
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 29 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "✓ Wydatki na leczenie szpitalne"
+    },
+    {
+     "type": "text",
+     "text": "Wydatki na opiekę stacjonarną stanowią znaczną część budżetu przeznaczanego na zdrowie. Porównując wydatki na opiekę stacjonarną, w tym leczenie szpitalne, w przeliczeniu na mieszkańca w 2023 r., wydatki w Rzeczypospolitej Polskiej są poniżej średniej UE."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 44. Wydatki na zdrowie w 2023 r. (PPP EUR na mieszkańca) – Mapy potrzeb zdrowotnych na okres od dnia 1 stycznia 2027 r. do dnia 31 grudnia 2031 r."
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Opracowanie MZ na podstawie statystyk OECD dotyczących ochrony zdrowia"
+    },
+    {
+     "type": "text",
+     "text": "W ramach systemu PSZ wartość świadczeń opieki zdrowotnej w 2022 r. wynosiła 57,6 mld zł, natomiast w 2023 r. już 82,2 mld zł. Tym samym wzrost wydatków w sieci szpitali wyniósł w skali rok do roku 43 %. Analiza wartości ww. świadczeń zrealizowanych w ramach systemu PSZ wskazuje, że NFZ najwięcej środków finansowych w 2023 r. przekazał na szpitale ogólnopolskie, tj. ok. 34 % całego budżetu, najmniej zaś na szpitale pediatryczne (1,5 %). Największy wzrost nakładów finansowych w porównaniu do 2022 r. odnotowano w szpitalach pediatrycznych, III poziomu, ogólnopolskich i onkologicznych, (odpowiednio o 61 %, 47 %, 46 % i 43 %)."
+    },
+    {
+     "type": "text",
+     "text": "TABELA 12. Realizacja świadczeń w ramach systemu PSZ w 2023 r. w porównaniu do realizacji analogicznych świadczeń w 2022 r. według poziomu PSZ (w zł)"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 30 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Leczenie szpitalne stanowi najistotniejszą część kosztów realizacji zadań Narodowego Funduszu Zdrowia – zgodnie z planem finansowym NFZ na 2025 r., nakłady na leczenie szpitalne stanowią 48,4 % ww. kosztów."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 45. Nakłady na poszczególne zakresy świadczeń dane na podstawie planu finansowego NFZ na 2025 r."
+    },
+    {
+     "type": "text",
+     "text": "leczenie szpitalne"
+    },
+    {
+     "type": "text",
+     "text": "21,2% podstawowa opieka zdrowotna"
+    },
+    {
+     "type": "text",
+     "text": "ambulatoryjna opieka specjalistyczna"
+    },
+    {
+     "type": "text",
+     "text": "2,2%"
+    },
+    {
+     "type": "text",
+     "text": "48,4% refundacja"
+    },
+    {
+     "type": "text",
+     "text": "3,6%"
+    },
+    {
+     "type": "text",
+     "text": "5,5% rehabilitacja lecznicza"
+    },
+    {
+     "type": "text",
+     "text": "opieka psychiatryczna i leczenie"
+    },
+    {
+     "type": "text",
+     "text": "8,6% uzależnień"
+    },
+    {
+     "type": "text",
+     "text": "pozostałe świadczenia"
+    },
+    {
+     "type": "text",
+     "text": "10,4%"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Opracowanie MZ na podstawie danych NFZ"
+    },
+    {
+     "type": "text",
+     "text": "Udział procentowy nakładów finansowych NFZ na koszty świadczeń opieki zdrowotnej w zakresie leczenie szpitalne w kosztach realizacji zadań NFZ w latach 2015–2024 wynosił średnio 49,9 % (dane na podstawie wykonania planów finansowych za ten okres). Zgodnie ze sprawozdaniem z wykonania planu finansowego NFZ za I–IX 2025 r., wartość ta jest poniżej ww. średniej – na poziomie 48,32 %."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 46. Udział nakładów na leczenie szpitalne w kosztach realizacji zadań"
+    },
+    {
+     "type": "text",
+     "text": "Narodowego Funduszu Zdrowia Stosunek zobowiązań ogółem do nakładów na koszty świadczeń w rodzaju leczenie szpitalne NFZ w latach 2010– 2024 wynosił średnio 31,74 %, natomiast w 2024 r. przyjął on wartość poniżej ww. średniej, tj. 26,09 %."
+    },
+    {
+     "type": "text",
+     "text": "Podobnie wygląda sytuacja w przypadku stosunku zobowiązań wymagalnych do nakładów na koszty świadczeń w rodzaju leczenie szpitalne NFZ, gdzie mimo rosnących kwot zobowiązań podmiotów stanowią one niższy odsetek w stosunku do ww. nakładów. W latach 2010–2024 ww. stosunek procentowy wynosił średnio 4,98 %, natomiast w 2024 r. przyjął on wartość 3,36 %, czyli poniżej średniej."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 47. Stosunek zobowiązań do nakładów na leczenie szpitalne (w mln zł)"
+    },
+    {
+     "type": "text",
+     "text": "120 000 100,00% 90,00% 100 000 93049"
+    },
+    {
+     "type": "text",
+     "text": "80,00% 80647"
+    },
+    {
+     "type": "text",
+     "text": "80 000 70,00% 60579 65726 60,00% 60 000 53517 50,00% 42470 47378"
+    },
+    {
+     "type": "text",
+     "text": "35037 38682 40,00% 40 000 30,00% 26,09%"
+    },
+    {
+     "type": "text",
+     "text": "20 000 20,00% 10,00% 0 3,36% 0,00% 2016 2017 2018 2019 2020 2021 2022 2023 2024"
+    },
+    {
+     "type": "text",
+     "text": "Koszty świadczeń opieki zdrowotnej NFZ w rodzaju leczenie szpitalne (wykonanie)"
+    },
+    {
+     "type": "text",
+     "text": "stosunek zobowiązań ogółem do kosztów świadczeń opieki zdrowotnej NFZ w rodzaju leczenie"
+    },
+    {
+     "type": "text",
+     "text": "szpitalne"
+    },
+    {
+     "type": "text",
+     "text": "stosunek zobowiązań wymagalnych do kosztów świadczeń opieki zdrowotnej NFZ w rodzaju"
+    },
+    {
+     "type": "text",
+     "text": "leczenie szpitalne"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Opracowanie MZ na podstawie danych NFZ"
+    },
+    {
+     "type": "text",
+     "text": "W 2023 r. i 2024 r. zaobserwowano również spadek udziału wartości świadczeń opieki zdrowotnej z zakresu leczenia szpitalnego do liczby świadczeń w ambulatoryjnej opiece specjalistycznej, podstawowej opiece zdrowotnej oraz leczeniu szpitalnym."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 48. Udział nakładów na leczenie szpitalne w kosztach realizacji zadań NFZ na podstawie sprawozdań z wykonania planu finansowego NFZ za lata 2015–2024 oraz za okres I–VIII 2025 r."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 49. Dynamika zmiany udziału świadczeń szpitalnych do innych zakresów świadczeń"
+    },
+    {
+     "type": "text",
+     "text": "110,0% 110,7%"
+    },
+    {
+     "type": "text",
+     "text": "105,0% 104,9% 102,6% 101,1% 101,3% 100,5% 100,4% 100,9% 102,3% 100,0% 100,0% 98,3%"
+    },
+    {
+     "type": "text",
+     "text": "95,0%"
+    },
+    {
+     "type": "text",
+     "text": "91,4% 90,0%"
+    },
+    {
+     "type": "text",
+     "text": "dynamika zmiany udziału świadczeń SZP do świadczeń AOS, POZ i SZP"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Opracowanie MZ na podstawie danych NFZ"
+    },
+    {
+     "type": "text",
+     "text": "W ostatnich latach rosną również nakłady NFZ na świadczenia systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej – w 2024 r. realizacja ryczałtu była na poziomie o 44,6 % wyższym niż w 2022 r."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 50. Nakłady NFZ na świadczenia systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej w latach 2017–2024"
+    },
+    {
+     "type": "text",
+     "text": "40394903597,63 zł"
+    },
+    {
+     "type": "text",
+     "text": "36316639623,09 zł"
+    },
+    {
+     "type": "text",
+     "text": "Jednocześnie dostrzegalne jest zjawisko wzrostu zobowiązań ogółem SPZOZ rok do roku."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 51. Zobowiązania ogółem SPZOZ w latach 2020–2025"
+    },
+    {
+     "type": "text",
+     "text": "–"
+    },
+    {
+     "type": "text",
+     "text": "ZOBOWIĄZANIA SPZOZ OGÓŁEM W LATACH 2020 2025"
+    },
+    {
+     "type": "text",
+     "text": "Z Ł 4 ,⁷ N L 0 0 , 5 , 4 , 272 , 224 759 M 7 8 , 1 , 2 , , 762 628 238 52 52 6 8 7 1 , 8 , , 270 408 872 166 22 32 42"
+    },
+    {
+     "type": "text",
+     "text": "W"
+    },
+    {
+     "type": "text",
+     "text": "E 9 8 , 1 , 5 , 5 , , , 559 , 009 100 874 02 12 12 22"
+    },
+    {
+     "type": "text",
+     "text": "Ł M , 3 , 6 , 316 708 958 612 437 91 91 02"
+    },
+    {
+     "type": "text",
+     "text": "Ó G⁷⁰³₅₇₇⁷⁹¹₆₁₆₁₆₁₇₁⁷¹⁷¹⁷¹"
+    },
+    {
+     "type": "text",
+     "text": "O Ń⁵¹⁴¹⁵¹"
+    },
+    {
+     "type": "text",
+     "text": "A Z"
+    },
+    {
+     "type": "text",
+     "text": "W Ą I O"
+    },
+    {
+     "type": "text",
+     "text": "B O"
+    },
+    {
+     "type": "text",
+     "text": "Z Ć"
+    },
+    {
+     "type": "text",
+     "text": "Ś O"
+    },
+    {
+     "type": "text",
+     "text": "T R"
+    },
+    {
+     "type": "text",
+     "text": "W A"
+    },
+    {
+     "type": "text",
+     "text": "WYSZCZEGÓLNIENIE KWARTAŁÓW"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Dane ankietowe MZ"
+    },
+    {
+     "type": "text",
+     "text": "Zobowiązania SPZOZ rosną nieprzerwanie. W badanym okresie od 2020 r. do II kwartału 2025 r. nastąpił wzrost zobowiązań o ponad 10,5 mld zł, czyli ok. 69 % w okresie pięciu lat. Przyczyną powyższego jest trwała presja kosztowa, niedopasowanie przychodów do tempa wzrostu kosztów oraz narastająca trudność w utrzymaniu płynności finansowej przez SPZOZ. Wynika to m.in. ze wzrostu kosztów osobowych, rosnących wynagrodzeń personelu medycznego i niemedycznego, wzrostu cen energii, mediów i usług zewnętrznych, a także częściowego niedoszacowania wycen świadczeń opieki zdrowotnej oraz rosnących potrzeb inwestycyjnych. Ponadto lata 2022–2023 przyniosły skok inflacji i wzrost kosztów finansowych."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 52. Podmioty szpitalne wykazujące zobowiązania ogółem w zestawieniu z osiągniętym zyskiem oraz poniesioną stratą w 2024 r."
+    },
+    {
+     "type": "text",
+     "text": "200 183"
+    },
+    {
+     "type": "text",
+     "text": "180 Poziom zobowiązań wykazywanych przez podmioty szpitalne w znacznej mierze determinowany jest przez osiągane wyniki finansowe. Brak pokrycia ponoszonych kosztów uzyskiwanymi przychodami prowadzi do zaciągania zobowiązań, na pokrycie których nie ma środków finansowych, co prowadzi do zwiększania poziomu zadłużenia podmiotów szpitalnych. W niektórych przypadkach, nawet po przeprowadzeniu restrukturyzacji i odzyskaniu dodatniej rentowności na poziomie działalności operacyjnej przez podmiot szpitalny, koszty finansowe ponoszone w związku z obsługą posiadanego zadłużenia wpływają na pogorszenie wyniku netto."
+    },
+    {
+     "type": "text",
+     "text": "Ponadto analiza danych wykazuje, że często wysoki udział kosztów osobowych współwystępuje ze stratami finansowymi w różnych poziomach szpitali."
+    },
+    {
+     "type": "text",
+     "text": "TABELA 13. Udział kosztów osobowych w leczeniu szpitalnym w kosztach szpitali ogółem w latach 2022–2024"
+    },
+    {
+     "type": "text",
+     "text": "Liczba podmiotów z udziałem kosztów osobowych w przychodach poziom sieci ogółem powyżej 8 5 % i stratą netto"
+    },
+    {
+     "type": "text",
+     "text": "2022 r. 2023 r. 2024 r."
+    },
+    {
+     "type": "text",
+     "text": "1 – Szpital I poziomu 39 34 39"
+    },
+    {
+     "type": "text",
+     "text": "2 – Szpital II poziomu 14 8 9"
+    },
+    {
+     "type": "text",
+     "text": "3 – Szpital III poziomu 3 3 5"
+    },
+    {
+     "type": "text",
+     "text": "4 – Szpital pulmonologiczny 2 1 1"
+    },
+    {
+     "type": "text",
+     "text": "5 – Szpital pediatryczny 1 0 0"
+    },
+    {
+     "type": "text",
+     "text": "6 – Szpital onkologiczny 0 0 0"
+    },
+    {
+     "type": "text",
+     "text": "7 – Szpital ogólnopolski 5 4 1"
+    },
+    {
+     "type": "text",
+     "text": "Suma końcowa 64 50 55"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Opracowanie MZ na podstawie danych AOTMiT"
+    },
+    {
+     "type": "text",
+     "text": "Analiza pokazuje wyraźnie, że najbardziej narażone na problemy finansowe, związane z wysokim udziałem kosztów osobowych, są szpitale I poziomu, najczęściej podmioty szpitalne realizujące szeroki zakres podstawowych świadczeń, często o niższych wycenach świadczeń. W grupie szpitali I poziomu odsetek podmiotów, w których udział kosztów osobowych w przychodach ogółem, wynosi powyżej 85 % i strata netto wynosi 14 %. W szpitalach II poziomu strata ta wynosi ok. 9 %, zaś III poziomu 7,5 %. Szpitale pulmonologiczne, pediatryczne, onkologiczne i ogólnopolskie charakteryzują się większą stabilnością i mniejszą liczbą podmiotów spełniających kryteria zagrożenia (odsetek szpitali w tej grupie, których udział kosztów osobowych w przychodach ogółem wynosi powyżej 85 % i występuje strata netto, która waha się od 0 % do 3,4 %). Również w ujęciu ilościowym największą grupą dotkniętą problemem wysokiego udziału kosztów osobowych są szpitale I poziomu (39 w 2024 r.). To wskazuje, że największe trudności w utrzymaniu równowagi między kosztami pracy a przychodami mają szpitale wykonujące przede wszystkim podstawowe, stosunkowo proste procedury."
+    },
+    {
+     "type": "text",
+     "text": "WYKRES 53. Liczba podmiotów szpitalnych z udziałem kosztów osobowych w latach 2022–2024"
+    },
+    {
+     "type": "text",
+     "text": "70"
+    },
+    {
+     "type": "text",
+     "text": "60"
+    },
+    {
+     "type": "text",
+     "text": "50"
+    },
+    {
+     "type": "text",
+     "text": "40"
+    },
+    {
+     "type": "text",
+     "text": "53"
+    },
+    {
+     "type": "text",
+     "text": "30 49"
+    },
+    {
+     "type": "text",
+     "text": "46"
+    },
+    {
+     "type": "text",
+     "text": "20"
+    },
+    {
+     "type": "text",
+     "text": "10"
+    },
+    {
+     "type": "text",
+     "text": "11 6"
+    },
+    {
+     "type": "text",
+     "text": "0 4"
+    },
+    {
+     "type": "text",
+     "text": "2022 2023 2024"
+    },
+    {
+     "type": "text",
+     "text": "Liczba podmotów z udziałem kosztów osobowych w przychodach ogółem w przedziale 85%-95% i stratą netto"
+    },
+    {
+     "type": "text",
+     "text": "Liczba podmotów z udziałem kosztów osobowych w przychodach ogółem powyżej 95% i stratą netto"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Opracowanie MZ na podstawie danych AOTMiT"
+    },
+    {
+     "type": "text",
+     "text": "Liczba podmiotów leczniczych, które wykazują stratę netto przy bardzo wysokim udziale kosztów osobowych w przychodach, spadła w 2023 r., co mogło wynikać np. z dodatkowego finansowania lub chwilowej poprawy rentowności. Jednak w 2024 r. nastąpił ponowny wzrost. Nastąpiło to na skutek presji płacowej, inflacji oraz rosnących kosztów operacyjnych, które nie zostały w pełni pokryte przychodami z NFZ. Oznacza to, że bardzo wysokie koszty pracownicze nadal pozostają głównym czynnikiem pogłębiającym straty podmiotów szpitalnych."
+    },
+    {
+     "type": "text",
+     "text": "Zadłużenie podmiotów szpitalnych wykazuje trend rosnący. Powyższe wymaga podjęcia działań systemowych, w tym konsolidacyjnych, polegających na racjonalizacji kosztów, zapewniając stabilność systemu ochrony zdrowia."
+    },
+    {
+     "type": "text",
+     "text": "✓ Reforma szpitali"
+    },
+    {
+     "type": "text",
+     "text": "Prowadzona od 2025 r. reforma szpitali¹⁰ wprowadza istotne zmiany w systemie ochrony zdrowia – zarówno na poziomie organizacji systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej (PSZ), jak i w przepisach ustawy o działalności leczniczej, w zakresie restrukturyzacji i konsolidacji podmiotów leczniczych."
+    },
+    {
+     "type": "text",
+     "text": "Główne założenia reformy to:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "uelastycznienie i racjonalizacja funkcjonowania PSZ przez umożliwienie wprowadzenia zmiany w umowie o udzielanie świadczeń opieki zdrowotnej, finansowanych ze środków publicznych, polegającej na wykreśleniu danego profilu systemu zabezpieczenia, jeżeli przyczyni się to do racjonalizacji struktury udzielanych świadczeń opieki zdrowotnej na danym obszarze, w szczególności przez ich konsolidację, przy zapewnieniu odpowiedniego dostępu do tych świadczeń, z jednoczesnym umożliwieniem zawarcia umowy o udzielanie świadczeń opieki zdrowotnej finansowanych ze środków publicznych w ramach profilu odpowiadającego wykreślonemu profilowi PSZ, realizowanego w trybie hospitalizacji planowej albo trybie leczenia jednego dnia, albo świadczeń opieki długoterminowej (ZOL), przy zagwarantowaniu zachowania części ryczałtu PSZ;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wprowadzenie możliwości tworzenia SPZOZ przez związki jednostek samorządu terytorialnego, a także możliwość ich łączenia, przy pozostawieniu wielości podmiotów tworzących;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wprowadzenie obowiązku sporządzenia przez kierownika podmiotu leczniczego programu naprawczego w przypadku wystąpienia straty netto w określonych przypadkach oraz regulacji dotyczących tworzenia, oceniania i zatwierdzania programów naprawczych sporządzanych przez ww. podmioty.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wdrażane rozwiązania mają docelowo poprawić funkcjonowanie podmiotów szpitalnych i zapobiec ich zadłużaniu."
+      },
+      {
+       "type": "text",
+       "text": "Zakłada się, że efekty zmian wprowadzonych reformą szpitalnictwa, m.in. łączenie szpitali przez samorządy, możliwość elastycznego przekształcania oddziałów szpitalnych i plany naprawcze dla nierentownych podmiotów, będą widoczne w perspektywie 3–5 lat, co pozwoli na stabilizację finansową podmiotów leczniczych i lepsze dopasowanie udzielanych przez nie świadczeń opieki zdrowotnej do potrzeb pacjentów."
+      },
+      {
+       "type": "text",
+       "text": "Dodatkowo reforma wprowadziła nowy zakres świadczenia gwarantowanego – powiatowe centrum zdrowia (PCZ), o którym mowa w art. 15 ust. 2 pkt 2a ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, czyli centrum, które będzie ambulatoryjnie zabezpieczało pierwsze potrzeby i organizowało pomoc w podmiocie leczniczym udzielającym świadczeń z zakresu leczenia szpitalnego."
+      },
+      {
+       "type": "text",
+       "text": "Vb.3. Wyzwania"
+      },
+      {
+       "type": "text",
+       "text": "Analiza obecnego stanu systemu ochrony zdrowia w Rzeczypospolitej Polskiej, jak również występujące zjawisko nieefektywnego wykorzystania potencjału i zasobów ochrony zdrowia wskazują na konieczność podjęcia działań w celu podejmowania procesów konsolidacyjnych. Wprowadzenie systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej nie doprowadziło do znaczących zmian w zakresie realizacji świadczeń opieki zdrowotnej. Mimo systematycznego podnoszenia nakładów na ochronę zdrowia pogłębiła się trudna sytuacja finansowa szpitali."
+      },
+      {
+       "type": "text",
+       "text": "W związku z powyższym konieczne jest kontynuowanie rozwiązań uelastyczniających działanie PSZ oraz umożliwiających konsolidację podmiotów szpitalnych m.in. przez wsparcie finansowe infrastrukturalnych procesów dostosowawczych do niezbędnych zmian organizacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "Procesy konsolidacyjne podmiotów leczniczych – działania naprawcze prowadzone przez podmioty lecznicze lub podmioty sprawujące nad nimi nadzór, polegające, co najmniej, na połączeniu podmiotów leczniczych (konsolidacja międzypodmiotowa) lub komórek organizacyjnych (konsolidacja wewnątrzpodmiotowa), celem poprawy sytuacji finansowej, optymalnego zaspokojenia potrzeb zdrowotnych oraz zapewnienia spójności i efektywności systemu ochrony zdrowia, a także racjonalizacji działalności leczniczej."
+      },
+      {
+       "type": "text",
+       "text": "Regulacje uelastyczniające i racjonalizujące funkcjonowanie systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej oraz wdrożenie mechanizmów ułatwiających łączenie podmiotów leczniczych wymagają dedykowanych instrumentów wsparcia, w tym wynikających z procesów konsolidacyjnych, zmian infrastrukturalnych przez dofinansowanie budowy, przebudowy, modernizacji i doposażenia skonsolidowanych podmiotów."
+      },
+      {
+       "type": "text",
+       "text": "Warunkiem uzyskania wsparcia z Programu jest dokonanie konsolidacji, rozumianej jako:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "połączenie dwóch albo więcej podmiotów leczniczych udzielających świadczeń finansowanych ze środków publicznych, z których co najmniej jeden jest podmiotem szpitalnym zakwalifikowanym do systemu PSZ (konsolidacja międzypodmiotowa); albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "połączenie komórek organizacyjnych, w których są udzielane świadczenia szpitalne ze środków publicznych w podmiocie leczniczym, zakwalifikowanym do systemu PSZ (konsolidacja wewnątrzpodmiotowa).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Uprawnionym do złożenia wniosku jest podmiot szpitalny zakwalifikowany do PSZ:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "po przeprowadzeniu konsolidacji międzypodmiotowej, o której mowa w poprzedzającym akapicie w pkt 1, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "po przeprowadzeniu konsolidacji wewnątrzpodmiotowej, o której mowa w poprzedzającym akapicie w pkt 2, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przed dokonaniem konsolidacji, pod warunkiem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "przedłożenia dokumentów, z których wynika podjęcie decyzji o połączeniu przez wszystkie właściwe podmioty oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "po przedłożeniu projektu aktu lub projektu innego dokumentu o połączeniu podmiotów leczniczych",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– który wejdzie w ogół praw i obowiązków podmiotu przejmowanego, a w przypadku połączenia się podmiotów skutkującego utworzeniem nowego podmiotu – jeden z podmiotów łączących się zgodnie z dokumentami, o których mowa w lit. a i b."
+      },
+      {
+       "type": "text",
+       "text": "Uprawnienie do złożenia wniosku dotyczy jedynie konsolidacji przeprowadzonych po dniu wejścia w życie ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o działalności leczniczej (Dz. U. poz. 1211), tj. od dnia 17 września 2025 r."
+      },
+      {
+       "type": "text",
+       "text": "Zawarcie umowy o dotacje z Funduszu Medycznego możliwe będzie po formalnym połączeniu podmiotów leczniczych (wpis do KRS oraz rejestru podmiotów wykonujących działalność leczniczą) w wyznaczonym w dokumentacji konkursowej terminie."
+      },
+      {
+       "type": "text",
+       "text": "Efekt konsolidacji musi być zgodny z mapami potrzeb zdrowotnych w zakresie schematu zabezpieczenia opieki szpitalnej (aplikacja Baza Analiz Systemowych i Wdrożeniowych – https://basiw.mz.gov.pl/) – w przypadku świadczeń opieki zdrowotnej, dla których ten schemat został opracowany."
+      },
+      {
+       "type": "text",
+       "text": "OBOWIĄZKI PODMIOTÓW KONSOLIDOWANYCH"
+      },
+      {
+       "type": "text",
+       "text": "Przystąpienie do konsolidacji powinno zostać poprzedzone szczegółową analizą stanu podmiotów szpitalnych, w tym m.in. w obszarze:"
+      },
+      {
+       "type": "text",
+       "text": "o sytuacji finansowej, w tym analizy ponoszonych kosztów, posiadanych zobowiązań oraz płynności finansowej;"
+      },
+      {
+       "type": "text",
+       "text": "o przeglądu zasobów, w tym dostępnej infrastruktury, sprzętu medycznego, potencjału kadrowego, obłożenia łóżek szpitalnych;"
+      },
+      {
+       "type": "text",
+       "text": "o przeprowadzenia oceny wpływu konsolidacji na pacjentów, tj. zapewnienie odpowiedniej dostępności do świadczeń opieki zdrowotnej;"
+      },
+      {
+       "type": "text",
+       "text": "o struktury udzielanych świadczeń, w tym dublujących się obszarów, komórek organizacyjnych, w których są udzielane świadczenia zdrowotne oraz komórek administracyjnych;"
+      },
+      {
+       "type": "text",
+       "text": "o struktury hospitalizacji zabiegowych z zakresu leczenia szpitalnego w połączonym podmiocie, średniej liczby dni hospitalizacji u danego świadczeniodawcy w danym roku kalendarzowym."
+      },
+      {
+       "type": "text",
+       "text": "Założeniem konsolidacji jest zapewnienie dostępności do świadczeń opieki zdrowotnej dla pacjentów na dotychczasowym poziomie."
+      },
+      {
+       "type": "text",
+       "text": "Konsolidacji towarzyszy optymalizacja zarządzania zasobami ludzkimi, którą poprzedzać powinna analiza deficytów i nadwyżek kadrowych. Optymalizacja wykorzystania kadr medycznych i niemedycznych zawierać powinna ocenę wpływu przewidzianej inwestycji na poprawę efektywności pracy personelu przez lepsze rozmieszczenie kadr połączonych podmiotów leczniczych lub komórek organizacyjnych, ograniczenie nadmiarowych etatów (w tym administracyjnych) oraz zwiększenie dostępności personelu medycznego w zakresach, w których odnotowywany jest ich niedobór."
+      },
+      {
+       "type": "text",
+       "text": "Monitorowanie efektów konsolidacji wymaga opracowania zestawu wskaźników w zakresie wykorzystania zasobów po konsolidacji. W wyniku procesu powinna nastąpić poprawa efektywności wykorzystania infrastruktury technicznej i lokalowej, zwiększenia stopnia wykorzystania zasobów infrastrukturalnych przez m.in. adaptację i zmianę przeznaczenia niewykorzystywanych obiektów, optymalizację wykorzystania powierzchni użytkowej, racjonalizację rozmieszczenia funkcji medycznych i administracyjnych."
+      },
+      {
+       "type": "text",
+       "text": "Przy wyborze wniosków do dofinansowania w Programie należy brać pod uwagę m.in.:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "zgodność konsolidacji z mapami potrzeb zdrowotnych w zakresie schematu zabezpieczenia opieki szpitalnej (aplikacja Baza Analiz Systemowych i Wdrożeniowych – https://basiw.mz.gov.pl/);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wpływ na dostępność oraz jakość świadczeń opieki zdrowotnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "poprawę efektywności wykorzystania infrastruktury technicznej i lokalowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "koncentrację miejsc udzielania świadczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "optymalizację wykorzystania kadr medycznych i niemedycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "integrację oraz efektywność wykorzystania istotnych elementów infrastruktury medycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "zakres i znaczenie konsolidacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "poprawę sytuacji ekonomiczno-finansowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "adekwatność planowanych zadań inwestycyjnych do celów i zakresu konsolidacji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "PROGNOZA"
+      },
+      {
+       "type": "text",
+       "text": "✓ Realizacja Programu przyniesie szereg korzyści organizacyjnych, finansowych i jakościowych. Najważniejsze z nich to:"
+      },
+      {
+       "type": "text",
+       "text": "o poprawa efektywności finansowej – niższe koszty funkcjonowania,"
+      },
+      {
+       "type": "text",
+       "text": "o optymalizacja wykorzystania zasobów m.in. sprzętu, personelu, infrastruktury,"
+      },
+      {
+       "type": "text",
+       "text": "o lepsza pozycja negocjacyjna wobec zewnętrznych kontrahentów, m.in. dostawców."
+      },
+      {
+       "type": "text",
+       "text": "Vb.4. Cel interwencji"
+      },
+      {
+       "type": "text",
+       "text": "Rzeczpospolita Polska powinna dążyć do wspierania procesów konsolidacji podmiotów szpitalnych. Efektem konsolidacji jest poprawa jakości i bezpieczeństwa świadczeń opieki zdrowotnej."
+      },
+      {
+       "type": "text",
+       "text": "Konsolidacja to lepsze zarządzanie zasobami ludzkimi oraz możliwość elastycznego dostosowania personelu do potrzeb. Narzędzie to ułatwia także profesjonalizację kadr przez szkolenia i rozwój."
+      },
+      {
+       "type": "text",
+       "text": "Konsolidacja to zwiększona stabilność organizacyjna podmiotu leczniczego. Podmioty szpitalne połączone organizacyjnie są mniej podatne na zmiany lokalne, problemy finansowe oraz niedobory kadrowe."
+      },
+      {
+       "type": "text",
+       "text": "Konsolidacja zapewnia także korzyści na poziomie strategicznym. Zwiększa zdolność do reagowania na zmiany regulacyjne i rynkowe oraz, przez możliwość tworzenia dużych centrów medycznych, zwiększa dostępność pacjentów do świadczeń kompleksowych."
+      },
+      {
+       "type": "text",
+       "text": "Obecnie dostrzegalne jest zjawisko stopniowego pogarszania się sytuacji finansowej niektórych podmiotów szpitalnych. Racjonalizacji wymaga także struktura udzielanych świadczeń oraz optymalizacja wykorzystania zasobów kadrowych służby zdrowia."
+      },
+      {
+       "type": "text",
+       "text": "Konieczne jest zapewnienie wysokiej jakości świadczeń opieki zdrowotnej z zakresu leczenia szpitalnego przez m.in. wdrażanie standardów klinicznych i jednolitych procedur, systematyczne monitorowanie jakości i bezpieczeństwa leczenia, zapewnienie odpowiedniej obsady kadrowej personelu medycznego i niemedycznego, inwestycje w nowoczesny i trwały sprzęt diagnostyczny i terapeutyczny, utrzymanie infrastruktury szpitalnej na wysokim poziomie."
+      },
+      {
+       "type": "text",
+       "text": "Dofinansowanie nie może zostać udzielone na zakup sprzętu wysokospecjalistycznego wskazanego w poniższym katalogu:"
+      },
+      {
+       "type": "text",
+       "text": "o system robotowy do zabiegów chirurgicznych,"
+      },
+      {
+       "type": "text",
+       "text": "o bunkier do radioterapii (sprzęt),"
+      },
+      {
+       "type": "text",
+       "text": "o aparat pozytonowej tomografii emisyjnej,"
+      },
+      {
+       "type": "text",
+       "text": "o akcelerator protonowy,"
+      },
+      {
+       "type": "text",
+       "text": "o wyposażenie i sprzęt do poradni lub pracowni medycyny nuklearnej,"
+      },
+      {
+       "type": "text",
+       "text": "o sala hybrydowa,"
+      },
+      {
+       "type": "text",
+       "text": "o komora hiperbaryczna."
+      },
+      {
+       "type": "text",
+       "text": "O Vb.5. Podsumowanie"
+      },
+      {
+       "type": "text",
+       "text": "Zadania w ramach subfunduszu modernizacji podmiotów leczniczych w ramach Programu na rzecz konsolidacji podmiotów leczniczych będą odpowiedzią na wskazane powyżej wyzwania i potrzeby, ujęte w części Diagnoza obecnego potencjału oraz części Wyzwania."
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie procesów konsolidacyjnych jest mechanizmem finansowym mającym na celu dostosowanie struktury udzielanych świadczeń do potrzeb wynikających z aktualnej sytuacji finansowej, kadrowej oraz bezpieczeństwa pacjentów."
+      },
+      {
+       "type": "text",
+       "text": "Z przeprowadzonej wyżej diagnozy systemu wynika, że:"
+      },
+      {
+       "type": "text",
+       "text": "✓ aktualna sytuacja podmiotów szpitalnych wymaga podjęcia działań mających na celu racjonalizację zasobów, w tym ograniczenie zobowiązań finansowych, stabilizację bieżących wydatków, redukcję kosztów administracyjnych, lepsze wykorzystanie sprzętu i infrastruktury oraz zasobów kadrowych;"
+      },
+      {
+       "type": "text",
+       "text": "✓ wymaga się ustanowienia stabilności organizacyjnej zwłaszcza wobec dużego rozproszenia zasobów na danym obszarze zabezpieczenia dostępu do świadczeń;"
+      },
+      {
+       "type": "text",
+       "text": "✓ w ślad za powyższym idzie potrzeba zwiększenia kompleksowości udzielanych świadczeń, zapewniając kontynuację procesu diagnostycznego lub terapeutycznego w jednym podmiocie leczniczym, zgodność z potrzebami zdrowotnymi w regionie oraz odpowiednio wysoki stopień jakości udzielanych świadczeń;"
+      },
+      {
+       "type": "text",
+       "text": "✓ bieżące dostosowywanie struktury działalności leczniczej podmiotów szpitalnych do zmieniających się lokalnych potrzeb zdrowotnych, a także do zasobów, w tym w szczególności kadrowych, jakimi dysponują podmioty lecznicze, wymaga podejmowania określonych środków. W związku z powyższym proponuje się przeprowadzenie rozwiązań uelastyczniających i racjonalizujących działanie podmiotów szpitalnych przez konsolidację."
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie procesów konsolidacyjnych będzie polegało na wsparciu finansowym infrastrukturalnych procesów dostosowawczych do niezbędnych zmian organizacyjnych, polegających na:"
+      },
+      {
+       "type": "text",
+       "text": "✓ przebudowie, modernizacji infrastruktury podmiotów leczniczych lub budowie nowej infrastruktury podmiotów leczniczych (tylko w uzasadnionych przypadkach związanych z brakiem możliwości efektywnego inwestowania środków w przebudowę budynków, które nie spełniają standardów obowiązujących dla obiektów ochrony zdrowia);"
+      },
+      {
+       "type": "text",
+       "text": "✓ doposażeniu w wyroby medyczne oraz pozostałe wyposażenie, włącznie z systemami bezpieczeństwa i systemami teleinformatycznymi."
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie będzie dotyczyło zmian jakościowych w funkcjonowaniu podmiotów leczniczych przez realizację niezbędnych działań infrastrukturalnych wynikających z procesów konsolidacyjnych i ukierunkowanych na osiągnięcie zakładanych celów konsolidacji."
+      },
+      {
+       "type": "text",
+       "text": "O Vb.6. Oczekiwany rezultat"
+      },
+      {
+       "type": "text",
+       "text": "✓ Szacuje się, że dzięki wsparciu realizacji procesów konsolidacyjnych nastąpi poprawa sytuacji finansowej podmiotów szpitalnych, dzięki lepszemu wykorzystaniu zasobów, w tym kadry medycznej, oraz polepszenie dostępu do wysokiej jakości świadczeń."
+      },
+      {
+       "type": "text",
+       "text": "✓ Bezpośrednim efektem zaś dedykowanego w ramach Programu wsparcia będzie wybudowana, przebudowana lub zmodernizowana i doposażona infrastruktura podmiotów leczniczych podejmujących procesy konsolidacyjne."
+      },
+      {
+       "type": "text",
+       "text": "✓ Interwencje w tym obszarze przyczynią się do podejmowania działań konsolidacyjnych przez podmioty lecznicze, a tym samym do – poprawy sytuacji finansowej, optymalnego zaspokojenia potrzeb zdrowotnych oraz zapewnienia spójności i efektywności systemu ochrony zdrowia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8",
+   "body": [
+    {
+     "type": "text",
+     "text": "VI. Ramy finansowe"
+    },
+    {
+     "type": "text",
+     "text": "Ustawa o Funduszu Medycznym wskazuje zasady realizacji i finansowania programów inwestycyjnych, źródła oraz zasady gromadzenia środków Funduszu, a także wytyczne udzielania finansowania i dofinansowania z ww. środków. Zgodnie z jej przepisami Fundusz gromadzi środki z przeznaczeniem m.in. na dofinansowanie zadania polegającego na budowie, modernizacji, przebudowie lub doposażeniu podmiotów leczniczych w ramach subfunduszu modernizacji podmiotów leczniczych."
+    },
+    {
+     "type": "text",
+     "text": "Program Modernizacji Podmiotów Leczniczych, który powstał w celu realizacji zadań subfunduszu modernizacji podmiotów leczniczych, będzie finansowany ze środków Funduszu Medycznego, a dofinansowanie zaplanowanych w nim zadań następuje w formie dotacji celowej. O dofinansowanie w ramach programu mogą ubiegać się podmioty lecznicze udzielające świadczeń opieki zdrowotnej finansowanych ze środków publicznych. Wybór wniosków o dofinansowanie w ramach programu inwestycyjnego następuje w drodze konkursu przeprowadzanego przez ministra właściwego do spraw zdrowia. W umowach o dofinansowanie zawieranych w ramach subfunduszu modernizacji podmiotów leczniczych, zgodnie z art. 6 ust. 7 ustawy o Funduszu Medycznym, Minister Zdrowia może zaciągać zobowiązania o charakterze wieloletnim – z uwagi na wieloletni charakter zadań inwestycyjnych – do łącznej wysokości środków z Funduszu Medycznego przeznaczonych na realizację Programu. Maksymalne dofinansowanie działań przewidzianych do realizacji Programu wynosi 100 % wartości kosztorysowej inwestycji."
+    },
+    {
+     "type": "text",
+     "text": "Planowane nakłady z Funduszu Medycznego na realizację wszystkich działań przewidzianych w ramach Programu wynoszą łącznie 5 100 mln zł."
+    },
+    {
+     "type": "text",
+     "text": "TABELA 14. Indykatywny harmonogram wydatków w poszczególnych latach realizacji programu (w mln zł)"
+    },
+    {
+     "type": "text",
+     "text": "Planowana"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Planowane interwencje kwota 2022 r. 2023 r. 2024 r. 2025 r. 2026 r. 2027 r. 2028 r. 2029 r. wsparcia"
+    },
+    {
+     "type": "text",
+     "text": "Wsparcie rozwoju"
+    },
+    {
+     "type": "text",
+     "text": "infrastruktury"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "1 076",
+     "children": [
+      {
+       "type": "text",
+       "text": "udzielania świadczeń"
+      },
+      {
+       "type": "text",
+       "text": "opiekuńczo-leczniczych Przy realizacji działań Programu minister właściwy do spraw zdrowia będzie miał na względzie potrzeby zdrowotne w poszczególnych regionach kraju, biorąc pod uwagę m.in. mapy potrzeb zdrowotnych, o których mowa w art. 95a ust. 1 i 6 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, tak aby w miarę możliwości stopniowo zmniejszać nierówności w dostępie do świadczeń opieki zdrowotnej w poszczególnych województwach."
+      },
+      {
+       "type": "text",
+       "text": "Powyższy harmonogram określa planowany podział alokacji subfunduszu oraz lata, w których zakładane jest wsparcie w poszczególnych obszarach. Przedstawiony harmonogram jest planem, natomiast dopuszcza się możliwość zmiany harmonogramu po decyzji ministra właściwego do spraw zdrowia. Interwencje będą podejmowane w komplementarności z działaniami z innych źródeł finansowania. Zmiany w zakresie harmonogramu wydatków w poszczególnych latach realizacji Programu nie wymagają zmiany Programu inwestycyjnego."
+      },
+      {
+       "type": "text",
+       "text": "VII. Monitoring Programu i ocena stopnia osiągnięcia celów Programu"
+      },
+      {
+       "type": "text",
+       "text": "Monitorowanie prawidłowej realizacji Programu będzie prowadzone przez właściwe komórki organizacyjne Ministerstwa Zdrowia, odpowiedzialne za merytoryczny nadzór nad realizacją zadań oraz za finansowanie zadań."
+      },
+      {
+       "type": "text",
+       "text": "Monitorowanie Programu odbywać się będzie na dwóch poziomach:"
+      },
+      {
+       "type": "text",
+       "text": "I. poszczególnych umów zawartych w ramach Programu – przez bieżący monitoring postępu rzeczowego i finansowego umów;"
+      },
+      {
+       "type": "text",
+       "text": "II. Programu – w cyklu trzyletnim będzie publikowany raport z wdrażania Programu opisujący poziom osiągnięcia poszczególnych wskaźników oraz analizujący stopień osiągnięcia celów Programu."
+      },
+      {
+       "type": "text",
+       "text": "Realizatorzy zadań będą zobowiązani do przedstawiania sprawozdań finansowych i merytorycznych z realizacji zadań w terminie określonym w zawartych umowach. Na podstawie przekazywanych sprawozdań Ministerstwo Zdrowia będzie monitorować prawidłową realizację zadań oraz stopień osiągnięcia poszczególnych wskaźników Programu."
+      },
+      {
+       "type": "text",
+       "text": "W ramach Programu przyjęto następujące wskaźniki realizacji interwencji:"
+      },
+      {
+       "type": "text",
+       "text": "Lp. Nazwa wskaźnika Wartość docelowa¹"
+      },
+      {
+       "type": "text",
+       "text": "Liczba podmiotów leczniczych udzielających świadczeń opiekuńczo-leczniczych, w 1. 70 których wsparto budowę, modernizację, przebudowę i doposażenie infrastruktury"
+      },
+      {
+       "type": "text",
+       "text": "Liczba podmiotów leczniczych udzielających świadczeń opieki zdrowotnej w 2. zakresie opieki paliatywnej i hospicyjnej, w których wsparto budowę, modernizację, 30 przebudowę i doposażenie infrastruktury"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Liczba wymienionych łóżek szpitalnych 10 000",
+     "children": [
+      {
+       "type": "text",
+       "text": "Liczba jednostek systemu PRM, w których wsparto budowę, modernizację,"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "przebudowę i doposażenie infrastruktury 278",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Liczba podmiotów, które uzyskały wsparcie procesu konsolidacyjnego 26",
+     "children": [
+      {
+       "type": "text",
+       "text": "Na koniec II kwartału następującego po 2026 r. i 2029 r. zostaną opublikowane raporty z wdrażania Programu opisujące poziom osiągnięcia poszczególnych wskaźników oraz analizujące stopień osiągnięcia celów Programu."
+      },
+      {
+       "type": "text",
+       "text": "¹ Zgodnie z ustawą z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2026 r. poz. 141). ¹ Wsparcie możliwe do zrealizowania w ramach Programu w przypadku zmiany terminów obowiązywania wymagań dla SOR (przepisów rozporządzenia o SOR). Przed rozpoczęciem interwencji zostanie przeprowadzona ponowna analiza potrzeb. 120 000 105140 109908 94903 96440 92924 97877 w 100 000 91656 90727 ó t n e 80 000 j c a p 60 000 a b z 40 000 c i L 20 000 0 2017 2018 2019 2020 2021 2022 2023 2024 Źródło: opracowanie MZ na podstawie danych NFZ Źródło: opracowanie MZ na podstawie danych NFZ i GUS Źródło: opracowanie MZ na podstawie danych NFZ i GUS Źródło: opracowanie MZ na podstawie danych NFZ ¹ Podmiotów identyfikowanych na podstawie kodu świadczeniodawcy realizujących świadczenia na terenie danego powiatu. ² OECD, Time for Better Care at the End of Life, OECD Health Policy Studies, OECD Publishing, Paris, 2023. ³ N. Arias-Casais et. al. EAPC Atlas of Palliative Care in Europe 2019, EAPC Press, Belgia, 2019 Źródło: Opracowanie MZ na podstawie danych z NFZ, KRN i GUS ⁴ Ciałkowska-Rysz, Aleksandra. 2019. \"An appraisal of the situation of palliative care in Poland in 2018\". Medycyna Paliatywna/Palliative Medicine 11 (4): 163-169. doi:10.5114/pm.2019.93184. ⁵ Zasowska-Nowak, Anna. 2022. \"Directions of development of palliative care based on the literature\". Medycyna Paliatywna/Palliative Medicine 14 (2): 55-63. doi:10.5114/mp.2022.123776. ⁶ Ciałkowska-Rysz, Aleksandra. 2009. \"The situation and challenges of palliative care in Poland\". Medycyna Paliatywna/Palliative Medicine 1 (1): 22-26. ⁷ Zgodnie z załącznikiem nr 1 do rozporządzenia Ministra Zdrowia z dnia 29 października 2013 r. w sprawie świadczeń gwarantowanych z zakresu opieki paliatywnej i hospicyjnej lista jednostek chorobowych umożliwiających objęcie opieką paliatywną i hospicyjną osób dorosłych obejmuje 8 przyczyn, w tym jedna przyczyna to nowotwory, natomiast lista jednostek chorobowych dla dzieci do 18. roku życia obejmuje 65 przyczyn, w tym 19 to nowotwory. 14 133 415 spzoz spółka instytut Źródło: Dane własne MZ (stan na 30 czerwca 2025 r.) ⁸ Ustawa z dnia 5 sierpnia 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o działalności leczniczej (Dz. U. poz. 1211). ⁹ Źródło: Mapy potrzeb zdrowotnych na lata 2027–2031. Źródło: Mapy potrzeb zdrowotnych na okres od dnia 1 stycznia 2027 r. do dnia 31 grudnia 2031 r. – opracowanie MZ na podstawie danych NFZ Źródło: Opracowanie MZ na podstawie danych NFZ Źródło: Mapy potrzeb zdrowotnych na okres od dnia 1 stycznia 2027 r. do dnia 31 grudnia 2031 r. – opracowanie MZ na podstawie danych NFZ 52,8% 52,3% 50,7% 50,9% 50,23% 49,1% 49,54% 49,24% 47,7% 48,0% 48,32% 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 I-IX 2025 udział % nakładów na leczenie szpitalne w kosztach realizacji zadań NFZ Źródło: Opracowanie MZ na podstawie danych NFZ 200 000 000 100% 90% 150 000 000 80% 70% 100 000 000 50,7% 50,9% 52,8% 52,3% 50,2% 49,5% 49,2% 60% 47,7% 48,0% 49,1% 48,3% 50 000 000 50% 40% 0 30% 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 I-VIII 2025 koszty realizacji zadań NFZ (dane w tys. zł) udział % nakładów na leczenie szpitalne w kosztach realizacji zadań Źródło: Opracowanie MZ na podstawie danych NFZ 27930296800,32 zł 23939649730,53 zł 22397583335,60 zł 23844955587,31 zł 20292848135,42 zł 5437396062,58 zł 2017 r. 2018 r. 2019 r. 2020 r. 2021 r. 2022 r. 2023 r. 2024 r. (IV kwartał) Źródło: Opracowanie MZ na podstawie danych NFZ 160 147 140 122 118 120 106 100 93 94 75 80 80 63 64 61 60 52 52 38 44 40 34 26 21 15 12 17 13 20 8 5 8 4 6 0 zobowiązania zobowiązania zobowiązania zobowiązania zobowiązania zobowiązania zobowiązania ogółem ogółem ogółem ogółem ogółem ogółem ogółem >20% >25% >30% >35% >40% >45% >50% przychodów przychodów przychodów przychodów przychodów przychodów przychodów ogółem ogółem ogółem ogółem ogółem ogółem ogółem zysk netto zysk z działalności operacyjnej stratę netto >5% przychodów ogółem stratę netto Źródło: Opracowanie MZ na podstawie danych statystycznych ¹⁰ Przeprowadzona ustawą z dnia 5 sierpnia 2025 r. o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o działalności leczniczej, która weszła w życie 17 września 2025 r. Wsparcie rozwoju 2. infrastruktury opieki 400 paliatywnej i hospicyjnej 3. Wymiana łóżek szpitalnych 200 Wsparcie infrastruktury 4. 2 275 ratownictwa medycznego Wsparcie procesów 5. konsolidacyjnych podmiotów 1 149 leczniczych Razem 5 100 0,0 0,0 825,9 667,8 475,5 661,9 1 448,9 1 020,0 ¹ Przedstawiona wartość wskaźników wynika ze zmapowanych potrzeb w ramach obszarów wsparcia objętych Programem i przedstawionych w poszczególnych rozdziałach. Ostateczny stopień realizacji zakładanych wskaźników będzie uzależniony od liczby i jakości złożonych wniosków o dofinansowanie w danym naborze, a także od ostatecznych potrzeb przedstawionych przez podmioty lecznicze i możliwości finansowych funduszu. Przyjmuje się, że cele funduszu zostaną osiągnięte w stopniu zadowalającym w przypadku ostatecznego stopnia wykonania w granicach 70 %."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

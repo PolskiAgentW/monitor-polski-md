@@ -1,0 +1,1026 @@
+{
+ "eli": "MP/2025/251",
+ "title": "Uchwała nr 39 Rady Ministrów z dnia 13 marca 2025 r. zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Utworzenie Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich w Wojewódzkim Specjalistycznym Szpitalu Dziecięcym im. prof. dr. Stanisława Popowskiego w Olsztynie\"",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/251/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 39"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 marca 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą „Utworzenie Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich w Wojewódzkim Specjalistycznym Szpitalu Dziecięcym im. prof. dr. Stanisława Popowskiego w Olsztynie”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 214 Rady Ministrów z dnia 10 listopada 2023 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą „Utworzenie Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich w Wojewódzkim Specjalistycznym Szpitalu Dziecięcym im. prof. dr. Stanisława Popowskiego w Olsztynie” (M.P. poz. 1268) w załączniku do uchwały:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "spis treści otrzymuje brzmienie określone w załączniku nr 1 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w rozdziale 7 „Opis inwestycji” podrozdział 7.2 „Zakres techniczny inwestycji – główne założenia i charakter inwestycji” otrzymuje brzmienie określone w załączniku nr 2 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "rozdział 8 „Zakres rzeczowo-finansowy inwestycji” i rozdział 9 „Mierniki planowanej inwestycji” otrzymują brzmienie określone w załączniku nr 3 do niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały nr 39 Rady Ministrów z dnia 13 marca 2025 r. (M.P. poz. 251) Załącznik nr 1 ą",
+   "body": [
+    {
+     "type": "text",
+     "text": "treści"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "DANE INWESTORA ................................................................................................................... 3",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "DANE IDENTYFIKUJĄCE INWESTYCJĘ ................................................................................ 3",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "INFORMACJE O INWESTORZE .............................................................................................. 3",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1. Opis prowadzonej działalności .................................................................................................. 3"
+      },
+      {
+       "type": "text",
+       "text": "3.2. Zasięg oddziaływania świadczonych usług medycznych ....................................................... 4"
+      },
+      {
+       "type": "text",
+       "text": "3.3. Osiągnięcia naukowe ................................................................................................................. 5"
+      },
+      {
+       "type": "text",
+       "text": "3.4. Potencjał techniczny i administracyjny ...................................................................................... 6"
+      },
+      {
+       "type": "text",
+       "text": "3.5. Potencjał prawny ......................................................................................................................... 6"
+      },
+      {
+       "type": "text",
+       "text": "3.6. Potencjał finansowy .................................................................................................................... 7"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "SYTUACJA DEMOGRAFICZNA I EPIDEMIOLOGICZNA W REGIONIE ............................ 7",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "DIAGNOZA USŁUG MEDYCZNYCH ..................................................................................... 10",
+     "children": [
+      {
+       "type": "text",
+       "text": "5.1. Usługi w zakresie ochrony zdrowia w regionie ...................................................................... 10"
+      },
+      {
+       "type": "text",
+       "text": "5.2. Dane o udzielanych świadczeniach opieki zdrowotnej ......................................................... 12"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "STRATEGIE I KIERUNKI ROZWOJU OPIEKI MEDYCZNEJ ........................................... 18",
+     "children": [
+      {
+       "type": "text",
+       "text": "6.1. Strategie rozwoju w jakie wpisuje się Program inwestycyjny ............................................. 18"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "OPIS INWESTYCJI ............................................................................................................. 19",
+     "children": [
+      {
+       "type": "text",
+       "text": "7.1. Cel ogólny programu oraz cele szczegółowe służące realizacji celu głównego wraz z uzasadnieniem konieczności podjęcia działań inwestycyjnych .............................................. 19"
+      },
+      {
+       "type": "text",
+       "text": "7.2. Zakres techniczny inwestycji – główne założenia i charakter inwestycji ........................... 22"
+      },
+      {
+       "type": "text",
+       "text": "7.3. Aktualny stan techniczny infrastruktury ............................................................................... 35"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "ZAKRES RZECZOWO-FINANSOWY INWESTYCJI ......................................................... 36",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.1. Zakres rzeczowy inwestycji ................................................................................................. 36"
+      },
+      {
+       "type": "text",
+       "text": "8.2. Prognozowany harmonogram realizacji inwestycji ............................................................... 37"
+      },
+      {
+       "type": "text",
+       "text": "8.3. Zestawienie źródeł finansowania inwestycji ....................................................................... 38"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "PROGNOZOWANE MIERNIKI PLANOWANEJ INWESTYCJI ............................................. 38",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "PLANOWANE EFEKTY MEDYCZNE I RZECZOWE ......................................................... 39",
+     "children": [
+      {
+       "type": "text",
+       "text": "10.1. Planowane efekty dla pacjentów uzyskane w wyniku realizacji inwestycji ...................... 40"
+      },
+      {
+       "type": "text",
+       "text": "10.2. Planowane efekty medyczne uzyskane w wyniku inwestycji ........................................... 40"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "OCENA EFEKTYWNOŚCI INWESTYCJI ............................................................................ 42",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "ANALIZA CELOWOŚCI I MOŻLIWOŚCI WYKONANIA INWESTYCJI ETAPAMI ............ 43",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "DANE O PLANOWANYM OKRESIE ZAGOSPODAROWANIA OBIEKTÓW BUDOWLANYCH I INNYCH SKŁADNIKÓW MAJĄTKOWYCH PO ZAKOŃCZENIU REALIZACJI INWESTYCJI ........................................................................................................ 44",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "MONITORING PROGRAMU INWESTYCYJNEGO ............................................................ 45",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "PRAWO DO DYSPONOWANIA NIERUCHOMOŚCIĄ NA CELE BUDOWLANE ............. 46",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "7.2. Zakres techniczny inwestycji – główne założenia i charakter inwestycji"
+    },
+    {
+     "type": "text",
+     "text": "Cel główny Programu inwestycyjnego zostanie osiągnięty przez realizację następujących zadań:"
+    },
+    {
+     "type": "text",
+     "text": "ZADANIE I – Budowa i wyposażenie nowego budynku Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich, zwanego dalej „budynkiem D3”. Łączna powierzchnia zadania (wraz z parkingiem podziemnym o powierzchni około 3,2 tys. m² na 140 miejsc parkingowych) wyniesie około 9,5 tys. m². W tym powierzchnia medyczna to około 5,3 tys. m²."
+    },
+    {
+     "type": "text",
+     "text": "ZADANIE II – Rozbudowa, przebudowa i wyposażenie infrastruktury oddziałów uzupełniających Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich, zlokalizowanych w budynku B, zwanego dalej „budynkiem B”. Łączna powierzchnia zadania wyniesie około 4,5 tys. m². Realizacja zadania została podzielona na 2 etapy: Etap 1. Rozbudowa i wyposażenie budynku B – łączna powierzchnia rozbudowy wyniesie około 740 m². Etap 2. Przebudowa budynku B – łączna powierzchnia przebudowy wyniesie około 3,8 tys. m²."
+    },
+    {
+     "type": "text",
+     "text": "Rysunek 1. Plan zagospodarowania terenu"
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Źródło danych: Opracowanie własne WSSD w Olsztynie Zadanie I"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa zadania: Budowa i wyposażenie nowego budynku Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich (budynek D3)"
+    },
+    {
+     "type": "text",
+     "text": "Zadanie I polega na budowie nowego, siedmiokondygnacyjnego budynku D3, gdzie zostaną usytuowane:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Komórki organizacyjne przeniesione z budynku B, do których należą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Otolaryngologii (poziom +4),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki (poziom +3),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Chirurgii Szczękowo-Twarzowej (poziom +1),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "Poradnia Chirurgii Szczękowo-Twarzowej (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "Poradnia Chirurgii Stomatologicznej (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_1/lit_f",
+       "text": "Poradnia Stomatologiczna (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_1/lit_g",
+       "text": "Poradnia Ortodontyczna (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_1/lit_h",
+       "text": "Poradnia Genetyczna (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_1/lit_i",
+       "text": "Poradnia Okulistyczna (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_1/lit_j",
+       "text": "Pracownia Otolaryngologiczna (poziom 0).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Pracownia Laryngologiczna (poziom 0). Komórka organizacyjna przeniesiona z budynku D2 – Pracownia Histopatologiczna (poziom 0).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Nowo utworzone komórki organizacyjne:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Neurochirurgii (poziom +2),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "Gabinet Terapii Psychologicznej (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_3/lit_c",
+       "text": "Pracownia Fotograficzna i Skanowania 3D (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_3/lit_d",
+       "text": "Pracownia Fizjoterapii (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_3/lit_e",
+       "text": "Pracownia EEG + EMG (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_3/lit_f",
+       "text": "Pracownia Logopedyczna (poziom 0),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_3/lit_g",
+       "text": "Pracownia Diagnostyki Obrazowej (poziom -1),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_3/lit_h",
+       "text": "Blok Operacyjny – 3 nowe sale operacyjne (poziom +1).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zakres zadania obejmuje również:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "budowę parkingu podziemnego o powierzchni około 3,1 tys. m² na około 140 miejsc parkingowych, zlokalizowanego na poziomie -1 i -2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "budowę łącznika stanowiącego połączenie nowo wybudowanego budynku D3 z istniejącym budynkiem D1. Wraz z połączeniem budynków ulegają przebudowie pomieszczenia w budynku D1 kolidujące z wejściem nowego łącznika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "przebudowę pomieszczeń Apteki Szpitalnej i Centralnej Sterylizatorni, zlokalizowanych w budynku D2, które kolidują z projektowanym połączeniem budynku D3 z budynkiem D2. Na skutek realizacji Pl, pomieszczenia Apteki Szpitalnej częściowo zostaną przeniesione do budynku D3.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zakres prac budowlanych obejmie w pierwszej kolejności przygotowanie terenu, to jest rozbiórkę istniejącego parkingu oraz ciągów pieszych, przełożenie istniejących sieci, wykonanie wykopów pod fundamenty parkingu podziemnego oraz budynku, następnie wykonanie robót stanu zerowego i surowego, wykonanie instalacji wewnętrznych i doprowadzenie zasilań zewnętrznych. Następnie zostaną wykonane roboty wykończeniowe, dostawa pierwszego wyposażenia wymagającego montażu, w tym wyposażenia sal zabiegowych i pomieszczeń łóżkowych (szczególnie specjalistyczne dla Oddziałów Okulistyki, Otolaryngologii, Chirurgii Szczękowo-Twarzowej oraz Neurochirurgii działających w ramach Kliniki Chirurgii Głowy i Szyi Dzieci i Młodzieży). Następnie dostawa wyposażenia niewymagającego montażu typu meblowego (w tym meble medyczne dla pomieszczeń tego wymagających) oraz urządzeń informatycznych. Planuje się przeniesienie części aparatury medycznej razem z przenoszonymi do nowego budynku poradniami i oddziałami, jak np. aparatura diagnostyczna poradni i pracowni."
+        },
+        {
+         "type": "text",
+         "text": "Budynek będzie wyposażony we wszystkie wymagane instalacje, tj. elektroenergetyczne, niskoprądowe, w tym osieciowanie informatyczne, instalacje sygnalizacji pożaru, instalacje sanitarne: centralne ogrzewanie, zimną wodę, ciepłą wodę użytkową, instalację wentylacji, instalacje tlenu medycznego, centralnego sprężonego powietrza medycznego i centralnej próżni technicznych."
+        },
+        {
+         "type": "text",
+         "text": "Zagospodarowanie terenu będzie realizowane równolegle z budową oraz po jej zakończeniu i zakłada utworzenie: dróg dojazdowych do budynku D3 oraz dwóch niezależnych wjazdów na parking podziemny, ciągów pieszych, elementów małej architektury oraz zieleni. Wybudowana zostanie strefa służąca do krótkiego postoju pod istniejącym wejściem do budynku D2 oraz wejściem do budynku D3, a także ciąg pieszy – bez barier architektonicznych – łączący oba wejścia. Wzdłuż drogi wewnętrznej – równoległej do ul. Dworcowej – jest planowanych dodatkowych 16 miejsc postojowych."
+        },
+        {
+         "type": "text",
+         "text": "Założenie w PI powstania dwukondygnacyjnego parkingu jest uzasadnione z powodów ekonomicznych oraz organizacyjnych i technologicznych. Jest to wariant najbardziej adekwatny do potrzeb Szpitala, ekonomiczny oraz będący wynikiem analizy ukształtowania terenu działki, na której zaplanowano inwestycję."
+        },
+        {
+         "type": "text",
+         "text": "Obecnie na terenie WSSD w Olsztynie istnieją 184 wyznaczone miejsca postojowe, w tym 9 dla osób z niepełnosprawnością. Dziennie, w godzinach pracy Szpitala, na parkingu oraz terenie przyległym do bryły budynku Szpitala parkuje jednoczasowo około 220 samochodów (na wyznaczonych miejscach postojowych i terenach zielonych oraz pozostałym terenie Szpitala). Przestrzeń ta jest niewystarczająca dla dużej liczby pacjentów przyjeżdżających na wizyty ambulatoryjne, porady, rehabilitację, a także dla przyjezdnych opiekunów towarzyszącym podczas hospitalizacji pacjentom."
+        },
+        {
+         "type": "text",
+         "text": "W wyniku budowy bryły D3 – która będzie posadowiona na terenie południowego parkingu – WSDD w Olsztynie traci 123 miejsca postojowe. Wynika z tego konieczność utworzenia parkingu w innej lokalizacji."
+        },
+        {
+         "type": "text",
+         "text": "Łączna powierzchnia zadania I (wraz z parkingiem podziemnym o powierzchni około 3,1 tys. m² wyniesie około 9,5 tys. m², w tym powierzchnia medyczna to około 5,4 tys. m²."
+        },
+        {
+         "type": "text",
+         "text": "Wybudowany budynek D3 zostanie wyposażony w aparaturę medyczną, wyposażenie niemedyczne oraz sprzęt informatyczny zgodnie z poniższą tabelą."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 3. Aparatura medyczna, wyposażenie niemedyczne oraz sprzęt informatyczny zaplanowany do zakupu w ramach zadania"
+        },
+        {
+         "type": "text",
+         "text": "Lp. Sprzęt i wyposażenie medyczne Liczba szt. Oddział"
+        },
+        {
+         "type": "text",
+         "text": "1 2 3 4"
+        },
+        {
+         "type": "text",
+         "text": "1 Tomograf stożkowy CBCT (wyrób 1 szt. Poradnia Chirurgii Szczękowo-Twarzowej 15 Analizator parametrów krytycznych 1 szt. Blok Operacyjny"
+        },
+        {
+         "type": "text",
+         "text": "16 Aparat USG 2 szt. Pracownia Diagnostyki Obrazowej"
+        },
+        {
+         "type": "text",
+         "text": "17 Autorefraktometr ręczny 1 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki"
+        },
+        {
+         "type": "text",
+         "text": "18 Autorefraktometr stacjonarny 1 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki"
+        },
+        {
+         "type": "text",
+         "text": "19 Tonometr przenośny 2 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki"
+        },
+        {
+         "type": "text",
+         "text": "20 Aparat OCT z funkcją angiograficzną 1 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki"
+        },
+        {
+         "type": "text",
+         "text": "21 Aparat do wykonywania testów ERG oraz VEP 1 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki"
+        },
+        {
+         "type": "text",
+         "text": "22 Sekwentator do analiz paneli NGS 1 szt. Poradnia Genetyczna"
+        },
+        {
+         "type": "text",
+         "text": "23 Analizator do mikromacierzy aCGH 1 szt. Poradnia Genetyczna"
+        },
+        {
+         "type": "text",
+         "text": "24 Kapnograf 1 kpl. Poradnia Genetyczna"
+        },
+        {
+         "type": "text",
+         "text": "25 Kardiomonitory 20 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Chirurgii Szczękowo-Twarzowej (10 szt.), Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Neurochirurgii (10 szt.) 26 Pompy przepływowe 19 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Chirurgii Szczękowo-Twarzowej (5 szt.), Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Neurochirurgii (10 szt.) Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki (2 szt.)"
+        },
+        {
+         "type": "text",
+         "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Otolaryngologii (2 szt.)"
+        },
+        {
+         "type": "text",
+         "text": "27 Pulsoksymetry 20 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Chirurgii Szczękowo-Twarzowej (5 szt.), Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Neurochirurgii (5 szt.) Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki (5 szt.)"
+        },
+        {
+         "type": "text",
+         "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Otolaryngologii (5 szt.)"
+        },
+        {
+         "type": "text",
+         "text": "28 Defibrylatory 4 szt. Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Chirurgii Szczękowo-Twarzowej"
+        },
+        {
+         "type": "text",
+         "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Neurochirurgii (1 szt.)"
+        },
+        {
+         "type": "text",
+         "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki (1 szt.)"
+        },
+        {
+         "type": "text",
+         "text": "Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Otolaryngologii (1 szt.)"
+        },
+        {
+         "type": "text",
+         "text": "29 Wyroby medyczne (niewymienione wyżej) niezbędne do prawidłowego funkcjonowania Oddziałów oraz innych komórek/jednostek organizacyjnych, między innymi kolumny chirurgiczne i anestezjologiczne, mikrotom, kriostat, myjnie-dezynfektory, systemy lekowe, wagi, lampy, stoły operacyjne, łóżka szpitalne, stacje monitorowania, wózki transportowe, narzędzia chirurgiczne, sterylizatory, kozetki, stanowiska pobierania krwi"
+        },
+        {
+         "type": "text",
+         "text": "30 Wyposażenie socjalno-bytowe (łóżka i łóżeczka z szafkami przyłóżkowymi, fotele dla rodziców, stanowiska do pielęgnacji noworodków), biurowo-administracyjne, zakupy informatyczne (np. drukarki, zestawy komputerowe, czytniki kodów, urządzenia wielofunkcyjne, systemy integracji sal operacyjnych, integracja z systemami informatycznymi)"
+        },
+        {
+         "type": "text",
+         "text": "* Wyroby medyczne o szczególnym znaczeniu dla zabezpieczenia potrzeb zdrowotnych, zgodnie z rozporządzeniem Ministra Zdrowia z dnia 30 lipca 2012 r. w sprawie wykazu wyrobów medycznych o szczególnym znaczeniu dla zabezpieczenia potrzeb zdrowotnych oraz zakresu informacji o tych wyrobach (Dz. U. poz. 895)."
+        },
+        {
+         "type": "text",
+         "text": "Źródło danych: Opracowanie własne WSSD w Olsztynie Rysunek 2. Graficzna wizualizacja inwestycji – lokalizacja inwestycji w zespole Szpitala"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Źródło danych: Opracowanie własne WSSD w Olsztynie Rysunek 3. Graficzna wizualizacja inwestycji – lokalizacja komórek organizacyjnych w budynku D3"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "ZADANIE II"
+        },
+        {
+         "type": "text",
+         "text": "Nazwa zadania: Rozbudowa, przebudowa i wyposażenie infrastruktury oddziałów uzupełniających Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich, zlokalizowanych w budynku B"
+        },
+        {
+         "type": "text",
+         "text": "Zadanie II inwestycji będzie polegało na rozbudowie oraz (na dalszym etapie) modernizacji i przebudowie istniejącego budynku B. Zadanie zostało podzielone na 2 etapy."
+        },
+        {
+         "type": "text",
+         "text": "Etap 1"
+        },
+        {
+         "type": "text",
+         "text": "Nazwa etapu: Rozbudowa i wyposażenie budynku B."
+        },
+        {
+         "type": "text",
+         "text": "Etap 1 polega na wykonaniu rozbudowy sześciu kondygnacji istniejącego budynku B w kierunku zachodnim, gdzie zostanie zlokalizowana klatka schodowa, zapewniająca bezpieczną ewakuację z tej części budynku, oraz po trzy sale łóżkowe (sale jedno- i dwułóżkowe, maksymalnie czteroosobowe ze względu na pobyt pacjenta z opiekunem) na czterech kondygnacjach (poziomy od +1 do +4). Najniższe dwie kondygnacje (poziomy 0 i -1) będą przeznaczone na potrzeby kuchni szpitalnej. Do czasu zakończenia realizacji Programu inwestycyjnego, z nowo zrealizowanych sal łóżkowych będą korzystać pacjenci oddziałów łóżkowych funkcjonujących obecnie w budynku B. W wyniku rozbudowy ulegnie zwiększeniu powierzchnia użytkowa zlokalizowanych w nich komórek organizacyjnych."
+        },
+        {
+         "type": "text",
+         "text": "W ramach inwestycji zaplanowano rozbudowę poniższych komórek organizacyjnych Szpitala:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "Oddział Kliniczny Chirurgii i Urologii Dziecięcej z Ośrodkiem Leczenia Zmian Naczyniowych (przed inwestycją poziom +4, po inwestycji poziom +4);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "Oddział Neurologii Dziecięcej z Pododdziałem Neurogenetyki i Chorób Rzadkich (przed inwestycją poziom +2, po inwestycji poziom +3, który obecnie jest zajmowany przez Klinikę Chirurgii Głowy i Szyi Dzieci i Młodzieży – Oddział Okulistyki, Oddział Otolaryngologii oraz Oddział Chirurgii Szczękowo-Twarzowej);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "Oddział Pediatryczny VI Endokrynologiczno-Diabetologiczny z Pododdziałem Reumatologii (przed inwestycją poziom +1, po inwestycji poziomy +1 oraz +2);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "Zaplecze kuchenne (poziomy 0 oraz -1).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Łączna powierzchnia rozbudowy wyniesie około 740 m²."
+        },
+        {
+         "type": "text",
+         "text": "Zakres prac budowlanych obejmie w pierwszej kolejności przygotowanie terenu, do których należą: przełożenie sieci ciepłowniczych i elektrycznych, wykonanie wykopu pod fundamenty, wykonanie robót stanu zerowego i surowego, wykonanie instalacji wewnętrznych i doprowadzenie zasilań zewnętrznych, wykonanie robót wykończeniowych, w tym instalacji stolarki okiennej i drzwiowej, dostawa wyposażenia."
+        },
+        {
+         "type": "text",
+         "text": "Budynek będzie wyposażony we wszystkie wymagane instalacje, tj. elektroenergetyczne, niskoprądowe, w tym osieciowanie informatyczne, instalacje sygnalizacji pożaru, instalacje sanitarne: centralne ogrzewanie, zimna woda, ciepła woda użytkowa, gazowa, instalacje tlenu medycznego, centralnego sprężonego powietrza medycznego i centralnej próżni. Wykonywane równolegle z rozbudową zagospodarowanie terenu obejmie ciągi piesze, podjazd pod zaplecze kuchenne oraz zagospodarowanie zieleni."
+        },
+        {
+         "type": "text",
+         "text": "Po rozbudowie jednostki zostaną doposażone w aparaturę medyczną, wyposażenie niemedyczne oraz sprzęt informatyczny, zgodnie z poniższą tabelą."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 4. Aparatura medyczna, wyposażenie niemedyczne oraz sprzęt informatyczny zaplanowany do zakupu w ramach Etapu 1. zadania ll"
+        },
+        {
+         "type": "text",
+         "text": "Lp. Sprzęt i wyposażenie medyczne Liczba szt. Oddział"
+        },
+        {
+         "type": "text",
+         "text": "1 2 3 4"
+        },
+        {
+         "type": "text",
+         "text": "Źródło danych: Opracowanie własne WSSD w Olsztynie Rysunek 4. Graficzna wizualizacja inwestycji – zadanie ll etap 1"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Źródło danych: opracowanie własne WSSD w Olsztynie"
+        },
+        {
+         "type": "text",
+         "text": "Etap 2"
+        },
+        {
+         "type": "text",
+         "text": "Nazwa etapu: Przebudowa budynku B"
+        },
+        {
+         "type": "text",
+         "text": "Etap 2 polega na przebudowie pomieszczeń budynku B, na poziomach od +1 do +4, w których zostaną usytuowane: 1) Oddział Kliniczny Chirurgii i Urologii Dziecięcej z Ośrodkiem Leczenia Zmian Naczyniowych (poziom +4); 2) Oddział Neurologii Dziecięcej z Pododdziałem Neurogenetyki i Chorób Rzadkich (poziom +3); 3) Oddział Pediatryczny VI Endokrynologiczno-Diabetologiczny z Pododdziałem Reumatologii (poziom +1 i + 2)."
+        },
+        {
+         "type": "text",
+         "text": "Łączna powierzchnia przebudowy wyniesie około 3,8 tys. m²."
+        },
+        {
+         "type": "text",
+         "text": "Zakres prac obejmuje prace ogólnobudowlane takie jak: przebudowa ścianek wewnętrznych, przebudowa instalacji wodno-kanalizacyjnych i centralnego ogrzewania, wykonanie posadzek, modernizacja instalacji wentylacji, modernizacja instalacji elektrycznej zasilania gniazd i oświetlenia, osieciowania strukturalnego, wykonanie instalacji gazów medycznych to jest tlenu, sprężonego powietrza oraz centralnej próżni z włączeniem do centralnych instalacji szpitalnych. Ponadto zakładana jest wymiana stolarki drzwiowej i okiennej."
+        },
+        {
+         "type": "text",
+         "text": "Rysunek 5. Graficzna wizualizacja inwestycji – zadanie ll etap 2"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Źródło danych: opracowanie własne WSSD w Olsztynie"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "ZAKRES RZECZOWO-FINANSOWY INWESTYCJI",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.1. Zakres rzeczowy inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 6. Zakres rzeczowy inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Powierzchnia całkowita Liczba łóżek w m² Lp. Komórki organizacyjne objęte inwestycją przed przed inwestycją po inwestycji inwestycją po inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5 6"
+      },
+      {
+       "type": "text",
+       "text": "ZADANIE I – Budowa i wyposażenie nowego budynku Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich"
+      },
+      {
+       "type": "text",
+       "text": "1 Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – 392 740 14 14 Oddział Otolaryngologii"
+      },
+      {
+       "type": "text",
+       "text": "2 Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – 305 702 10 12 Oddział Okulistyki"
+      },
+      {
+       "type": "text",
+       "text": "3 Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – 515 860 19 15 Oddział Chirurgii Szczękowo-Twarzowej"
+      },
+      {
+       "type": "text",
+       "text": "4 Poradnia Chirurgii Szczękowo-Twarzowej 29 46 - -"
+      },
+      {
+       "type": "text",
+       "text": "5 Poradnia Chirurgii Stomatologicznej 24 46 - -"
+      },
+      {
+       "type": "text",
+       "text": "6 Poradnia Stomatologiczna 39 70 - -"
+      },
+      {
+       "type": "text",
+       "text": "7 Poradnia Ortodontyczna 35 46 - -"
+      },
+      {
+       "type": "text",
+       "text": "8 Pracownia Otolaryngologiczna 14 33 - -"
+      },
+      {
+       "type": "text",
+       "text": "9 Poradnia Genetyczna 14 33 - -"
+      },
+      {
+       "type": "text",
+       "text": "10 Poradnia Okulistyczna 41 70 - -"
+      },
+      {
+       "type": "text",
+       "text": "11 Pracownia Laryngologiczna 23 82 - -"
+      },
+      {
+       "type": "text",
+       "text": "12 Pracownia Histopatologiczna 115 256 - -"
+      },
+      {
+       "type": "text",
+       "text": "12 Apteka Szpitalna 403 534 - -"
+      },
+      {
+       "type": "text",
+       "text": "13 Centralna Sterylizatornia 304 362 - -"
+      },
+      {
+       "type": "text",
+       "text": "Nowo utworzone komórki organizacyjne"
+      },
+      {
+       "type": "text",
+       "text": "1 Klinika Chirurgii Głowy i Szyi Dzieci i Młodzieży – - 716 - 12 Oddział Neurochirurgii"
+      },
+      {
+       "type": "text",
+       "text": "2 Blok Operacyjny (3 nowe sale operacyjne) - 536 - -"
+      },
+      {
+       "type": "text",
+       "text": "3 Pracownia Diagnostyki Obrazowej - 220 - -"
+      },
+      {
+       "type": "text",
+       "text": "4 Pracownia Fizjoterapii - 30 - -"
+      },
+      {
+       "type": "text",
+       "text": "5 Pracownia EEG+EMG - 33 - -"
+      },
+      {
+       "type": "text",
+       "text": "6 Pracownia Fotograficzna i Skanowania 3D - 49 - -"
+      },
+      {
+       "type": "text",
+       "text": "7 Gabinet Terapii Psychologicznej - 14 - -"
+      },
+      {
+       "type": "text",
+       "text": "8 Pracownia Logopedyczna - 29 - -"
+      },
+      {
+       "type": "text",
+       "text": "9 Parking podziemny – 140 miejsc - 3146 -"
+      },
+      {
+       "type": "text",
+       "text": "Powierzchnia obsługi technicznej, tj. komunikacja ogólna budynku (w tym łącznik prowadzący do bryły D), 10 rozdzielnie elektryczne i gazów medycznych, - 817 - - serwerownie, maszynownie, szyby windowe, szachty instalacyjne"
+      },
+      {
+       "type": "text",
+       "text": "RAZEM ZADANIE I 2253 9470 43 53 ZADANIE II – Rozbudowa, przebudowa i wyposażenie infrastruktury oddziałów uzupełniających Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich, zlokalizowanych w budynku B"
+      },
+      {
+       "type": "text",
+       "text": "Istniejące komórki organizacyjne"
+      },
+      {
+       "type": "text",
+       "text": "1 Oddział Neurologii Dziecięcej z Pododdziałem 568 1292 24 24 Neurogenetyki i Chorób Rzadkich"
+      },
+      {
+       "type": "text",
+       "text": "2 Oddział Kliniczny Chirurgii i Urologii Dziecięcej 208 1343 37 28 z Ośrodkiem Leczenia Zmian Naczyniowych"
+      },
+      {
+       "type": "text",
+       "text": "Oddział Pediatryczny VI Endokrynologiczno- 3 -Diabetologiczny z Pododdziałem Reumatologii 495 917 17 17"
+      },
+      {
+       "type": "text",
+       "text": "4 Zaplecze kuchenne 849 994 - -"
+      },
+      {
+       "type": "text",
+       "text": "RAZEM ZADANIE II 2120 4546 78 69"
+      },
+      {
+       "type": "text",
+       "text": "RAZEM ZADANIA I i II 4373 14 016 121 122"
+      },
+      {
+       "type": "text",
+       "text": "Źródło danych: Opracowanie własne WSSD w Olsztynie"
+      },
+      {
+       "type": "text",
+       "text": "8.2. Prognozowany harmonogram realizacji inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 7. Prognozowany harmonogram rzeczowy inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Lp. Fazy 2024 r. 2025 r. 2026 r. 2027 r."
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5 6"
+      },
+      {
+       "type": "text",
+       "text": "1 Pozyskanie działki budowlanej"
+      },
+      {
+       "type": "text",
+       "text": "2 Przygotowanie terenu i przyłączenia obiektów do sieci"
+      },
+      {
+       "type": "text",
+       "text": "3 Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "4 Instalacje"
+      },
+      {
+       "type": "text",
+       "text": "5 Zagospodarowanie terenu i budowa obiektów pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "6 Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Prace przygotowawcze, projektowe, obsługa inwestorska, 7 nadzory autorskie oraz ewentualnie szkolenia i rozruch technologiczny"
+      },
+      {
+       "type": "text",
+       "text": "Źródło danych: Opracowanie własne WSSD w Olsztynie"
+      },
+      {
+       "type": "text",
+       "text": "Minister Zdrowia będzie nadzorować realizację Programu inwestycyjnego oraz wydatkowanie udzielonej dotacji celowej zgodnie z przyjętym Programem inwestycyjnym oraz harmonogramem rzeczowo-finansowym określonym umową na udzielenie dotacji celowej, uwzględniającym Prognozowany harmonogram rzeczowy inwestycji – w celu zapewnienia osiągnięcia zaplanowanego w Programie inwestycyjnym końcowego efektu rzeczowego oraz założonych do realizacji mierników. W ramach Programu inwestycyjnego nie przewiduje się finansowania wydatków związanych z grupą pierwszą Wartości Kosztorysowej Inwestycji, tj. pozyskanie działki budowlanej. Posiadanie prawa do dysponowania nieruchomością na cele budowlane było jednym z warunków udziału w konkursie na wybór projektów strategicznych FM-SIS.01.PED.2021."
+      },
+      {
+       "type": "text",
+       "text": "8.3. Zestawienie źródeł finansowania inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 8. Źródła finansowania inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Wartość Planowane nakłady w poszczególnych Lp. Źródła finansowania Kosztorysowa latach w zł inwestycji Inwestycji (WKI) w zł 2024 r. 2025 r. 2026 r. 2027 r."
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5 6 7"
+      },
+      {
+       "type": "text",
+       "text": "1 Środki własne Inwestora 0 0 0 0 0"
+      },
+      {
+       "type": "text",
+       "text": "Środki z Subfunduszu 2 Infrastruktury Strategicznej – 181 295 149 22 247 014 32 403 161 94 000 777 32 644 197 Fundusz Medyczny"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM 181 295 149 22 247 014 32 403 161 94 000 777 32 644 197"
+      },
+      {
+       "type": "text",
+       "text": "Źródło danych: Opracowanie własne WSSD w Olsztynie"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "PROGNOZOWANE MIERNIKI PLANOWANEJ INWESTYCJI",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela 9. Prognozowane mierniki planowanej inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Tabela Mierniki stopnia realizacji inwestycji Mierniki – udział Wartość realizowanego zakresu Rok wg WKl rzeczowego Lp. Zakres rzeczowy realizowanego celu realizacji w zł rocznie narastająco % % 1 2 3 4 5 6 Przygotowanie terenu Budowa obiektów podstawowych Instalacje 1 2024 r. 12 12 Zagospodarowanie terenu i budowa obiektów pomocniczych Zakup sprzętu i wyposażenia Prace przygotowawcze, projektowe, nadzór Przygotowanie terenu Budowa obiektów podstawowych 2 2025 r. Instalacje 18 30 Zagospodarowanie terenu i budowa obiektów pomocniczych Prace przygotowawcze, projektowe, nadzór 181 295 149 Budowa obiektów podstawowych Instalacje 3 2026 r. Zagospodarowanie terenu i budowa obiektów pomocniczych 52 82 Zakup sprzętu i wyposażenia Prace przygotowawcze, projektowe, nadzór Budowa obiektów podstawowych Instalacje 4 2027 r. 18 100 Zagospodarowanie terenu i budowa obiektów pomocniczych Prace przygotowawcze, projektowe, nadzór"
+      },
+      {
+       "type": "text",
+       "text": "Źródło danych: Opracowanie własne WSSD w Olsztynie"
+      },
+      {
+       "type": "text",
+       "text": "medyczny o szczególnym znaczeniu) * 2 Laser CO2 ze skanerem frakcyjnym 1 szt. Blok Operacyjny 3 Platforma elektrochirurgiczna + Oddymiacz + 1 szt. Blok Operacyjny Argon + Zamykanie naczyń 4 Wieża laparoskopowa 1 szt. Blok Operacyjny 5 Wieża artroskopowa 1 szt. Blok Operacyjny 6 Bodypletyzmograf 1 szt. Blok Operacyjny 7 Wideolaryngoskop do intubacji trudnych 1 szt. Blok Operacyjny dróg oddechowych 8 Aspirator ultradźwiękowy 1 szt. Blok Operacyjny 9 Aparat RTG – ramię C (wyrób medyczny 1 szt. Blok Operacyjny o szczególnym znaczeniu) * 10 System zarządzania obrazami i danymi 1 szt. Blok Operacyjny pacjenta z możliwością transmisji i rejestracji 11 Mikrochirurgiczny Mikroskop operacyjny 1 szt. Blok Operacyjny 12 Tor wizyjny z możliwością obrazowania 1 kpl. Blok Operacyjny przy wykorzystaniu zieleni indocyjaninowej 13 Diatermia 3 szt. Blok Operacyjny 14 Aparat do znieczuleń + stanowisko 3 kpl. Blok Operacyjny do znieczuleń z wyposażeniem Źródło danych: opracowanie własne WSSD w Olsztynie 1 Cystoskop 2 kpl. Oddział Kliniczny Chirurgii i Urologii Dziecięcej z Ośrodkiem Leczenia Zmian Naczyniowych 2 Ureteorenoskop sztywny 2 kpl. Oddział Kliniczny Chirurgii i Urologii Dziecięcej z Ośrodkiem Leczenia Zmian Naczyniowych 3 Tor laparoskopowy 1 kpl. Oddział Kliniczny Chirurgii i Urologii Dziecięcej z Ośrodkiem Leczenia Zmian Naczyniowych 4 Kardiomonitory 4 szt. Oddział Pediatryczny VI Endokrynologiczno-Diabetologiczny z Pododdziałem Reumatologii Oddział Pediatryczny VI Endokrynologiczno- 5 Pompy przepływowe 6 szt. -Diabetologiczny z Pododdziałem Reumatologii (4 szt.), Pododdział Neurogenetyki i Chorób Rzadkich (2 szt.) Oddział Pediatryczny VI Endokrynologiczno- 6 Pulsoksymetry 4 szt. -Diabetologiczny z Pododdziałem Reumatologii (2 szt.), Pododdział Neurogenetyki i Chorób Rzadkich (2 szt.) Wyroby medyczne (niewymienione wyżej) niezbędne do prawidłowego funkcjonowania oddziałów oraz innych 7 komórek/jednostek organizacyjnych, między innymi łóżka szpitalne, dermatomy, stoły transportowe, systemy lekowe z szafami, wózkami i apteczką oddziałową, wagi, kozetki, stanowiska pobierania krwi Wyposażenie socjalno-bytowe (łóżka i łóżeczka z szafkami przyłóżkowymi), zakupy informatyczne (np. drukarki, 8 zestawy komputerowe, czytniki kodów, urządzenia wielofunkcyjne)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

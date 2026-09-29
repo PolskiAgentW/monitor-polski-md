@@ -1,0 +1,973 @@
+{
+ "eli": "MP/2026/152",
+ "title": "Uchwała nr 50 Rady Ministrów z dnia 20 stycznia 2026 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Rozbudowa i doposażenie Świętokrzyskiego Centrum Onkologii w Kielcach celem zwiększenia zakresu świadczeń oraz innowacyjności leczenia onkologicznego\"",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/152/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 55"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 stycznia 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustanowienia programu inwestycyjnego pod nazwą „Budowa laboratorium diagnostyki molekularnej oraz doposażenie infrastruktury Dolnośląskiego Centrum Onkologii, Pulmonologii i Hematologii celem podniesienia jakości procesów diagnostyczno-terapeutycznych”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889 oraz z 2025 r. poz. 1739) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rada Ministrów ustanawia program inwestycyjny pod nazwą „Budowa laboratorium diagnostyki molekularnej oraz doposażenie infrastruktury Dolnośląskiego Centrum Onkologii, Pulmonologii i Hematologii celem podniesienia jakości procesów diagnostyczno-terapeutycznych”, zwany dalej „Programem inwestycyjnym”, stanowiący załącznik do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Program inwestycyjny ustanawia się na lata 2026–2029.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Program inwestycyjny jest dofinansowany ze środków Funduszu Medycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Łączna kwota środków z Funduszu Medycznego z Subfunduszu Infrastruktury Strategicznej w okresie realizacji Programu inwestycyjnego wyniesie 291 969 687 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Kwota środków na realizację Programu inwestycyjnego jest corocznie ujmowana w planie finansowym Funduszu Medycznego, stanowiącym załącznik do ustawy budżetowej na dany rok, i podawana do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 55 Rady Ministrów z dnia 22 stycznia 2026 r. (M.P. poz. 152)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Program inwestycyjny pod nazwą „Budowa laboratorium diagnostyki molekularnej oraz doposażenie infrastruktury Dolnośląskiego Centrum Onkologii, Pulmonologii i Hematologii celem podniesienia jakości procesów diagnostyczno-terapeutycznych”"
+    },
+    {
+     "type": "text",
+     "text": "dla projektu strategicznego wskazanego do finansowania"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "ze środków Funduszu Medycznego",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "w konkursie"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "nr FM-SIS.04.ONKO.2025 I. Podmiot realizujący program",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dolnośląskie Centrum Onkologii, Pulmonologii i Hematologii"
+      },
+      {
+       "type": "text",
+       "text": "plac Ludwika Hirszfelda 12"
+      },
+      {
+       "type": "text",
+       "text": "53-413 Wrocław"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Opis działalności i rola w systemie ochrony zdrowia",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dolnośląskie Centrum Onkologii, Pulmonologii i Hematologii, zwane dalej „Centrum” lub „Szpitalem”, jest samodzielnym publicznym zakładem opieki zdrowotnej o charakterze referencyjnym. Centrum pełni kluczową rolę w systemie ochrony zdrowia w województwie dolnośląskim jako wiodący ośrodek onkologiczny w regionie. Centrum powstało w dniu 31.12.2021 r. w wyniku połączenia kilku kluczowych podmiotów leczniczych działających na terenie województwa dolnośląskiego:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Dolnośląskiego Centrum Onkologii we Wrocławiu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Dolnośląskiego Centrum Chorób Płuc;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Dolnośląskiego Centrum Transplantacji Komórkowych z Krajowym Bankiem Dawców Szpiku.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Centrum specjalizuje się w diagnostyce, leczeniu i profilaktyce chorób nowotworowych, schorzeń układu oddechowego oraz narządów klatki piersiowej i jest jedynym tego typu podmiotem na Dolnym Śląsku. W wielu obszarach działań Centrum obsługuje pacjentów nie tylko z regionu miasta Wrocław i województwa dolnośląskiego, ale również z innych regionów Rzeczypospolitej Polskiej."
+      },
+      {
+       "type": "text",
+       "text": "Centrum zapewnia kompleksową opiekę w kluczowych dziedzinach medycyny, takich jak: onkologia kliniczna i chirurgiczna, radioterapia, chemioterapia, hematologia i transplantologia, pulmonologia, torakochirurgia, urologia onkologiczna oraz ginekologia onkologiczna. Szpital pełni rolę regionalnego ośrodka referencyjnego w zakresie onkologii, prowadząc Dolnośląski Rejestr Nowotworów oraz koordynując działania profilaktyczne. Dzięki temu aktywnie współtworzy system organizacji diagnostyki i leczenia chorób nowotworowych na Dolnym Śląsku, wpływając realnie na jakość i dostępność opieki onkologicznej w regionie. Podmiot leczniczy jest zakwalifikowany jako Specjalistyczny Ośrodek Leczenia Onkologicznego III poziomu (SOLO III) w ramach Krajowej Sieci Onkologicznej, co wskazuje na wysokie standardy leczenia, osiągnięcia naukowe i jego istotną rolę w leczeniu pacjentów, w skali całego województwa."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Struktura",
+     "children": [
+      {
+       "type": "text",
+       "text": "Centrum to zintegrowana sieć zakładów leczniczych oraz ich jednostek i komórek działających na terenie województwa dolnośląskiego. Główne lokalizacje obejmują:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Wrocław, plac Hirszfelda, kampus główny Szpitala – Centrum Onkologii, Hospicjum Domowe, Poradnia Medycyny Paliatywnej i Specjalistyczna Przychodnia Onkologiczna;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Wrocław, ulica Grabiszyńska – Centrum Pulmonologii, Centrum Torakochirurgii, Centrum Hematologiczno-Transplantacyjne, Regionalna Przychodnia Specjalistyczna, Ośrodek Leczenia Niewydolności Oddechowej w Domu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Wrocław, ulica Fieldorfa – Dolnośląski Bank Dawców Komórek Krwiotwórczych oraz wybrane jednostki organizacyjne Centrum Hematologiczno-Transplantacyjnego i Centralnego Laboratorium Molekularnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Wrocław, ulica księdza Norberta Bonczyka – Poradnia urologiczna;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Oborniki Śląskie – Szpital „Leśne” oraz Zakład Pielęgnacyjno-Opiekuńczy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Jelenia Góra i Legnica – filie zapewniające dostępność świadczeń opieki zdrowotnej poza Wrocławiem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Trzebnica, Strzelin, Lubań, Lwówek Śląski – pracownie mammografii przesiewowej wspierające dostępność świadczeń opieki zdrowotnej poza Wrocławiem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Centrum działa w nowoczesnym modelu „unitów” – wyspecjalizowanych Centrów Kompetencji przeznaczonych leczeniu konkretnych schorzeń. Dzięki temu pacjent otrzymuje kompleksową opiekę w jednym miejscu – od diagnozy, przez leczenie, po rehabilitację."
+      },
+      {
+       "type": "text",
+       "text": "W obrębie Centrum wymienić można jednostki takie jak: Centrum Onkologii, Centrum Torakochirurgii, Centrum Pulmonologii, Centrum Hematologiczno-Transplantacyjne, kliniki specjalistyczne (na przykład chirurgia onkologiczna, radioterapia, hematologia, pulmonologia), Specjalistyczna Przychodnia Onkologiczna, Regionalna Przychodnia Specjalistyczna, Poradnia medycyny paliatywnej, Hospicjum domowe, Zakład Pielęgnacyjno-Opiekuńczy, Ośrodek Leczenia Niewydolności Oddechowej w Domu. Centrum dysponuje własną bazą diagnostyczną (medyczne laboratoria diagnostyczne, tomografia komputerowa, rezonans magnetyczny) oraz oferuje świadczenia opieki zdrowotnej w zakresie rehabilitacji, profilaktyki, immunologii i promocji zdrowia."
+      },
+      {
+       "type": "text",
+       "text": "Obecnie trwa budowa Nowego Szpitala Onkologicznego we Wrocławiu, który skonsoliduje kluczowe funkcje Centrum w jednej lokalizacji. Nowy Szpital Onkologiczny we Wrocławiu docelowo będzie dysponował 671 łóżkami – przeniesionymi z dotychczasowych lokalizacji we Wrocławiu, z jednoczesnym zwiększeniem ich liczby. Oddział w Obornikach Śląskich zachowa dotychczasową liczbę łóżek i będzie kontynuował działalność w niezmienionej formie. Nowy Szpital Onkologiczny we Wrocławiu będzie jedną z największych placówek tego typu w Europie."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Kadra i personel",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zespół Centrum tworzą doświadczeni specjaliści, którzy zapewniają pacjentom kompleksową opiekę medyczną. W strukturach szpitala jest zatrudnionych ponad 400 lekarzy różnych specjalności – w tym między innymi onkologii klinicznej, chirurgii onkologicznej, hematologii, torakochirurgii, chorób płuc, radioterapii i transplantologii klinicznej. Zespół ten obejmuje również około 740 pielęgniarek i położnych, 150 techników medycznych oraz personel pomocniczy, co umożliwia zapewnienie całodobowej opieki nad pacjentem.[^3]"
+      },
+      {
+       "type": "text",
+       "text": "Zespół medyczny Centrum regularnie uczestniczy w szkoleniach i doskonaleniu zawodowym, co gwarantuje zgodność świadczeń opieki zdrowotnej z najnowszymi standardami medycyny. Profesjonalizm i empatyczne podejście personelu przekładają się na skuteczność leczenia oraz zaufanie pacjentów."
+      },
+      {
+       "type": "text",
+       "text": "Centrum pełni również funkcję ośrodka dydaktycznego – wybrane kliniki mają status europejskich centrów szkoleniowych. Przykładowo, Oddział Ginekologii Onkologicznej posiada akredytację Europejskiego Towarzystwa Ginekologii Onkologicznej potwierdzającą najwyższe standardy edukacji medycznej w tej dziedzinie."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Osiągnięcia i potencjał naukowy",
+     "children": [
+      {
+       "type": "text",
+       "text": "Centrum posiada certyfikat Kompleksowego Centrum Onkologii, uzyskany jeszcze przed konsolidacją przez Dolnośląskie Centrum Onkologii we Wrocławiu. Dolnośląskie Centrum Onkologii we Wrocławiu to pierwszy i jedyny podmiot leczniczy w kraju może poszczycić się certyfikatem Kompleksowego Centrum Onkologii na dzień uzyskania certyfikatu."
+      },
+      {
+       "type": "text",
+       "text": "Centrum to również pierwszy i jedyny szpital w Rzeczypospolitej Polskiej z wdrożonym systemem kompleksowej oceny jakości opieki onkologicznej, potwierdzonym międzynarodową certyfikacją Innovative Partnership for Action Against Cancer (Innowacyjne Partnerstwo dla działań w walce z rakiem) w 2021 r. Certyfikat obejmuje pełen zakres opieki – od diagnostyki i leczenia, przez rehabilitację, po nadzór pozabiegowy."
+      },
+      {
+       "type": "text",
+       "text": "Centrum aktywnie uczestniczy w europejskim programie Network of Comprehensive Cancer Centres (Sieć Kompleksowych Centrów Onkologii), którego celem jest tworzenie sieci referencyjnych ośrodków onkologicznych w krajach Unii Europejskiej. Centrum jako jedyny podmiot leczniczy w Rzeczypospolitej Polskiej i drugi w Europie posiada (od 2024 r.) certyfikat Comprehensive Cancer Care Network for Lung Cancer (Sieć Kompleksowej Opieki Onkologicznej dla Raka Płuca), potwierdzający najwyższe standardy w zakresie diagnostyki i leczenia nowotworów płuca."
+      },
+      {
+       "type": "text",
+       "text": "Centrum posiada też certyfikat Comprehensive Cancer Care Network (Sieć Kompleksowej Opieki Onkologicznej) oraz certyfikaty narządowe w zakresie leczenia raka jelita grubego i raka trzustki."
+      },
+      {
+       "type": "text",
+       "text": "Centrum zapewnia pacjentom dostęp do najnowszych terapii i technologii w leczeniu nowotworów. W ramach programów lekowych finansowanych przez Narodowy Fundusz Zdrowia pacjenci korzystają z innowacyjnych leków. Ponadto mają dostęp do nowoczesnych metod leczenia, takich jak: wysokoprecyzyjna radioterapia, małoinwazyjne zabiegi chirurgiczne, czy transplantacje szpiku u pacjentów z chorobami hematologicznymi. W efekcie wskaźniki wyleczeń i 5-letnich przeżyć pacjentów systematycznie rosną."
+      },
+      {
+       "type": "text",
+       "text": "II. Okres realizacji programu"
+      },
+      {
+       "type": "text",
+       "text": "Przewidywany okres realizacji Programu inwestycyjnego: 2026–2029."
+      },
+      {
+       "type": "text",
+       "text": "III. Cel programu"
+      },
+      {
+       "type": "text",
+       "text": "Celem głównym Programu inwestycyjnego jest zapewnienie pacjentom z chorobami onkologicznymi i pacjentom z chorobami hematologicznymi z Dolnego Śląska dostępu do kompleksowej, wysokospecjalistycznej diagnostyki molekularnej oraz terapii, realizowanych w warunkach nowoczesnej infrastruktury z wykorzystaniem zaawansowanych technologii, zgodnie z europejskimi standardami kompleksowej opieki onkologicznej."
+      },
+      {
+       "type": "text",
+       "text": "Cele szczegółowe planowanej inwestycji są następujące:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Budowa nowoczesnego Laboratorium Diagnostyki Molekularnej, umożliwiającego realizację badań genetycznych oraz profilowania molekularnego nowotworów zgodnie z europejskimi standardami. Obecna infrastruktura jest rozproszona, a także przestrzennie i technologicznie niedostosowana do dalszego rozwoju działalności – w szczególności do zwiększania skali badań, wdrażania nowych technologii oraz skracania czasu ich realizacji. Ogranicza to możliwości diagnostyczne i wydłuża czas oczekiwania na wyniki. Realizacja celu pozwoli na utworzenie zintegrowanego centrum badań molekularnych, w którym procesy diagnostyczne będą prowadzone kompleksowo, w kontrolowanych warunkach środowiskowych (czyste pomieszczenia, śluzy).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zakup i wdrożenie wysokospecjalistycznego sprzętu diagnostycznego i terapeutycznego, w tym aparatury do wysokoprzepustowych badań molekularnych oraz nowoczesnych urządzeń poprawiających komfort leczenia i pobytu pacjentów. Wyeksploatowana aparatura ogranicza jakość i efektywność diagnostyki, powodując przestoje w realizacji badań. Zakup nowego sprzętu pozwoli na skrócenie czasu wykonywania procedur, zmniejszenie liczby odwołanych badań, ograniczenie dawek promieniowania i podawanego kontrastu, a także umożliwi przeprowadzenie badań niezbędnych do kwalifikacji pacjentów do terapii celowanych i immunoterapii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zwiększenie dostępności oraz skrócenie czasu kompleksowej diagnostyki i rozpoczęcia leczenia pacjentów z chorobami onkologicznymi i pacjentów z chorobami hematologicznymi. Długa ścieżka diagnostyczna oraz wydłużony czas oczekiwania stanowią istotną barierę w skutecznym leczeniu nowotworów. Dzięki realizacji inwestycji pacjenci uzyskają szybszy dostęp do wyników badań oraz będą mogli wcześniej rozpocząć terapię zgodnie z krajowymi i europejskimi rekomendacjami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Podniesienie komfortu oraz poczucia bezpieczeństwa pacjentów i ich rodzin w procesie diagnostyczno-terapeutycznym. Nowoczesna infrastruktura, ergonomiczne warunki lokalowe oraz kompleksowość świadczeń opieki zdrowotnej przyczynią się do ograniczenia stresu związanego z chorobą i leczeniem. Skrócenie czasu procedur oraz możliwość leczenia w jednym, znanym pacjentowi miejscu znacząco zwiększy satysfakcję oraz komfort psychiczny osób chorych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Zapewnienie spójności organizacyjnej i technologicznej z Nowym Szpitalem Onkologicznym we Wrocławiu oraz realizacja celów krajowych i regionalnych planów transformacji opieki onkologicznej. Inwestycja w medyczne laboratorium diagnostyczne oraz sprzęt stanowi komplementarne uzupełnienie powstającej infrastruktury szpitalnej. Realizacja tego celu jest warunkiem wdrożenia zakładanego modelu kompleksowej opieki onkologicznej oraz spełnienia założeń przewidzianych w strategiach zdrowotnych państwa i regionu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Realizacja Programu inwestycyjnego jest niezbędna do rozwiązania kluczowych problemów zdiagnozowanych w Centrum, takich jak: brak odpowiednich warunków lokalowych, ograniczona dostępność nowoczesnej diagnostyki molekularnej, wyeksploatowany sprzęt, rozproszenie organizacyjne oraz niski komfort pacjentów. Wdrożenie nowoczesnej infrastruktury i technologii pozwoli znacząco poprawić skuteczność leczenia, komfort pacjentów oraz efektywność funkcjonowania Szpitala."
+      },
+      {
+       "type": "text",
+       "text": "IV. Zadania programu"
+      },
+      {
+       "type": "text",
+       "text": "IV.1. Opis inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "W ramach Programu inwestycyjnego jest planowana realizacja zadań, których celem jest stworzenie nowoczesnej i kompleksowej infrastruktury diagnostyczno-terapeutycznej Centrum. Inwestycja umożliwi świadczenie wysokospecjalistycznych onkologicznych świadczeń opieki zdrowotnej zgodnie z europejskimi standardami kompleksowej opieki onkologicznej."
+      },
+      {
+       "type": "text",
+       "text": "Zakres inwestycji obejmuje budowę nowego obiektu oraz zakup wyrobów medycznych i wyposażenia, w ramach realizacji dwóch zadań:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "zadania nr 1 pod nazwą „Budowa nowego budynku laboratorium molekularnego wraz z niezbędną infrastrukturą techniczną, zagospodarowaniem terenu oraz niezbędnym wyposażeniem w obszarze medyczno-diagnostycznym oraz w obszarze zaplecza administracyjno-socjalnego”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "zadania nr 2 pod nazwą „Doposażenie infrastruktury Dolnośląskiego Centrum Onkologii, Pulmonologii i Hematologii w sprzęt medyczny, wyposażenie i umeblowanie medyczne”.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Inwestycja nie obejmuje przebudowy istniejących budynków."
+        },
+        {
+         "type": "text",
+         "text": "IV.2. Zadania"
+        },
+        {
+         "type": "text",
+         "text": "Zadanie numer 1 – budowa nowego budynku laboratorium molekularnego wraz z niezbędną infrastrukturą techniczną, zagospodarowaniem terenu oraz niezbędnym wyposażeniem w obszarze medyczno-diagnostycznym oraz w obszarze zaplecza administracyjno-socjalnego"
+        },
+        {
+         "type": "text",
+         "text": "Zakres rzeczowy zadania polegającego na budowie budynku laboratorium (lokalizacja inwestycji: Wrocław, przy ulicy generała Augusta Emila Fieldorfa) wraz z niezbędną infrastrukturą, zagospodarowaniem terenu oraz wyposażeniem obejmuje:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "budowę budynku laboratorium wraz ze wszystkimi niezbędnymi instalacjami i infrastrukturą techniczną oraz zagospodarowaniem terenu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "zakup nowoczesnego sprzętu, aparatury i wyposażenia medycznego, w tym wyrobów medycznych oraz mebli laboratoryjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "zakup wyposażenia zaplecza biurowo-administracyjnego i socjalno-bytowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "zakup sprzętu komputerowego, infrastruktury informatycznej, w tym systemów bezpieczeństwa informatycznego oraz oprogramowania i licencji, wraz z wdrożeniem Laboratoryjnego Systemu Informatycznego do zarządzania danymi laboratoryjnymi.",
+       "children": [
+        {
+         "type": "text",
+         "text": "W ramach zadania przewidziano w szczególności wykonanie nowego obiektu o powierzchni użytkowej około 1521 m² (powierzchnia całkowita: około 2776 m²), zaprojektowanego jako budynek dwukondygnacyjny (z dwiema kondygnacjami w skrzydłach bocznych oraz częścią parterową od strony frontowej), obejmujący strefy laboratoryjne, techniczne oraz zaplecze administracyjno-socjalne. Zakres prac budowlanych obejmuje budowę obiektu w pełnym zakresie, w tym wykonanie fundamentów, konstrukcji nośnej, dachów płaskich, ścian działowych, instalacji sanitarnych, elektrycznych, wodnych, centralnego ogrzewania i teletechnicznych, kanalizacji deszczowej, a także specjalistycznych systemów wentylacji, jak również inne prace niezbędne do realizacji inwestycji."
+        },
+        {
+         "type": "text",
+         "text": "Budynek zostanie podzielony na strefy diagnostyczne: laboratoria molekularne, cytogenetyczne i hematologiczne, wyposażone w śluzy materiałowe i osobowe, magazyny odczynników i próbek, przestrzeń do przyjęcia i kwalifikacji materiału do badań, pomieszczenia techniczne, archiwum dokumentacji, pomieszczenia biurowe, jak również inne pomieszczenia niezbędne do prawidłowego funkcjonowania obiektu. W części administracyjno-socjalnej przewidziano w szczególności biura, sale spotkań i odpraw, pokoje socjalne oraz szatnie z węzłami sanitarnymi."
+        },
+        {
+         "type": "text",
+         "text": "W nowym obiekcie zlokalizowane zostaną laboratoria:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "Laboratorium Diagnostyki Molekularnej Guzów Litych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "Laboratorium Hematologii Molekularnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "Laboratorium Cytogenetyki Hematoonkologicznej i Guzów Litych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zagospodarowanie terenu obejmuje wykonanie dróg wewnętrznych, dojazdów umożliwiających transport materiału i chodników prowadzących do wejść budynku, około 25 miejsc postojowych, strefy rozładunku i gospodarki odpadami, zbiornik retencyjny na wody opadowe, tereny zielone, elementy małej architektury oraz inne prace niezbędne do zapewnienia prawidłowego funkcjonowania obiektu i jego otoczenia."
+        },
+        {
+         "type": "text",
+         "text": "Równolegle zostanie zrealizowany zakup i instalacja nowoczesnej aparatury medycznej, w tym: sekwenatorów NGS (w języku angielskim: Next Generation Sequencing – Sekwencjonowanie nowej generacji), systemów PCR (w języku angielskim: Polymerase Chain Reaction – łańcuchowa reakcja polimerazy), mikroskopów, zamrażarek laboratoryjnych, komór laminarnych, innej niezbędnej aparatury i wyposażenia, a także specjalistycznych mebli laboratoryjnych, sprzętu oraz infrastruktury informatycznej wraz z Laboratoryjnym Systemem Informatycznym, w pełni zintegrowanym z systemem szpitalnym."
+        },
+        {
+         "type": "text",
+         "text": "Ponadto zakupione zostanie wyposażenie socjalno-bytowe oraz biurowo-administracyjne."
+        },
+        {
+         "type": "text",
+         "text": "Realizacja zakresu rzeczowego zadania umożliwi:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "konsolidację rozproszonych pracowni oraz laboratoriów diagnostyki molekularnej w jednym, wyspecjalizowanym obiekcie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "wdrożenie zmian organizacyjnych wynikających z dostępności większej przestrzeni oraz nowoczesnego zaplecza laboratoryjnego, administracyjnego i socjalnego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zadanie numer 2 – doposażenie infrastruktury Dolnośląskiego Centrum Onkologii, Pulmonologii i Hematologii w sprzęt medyczny, wyposażenie i umeblowanie medyczne"
+        },
+        {
+         "type": "text",
+         "text": "Zakres rzeczowy zadania obejmuje doposażenie powstającego obecnie Nowego Szpitala Onkologicznego we Wrocławiu (przy ulicy Hipokratesa) w niezbędny do jego funkcjonowania sprzęt i aparaturę medyczną oraz wyposażenie niemedyczne, to jest:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "wysokospecjalistyczny sprzęt (ujęty w wykazie wyrobów medycznych o szczególnym znaczeniu dla zabezpieczenia potrzeb zdrowotnych, określony w rozporządzeniu Ministra Zdrowia z dnia 30 lipca 2012 r. w sprawie wykazu wyrobów medycznych o szczególnym znaczeniu dla zabezpieczenia potrzeb zdrowotnych oraz zakresu informacji o tych wyrobach (Dz. U. poz. 895), to jest:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_1/lit_a",
+         "text": "mammograf,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_1/lit_b",
+         "text": "aparat rezonansu magnetycznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_1/lit_c",
+         "text": "medyczny akcelerator liniowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_5/pkt_1/lit_d",
+         "text": "stacjonarny aparat RTG (radiografia),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_5/pkt_1/lit_e",
+         "text": "tomograf komputerowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_5/pkt_1/lit_f",
+         "text": "mammograf stereotaktyczny;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "pozostała aparatura medyczna niewymieniona w rozporządzeniu, o którym mowa w pkt 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "wyposażenie biurowo-administracyjne (w tym meble i wyposażenie niemedyczne).",
+       "children": [
+        {
+         "type": "text",
+         "text": "V. Opis zakładanych efektów medycznych i rzeczowych w wyniku realizacji inwestycji"
+        },
+        {
+         "type": "text",
+         "text": "Zakładane efekty medyczne"
+        },
+        {
+         "type": "text",
+         "text": "Realizacja inwestycji umożliwi Centrum osiągnięcie istotnych korzyści organizacyjnych, technologicznych i jakościowych, które bezpośrednio przełożą się na podniesienie standardu opieki medycznej. Najważniejsze efekty medyczne będą odczuwalne przede wszystkim przez pacjentów – przez szybszy dostęp do diagnostyki i leczenia, możliwość zastosowania kompleksowych i bardziej skutecznych terapii, a także poprawę bezpieczeństwa i jakości świadczeń opieki zdrowotnej."
+        },
+        {
+         "type": "text",
+         "text": "Planowane efekty medyczne, wynikające ze wspólnej realizacji zadania numer 1 i zadania numer 2, są następujące:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wprowadzenie nowych, innowacyjnych metod diagnostycznych oraz terapeutycznych . Dzięki zakupowi wysokospecjalistycznej aparatury możliwe będzie wdrożenie i wykorzystanie technologii, które dotychczas nie były dostępne w pełnym zakresie. Obejmują one przede wszystkim rozszerzenie stosowania metod:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "diagnostyki molekularnej z wykorzystaniem wysokoprzepustowego sekwencjonowania nowej generacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "cyfrowego i qPCR (w języku angielskim: real-time Polymerase Chain Reaction – łańcuchowa reakcja polimerazy w czasie rzeczywistym) do wykrywania mutacji oraz oceny choroby resztkowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "technik cytogenetycznych i FISH (w języku angielskim: Fluorescence In Situ Hybridization – hybrydyzacja fluorescencyjna in situ) w diagnostyce hematoonkologicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "obrazowania o wysokiej rozdzielczości (rezonans magnetyczny, tomografia komputerowa);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "stereotaktycznej biopsji piersi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "radioterapii nowej generacji z zastosowaniem akceleratora umożliwiającego techniki IMRT (w języku angielskim: Intensity-Modulated Radiation Therapy – radioterapia z modulowaną intensywnością wiązki) i IGRT (języku angielskim: Image-Guided Radiation Therapy – radioterapia sterowana obrazem).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wdrożenie tych rozwiązań umożliwi unowocześnienie zakresu dostępnych procedur diagnostycznych i terapeutycznych, zgodnie z europejskimi standardami."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Skrócenie czasu diagnostyki i leczenia. Dzięki integracji wszystkich etapów diagnostyki molekularnej w nowym laboratorium oraz doposażeniu pracowni diagnostycznych, możliwe będzie skrócenie czasu oczekiwania na wyniki badań i decyzję terapeutyczną. Usprawnienie procesu diagnostycznego pozwoli na szybsze rozpoczęcie leczenia, co przełoży się na zwiększenie jego skuteczności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zwiększenie liczby wykonywanych procedur medycznych. Nowa infrastruktura umożliwi znaczące zwiększenie liczby realizowanych badań laboratoryjnych, w szczególności w zakresie: diagnostyki molekularnej guzów litych, badań cytogenetycznych i molekularnych w hematoonkologii, badań histopatologicznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Równolegle zakup sprzętu obrazowego i terapeutycznego pozwoli na wykonywanie większej liczby procedur diagnostycznych i terapeutycznych, takich jak rezonanse magnetyczne, tomografie komputerowe czy zabiegi radioterapii."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poprawa dostępności świadczeń dla pacjentów z regionu. Dzięki inwestycji Centrum umocni swoją pozycję jako kluczowy ośrodek onkologiczny najwyższego stopnia referencyjnego na Dolnym Śląsku, co pozwoli na przyjęcie większej liczby pacjentów — zarówno z województwa dolnośląskiego, jak i z województw ościennych, w tym osób kierowanych w ramach Krajowej Sieci Onkologicznej. Lepszy dostęp do nowoczesnych procesów diagnostycznych i terapeutycznych ograniczy konieczność kierowania chorych do podmiotów leczniczych z innych województw i pomoże skrócić czas oczekiwania na terapię.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Skrócenie średniego czasu hospitalizacji. Szybsza diagnostyka, sprawniejsza kwalifikacja do leczenia oraz dostęp do nowoczesnych metod terapeutycznych pozwolą skrócić czas pobytu pacjentów w Szpitalu. Krótsza hospitalizacja obniży koszty, poprawi rotację łóżek i umożliwi przyjęcie większej liczby chorych. Dodatkowo wpłynie pozytywnie na komfort pacjentów, ograniczając stres związany z długotrwałą hospitalizacją.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Poprawa warunków pracy personelu medycznego i diagnostycznego. Nowe stanowiska laboratoryjne, ergonomiczne meble, automatyzacja procesów oraz integracja systemów informatycznych pozwolą zoptymalizować pracę zespołów diagnostycznych i terapeutycznych. Lepsze warunki lokalowe oraz zaawansowane narzędzia diagnostyczne zmniejszą obciążenie kadry i przyczynią się do podniesienia jakości świadczeń opieki zdrowotnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Podniesienie jakości i bezpieczeństwa opieki. Nowoczesny sprzęt dla Szpitala oraz standardy medycznych laboratoriów diagnostycznych spełniające rygorystyczne normy techniczne przyczynią się do ograniczenia ryzyka błędów diagnostycznych oraz zakażeń wewnątrzszpitalnych. Dzięki spełnieniu przez ww. laboratoria norm jakościowych i sanitarnych oraz wyposażeniu ich w nowoczesną aparaturę, podniesie się wiarygodność wyników badań i bezpieczeństwo pracy personelu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Usprawnienie obiegu informacji i dokumentacji medycznej. Wdrożenie Laboratoryjnego Systemu Informatycznego z pełną integracją ze Szpitalnym Systemem Informacyjnym oraz e-zdrowiem umożliwi elektroniczną rejestrację i śledzenie próbek, szybki dostęp do wyników badań oraz raportowanie w czasie rzeczywistym. Dzięki temu proces obiegu informacji stanie się bardziej przejrzysty, a bezpieczeństwo danych pacjentów zostanie zwiększone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Zwiększenie potencjału rozwojowego i innowacyjnego . Zastosowanie nowoczesnej infrastruktury stworzy lepsze warunki do prowadzenia badań naukowych, wdrażania innowacyjnych technologii medycznych oraz uczestnictwa w projektach międzynarodowych. Umożliwi to umocnienie pozycji Centrum jako referencyjnego centrum onkologii w skali kraju i regionu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podsumowując – Program inwestycyjny umożliwi Centrum istotne usprawnienie procesów diagnostycznych i terapeutycznych, poprawę organizacji świadczeń zdrowotnych oraz skrócenie czasu hospitalizacji. Wdrożenie nowych metod leczenia w długim okresie przyczyni się do poprawy wyników terapii onkologicznych i poprawy zdrowia populacji w regionie Dolnego Śląska."
+      },
+      {
+       "type": "text",
+       "text": "Zakładane efekty rzeczowe"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przeniesienie, reorganizacja i konsolidacja laboratoriów diagnostyki molekularnej w jednym budynku wynikająca z przeniesienia następujących jednostek organizacyjnych Centrum:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "Zakładu Diagnostyki Molekularnej Nowotworów (w którego skład wchodzą: Pracownia Diagnostyki Molekularnej oraz Pracownia Genetyczna);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "Zakładu Diagnostyki Hematoonkologicznej (w którego skład wchodzą: Pracownia Biologii Molekularnej oraz Pracownia Cytogenetyki).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Po reorganizacji i konsolidacji w nowym budynku laboratoria diagnostyki molekularnej funkcjonować będą jako:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "Laboratorium Diagnostyki Molekularnej Guzów Litych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "Laboratorium Hematologii Molekularnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "Laboratorium Cytogenetyki Hematoonkologicznej i Guzów Litych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Powierzchnia całkowita wybudowanego oraz wyposażonego medycznego laboratorium diagnostycznego – około 2776 m².",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Liczba doposażonych jednostek organizacyjnych Centrum – 33 jednostki organizacyjne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Liczba zakupionej aparatury medycznej o szczególnym znaczeniu – 6 sztuk.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Liczba zakupionych wysokospecjalistycznych wyrobów medycznych – 274 sztuk lub zestawów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Prognozowany plan finansowy i harmonogram rzeczowy"
+      },
+      {
+       "type": "text",
+       "text": "VI.1. Prognozowany plan finansowy"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Prognozowany plan finansowy"
+      },
+      {
+       "type": "text",
+       "text": "Wartość Prognozowane nakłady w poszczególnych"
+      },
+      {
+       "type": "text",
+       "text": "Źródła finansowania Kosztorysowa latach (w złotych)"
+      },
+      {
+       "type": "text",
+       "text": "inwestycji Inwestycji (WKI)"
+      },
+      {
+       "type": "text",
+       "text": "w złotych 2026 r. 2027 r. 2028 r. 2029 r."
+      },
+      {
+       "type": "text",
+       "text": "Wkład własny"
+      },
+      {
+       "type": "text",
+       "text": "75 287 782 38 009 750 22 274 496 4 686 539 10 316 997"
+      },
+      {
+       "type": "text",
+       "text": "Szpitala"
+      },
+      {
+       "type": "text",
+       "text": "Środki z Funduszu"
+      },
+      {
+       "type": "text",
+       "text": "Medycznego –"
+      },
+      {
+       "type": "text",
+       "text": "Subfunduszu 291 969 687 147 403 666 86 381 581 18 174 624 40 009 816"
+      },
+      {
+       "type": "text",
+       "text": "Infrastruktury"
+      },
+      {
+       "type": "text",
+       "text": "Strategicznej"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM 367 257 469 185 413 416 108 656 077 22 861 163 50 326 813"
+      },
+      {
+       "type": "text",
+       "text": "VI.2. Prognozowany harmonogram rzeczowy"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Prognozowany harmonogram rzeczowy"
+      },
+      {
+       "type": "text",
+       "text": "Prognozowany harmonogram rzeczowy"
+      },
+      {
+       "type": "text",
+       "text": "Etap realizacji inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "2026 r. 2027 r. 2028 r. 2029 r."
+      },
+      {
+       "type": "text",
+       "text": "Przygotowanie terenu i przyłączenia obiektów do sieci"
+      },
+      {
+       "type": "text",
+       "text": "Minister właściwy do spraw zdrowia będzie nadzorować realizację Programu inwestycyjnego zgodnie z harmonogramem rzeczowo-finansowym określonym umową na udzielenie dotacji celowej – w celu zapewnienia osiągnięcia zaplanowanego w Programie inwestycyjnym końcowego efektu rzeczowego oraz założonych do realizacji mierników. Zmiany w zakresie planu finansowego oraz harmonogramu rzeczowego nie wymagają zmiany Programu inwestycyjnego."
+      },
+      {
+       "type": "text",
+       "text": "VII. Prognozowane mierniki programu"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Prognozowane mierniki programu"
+      },
+      {
+       "type": "text",
+       "text": "Mierniki – udział Wartość realizowanego zakresu Rok Zakres rzeczowy realizowanego celu wg WKI rzeczowego realizacji w złotych rocznie narastająco % %"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowanie terenu i przyłączenia obiektów do sieci"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych 2026 r. 50 50 Prace projektowe, obsługa inwestorska i nadzór autorski"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowanie terenu i przyłączenia obiektów do sieci"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Instalacje 2027 r. 30 80 Zagospodarowanie terenu i budowa obiektów pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "Obsługa inwestorska i nadzór autorski"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie 367 257 469"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Instalacje"
+      },
+      {
+       "type": "text",
+       "text": "Zagospodarowanie terenu i budowa 2028 r. 6 86 obiektów pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "Obsługa inwestorska i nadzór autorski"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Instalacje"
+      },
+      {
+       "type": "text",
+       "text": "Zagospodarowanie terenu i budowa 2029 r. 14% 100 obiektów pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "Obsługa inwestorska i nadzór autorski"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zgodnie z ustawą z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889 oraz z 2025 r. poz. 1739).",
+  "2": "Na wybór propozycji projektów strategicznych w zakresie dofinansowania zadań polegających na budowie, przebudowie, modernizacji lub doposażeniu infrastruktury strategicznej podmiotów leczniczych udzielających świadczeń opieki zdrowotnej w rodzajach i zakresach onkologicznych.",
+  "3": "Dane wewnętrzne Dolnośląskiego Centrum Onkologii, Pulmonologii i Hematologii, stan na lipiec 2025. Budowa obiektów podstawowych Instalacje Zagospodarowanie terenu i budowa obiektów pomocniczych Wyposażenie Prace przygotowawcze, projektowe, obsługa inwestorska, nadzory autorskie oraz ewentualnie szkolenia i rozruch technologiczny"
+ }
+}

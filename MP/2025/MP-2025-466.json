@@ -1,0 +1,109 @@
+{
+ "eli": "MP/2025/466",
+ "title": "Uchwała nr 191/2025 Państwowej Komisji Wyborczej z dnia 19 maja 2025 r. w sprawie zarządzenia druku kart do głosowania w ponownym głosowaniu w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 1 czerwca 2025 r.",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/466/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 191/2025"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 maja 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zarządzenia druku kart do głosowania w ponownym głosowaniu w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 1 czerwca 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 307 w związku z art. 319 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Zarządza się druk kart do głosowania w ponownym głosowaniu w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 1 czerwca 2025 r., zgodnie z treścią zawartą w załączniku do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S. Marciniak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 191/2025 Państwowej Komisji Wyborczej z dnia 19 maja 2025 r. (M.P. poz. 466)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Karta do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej. Ponowne głosowanie w dniu 1 czerwca 2025 r."
+    },
+    {
+     "type": "text",
+     "text": "Kandydaci na Prezydenta Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "ust",
+     "num": "01",
+     "path": "ust_01",
+     "text": "NAWROCKI Karol Tadeusz",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "02",
+     "path": "ust_02",
+     "text": "TRZASKOWSKI Rafał Kazimierz",
+     "children": [
+      {
+       "type": "text",
+       "text": "INFORMACJA"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Znajdź kandydata, na którego chcesz głosować.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Postaw znak „X” w kratce wyłącznie przy nazwisku tego kandydata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Jeżeli postawisz znak „X” przy nazwisku obu kandydatów, Twój głos będzie nieważny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

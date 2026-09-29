@@ -1,0 +1,87 @@
+{
+ "eli": "MP/2026/950",
+ "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 21 września 2026 r. w sprawie rocznej średniej ceny paliw lotniczych, SAF i syntetycznych paliw lotniczych oraz różnic między tymi cenami za rok 2025",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/950/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA KLIMATU I ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 września 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie rocznej średniej ceny paliw lotniczych, SAF i syntetycznych paliw lotniczych oraz różnic między tymi cenami za rok 2025"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 28yb ust. 1 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. z 2025 r. poz. 901 oraz z 2026 r. poz. 607) ogłasza się, że w 2025 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "roczna średnia cena:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "paliw lotniczych za tonę wynosiła 2804,26 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "SAF za tonę wynosiła 8105,41 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "syntetycznych paliw lotniczych za tonę wynosiła 31 663,71 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "różnica między roczną średnią ceną:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "SAF za tonę a roczną średnią ceną paliw lotniczych za tonę wynosiła 5301,15 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "syntetycznych paliw lotniczych za tonę a roczną średnią ceną paliw lotniczych za tonę wynosiła 28 859,45 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Klimatu i Środowiska: P. Hennig-Kloska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 995)."
+ }
+}

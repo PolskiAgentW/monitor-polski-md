@@ -1,0 +1,900 @@
+{
+ "eli": "MP/2025/1311",
+ "title": "Uchwała nr 187 Rady Ministrów z dnia 30 grudnia 2025 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Podniesienie jakości udzielanych świadczeń zdrowotnych przez Szpital Wojewódzki im. Jana Pawła II w Bełchatowie w obszarze psychiatrii poprzez dobudowę, przebudowę, modernizację i doposażenie w celu objęcia dofinansowaniem projektu strategicznego\"",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1311/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 187"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 grudnia 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustanowienia programu inwestycyjnego pod nazwą „Podniesienie jakości udzielanych świadczeń zdrowotnych przez Szpital Wojewódzki im. Jana Pawła II w Bełchatowie w obszarze psychiatrii poprzez dobudowę, przebudowę, modernizację i doposażenie w celu objęcia dofinansowaniem projektu strategicznego”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889 oraz z 2025 r. poz. 1739) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rada Ministrów ustanawia program inwestycyjny pod nazwą „Podniesienie jakości udzielanych świadczeń zdrowotnych przez Szpital Wojewódzki im. Jana Pawła II w Bełchatowie w obszarze psychiatrii poprzez dobudowę, przebudowę, modernizację i doposażenie w celu objęcia dofinansowaniem projektu strategicznego”, zwany dalej „Programem inwestycyjnym”, stanowiący załącznik do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Program inwestycyjny ustanawia się na lata 2025–2029.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Program inwestycyjny jest finansowany ze środków Funduszu Medycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Łączna kwota środków z Funduszu Medycznego z Subfunduszu Infrastruktury Strategicznej w okresie realizacji Programu inwestycyjnego wyniesie 48 568 726 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Kwota środków na realizację Programu inwestycyjnego jest corocznie ujmowana w planie finansowym Funduszu Medycznego, stanowiącym załącznik do ustawy budżetowej na dany rok, i podawana do publicznej wiadomości na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 187 Rady Ministrów z dnia 30 grudnia 2025 r. (M.P. poz. 1311)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Program inwestycyjny"
+    },
+    {
+     "type": "text",
+     "text": "pod nazwą „Podniesienie jakości udzielanych świadczeń zdrowotnych przez Szpital Wojewódzki im. Jana Pawła II w Bełchatowie w obszarze psychiatrii poprzez dobudowę, przebudowę, modernizację i doposażenie w celu objęcia dofinansowaniem projektu strategicznego”"
+    },
+    {
+     "type": "text",
+     "text": "dla projektu strategicznego"
+    },
+    {
+     "type": "text",
+     "text": "wskazanego do finansowania 1) ze środków Funduszu Medycznego"
+    },
+    {
+     "type": "text",
+     "text": "w konkursie 2) nr FM-SIS.03.PSYCH.2024 I. Podmiot realizujący program"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa podmiotu (Inwestora)"
+    },
+    {
+     "type": "text",
+     "text": "Szpital Wojewódzki im. Jana Pawła II w Bełchatowie"
+    },
+    {
+     "type": "text",
+     "text": "Adres podmiotu"
+    },
+    {
+     "type": "text",
+     "text": "97-400 Bełchatów, ul. Czapliniecka 123"
+    },
+    {
+     "type": "text",
+     "text": "Informacje o podmiocie"
+    },
+    {
+     "type": "text",
+     "text": "Szpital Wojewódzki im. Jana Pawła II w Bełchatowie, zwany dalej „Szpitalem”, jest samodzielnym publicznym zakładem opieki zdrowotnej, który działa na podstawie ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, z późn. zm.), ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, z późn. zm.) i wydanych na ich podstawie przepisów wykonawczych oraz innych przepisów prawa. Podstawą działalności Szpitala jest również Statut, zatwierdzony przez Zarząd Województwa Łódzkiego Uchwałą Nr 1189/15 z dnia 20 października 2015 r."
+    },
+    {
+     "type": "text",
+     "text": "Zarządzeniem nr 73/97 Wojewody Piotrkowskiego z dnia 4 grudnia 1997 r. Szpital Wojewódzki w Bełchatowie będący jednostką budżetową został przekształcony w samodzielny publiczny zakład opieki zdrowotnej. Organem Założycielskim Szpitala stał się Samorząd Województwa Łódzkiego. Decyzją Wojewody Łódzkiego z dnia 25 maja 2001 r. Szpital został wpisany do rejestru zakładów opieki zdrowotnej prowadzonego przez Wojewodę Łódzkiego – księga rejestrowa nr 10-00956. Po uzyskaniu wpisu do Krajowego Rejestru Sądowego pod numerem KRS 0000006103, na podstawie postanowienia Sądu Rejonowego dla Łodzi Śródmieścia w Łodzi XX Wydział KRS z dnia 10 kwietnia 2001 r, Szpital Wojewódzki w Bełchatowie uzyskał osobowość prawną. Szpital posiada numer identyfikacyjny REGON 000306503 oraz Numer Identyfikacji Podatkowej NIP 7691787666."
+    },
+    {
+     "type": "text",
+     "text": "Jest to jedyny Szpital na terenie powiatu bełchatowskiego zapewniający opiekę medyczną nie tylko mieszkańcom miasta Bełchatowa (około 55 tys. mieszkańców), ale również wszystkim mieszkańcom powiatu bełchatowskiego (około 109 tys. mieszkańców) i powiatów ościennych z terenu województwa łódzkiego (łącznie około 300 tys. mieszkańców regionu). Ze świadczeń zdrowotnych udzielanych przez Szpital korzystają również inne osoby, których stan zdrowia wymaga pomocy lekarskiej, a które nie są z terenu działania Łódzkiego Oddziału Wojewódzkiego Narodowego Funduszu Zdrowia."
+    },
+    {
+     "type": "text",
+     "text": "Szpital jest wielospecjalistycznym podmiotem leczniczym posiadającym 25 oddziałów szpitalnych i 25 poradni specjalistycznych. W jednostce funkcjonuje Zakład opiekuńczo-leczniczy i Stacja dializ. Pacjentom wymagającym natychmiastowej pomocy doraźnej opiekę zapewnia Szpitalny Oddział Ratunkowy. Funkcjonująca w Szpitalu jednostka państwowego ratownictwa medycznego została ujęta przez Wojewodę Łódzkiego w Wojewódzkim Planie Działania Systemu, o którym mowa w art. 21 ust. 1 ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91, z późn. zm.). W ramach działań rozwojowych ratownictwa medycznego wybudowano na terenie Szpitala lądowisko dla śmigłowców. W Szpitalu rocznie jest hospitalizowanych około 22 tys. pacjentów i jest udzielanych około 110 tys. porad specjalistycznych. Bazę łóżkową Szpitala stanowi 608 łóżek i 23 stanowiska dializacyjne. Priorytetem działań Szpitala jest satysfakcja pacjenta i jego sprawna obsługa przez wykwalifikowaną kadrę medyczną, która stanowi liczbę ponad 125 osób, w tym lekarze specjaliści, psychologowie, psychoterapeuci, terapeuci zajęciowi i środowiskowi, pielęgniarki, opiekunowie medyczni czy też asystenci psychologii klinicznej."
+    },
+    {
+     "type": "text",
+     "text": "II. Okres realizacji programu"
+    },
+    {
+     "type": "text",
+     "text": "Przewidywany okres realizacji inwestycji: 2025 r. – 2029 r."
+    },
+    {
+     "type": "text",
+     "text": "III. Cel programu"
+    },
+    {
+     "type": "text",
+     "text": "Głównym celem programu inwestycyjnego jest przede wszystkim poprawa jakości leczenia psychiatrycznego, dostępności, kompleksowości, dostosowanie do potrzeb pacjenta, a także zapewnienie bezpiecznych i godnych warunków udzielania świadczeń opieki zdrowotnej."
+    },
+    {
+     "type": "text",
+     "text": "Zrealizowanie przedmiotowego programu inwestycyjnego przyczyni się do rozszerzenia zakresu świadczeń opieki zdrowotnej realizowanych przez Szpital oraz zapewni mieszkańcom powiatu bełchatowskiego dostęp do wysokiej jakości opieki medycznej. Ponadto, realizacja programu inwestycyjnego przyczyni się do stworzenia przyjaznego otoczenia, w którym będą przebywali pacjenci z zaburzeniami psychicznymi, poprawy jakości infrastruktury ochrony zdrowia przez podniesienie standardu świadczeń zdrowotnych oraz zwiększenie dostępności do udzielanych świadczeń opieki zdrowotnej. Zostanie to osiągnięte przez rozbudowę pawilonu psychiatrii oraz niezbędne modernizacje już istniejącego obiektu, a także zakup nowoczesnego sprzętu medycznego."
+    },
+    {
+     "type": "text",
+     "text": "Dodatkowo program inwestycyjny ma na celu poprawę warunków pracy personelu oraz podniesienie standardów wykonywanych świadczeń opieki zdrowotnej. Dzięki nowoczesnym rozwiązaniom i wyposażeniu, pracownicy podmiotu leczniczego będą mogli wykonywać swoją pracę bezpieczniej, sprawniej i z korzyścią dla pacjentów."
+    },
+    {
+     "type": "text",
+     "text": "Szczegółowym celem realizowanego Programu inwestycyjnego jest modernizacja i rozbudowa istniejącego już budynku głównego Oddziału Psychiatrycznego przez dostawienie modułu do obecnie funkcjonującego obiektu wraz z przeniesieniem Oddziału Psychiatrycznego z innego pawilonu oraz zagospodarowanie terenów zieleni wokół budynku w celem wybudowania boiska, siłowni. Przyjęte do realizacji zadania na rzecz poprawy infrastruktury zdrowia przyczynią się do poprawy jakości świadczeń opieki zdrowotnej, rezultatem czego będzie wzrost bezpieczeństwa zdrowotnego ludności województwa łódzkiego. Pacjenci przebywający w oddziale objęci będą kompleksową opieką obejmującą: diagnostykę psychiatryczną, farmakoterapię, psychoterapię, rehabilitację, socjoterapię i resocjalizację w celu poprawy stanu zdrowia i zachowania w stopniu umożliwiającym powrót do życia w społeczeństwie i dalsze leczenie w warunkach pozaszpitalnych."
+    },
+    {
+     "type": "text",
+     "text": "Do celów szczegółowych programu zaliczyć należy:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "optymalizację wykorzystania i rozmieszczenia obecnie zatrudnionych w Szpitalu osób wykonujących zawód medyczny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "poprawę warunków przebywania pacjentów na oddziale;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "skrócenie czasu oczekiwania na świadczenia opieki zdrowotnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "zapewnienie mieszkańcom regionu dostępu do wysokiej jakości podstawowej i specjalistycznej opieki zdrowotnej z zakresu opieki psychiatrycznej i leczenia uzależnień;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "aktywizację zawodową osób z zaburzeniami psychicznymi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "zapewnienie osobom z zaburzeniami psychicznymi kompleksowej opieki adekwatnej do ich potrzeb;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "poprawę stanu technicznego pomieszczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "poprawę warunków pracy lekarzy i pracowników służby zdrowia oraz możliwość podnoszenia kwalifikacji personelu medycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "poprawę estetyki pomieszczeń i budynków.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymienione powyżej cele programu inwestycyjnego wpisują się w strategię działania Narodowego Programu Ochrony Zdrowia Psychicznego. Realizacja inwestycji polegającej na modernizacji, rozbudowie i doposażeniu Oddziału Psychiatrycznego odpowiada na potrzeby pacjentów wymagających specjalistycznej i nadzorowanej opieki medycznej."
+      },
+      {
+       "type": "text",
+       "text": "IV. Zadania programu"
+      },
+      {
+       "type": "text",
+       "text": "IV.1. Opis inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Głównym założeniem programu inwestycyjnego jest podniesienie jakości udzielanych świadczeń zdrowotnych przez Szpital z zakresu opieki psychiatrycznej i leczenia uzależnień przez dobudowę, przebudowę, modernizację i doposażenie działających w jednostce oddziałów. Zaplanowany do realizacji Program inwestycyjny ma na celu między innymi poprawę warunków przebywania pacjentów na oddziale, skrócenie czasu oczekiwania na świadczenia opieki zdrowotnej, zapewnienie osobom z zaburzeniami psychicznymi wielostronnej opieki adekwatnej do ich potrzeb przez optymalizację wykorzystania i rozmieszczenia obecnie zatrudnionych w Szpitalu osób wykonujących zawód medyczny. Powyższe działania pozwolą na zapewnienie mieszkańcom powiatu bełchatowskiego dostępu do wysokiej jakości podstawowej i specjalistycznej opieki zdrowotnej z zakresu opieki psychiatrycznej i leczenia uzależnień."
+      },
+      {
+       "type": "text",
+       "text": "Na realizację założonego programu inwestycyjnego składa się:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "rozbudowa istniejącego pawilonu psychiatrii (przez dostawienie modułu do pawilonu B) wraz z zakupem wyposażenia w postaci aparatury i sprzętu medycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "modernizacja istniejącego budynku głównego psychiatrii (pawilon B) wraz z zagospodarowaniem otoczenia budynku psychiatrii oraz zakupem wyposażenia w postaci aparatury i sprzętu medycznego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV.2. Zadania"
+      },
+      {
+       "type": "text",
+       "text": "W ramach Zadania 1 – Rozbudowa istniejącego pawilonu psychiatrii (przez dostawienie modułu do pawilonu B) wraz z zakupem wyposażenia w postaci aparatury i sprzętu medycznego zaplanowano:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "prace ogólnobudowlane;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wykonanie instalacji elektrycznych, sieci infrastrukturalnych, instalacji wodno-kanalizacyjnych, instalacji c.o. oraz wentylacji i klimatyzacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "montaż windy dla pacjentów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "nadzór inwestorski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "zakup wyposażenia w postaci aparatury i sprzętu medycznego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W ramach Zadania 2 – Modernizacja istniejącego budynku głównego psychiatrii (pawilon B) wraz z zagospodarowaniem otoczenia budynku psychiatrii oraz zakupem wyposażenia w postaci aparatury i sprzętu medycznego, zaplanowano:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "prace ogólnobudowlane;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "odnowienie infrastruktury technicznej i telekomunikacyjnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wykonanie instalacji elektrycznych, sieci infrastrukturalnych, instalacji wodno-kanalizacyjnych, instalacji c.o. oraz wentylacji i klimatyzacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "remont izby przyjęć, sal chorych, toalet, łazienek, sal zajęć terapeutycznych, gabinetów zabiegowych, gabinetów lekarskich, gabinetów psychologów, pomieszczeń socjalnych, administracyjnych, technicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "montaż windy dla pacjentów oraz modernizacji dźwigu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "naprawę ogrodzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "utworzenie parkingu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "modernizację dróg dojazdowych i oświetlenia terenu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "utworzenie miejsc terapii relaksacyjnej na wolnym powietrzu (zagospodarowanie terenów zielonych, budowa boiska, siłowni);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "nadzór inwestorski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "zakup wyposażenia w postaci aparatury i sprzętu medycznego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Opis zakładanych efektów medycznych i rzeczowych w wyniku realizacji inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Planowane efekty dla pacjenta uzyskane w wyniku realizacji inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Realizacja inwestycji przyniesie szereg korzyści pacjentom Szpitala, które bezpośrednio wpłyną na jakość leczenia, komfort pobytu i efektywność opieki, a także przyczyni się do uzyskania następujących efektów dla pacjenta:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "poprawa warunków hospitalizacji przez utworzenie nowoczesnych i przestronnych sal chorych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "lepsze warunki higieniczne i większa prywatność, która sprzyja poczuciu bezpieczeństwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "skrócenie czasu oczekiwania na leczenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "dostęp do nowoczesnych metod leczenia, takich jak nowatorskie terapie farmakologiczne, biologiczne i psychoterapeutyczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "dostęp do najnowszych form oddziaływania terapeutycznego przez stworzenie odcinka psychiatrii interwencyjnej, wyposażonego w salę do wlewów dożylnych i stanowiska do aplikacji leków wziewnych, sprzęt i sale do przezczaszkowej stymulacji magnetycznej wraz z neuronawigacją – TMS, a także nową salę do elektroterapii wraz z salą wybudzeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "utworzenie nowych sal do terapii indywidualnej, grupowej i zajęciowej umożliwiającej większy wybór metod terapeutycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "stworzenie miejsc do relaksacji czy arteterapii, która wspiera proces leczenia i rehabilitacji psychiatrycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "większe bezpieczeństwo pacjentów przez zamontowanie nowoczesnych systemów bezpieczeństwa i monitoringu, które zmniejszają ryzyko incydentów oraz zapewniają większą ochronę zarówno pacjentom, jak i personelowi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "odpowiednio przystosowane pomieszczenia, które zmniejszą ryzyko samouszkodzeń czy eskalacji zachowań agresywnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "zwiększenie dostępu do specjalistycznej opieki, gdyż modernizacja Oddziału psychiatrycznego może wiązać się z zatrudnieniem większej liczby specjalistów, takich jak psychiatrzy, psycholodzy czy terapeuci;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "komfortowe otoczenie sprzyjające terapii, na które wpływ będzie mieć nowoczesne i przyjazne estetycznie otoczenie, które zmniejszy stres związany z hospitalizacją i wesprze proces zdrowienia. Lepsze oświetlenie, odpowiednia kolorystyka wnętrz i dostęp do przestrzeni zielonych będą miały pozytywny wpływ na samopoczucie pacjentów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "usprawnienie procesów terapeutycznych. Nowoczesne metody leczenia biologicznego takie jak TMS oraz nowa sala do elektroterapii zwiększą efektywność leczenia i skrócą radykalnie czas hospitalizacji pacjenta, a także pozwolą na szybszy powrót do zdrowia i aktywności zawodowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "wsparcie dla rodzin i opiekunów, dzięki stworzeniu przestrzeni dla rodzin pacjentów, gdzie mogą uzyskać wsparcie, edukację i informację na temat leczenia. Integracja z rodziną i opiekunami sprzyja lepszemu funkcjonowaniu pacjenta po hospitalizacji oraz w jej trakcie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "pkt_14",
+     "text": "dostęp do wsparcia środowiskowego i kontynuacja opieki. Dzięki modernizacji oddziału psychiatrycznego pacjenci zyskają lepsze warunki do planowania dalszego leczenia w ramach opieki ambulatoryjnej lub środowiskowej, co ułatwi kontynuację terapii minimalizując ryzyko nawrotów choroby;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "pkt_15",
+     "text": "zwiększenie świadomości i otwartości na zdrowie psychiczne, dzięki połączeniu z działaniami edukacyjnymi, które przyczynią się do zmniejszenia stygmatyzacji leczenia psychiatrycznego, co zachęca pacjentów do korzystania z dostępnej pomocy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dzięki modernizacji Oddziału psychiatrycznego pacjenci uzyskają przede wszystkim bardziej przyjazne, skuteczne i nowoczesne środowisko leczenia, co znacząco podniesie jakość świadczonej opieki oraz komfort pacjentów w trakcie leczenia."
+      },
+      {
+       "type": "text",
+       "text": "Planowane efekty medyczne uzyskane w wyniku inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Realizacja inwestycji dla Oddziału psychiatrycznego przyniesie istotne efekty medyczne, które bezpośrednio wpłyną na jakość leczenia pacjentów oraz efektywność pracy personelu. Korzyści jakie uzyska Szpital z tytułu zrealizowanej inwestycji przedstawiają się następująco:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "poprawa jakości leczenia – dzięki nowoczesnej infrastrukturze możliwe będzie zastosowanie bardziej zaawansowanych metod terapeutycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wprowadzenie nowych technologii medycznych, takich jak neurostymulacją wspomagana precyzyjną neuronawigacją, zwiększy skuteczność leczenia chorób psychicznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "skrócenie czasu hospitalizacji, dzięki lepszym warunkom leczenia, dostęp do nowoczesnych terapii i kompleksowa opieka interdyscyplinarna przyspieszy powrót pacjentów do zdrowia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "zredukowanie czasu hospitalizacji pozwoli na efektywniejsze wykorzystanie miejsc i zasobów szpitala;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "zwiększenie liczby pacjentów, którym udzielane są świadczenia opieki zdrowotnej i dzięki temu skrócenie czasu oczekiwania na udzielenie świadczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "zastosowanie nowoczesnych metod leczenia biologicznego. Zakup nowego sprzętu medycznego pozwoli na szybsze i bardziej skuteczne leczenie zaburzeń psychicznych, takich jak depresja, schizofrenia czy zaburzenia lękowe. Skrócenie czasu leczenia umożliwi nie tylko zwiększenie liczby pacjentów objętych opieką, a także skróci ich czas niezdolności do pracy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "zwiększenie bezpieczeństwa pacjentów i personelu. Modernizacja oddziału psychiatrycznego uwzględnia poprawę zabezpieczeń, takich jak monitoring, systemy alarmowe oraz specjalistyczne wyposażenie sal, co zmniejsza ryzyko incydentów i podnosi standard opieki.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bezpieczne środowisko sprzyja skuteczniejszej pracy personelu i lepszym wynikom terapeutycznym;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "lepsza organizacja pracy personelu medycznego. Nowoczesne rozwiązania architektoniczne i technologiczne usprawnią pracę zespołu terapeutycznego. Lepsze wyposażenie, ergonomiczne stanowiska pracy oraz cyfrowe systemy zarządzania danymi pacjentów zwiększą wydajność i zmniejszą ryzyko błędów medycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "rozszerzenie zakresu udzielanych świadczeń opieki zdrowotnej, o programy grupowe oparte na psychoterapii poznawczo-behawioralnej, terapie zajęciowe, arteterapię, muzykoterapię czy nowoczesne formy farmakoterapii oraz alternatywne formy leczenia biologicznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "poszerzenie oferty Oddziału dziennego o Oddział dla pacjentów z zaburzeniami psychotycznymi oraz Oddział psychogeriatryczny dzienny, co będzie skutkowało poprawą procesu leczenia i współpracy w nim pacjentów cierpiących na psychozy, a także dostęp do wczesnej diagnostyki i interwencji celem zapobiegania lub opóźnienia wystąpienia zaburzeń otępiennych w ramach programu leczenie w Oddziale psychogeriatrycznym dziennym. Celem funkcjonowania oddziału psychogeriatrycznego dziennego oraz realizowanego tam programu jest celowana diagnostyka somatyczna, psychiatryczna i psychologiczna u pacjentów w wieku podeszłym, optymalizacja leczenia somatycznego, wprowadzenie interwencji behawioralnych celem opóźnienia wystąpienia zaburzeń poznawczych, a nawet ich całkowitego uniknięcia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "zapobieganie nawrotom chorób. Nowoczesne podejście do terapii w Oddziale psychiatrycznym kładzie nacisk na kompleksowe leczenie, w tym wsparcie środowiskowe i edukację pacjenta. Efektywna rehabilitacja minimalizuje ryzyko nawrotów i poprawia długoterminowe wyniki leczenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "poprawa zdrowia psychicznego w populacji lokalnej. W wyniku realizacji inwestycji Szpital może lepiej odpowiadać na potrzeby społeczności, co przekłada się na szybsze leczenie zaburzeń psychicznych, wpłynąć na poprawę ogólną zdrowia psychicznego populacji oraz zmniejszyć obciążenie systemu opieki zdrowotnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "poprawa jakości udzielanych świadczeń opieki zdrowotnej. Modernizacja Oddziału psychiatrycznego podniesie standardy pracy i wizerunek Szpitala, przyczyni się do zmiany opinii o Szpitalu, co może wpłynąć na przyciągnięcie wykwalifikowanych specjalistów oraz pacjentów szukających wysokiej jakości leczenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podsumowując, realizacja inwestycji pozwoli Szpitalowi na bardziej skuteczne leczenie pacjentów, lepsze wykorzystanie zasobów oraz podniesienie standardów opieki medycznej. Takie efekty medyczne uzyskane w wyniku inwestycji przełożą się na poprawę zdrowia psychicznego pacjentów oraz zwiększą efektywność i bezpieczeństwo całego systemu opieki ."
+      },
+      {
+       "type": "text",
+       "text": "Planowane efekty rzeczowe (mierzalne)"
+      },
+      {
+       "type": "text",
+       "text": "Realizacja inwestycji w ramach rozbudowy istniejącego pawilonu oraz modernizacji Oddziału psychiatrycznego wpłynie na osiągnięcie takich efektów rzeczowych, jak:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "rozbudowa i unowocześnienie infrastruktury Szpitala, dzięki której powstaną sale 1, 2 i 3 osobowe z osobnymi łazienkami, wyposażone w komfortowe łóżka z materacami oraz szafkami przyłóżkowymi, co poprawi bezpieczeństwo pacjentów oraz jakość opieki zdrowotnej w Oddziale psychiatrycznym. Zwiększenie powierzchni użytkowej przez rozbudowę i reorganizację przestrzeni w Oddziale;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "zwiększenie powierzchni objętej inwestycją do 4783 m² ogółem, wobec 4525 m² przed inwestycją;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "zakup nowoczesnej aparatury i sprzętu medycznego takiego jak: kardiomonitor czy defibrylator, wpłynie pozytywnie na poprawę bezpieczeństwa i komfort pacjentów, a także poprawi ergonomię pracy personelu medycznego. Z kolei aparat do elektroterapii czy urządzenie do przezczaszkowej stymulacji mózgu TMS wraz z neuronawigacją zwiększy skuteczność wykonywanych procedur i zmniejszy ich inwazyjność. Nowa aparatura i sprzęt medyczny pozwalają na rozszerzenie możliwości terapeutycznych w czasie hospitalizacji pacjentów. Wykorzystanie nowoczesnych sprzętów medycznych przyczyni się do szybkiego zdiagnozowania i rozpoczęcia leczenia oraz umożliwi skrócenie czasu hospitalizacji do niezbędnego minimum, aby zapobiegać wykluczeniu społecznemu i braku aktywizacji zawodowej pacjentów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "utworzenie nowych przestrzeni terapeutycznych. Nowe sale posłużą do terapii grupowej, indywidualnej czy muzykoterapii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "utworzenie strefy relaksu i wyciszenia dla pacjentów, czyli pozytywna przestrzeń, w której pacjenci będą mogli spędzać czas przebywając na leczeniu. Takie miejsca są bardzo potrzebne, gdyż zmniejszają stres u pacjentów, poprawę nastroju i redukcję myślenia depresyjnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "zagospodarowanie terenu wokół budynku, naprawa ogrodzenia, utworzenie parkingu, modernizacja dróg dojazdowych i oświetlenia terenu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "podniesienie standardów bezpieczeństwa, dzięki nowym systemom monitorowania, systemom alarmowym zamontowanych na salach i korytarzach czy systemom przywoławczym, które służą do szybkiego i prostego procesu wzywania pomocy w sytuacjach nagłego zagrożenia, a także bezpieczne wyposażenie sal;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "zmniejszenie wydatków i poprawa efektywności energetycznej, na które wpływ będzie mieć wymiana oświetlenia na LED, centralnego ogrzewania – grzejniki wraz z zaworami termostatycznymi czy baterie, które będą bezpieczne i oszczędne w zużyciu wody;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "udogodnienia dla osób z niepełnosprawnością. Dzięki realizacji inwestycji zamontowane zostaną windy przystosowane dla osób z niepełnosprawnością, podjazd dla wózków o łagodnym kącie nachylenia, wejścia do sal chorych zostaną poszerzone, by osoby poruszająca się na wózkach mogły swobodnie się poruszać, przystosowane dla osób z niepełnosprawnością pomieszczenia sanitarne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "rozszerzenie zakresu udzielanych świadczeń z zakresu opieki psychiatrycznej i leczenia uzależnień, a także podniesienie standardów leczenia przez udostępnienie nowych form leczenia, które wpłyną na zwiększenie liczby świadczeniobiorców.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Prognozowany plan finansowy i harmonogram rzeczowy"
+      },
+      {
+       "type": "text",
+       "text": "VI.1. Prognozowany plan finansowy"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Prognozowany plan finansowy Środki z Subfunduszu"
+      },
+      {
+       "type": "text",
+       "text": "Infrastruktury"
+      },
+      {
+       "type": "text",
+       "text": "48 568 726 0 912 168 602 476 21 622 453 25 431 629"
+      },
+      {
+       "type": "text",
+       "text": "Strategicznej –"
+      },
+      {
+       "type": "text",
+       "text": "Fundusz Medyczny"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM 48 568 726 0 912 168 602 476 21 622 453 25 431 629"
+      },
+      {
+       "type": "text",
+       "text": "VI.2. Prognozowany harmonogram rzeczowy"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Prognozowany harmonogram rzeczowy"
+      },
+      {
+       "type": "text",
+       "text": "Prognozowany harmonogram rzeczowy:"
+      },
+      {
+       "type": "text",
+       "text": "Etap realizacji inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "2025 r. 2026 r. 2027 r. 2028 r. 2029 r."
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Zagospodarowanie terenu i budowa obiektów"
+      },
+      {
+       "type": "text",
+       "text": "pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Prace przygotowawcze, projektowe, obsługa"
+      },
+      {
+       "type": "text",
+       "text": "inwestorska, nadzory autorskie oraz ewentualnie"
+      },
+      {
+       "type": "text",
+       "text": "szkolenia i rozruch technologiczny"
+      },
+      {
+       "type": "text",
+       "text": "Minister Zdrowia będzie nadzorować realizację Programu inwestycyjnego zgodnie harmonogramem rzeczowo-finansowym określonym umową na udzielenie dotacji celowej – w celu zapewnienia osiągnięcia zaplanowanego w Programie inwestycyjnym końcowego efektu rzeczowego oraz założonych do realizacji mierników. Zmiany w zakresie harmonogramu rzeczowo-finansowego nie wymagają zmiany Programu inwestycyjnego."
+      },
+      {
+       "type": "text",
+       "text": "VII. Prognozowane mierniki programu"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Prognozowane mierniki programu"
+      },
+      {
+       "type": "text",
+       "text": "Mierniki – udział realizowanego"
+      },
+      {
+       "type": "text",
+       "text": "Rok Zakres rzeczowy realizowanego celu zakresu rzeczowego Wartość wg."
+      },
+      {
+       "type": "text",
+       "text": "realizacji rocznie narastająco WKI w"
+      },
+      {
+       "type": "text",
+       "text": "złotych"
+      },
+      {
+       "type": "text",
+       "text": "2025 r. Prace projektowe 0 0"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "2026 r. Prace projektowe, obsługa inwestorska i nadzór 2 % 2 %"
+      },
+      {
+       "type": "text",
+       "text": "autorski"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "2027 r. Zagospodarowanie terenu i budowa obiektów 48 568 726 1 % 3 %"
+      },
+      {
+       "type": "text",
+       "text": "pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "Obsługa inwestorska i nadzór autorski"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Zagospodarowanie terenu i budowa obiektów"
+      },
+      {
+       "type": "text",
+       "text": "pomocniczych 2028 r. Obsługa inwestorska i nadzór autorski 45 % 48 %"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Zagospodarowanie terenu i budowa obiektów 2029 r. 52 % 100 % pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "Obsługa inwestorska i nadzór autorski"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zgodnie z ustawą z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889 oraz z 2025 r. poz. 1739).",
+  "2": "Na wybór propozycji projektów strategicznych w zakresie dofinansowania zadań polegających na budowie, przebudowie, modernizacji lub doposażeniu infrastruktury strategicznej podmiotów wykonujących działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenia zdrowotne w zakresie opieka psychiatryczna i leczenie uzależnień, na podstawie umowy z Narodowym Funduszem Zdrowia. Prognozowane nakłady w poszczególnych latach: Wartość Kosztorysowa Źródła finansowania Inwestycji 2025 r. 2026 r. 2027 r. 2028 r. 2029 r. inwestycji (WKI) w złotych Wkład własny 0 0 0 0 0 0 Szpitala"
+ }
+}

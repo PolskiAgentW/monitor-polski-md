@@ -1,0 +1,104 @@
+{
+ "eli": "MP/2025/1279",
+ "title": "Uchwała nr 42/2025 Zarządu Narodowego Banku Polskiego z dnia 15 grudnia 2025 r. zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1279/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 42/2025"
+  },
+  {
+   "type": "text",
+   "text": "ZARZĄDU NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 grudnia 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały nr 2/2023 Zarządu Narodowego Banku Polskiego z dnia 18 stycznia 2023 r. w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M.P. z 2025 r. poz. 323) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 5 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Członkowie Zarządu przy głosowaniu za przyjęciem uchwały mogą głosować „za” albo „przeciw”, albo wstrzymać się od głosu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 6 w ust. 1 uchyla się pkt 5 i 6;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 17:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Przewodniczący Zarządu w szczególnie uzasadnionych przypadkach może podjąć decyzję o rozpatrzeniu przez Zarząd projektu uchwały w drodze korespondencyjnego uzgodnienia (tryb obiegowy), określając termin zajęcia stanowiska.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Na wniosek co najmniej trzech członków Zarządu projekt uchwały skierowany do rozpatrzenia w trybie, o którym mowa w ust. 1, zostaje skierowany do rozpatrzenia na najbliższym posiedzeniu Zarządu.”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: A. Glapiński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,351 @@
+{
+ "eli": "MP/2026/436",
+ "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 3 kwietnia 2026 r. w sprawie włączenia kwalifikacji sektorowej \"Wykonywanie opracowań fotogrametrycznych w zakresie fotogrametrii bliskiego zasięgu oraz fotogrametrii niskiego pułapu na podstawie danych z kamer niemetrycznych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/436/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW I GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 kwietnia 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji sektorowej „Wykonywanie opracowań fotogrametrycznych w zakresie fotogrametrii bliskiego zasięgu oraz fotogrametrii niskiego pułapu na podstawie danych z kamer niemetrycznych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji sektorowej „Wykonywanie opracowań fotogrametrycznych w zakresie fotogrametrii bliskiego zasięgu oraz fotogrametrii niskiego pułapu na podstawie danych z kamer niemetrycznych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów i Gospodarki: A. Domański"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Finansów i Gospodarki z dnia 3 kwietnia 2026 r. (M.P. poz. 436)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI SEKTOROWEJ „WYKONYWANIE OPRACOWAŃ FOTOGRAMETRYCZNYCH W ZAKRESIE FOTOGRAMETRII BLISKIEGO ZASIĘGU ORAZ FOTOGRAMETRII NISKIEGO PUŁAPU NA PODSTAWIE DANYCH Z KAMER NIEMETRYCZNYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wykonywanie opracowań fotogrametrycznych w zakresie fotogrametrii bliskiego zasięgu oraz fotogrametrii niskiego pułapu na podstawie danych z kamer niemetrycznych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca niniejszą kwalifikację jest przygotowana do wykonywania zadań związanych z pozyskiwaniem danych z kamer niemetrycznych oraz przetwarzaniem tych danych. Kwalifikacja obejmuje analizę i interpretację uzyskanych wyników oraz generowanie opracowań fotogrametrycznych."
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca niniejszą kwalifikację posługuje się wiedzą dotyczącą zasad działania technologii fotogrametrycznych, charakterystyki fal elektromagnetycznych, przetwarzania obrazu cyfrowego oraz geometrycznych podstaw fotogrametrii. Zna metody pozyskiwania danych, w tym pozyskiwanie danych z bezzałogowych statków powietrznych oraz techniki przetwarzania tych danych z użyciem specjalistycznego oprogramowania. Osoba posiadająca niniejszą kwalifikację przygotowuje sprzęt do pomiaru, planuje i realizuje pomiary, przetwarza dane fotogrametryczne, generuje ortofotomozaiki i numeryczne modele terenu (NMT), numeryczne modele powierzchni terenu (NMPT) oraz modele siatkowe MESH. Osoba ta potrafi analizować i interpretować wyniki pomiarów, a także przygotowywać raporty i dokumentację techniczną, zapewniając jednocześnie odpowiednią jakość danych i przestrzeganie obowiązujących standardów i norm. Zna i realizuje zasady bezpieczeństwa i higieny pracy, a także przepisy obowiązującego prawa w zakresie zasad i ograniczeń dotyczących możliwości pozyskiwania danych z wykorzystaniem narzędzi fotogrametrycznych dla bliskiego zasięgu oraz z pokładu bezzałogowych statków powietrznych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Teoretyczne aspekty fotogrametrii bliskiego zasięgu oraz fotogrametrii niskiego pułapu z wykorzystaniem bezzałogowych statków powietrznych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje elementy – omawia elementy orientacji wewnętrznej kamery oraz ich wpływ na dokładność generoorientacji wewnętrznej wanego opracowania w aspekcie fotogrametrii bliskiego zasięgu, kamery oraz określa – omawia elementy orientacji wewnętrznej kamery oraz ich wpływ na dokładność generowpływ dokładności wanego opracowania w aspekcie fotogrametrii niskiego pułapu (z wykorzystaniem bezich wyznaczenia załogowych statków powietrznych). na dokładność produktów opracowań fotogrametrycznych"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje elementy – omawia elementy orientacji zewnętrznej kamery oraz ich wpływ na dokładność generoorientacji zewnętrznej wanego opracowania w aspekcie fotogrametrii bliskiego zasięgu, kamery oraz określa – omawia elementy orientacji zewnętrznej kamery oraz ich wpływ na dokładność generowpływ dokładności ich wanego opracowania w aspekcie fotogrametrii niskiego pułapu (z wykorzystaniem bezwyznaczenia na jakość załogowych statków powietrznych). wykonywanych opracowań fotogrametrycznych Charakteryzuje – opisuje właściwości geometryczne i parametry dokładnościowe osnowy fotogrametryczwłaściwości nej realizowanej na potrzeby fotogrametrii bliskiego zasięgu, geometryczne – opisuje właściwości geometryczne i parametry dokładnościowe osnowy fotogrametryczi parametry nej realizowanej na potrzeby fotogrametrii niskiego pułapu (z wykorzystaniem bezzałodokładnościowe osnowy gowych statków powietrznych). fotogrametrycznej"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje przepisy – opisuje podstawy prawne w zakresie zasad i ograniczeń dotyczących możliwości pozyobowiązującego prawa skiwania danych zdjęciowych, w zakresie pozyskiwania – charakteryzuje przepisy obowiązującego prawa w zakresie zasad i ograniczeń dotycządanych cych możliwości pozyskiwania danych z wykorzystaniem bezzałogowych statków powietrznych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Pozyskiwanie danych fotogrametrycznych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowuje – dobiera oraz przygotowuje odpowiedni sprzęt pomiarowy do zakresu wykonywanych sprzęt do pomiarów prac, fotogrametrycznych – opracowuje plan sesji pomiarowej, uwzględniając m.in. parametry techniczne wykonyi planuje sesje wanego pomiaru oraz specyfikę obiektu pomiarowego, pomiarowe, w tym – prezentuje plan sesji pomiarowej z podaniem zakresu realizowanych prac, uwzględniając sesje z wykorzystaniem kwestie związane z osnową fotogrametryczną. bezzałogowych statków powietrznych"
+      },
+      {
+       "type": "text",
+       "text": "Pozyskuje dane – pozyskuje dane z wykorzystaniem kamer niemetrycznych z zachowaniem zasad bezpiefotogrametryczne czeństwa, za pomocą kamer – prezentuje pozyskane dane pomiarowe, niemetrycznych – sporządza raport jakościowy dotyczący pozyskanych danych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Przetwarzanie danych fotogrametrycznych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Importuje i przetwarza – weryfikuje kompletność pozyskanych zestawów danych pomiarowych, dane w oprogramowaniu – importuje pozyskane dane do oprogramowania fotogrametrycznego, fotogrametrycznym – przeprowadza wstępne przetwarzanie danych."
+      },
+      {
+       "type": "text",
+       "text": "Opracowuje numeryczne – generuje numeryczne modele terenu (NMT), numeryczne modele pokrycia terenu modele terenu (NMT), (NMPT) oraz modele siatkowe MESH na podstawie danych fotogrametrycznych, numeryczne modele – wykonuje prezentację graficzną wygenerowanych opracowań, pokrycia terenu (NMPT) – analizuje jakość, dokładność oraz kompletność wygenerowanych opracowań, oraz modele siatkowe MESH – generuje raport dokładnościowy z przeprowadzonych prac."
+      },
+      {
+       "type": "text",
+       "text": "Generuje – generuje ortofotomozaikę, ortofotomozaikę – weryfikuje jakość ortofotomozaiki i wprowadza korekty (np. edytuje linie mozaikowania), w oparciu – generuje raport dokładnościowy z przeprowadzonych prac. o pozyskane materiały fotogrametryczne Zestaw 4. Eksport i weryfikacja otrzymanych opracowań fotogrametrycznych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Przeprowadza ocenę – eksportuje wygenerowane produkty, wykorzystując różne formaty zapisu danych, uzyskanych wyników – kontroluje kompletność otrzymanych opracowań fotogrametrycznych,"
+      },
+      {
+       "type": "text",
+       "text": "– weryfikuje w zewnętrznym oprogramowaniu poprawność otrzymanych opracowań."
+      },
+      {
+       "type": "text",
+       "text": "Przygotowuje – interpretuje raporty (jakościowe i dokładnościowe) z przeprowadzonych prac, dokumentację techniczną – prezentuje otrzymane rezultaty w postaci cyfrowej. z przeprowadzonych pomiarów"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "Do weryfikacji efektów uczenia się stosuje się następujące metody walidacji:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "analiza dowodów i deklaracji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "test teoretyczny,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "obserwacja w warunkach rzeczywistych lub symulowanych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "wywiad ustrukturyzowany.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Walidacja składa się z części teoretycznej i praktycznej. Warunkiem przystąpienia do części praktycznej jest zaliczenie części teoretycznej."
+        },
+        {
+         "type": "text",
+         "text": "Część teoretyczna obejmuje test pisemny weryfikujący wiedzę teoretyczną z zakresu fotogrametrii, modelowania i pomiarów 3D, zasad pozyskiwania, przetwarzania oraz wykorzystania danych pozyskanych przy wykorzystaniu kamer niemetrycznych z uwzględnieniem pozyskiwania danych przy wykorzystaniu bezzałogowych statków powietrznych. Test teoretyczny odbywa się w trybie stacjonarnym lub zdalnym."
+        },
+        {
+         "type": "text",
+         "text": "Część praktyczna obejmuje zadania związane z pozyskiwaniem, przetwarzaniem i generowaniem opracowań fotogrametrycznych: wykonanie rzeczywistych pomiarów, importowanie i przetwarzanie danych, generowanie opracowań fotogrametrycznych, a także prezentację otrzymanych wyników."
+        },
+        {
+         "type": "text",
+         "text": "1.2. Zasoby kadrowe"
+        },
+        {
+         "type": "text",
+         "text": "Komisja walidacyjna."
+        },
+        {
+         "type": "text",
+         "text": "Komisja walidacyjna składa się z co najmniej 3 osób. Każdy członek komisji walidacyjnej musi spełniać przynajmniej 2 spośród wymienionych poniżej warunków, zaś cała komisja musi spełniać wszystkie warunki:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "wykształcenie wyższe II stopnia z zakresu geodezji, kartografii, budownictwa, architektury, inżynierii lądowej lub pokrewnego,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_1/tir_6",
+       "text": "udokumentowane, minimum 3-letnie doświadczenie zawodowe w obszarze fotogrametrii,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_1/tir_7",
+       "text": "udokumentowane doświadczenia w prowadzeniu szkoleń i kursów lub zajęć dydaktycznych związanych z fotogrametrią, bezzałogowymi statkami powietrznymi, analizą obrazów cyfrowych bądź modelowaniem 3D (przeprowadzenie w ostatnich 2 latach przed dniem walidacji co najmniej 5 szkoleń i kursów lub przeprowadzenie zajęć dydaktycznych o łącznej liczbie godzin niemniejszej niż 45 godzin dydaktycznych/rok z wymienionego zakresu w ostatnich 2 latach przed dniem walidacji),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_1/tir_8",
+       "text": "prowadzenie badań naukowych bądź prac rozwojowych z zakresu fotogrametrii i wykorzystania kamer niemetrycznych (posiadanie co najmniej 5 publikacji naukowych lub zrealizowanie 3 projektów badawczych lub badawczo-rozwojowych, w których przeprowadzano proces pozyskiwania, przetwarzania oraz wykorzystania danych fotogrametrycznych).",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji oraz warunki organizacyjne i materialne niezbędne do prawidłowego prowadzenia walidacji"
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca zapewnia:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_1/tir_9",
+       "text": "warunki do przeprowadzenia części teoretycznej walidacji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "10",
+       "path": "ust_1/tir_10",
+       "text": "dostęp do terenu otwartego lub przygotowanego pomieszczenia do wykonania pomiarów fotogrametrycznych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "11",
+       "path": "ust_1/tir_11",
+       "text": "kamerę niemetryczną lub bezzałogowy statek powietrzny z kamerą niemetryczną,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "12",
+       "path": "ust_1/tir_12",
+       "text": "oprogramowanie do przetwarzania i analizy danych fotogrametrycznych umożliwiające import, przetwarzanie oraz generowanie opracowań fotogrametrycznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak warunków"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak innych, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji sektorowej"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu potwierdzającego nadanie kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat jest ważny 7 lat. W przypadku utraty ważności certyfikatu jest możliwe jego ponowne uzyskanie pod warunkiem ponownego przystąpienia do procesu walidacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nierzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów i Gospodarki kieruje działem administracji rządowej – budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997)."
+ }
+}

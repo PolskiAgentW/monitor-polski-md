@@ -1,0 +1,120 @@
+{
+ "eli": "MP/2025/1198",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 18 listopada 2025 r. w sprawie granicznych kwot przychodu dla 2025 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1198/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 listopada 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie granicznych kwot przychodu dla 2025 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674 oraz z 2025 r. poz. 718, 769 i 1159) ogłasza się, że kwoty graniczne przychodu dla 2025 r. wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "72 562,00 zł – co stanowi sumę kwot przychodu odpowiadających 70 % przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_1/tir_1",
+     "text": "5713,20 zł – od 1 stycznia 2025 r. do 28 lutego 2025 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_1/tir_2",
+     "text": "5934,10 zł – od 1 marca 2025 r. do 31 maja 2025 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_1/tir_3",
+     "text": "6273,60 zł – od 1 czerwca 2025 r. do 31 sierpnia 2025 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_1/tir_4",
+     "text": "6124,10 zł – od 1 września 2025 r. do 30 listopada 2025 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_1/tir_5",
+     "text": "6140,20 zł – od 1 grudnia 2025 r. do 31 grudnia 2025 r.;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "134 757,80 zł – co stanowi sumę kwot przychodu odpowiadających 130 % przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_2/tir_1",
+     "text": "10 610,20 zł – od 1 stycznia 2025 r. do 28 lutego 2025 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_2/tir_2",
+     "text": "11 020,40 zł – od 1 marca 2025 r. do 31 maja 2025 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_2/tir_3",
+     "text": "11 651,00 zł – od 1 czerwca 2025 r. do 31 sierpnia 2025 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_2/tir_4",
+     "text": "11 373,30 zł – od 1 września 2025 r. do 30 listopada 2025 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_2/tir_5",
+     "text": "11 403,30 zł – od 1 grudnia 2025 r. do 31 grudnia 2025 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: Z. Derdziuk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

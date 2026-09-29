@@ -1,0 +1,461 @@
+{
+ "eli": "MP/2026/755",
+ "title": "Zarządzenie nr 44 Prezesa Rady Ministrów z dnia 3 sierpnia 2026 r. w sprawie Rady do spraw promocji marki Polski",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/755/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 44"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 sierpnia 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Rady do spraw promocji marki Polski"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rada do spraw promocji marki Polski, zwana dalej „Radą”, jest organem pomocniczym Rady Ministrów i Prezesa Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Rady należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "identyfikowanie wartości i pozycji marki Polski oraz analizowanie kluczowych wskaźników efektywności istotnych dla budowy wizerunku marki Polski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "formułowanie propozycji opinii, stanowisk i rekomendacji dotyczących kierunków działań w obszarze budowy i promocji marki Polski oraz zasad komunikacji kryzysowej w tym obszarze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "opiniowanie projektu strategii dotyczącej budowy i promocji marki Polski oraz planu wdrażania tej strategii, a także formułowanie w tym zakresie propozycji rozwiązań istotnych z punktu widzenia promocji marki Polski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "identyfikowanie i analiza ryzyk dotyczących pozycji i wartości marki Polski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "wspieranie przedsięwzięć istotnych dla rozwoju marki Polski i monitorowanie inicjatyw podejmowanych w tym obszarze, w szczególności w zakresie wypracowywania wspólnych standardów narracyjnych, wizualnych, badawczych i współbrandingowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "monitorowanie realizacji strategii, o której mowa w pkt 3, oraz formułowanie propozycji jej aktualizacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Rady wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "Przewodniczący Rady – Pełnomocnik Rządu do spraw promocji marki Polski;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "po trzech przedstawicieli, w tym co najmniej jeden w randze sekretarza stanu albo podsekretarza stanu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "Ministra Aktywów Państwowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "Ministra Finansów i Gospodarki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "Ministra Kultury i Dziedzictwa Narodowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_2/lit_d",
+         "text": "Ministra Nauki i Szkolnictwa Wyższego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_2/lit_e",
+         "text": "Ministra Sportu i Turystyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_2/lit_f",
+         "text": "Ministra Spraw Zagranicznych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "zaproszony przez Przewodniczącego Rady przedstawiciel Senatu Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "osoby reprezentujące w szczególności samorząd terytorialny, organizacje przedsiębiorców i pracodawców, organizacje pozarządowe, środowiska naukowe oraz jednostki podległe organom administracji rządowej lub przez nie nadzorowane – w liczbie niewiększej niż 20.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Członków Rady, o których mowa w § 3 ust. 1 pkt 4, powołuje i odwołuje Prezes Rady Ministrów na wniosek Przewodniczącego Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przewodniczący Rady może zapraszać do udziału w posiedzeniu, na prawach członka Rady, przedstawicieli członków Rady Ministrów niewchodzących w skład Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przewodniczący Rady, z własnej inicjatywy lub na wniosek członka Rady, może zapraszać do udziału w pracach Rady, z głosem doradczym, osoby, których wiedza i doświadczenie mogą być przydatne do wykonywania zadań Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przewodniczący Rady kieruje pracami Rady, w tym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "zwołuje posiedzenia Rady – z własnej inicjatywy lub na wniosek członka Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "przewodniczy posiedzeniom Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "określa porządek obrad Rady;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "reprezentuje Radę na zewnątrz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W przypadku nieobecności Przewodniczącego Rady pracami Rady kieruje wyznaczony przez niego członek Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przewodniczący Rady może powierzyć pozostałym członkom Rady wykonywanie określonych obowiązków służących realizacji zadań Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W celu realizacji zadań Rady Przewodniczący Rady może tworzyć grupy robocze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W skład grup roboczych wchodzą członkowie Rady lub osoby zaproszone do udziału w pracach Rady, o których mowa w § 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Przewodniczący Rady określa skład i zakres zadań grupy roboczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Przewodniczący Rady wyznacza przewodniczącego grupy roboczej spośród osób wchodzących w skład Rady.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Rada obraduje na posiedzeniach w terminach określonych przez Przewodniczącego Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Posiedzenia Rady odbywają się nierzadziej niż raz na kwartał.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Przewodniczący Rady może zarządzić rozpatrzenie sprawy w drodze korespondencyjnego uzgodnienia stanowisk (tryb obiegowy).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Przewodniczący Rady może zarządzić odbycie posiedzenia przy użyciu środków komunikacji elektronicznej, o czym zawiadamia się członków Rady oraz osoby, o których mowa w § 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Posiedzenia Rady przy użyciu środków komunikacji elektronicznej odbywają się z zachowaniem niezbędnych zasad bezpieczeństwa, co obejmuje w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_5/pkt_1",
+       "text": "transmitowanie posiedzenia jego uczestnikom w czasie rzeczywistym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_5/pkt_2",
+       "text": "wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą się wypowiadać w toku posiedzenia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Rozstrzygnięcia Rady zapadają w drodze uzgodnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W przypadku gdy uzgodnienie stanowiska nie jest możliwe, rozstrzyga zdanie Przewodniczącego Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Członkowie Rady mogą zgłosić zdanie odrębne w stosunku do zapadłego rozstrzygnięcia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Przewodniczący Rady może zlecać członkom Rady opracowanie analiz z zakresu zadań Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Organy administracji rządowej oraz podległe im jednostki organizacyjne lub jednostki przez nie nadzorowane na wniosek Przewodniczącego Rady udzielają Radzie, w ramach swoich kompetencji, pomocy przy wykonywaniu jej zadań, w tym przedstawiają niezbędne informacje, a także udostępniają dokumenty, analizy, prognozy, ekspertyzy i opinie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Udział w pracach Rady jest nieodpłatny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Z tytułu udziału w pracach Rady jej członkom przysługuje zwrot kosztów przejazdów na terenie kraju środkami transportu zbiorowego (z wyłączeniem samolotu), na zasadach określonych w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2013 r. w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej (Dz. U. z 2023 r. poz. 2190) oraz wewnętrznych regulacji obowiązujących w Kancelarii Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Obsługę techniczno-organizacyjną i biurową działalności Rady zapewnia Kancelaria Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Wydatki związane z działalnością Rady są pokrywane z budżetu państwa z części, której dysponentem jest Szef Kancelarii Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

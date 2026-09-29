@@ -1,0 +1,1679 @@
+{
+ "eli": "MP/2026/267",
+ "title": "Uchwała nr 86 Rady Ministrów z dnia 18 lutego 2026 r. w sprawie zatwierdzenia Regulaminu Komitetu do spraw Cyfryzacji",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/267/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 86"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 lutego 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zatwierdzenia Regulaminu Komitetu do spraw Cyfryzacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 17j ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Zatwierdza się Regulamin Komitetu do spraw Cyfryzacji, stanowiący załącznik do niniejszej uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 86 Rady Ministrów z dnia 18 lutego 2026 r. (M.P. poz. 267)",
+   "body": [
+    {
+     "type": "text",
+     "text": "REGULAMIN KOMITETU DO SPRAW CYFRYZACJI"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Przepisy ogólne"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ilekroć w niniejszym regulaminie jest mowa o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/pkt_1",
+       "text": "ustawie – rozumie się przez to ustawę z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/pkt_2",
+       "text": "Komitecie – rozumie się przez to Komitet do spraw Cyfryzacji, o którym mowa w art. 17a ust. 1 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/pkt_3",
+       "text": "przedsięwzięciu informatycznym o publicznym zastosowaniu – rozumie się przez to przedsięwzięcie informatyczne, o którym mowa w art. 3 pkt 6 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/pkt_4",
+       "text": "wnioskodawcy – rozumie się przez to podmiot uprawniony do wnoszenia do Komitetu wniosków, dokumentów i spraw, o których mowa w § 8 ust. 1, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/pkt_4/lit_a",
+         "text": "organ wnioskujący w rozumieniu § 20 ust. 1 uchwały nr 190 Rady Ministrów z dnia 29 października 2013 r. – Regulamin pracy Rady Ministrów (M.P. z 2024 r. poz. 806 oraz z 2025 r. poz. 408), zwanej dalej „Regulaminem pracy Rady Ministrów”,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/pkt_4/lit_b",
+         "text": "podmiot podległy lub nadzorowany przez organ, o którym mowa w lit. a, jeżeli został przez niego upoważniony,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/pkt_4/lit_c",
+         "text": "inny podmiot publiczny niebędący organem administracji rządowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_1/pkt_4/lit_d",
+         "text": "podmiot inny niż podmiot publiczny, o którym mowa w art. 2 ust. 1a ustawy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/pkt_5",
+       "text": "środkach Unii Europejskiej – rozumie się przez to środki, o których mowa w art. 3 pkt 31 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/pkt_6",
+       "text": "środkach z innych źródeł zagranicznych – rozumie się przez to środki, o których mowa w art. 3 pkt 32 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/pkt_7",
+       "text": "rzeczowej realizacji przedsięwzięcia informatycznego o publicznym zastosowaniu – rozumie się przez to wykonywanie założeń przedsięwzięcia informatycznego o publicznym zastosowaniu, o których mowa w art. 3 pkt 6a ustawy, przez wytworzenie i odbiór produktów wskazanych w tych założeniach prowadzące do osiągnięcia celów tego przedsięwzięcia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Zakres działania Komitetu"
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Komitet zapewnia koordynację i wsparcie działań związanych z informatyzacją państwa w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "rozpatrywania projektów dokumentów rządowych oraz przyjmowania stanowisk w sprawach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/pkt_1/lit_a",
+         "text": "ustaw,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/pkt_1/lit_b",
+         "text": "aktów normatywnych Rady Ministrów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/pkt_1/lit_c",
+         "text": "rozporządzeń Prezesa Rady Ministrów lub ministrów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/pkt_1/lit_d",
+         "text": "zarządzeń Prezesa Rady Ministrów;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "rozpatrywania projektów dokumentów rządowych innych niż określone w pkt 1, w szczególności stanowisk rządu, strategii, polityk, programów, planów, standardów, rekomendacji oraz wytycznych, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/pkt_2/lit_a",
+         "text": "procedur realizowania zadań publicznych za pomocą środków komunikacji elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/pkt_2/lit_b",
+         "text": "wskazywania kluczowych kierunków interwencji oraz potrzeb podjęcia działań",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– i przyjmowania stanowiska w tych sprawach;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "monitorowania lub opiniowania przedsięwzięć informatycznych o publicznym zastosowaniu realizowanych przez podmioty publiczne i przyjmowania stanowisk, w tym rekomendacji i wytycznych, w sprawie założeń oraz postępów i efektów realizacji tych przedsięwzięć, z uwzględnieniem progów wartości, o których mowa w art. 17a ust. 1 pkt 3 ustawy, oraz z wyłączeniem przedsięwzięć jednostek samorządu terytorialnego, związków takich jednostek, związków metropolitalnych, samorządowych jednostek budżetowych, samorządowych zakładów budżetowych, samorządowych instytucji kultury, samorządowych osób prawnych utworzonych na podstawie odrębnych ustaw w celu wykonywania zadań publicznych oraz innych samorządowych jednostek organizacyjnych nieposiadających osobowości prawnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "monitorowania realizacji strategii dotyczącej informatyzacji państwa, o której mowa w art. 12aa ust. 1 ustawy, i przyjmowania stanowiska w tej sprawie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "monitorowania realizacji innych dokumentów o charakterze strategicznym, polityk i programów rozwoju, związanych z informatyzacją państwa, wskazanych przez Radę Ministrów lub Prezesa Rady Ministrów oraz przyjmowania stanowisk w tych sprawach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 3",
+     "text": "Organizacja prac Komitetu"
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Posiedzenia Komitetu są zwoływane przez przewodniczącego Komitetu z własnej inicjatywy albo na wniosek członka Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "W zawiadomieniu o posiedzeniu Komitetu wskazuje się termin, miejsce i sposób jego przeprowadzenia oraz projekt porządku obrad.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Zawiadomienie o posiedzeniu Komitetu przekazuje się członkom Komitetu oraz – stosownie do przedmiotu sprawy – innym uczestnikom prac Komitetu, o których mowa w art. 17f ustawy, niepóźniej niż na 5 dni roboczych przed terminem posiedzenia. W uzasadnionych przypadkach, w szczególności w przypadku zmiany terminu posiedzenia, zawiadomienie przekazuje się niezwłocznie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_3/ust_4",
+       "text": "Materiały dotyczące spraw wnoszonych pod obrady Komitetu są przekazywane członkom Komitetu oraz – stosownie do przedmiotu sprawy – innym uczestnikom prac Komitetu, o których mowa w art. 17f ustawy, w postaci elektronicznej, niepóźniej niż na 3 dni robocze przed terminem posiedzenia Komitetu. W przypadkach uzasadnionych szczególną pilnością sprawy termin, o którym mowa w zdaniu pierwszym, może być skrócony za zgodą przewodniczącego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_3/ust_5",
+       "text": "Posiedzenia Komitetu prowadzi przewodniczący Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_3/ust_6",
+       "text": "W uzasadnionych przypadkach przewodniczący Komitetu może zarządzić odbycie posiedzenia Komitetu za pomocą środków komunikacji elektronicznej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_3/ust_7",
+       "text": "Odbycie posiedzenia za pomocą środków komunikacji elektronicznej obejmuje w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_7/pkt_1",
+         "text": "transmisję posiedzenia w czasie rzeczywistym między uczestnikami posiedzenia Komitetu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_7/pkt_2",
+         "text": "wielostronną komunikację w czasie rzeczywistym umożliwiającą uczestnikom posiedzenia Komitetu wypowiadanie się w toku obrad",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– z zachowaniem niezbędnych zasad bezpieczeństwa."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Członkowie Komitetu uczestniczą w posiedzeniach Komitetu, pracach zespołów zadaniowych i głosowaniach, zgłaszają uwagi oraz przedstawiają stanowiska organów, które reprezentują.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Informację o zastępstwie członka Komitetu w posiedzeniu Komitetu przekazuje się przewodniczącemu Komitetu za pośrednictwem sekretarza Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Do zadań sekretarza Komitetu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/pkt_1",
+       "text": "organizacja posiedzeń Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/pkt_2",
+       "text": "przygotowywanie projektów porządków obrad;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/pkt_3",
+       "text": "przekazywanie członkom Komitetu oraz – stosownie do przedmiotu sprawy – innym uczestnikom prac Komitetu, o których mowa w art. 17f ustawy, materiałów dotyczących spraw wnoszonych pod obrady Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/pkt_4",
+       "text": "sporządzanie protokołu z posiedzenia Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/pkt_5",
+       "text": "dokumentowanie przyjęcia przez Komitet stanowisk, rekomendacji i wytycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/pkt_6",
+       "text": "publikowanie informacji dotyczących działalności Komitetu na stronie internetowej Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Obsługę prac Komitetu zapewnia sekretarz Komitetu przy pomocy komórki organizacyjnej urzędu obsługującego ministra właściwego do spraw informatyzacji, właściwej do obsługi prac Komitetu, zwanej dalej „Biurem Sekretarza Komitetu”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Biuro Sekretarza Komitetu, we współpracy z wnioskodawcą, przygotowuje i przekazuje sekretarzowi Komitetu materiały niezbędne do rozpatrzenia sprawy przez Komitet.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Z posiedzenia Komitetu sporządza się protokół zawierający w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_7/ust_1/pkt_1",
+         "text": "datę posiedzenia;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_7/ust_1/pkt_2",
+         "text": "porządek obrad;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_7/ust_1/pkt_3",
+         "text": "opis przebiegu posiedzenia;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_7/ust_1/pkt_4",
+         "text": "treść rozstrzygnięć Komitetu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_7/ust_1/pkt_5",
+         "text": "informację o ewentualnym braku wspólnego stanowiska Komitetu wraz ze wskazaniem jego przyczyn;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_7/ust_1/pkt_6",
+         "text": "wskazanie zgłoszonych do protokołu odrębnych stanowisk, o których mowa w art. 17i ust. 4 ustawy, ze wskazaniem zgłaszającego (członka Komitetu albo Prezesa Rządowego Centrum Legislacji).",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Do protokołu z posiedzenia Komitetu dołącza się listę obecności osób biorących udział w posiedzeniu Komitetu. Lista obecności jest przechowywana w Biurze Sekretarza Komitetu. Przepisu ust. 4 oraz § 5 pkt 6 nie stosuje się.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Protokół podpisuje przewodniczący Komitetu oraz sekretarz Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_7/ust_4",
+       "text": "Protokół z posiedzenia Komitetu doręcza się członkom Komitetu oraz – stosownie do przedmiotu sprawy – innym uczestnikom prac Komitetu, o których mowa w art. 17f ustawy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_7/ust_5",
+       "text": "Członek Komitetu, a w sprawach dokumentów rządowych, o których mowa w § 2 pkt 1, również Prezes Rządowego Centrum Legislacji, może w terminie 7 dni roboczych od dnia doręczenia protokołu z posiedzenia Komitetu zgłosić, za pośrednictwem sekretarza Komitetu, zastrzeżenia do treści protokołu wraz z wnioskiem o jego sprostowanie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_7/ust_6",
+       "text": "Sprostowania protokołu z posiedzenia Komitetu dokonuje sekretarz Komitetu za zgodą przewodniczącego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_7/ust_7",
+       "text": "Sprostowanie oczywistych omyłek pisarskich w protokole z posiedzenia Komitetu może nastąpić z urzędu w każdym czasie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 4",
+     "text": "Wnioskodawcy i tryb składania wniosków"
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "Wnioskodawca przedkłada, za pośrednictwem sekretarza Komitetu:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_8/ust_1/pkt_1",
+         "text": "wniosek o rozpatrzenie projektu dokumentu rządowego, o którym mowa w § 2 pkt 1 i 2;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_8/ust_1/pkt_2",
+         "text": "wniosek o zaopiniowanie założeń przedsięwzięcia informatycznego o publicznym zastosowaniu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_8/ust_1/pkt_3",
+         "text": "wniosek o zaopiniowanie postępów lub efektów realizacji przedsięwzięcia informatycznego o publicznym zastosowaniu, z załączeniem raportu kwartalnego albo raportu końcowego, o których mowa w § 10 ust. 4 i 6;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_8/ust_1/pkt_4",
+         "text": "wniosek o zwolnienie przedsięwzięcia informatycznego o publicznym zastosowaniu z monitorowania lub opiniowania;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_8/ust_1/pkt_5",
+         "text": "sprawozdanie z realizacji zadań przez zespoły zadaniowe;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_8/ust_1/pkt_6",
+         "text": "sprawozdanie z realizacji dokumentów strategicznych, o których mowa w § 10 ust. 8 pkt 2;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_8/ust_1/pkt_7",
+         "text": "inne dokumenty lub sprawy przekazane Komitetowi do rozpatrzenia przez Radę Ministrów, Prezesa Rady Ministrów lub przewodniczącego Komitetu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Wniosek o rozpatrzenie projektu dokumentu rządowego, o którym mowa w § 2 pkt 1, wnosi wyłącznie organ wnioskujący w rozumieniu § 20 ust. 1 Regulaminu pracy Rady Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_8/ust_3",
+       "text": "Za zgodą przewodniczącego Komitetu Komitet może – na wniosek podmiotu innego niż podmiot publiczny, o którym mowa w art. 2 ust. 1a ustawy – monitorować lub opiniować przedsięwzięcie informatyczne o publicznym zastosowaniu realizowane przez ten podmiot oraz przyjmować stanowisko w sprawie założeń, postępów i efektów realizacji takiego przedsięwzięcia, zgodnie z art. 17a ust. 7 ustawy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_8/ust_4",
+       "text": "Wniosek, o którym mowa w ust. 1 pkt 4, zawiera co najmniej:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_8/ust_4/pkt_1",
+         "text": "opis założeń przedsięwzięcia informatycznego o publicznym zastosowaniu, którego dotyczy wniosek;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_8/ust_4/pkt_2",
+         "text": "wskazanie okoliczności uzasadniających zwolnienie, w tym opis szczególnego interesu publicznego przemawiającego za zwolnieniem.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_8/ust_5",
+       "text": "Do wniosku, o którym mowa w ust. 1 pkt 4, można dołączyć informację o etapie realizacji przedsięwzięcia informatycznego o publicznym zastosowaniu oraz analizy, opinie lub inne dokumenty potwierdzające okoliczności, o których mowa w ust. 4 pkt 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "Wniosek o rozpatrzenie projektu dokumentu rządowego, o którym mowa w § 2 pkt 1, określa zwięźle istotę i cel projektu oraz zawiera informacje o:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_1/pkt_1",
+         "text": "pozycji projektu we właściwym wykazie prac legislacyjnych lub wykazie prac programowych Rady Ministrów i terminie planowanego przyjęcia (jeżeli został określony);",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_1/pkt_2",
+         "text": "opracowaniu projektu ustawy przez podmiot, o którym mowa w § 25aa ust. 1 Regulaminu pracy Rady Ministrów, wraz ze wskazaniem nazwy tego podmiotu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_1/pkt_3",
+         "text": "wynikach uzgodnień;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_9/ust_1/pkt_4",
+         "text": "opinii Komisji Wspólnej Rządu i Samorządu Terytorialnego (jeżeli została wydana) oraz stanowisku wnioskodawcy wobec zastrzeżeń zawartych w tej opinii.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "Do wniosku, o którym mowa w ust. 1, dołącza się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_2/pkt_1",
+         "text": "tekst projektu wraz z uzasadnieniem, w tym oceną skutków regulacji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_2/pkt_2",
+         "text": "protokół rozbieżności, zestawienie nieuwzględnionych uwag oraz raport z konsultacji, o których mowa odpowiednio w § 50 ust. 1 i 3 oraz § 51 Regulaminu pracy Rady Ministrów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_2/pkt_3",
+         "text": "opinie, analizy i inne materiały wymagane lub niezbędne ze względu na przedmiot projektu, w tym – jeżeli zostały sporządzone:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_9/ust_2/pkt_3/lit_a",
+           "text": "opinię o zgodności projektu z prawem Unii Europejskiej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_9/ust_2/pkt_3/lit_b",
+           "text": "opinię Rady Legislacyjnej przy Prezesie Rady Ministrów,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_9/ust_2/pkt_3/lit_c",
+           "text": "tabelę zgodności oraz odwróconą tabelę zgodności – w przypadku projektu mającego na celu wdrożenie prawa Unii Europejskiej lub służącego stosowaniu tego prawa;",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_9/ust_2/pkt_4",
+         "text": "listę kontrolną osiągania interoperacyjności przez system teleinformatyczny regulowany przez projekt;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_9/ust_2/pkt_5",
+         "text": "tabelę legislacyjną.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_9/ust_3",
+       "text": "Komitet, w drodze uchwały, przyjmuje wzór listy kontrolnej oraz tabeli legislacyjnej, o których mowa w ust. 2 pkt 4 i 5.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_9/ust_4",
+       "text": "Wniosek o rozpatrzenie projektu dokumentu rządowego, o którym mowa w § 2 pkt 2, zawiera informacje o:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_4/pkt_1",
+         "text": "pozycji projektu w wykazie prac legislacyjnych lub wykazie prac programowych Rady Ministrów (jeżeli dotyczy) i terminie planowanego przyjęcia (jeżeli został określony);",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_4/pkt_2",
+         "text": "wynikach uzgodnień;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_4/pkt_3",
+         "text": "opinii Komisji Wspólnej Rządu i Samorządu Terytorialnego (jeżeli została wydana) oraz stanowisku wnioskodawcy wobec zastrzeżeń zawartych w tej opinii.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_9/ust_5",
+       "text": "Do wniosku, o którym mowa w ust. 4, dołącza się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_5/pkt_1",
+         "text": "tekst projektu wraz z uzasadnieniem;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_5/pkt_2",
+         "text": "protokół rozbieżności, zestawienie nieuwzględnionych uwag oraz raport z konsultacji, o których mowa odpowiednio w § 50 ust. 1 i 3 oraz § 51 Regulaminu pracy Rady Ministrów.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_10/ust_1",
+       "text": "Wniosek o zaopiniowanie założeń przedsięwzięcia informatycznego o publicznym zastosowaniu przedkłada się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_10/ust_1/pkt_1",
+         "text": "przed rozpoczęciem realizacji tego przedsięwzięcia, w szczególności:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_10/ust_1/pkt_1/lit_a",
+           "text": "przed uzyskaniem finansowania – jeżeli przedsięwzięcie planuje się finansować z udziałem środków Unii Europejskiej lub środków z innych źródeł zagranicznych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_10/ust_1/pkt_1/lit_b",
+           "text": "przed rozpoczęciem rzeczowej realizacji przedsięwzięcia informatycznego o publicznym zastosowaniu – w pozostałych przypadkach;",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_10/ust_1/pkt_2",
+         "text": "w trakcie realizacji tego przedsięwzięcia – w przypadku zmiany przyjętych założeń przedsięwzięcia informatycznego o publicznym zastosowaniu (w szczególności rozszerzenia zakresu produktów przedsięwzięcia, zmiany funkcjonalności produktów przedsięwzięcia lub zmiany technologicznej produktów przedsięwzięcia albo wzrostu kosztów o ponad 15 %) – przed wdrożeniem zmiany.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_10/ust_2",
+       "text": "Do wniosku, o którym mowa w ust. 1, dołącza się opis założeń przedsięwzięcia informatycznego o publicznym zastosowaniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_10/ust_3",
+       "text": "Wniosek o zaopiniowanie postępów realizacji przedsięwzięcia informatycznego o publicznym zastosowaniu składa się niepóźniej niż w terminie 15 dni roboczych po zakończeniu każdego kwartału.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_10/ust_4",
+       "text": "Do wniosku, o którym mowa w ust. 3, dołącza się raport kwartalny.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_10/ust_5",
+       "text": "Wniosek o zaopiniowanie efektów realizacji przedsięwzięcia informatycznego o publicznym zastosowaniu składa się niepóźniej niż w terminie 25 dni roboczych po zakończeniu rzeczowej realizacji przedsięwzięcia informatycznego o publicznym zastosowaniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_10/ust_6",
+       "text": "Do wniosku, o którym mowa w ust. 5, dołącza się raport końcowy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_10/ust_7",
+       "text": "Wniosku, o którym mowa w ust. 3, nie składa się, jeżeli koniec rzeczowej realizacji przedsięwzięcia informatycznego o publicznym zastosowaniu przypada wcześniej niż 20 dni roboczych przed końcem kwartału.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "par_10/ust_8",
+       "text": "Dokumenty, o których mowa w § 8 ust. 1 pkt 3, 5 i 6, przedkładane do przyjęcia przez Komitet:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_10/ust_8/pkt_1",
+         "text": "dotyczące monitorowania przedsięwzięć informatycznych o publicznym zastosowaniu – sporządza się na podstawie danych z opisu założeń tego przedsięwzięcia, raportów: kwartalnego, o którym mowa w ust. 4, oraz końcowego, o którym mowa w ust. 6;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_10/ust_8/pkt_2",
+         "text": "dla sprawozdań z monitorowania realizacji zadań, o których mowa w § 2 pkt 4 i 5 – sporządza się na podstawie informacji z monitoringu dokumentów strategicznych oraz poziomu osiągania celów i korzyści określonych w tych dokumentach;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_10/ust_8/pkt_3",
+         "text": "dla sprawozdań z realizacji zadań przez zespoły zadaniowe, o których mowa w § 8 ust. 1 pkt 5 – sporządza się na podstawie materiałów z ich prac.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "9",
+       "path": "par_10/ust_9",
+       "text": "Wzory dokumentów, o których mowa w ust. 2, 4 i 6, przyjmuje Komitet w drodze uchwały.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_11/ust_1",
+       "text": "Komitet rozpatruje sprawy w trybie obiegowym lub na posiedzeniach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_11/ust_2",
+       "text": "Sekretarz Komitetu przekazuje członkom Komitetu oraz – stosownie do przedmiotu sprawy – innym uczestnikom prac Komitetu, o których mowa w art. 17f ustawy:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_11/ust_2/pkt_1",
+         "text": "komplet materiałów właściwych dla sprawy, o których mowa w § 8–10, w szczególności dla:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_11/ust_2/pkt_1/lit_a",
+           "text": "projektów dokumentów rządowych, o których mowa w § 2 pkt 1 – materiały, o których mowa w § 9 ust. 2,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_11/ust_2/pkt_1/lit_b",
+           "text": "przedsięwzięć informatycznych o publicznym zastosowaniu – materiały, o których mowa w § 10 ust. 2, 4 i 6,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_11/ust_2/pkt_1/lit_c",
+           "text": "dokumentów, o których mowa w § 8 ust. 1 pkt 5 i 6 – materiały, o których mowa w § 10 ust. 8 pkt 2 i 3, stosownie do rodzaju dokumentu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_11/ust_2/pkt_1/lit_d",
+           "text": "wniosków o zwolnienie przedsięwzięcia informatycznego o publicznym zastosowaniu z monitorowania lub opiniowania – materiały, o których mowa w § 8 ust. 4 i 5;",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_11/ust_2/pkt_2",
+         "text": "projekty stanowisk, rekomendacji, wytycznych albo innych rozstrzygnięć.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_12/ust_1",
+       "text": "W przypadku gdy wniosek nie spełnia wymogów, o których mowa odpowiednio:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_12/ust_1/pkt_1",
+         "text": "w § 9 – dla wniosku, o którym mowa w § 8 ust. 1 pkt 1,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_12/ust_1/pkt_2",
+         "text": "w § 10 ust. 2, 4 i 6 – dla wniosków, o których mowa w § 8 ust. 1 pkt 2 i 3,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_12/ust_1/pkt_3",
+         "text": "w § 8 ust. 4 – dla wniosku, o którym mowa w § 8 ust. 1 pkt 4,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_12/ust_1/pkt_4",
+         "text": "w § 10 ust. 8 pkt 3 – dla sprawozdania, o którym mowa w § 8 ust. 1 pkt 5,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_12/ust_1/pkt_5",
+         "text": "w § 10 ust. 8 pkt 2 – dla sprawozdania, o którym mowa w § 8 ust. 1 pkt 6",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– sekretarz Komitetu wzywa wnioskodawcę do usunięcia braków formalnych w wyznaczonym terminie, niekrótszym niż 3 dni, wskazując zakres tych braków."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_12/ust_2",
+       "text": "W przypadku nieusunięcia braków w wyznaczonym terminie, sekretarz Komitetu może zwrócić wniosek bez rozpatrzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_12/ust_3",
+       "text": "Za zgodą przewodniczącego Komitetu Komitet może rozpatrzyć wniosek niespełniający wymogów, o których mowa w ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_12/ust_4",
+       "text": "Jeżeli z protokołu rozbieżności dołączonego do wniosku wynika, że w zakresie właściwości Komitetu jest zasadne ponowne przeprowadzenie uzgodnień w całości lub części, przewodniczący Komitetu może zwrócić wniosek wnioskodawcy, zobowiązując go do ich przeprowadzenia, w szczególności do zorganizowania konferencji uzgodnieniowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_13/ust_1",
+       "text": "Wnioski, materiały i sprawozdania przekazuje się za pomocą środków komunikacji elektronicznej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_13/ust_2",
+       "text": "Wnioskodawca może wycofać wniosek do czasu zakończenia jego rozpatrywania lub opiniowania, a także wycofać sprawozdanie do czasu jego przyjęcia. W przypadku dokumentów, o których mowa w § 8 ust. 1 pkt 7, dokument może wycofać podmiot, który go przekazał, do czasu zakończenia jego rozpatrywania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_14/ust_1",
+       "text": "Uwagi do materiałów, o których mowa w § 11 ust. 2 pkt 1 lit. a–c, dotyczących sprawy będącej przedmiotem rozpatrzenia przez Komitet przedstawia się, za pośrednictwem sekretarza Komitetu, w terminie 5 dni roboczych od dnia ich przekazania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_14/ust_2",
+       "text": "Uwagi zgłoszone po terminie nie podlegają rozpatrzeniu, chyba że przewodniczący Komitetu postanowi inaczej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_14/ust_3",
+       "text": "Wnioskodawca przekazuje, za pośrednictwem sekretarza Komitetu, odpowiedź na uwagi w terminie 4 dni roboczych od dnia ich otrzymania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_14/ust_4",
+       "text": "Sekretarz Komitetu niezwłocznie przekazuje odpowiedź wnioskodawcy podmiotowi, który zgłosił uwagi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_14/ust_5",
+       "text": "Podmiot zgłaszający uwagi przekazuje stanowisko, za pośrednictwem sekretarza Komitetu, w terminie 5 dni roboczych od dnia otrzymania odpowiedzi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_14/ust_6",
+       "text": "Z uwagi na złożoność lub pilność sprawy przewodniczący Komitetu lub sekretarz Komitetu może skrócić terminy, o których mowa w ust. 1, 3 i 5, z zastrzeżeniem, że żaden z tych terminów nie może być krótszy niż 1 dzień roboczy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 5",
+     "text": "Rozstrzygnięcia Komitetu i tryb ich podejmowania"
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "Komitet może podejmować uchwały.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "Tryb podejmowania przez Komitet rozstrzygnięć określa art. 17i ustawy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "17",
+     "path": "par_17",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_17/ust_1",
+       "text": "Po rozpatrzeniu projektów dokumentów rządowych, o których mowa w § 2 pkt 1, Komitet podejmuje następujące rozstrzygnięcia:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_17/ust_1/pkt_1",
+         "text": "w sprawach podlegających rozpatrzeniu przez Stały Komitet Rady Ministrów lub właściwy komitet Rady Ministrów:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_17/ust_1/pkt_1/lit_a",
+           "text": "przyjmuje projekt bez zmian i rekomenduje go właściwemu komitetowi,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_17/ust_1/pkt_1/lit_b",
+           "text": "przyjmuje projekt ze zmianami i rekomenduje go właściwemu komitetowi,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_17/ust_1/pkt_1/lit_c",
+           "text": "rekomenduje odrzucenie projektu;",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_17/ust_1/pkt_2",
+         "text": "w pozostałych sprawach:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_17/ust_1/pkt_2/lit_a",
+           "text": "przyjmuje projekt bez zmian i rekomenduje go do dalszych prac legislacyjnych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_17/ust_1/pkt_2/lit_b",
+           "text": "przyjmuje projekt ze zmianami i rekomenduje go do dalszych prac legislacyjnych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_17/ust_1/pkt_2/lit_c",
+           "text": "rekomenduje ponowne opracowanie projektu w zakresie objętym właściwością Komitetu.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_17/ust_2",
+       "text": "Po rozpatrzeniu projektów dokumentów rządowych, o których mowa w § 2 pkt 2, Komitet:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_17/ust_2/pkt_1",
+         "text": "przyjmuje projekt bez zmian i rekomenduje dalsze prowadzenie prac, jego wdrożenie lub stosowanie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_17/ust_2/pkt_2",
+         "text": "przyjmuje projekt ze zmianami i rekomenduje dalsze prowadzenie prac, jego wdrożenie lub stosowanie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_17/ust_2/pkt_3",
+         "text": "rekomenduje ponowne opracowanie projektu, uzależniając dalsze prowadzenie prac nad projektem od dokonania zmian określonych w opinii Komitetu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "18",
+     "path": "par_18",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_18/ust_1",
+       "text": "W przypadku założeń przedsięwzięcia informatycznego o publicznym zastosowaniu, o których mowa w § 10 ust. 1, Komitet:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_18/ust_1/pkt_1",
+         "text": "opiniuje założenia przedsięwzięcia pozytywnie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_18/ust_1/pkt_2",
+         "text": "opiniuje założenia przedsięwzięcia pozytywnie, z rekomendacją dokonania zmian i uzupełnień, odpowiednio:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_18/ust_1/pkt_2/lit_a",
+           "text": "przed rozpoczęciem jego realizacji – w przypadkach, o których mowa w § 10 ust. 1 pkt 1,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_18/ust_1/pkt_2/lit_b",
+           "text": "w trakcie jego realizacji – w przypadkach, o których mowa w § 10 ust. 1 pkt 2;",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_18/ust_1/pkt_3",
+         "text": "opiniuje założenia przedsięwzięcia negatywnie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_18/ust_1/pkt_4",
+         "text": "wydaje opinię, w której wskazuje na konieczność ponownego przedłożenia założeń tego przedsięwzięcia po spełnieniu określonych warunków.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_18/ust_2",
+       "text": "W przypadku wniosku, o którym mowa w § 8 ust. 1 pkt 3, z załączonym raportem kwartalnym, o którym mowa w § 10 ust. 4, Komitet:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_18/ust_2/pkt_1",
+         "text": "opiniuje wniosek pozytywnie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_18/ust_2/pkt_2",
+         "text": "opiniuje wniosek negatywnie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_18/ust_2/pkt_3",
+         "text": "wydaje opinię, w której wskazuje na konieczność dokonania zmian w raporcie lub przedsięwzięciu informatycznym o publicznym zastosowaniu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_18/ust_3",
+       "text": "W przypadku wniosku, o którym mowa w § 8 ust. 1 pkt 3, z załączonym raportem końcowym, o którym mowa w § 10 ust. 6, Komitet:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_18/ust_3/pkt_1",
+         "text": "opiniuje wniosek pozytywnie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_18/ust_3/pkt_2",
+         "text": "opiniuje wniosek negatywnie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_18/ust_3/pkt_3",
+         "text": "wydaje opinię, w której wskazuje na konieczność dokonania zmian w raporcie lub przedsięwzięciu informatycznym o publicznym zastosowaniu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_18/ust_4",
+       "text": "W przypadku sprawozdań, o których mowa w § 10 ust. 8 pkt 2 i 3, Komitet:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_18/ust_4/pkt_1",
+         "text": "przyjmuje sprawozdanie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_18/ust_4/pkt_2",
+         "text": "przyjmuje sprawozdanie i rekomenduje dalsze działania;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_18/ust_4/pkt_3",
+         "text": "odrzuca sprawozdanie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_18/ust_4/pkt_4",
+         "text": "wskazuje na konieczność ponownego przedłożenia sprawozdania w innym terminie.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_18/ust_5",
+       "text": "W przypadku wniosku, o którym mowa w § 8 ust. 1 pkt 4, przewodniczący Komitetu:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_18/ust_5/pkt_1",
+         "text": "zwalnia przedsięwzięcie informatyczne o publicznym zastosowaniu z monitorowania lub opiniowania, o których mowa w art. 17a ust. 1 pkt 3 ustawy, albo",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_18/ust_5/pkt_2",
+         "text": "odmawia zwolnienia, o którym mowa w pkt 1.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_18/ust_6",
+       "text": "W przypadku odmowy zwolnienia, o której mowa w ust. 5 pkt 2, podmiot realizujący przedsięwzięcie informatyczne o publicznym zastosowaniu może wystąpić do Komitetu z wnioskiem o zwolnienie, ponownie wskazując na istnienie szczególnego interesu publicznego. W przypadku odmowy zwolnienia przedsięwzięcie podlega monitorowaniu lub opiniowaniu, o których mowa w art. 17a ust. 1 pkt 3 ustawy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_18/ust_7",
+       "text": "Przewodniczący Komitetu albo działający z jego upoważnienia sekretarz Komitetu informuje Prezesa Rady Ministrów o treści opinii, o których mowa w ust. 1–3.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "19",
+     "path": "par_19",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_19/ust_1",
+       "text": "Przewodniczący Komitetu albo działający z jego upoważnienia sekretarz Komitetu zarządza rozpatrzenie sprawy w trybie obiegowym – z własnej inicjatywy lub na wniosek wnioskodawcy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_19/ust_2",
+       "text": "Do trybu obiegowego stosuje się odpowiednio przepisy § 11 ust. 2, § 13 i § 14. Sprawę będącą przedmiotem rozpatrzenia przez Komitet uznaje się za rozstrzygniętą w trybie obiegowym, jeżeli:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_19/ust_2/pkt_1",
+         "text": "nie zgłoszono do niej uwag;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_19/ust_2/pkt_2",
+         "text": "zgłoszone uwagi zostały uwzględnione;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_19/ust_2/pkt_3",
+         "text": "nie zajęto stanowiska, o którym mowa w § 14 ust. 5.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_19/ust_3",
+       "text": "Uwagi zgłoszone w trybie obiegowym, których nie uzgodniono lub nie wyjaśniono, przewodniczący Komitetu kieruje do rozstrzygnięcia na posiedzeniu Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_19/ust_4",
+       "text": "W uzasadnionych przypadkach przewodniczący Komitetu lub sekretarz Komitetu może włączyć do porządku obrad sprawę rozpatrywaną w trybie obiegowym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_19/ust_5",
+       "text": "Jeżeli sprawa została skierowana do rozpatrzenia na posiedzeniu Komitetu, a posiedzenie nie może się odbyć z ważnych przyczyn, przewodniczący Komitetu może zdecydować o jej rozpatrzeniu w trybie obiegowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "20",
+     "path": "par_20",
+     "text": "Komitet wydaje opinię o założeniach przedsięwzięcia informatycznego o publicznym zastosowaniu w terminie niedłuższym niż 60 dni roboczych od dnia złożenia wniosku.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "21",
+     "path": "par_21",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_21/ust_1",
+       "text": "Po rozpatrzeniu sprawy przez Komitet sporządza się dokument ustaleń, który zawiera:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_21/ust_1/pkt_1",
+         "text": "informację o uwagach zgłoszonych do dokumentu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_21/ust_1/pkt_2",
+         "text": "rozstrzygnięcia Komitetu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_21/ust_2",
+       "text": "Dokument ustaleń podpisuje przewodniczący Komitetu albo – z jego upoważnienia – sekretarz Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_21/ust_3",
+       "text": "Sekretarz Komitetu przekazuje:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_21/ust_3/pkt_1",
+         "text": "dokument ustaleń do wiadomości osób uczestniczących w pracach Komitetu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_21/ust_3/pkt_2",
+         "text": "informację o przyjęciu projektu dokumentu rządowego (z wyjątkiem projektów rozporządzeń właściwych ministrów) – Sekretarzowi Stałego Komitetu Rady Ministrów.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_21/ust_4",
+       "text": "Sekretarz Komitetu informuje członków Komitetu oraz – stosownie do przedmiotu sprawy – innych uczestników prac Komitetu, o których mowa w art. 17f ustawy, o wyniku rozpatrzenia sprawy w trybie obiegowym, wraz z dokumentem ustaleń, o którym mowa w ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_21/ust_5",
+       "text": "Członek Komitetu może zgłosić zdanie odrębne do rozstrzygnięcia Komitetu, wraz z jego uzasadnieniem; zdanie odrębne stanowi załącznik do dokumentu ustaleń oraz materiałów dokumentujących przebieg rozpatrzenia sprawy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_21/ust_6",
+       "text": "W przypadku rozpatrywania projektów dokumentów rządowych, o których mowa w § 2 pkt 1, członek Komitetu oraz Prezes Rządowego Centrum Legislacji mogą zgłosić do protokołu odrębne stanowisko w stosunku do rozstrzygnięcia podjętego na posiedzeniu Komitetu – zgodnie z art. 17i ust. 4 ustawy; odrębne stanowisko wskazuje się w protokole, o którym mowa w § 7 ust. 1 pkt 6.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 6",
+     "text": "Eksperci i zespoły zadaniowe"
+    },
+    {
+     "type": "par",
+     "num": "22",
+     "path": "par_22",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_22/ust_1",
+       "text": "Przewodniczący Komitetu może zlecać rzeczoznawcom lub ekspertom przeprowadzanie badań, opracowywanie ich wyników lub przygotowywanie opinii, ocen lub ekspertyz związanych z realizacją zadań Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_22/ust_2",
+       "text": "Przewodniczący Komitetu może – z własnej inicjatywy lub na wniosek członka Komitetu – w drodze decyzji tworzyć zespoły zadaniowe, określając w decyzji w szczególności zadania zespołu, termin ich wykonania, sposób ich realizacji, w tym sposób składania sprawozdań okresowych i końcowych, oraz skład osobowy zespołu, w tym jego kierownika.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_22/ust_3",
+       "text": "W skład zespołów zadaniowych mogą wchodzić rzeczoznawcy lub eksperci, o których mowa w ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_22/ust_4",
+       "text": "W decyzji o utworzeniu zespołu zadaniowego przewodniczący Komitetu może także określić wzory opinii, ocen lub ekspertyz.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_22/ust_5",
+       "text": "W decyzji o utworzeniu zespołu zadaniowego przewodniczący Komitetu wskazuje komórkę organizacyjną urzędu obsługującego ministra właściwego do spraw informatyzacji odpowiedzialną za obsługę prac tego zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 7",
+     "text": "Narzędzia i dane osobowe"
+    },
+    {
+     "type": "par",
+     "num": "23",
+     "path": "par_23",
+     "text": "Prace Komitetu są wykonywane z wykorzystaniem udostępnionych przez ministra właściwego do spraw informatyzacji i wskazanych przez przewodniczącego Komitetu narzędzi informatycznych wspierających prace Komitetu – w szczególności systemu teleinformatycznego, formularza elektronicznego oraz strony internetowej Komitetu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "24",
+     "path": "par_24",
+     "text": "Klauzula informacyjna dotycząca przetwarzania danych osobowych przez Komitet jest publikowana na stronie internetowej Komitetu.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 8",
+     "text": "Przepis końcowy"
+    },
+    {
+     "type": "par",
+     "num": "25",
+     "path": "par_25",
+     "text": "W zakresie nieuregulowanym w niniejszym regulaminie do rozpatrywania przez Komitet projektów dokumentów rządowych, o których mowa w § 2 pkt 1 i 2, stosuje się przepisy Regulaminu pracy Rady Ministrów.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

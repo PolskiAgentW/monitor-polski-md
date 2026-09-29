@@ -1,0 +1,542 @@
+{
+ "eli": "MP/2025/1053",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 7 października 2025 r. w sprawie ogłoszenia jednolitego tekstu uchwały Rady Ministrów w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1053/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 października 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu uchwały Rady Ministrów w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst uchwały nr 20 Rady Ministrów z dnia 4 marca 2025 r. w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację (M.P. poz. 223), z uwzględnieniem zmian wprowadzonych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "uchwałą nr 100 Rady Ministrów z dnia 21 lipca 2025 r. zmieniającą uchwałę w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację (M.P. poz. 712);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "uchwałą nr 104 Rady Ministrów z dnia 30 lipca 2025 r. zmieniającą uchwałę w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację (M.P. poz. 713).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity uchwały nie obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "§ 2 uchwały nr 100 Rady Ministrów z dnia 21 lipca 2025 r. zmieniającej uchwałę w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację (M.P. poz. 712), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Uchwała wchodzi w życie z dniem ogłoszenia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "§ 2 uchwały nr 104 Rady Ministrów z dnia 30 lipca 2025 r. zmieniającej uchwałę w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację (M.P. poz. 713), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Uchwała wchodzi w życie z dniem ogłoszenia.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 7 października 2025 r. (M.P. poz. 1053)",
+   "body": [
+    {
+     "type": "text",
+     "text": "UCHWAŁA NR 20"
+    },
+    {
+     "type": "text",
+     "text": "RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 4 marca 2025 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację"
+    },
+    {
+     "type": "text",
+     "text": "Rada Ministrów, wykonując zadania w zakresie polityki wewnętrznej państwa, dostrzega konieczność przeprowadzenia analizy obowiązującego stanu prawnego, w szczególności w zakresie warunków prowadzenia działalności gospodarczej, oraz podjęcia działań wdrażających deregulację i w związku z tym postanawia, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "[^1] Tworzy się Zespół do spraw koordynacji procesu legislacyjnego wdrażającego deregulację, zwany dalej „Zespołem”, którego pracami kieruje Minister do spraw Nadzoru nad Wdrażaniem Polityki Rządu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Zespół koordynuje rządowy proces legislacyjny dotyczący projektów dokumentów rządowych wdrażających deregulację, w szczególności projektów aktów normatywnych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Członek Rady Ministrów w zakresie swojej właściwości jest obowiązany do współdziałania z Zespołem, w tym do:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "opracowania stanowiska wobec propozycji zmian obowiązującego stanu prawnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "opracowania propozycji rozwiązań legislacyjnych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "przedstawiania Zespołowi stanowiska, o którym mowa w pkt 1, oraz propozycji, o której mowa w pkt 2, w terminie i w formie określonych przez Zespół.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Członek Rady Ministrów, wykonując zadania, o których mowa w ust. 1, bierze pod uwagę propozycje przedstawione przez stronę społeczną.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "[^2] Członek Rady Ministrów, inny organ lub osoba upoważniona do reprezentowania Rządu przed Sejmem i Senatem są obowiązani do uzgadniania stanowiska wobec propozycji zmiany lub uzupełnienia rządowego projektu ustawy wdrażającej deregulację, zgłoszonej w toku prac parlamentarnych, jeżeli Zespół wystąpi o takie uzgodnienie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Członek Rady Ministrów opracowuje i przedkłada do rozpatrzenia przez Radę Ministrów na zasadach określonych w Regulaminie pracy Rady Ministrów projekt dokumentu rządowego obejmujący propozycje, o których mowa w § 3 ust. 1 pkt 2, uwzględniający rekomendacje Zespołu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Szczegółowy zakres zadań Zespołu, skład Zespołu, tryb pracy Zespołu oraz tryb współdziałania Zespołu z członkami Rady Ministrów określa załącznik do uchwały.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Uchwała wchodzi w życie z dniem ogłoszenia[^3].",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do uchwały nr 20 Rady Ministrów z dnia 4 marca 2025 r. (M.P. poz. 1053)",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZCZEGÓŁOWY ZAKRES ZADAŃ ZESPOŁU, SKŁAD ZESPOŁU, TRYB PRACY ZESPOŁU ORAZ TRYB WSPÓŁDZIAŁANIA ZESPOŁU Z CZŁONKAMI RADY MINISTRÓW"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "Do zadań Zespołu należy koordynacja procesu legislacyjnego dotyczącego projektów dokumentów rządowych wdrażających deregulację, w szczególności projektów aktów normatywnych, w tym:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_1/ust_1/pkt_1",
+         "text": "wstępna analiza propozycji rozwiązań legislacyjnych, w tym propozycji przedstawionych przez stronę społeczną;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_1/ust_1/pkt_2",
+         "text": "przedstawianie rekomendacji do przedłożonych propozycji rozwiązań legislacyjnych, o których mowa w pkt 1;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_1/ust_1/pkt_3",
+         "text": "wskazywanie członka Rady Ministrów właściwego do:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_1/ust_1/pkt_3/lit_a",
+           "text": "dokonania analizy propozycji rozwiązań legislacyjnych, o których mowa w pkt 1,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_1/ust_1/pkt_3/lit_b",
+           "text": "opracowania i przedłożenia Radzie Ministrów projektu dokumentu rządowego, zgodnie z § 4 uchwały.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Zespół może zlecić Rządowemu Centrum Legislacji realizację zadań, o których mowa w § 3 uchwały.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_1/ust_3",
+       "text": "[^4] Zespół może wystąpić do członka Rady Ministrów, innego organu lub osoby upoważnionej do reprezentowania Rządu przed Sejmem i Senatem o uzgodnienie z Zespołem stanowiska wobec propozycji zmiany lub uzupełnienia rządowego projektu ustawy wdrażającej deregulację, zgłoszonej w toku prac parlamentarnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "W skład Zespołu wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_1/pkt_1",
+         "text": "[^5] przewodniczący Zespołu – Minister do spraw Nadzoru nad Wdrażaniem Polityki Rządu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_1/pkt_2",
+         "text": "pozostali członkowie Zespołu:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_2/ust_1/pkt_2/lit_a",
+           "text": "[^6] minister właściwy do spraw finansów publicznych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_2/ust_1/pkt_2/lit_b",
+           "text": "[^6] minister właściwy do spraw gospodarki,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_2/ust_1/pkt_2/lit_c",
+           "text": "Prezes Rządowego Centrum Legislacji.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Przewodniczący Zespołu może zapraszać do udziału w pracach Zespołu:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_2/pkt_1",
+         "text": "[^7] ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej – na prawach członka Zespołu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_2/pkt_2",
+         "text": "pozostałych członków Rady Ministrów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_2/pkt_3",
+         "text": "osoby reprezentujące jednostki podległe Prezesowi Rady Ministrów albo ministrowi lub przez nich nadzorowane.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "Przewodniczący Zespołu, z własnej inicjatywy lub na wniosek członka Zespołu, może zapraszać do udziału w pracach Zespołu, z głosem doradczym, osoby, których wiedza i doświadczenie mogą być przydatne do wykonywania zadań Zespołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_2/ust_4",
+       "text": "Członkowie Zespołu, o których mowa w ust. 1 pkt 2 lit. a i b, oraz członkowie Rady Ministrów, o których mowa w ust. 2 pkt 1 i 2, mogą być zastępowani w pracach Zespołu przez upoważnionych przedstawicieli, w randze sekretarza stanu albo podsekretarza stanu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_2/ust_5",
+       "text": "Członek Zespołu, o którym mowa w ust. 1 pkt 2 lit. c, może być zastępowany w pracach Zespołu przez Wiceprezesa Rządowego Centrum Legislacji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_2/ust_6",
+       "text": "Osoby reprezentujące jednostki, o których mowa w ust. 2 pkt 3, mogą być zastępowane w pracach Zespołu przez upoważnionych zastępców.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Przewodniczący Zespołu:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "monitoruje wykonywanie zadań, o których mowa w § 3 uchwały;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "kieruje pracami Zespołu, w tym:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_3/ust_1/pkt_2/lit_a",
+           "text": "zwołuje posiedzenia Zespołu – z własnej inicjatywy albo na wniosek członka Zespołu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_3/ust_1/pkt_2/lit_b",
+           "text": "przewodniczy posiedzeniom Zespołu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_3/ust_1/pkt_2/lit_c",
+           "text": "określa porządek obrad Zespołu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_3/ust_1/pkt_2/lit_d",
+           "text": "reprezentuje Zespół na zewnątrz,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "e",
+           "path": "par_3/ust_1/pkt_2/lit_e",
+           "text": "zleca wykonanie ekspertyz lub opinii służących realizacji zadań Zespołu.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "W przypadku nieobecności przewodniczącego Zespołu pracami Zespołu kieruje wyznaczony przez niego członek Zespołu albo upoważniony przedstawiciel, w randze sekretarza stanu albo podsekretarza stanu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Przewodniczący Zespołu może powierzyć pozostałym członkom Zespołu wykonywanie określonych obowiązków służących realizacji zadań Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Zespół podejmuje ustalenia w drodze uzgodnienia stanowisk.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Zespół przekazuje właściwym członkom Rady Ministrów otrzymaną od strony społecznej propozycję, o której mowa w § 3 ust. 2 uchwały, i informuje o terminie i formie wykonania zadań, o których mowa w § 3 ust. 1 uchwały, określonych przez Zespół.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Członek Rady Ministrów przedstawia stanowisko do propozycji, o której mowa w § 3 ust. 1 pkt 3 uchwały, w terminie i formie określonej przez Zespół.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_5/ust_3",
+       "text": "W przypadku ustalenia przez Zespół, że zachodzi konieczność modyfikacji zakresu lub sposobu realizacji propozycji strony społecznej, Zespół wraz z przedstawicielem właściwego ministra mogą przedstawić stronie społecznej informację w tej sprawie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Członkowie Rady Ministrów, inne organy administracji rządowej oraz podległe im jednostki organizacyjne lub jednostki przez nie nadzorowane, na wniosek przewodniczącego Zespołu, udzielają Zespołowi, w ramach swoich kompetencji, pomocy przy wykonywaniu jego zadań, w tym przedstawiają niezbędne informacje i udostępniają dokumenty.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "Udział w pracach Zespołu jest nieodpłatny.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "Obsługę techniczno-organizacyjną i biurową działalności Zespołu zapewnia Kancelaria Prezesa Rady Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Wydatki związane z działalnością Zespołu, w tym koszty ekspertyz lub opinii, są pokrywane z budżetu państwa z części, której dysponentem jest Szef Kancelarii Prezesa Rady Ministrów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "W brzmieniu ustalonym przez § 1 pkt 1 uchwały nr 104 Rady Ministrów z dnia 30 lipca 2025 r. zmieniającej uchwałę w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację (M.P. poz. 713), która weszła w życie z dniem 30 lipca 2025 r.",
+  "2": "Dodany przez § 1 pkt 1 uchwały nr 100 Rady Ministrów z dnia 21 lipca 2025 r. zmieniającej uchwałę w sprawie koordynacji procesu legislacyjnego wdrażającego deregulację (M.P. poz. 712), która weszła w życie z dniem 30 lipca 2025 r.",
+  "3": "Uchwała została ogłoszona w dniu 5 marca 2025 r.",
+  "4": "Dodany przez § 1 pkt 2 rozporządzenia, o którym mowa w odnośniku 2.",
+  "5": "W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret pierwsze rozporządzenia, o którym mowa w odnośniku 1.",
+  "6": "W brzmieniu ustalonym przez § 1 pkt 2 lit. a tiret drugie rozporządzenia, o którym mowa w odnośniku 1.",
+  "7": "W brzmieniu ustalonym przez § 1 pkt 2 lit. b rozporządzenia, o którym mowa w odnośniku 1."
+ }
+}

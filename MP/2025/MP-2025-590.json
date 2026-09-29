@@ -1,0 +1,520 @@
+{
+ "eli": "MP/2025/590",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 2 czerwca 2025 r. w sprawie włączenia kwalifikacji wolnorynkowej \"Modelowanie i skanowanie 3D\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/590/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 czerwca 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji wolnorynkowej „Modelowanie i skanowanie 3D” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji wolnorynkowej „Modelowanie i skanowanie 3D” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: K. Gawkowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 2 czerwca 2025 r. (M.P. poz. 590)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI WOLNORYNKOWEJ „MODELOWANIE I SKANOWANIE 3D” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Modelowanie i skanowanie 3D"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację „Modelowanie i skanowanie 3D” jest przygotowana do samodzielnego wykonania modelu 3D na podstawie dokumentacji technicznej lub wytycznych otrzymanych od klienta. Na podstawie otrzymanego zlecenia dobiera metodę projektowania oraz planuje proces pracy nad modelem 3D. Modeluje obiekty i złożenia 3D zgodnie z obowiązującymi zasadami projektowania oraz dobrymi praktykami w tym zakresie. Potrafi zweryfikować poprawność stworzonego modelu 3D. Posługuje się wiedzą na temat głównych pojęć oraz trendów związanych z modelowaniem 3D. Charakteryzuje obszary zastosowania skanerów 3D. Realizuje proces skanowania 3D oraz przygotowuje otrzymane modele 3D do dalszej obróbki."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Planowanie metody projektowania"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Posługuje się wiedzą – charakteryzuje pojęcia komputerowego wspomagania projektowania CAD (Computer Aided Design) oraz komputerowego wspomagania wyna temat modelowania 3D twarzania CAM (Computer Aided Manufacturing),"
+      },
+      {
+       "type": "text",
+       "text": "– wymienia przykładowe oprogramowanie do modelowania 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje optymalne oprogramowanie do modelowania 3D, biorąc pod uwagę przeznaczenie modelu 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia podstawowe techniki modelowania 3D (modelowanie bryłowe, modelowanie powierzchniowe, modelowanie hybrydowe, modelowanie swobodne (subdivision)),"
+      },
+      {
+       "type": "text",
+       "text": "– definiuje podstawowe pojęcia związane z modelowaniem 3D (np. siatka, wierzchołki, krawędzie, powierzchnie, prymitywy itp.),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia zasady tworzenia modeli bryłowych (np. tworzenie kształtów podstawowych (prymitywów), tworzenie brył ze szkiców 2D),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia zasady tworzenia modeli powierzchniowych w oparciu o typy powierzchni (np. walcowe, obrotowe, prostokreślne),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia zasady i zastosowanie modelowania swobodnego,"
+      },
+      {
+       "type": "text",
+       "text": "– opisuje rodzaje układów współrzędnych (GUW (globalny układ współrzędnych), LUW (lokalny układ współrzędnych)),"
+      },
+      {
+       "type": "text",
+       "text": "– charakteryzuje modelowanie parametryczne."
+      },
+      {
+       "type": "text",
+       "text": "Analizuje wymagania – na podstawie otrzymanej specyfikacji omawia cechy modelowanego obiektu lub złożenia (wymiary, otwory, sposoby łączenia elementów), klienta – szacuje nakład pracy konieczny do wykonania modelu 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– charakteryzuje wymagania dla modelu 3D niezbędne do jego dalszego rozwijania lub modyfikacji w przyszłości,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia efekt końcowy realizacji zamówienia,"
+      },
+      {
+       "type": "text",
+       "text": "– tworzy opis wymagań dla modelu 3D do akceptacji przez klienta."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Wykonywanie modelu 3D"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Planuje wykonanie – wymienia i opisuje techniki do wykorzystania na podstawie cech modelu 3D (np. otwór, faza, zaokrąglenie, przeciągnięcie, powłoka itp.), modelu 3D – wymienia i charakteryzuje parametry więzów geometrycznych i wymiarowych,"
+      },
+      {
+       "type": "text",
+       "text": "– opisuje i planuje cechy złożenia części, tj. relacje między częściami (np. sposoby łączenia elementów: połączenie obrotowe, posuwiste, sztywne)."
+      },
+      {
+       "type": "text",
+       "text": "Modeluje obiekty – wykorzystuje narzędzia programu do stworzenia bryły z uwzględnieniem wybranej techniki modelowania (np. bryłowa, powierzchniowa) i złożenia 3D na podstawie specyfikacji i otrzymanych rysunków pomocniczych,"
+      },
+      {
+       "type": "text",
+       "text": "– zakłada katalog projektu i ustala ścieżkę dostępu,"
+      },
+      {
+       "type": "text",
+       "text": "– klasyfikuje, nazywa i umieszcza zewnętrzne materiały w folderach katalogu projektu,"
+      },
+      {
+       "type": "text",
+       "text": "– otwiera jeden, wiele rysunków lub projektów,"
+      },
+      {
+       "type": "text",
+       "text": "– tworzy nowy rysunek lub projekt lub korzysta z istniejącego szablonu,"
+      },
+      {
+       "type": "text",
+       "text": "– określa jednostki rysowania,"
+      },
+      {
+       "type": "text",
+       "text": "– definiuje płaszczyznę pracy w układzie x, y, z,"
+      },
+      {
+       "type": "text",
+       "text": "– ustala LUW,"
+      },
+      {
+       "type": "text",
+       "text": "– ustala, które elementy rysunkowe znajdą się na odpowiednich warstwach,"
+      },
+      {
+       "type": "text",
+       "text": "– tworzy zgodne z normą ISO 128 style wymiarowania oraz style tekstu,"
+      },
+      {
+       "type": "text",
+       "text": "– wymiaruje projekt,"
+      },
+      {
+       "type": "text",
+       "text": "– parametryzuje szkic projektu,"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje więzy geometryczne na podstawie zdefiniowanych zależności geometrycznych,"
+      },
+      {
+       "type": "text",
+       "text": "– tworzy czytelny opis drzewa projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– tworzy czytelny opis parametrów modelu 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje opcje importu części lub elementów pomocniczych (np. grafik),"
+      },
+      {
+       "type": "text",
+       "text": "– pracuje na wielu rysunkach lub projektach, przenosząc określone elementy między tymi rysunkami lub projektami,"
+      },
+      {
+       "type": "text",
+       "text": "– weryfikuje błędy i wprowadza niezbędne poprawki lub edytuje model 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– zapisuje projekt w określonej lokalizacji,"
+      },
+      {
+       "type": "text",
+       "text": "– zapisuje projekt pod podaną nazwą, w odpowiedniej wersji oraz w odpowiednim formacie."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Przygotowanie modelu 3D do przekazania klientowi"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Weryfikuje model 3D – omawia sposoby i kryteria weryfikacji poprawności wykonanego modelu 3D w odniesieniu do otrzymanego zlecenia,"
+      },
+      {
+       "type": "text",
+       "text": "– na podstawie drzewa projektowego weryfikuje poprawność modelu 3D."
+      },
+      {
+       "type": "text",
+       "text": "Zapisuje i eksportuje – wybiera format pliku wyjściowego, model 3D – przygotowuje do przekazania wszystkie pliki związane z projektem,"
+      },
+      {
+       "type": "text",
+       "text": "– w odpowiednim formacie ustawia parametry pliku wyjściowego dla ustalonego formatu,"
+      },
+      {
+       "type": "text",
+       "text": "– ustawia oświetlenie modelu 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– renderuje model 3D i zapisuje go w odpowiednim formacie."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 4. Wykorzystanie skanera 3D do uzyskania trójwymiarowego modelu CAD"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje proces – omawia proces skanowania 3D oraz wymienia zalety i wady poszczególnych technologii, skanowania 3D – omawia zastosowania skanerów 3D (np. modelowanie 3D, prototypowanie i digitalizacja, inżynieria odwrotna),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia korzyści wynikające z zastosowania skanerów 3D w procesie projektowania."
+      },
+      {
+       "type": "text",
+       "text": "Realizuje proces – na podstawie gabarytu, kształtu i cech fizycznych modelu 3D oraz późniejszego przeznaczenia pliku dobiera odpowiednią technologię oraz sposób skanowania 3D skanowania 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– przygotowuje fizyczny przedmiot do procesu skanowania (np. matuje powierzchnie, nakleja markery na skanowanym modelu 3D),"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera parametry oraz tryb skanowania 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– uruchamia proces skanowania 3D,"
+      },
+      {
+       "type": "text",
+       "text": "– weryfikuje poprawność wykonanych skanów,"
+      },
+      {
+       "type": "text",
+       "text": "– wprowadza niezbędne poprawki do uzyskanego modelu 3D."
+      },
+      {
+       "type": "text",
+       "text": "Przygotowuje i eksportuje – konwertuje chmurę punktów na siatkę wielokątów (mesh), plik do dalszej obróbki – dokonuje niezbędnych poprawek zeskanowanego modelu (np. zamykanie otworów w siatce wielokątów, wygładzanie powierzchni, wyostrzanie krawędzi, uproszczenie siatki),"
+      },
+      {
+       "type": "text",
+       "text": "– eksportuje model 3D do wybranego formatu pliku wyjściowego w zależności od dalszego postępowania w procesie projektowania (np. *.stl, *.ply, *.obj, *.3mf)."
+      },
+      {
+       "type": "text",
+       "text": "Konwertuje siatkę – importuje zeskanowany model do oprogramowania CAD, wielokątów na model – umieszcza model w układzie współrzędnych, bryłowy – konwertuje siatkę na bryłę 3D lub tworzy płaszczyzny konstrukcyjne i szkice, używając siatki jako modelu referencyjnego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "Weryfikacja efektów uczenia się jest podzielona na dwie części – teoretyczną i praktyczną."
+      },
+      {
+       "type": "text",
+       "text": "W części teoretycznej wykorzystuje się metodę testu wiedzy (do weryfikacji zagadnień teoretycznych ze wszystkich zestawów efektów uczenia się). W części praktycznej wykorzystuje się metodę obserwacji, która może być uzupełniona wywiadem swobodnym (rozmową z komisją)."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Zasoby kadrowe"
+      },
+      {
+       "type": "text",
+       "text": "W procesie weryfikacji efektów uczenia się biorą udział:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "operator systemu egzaminacyjnego, który nadzoruje przebieg testu wiedzy w systemie teleinformatycznym,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "komisja walidacyjna, składająca się z co najmniej dwóch asesorów, którzy przeprowadzają część praktyczną. Osoba będąca asesorem może być jednocześnie operatorem systemu egzaminacyjnego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Operator systemu egzaminacyjnego spełnia następujące wymagania:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "posiada wykształcenie minimum średnie,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "obsługuje komputer: potrafi go uruchomić oraz ma wiedzę z zakresu podstawowej obsługi systemu operacyjnego i zainstalowanych aplikacji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "posiada umiejętność rozwiązywania problemów w sytuacji, w której napotka trudność z nawiązaniem lub zanikiem połączenia internetowego lub z obsługą przeglądarki w zakresie jej kompatybilności z systemem teleinformatycznym.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Każdy członek komisji walidacyjnej posiada:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_1/tir_6",
+       "text": "wykształcenie wyższe,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_1/tir_7",
+       "text": "co najmniej 3 lata udokumentowanego doświadczenia w modelowaniu 3D lub co najmniej 400 godzin udokumentowanego doświadczenia w prowadzeniu szkoleń z obsługi oprogramowania do modelowania 3D zdobytego w ciągu ostatnich 5 lat.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne"
+        },
+        {
+         "type": "text",
+         "text": "Walidacja może być prowadzona stacjonarnie, zdalnie albo hybrydowo."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja prowadząca walidację zapewnia:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_1/tir_8",
+       "text": "do testu wiedzy przeprowadzanego w systemie teleinformatycznym stanowisko komputerowe (jedno stanowisko dla jednego kandydata) wyposażone w przeglądarkę internetową z dostępem do internetu oraz stolik i krzesła,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_1/tir_9",
+       "text": "do przeprowadzania praktycznej części walidacji: • dostęp do komputera z oprogramowaniem do projektowania parametrycznego 3D i do tworzenia dokumentacji technicznej umożliwiającym weryfikację wszystkich efektów uczenia się – dla każdego kandydata, • projekt wraz z dokumentacją techniczną (w postaci wydruku na arkuszu papieru lub w wersji elektronicznej) wraz z wytycznymi do wykonania modelu 3D, • skaner 3D umożliwiający pracę w trybie automatycznym ze stolikiem obrotowym oraz trybie manualnym z wykorzystaniem markerów jako punktów referencyjnych podczas skanowania dużych obiektów, pozwalający na weryfikację wszystkich efektów uczenia się.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Instytucja prowadząca walidację zapewnia bezstronną i niezależną procedurę odwoławczą, w ramach której kandydat ma możliwość odwołania się od decyzji dotyczących spełnienia wymogów formalnych, od wyników egzaminów, a także od decyzji kończącej walidację."
+        },
+        {
+         "type": "text",
+         "text": "Walidacja może być prowadzona zdalnie lub hybrydowo, pod warunkiem stosowania przez instytucję prowadzącą walidację dostępu do wymaganego sprzętu (skaner 3D) online oraz narzędzi zapewniających wiarygodne sprawdzenie, czy osoba ubiegająca się o nadanie kwalifikacji wolnorynkowej osiągnęła wyodrębnioną część albo całość efektów uczenia się. Narzędzia i metody stosowane w walidacji prowadzonej zdalnie powinny w szczególności umożliwiać identyfikację osoby przystępującej do walidacji, zapewniać samodzielność pracy tej osoby i gwarantować zabezpieczenie przebiegu walidacji przed ingerencją osób trzecich."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymagań dotyczących etapów identyfikowania i dokumentowania efektów uczenia się."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kwalifikacja pełna z 2 poziomem Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak innych, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji wolnorynkowej"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bezterminowo"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720)."
+ }
+}

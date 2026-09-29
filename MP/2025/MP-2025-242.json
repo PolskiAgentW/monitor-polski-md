@@ -1,0 +1,557 @@
+{
+ "eli": "MP/2025/242",
+ "title": "Uchwała nr 38 Rady Ministrów z dnia 13 marca 2025 r. zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Utworzenie interdyscyplinarnego centrum leczenia i diagnostyki Instytutu Matki i Dziecka\"",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/242/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 38"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 marca 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą „Utworzenie interdyscyplinarnego centrum leczenia i diagnostyki Instytutu Matki i Dziecka”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 7 października 2020 r. o Funduszu Medycznym (Dz. U. z 2024 r. poz. 889) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 126 Rady Ministrów z dnia 5 lipca 2023 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą „Utworzenie interdyscyplinarnego centrum leczenia i diagnostyki Instytutu Matki i Dziecka” (M.P. poz. 766) w załączniku do uchwały:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "spis treści otrzymuje brzmienie określone w załączniku nr 1 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "rozdział VIII „Zakres rzeczowo-finansowy inwestycji” i rozdział IX „Miernik planowanej inwestycji” otrzymują brzmienie określone w załączniku nr 2 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w rozdziale XI „Ocena efektywności inwestycji” wyrazy „Tabela nr 13” zastępuje się wyrazami „Tabela nr 17”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały nr 38 Rady Ministrów z dnia 13 marca 2025 r. (M.P. poz. 242) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "SPIS TREŚCI I. DANE INWESTORA ........................................................................................................................ 4"
+    },
+    {
+     "type": "text",
+     "text": "II. DANE OGÓLNE ............................................................................................................................... 4"
+    },
+    {
+     "type": "text",
+     "text": "2.1. Nazwa inwestycji .............................................................................................................................. 4"
+    },
+    {
+     "type": "text",
+     "text": "2.2. Lokalizacja inwestycji adres i nr ew. działek ................................................................................... 4"
+    },
+    {
+     "type": "text",
+     "text": "III. INFORMACJE O INWESTORZE .................................................................................................... 4"
+    },
+    {
+     "type": "text",
+     "text": "3.1. Ogólne informacje o działalności Instytutu Matki i Dziecka ........................................................... 4"
+    },
+    {
+     "type": "text",
+     "text": "3.2. Zasięg oddziaływania świadczeń ...................................................................................................... 6"
+    },
+    {
+     "type": "text",
+     "text": "3.3. Potencjał Naukowy Instytutu ............................................................................................................ 8"
+    },
+    {
+     "type": "text",
+     "text": "3.4. Potencjał zespołu projektowego Instytutu (techniczny, prawny, finansowy i administracyjny) . .. 11"
+    },
+    {
+     "type": "text",
+     "text": "3.4.1. Potencjał techniczny oraz administracyjny ................................................................................ 11"
+    },
+    {
+     "type": "text",
+     "text": "3.4.2. Potencjał prawny ........................................................................................................................ 12"
+    },
+    {
+     "type": "text",
+     "text": "3.4.3. Potencjał finansowy ................................................................................................................... 12"
+    },
+    {
+     "type": "text",
+     "text": "IV. SYTUACJA DEMOGRAFICZNA I EPIDEMIOLOGICZNA W REGIONIE ................................ 13"
+    },
+    {
+     "type": "text",
+     "text": "4.1. Sytuacja demograficzna w odniesieniu do planowanej inwestycji ................................................ 13"
+    },
+    {
+     "type": "text",
+     "text": "4.1.1. Rozwój Kliniki Położnictwa i Ginekologii ............................................................................... 13"
+    },
+    {
+     "type": "text",
+     "text": "4.1.2. Rozwój Kliniki Neonatologii i Intensywnej Terapii Noworodka ............................................. 14"
+    },
+    {
+     "type": "text",
+     "text": "4.1.3. Rozwój Zakładu Badań Przesiewowych ................................................................................... 15"
+    },
+    {
+     "type": "text",
+     "text": "4.2. Sytuacja epidemiologiczna w odniesieniu do planowanej inwestycji ............................................ 16"
+    },
+    {
+     "type": "text",
+     "text": "V. DIAGNOZA USŁUG MEDYCZNYCH ............................................................................................. 18"
+    },
+    {
+     "type": "text",
+     "text": "5.1. Usługi w zakresie ochrony zdrowia w regionie ............................................................................... 18"
+    },
+    {
+     "type": "text",
+     "text": "5.2. Dane o udzielanych świadczeniach zdrowotnych ........................................................................... 20"
+    },
+    {
+     "type": "text",
+     "text": "VI. STRATEGIE I KIERUNKI ROZWOJU OPIEKI MEDYCZNEJ .................................................... 22"
+    },
+    {
+     "type": "text",
+     "text": "6.1. Strategie rozwoju w jakie wpisuje się Program inwestycyjny ....................................................... 22"
+    },
+    {
+     "type": "text",
+     "text": "6.1.1. Strategia na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.) .... 22"
+    },
+    {
+     "type": "text",
+     "text": "6.1.2. Strategia rozwoju województwa mazowieckiego 2030+ ......................................................... 22"
+    },
+    {
+     "type": "text",
+     "text": "6.1.3. ZDROWA PRZYSZŁOŚĆ. Ramy strategiczne rozwoju systemu ochrony zdrowia na lata 2021–2027 z perspektywą do 2030 r. .............................................................................. 24"
+    },
+    {
+     "type": "text",
+     "text": "VII. OPIS INWESTYCJI .......................................................................................................................... 24 7.1. Cel ogólny Programu inwestycyjnego oraz cele szczegółowe służące realizacji celu głównego wraz z uzasadnieniem konieczności podjęcia działań inwestycyjnych ................ 25"
+    },
+    {
+     "type": "text",
+     "text": "7.2. Aktualny stan techniczny infrastruktury ......................................................................................... 35"
+    },
+    {
+     "type": "text",
+     "text": "VIII. ZAKRES RZECZOWO-FINANSOWY INWESTYCJI ................................................................. 38"
+    },
+    {
+     "type": "text",
+     "text": "8.1. Zakres rzeczowy inwestycji ............................................................................................................ 38 8.2. Prognozowany harmonogram rzeczowy inwestycji ........................................................................ 39"
+    },
+    {
+     "type": "text",
+     "text": "8.3. Zestawienie źródeł finansowania inwestycji ................................................................................... 40"
+    },
+    {
+     "type": "text",
+     "text": "IX. MIERNIK PLANOWANEJ INWESTYCJI ....................................................................................... 40"
+    },
+    {
+     "type": "text",
+     "text": "9.1. Prognozowane mierniki stopnia realizacji inwestycji ..................................................................... 40"
+    },
+    {
+     "type": "text",
+     "text": "X. PLANOWANE EFEKTY MEDYCZNE I RZECZOWE ................................................................... 42"
+    },
+    {
+     "type": "text",
+     "text": "10.1. Planowane efekty dla pacjenta uzyskane w wyniku realizacji inwestycji ................................... 44"
+    },
+    {
+     "type": "text",
+     "text": "10.2. Planowane efekty medyczne uzyskane w wyniku inwestycji ....................................................... 47"
+    },
+    {
+     "type": "text",
+     "text": "XI. OCENA EFEKTYWNOŚCI INWESTYCJI ...................................................................................... 50"
+    },
+    {
+     "type": "text",
+     "text": "XII. ANALIZA CELOWOŚCI I MOŻLIWOŚCI WYKONANIA INWESTYCJI ETAPAMI ............. 51"
+    },
+    {
+     "type": "text",
+     "text": "XIII. DANE O PLANOWANYM OKRESIE ZAGOSPODAROWANIA OBIEKTÓW BUDOWLANYCH I INNYCH SKŁADNIKÓW MAJĄTKOWYCH PO ZAKOŃCZENIU REALIZACJI INWESTYCJI ........................................................................................................... 52"
+    },
+    {
+     "type": "text",
+     "text": "XIV. PRAWO DO DYSPONOWANIA NIERUCHOMOŚCIĄ NA CELE BUDOWLANE ................ 54"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "VIII. ZAKRES RZECZOWO-FINANSOWY INWESTYCJI"
+    },
+    {
+     "type": "text",
+     "text": "Ogólny zakres Inwestycji:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "prace projektowe:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "opracowanie dokumentacji projektowej budowlanej dla całego zakresu Inwestycji wraz z uzyskaniem wszelkich niezbędnych zgód i pozwoleń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "opracowanie dokumentacji wykonawczej;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "roboty budowlane i instalacyjne:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "budowa nowego budynku D,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "przebudowa istniejącego budynku B;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przebudowa części powierzchni poradni specjalistycznych w budynku A.",
+     "children": [
+      {
+       "type": "text",
+       "text": "8.1. Zakres rzeczowy inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 13 – Planowany zakres rzeczowy inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Powierzchnia Liczba łóżek KOMÓRKI ORGANIZACYJNE OBJĘTE całkowita w m² Lp. INWESTYCJĄ przed po przed po inwestycją inwestycji inwestycją inwestycji 0 1 2 3 4 5 Zadanie nr 1 – Budowa nowego budynku D"
+      },
+      {
+       "type": "text",
+       "text": "ISTNIEJĄCE KOMÓRKI ORGANIZACYJNE"
+      },
+      {
+       "type": "text",
+       "text": "1.1. Medyczne laboratorium diagnostyczne (Zakład Badań 637 730 0 0 Przesiewowych) 1.2. Zakład Patomorfologii 204 350 0 0 1.3. Izba przyjęć szpitala dla dzieci 138 900 0 0"
+      },
+      {
+       "type": "text",
+       "text": "1.4. Klinika Hospitalizacji Jednego Dnia 493 940 4 12"
+      },
+      {
+       "type": "text",
+       "text": "1.5. Strefa Bloku Operacyjnego 524 1060 0 0"
+      },
+      {
+       "type": "text",
+       "text": "1.6. Klinika Anestezjologii i Oddział Intensywnej Terapii 423 720 7 7 1.7. Centralna Sterylizatornia 72 180 0 0 1.8. Zaplecze administracyjno-techniczne z częścią wspólną 0 5758 0 0 dla rodzin Zadanie nr 2 – Przebudowa budynku B"
+      },
+      {
+       "type": "text",
+       "text": "ISTNIEJĄCE KOMÓRKI ORGANIZACYJNE"
+      },
+      {
+       "type": "text",
+       "text": "2.1. Klinika Neonatologii i Intensywnej Terapii 465 720 43 45 2.2. Klinika Onkologii i Chirurgii Onkologicznej Dzieci 367 1030 21 21 i Młodzieży"
+      },
+      {
+       "type": "text",
+       "text": "2.3. Klinika Chirurgii i Ortopedii Dzieci i Młodzieży 1019 1810 38 38"
+      },
+      {
+       "type": "text",
+       "text": "2.4. Klinika Położnictwa i Ginekologii z Izbą Przyjęć 2126 2530 48 50"
+      },
+      {
+       "type": "text",
+       "text": "2.5. Zaplecze administracyjno-techniczne z częścią wspólną 2400 2472 0 0 dla rodzin Zadanie nr 3 – Przebudowa części powierzchni w budynku A"
+      },
+      {
+       "type": "text",
+       "text": "ISTNIEJĄCE KOMÓRKI ORGANIZACYJNE"
+      },
+      {
+       "type": "text",
+       "text": "3.1. Poradnia Położniczo-Ginekologiczna 104 240 0 0"
+      },
+      {
+       "type": "text",
+       "text": "3.2. Poradnia Chirurgiczna Dzieci i Młodzieży 59 92 0 0"
+      },
+      {
+       "type": "text",
+       "text": "3.3. Poradnia Neonatologiczna 13 39 0 0"
+      },
+      {
+       "type": "text",
+       "text": "3.4. Poradnia Onkologiczna 88 133 0 0"
+      },
+      {
+       "type": "text",
+       "text": "RAZEM 9 132 19 704 161 173"
+      },
+      {
+       "type": "text",
+       "text": "8.2. Prognozowany harmonogram rzeczowy inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 14. Prognozowany harmonogram realizacji inwestycji w ujęciu rocznym"
+      },
+      {
+       "type": "text",
+       "text": "Prognozowany harmonogram rzeczowy: Lp. Etapy inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "2024 2025 2026 2027"
+      },
+      {
+       "type": "text",
+       "text": "¹²³⁴⁵⁶"
+      },
+      {
+       "type": "text",
+       "text": "1 Pozyskanie działki budowlanej"
+      },
+      {
+       "type": "text",
+       "text": "2 Przygotowanie terenu i przyłączenia obiektów do sieci"
+      },
+      {
+       "type": "text",
+       "text": "3 Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "4 Instalacje"
+      },
+      {
+       "type": "text",
+       "text": "5 Zagospodarowanie terenu i budowa obiektów pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "6 Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "7 Prace przygotowawcze, projektowe, obsługa inwestorska, nadzory autorskie oraz ewentualnie szkolenia i rozruch technologiczny"
+      },
+      {
+       "type": "text",
+       "text": "W ramach Programu inwestycyjnego nie przewiduje się finansowania wydatków związanych z grupą pierwszą Wartości Kosztorysowej Inwestycji, tj. pozyskanie działki budowlanej. Posiadanie prawa do dysponowania nieruchomością na cele budowlane było jednym z warunków udziału w konkursie na wybór projektów strategicznych FM-SIS.01.PED.2021."
+      },
+      {
+       "type": "text",
+       "text": "Minister Zdrowia będzie nadzorować realizację Programu inwestycyjnego oraz wydatkowanie udzielonej dotacji celowej zgodnie z przyjętym Programem inwestycyjnym oraz harmonogramem rzeczowo-finansowym określonym umową na udzielenie dotacji celowej, uwzględniającym Prognozowany harmonogram rzeczowy inwestycji – w celu zapewnienia osiągnięcia zaplanowanego w Programie inwestycyjnym końcowego efektu rzeczowego oraz założonych do realizacji mierników."
+      },
+      {
+       "type": "text",
+       "text": "8.3. Zestawienie źródeł finansowania inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 15 – Harmonogram finansowy z podziałem na źródła finansowania inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Planowane nakłady w poszczególnych Wartość Nakłady latach: Lp. Źródła finansowania inwestycji Kosztorysowa poniesione do Inwestycji końca 2022 r. 2023 2024 2025 2026 2027"
+      },
+      {
+       "type": "text",
+       "text": "0 1 2 3 4 5 6 7 8"
+      },
+      {
+       "type": "text",
+       "text": "1 Środki własne Inwestora 18 617 580 36 900 0 39 050 1 500 000 7 000 000 10 041 630"
+      },
+      {
+       "type": "text",
+       "text": "2 Środki z Subfunduszu Infrastruktury Strategicznej 281 182 420 – Fundusz Medyczny 0 2 600 000 250 000 22 000 000 101 430 119 154 902 301"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM 299 800 000 36 900 2 600 000 289 050 23 500 000 108 430 119 164 943 931"
+      },
+      {
+       "type": "text",
+       "text": "IX. MIERNIK PLANOWANEJ INWESTYCJI"
+      },
+      {
+       "type": "text",
+       "text": "9.1. Prognozowane mierniki stopnia realizacji inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 16 – Prognozowane mierniki stopnia realizacji inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Mierniki – udział Wartość wg realizowanego zakresu Lp. Rok Zakres rzeczowy realizowanego celu WKI rzeczowego realizacji w złotych rocznie narastająco % % 0 1 2 3 4 5"
+      },
+      {
+       "type": "text",
+       "text": "1 2023 Wyposażenie 1 1"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowanie terenu i przyłączenia obiektów do sieci"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Instalacje 2 2024 0 1 Zagospodarowanie terenu i budowa obiektów pomocniczych"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Prace przygotowawcze, projektowe, obsługa inwestorska, nadzory autorskie"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowanie terenu i przyłączenia obiektów do sieci"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Instalacje 299 800 000 3 2025 Zagospodarowanie terenu i budowa obiektów pomocniczych 8 9"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Prace przygotowawcze, projektowe, obsługa inwestorska, nadzory autorskie"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowanie terenu i przyłączenia obiektów do sieci"
+      },
+      {
+       "type": "text",
+       "text": "Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Instalacje 4 2026 Zagospodarowanie terenu i budowa obiektów pomocniczych 36 45"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Prace przygotowawcze, projektowe, obsługa inwestorska, nadzory autorskie Budowa obiektów podstawowych"
+      },
+      {
+       "type": "text",
+       "text": "Instalacje"
+      },
+      {
+       "type": "text",
+       "text": "5 2027 Zagospodarowanie terenu i budowa obiektów pomocniczych 55 100"
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie"
+      },
+      {
+       "type": "text",
+       "text": "Prace przygotowawcze, projektowe, obsługa inwestorska, nadzory autorskie"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,172 @@
+{
+ "eli": "MP/2026/926",
+ "title": "Zarządzenie nr 56 Prezesa Rady Ministrów z dnia 18 września 2026 r. zmieniające zarządzenie w sprawie Komitetu Rady Ministrów do spraw Nadzoru nad Wdrażaniem Polityki Rządu",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/926/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 56"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 września 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie Komitetu Rady Ministrów do spraw Nadzoru nad Wdrażaniem Polityki Rządu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 1 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780 oraz z 2026 r. poz. 160) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 46 Prezesa Rady Ministrów z dnia 29 sierpnia 2025 r. w sprawie Komitetu Rady Ministrów do spraw Nadzoru nad Wdrażaniem Polityki Rządu (M.P. poz. 869 oraz z 2026 r. poz. 530) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "tytuł otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„w sprawie Komitetu Rady Ministrów do spraw Koordynacji Polityk Publicznych”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 1. Komitet Rady Ministrów do spraw Koordynacji Polityk Publicznych, zwany dalej „Komitetem”, jest organem pomocniczym Rady Ministrów i Prezesa Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "wprowadzenie do wyliczenia otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Do zadań Komitetu należy wykonywanie czynności w zakresie koordynacji polityk publicznych, w tym:”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "pkt 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1) ustalanie, we współpracy z właściwymi członkami Rady Ministrów, priorytetowych zadań służących realizacji polityk publicznych, w tym wynikających z wytycznych Rady Ministrów lub Prezesa Rady Ministrów, oraz terminów ich realizacji;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "w pkt 3 skreśla się wyrazy „i kontrolowanie”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_3/lit_d",
+       "text": "w pkt 4 wyraz „kontrolowanie” zastępuje się wyrazem „monitorowanie”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 3 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "pkt 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1) przewodniczący Komitetu ‒ Prezes Rządowego Centrum Legislacji;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "w pkt 2:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_4/lit_b/tir_1",
+         "text": "uchyla się lit. c,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_4/lit_b/tir_2",
+         "text": "lit. d otrzymuje brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„d) wiceprezes Rządowego Centrum Legislacji wyznaczony przez Prezesa Rządowego Centrum Legislacji,”.",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

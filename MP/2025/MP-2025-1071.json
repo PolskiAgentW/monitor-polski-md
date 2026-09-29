@@ -1,0 +1,354 @@
+{
+ "eli": "MP/2025/1071",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 29 września 2025 r. w sprawie włączenia kwalifikacji wolnorynkowej \"Wykorzystanie dużych modeli językowych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1071/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 września 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji wolnorynkowej „Wykorzystanie dużych modeli językowych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r . poz. 1606) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji wolnorynkowej „Wykorzystanie dużych modeli językowych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: K. Gawkowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 29 września 2025 r. (M.P. poz. 1071)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI WOLNORYNKOWEJ „WYKORZYSTANIE DUŻYCH MODELI JĘZYKOWYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wykorzystanie dużych modeli językowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację wolnorynkową „Wykorzystanie dużych modeli językowych” jest przygotowana do samodzielnego i efektywnego wykorzystywania dużych modeli językowych LLM (Large Language Model). Rozumie zasady działania, w tym ograniczenia, dużych modeli językowych, zna proces tokenizacji, uczenia nienadzorowanego i trenowania dużych modeli językowych oraz potrafi dostosowywać wstępnie trenowane duże modele językowe do konkretnych zadań. Stosuje techniki inżynierii instrukcji (prompt engineering) do optymalizacji wyników. Ocenia jakość generowanych tekstów i dostosowuje parametry dużych modeli językowych. Automatyzuje zadania związane z przetwarzaniem języka naturalnego oraz integruje duże modele językowe z istniejącymi narzędziami. Identyfikuje i minimalizuje zagrożenia związane z ochroną danych. Jest gotowa do przeciwdziałania dyskryminacji i uprzedzeniom w generowanych tekstach oraz do przestrzegania zasad ochrony praw autorskich."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Podstawy wykorzystywania dużych modeli językowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Wyjaśnia pojęcie dużego – definiuje pojęcie dużego modelu językowego, modelu językowego – omawia zasady i zastosowanie dużych modeli językowych."
+      },
+      {
+       "type": "text",
+       "text": "Omawia korzyści – wskazuje dziedziny, w których duże modele językowe są stosowane do osiągnięcia lepszych wyników, płynące ze stosowania – omawia zastosowanie dużych modeli językowych w praktyce, ilustrując korzyści płynące z ich wykorzystania. dużych modeli językowych w różnych dziedzinach Opisuje proces – opisuje pojęcia związane z tworzeniem dużych modeli językowych (np. tokenizacja, uczenie nienadzorowane, uczenie nadzorowane, modele trenowania dużych sekwencyjne), modeli językowych – opisuje etapy trenowania dużych modeli językowych (np. zbieranie i przygotowywanie danych, wybór architektury modelu, trenowanie modelu, walidacja i testowanie, optymalizacja, wdrażanie, monitorowanie i aktualizacja),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia proces strojenia hiperparametrów dużych modeli językowych."
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystuje gotowe – prezentuje sposób instalacji i konfiguracji najczęściej stosowanych bibliotek (np. GPT – Generative Pre-trained Transformer, BART – Bidirectional duże modele językowe and Auto-Regressive Transformers) oraz związanych z nimi narzędzi, do generowania tekstu – przygotowuje dane wejściowe do generowania tekstu w języku naturalnym za pomocą dużych modeli językowych, na podstawie zestawu – uruchamia duży model językowy. danych"
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Wykorzystanie dużych modeli językowych w ramach zadania lub domeny"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystuje wstępnie – przedstawia proces dostosowania dużych modeli językowych do konkretnego zadania lub konkretnej domeny, trenowane duże modele – dostosowuje duży model językowy do wskazanego zadania lub wskazanej domeny, językowe – generuje tekst przy użyciu dużego modelu językowego dostosowanego do tego zadania lub do tej domeny."
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystuje techniki – wyjaśnia pojęcie inżynierii instrukcji (prompt engineering), inżynierii instrukcji – omawia, jak instrukcja (prompt) wpływa na wyniki generowane przez duże modele językowe, (prompt engineering) – tworzy efektywną instrukcję (prompt), do efektywnego – analizuje jakość i użyteczność wyników generowanych przez duży model językowy przy użyciu różnych instrukcji (promptów) i strategii, zastosowania dużych modeli językowych – wykorzystuje inżynierię instrukcji (prompt engineering) w kontekście zastosowań dużych modeli językowych (np. analiza tekstu, generowanie treści, automatyzacja zadań)."
+      },
+      {
+       "type": "text",
+       "text": "Ocenia jakość dużego – wyjaśnia, jakie metryki automatyczne i manualne są stosowane do oceny jakości wygenerowanych tekstów, modelu językowego – wyjaśnia, jak interpretować wyniki metryk automatycznych i manualnych stosowanych do oceny jakości wygenerowanych tekstów, na podstawie – stosuje metryki automatyczne i manualne do oceny jakości wygenerowanych tekstów, wygenerowanych – interpretuje wyniki zastosowania metryk automatycznych i manualnych do oceny jakości wygenerowanych tekstów. tekstów"
+      },
+      {
+       "type": "text",
+       "text": "Dostosowuje parametry – omawia kluczowe parametry dużego modelu językowego (np. temperatura, wielkość okna kontekstowego), dużych modeli – konfiguruje parametry dużych modeli językowych w celu poprawy jakości generowanych tekstów. językowych w celu uzyskania lepszych wyników Zestaw 3. Wykorzystywanie dużych modeli językowych w środowisku pracy"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Wyjaśnia, w jaki sposób – omawia, jak duże modele językowe mogą ułatwić analizę zbiorów danych tekstowych i pozyskiwanie istotnych informacji, duże modele językowe – omawia zastosowanie dużych modeli językowych w analizie zbiorów danych tekstowych (np. w badaniu sentymentu, ekstrakcji informacji, klamogą wspomagać proces syfikacji tekstów), analizy zbiorów danych – demonstruje, jak wykorzystać duże modele językowe do analizy zbiorów danych tekstowych i formułowania wniosków. tekstowych i formułowanie wniosków"
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystuje duże – omawia proces integracji dużych modeli językowych z istniejącymi narzędziami w celu automatyzacji zadań związanych z analizą tekstu, modele językowe – demonstruje, jak używać dużych modeli językowych do automatyzacji różnych zadań przetwarzania języka naturalnego (np. tłumaczenie, poddo automatyzacji zadań sumowywanie, generowanie odpowiedzi na pytania). związanych z analizą tekstu i przetwarzaniem języka naturalnego"
+      },
+      {
+       "type": "text",
+       "text": "Rozpoznaje – opisuje zastosowanie dużych modeli językowych w różnych branżach, zastosowania dużych – omawia korzyści i zagrożenia wynikające z zastosowania dużych modeli językowych w różnych branżach. modeli językowych w różnych branżach"
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 4. Etyka i odpowiedzialność w wykorzystywaniu dużych modeli językowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje – identyfikuje potencjalne zagrożenia związane z wykorzystaniem dużych modeli językowych (np. naruszenie prywatności, nieodpowiednie genezagrożenia związane rowanie treści, dezinformacja, halucynacje), z wykorzystaniem – wskazuje metody minimalizowania zagrożeń związanych z wykorzystaniem dużych modeli językowych. dużych modeli językowych i możliwe działania mające na celu minimalizowanie tych zagrożeń"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje zasady – identyfikuje potencjalne zagrożenia związane z wykorzystaniem dużych modeli językowych w kontekście ochrony danych osobowych, ochrony danych – opisuje, jak duże modele językowe mogą wpłynąć na prywatność danych osobowych. osobowych w kontekście dużych modeli językowych Ocenia wpływ dużych – identyfikuje możliwości naruszeń zasad ochrony danych instytucjonalnych, modeli językowych – wyjaśnia, jak zasady ochrony danych instytucjonalnych wpływają na wykorzystywanie dużych modeli językowych. na bezpieczeństwo danych instytucjonalnych"
+      },
+      {
+       "type": "text",
+       "text": "Identyfikuje zagrożenia – wskazuje, w jaki sposób dane treningowe wpływają na generowanie treści dyskryminujących lub wyrażających uprzedzenia, związane – wyjaśnia, jak zidentyfikować treści dyskryminujące lub wyrażające uprzedzenia i redukować występowanie tych treści w dużych modelach języz dyskryminacją kowych. i uprzedzeniami możliwe przy wykorzystywaniu dużych modeli językowych"
+      },
+      {
+       "type": "text",
+       "text": "Opisuje zasady – wskazuje, w jaki sposób wykorzystywanie dużych modeli językowych może prowadzić do naruszenia praw autorskich, przestrzegania praw – rozpoznaje sytuacje, w których wynik działania dużego modelu językowego może naruszyć prawa autorskie, autorskich w kontekście – wskazuje metody zapobiegania naruszeniom praw autorskich podczas wykorzystywania dużych modeli językowych. wykorzystywania dużych modeli językowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "Weryfikacja efektów uczenia się jest podzielona na dwie części – teoretyczną i praktyczną."
+      },
+      {
+       "type": "text",
+       "text": "W części teoretycznej wykorzystuje się metodę testu wiedzy (do weryfikacji zagadnień teoretycznych ze wszystkich zestawów efektów uczenia się). W części praktycznej wykorzystuje się metodę obserwacji, która może być uzupełniona wywiadem swobodnym (rozmową z komisją walidacyjną). W części praktycznej może być również wykorzystana metoda analizy dowodów i deklaracji."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Zasoby kadrowe"
+      },
+      {
+       "type": "text",
+       "text": "W procesie weryfikacji efektów uczenia się bierze udział komisja walidacyjna, która przeprowadza część praktyczną walidacji. Komisja walidacyjna składa się z co najmniej dwóch osób, w tym przewodniczącego komisji walidacyjnej."
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący komisji walidacyjnej posiada dyplom ukończenia studiów drugiego stopnia lub jednolitych studiów magisterskich, których program kształcenia zapewniał uzyskanie wiedzy i umiejętności z zakresu sztucznej inteligencji. Kluczowy jest merytoryczny związek ukończonych studiów z takimi dziedzinami jak uczenie maszynowe, przetwarzanie języka naturalnego, widzenie komputerowe, systemy ekspertowe czy analiza dużych zbiorów danych. Dopuszcza się również ukończone studia podyplomowe lub udokumentowany dorobek naukowy w zakresie związanym z zagadnieniami AI (Artificial Intelligence) lub co najmniej 5 lat udokumentowanego doświadczenia w pracy nad projektami związanymi z zagadnieniami AI w roli managera, programisty lub analityka."
+      },
+      {
+       "type": "text",
+       "text": "Członek komisji walidacyjnej, który nie jest przewodniczącym komisji walidacyjnej, posiada dyplom ukończenia studiów pierwszego stopnia lub jednolitych studiów magisterskich, których program kształcenia zapewniał uzyskanie wiedzy i umiejętności z zakresu sztucznej inteligencji. Kluczowy jest merytoryczny związek ukończonych studiów z takimi dziedzinami jak uczenie maszynowe, przetwarzanie języka naturalnego, widzenie komputerowe, systemy ekspertowe czy analiza dużych zbiorów danych. Dopuszcza się również ukończone studia podyplomowe lub udokumentowany dorobek naukowy w zakresie związanym z zagadnieniami AI (Artificial Intelligence) lub co najmniej 3 lata udokumentowanego doświadczenia w pracy nad projektami związanymi z zagadnieniami AI w roli managera, programisty lub analityka."
+      },
+      {
+       "type": "text",
+       "text": "Instytucja przeprowadzająca walidację zapewnia doradcę walidacyjnego. Doradca walidacyjny posiada wiedzę w zakresie znajomości założeń Zintegrowanego Systemu Kwalifikacji."
+      },
+      {
+       "type": "text",
+       "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne"
+      },
+      {
+       "type": "text",
+       "text": "Walidacja może być prowadzona stacjonarnie, zdalnie albo hybrydowo."
+      },
+      {
+       "type": "text",
+       "text": "Instytucja prowadząca walidację zapewnia:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "do przeprowadzenia testu wiedzy w systemie teleinformatycznym stanowisko komputerowe (jedno stanowisko dla jednego kandydata) wyposażone w przeglądarkę internetową z dostępem do internetu oraz stolik i krzesło,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "do przeprowadzenia praktycznej części walidacji dostęp do:",
+       "children": [
+        {
+         "type": "text",
+         "text": "• komputera z dostępem do internetu – dla każdego kandydata,"
+        },
+        {
+         "type": "text",
+         "text": "• minimum dwóch dużych modeli językowych (jeden komercyjny, który odpowiada komercyjnej licencji najbardziej popularnych dużych modeli językowych, drugi oparty o otwartą licencję (open source)),"
+        },
+        {
+         "type": "text",
+         "text": "• narzędzi do obsługi dużych modeli językowych umożliwiających uruchomienie dużego modelu językowego opartego o otwartą licencję (open source)."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja prowadząca walidację zapewnia bezstronną i niezależną procedurę odwoławczą, w ramach której kandydat ma możliwość odwołania się od decyzji dotyczących spełnienia wymogów formalnych, od wyników egzaminów, a także od decyzji kończącej walidację."
+        },
+        {
+         "type": "text",
+         "text": "Walidacja może być prowadzona zdalnie albo hybrydowo, pod warunkiem zapewnienia przez instytucję prowadzącą walidację dostępu do:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "minimum dwóch dużych modeli językowych (jeden komercyjny, który odpowiada komercyjnej licencji najbardziej popularnych dużych modeli językowych, drugi oparty o otwartą licencję (open source)),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "narzędzi do obsługi dużych modeli językowych umożliwiających uruchomienie dużego modelu językowego opartego o otwartą licencję (open source),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "narzędzi zapewniających wiarygodne sprawdzenie, czy osoba ubiegająca się o nadanie kwalifikacji wolnorynkowej osiągnęła wyodrębnioną część albo całość efektów uczenia się.",
+       "children": [
+        {
+         "type": "text",
+         "text": "W przypadku zdalnego prowadzenia walidacji komisja walidacyjna zatwierdza warunki przystąpienia do walidacji w oparciu o warunki techniczne dające gwarancję samodzielnej realizacji zadań przez kandydata, w szczególności możliwość stałej obserwacji kandydata z użyciem systemu teleinformatycznego zapewniającego wiarygodne sprawdzenie, czy osoba ubiegająca się o nadanie kwalifikacji wolnorynkowej osiągnęła wyodrębnioną część lub całość efektów uczenia się wymaganych dla tej kwalifikacji. Narzędzia i metody stosowane w walidacji prowadzonej zdalnie powinny w szczególności umożliwiać identyfikację osoby przystępującej do walidacji, zapewniać samodzielność pracy tej osoby i gwarantować zabezpieczenie przebiegu walidacji przed ingerencją osób trzecich."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymagań dotyczących etapów identyfikowania i dokumentowania efektów uczenia się."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji, jeżeli zostały określone, albo informacja o braku takich warunków",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak warunków"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej, jeżeli zostały określone, albo informacja o braku takich warunków",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak innych, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji wolnorynkowej"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bezterminowo"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720)."
+ }
+}

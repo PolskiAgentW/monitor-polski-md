@@ -1,0 +1,106 @@
+{
+ "eli": "MP/2025/1028",
+ "title": "Obwieszczenie Ministra Edukacji z dnia 19 września 2025 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Edukacji lub przez niego nadzorowanych",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1028/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA EDUKACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 września 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Edukacji lub przez niego nadzorowanych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1d ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2025 r. poz. 780) ustala się wykaz jednostek organizacyjnych podległych Ministrowi Edukacji lub przez niego nadzorowanych, stanowiący załącznik do obwieszczenia.[^2]"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Edukacji: B. Nowacka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Edukacji z dnia 19 września 2025 r. (M.P. poz. 1028)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ JEDNOSTEK ORGANIZACYJNYCH PODLEGŁYCH MINISTROWI EDUKACJI LUB PRZEZ NIEGO NADZOROWANYCH"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Jednostki podległe:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Centralna Komisja Egzaminacyjna;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Centrum Informatyczne Edukacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Ośrodek Rozwoju Edukacji w Warszawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Ośrodek Rozwoju Polskiej Edukacji za Granicą.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Jednostki nadzorowane:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "instytut badawczy: Instytut Badań Edukacyjnych – Państwowy Instytut Badawczy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "instytucja kultury współprowadzona przez Ministra Edukacji: Centrum Nauki Kopernik;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "inna jednostka: Instytut Rozwoju Języka Polskiego im. świętego Maksymiliana Marii Kolbego.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Edukacji kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Edukacji (Dz. U. poz. 2717).",
+  "2": "Niniejsze obwieszczenie było poprzedzone obwieszczeniem Ministra Edukacji z dnia 27 lutego 2024 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Edukacji lub przez niego nadzorowanych (M.P. poz. 180)."
+ }
+}

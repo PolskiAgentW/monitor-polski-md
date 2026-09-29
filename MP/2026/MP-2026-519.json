@@ -1,0 +1,728 @@
+{
+ "eli": "MP/2026/519",
+ "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 8 maja 2026 r. w sprawie włączenia kwalifikacji sektorowej \"Serwisowanie urządzeń domowych (AGD)\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/519/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW I GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 maja 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji sektorowej „Serwisowanie urządzeń domowych (AGD)” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji sektorowej „Serwisowanie urządzeń domowych (AGD)” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów i Gospodarki: A. Domański"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Finansów i Gospodarki z dnia 8 maja 2026 r. (M.P. poz. 519)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI SEKTOROWEJ „SERWISOWANIE URZĄDZEŃ DOMOWYCH (AGD)” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Serwisowanie urządzeń domowych (AGD)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji sektorowej oraz odniesienie do poziomu Sektorowej Ramy Kwalifikacji (jeżeli dotyczy)",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację sektorową „Serwisowanie urządzeń domowych (AGD)” jest przygotowana do serwisowania urządzeń domowych (AGD). Na podstawie wiedzy i informacji pozyskanych od klienta identyfikuje problem z działaniem urządzenia i przeprowadza diagnozę. Informuje klienta o możliwych rozwiązaniach problemu dotyczącego działania urządzenia i potrafi zastosować działania naprawcze przywracające sprawność urządzenia. Weryfikuje poprawność przeprowadzonej naprawy oraz w bezpieczny sposób testuje urządzenie AGD. Zna zasady funkcjonowania urządzeń AGD z funkcją Smart oraz potrafi przeprowadzić konfigurację takiego urządzenia w domowej sieci Wi-Fi. Posiada podstawową wiedzę z zakresu elektrotechniki, mechatroniki, automatyki, termodynamiki i miernictwa. Zna zasady eksploatacji urządzeń AGD oraz związki przyczynowo-skutkowe w procesach eksploatacyjnych tych urządzeń. Potrafi wykorzystać wiedzę w praktyce. Rozróżnia pojęcie gwarancji i niezgodności towaru z umową oraz zna procedurę postępowania w obu przypadkach. Jest świadoma potencjalnych zagrożeń towarzyszących serwisowaniu urządzeń AGD oraz zna zasady bezpieczeństwa stosowane podczas wykonywanej pracy."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Funkcjonowanie urządzeń oraz ich eksploatacja"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje podstawy – omawia zagadnienie prądu stałego i zmiennego, elektrotechniki – omawia prawa elektrotechniki,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia rodzaje sieci elektrycznych."
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje podstawy – omawia układy sterowania, automatyki – omawia rodzaje czujników występujących w urządzeniach AGD."
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje podstawy – omawia przemiany termodynamiczne gazów, termodynamiki – omawia parametry stanu czynnika termodynamicznego,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia specyfikę działania urządzeń chłodniczych."
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje podstawy – wymienia elementy składowe mechatroniki, mechatroniki – omawia praktyczne zastosowanie mechatroniki w AGD."
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje podstawy – rozróżnia urządzenia pomiarowe, miernictwa – wymienia pomiary niezbędne do wykonania diagnozy urządzenia,"
+      },
+      {
+       "type": "text",
+       "text": "– wymienia pomiary zalecane dla utrzymania wysokiej jakości, standardów i prawidłowych parametrów pracy urządzenia,"
+      },
+      {
+       "type": "text",
+       "text": "– wymienia pomiary bezpieczeństwa po serwisie urządzenia."
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje czynniki – omawia związki przyczynowo-skutkowe w procesach eksploatacyjnych (np. detergentwpływające na eksploatację -tkanina, woda-osad, napięcie sieciowe, stabilność i efektywność pracy urządzenia, urządzeń temperatura-praca urządzenia),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia informacje znajdujące się na tabliczce znamionowej urządzenia AGD w kontekście eksploatacji urządzenia."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Serwisowanie urządzenia AGD"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Posługuje się dokumentacją – rozróżnia dokumentację techniczną urządzeń AGD, techniczną – określa, na podstawie dokumentacji technicznej urządzenia AGD, właściwy sposób użytkowania, diagnozowania, konserwacji oraz naprawy urządzenia AGD,"
+      },
+      {
+       "type": "text",
+       "text": "– analizuje schematy urządzeń AGD."
+      },
+      {
+       "type": "text",
+       "text": "Przeprowadza diagnozę – analizuje opis problemu, urządzenia, m.in. na – zadaje klientowi pytania pogłębiające wiedzę o problemie (np. dotyczące czasu i spopodstawie wywiadu sobu użytkowania, warunków środowiskowych funkcjonowania urządzenia w konz klientem tekście informacji zawartych w dokumentacji urządzenia),"
+      },
+      {
+       "type": "text",
+       "text": "– przygotowuje miejsce do przeprowadzenia diagnozy,"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera narzędzia niezbędne do przeprowadzenia diagnozy,"
+      },
+      {
+       "type": "text",
+       "text": "– identyfikuje problem i możliwe przyczyny problemu,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia możliwość i sposób testowania urządzenia w celu potwierdzenia zidentyfikowanego problemu,"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje propozycję sposobu rozwiązania problemu."
+      },
+      {
+       "type": "text",
+       "text": "Naprawia urządzenie – przygotowuje miejsce do naprawy,"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera narzędzia i części zamienne,"
+      },
+      {
+       "type": "text",
+       "text": "– usuwa nieprawidłowości lub wymienia części,"
+      },
+      {
+       "type": "text",
+       "text": "– przygotowuje urządzenie do testu końcowego,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia sposób rozwiązania problemu."
+      },
+      {
+       "type": "text",
+       "text": "Weryfikuje urządzenie po – sprawdza skuteczność naprawy, naprawie i kończy pracę – przeprowadza test bezpieczeństwa,"
+      },
+      {
+       "type": "text",
+       "text": "– przywraca miejsce pracy do stanu pierwotnego."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Komunikowanie się z klientem oraz zagadnienia z obszaru gwarancji oraz niezgodności towaru z umową"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Przedstawia klientowi – informuje klienta o zidentyfikowanym problemie i możliwych przyczynach problemu, propozycję rozwiązania – prezentuje klientowi możliwe rozwiązania, problemu – szacuje koszt wykonania naprawy."
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje zagadnienia – omawia różnice pomiędzy gwarancją a niezgodnością towaru z umową, związane z gwarancją – omawia procedurę postępowania w przypadku napraw gwarancyjnych, i niezgodnością towaru z umową – omawia procedurę postępowania w przypadku niezgodności towaru z umową."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 4. Charakteryzowanie zagadnień z zakresu bezpieczeństwa podczas serwisowania urządzeń AGD"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje zagrożenia – omawia zagrożenia elektryczne, towarzyszące serwisowaniu – identyfikuje potencjalne zagrożenie, urządzeń AGD – omawia zagrożenia mechaniczne,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia zagrożenia chemiczne (w tym paliwa gazowego)."
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje zasady – omawia procedury bezpieczeństwa i zabezpieczenia stosowane podczas serwisowania bezpieczeństwa podczas urządzeń elektrycznych, serwisowania urządzeń – omawia procedury bezpieczeństwa i zabezpieczenia stosowane przez serwisanta przy AGD kontakcie z substancjami chemicznymi,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia procedury bezpieczeństwa podczas serwisowania urządzeń AGD korzystających z paliwa gazowego,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia zasady dotyczące ochrony osobistej."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 5. Obsługa i konfiguracja urządzeń AGD z funkcją Smart"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje specyfikę – omawia rodzaje sieci Wi-Fi i rodzaje urządzeń sieciowych, funkcjonowania urządzeń – omawia sposoby konfiguracji połączeń urządzeń AGD z funkcją Smart, AGD z funkcją Smart – omawia funkcjonalności urządzeń z funkcją Smart,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia zagrożenia związane z korzystaniem z urządzeń AGD z funkcją Smart."
+      },
+      {
+       "type": "text",
+       "text": "Konfiguruje urządzenie – omawia zakres wymagań technicznych i fizycznych (warunki brzegowe) połączenia AGD w domowej sieci urządzenia AGD z domową siecią Wi-Fi wynikających ze specyfikacji produktu, Wi-Fi – analizuje parametry sieci Wi-Fi i infrastruktury domowej,"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera narzędzia i parametry potrzebne do połączenia urządzenia AGD z domową siecią Wi-Fi,"
+      },
+      {
+       "type": "text",
+       "text": "– łączy urządzenie z siecią Wi-Fi i aplikacją do jego obsługi,"
+      },
+      {
+       "type": "text",
+       "text": "– przeprowadza test poprawności."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "Do weryfikacji efektów uczenia się stosuje się następujące metody walidacji:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "test teoretyczny,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "obserwacja w warunkach symulowanych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "rozmowa z komisją (wywiad ustrukturyzowany lub swobodny),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "studium przypadku (zadanie praktyczne).",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.2. Zasoby kadrowe"
+        },
+        {
+         "type": "text",
+         "text": "Komisja walidacyjna."
+        },
+        {
+         "type": "text",
+         "text": "Komisja walidacyjna składa się z trzech członków, w tym przewodniczącego."
+        },
+        {
+         "type": "text",
+         "text": "Przewodniczący komisji walidacyjnej musi spełniać następujące warunki:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "posiadać wykształcenie wyższe techniczne,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_1/tir_6",
+       "text": "posiadać udokumentowane, minimum 10-letnie doświadczenie zawodowe z obszaru, którego dotyczy kwalifikacja.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Pozostali członkowie komisji walidacyjnej muszą:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_1/tir_7",
+       "text": "posiadać wykształcenie minimum średnie lub średnie branżowe,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_1/tir_8",
+       "text": "posiadać udokumentowane, minimum 5-letnie doświadczenie zawodowe z obszaru, którego dotyczy kwalifikacja, zdobyte w przeciągu ostatnich 10 lat.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ponadto przynajmniej jeden z członków komisji walidacyjnej musi posiadać:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_1/tir_9",
+       "text": "ukończony kurs pedagogiczny,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "10",
+       "path": "ust_1/tir_10",
+       "text": "lub udokumentowane doświadczenie w prowadzeniu szkoleń lub zajęć dla uczniów/studentów z obszaru, którego dotyczy kwalifikacja (minimum 30 godzin),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "11",
+       "path": "ust_1/tir_11",
+       "text": "lub udokumentowane doświadczenie w prowadzeniu egzaminów,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "12",
+       "path": "ust_1/tir_12",
+       "text": "lub autorstwo lub współautorstwo publikacji o tematyce, której dotyczy kwalifikacja.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Dodatkowo przynajmniej jeden z członków komisji walidacyjnej musi posiadać świadectwo kwalifikacyjne, o którym mowa w art. 54 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2026 r. poz. 43, 516 i 607), uprawniające do wykonywania czynności związanych z eksploatacją urządzeń, instalacji i sieci na stanowiskach eksploatacji i dozoru w grupie 1 – urządzenia, instalacje i sieci elektroenergetyczne wytwarzające, magazynujące, przetwarzające, przesyłające i zużywające energię elektryczną oraz w grupie 3 – urządzenia, instalacje i sieci gazowe wytwarzające, przetwarzające, przesyłające, magazynujące i zużywające paliwa gazowe."
+        },
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne"
+        },
+        {
+         "type": "text",
+         "text": "Walidację przeprowadza instytucja certyfikująca."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca zapewnia stanowisko umożliwiające bezpieczne przeprowadzenie walidacji, w tym przeprowadzenie diagnozy i naprawy urządzenia AGD."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca zapewnia:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "wyposażenie techniczne:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "ust_1/lit_a/tir_1",
+         "text": "zestaw podstawowych narzędzi potrzebnych przy naprawach urządzeń AGD, spełniający wymogi bezpieczeństwa elektrycznego (np. śrubokręty, szczypce, kombinerki),",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "ust_1/lit_a/tir_2",
+         "text": "elektroniczny, przenośny przyrząd do wykrywania nieszczelności, o czułości minimum 5 g/rok, kontrolowany co 12 miesięcy,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "ust_1/lit_a/tir_3",
+         "text": "płyny pieniące do wykrywania nieszczelności,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "ust_1/lit_a/tir_4",
+         "text": "zestaw do wykonywania prób szczelności i wytrzymałości, w tym butla z gazem obojętnym i reduktor ciśnienia,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "5",
+         "path": "ust_1/lit_a/tir_5",
+         "text": "stację do odzysku czynnika chłodniczego,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "6",
+         "path": "ust_1/lit_a/tir_6",
+         "text": "węże ciśnieniowe z zaworami odcinającymi uniemożliwiającymi przedostanie się substancji kontrolowanych lub fluorowanych gazów cieplarnianych do środowiska w trakcie oraz po wykonaniu czynności odzysku lub napełnienia,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "7",
+         "path": "ust_1/lit_a/tir_7",
+         "text": "pompę próżniową przenośną umożliwiającą osiągnięcie ciśnienia równego 270 Pa lub niższego od 270 Pa,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "8",
+         "path": "ust_1/lit_a/tir_8",
+         "text": "zestaw manometrów do pomiaru ciśnienia w zakresie odpowiednim dla wykorzystywanych albo odzyskiwanych substancji kontrolowanych lub fluorowanych gazów cieplarnianych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "9",
+         "path": "ust_1/lit_a/tir_9",
+         "text": "butlę ciśnieniową z zaworem dwudrożnym dla każdego rodzaju aktualnie wykorzystywanej albo odzyskiwanej substancji kontrolowanej lub fluorowanego gazu cieplarnianego i wagę o zakresie pomiarowym dostosowanym do wielkości napełnianego pojemnika lub cylinder z wymienną skalą,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "10",
+         "path": "ust_1/lit_a/tir_10",
+         "text": "zestaw do lutowania twardego, gazowy lub elektryczny,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "11",
+         "path": "ust_1/lit_a/tir_11",
+         "text": "zestaw kluczy wraz ze specjalistycznymi kluczami i przyrządami wykorzystywanymi w chłodnictwie,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "12",
+         "path": "ust_1/lit_a/tir_12",
+         "text": "obcinarkę rolkową do rur miedzianych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "13",
+         "path": "ust_1/lit_a/tir_13",
+         "text": "zestaw giętarek do rur miedzianych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "14",
+         "path": "ust_1/lit_a/tir_14",
+         "text": "zestaw kielichownic do połączeń wzdłużnych lutowanych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "15",
+         "path": "ust_1/lit_a/tir_15",
+         "text": "zestaw do rozwalcowywania rur do połączeń skręcanych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "16",
+         "path": "ust_1/lit_a/tir_16",
+         "text": "przyrządy do pomiarów wielkości elektrycznych – amperomierz, woltomierz, omomierz oraz miernik rezystancji uziemienia oraz prądu upływu,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "17",
+         "path": "ust_1/lit_a/tir_17",
+         "text": "przyrząd do pomiaru temperatury w zakresie minimum od −30 °C do +300 °C, o dokładności co najmniej 1 °C,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "18",
+         "path": "ust_1/lit_a/tir_18",
+         "text": "środki ochrony indywidualnej, w tym okulary ochronne i rękawice ochronne;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "urządzenia AGD wraz z ich dokumentacją techniczną:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "ust_1/lit_b/tir_1",
+         "text": "pralkę,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "ust_1/lit_b/tir_2",
+         "text": "suszarkę,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "ust_1/lit_b/tir_3",
+         "text": "zmywarkę,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "ust_1/lit_b/tir_4",
+         "text": "lodówkę,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "5",
+         "path": "ust_1/lit_b/tir_5",
+         "text": "piekarnik,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "6",
+         "path": "ust_1/lit_b/tir_6",
+         "text": "płytę grzewczą,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "7",
+         "path": "ust_1/lit_b/tir_7",
+         "text": "okap,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "8",
+         "path": "ust_1/lit_b/tir_8",
+         "text": "kuchenkę mikrofalową,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "9",
+         "path": "ust_1/lit_b/tir_9",
+         "text": "ekspres do kawy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "urządzenie AGD z funkcją Smart, infrastrukturę sieciową oraz urządzenie umożliwiające zainstalowanie aplikacji do obsługi urządzenia AGD z funkcją Smart.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymagań dla etapów identyfikowania i dokumentowania efektów uczenia się."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak warunków"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak innych, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji sektorowej"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu potwierdzającego nadanie kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat jest ważny 5 lat od daty jego wydania."
+      },
+      {
+       "type": "text",
+       "text": "Warunkiem przedłużenia ważności certyfikatu jest:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_7/tir_1",
+       "text": "udział w szkoleniu (minimum 4 godz.) dotyczącym zmian technologicznych w zakresie serwisowania urządzeń AGD oraz ewentualnych zmian w przepisach prawnych dotyczących zakresu kwalifikacji. Szkolenie musi się rozpocząć najpóźniej pół roku przed upływem ważności certyfikatu",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "lub"
+      },
+      {
+       "type": "text",
+       "text": "– przedstawienie dowodów na wykonywanie zadań zawodowych związanych z serwisowaniem urządzeń AGD przez 3 lata od dnia uzyskania certyfikatu potwierdzającego nadanie kwalifikacji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nierzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów i Gospodarki kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997)."
+ }
+}

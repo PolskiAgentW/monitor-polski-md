@@ -1,0 +1,473 @@
+{
+ "eli": "MP/2025/1293",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 2 grudnia 2025 r. w sprawie włączenia kwalifikacji wolnorynkowej \"Pozyskiwanie i edycja danych przestrzennych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1293/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 grudnia 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji wolnorynkowej „Pozyskiwanie i edycja danych przestrzennych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji wolnorynkowej „Pozyskiwanie i edycja danych przestrzennych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: K. Gawkowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 2 grudnia 2025 r. (M.P. poz. 1293)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI WOLNORYNKOWEJ „POZYSKIWANIE I EDYCJA DANYCH PRZESTRZENNYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pozyskiwanie i edycja danych przestrzennych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację wolnorynkową „Pozyskiwanie i edycja danych przestrzennych” jest przygotowana do samodzielnego przetwarzania danych przestrzennych przeznaczonych do analizy przestrzennej, opracowania kompozycji kartograficznej lub grafiki ilustracyjnej, wprowadzenia do systemów baz danych, publikacji usług geoinformacyjnych oraz publikacji map interaktywnych. Wykorzystując znajomość teoretycznych podstaw pozyskiwania i edycji danych przestrzennych, na podstawie wymagań pracodawcy lub zleceniodawcy, wskazuje rozwiązania dotyczące sposobów, formatów oraz technik ich opracowania. Potrafi tworzyć i edytować metadane danych przestrzennych, zestawów danych przestrzennych oraz usług przestrzennych zgodnie z obowiązującymi przepisami. Pozyskuje od klienta zarówno dane przestrzenne, jak i dane opisowe, w różnych formatach, oraz korzysta z danych przestrzennych dostępnych na rynku zgodnie z zasadami praw autorskich. Tworzy kompozycje, wydruki i projekty graficzne oraz przygotowuje je do publikacji w różnych formatach. W trakcie wykonywania zadań zawodowych uwzględnia potrzeby i preferencje pracodawców lub zleceniodawców oraz przygotowuje projekty zgodnie z obowiązującymi standardami i wymaganiami technicznymi."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Tworzenie i edycja danych przestrzennych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Tworzy dane – określa precyzję danych przestrzennych (ich jakość) i tolerancję błędów, przestrzenne – rozpoznaje podstawowe modele danych przestrzennych (np. wektor, raster, LIDAR (Light Detection and Ranging)),"
+      },
+      {
+       "type": "text",
+       "text": "– wymienia typy geometryczne danych wektorowych (np. punkt, linia, poligon),"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje typy danych przestrzennych dopasowane do reprezentacji obiektów, procesów oraz zjawisk naturalnych i antropogenicznych,"
+      },
+      {
+       "type": "text",
+       "text": "– określa układy współrzędnych,"
+      },
+      {
+       "type": "text",
+       "text": "– posługuje się kodyfikacją EPSG (European Petroleum Survey Group),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia właściwości danych rastrowych (np. rozdzielczość, format, typ danych),"
+      },
+      {
+       "type": "text",
+       "text": "– dodaje nowe pola i atrybuty w tabeli atrybutów warstw wektorowych,"
+      },
+      {
+       "type": "text",
+       "text": "– ustala relacje i reguły topologiczne,"
+      },
+      {
+       "type": "text",
+       "text": "– określa kodowanie danych przestrzennych."
+      },
+      {
+       "type": "text",
+       "text": "Edytuje dane – modyfikuje geometrię obiektów wektorowych, przestrzenne – zmienia reguły topologiczne dla zastanych typów danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– używa formuł i wyrażeń modyfikujących atrybuty danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– rozpoznaje błędy w geometrii warstw wektorowych i potrafi je naprawić z wykorzystaniem dostępnych narzędzi."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Zarządzanie danymi przestrzennymi"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Projektuje i tworzy – edytuje metadane danych przestrzennych, struktury – ustala strukturę zapisu danych geometrycznych i atrybutowych, przechowywania danych – specyfikuje właściwości danych atrybutowych, przestrzennych – ustala formaty przechowywania danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– stosuje kodyfikację danych zgodnie z typem i formatem danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– harmonizuje dane przestrzenne."
+      },
+      {
+       "type": "text",
+       "text": "Przetwarza dane – stosuje formaty wymiany danych przestrzennych, przestrzenne – rozpoznaje typy danych wektorowych jedno- i wieloczęściowych,"
+      },
+      {
+       "type": "text",
+       "text": "– konwertuje dane przestrzenne między ich modelami, typami i formatami,"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera reguły topologiczne dla zastanych typów danych w systemach bazodanowych,"
+      },
+      {
+       "type": "text",
+       "text": "– zmienia układ współrzędnych danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– eksportuje dane przestrzenne do różnych formatów."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Zastosowanie w projekcie procedur pozyskiwania, przetwarzania i wizualizacji danych przestrzennych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Analizuje wymagania – proponuje źródła danych przestrzennych, dotyczące sposobu – proponuje źródła danych opisowych, których struktura jest zintegrowana z danymi przestrzennymi, pozyskania danych – proponuje format zapisu danych przestrzennych, przestrzennych oraz – proponuje czas pozyskania danych przestrzennych w terenie oraz określa warunki meteorologiczne, w jakich te dane powinny być gromadzone, proponuje rozwiązania – proponuje narzędzia i techniki dopasowane do specyfiki pozyskania i przetworzenia danych przestrzennych projektu, na podstawie – wskazuje system, z wykorzystaniem którego będą pozyskiwane dane przestrzenne i opisowe, otrzymanych informacji – proponuje system lub bazę danych do przechowywania danych przestrzennych, (specyfikacji produktu) – proponuje układ współrzędnych dopasowany do położenia geograficznego oraz rozmiar i format danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje materiały potrzebne do realizacji projektu, w tym możliwe do uzyskania od pracodawcy lub zleceniodawcy (np. dane opisowe, zdjęcia, grafiki, teksty),"
+      },
+      {
+       "type": "text",
+       "text": "– modyfikuje założenia projektu zgodnie z uwagami pracodawcy lub zleceniodawcy oraz uwzględnia możliwości wykonania zlecenia lub etapu projektu, w tym przetworzenia danych przestrzennych i tabelarycznych,"
+      },
+      {
+       "type": "text",
+       "text": "– szacuje liczbę godzin potrzebną do wykonania zadania,"
+      },
+      {
+       "type": "text",
+       "text": "– uzgadnia format plików końcowych (np. pliki, projekty, paczki danych, usługi on-line zamknięte lub otwarte),"
+      },
+      {
+       "type": "text",
+       "text": "– sugeruje liczbę dopuszczalnych wersji i modyfikacji projektu,"
+      },
+      {
+       "type": "text",
+       "text": "– sporządza notatkę, w której wyszczególnia zakres prac wymaganych do realizacji projektu,"
+      },
+      {
+       "type": "text",
+       "text": "– planuje wykorzystanie danych nieprzestrzennych (np. plików tekstowych w formacie CSV) i ich wprowadzenie do projektu."
+      },
+      {
+       "type": "text",
+       "text": "Pozyskuje i przetwarza – wskazuje źródła darmowych i komercyjnych zasobów danych przestrzennych oraz usługi i zbiory metadanych, dane przestrzenne – korzysta z dostępnych na rynku usług danych przestrzennych, w tym geoportali dysponujących bezpośrednim dostępem do danych z możliwością ich pobrania i zapisu,"
+      },
+      {
+       "type": "text",
+       "text": "– wyszukuje dane opisowe lub tabelaryczne niezbędne do wykonania projektu, które może przekształcić na format danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia zasady korzystania z metadanych i zasady dotyczące praw autorskich stosowanych podczas wykorzystywania danych przestrzennych oraz ich powiązania z innymi elementami projektu,"
+      },
+      {
+       "type": "text",
+       "text": "– pozyskuje dane przestrzenne i opisowe od pracodawcy lub zleceniodawcy oraz weryfikuje ich parametry techniczne pod kątem zgodności z założeniami projektu i możliwościami ich wykorzystania,"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje możliwości poprawy jakości materiałów pozyskanych od pracodawcy lub zleceniodawcy,"
+      },
+      {
+       "type": "text",
+       "text": "– przeprowadza proste i zaawansowane analizy przestrzenne (np. formułuje pytania do baz danych, sporządza statystyki, raporty)."
+      },
+      {
+       "type": "text",
+       "text": "Przekazuje dane – weryfikuje założenia projektowe i koryguje możliwe błędy, przestrzenne – weryfikuje zgodność zawartości projektu z materiałami pozyskanymi od pracodawcy lub zleceniodawcy,"
+      },
+      {
+       "type": "text",
+       "text": "– przygotowuje ostateczne pliki zgodnie z wymaganiami projektu,"
+      },
+      {
+       "type": "text",
+       "text": "– zapisuje ostateczną wersję danych przestrzennych w formacie spełniającym wymagania projektu oraz zgodnie z ustaleniami z pracodawcą lub zleceniodawcą,"
+      },
+      {
+       "type": "text",
+       "text": "– wybiera sposób przekazania danych przestrzennych w zależności od ich rozmiaru i wymagań pracodawcy lub zleceniodawcy."
+      },
+      {
+       "type": "text",
+       "text": "Przygotowuje – ustala charakterystyczne parametry projektu (np. przestrzeń kolorystyczną, rozdzielczość kompozycji), kompozycję – tworzy układ kompozycji kartograficznej danych przestrzennych (np. ustala format, wymiar, orientację, marginesy, przestrzeń kolorystyczną, kartograficzną danych obszar roboczy), przestrzennych – umieszcza elementy graficzne i tekstowe w kompozycji kartograficznej danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– kadruje, poprawia jakość oraz retuszuje elementy graficzne w kompozycji kartograficznej danych przestrzennych,"
+      },
+      {
+       "type": "text",
+       "text": "– dodaje elementy wektorowe i rastrowe (np. podziałkę, legendę, stopki, ikony lub piktogramy, siatkę geograficzną lub topograficzną, elementy ozdobne i kierunkowe),"
+      },
+      {
+       "type": "text",
+       "text": "– formatuje tekst (np. tekst ozdobny, akapitowy),"
+      },
+      {
+       "type": "text",
+       "text": "– zapisuje pliki poglądowe z kompozycją kartograficzną danych przestrzennych projektu w formacie dostępnym dla pracodawcy lub zleceniodawcy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody przeprowadzania walidacji Weryfikacja efektów uczenia się jest podzielona na dwie części – teoretyczną i praktyczną. W części teoretycznej wykorzystuje się metodę testu wiedzy (do weryfikacji zagadnień teoretycznych ze wszystkich zestawów efektów uczenia się). W części praktycznej wykorzystuje się metodę obserwacji, która może być uzupełniona wywiadem swobodnym (rozmową z komisją walidacyjną)."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Osoby przeprowadzające walidację W procesie weryfikacji efektów uczenia się biorą udział:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "operator systemu egzaminacyjnego nadzorujący przebieg części teoretycznej walidacji w systemie teleinformatycznym,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "komisja walidacyjna, składająca się z co najmniej dwóch asesorów, która przeprowadza część praktyczną walidacji. Operator systemu egzaminacyjnego spełnia następujące wymagania:",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "ma wykształcenie minimum średnie,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "obsługuje komputer – potrafi go uruchamiać oraz ma wiedzę z zakresu podstawowej obsługi systemu i zainstalowanych aplikacji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "ma umiejętność rozwiązywania problemów w sytuacji, w której napotka trudności z nawiązaniem lub zanikiem połączenia internetowego lub obsługą przeglądarki w zakresie jej kompatybilności z systemem teleinformatycznym. Osoba będąca asesorem może być jednocześnie operatorem systemu egzaminacyjnego. Każdy członek komisji walidacyjnej:",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_1/tir_6",
+       "text": "ma wykształcenie wyższe,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_1/tir_7",
+       "text": "spełnia minimum 2 z poniższych warunków:",
+       "children": [
+        {
+         "type": "text",
+         "text": "• ma co najmniej 3 lata udokumentowanego doświadczenia w pozyskiwaniu i edycji danych przestrzennych,"
+        },
+        {
+         "type": "text",
+         "text": "• ma co najmniej 2 lata udokumentowanego doświadczenia w prowadzeniu zajęć, szkoleń i warsztatów w zakresie pozyskiwania i edycji danych przestrzennych,"
+        },
+        {
+         "type": "text",
+         "text": "• ma udokumentowaną znajomość oprogramowania służącego do pozyskiwania i edycji danych przestrzennych. Instytucja prowadząca walidację stosuje rozwiązania zapewniające rozdzielenie procesów kształcenia i szkolenia od walidacji. Szczególnie istotne jest zapewnienie bezstronności osób przeprowadzających walidację, m.in. przez rozdział osobowy, który ma zapobiegać konfliktowi interesów osób prowadzących walidację. Nie mogą one weryfikować efektów uczenia się osób, które były przez nie przygotowywane do uzyskania kwalifikacji wolnorynkowej."
+        },
+        {
+         "type": "text",
+         "text": "1.3. Warunki organizacyjne i materialne niezbędne do prawidłowego i bezpiecznego przeprowadzania walidacji Walidacja może być przeprowadzona stacjonarnie, zdalnie albo hybrydowo. Instytucja prowadząca walidację zapewnia:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_1/tir_8",
+       "text": "do przeprowadzenia części teoretycznej walidacji w systemie teleinformatycznym stanowisko komputerowe (jedno stanowisko dla jednego kandydata) wyposażone w przeglądarkę internetową z dostępem do Internetu oraz stolik i krzesło,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_1/tir_9",
+       "text": "do przeprowadzania części praktycznej walidacji dostęp do:",
+       "children": [
+        {
+         "type": "text",
+         "text": "• komputera z oprogramowaniem do tworzenia i edycji danych przestrzennych,"
+        },
+        {
+         "type": "text",
+         "text": "• systemu operacyjnego z interfejsem graficznym,"
+        },
+        {
+         "type": "text",
+         "text": "• połączenia z Internetem,"
+        },
+        {
+         "type": "text",
+         "text": "• oprogramowania do tworzenia i edycji danych przestrzennych umożliwiającego weryfikację wszystkich efektów uczenia się,"
+        },
+        {
+         "type": "text",
+         "text": "• danych przestrzennych umożliwiających wykonanie działań wskazanych w kryteriach weryfikacji,"
+        },
+        {
+         "type": "text",
+         "text": "• arkusza kalkulacyjnego,"
+        },
+        {
+         "type": "text",
+         "text": "• edytora tekstu,"
+        },
+        {
+         "type": "text",
+         "text": "• przeglądarki stron internetowych. Instytucja prowadząca walidację zapewnia bezstronną i niezależną procedurę odwoławczą, w ramach której kandydaci uczestniczący w procesie walidacji mogą odwołać się od decyzji kończącej walidację. Walidacja może być prowadzona zdalnie albo hybrydowo, pod warunkiem zapewnienia przez instytucję prowadzącą walidację dostępu do wymaganego sprzętu on-line oraz do narzędzi umożliwiających wiarygodne sprawdzenie, czy osoba ubiegająca się o nadanie kwalifikacji wolnorynkowej osiągnęła wyodrębnioną część albo całość efektów uczenia się. Narzędzia i metody stosowane w walidacji prowadzonej zdalnie powinny w szczególności umożliwiać identyfikację kandydata przystępującego do walidacji, zapewniać samodzielność jego pracy i gwarantować zabezpieczenie przebiegu walidacji przed ingerencją osób trzecich."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się Nie określa się wymagań dotyczących etapów identyfikowania i dokumentowania efektów uczenia się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełnić osoba przystępująca do walidacji, jeżeli zostały określone, albo informacja o braku takich warunków",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wykształcenie minimum średnie bez konieczności posiadania świadectwa dojrzałości"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak innych, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji wolnorynkowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu kwalifikacji wolnorynkowej – bezterminowy lub określony – oraz warunki przedłużenia ważności, jeżeli okres ważności certyfikatu został określony",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bezterminowo"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720)."
+ }
+}

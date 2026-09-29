@@ -1,0 +1,481 @@
+{
+ "eli": "MP/2026/948",
+ "title": "Uchwała nr 195 Rady Ministrów z dnia 25 września 2026 r. zmieniająca uchwałę w sprawie ustanowienia programu wieloletniego pod nazwą \"Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim\"",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/948/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 195"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 września 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustanowienia programu wieloletniego pod nazwą „Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, z późn. zm.[^1]) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 103 Rady Ministrów z dnia 20 czerwca 2023 r. w sprawie ustanowienia programu wieloletniego pod nazwą „Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim” (M.P. z 2026 r. poz. 249) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w ust. 2:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_1/lit_a/tir_1",
+         "text": "pkt 3 i 4 otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„3) w 2025 r. – 82 761 872 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "4) w 2026 r. – 749 688 945 zł;”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_1/lit_a/tir_2",
+         "text": "pkt 7 i 8 otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„7) w 2029 r. – 638 464 853 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "8) w 2030 r. – 55 234 341 zł.”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "w ust. 3:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_1/lit_b/tir_1",
+         "text": "pkt 4 otrzymuje brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„4) w 2026 r. – 244 239 524 zł;”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_1/lit_b/tir_2",
+         "text": "w pkt 6 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„7) w 2029 r. – 100 267 524 zł.”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "w ust. 4 pkt 4–8 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) w 2026 r. – 162 566 613 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) w 2027 r. – 216 549 239 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) w 2028 r. – 136 532 222 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) w 2029 r. – 80 508 395 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) w 2030 r. – 21 727 326 zł.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "w ust. 5 pkt 3–8 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) w 2025 r. – 70 227 038 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) w 2026 r. – 342 882 808 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) w 2027 r. – 1 113 663 399 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) w 2028 r. – 1 178 200 925 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) w 2029 r. – 457 688 934 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) w 2030 r. – 33 507 015 zł.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w pkt 1 – Wstęp:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_a/tir_1",
+         "text": "w akapicie dziewiątym:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_1/pkt_2/lit_a/tir_1/tir_1",
+           "text": "pkt 3 i 4 otrzymują brzmienie:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„3) w 2025 r. – 82 761 872 zł;",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "4) w 2026 r. – 749 688 945 zł;”,",
+             "quoted": true
+            }
+           ]
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_1/pkt_2/lit_a/tir_1/tir_2",
+           "text": "pkt 7 i 8 otrzymują brzmienie:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„7) w 2029 r. – 638 464 853 zł;",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "8) w 2030 r. – 55 234 341 zł.”,",
+             "quoted": true
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_a/tir_2",
+         "text": "w akapicie dziesiątym wyrazy „w Gdyni – do 2028 r.” zastępuje się wyrazami „w Gdyni – do 2029 r.”,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w pkt 3 – Monitoring i ocena stopnia osiągnięcia Celu głównego w akapicie pierwszym wyrazy „na 2028 r.” zastępuje się wyrazami „na 2029 r.”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "w pkt 4.1. – Struktura podmiotowa Programu w akapicie drugim wyrazy „w Warszawie” zastępuje się wyrazami „w Gdańsku”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_2/lit_d",
+       "text": "w pkt 4.2. – Finansowanie Programu w akapicie drugim:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_d/tir_1",
+         "text": "pkt 3 i 4 otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„3) w 2025 r. – 82 761 872 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "4) w 2026 r. – 749 688 945 zł;”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_d/tir_2",
+         "text": "pkt 7 i 8 otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„7) w 2029 r. – 638 464 853 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "8) w 2030 r. – 55 234 341 zł.”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_2/lit_e",
+       "text": "w pkt 4.3.1. – Środki przeznaczone na wykonanie Programu przez Dyrektora Urzędu Morskiego w Gdyni:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_e/tir_1",
+         "text": "w akapicie pierwszym:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_1/pkt_2/lit_e/tir_1/tir_1",
+           "text": "pkt 4 otrzymuje brzmienie:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„4) w 2026 r. – 244 239 524 zł;”,",
+             "quoted": true
+            }
+           ]
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_1/pkt_2/lit_e/tir_1/tir_2",
+           "text": "w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„7) w 2029 r. – 100 267 524 zł.”,",
+             "quoted": true
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_e/tir_2",
+         "text": "w akapicie drugim w pkt 5 wyrazy „w 2028 r.” zastępuje się wyrazami „w 2028 i w 2029 r.”,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_2/lit_f",
+       "text": "w pkt 4.3.2. – Środki przeznaczone na wykonanie Programu przez Generalnego Dyrektora Dróg Krajowych i Autostrad w akapicie pierwszym pkt 4–8 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) w 2026 r. – 162 566 613 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) w 2027 r. – 216 549 239 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) w 2028 r. – 136 532 222 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) w 2029 r. – 80 508 395 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) w 2030 r. – 21 727 326 zł.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_2/lit_g",
+       "text": "w pkt 4.3.3. – Środki przeznaczone na wykonanie Programu przez spółkę PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie w akapicie pierwszym pkt 3–8 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) w 2025 r. – 70 227 038 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) w 2026 r. – 342 882 808 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) w 2027 r. – 1 113 663 399 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) w 2028 r. – 1 178 200 925 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) w 2029 r. – 457 688 934 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) w 2030 r. – 33 507 015 zł.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_2/lit_h",
+       "text": "tabela „Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim – mierniki realizacji, koszty oraz nakłady do poniesienia z budżetu państwa” otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Tabela – Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim – mierniki realizacji, koszty oraz"
+        },
+        {
+         "type": "text",
+         "text": "nakłady do poniesienia z budżetu państwa"
+        },
+        {
+         "type": "text",
+         "text": "Część Nazwa zadania Cel Programu Miernik Koszty całkowite Nakłady do poniesienia z budżetu państwa w tys. zł Programu w tys. zł Termin Jednostka Nazwa Wartość realizacji koordynująca miernika B Docelowa Ogółem W Ogółem 2023 r. 2024 r. 2025 r. 2026 r. 2027 r. 2028 r. 2029 r. 2030 r. /realizująca a ramach 2028 r. 2029 r. 2030 r. z zadania o w a 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
+        },
+        {
+         "type": "text",
+         "text": "21 – Budowa Wsparcie inwestycji Budowa infrastruktury 0 ------ 1 ----- 2023 4 761 907 907 244, 167, 4 898, 244 474 82 100 -------- – gospodarka infrastruktury infrastrukturalnych hydrotechnicznej – k komplet 777, 042, 042, 770 157 896 239, 507, 717, 267, morska hydrotechnicznej w związku z konstrukcji morskiej o m 2029 r. 307 389 389 524 048 470 524 minister w granicach pasa realizacją długości ok. 1100 m właściwy do technicznego na kluczowych służącej do rozładunku spraw obszarze gmin inwestycji w materiałów i gospodarki Choczewo lub zakresie elementów morskiej; Krokowa oraz na strategicznej wyposażenia, a także Dyrektor obszarach infrastruktury infrastruktury Urzędu morskich energetycznej, w technicznej Morskiego w Rzeczypospolitej tym elektrowni umożliwiającej Gdyni Polskiej, w jądrowej, w prawidłową szczególności na województwie eksploatację potrzeby pomorskim konstrukcji morskiej i elektrowni drogi technicznej jądrowej"
+        },
+        {
+         "type": "text",
+         "text": "39 – transport Budowa drogi Wsparcie inwestycji Budowa drogi krajowej 0 ------ ----- ok. 2023 4 636 636 0 11 7 635, 162 216 136 80 21 – minister krajowej infrastrukturalnych o długości ok. 28 km k 28 761 882, 882, 362, 938 566, 549, 532, 508, 727, właściwy do zapewniającej w związku z zapewniającej dojazd m km 2030 r. 777, 660 660 927 613 239 222 395 326 spraw dojazd do realizacją do elektrowni jądrowej 307 transportu; elektrowni kluczowych Generalny jądrowej od inwestycji w Dyrektor najbliższej drogi zakresie Dróg ekspresowej strategicznej Krajowych i infrastruktury Autostrad energetycznej, w tym elektrowni jądrowej, w województwie pomorskim 39 – transport Budowa lub Wsparcie inwestycji Budowa lub 0 ------ ----- ok. 2023 4 3 217 3 217 3 120, 18 70 342 1 1 457 33 – minister przebudowa infrastrukturalnych przebudowa linii k 153 761 852, 852, 139 562, 227, 882, 113 178 688, 507, właściwy do infrastruktury w związku z kolejowych o długości m km 2030 r. 777, 258 258 000 038 808 663, 200, 934 015 spraw kolejowej realizacją ok. 153 km 307 399 925 transportu; zapewniającej kluczowych spółka PKP dojazd do gmin inwestycji w Polskie Linie Nowa Wieś zakresie Kolejowe Lęborska, strategicznej spółka Kartuzy, infrastruktury akcyjna z Chmielno, energetycznej, w siedzibą w Sierakowice, tym elektrowni Warszawie Linia, Łęczyce, jądrowej, w Lębork, Wicko, województwie Łeba, Wejherowo, pomorskim Choczewo, Gniewino i Krokowa, w tym linii kolejowych wraz z sieciami trakcyjnymi, stacji pasażerskich, terminali towarowych i obiektów inżynieryjnych"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1844 i 1846 oraz z 2026 r. poz. 426, 635, 680 i 912."
+ }
+}

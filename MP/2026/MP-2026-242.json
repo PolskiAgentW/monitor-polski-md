@@ -1,0 +1,136 @@
+{
+ "eli": "MP/2026/242",
+ "title": "Obwieszczenie Ministra Energii z dnia 20 lutego 2026 r. w sprawie wielkości średniego dziennego przywozu netto ekwiwalentu ropy naftowej, średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej, średniej dziennej produkcji netto gazu płynnego (LPG), średniego dziennego przywozu gazu płynnego (LPG) w 2025 r. oraz wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w okresie od dnia 1 stycznia 2026 r. do dnia 29 czerwca 2026 r. oraz w okresie od dnia 30 czerwca 2026 r. do dnia 29 czerwca 2027 r.",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/242/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ENERGII[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lutego 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wielkości średniego dziennego przywozu netto ekwiwalentu ropy naftowej, średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej, średniej dziennej produkcji netto gazu płynnego (LPG), średniego dziennego przywozu gazu płynnego (LPG) w 2025 r. oraz wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w okresie od dnia 1 stycznia 2026 r. do dnia 29 czerwca 2026 r. oraz w okresie od dnia 30 czerwca 2026 r. do dnia 29 czerwca 2027 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2024 r. poz. 1281 oraz z 2025 r. poz. 1168 i 1303) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w 2025 r.:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "wielkość średniego dziennego przywozu netto ekwiwalentu ropy naftowej wyniosła 84,358 tys. ton,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "wielkość średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej wyniosła 91,522 tys. ton,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "wielkość średniej dziennej produkcji netto gazu płynnego (LPG) wyniosła 1,216 tys. ton,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "wielkość średniego dziennego przywozu gazu płynnego (LPG) wyniosła 6,118 tys. ton;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w okresie od dnia 1 stycznia 2026 r. do dnia 29 czerwca 2026 r. oraz w okresie od dnia 30 czerwca 2026 r. do dnia 29 czerwca 2027 r., wynoszą dla:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "gazu płynnego (LPG) – 0,541 tony/m³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "benzyn silnikowych – 0,741 tony/m³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "benzyn lotniczych – 0,722 tony/m³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "paliw typu benzynowego do silników odrzutowych – 0,780 tony/m³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "paliw typu nafty do silników odrzutowych – 0,794 tony/m³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_2/lit_f",
+     "text": "innych rodzajów nafty – 0,780 tony/m³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_2/lit_g",
+     "text": "olejów napędowych, w tym lekkich olejów opałowych – 0,832 tony/m³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_2/lit_h",
+     "text": "ciężkich olejów opałowych – 0,940 tony/m³.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Energii: M. Motyka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Energii kieruje działem administracji rządowej – gospodarka surowcami energetycznymi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 1206)."
+ }
+}

@@ -1,0 +1,657 @@
+{
+ "eli": "MP/2026/787",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 6 sierpnia 2026 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/787/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 sierpnia 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2025 r. poz. 1251) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 21:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "ust. 6 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„6. Senatorowie mogą tworzyć w Senacie zespoły senackie i zespoły parlamentarne, zorganizowane na innych zasadach niż określone w ust. 1. Przewodniczącym zespołu parlamentarnego jest senator.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "po ust. 6 dodaje się ust. 6a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„6a. Zespół senacki tworzy co najmniej 5 senatorów, a zespół parlamentarny co najmniej 5 senatorów i co najmniej 1 poseł.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "ust. 7 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„7. Władze klubów, kół, zespołów senackich, zespołów parlamentarnych oraz porozumień podają do wiadomości Prezydium Senatu ich składy osobowe oraz regulaminy (statuty) wewnętrzne.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 39 w ust. 6 wyrazy „aparatury elektronicznej” zastępuje się wyrazami „systemu elektronicznego”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 44:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_3/lit_a",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Senatorowie, którzy zamierzają wziąć udział w dyskusji nad określonym punktem porządku obrad, zapisują się do głosu u prowadzącego listę mówców sekretarza Senatu lub wykorzystując system elektroniczny.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "ust. 5 i 6 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Przed przystąpieniem do dyskusji senatorowie mogą zadawać z miejsca pytania:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) sprawozdawcy komisji oraz sprawozdawcy mniejszości komisji,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) obecnym na posiedzeniu osobom wymienionym w art. 33 ust. 1 i 2, w sprawach kierowanych przez nie urzędów lub instytucji",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "– związane z referowaną ustawą, projektem ustawy, uchwały lub sprawą.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6. W przypadku, o którym mowa w ust. 5 pkt 2, za zgodą senatora odpowiedź może być udzielona niezwłocznie w formie pisemnej.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_3/lit_c",
+       "text": "dodaje się ust. 8 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„8. Marszałek może podjąć decyzję o skreśleniu z protokołu wypowiedzi senatora, któremu nie udzielił głosu lub który kontynuował przemówienie po odebraniu mu głosu.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "art. 46 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 46.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przemówienie sprawozdawcy komisji oraz sprawozdawcy mniejszości komisji nie może trwać dłużej niż 20 minut.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W dyskusji nad daną sprawą senator może zabrać głos tylko dwa razy. Pierwsze przemówienie nie może trwać dłużej niż 10 minut, a powtórne – dłużej niż 5 minut.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wystąpienie senatora, o którym mowa w art. 26 ust. 2 zdanie drugie, nie może trwać dłużej niż 20 minut, a wystąpienie, o którym mowa w art. 51 i art. 52 ust. 6 – dłużej niż 10 minut.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Jeżeli Regulamin Senatu przewiduje możliwość zadania pytania przez senatora, nie może ono trwać dłużej niż 1 minutę, a odpowiedź na pytanie – dłużej niż 6 minut.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Wystąpienie inne niż określone w ust. 1–4 nie może trwać dłużej niż 30 minut, a ponowne wystąpienie w tej samej sprawie – dłużej niż 20 minut, chyba że Regulamin Senatu stanowi inaczej. Nie dotyczy to wystąpień, o których mowa w art. 50 ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Marszałek Senatu może zdecydować:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) o przedłużeniu czasu przemówienia, wystąpienia, pytania i odpowiedzi na pytanie;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) o dodatkowym udzieleniu mówcy głosu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) o odebraniu głosu mówcy, który przekroczył limit czasowy.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 50:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_5/lit_a",
+       "text": "w ust. 2 po wyrazach „wyboru lub powołania na określone w Regulaminie Senatu stanowisko” dodaje się wyrazy „albo odwołania z tego stanowiska”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_5/lit_b",
+       "text": "uchyla się ust. 3;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "art. 53 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 53.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Po przystąpieniu do głosowania można zabrać głos wyłącznie w celu zgłoszenia lub uzasadnienia wniosku formalnego o sposobie lub porządku głosowania albo zadania sprawozdawcy pytania o wyjaśnienie treści poddawanej pod głosowanie poprawki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Głosowanie jest jawne i odbywa się przez podniesienie ręki z równoczesnym wykorzystaniem systemu elektronicznego rejestrującego indywidualne decyzje senatorów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W sprawie wyboru albo powołania na określone w Regulaminie Senatu stanowisko, w której liczba kandydatów przekracza liczbę miejsc do obsadzenia, głosowanie odbywa się przez zaznaczenie nazwiska kandydata (nazwisk kandydatów) na wyświetlanej liście kandydatów oraz zatwierdzenie dokonanego wyboru. Senator może głosować na tylu kandydatów, ile jest miejsc do obsadzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W przypadku gdy w sprawie określonej w ust. 3 uchwała jest podejmowana zwykłą większością głosów:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) za wybranych albo powołanych uważa się, w zależności od liczby miejsc do obsadzenia:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) kandydata, który uzyskał największą liczbę głosów, albo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) kandydatów, którzy uzyskali kolejne największe liczby głosów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) jeżeli dwóch albo więcej kandydatów uzyskało równe liczby głosów i spowodowałoby to wybór albo powołanie większej liczby osób niż liczba miejsc do obsadzenia, uznaje się, że nie wybrano (nie powołano) tych kandydatów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. W razie niemożności przeprowadzenia głosowania z wykorzystaniem systemu elektronicznego, w sprawie innej niż określona w ust. 3, Marszałek Senatu może zarządzić głosowanie przez podniesienie ręki z równoczesnym obliczeniem głosów przez sekretarzy Senatu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Marszałek Senatu może zarządzić z inicjatywy własnej albo zarządza na wniosek co najmniej 20 senatorów głosowanie z użyciem kart do głosowania, oznaczonych imionami i nazwiskami senatorów (głosowanie imienne).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. W głosowaniu imiennym senatorowie, wezwani przez sekretarza Senatu kolejno w porządku alfabetycznym, wrzucają swoje karty do urny. Otwarcia urny i obliczenia głosów dokonuje trzech sekretarzy Senatu wyznaczonych przez Marszałka Senatu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Jeżeli głosowanie imienne przeprowadza się w sprawie określonej w ust. 3, listę kandydatów umieszcza się na karcie do głosowania, a głosowanie na danego kandydata polega na postawieniu znaku „x” w kratce przy nazwisku tego kandydata.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. Wyniki głosowania – ogłoszone przez Marszałka Senatu na podstawie danych z systemu elektronicznego albo protokołu przedstawionego przez sekretarzy Senatu dokonujących obliczenia głosów – są ostateczne i nie mogą być przedmiotem dyskusji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 54:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_7/lit_a",
+       "text": "w ust. 1 pkt 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5) głosowanie nad podjęciem uchwały w sprawie ustawy w całości, z uwzględnieniem przyjętych poprawek.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_7/lit_b",
+       "text": "w ust. 1a w zdaniu pierwszym wyraz „odrzucenia” zastępuje się wyrazami „wycofania lub odrzucenia”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_7/lit_c",
+       "text": "w ust. 2 wyrazy „nad całością uchwały” zastępuje się wyrazami „ , o którym mowa w ust. 1 pkt 5,”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_7/lit_d",
+       "text": "uchyla się ust. 3;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w art. 62:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_8/lit_a",
+       "text": "uchyla się ust. 4,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_8/lit_b",
+       "text": "po ust. 4 dodaje się ust. 4a i 4b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4a. Głosowanie jest jawne i odbywa się przez podniesienie ręki. Głosowanie może odbywać się z równoczesnym wykorzystaniem systemu elektronicznego rejestrującego indywidualne decyzje senatorów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4b. W sprawach wyboru kandydata na przewodniczącego komisji oraz zastępcy (zastępców) przewodniczącego, w których liczba kandydatów przekracza liczbę miejsc do obsadzenia, przepisy art. 53 ust. 3 zdanie drugie i ust. 4 stosuje się odpowiednio.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_8/lit_c",
+       "text": "ust. 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. W trakcie obrad komisji:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) przepisy art. 47, art. 54 ust. 1 i 2 oraz art. 56 stosuje się odpowiednio;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) wnioski o charakterze legislacyjnym senatorowie zgłaszają do zamknięcia dyskusji nad danym punktem porządku obrad; przepisy art. 54 ust. 1a i art. 73a stosuje się odpowiednio.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 63 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Wniosek nieprzyjęty przez komisję, który:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) był poddany pod głosowanie i uzyskał co najmniej 2 głosy poparcia, albo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) został wykluczony przez przyjęcie innego wniosku, ale uzyskał poparcie co najmniej 2 senatorów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– na żądanie wnioskodawcy zamieszcza się w sprawozdaniu jako wniosek mniejszości.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "w art. 67b w ust. 1 w pkt 2 wyrazy „zgłasza zapytanie” zastępuje się wyrazami „zadaje pytanie”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_1/pkt_11",
+     "text": "w art. 68 w ust. 2a dodaje się zdanie drugie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„W takim przypadku przepisu art. 63 ust. 2 nie stosuje się.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_1/pkt_12",
+     "text": "w art. 68a uchyla się ust. 1a;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "w art. 73a w zdaniu pierwszym wyraz „odrzucenia” zastępuje się wyrazami „wycofania lub odrzucenia”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "w art. 81 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Przed przystąpieniem do dyskusji senatorowie mogą zadawać pytania sprawozdawcy w związku z przedstawionym sprawozdaniem oraz upoważnionemu przedstawicielowi wnioskodawcy, o którym mowa w art. 77 ust. 1.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_1/pkt_15",
+     "text": "w art. 82:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_15/lit_a",
+       "text": "ust. 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Przed przystąpieniem do głosowania senatorowie mogą zadawać pytania sprawozdawcom i wnioskodawcom w związku z przedstawionym dodatkowym sprawozdaniem.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_15/lit_b",
+       "text": "w ust. 6 w pkt 3 wyraz „za” zastępuje się wyrazem „nad”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "w art. 84 ust. 9 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„9. Drugie i trzecie czytanie wszystkich projektów uchwał, o których mowa w ust. 7 pkt 1, dotyczących danego roku odbywa się na tym samym posiedzeniu. Senat podejmuje nie więcej niż pięć uchwał w tej sprawie. W przypadku uzyskania większości głosów przez większą liczbę projektów, za uchwalone uważa się pięć, które uzyskały kolejno największe liczby głosów poparcia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "art_1/pkt_17",
+     "text": "w art. 85g w ust. 4 w pkt 2 wyraz „za” zastępuje się wyrazem „nad”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "art_1/pkt_18",
+     "text": "w art. 88 w ust. 2 wyraz „opinię” zastępuje się wyrazami „wspólne sprawozdanie, w którym wyrażają swoją opinię”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "art_1/pkt_19",
+     "text": "art. 90b otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 90b. Przewodniczący Komisji Petycji kieruje petycję do rozpatrzenia na posiedzeniu Komisji albo przekazuje właściwemu organowi władzy publicznej, jeżeli uzna, że jej przedmiot nie mieści się w zakresie kompetencji Senatu. O przekazaniu petycji Przewodniczący informuje Marszałka Senatu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "art_1/pkt_20",
+     "text": "w art. 90g uchyla się ust. 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "art_1/pkt_21",
+     "text": "w art. 91:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_21/lit_a",
+       "text": "w ust. 1 pkt 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2) na powołanie i odwołanie Prezesa Najwyższej Izby Kontroli, Rzecznika Praw Dziecka oraz Przewodniczącego Komisji Rozwoju i Bezpieczeństwa Sztucznej Inteligencji w ciągu miesiąca od dnia przekazania Senatowi odpowiedniej uchwały Sejmu;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_21/lit_b",
+       "text": "w ust. 2 uchyla się zdanie drugie;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "art_1/pkt_22",
+     "text": "w art. 94 w ust. 4 po wyrazie „Senatowi” dodaje się wyrazy „wspólne sprawozdanie zawierające”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "art_1/pkt_23",
+     "text": "w art. 95 w ust. 1 uchyla się zdanie drugie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "art_1/pkt_24",
+     "text": "w art. 96 w ust. 3 uchyla się zdanie trzecie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "art_1/pkt_25",
+     "text": "uchyla się art. 96c.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Działające w Senacie zespoły dostosują swoje składy lub nazwy do wymogów, o których mowa w art. 21 ust. 6a uchwały zmienianej w art. 1, w terminie 3 miesięcy od dnia wejścia w życie niniejszej uchwały.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Uruchomienie nowego systemu elektronicznego, o którym mowa w art. 39 ust. 6, art. 44 ust. 2, art. 53 ust. 2, 5 i 9 oraz art. 62 ust. 4a uchwały zmienianej w art. 1 ogłasza Marszałek Senatu na posiedzeniu Senatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Do głosowań przeprowadzanych na posiedzeniu Senatu przed ogłoszeniem, o którym mowa w ust. 1, stosuje się przepisy dotychczasowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: M. Kidawa-Błońska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

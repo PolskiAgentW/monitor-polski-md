@@ -1,0 +1,168 @@
+{
+ "eli": "MP/2025/1152",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1152/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 listopada 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2024 r. poz. 10, 111, 354 i 1016 oraz z 2025 r. poz. 1140) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 15 w ust. 2 po wyrazie „załącznik” dodaje się wyrazy „nr 1”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 25:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "ust. 1 i 2 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Sprawy senatorów, którzy nie wykonują obowiązków senatorskich, jak również senatorów, którzy zachowują się w sposób nieodpowiadający godności senatora lub naruszają Zasady etyki senatorskiej, stanowiące załącznik nr 2 do Regulaminu Senatu, podlegają, na wniosek Prezydium Senatu, rozpatrzeniu przez Komisję Regulaminową, Etyki i Spraw Senatorskich. W sprawach o naruszenie czci senatora wniosek może złożyć także pokrzywdzony senator.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Komisja Regulaminowa, Etyki i Spraw Senatorskich w wyniku rozpatrzenia sprawy, o której mowa w ust. 1, może w drodze uchwały, w głosowaniu tajnym:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) zwrócić senatorowi uwagę;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) udzielić senatorowi upomnienia;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) udzielić senatorowi nagany.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "dodaje się ust. 4 i 5 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Prezydium Senatu na wniosek Komisji Regulaminowej, Etyki i Spraw Senatorskich przyjmuje wskazówki dotyczące sposobu realizacji Zasad etyki senatorskiej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Uchwała Komisji Regulaminowej, Etyki i Spraw Senatorskich w sprawie, o której mowa w ust. 1, od której nie wniesiono odwołania, oraz decyzja Prezydium Senatu nieuwzględniająca odwołania od takiej uchwały podlegają ogłoszeniu przez sekretarza Senatu na początku najbliższego posiedzenia Senatu.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "dotychczasowy załącznik oznacza się jako załącznik nr 1 oraz dodaje się załącznik nr 2 w brzmieniu określonym w załączniku do niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: M. Kidawa-Błońska"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Senatu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. (M.P. poz. 1152)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZASADY ETYKI SENATORSKIEJ"
+    },
+    {
+     "type": "text",
+     "text": "Senator przestrzega najwyższych standardów etycznych i prawnych, a ponadto:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "w swojej działalności kieruje się zasadą poszanowania powagi Senatu, dobrem publicznym i względami merytorycznymi, unika zachowań i wypowiedzi naruszających kulturę debaty publicznej i autorytet Senatu, zachowuje powściągliwość w okazywaniu osobistego stosunku do innych senatorów oraz osób trzecich;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "należycie wypełnia swoje obowiązki, w szczególności stawia się przed właściwymi organami, w tym na każde wezwanie Komisji Regulaminowej, Etyki i Spraw Senatorskich;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "ujawnia Marszałkowi Senatu przed przystąpieniem do podejmowanych działań w ramach wykonywania mandatu senatora, w szczególności przed debatą plenarną lub głosowaniem lub przewodniczącemu komisji przed udziałem w posiedzeniu komisji senackiej, możliwość wystąpienia konfliktu interesów z powodu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "powiązań rodzinnych lub interesów gospodarczych, a także bezpośrednich lub pośrednich interesów osobistych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "powiązań majątkowych i zawodowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

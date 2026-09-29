@@ -1,0 +1,98 @@
+{
+ "eli": "MP/2026/144",
+ "title": "Zarządzenie nr 10 Prezesa Rady Ministrów z dnia 26 stycznia 2026 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Obrony Narodowej",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/144/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 10"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 stycznia 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Obrony Narodowej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 2 ustawy z dnia 14 grudnia 1995 r. o urzędzie Ministra Obrony Narodowej (Dz. U. z 2025 r. poz. 445) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 82 Prezesa Rady Ministrów z dnia 19 grudnia 2014 r. w sprawie nadania statutu Ministerstwu Obrony Narodowej (M.P. z 2015 r. poz. 32, z późn. zm.[^1]) w załączniku w § 2 wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "po pkt 3a dodaje się pkt 3b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3b) Departament Funduszy Zagranicznych;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "w pkt 30 kropkę zastępuje się średnikiem i dodaje się pkt 31 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„31) Biuro Szefa Sztabu Generalnego Wojska Polskiego.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Komórki organizacyjne, o których mowa w ust. 1 pkt 17–23 i 31, tworzą Sztab Generalny Wojska Polskiego.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionego zarządzenia zostały ogłoszone w M.P. z 2016 r. poz. 481, z 2018 r. poz. 226, z 2020 r. poz. 818, z 2021 r. poz. 711 i 955 oraz z 2024 r. poz. 974."
+ }
+}

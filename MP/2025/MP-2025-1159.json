@@ -1,0 +1,583 @@
+{
+ "eli": "MP/2025/1159",
+ "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 16 października 2025 r. w sprawie włączenia kwalifikacji wolnorynkowej \"Projektowanie i optymalizacja procesów technologicznych w przemyśle chemicznym przy użyciu symulatorów procesowych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1159/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW I GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 października 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji wolnorynkowej „Projektowanie i optymalizacja procesów technologicznych w przemyśle chemicznym przy użyciu symulatorów procesowych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji wolnorynkowej „Projektowanie i optymalizacja procesów technologicznych w przemyśle chemicznym przy użyciu symulatorów procesowych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów i Gospodarki: wz. M. Jaros"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Finansów i Gospodarki z dnia 16 października 2025 r. (M.P. poz. 1159)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI WOLNORYNKOWEJ „PROJEKTOWANIE I OPTYMALIZACJA PROCESÓW TECHNOLOGICZNYCH W PRZEMYŚLE CHEMICZNYM PRZY UŻYCIU SYMULATORÓW PROCESOWYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Projektowanie i optymalizacja procesów technologicznych w przemyśle chemicznym przy użyciu symulatorów procesowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację wolnorynkową „Projektowanie i optymalizacja procesów technologicznych w przemyśle chemicznym przy użyciu symulatorów procesowych” projektuje złożone procesy technologiczne. Dobiera i modyfikuje parametry procesu technologicznego do wytwarzania typowych lub nowych produktów chemicznych. Optymalizuje operacje i procesy jednostkowe związane z procesami technologicznymi oraz działanie poszczególnych węzłów instalacji, układów technologicznych oraz całych instalacji, w celu osiągnięcia ustalonych założeń, wykorzystując specjalistyczne oprogramowanie. Opracowuje alternatywne warianty rozwiązania problemu, ocenia ich poprawność oraz porównuje mocne i słabe strony realizacji potencjalnych optymalizacji. Prezentuje, uzasadnia i poddaje krytycznej ocenie rezultaty swojej pracy."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Przygotowanie założeń do wykonania zadania projektowego przy użyciu symulatora procesowego"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Ustala cel i założenia – określa na podstawie dokumentacji i otrzymanych wytycznych problem, który ma zostać do wykonania zadania rozwiązany poprzez wykonanie zadania projektowego, projektowego – sporządza spis założeń do wykonania zadania projektowego."
+      },
+      {
+       "type": "text",
+       "text": "Ustala zakres danych – określa operacje jednostkowe niezbędne do opracowania modelu w zadaniu projektowym, wejściowych – określa rodzaje i zakres danych wejściowych niezbędnych do wykonania zadania projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje sposoby pozyskania danych wejściowych dotyczących właściwości fizykochemicznych, termodynamicznych i równowagowych substancji chemicznych, niezbędnych do opracowania modelu optymalizacyjnego w zadaniu projektowym,"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje źródła danych wejściowych dotyczących właściwości fizykochemicznych, termodynamicznych i równowagowych."
+      },
+      {
+       "type": "text",
+       "text": "Pozyskuje dane – znajduje dane wejściowe w bazach danych symulatora procesowego, źródłach literaturowych wejściowe i wynikach prac badawczo-rozwojowych (B+R),"
+      },
+      {
+       "type": "text",
+       "text": "– formułuje wytyczne do wykonania badań analitycznych,"
+      },
+      {
+       "type": "text",
+       "text": "– odczytuje z wyników badań analitycznych dane wejściowe niezbędne do wykonania zadania projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– określa zakres i rodzaj danych wejściowych możliwych do pozyskania z istniejących instalacji przemysłowych,"
+      },
+      {
+       "type": "text",
+       "text": "– wyodrębnia w informacjach dotyczących istniejących instalacji dane wejściowe niezbędne do wykonania zadania projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– przetwarza dane wejściowe do postaci umożliwiającej ich wykorzystanie do wykonania zadania projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– estymuje dane wejściowe w oparciu o metody teoretyczne, istniejące modele lub inne założenia."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Projektowanie procesu technologicznego przy użyciu symulatora procesowego"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Tworzy schemat – rozróżnia symbole do tworzenia schematów przepływowych stosowane w symulatorze przepływowy procesowym,"
+      },
+      {
+       "type": "text",
+       "text": "– umieszcza operacje jednostkowe na schemacie przepływowym,"
+      },
+      {
+       "type": "text",
+       "text": "– wprowadza do określonych symulatorów procesowych parametry pracy urządzeń i aparatów, – rysuje linie strumieni materiałowych i energetycznych,"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera układ jednostek obliczeniowych do wykonania zadania projektowego."
+      },
+      {
+       "type": "text",
+       "text": "Wprowadza dane – wskazuje kluczowe substancje chemiczne procesu technologicznego, dotyczące substancji – określa ilości i skład strumieni zasilających, uczestniczących – określa parametry strumieni zasilających. w procesie technologicznym"
+      },
+      {
+       "type": "text",
+       "text": "Dobiera model – wskazuje model termodynamiczny właściwy dla danego zadania projektowego, termodynamiczny – dobiera metody opisujące parametry równowagowe,"
+      },
+      {
+       "type": "text",
+       "text": "– uzasadnia wybór modelu termodynamicznego dla danego zadania projektowego."
+      },
+      {
+       "type": "text",
+       "text": "Przeprowadza symulację – uruchamia obliczenia symulacyjne dotyczące danego technologicznego węzła procesowego, procesu – interpretuje komunikaty programu symulacyjnego dotyczące błędów lub ostrzeżeń, technologicznego – weryfikuje poprawność wyników symulacji,"
+      },
+      {
+       "type": "text",
+       "text": "– ocenia zgodność wyników symulacji z założeniami zadania projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– identyfikuje niezbędne do wykonania korekty założeń do wykonania zadania procesowego, danych wejściowych i modelu termodynamicznego."
+      },
+      {
+       "type": "text",
+       "text": "Sporządza raport – wskazuje zakres informacji, które mają znaleźć się w raporcie z wykonania zadania proz wykonania zadania jektowego, projektowego – dobiera sposób prezentacji uzyskanych danych wyjściowych,"
+      },
+      {
+       "type": "text",
+       "text": "– formatuje uzyskane dane wyjściowe zawarte w raporcie z wykonania zadania projektowego , – wprowadza format wydruku raportu z wykonania zadania projektowego."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Optymalizacja procesu technologicznego przy użyciu symulatora procesowego"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Tworzy warianty procesu – na podstawie założeń zadania projektowego wskazuje parametry procesu technologicznego, technologicznego które będą podlegać modyfikacji,"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje zakres zmian parametrów procesu technologicznego podlegających modyfikacji, – szacuje, w jaki sposób projektowane modyfikacje paramentów procesu technologicznego wpłyną na realizację założeń zadania projektowego."
+      },
+      {
+       "type": "text",
+       "text": "Przeprowadza symulację – wprowadza do symulacji procesu technologicznego projektowane modyfikacje, wariantów procesu – uruchamia symulację wariantów procesu technologicznego, technologicznego – ocenia wyniki zasymulowanych wariantów procesu technologicznego w odniesieniu do założeń zadania projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– porównuje warianty optymalizacji procesu technologicznego w odniesieniu do założeń zadania projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje, na podstawie wyników symulacji, najlepszy wariant procesu technologicznego."
+      },
+      {
+       "type": "text",
+       "text": "Prezentuje propozycję – wskazuje elementy i parametry procesu technologicznego, które podlegały modyfikacji, wariantu optymalnego – wyjaśnia, w jaki sposób projektowana modyfikacja wpłynęła na realizację założeń zadania projektowego,"
+      },
+      {
+       "type": "text",
+       "text": "– przedstawia wariant optymalny i co najmniej jeden wariant alternatywny,"
+      },
+      {
+       "type": "text",
+       "text": "– porównuje mocne i słabe strony przedstawionych wariantów,"
+      },
+      {
+       "type": "text",
+       "text": "– uzasadnia wybór optymalnego wariantu oraz wariantu alternatywnego,"
+      },
+      {
+       "type": "text",
+       "text": "– wyjaśnia, czy i w jakim stopniu zostały osiągnięte cele zadania projektowego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "Do weryfikacji efektów uczenia się stosuje się następujące metody walidacji:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "obserwacja w warunkach symulowanych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "prezentacja,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "analiza dowodów i deklaracji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Weryfikacja każdego z zestawów efektów uczenia się jest przeprowadzana następującymi metodami:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "metodą obserwacji w warunkach symulowanych oraz prezentacją albo",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "metodą analizy dowodów i deklaracji oraz prezentacją.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Weryfikacja jest przeprowadzana w oparciu o wystandaryzowane narzędzia walidacji."
+        },
+        {
+         "type": "text",
+         "text": "Walidacja metodą obserwacji w warunkach symulowanych jest przeprowadzana przy zastosowaniu techniki zadania praktycznego (projektu) wykonywanego samodzielnie przez kandydata częściowo poza miejscem walidacji. W trakcie przeprowadzania zadania praktycznego stworzone są warunki zbliżone do rzeczywistych warunków wykonywania rzeczywistej symulacji przy użyciu określonego symulatora procesowego, umożliwiające np. pozyskiwanie danych z dokumentacji lub rozmowy. W przypadku inscenizowania rozmów, rolę osoby udzielającej informacji może odgrywać jeden z członków komisji walidacyjnej. Zadanie praktyczne musi być uzupełnione prezentacją."
+        },
+        {
+         "type": "text",
+         "text": "W przypadku walidacji metodą analizy dowodów i deklaracji instytucja certyfikująca opracowuje i udostępnia wykaz dowodów uznawanych za wiarygodne oraz określa warunki, jakie muszą spełniać te dowody (np. okres ważności dowodów). Za wiarygodne mogą być uznane następujące dowody:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_1/tir_6",
+       "text": "dokumenty potwierdzające opracowanie projektów procesów technologicznych przy użyciu symulatorów procesowych (np. próbki projektów, raporty lub wydruki z programów, referencje, zaświadczenia, nagrody),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_1/tir_7",
+       "text": "dokumenty potwierdzające, w wyniku wiarygodnej weryfikacji, efekty uczenia się.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.2. Zasoby kadrowe"
+        },
+        {
+         "type": "text",
+         "text": "Osoby przygotowujące narzędzia walidacji."
+        },
+        {
+         "type": "text",
+         "text": "W procesie przygotowania narzędzi walidacji musi uczestniczyć co najmniej:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_1/tir_8",
+       "text": "osoba zawodowo wykonująca lub nadzorująca zadania z zakresu obsługi specjalistycznych programów symulacyjnych oraz symulatorów procesowych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_1/tir_9",
+       "text": "osoba zatrudniona w biurze projektowym (działającym w strukturach zakładów produkcyjnych lub niezależnie), wykonującym projekty przy użyciu symulatorów procesowych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "10",
+       "path": "ust_1/tir_10",
+       "text": "osoba nadzorująca przebieg procesu technologicznego,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "11",
+       "path": "ust_1/tir_11",
+       "text": "osoba posiadająca doświadczenie w przygotowywaniu narzędzi walidacji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Osoby oceniające dowody i deklaracje."
+        },
+        {
+         "type": "text",
+         "text": "Zadaniem osób oceniających dowody i deklaracje jest ocena rzetelności, wiarygodności i aktualności dowodów i deklaracji poświadczających posiadanie efektów uczenia się (podczas stosowania metody analizy dowodów i deklaracji). Każdorazowo oceny dowodów i deklaracji powinny dokonywać minimum 2 osoby."
+        },
+        {
+         "type": "text",
+         "text": "Osobą oceniającą dowody i deklaracje może być osoba, która posiada:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "12",
+       "path": "ust_1/tir_12",
+       "text": "udokumentowane minimum 2-letnie doświadczenie zawodowe w obszarze inżynierii chemicznej lub procesowej, zdobyte w okresie nie dłuższym niż 5 lat przed dniem walidacji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "13",
+       "path": "ust_1/tir_13",
+       "text": "udokumentowane minimum 2-letnie doświadczenie w weryfikowaniu efektów uczenia się lub ocenie kompetencji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "14",
+       "path": "ust_1/tir_14",
+       "text": "wiedzę dotyczącą zasad weryfikacji dowodów na osiągnięcie efektów uczenia się.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca musi zapewnić obecność osób oceniających dowody i deklaracje tylko w przypadku, gdy walidacja przeprowadzana jest metodą analizy dowodów i deklaracji. Osoby te mogą być również członkami komisji walidacyjnej, o ile spełniają wymagania określone dla członków komisji walidacyjnej."
+        },
+        {
+         "type": "text",
+         "text": "Komisja walidacyjna."
+        },
+        {
+         "type": "text",
+         "text": "Weryfikację efektów uczenia się przeprowadza komisja walidacyjna składająca się z co najmniej 3 osób."
+        },
+        {
+         "type": "text",
+         "text": "Do zadań komisji walidacyjnej należy sprawdzenie, czy efekty uczenia się zostały osiągnięte, oraz wydanie decyzji kończącej walidację."
+        },
+        {
+         "type": "text",
+         "text": "Członkiem komisji walidacyjnej może być osoba, która posiada:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "15",
+       "path": "ust_1/tir_15",
+       "text": "udokumentowane minimum 2-letnie doświadczenie w zakresie kwalifikacji wolnorynkowej „Projektowanie i optymalizacja procesów technologicznych w przemyśle chemicznym przy użyciu symulatorów procesowych” lub innych kwalifikacji w obszarze inżynierii chemicznej lub procesowej, np. na stanowisku specjalisty technologa lub kierownika procesu technologicznego (instalacji), oraz",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "16",
+       "path": "ust_1/tir_16",
+       "text": "umiejętności stosowania metod walidacji, oraz",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "17",
+       "path": "ust_1/tir_17",
+       "text": "udokumentowane minimum 2-letnie doświadczenie, zdobyte w okresie nie dłuższym niż 5 lat przed dniem przeprowadzenia walidacji, w zarządzaniu lub nadzorowaniu procesów produkcyjnych w przemyśle chemicznym lub projektowaniu procesów technologicznych w przemyśle chemicznym przy użyciu symulatorów procesowych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Co najmniej jedna osoba w komisji walidacyjnej posiada doświadczenie w samodzielnym wykonywaniu projektów przy użyciu symulatorów procesowych (minimum 6 projektów wykonanych w okresie 3 lat przed dniem przeprowadzenia walidacji)."
+        },
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji oraz warunki organizacyjne i materialne niezbędne do prawidłowego prowadzenia walidacji"
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca zapewnia uczestnikom walidacji, realizującym zadanie praktyczne, pracownię, w której znajduje się stanowisko komputerowe wyposażone w stół, krzesło, komputer z dostępem do Internetu i z zainstalowanym symulatorem procesowym posiadającym funkcje umożliwiające przeprowadzenie walidacji wszystkich efektów uczenia się określonych dla kwalifikacji wolnorynkowej oraz pakietem programów biurowych, drukarkę lub dostęp do drukarki sieciowej, rzutnik oraz ekran. Wielkość oraz układ pracowni powinny umożliwiać samodzielną pracę każdemu uczestnikowi walidacji."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "Instytucja certyfikująca może zapewnić wsparcie osobie przystępującej do procesu walidacji w zakresie identyfikowania oraz dokumentowania posiadanych efektów uczenia się. Korzystanie z tego wsparcia nie jest obowiązkowe."
+      },
+      {
+       "type": "text",
+       "text": "2.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "Etapy identyfikowania i dokumentowania mogą być realizowane w oparciu o dowolne metody zapewniające osiągnięcie celów tych etapów walidacji."
+      },
+      {
+       "type": "text",
+       "text": "2.2. Zasoby kadrowe"
+      },
+      {
+       "type": "text",
+       "text": "Doradca walidacyjny."
+      },
+      {
+       "type": "text",
+       "text": "Zadaniem doradcy walidacyjnego jest wsparcie osoby przystępującej do procesu walidacji na każdym etapie tego procesu. Doradca walidacyjny pomaga w zidentyfikowaniu posiadanych efektów uczenia się oraz w ich rzetelnym udokumentowaniu na potrzeby procesu walidacji. Pomaga również w określeniu innych, możliwych do potwierdzenia kwalifikacji wolnorynkowej oraz perspektyw rozwoju i dalszego uczenia się po uzyskaniu kwalifikacji wolnorynkowej. Udziela informacji dotyczących przebiegu walidacji, wymagań związanych z przystąpieniem do weryfikacji efektów uczenia się oraz kryteriów i sposobów oceny."
+      },
+      {
+       "type": "text",
+       "text": "Funkcję doradcy walidacyjnego pełni osoba, która posiada:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_2/tir_1",
+       "text": "doświadczenie zawodowe związane z bilansowaniem kompetencji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_2/tir_2",
+       "text": "doświadczenie w weryfikowaniu efektów uczenia się lub ocenie posiadanych kompetencji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_2/tir_3",
+       "text": "umiejętność stosowania metod i narzędzi wykorzystywanych przy identyfikowaniu i dokumentowaniu posiadanych kompetencji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_2/tir_4",
+       "text": "wiedzę dotyczącą kwalifikacji wolnorynkowej „Projektowanie i optymalizacja procesów technologicznych w przemyśle chemicznym przy użyciu symulatorów procesowych” oraz innych kwalifikacji funkcjonujących w obszarze przemysłu chemicznego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.3. Warunki organizacyjne i materialne etapu identyfikowania i dokumentowania"
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca może zapewnić osobom przystępującym do walidacji wsparcie na etapie identyfikowania i dokumentowania. Etap ten może być również realizowany przez te osoby samodzielnie. Instytucja certyfikująca, która zdecyduje się na wsparcie osób w procesie identyfikowania i dokumentowania, powinna zapewnić warunki umożliwiające im indywidualną rozmowę z doradcą walidacyjnym. Instytucja certyfikująca może również udzielać wsparcia telefonicznie lub zdalnie – za pośrednictwem Internetu, w warunkach zapewniających poufność rozmowy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak warunków."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak innych, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji wolnorynkowej"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu potwierdzającego nadanie kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat jest ważny 3 lata. Warunkiem przedłużenia ważności certyfikatu jest złożenie, przed upływem terminu ważności, wniosku o przedłużenie ważności certyfikatu wraz z dokumentami potwierdzającymi wykonywanie, w okresie 12 miesięcy poprzedzających dzień złożenia wniosku, co najmniej 2 projektów obejmujących zaprojektowanie lub optymalizację procesu technologicznego w przemyśle chemicznym przy użyciu symulatora procesowego. Ważność certyfikatu przedłużana jest na kolejne 3 lata. W przypadku utraty ważności certyfikatu możliwe jest ponowne jego uzyskanie pod warunkiem ponownego przystąpienia do procesu walidacji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Finansów i Gospodarki kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Finansów i Gospodarki (Dz. U. poz. 997)."
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "eli": "MP/2025/1037",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 września 2025 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1037/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 września 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2022 r. poz. 990, z późn. zm.[^1]) w art. 144:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Posiedzenia Komisji Etyki Poselskiej, na których rozpatruje się sprawy posłów, którzy zachowują się w sposób nieodpowiadający godności posła lub sprawy wynikające z majątkowych oświadczeń poselskich, są zamknięte. Przepisu art. 154 ust. 1 nie stosuje się, z tym że w posiedzeniu Komisji, w celu przedstawienia wyjaśnień, może uczestniczyć poseł, którego sprawa dotyczy.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w ust. 1a wyrazy „ , o których mowa w ust. 1,” zastępuje się wyrazami „wynikających z majątkowych oświadczeń poselskich”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: S. Hołownia"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2022 r. poz. 1092 i 1204, z 2023 r. poz. 273, 724 i 1360, z 2024 r. poz. 570, 667 i 751 oraz z 2025 r. poz. 235, 280, 373, 524 i 608."
+ }
+}

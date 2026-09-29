@@ -1,0 +1,497 @@
+{
+ "eli": "MP/2026/884",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 13 sierpnia 2026 r. w sprawie włączenia kwalifikacji sektorowej \"Projektowanie i tworzenie gier komputerowych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/884/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 sierpnia 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji sektorowej „Projektowanie i tworzenie gier komputerowych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji sektorowej „Projektowanie i tworzenie gier komputerowych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: K. Gawkowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 13 sierpnia 2026 r. (M.P. poz. 884)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI SEKTOROWEJ „PROJEKTOWANIE I TWORZENIE GIER KOMPUTEROWYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Projektowanie i tworzenie gier komputerowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację sektorową „Projektowanie i tworzenie gier komputerowych” dysponuje szeroką wiedzą na temat całego cyklu produkcyjnego gier komputerowych – od preprodukcji, przez produkcję aż po postprodukcję i dystrybucję. Potrafi stworzyć koncepcję gry komputerowej oraz jej prototyp. Rozumie złożoność i interdyscyplinarny charakter pracy nad grami komputerowymi. Projektuje pipeline oraz środowisko gry komputerowej, tj. mechaniki, świat gry komputerowej, grafikę oraz efekty dźwiękowe. Podczas wykonywania zadań zawodowych wykorzystuje nowoczesne narzędzia i technologie, takie jak silniki gier Unity czy Unreal Engine. Samodzielnie przeprowadza testy funkcjonalne, wydajności i zgodności oraz identyfikuje i dokumentuje błędy. Potrafi przygotować grę komputerową do wydania, wydać ją na platformie dystrybucyjnej oraz wydawać poprawki (patch). Identyfikuje potrzeby użytkowników i dostosowuje do nich projektowane rozwiązania. Posiada wiedzę dotyczącą zapewniania wsparcia po wydaniu gry komputerowej. Rozumie znaczenie budowania społeczności wokół tworzonych gier komputerowych oraz angażowania użytkowników w proces testowania tych gier."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Realizacja procesu preprodukcji gier komputerowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Tworzy koncepcję – tworzy game pitch, określając m.in. gatunek gry, jej założenia, stylistykę i wstępny scenariusz, projektu gry – wskazuje, co wyróżnia daną grę komputerową na tle innych gier komputerowych lub gatunku gier komputerowych (Unique Selling Point), komputerowej – omawia elementy dokumentacji gry komputerowej oraz Game Design Document, w tym opis mechanik, opis game loop, nomenklaturę obowiązującą w grze i słownik,"
+      },
+      {
+       "type": "text",
+       "text": "– przygotowuje dokumentację projektową gry komputerowej, w tym Game Design Document,"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera silnik gry komputerowej, w tym Unreal Engine i Unity, na podstawie jej opisu,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia elementy wymagające sprawdzenia w zakresie badania rynku, w tym przegląd informacji o tematyce gier komputerowych, przegląd istniejących gier komputerowych i określenie zapotrzebowania na grę komputerową,"
+      },
+      {
+       "type": "text",
+       "text": "– charakteryzuje aspekty praw autorskich do utworu, który może zostać wykorzystany w grze komputerowej,"
+      },
+      {
+       "type": "text",
+       "text": "– opracowuje tytuł, opis i klasyfikację gatunkową gry komputerowej, w tym przygodowej, i multiplayer."
+      },
+      {
+       "type": "text",
+       "text": "Tworzy prototyp gry – projektuje mechanikę gry komputerowej, komputerowej – tworzy game loop, – tworzy Minimum Viable Product (MVP)."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Realizacja procesu produkcji gier komputerowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Projektuje pipeline – dobiera system komunikacji między pracownikami, – tworzy zasady dodawania assetów do gry komputerowej, – tworzy zasady integracji elementów gry komputerowej, – rozdziela między członków zespołu odpowiedzialność za poszczególne elementy gry komputerowej, – ustala sposób kontroli wersji, w tym Git i Perforce."
+      },
+      {
+       "type": "text",
+       "text": "Projektuje i tworzy – charakteryzuje etapy tworzenia elementów game designu, środowisko gry – charakteryzuje etapy tworzenia elementów level designu, w tym projektowanie, implementowanie, testowanie i modyfikowanie, komputerowej – projektuje element game designu (pojedynczą mechanikę), w tym strzelanie, chodzenie i używanie przycisku, – implementuje element game designu w silniku gry komputerowej, – testuje element game designu, – poprawia element game designu na podstawie testów, – projektuje level design, – implementuje level design w silniku gry komputerowej, – testuje level design, – poprawia level design na podstawie testów, – tworzy concept art, w tym lokację, postacie, maszyny i statki, – poprawia concept art, – tworzy assety na podstawie concept artów, w tym modele 3D, sprite’y, Visual Effects (VFX), level arty i animacje, – tworzy assety dźwiękowe takie jak muzyka oraz Sound Effects (SFX), – poprawia assety na podstawie concept artów, – układa level na podstawie concept artu i level designu ze stworzonych assetów w silniku gry komputerowej, – projektuje interfejs użytkownika (UI), – implementuje interfejs użytkownika w silniku gry komputerowej, – poprawia interfejs użytkownika na podstawie testów, – aktualizuje scenariusz gry komputerowej, – aktualizuje opcjonalne elementy gry komputerowej, w tym mechaniki i poziomy."
+      },
+      {
+       "type": "text",
+       "text": "Testuje grę – testuje poszczególne mechaniki, komputerową – testuje możliwość przejścia poszczególnych wybranych poziomów,"
+      },
+      {
+       "type": "text",
+       "text": "– testuje elementy gry komputerowej,"
+      },
+      {
+       "type": "text",
+       "text": "– charakteryzuje proces testowania całej gry komputerowej,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia zastosowanie testów haptycznych, w tym funkcji wibracji kontrolera,"
+      },
+      {
+       "type": "text",
+       "text": "– testuje tryb multiplayer,"
+      },
+      {
+       "type": "text",
+       "text": "– testuje interfejs użytkownika (UI), w tym menu, opcje pauzy, tutoriale, podpowiedzi, napisy, ekrany ładowania i paski postępu,"
+      },
+      {
+       "type": "text",
+       "text": "– testuje dźwięk, w tym dialogi, narracje i muzykę,"
+      },
+      {
+       "type": "text",
+       "text": "– testuje efekty dźwiękowe (SFX),"
+      },
+      {
+       "type": "text",
+       "text": "– testuje grafikę 2D, w tym poprawne wyświetlanie sprite’ów, kolizji i animacji,"
+      },
+      {
+       "type": "text",
+       "text": "– testuje grafikę 3D, w tym prawidłowe rozłożenie tekstury na modelu 3D (UV), kolizje „z-fighting”, meshowanie (model 3D bez tekstury) i animacje,"
+      },
+      {
+       "type": "text",
+       "text": "– testuje Visual Effects (VFX),"
+      },
+      {
+       "type": "text",
+       "text": "– sprawdza stan placeholderów,"
+      },
+      {
+       "type": "text",
+       "text": "– wykonuje testy grywalności,"
+      },
+      {
+       "type": "text",
+       "text": "– zgłasza problemy (bugi) przez system kontroli zadań (Jira, Redmine, Trello) i opisuje kroki do zreprodukowania danego problemu,"
+      },
+      {
+       "type": "text",
+       "text": "– sprawdza performance gry komputerowej,"
+      },
+      {
+       "type": "text",
+       "text": "– weryfikuje, czy gra komputerowa działa odpowiednio szybko (Frames Per Second),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia przeprowadzanie testów na różnych urządzeniach."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Postprodukcja gier komputerowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowuje grę – charakteryzuje pojęcia: deadline, milestone i content-lock, komputerową do – omawia procedurę certyfikacji gry komputerowej na platformie dystrybucyjnej, w tym PlayStation, Xbox i Nintendo, wydania oraz wydaje ją – aktualizuje dokumentację projektu w celu zapewnienia zgodności z wersją finalną, na platformie dystrybucyjnej – tworzy build (finalną wersję wykonywalną gry komputerowej) na platformy dystrybucyjne, w tym PlayStation, Xbox, Nintendo i Windows, – opracowuje materiały promocyjne na potrzeby platformy dystrybucyjnej, w tym banner, logo, opis i tagi,"
+      },
+      {
+       "type": "text",
+       "text": "– przesyła gotową grę komputerową na platformę dystrybucyjną, w tym itch.io."
+      },
+      {
+       "type": "text",
+       "text": "Wydaje poprawki – poprawia błędy m.in. na podstawie informacji zwrotnych od użytkowników, logów i testów własnych, do gry komputerowej – wgrywa aktualizacje. (day-one patch) Charakteryzuje – omawia konieczność naprawy błędów, działania związane – omawia możliwości rozwoju gry komputerowej, w tym dodawania nowego contentu (update), nowego poziomu i nowej postaci, z zapewnieniem – omawia czynności niezbędne do utrzymania gry komputerowej w trybie multiplayer, wsparcia po wydaniu gry komputerowej (support) – omawia konieczność monitorowania i obsługi społeczności graczy (community management)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody przeprowadzania walidacji"
+      },
+      {
+       "type": "text",
+       "text": "Walidacja efektów uczenia się jest podzielona na dwie części – teoretyczną i praktyczną."
+      },
+      {
+       "type": "text",
+       "text": "W części teoretycznej walidacja odbywa się za pomocą testu wiedzy."
+      },
+      {
+       "type": "text",
+       "text": "W części praktycznej walidacja polega na ocenie studium przypadku."
+      },
+      {
+       "type": "text",
+       "text": "Część praktyczna może obejmować również:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "prezentację połączoną z wywiadem swobodnym lub ustrukturyzowanym (rozmowa z komisją walidacyjną),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "analizę dowodów i deklaracji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.2. Osoby przeprowadzające walidację"
+        },
+        {
+         "type": "text",
+         "text": "Weryfikację efektów uczenia się przeprowadza asesor walidacyjny."
+        },
+        {
+         "type": "text",
+         "text": "Asesor walidacyjny posiada:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "kwalifikację pełną na 6 poziomie Polskich Ram Kwalifikacji w obszarze Game Designu, Computer Games Artu, Digital Artu lub obszarze pokrewnym albo ukończone studia podyplomowe na kierunku informatycznym,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "minimum 5-letnie udokumentowane doświadczenie zawodowe w obszarze zgodnym z zakresem merytorycznym kwalifikacji lub minimum 2-letnie udokumentowane doświadczenie zawodowe w obszarze kwalifikacji sektorowej „Projektowanie i tworzenie gier komputerowych”.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.3. Warunki organizacyjne i materialne niezbędne do prawidłowego i bezpiecznego przeprowadzania walidacji"
+        },
+        {
+         "type": "text",
+         "text": "Walidacja efektów uczenia się odbywa się w trybie stacjonarnym albo zdalnym pod nadzorem asesora walidacyjnego zgodnie z wytycznymi instytucji prowadzącej walidację, przy czym minimalny zakres wytycznych określono poniżej."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja prowadząca walidację zapewnia udogodnienia dla osób niepełnosprawnych i posiada wytyczne ich zastosowania. Udogodnienia są dostosowane do rodzaju niepełnosprawności kandydata. Instytucja prowadząca walidację zapewnia lokal o odpowiednich warunkach do przeprowadzenia walidacji, z uwzględnieniem potrzeb osób niepełnosprawnych (w przypadku walidowania takich osób). Instytucja prowadząca walidację zapewnia warunki gwarantujące samodzielność pracy zdającego."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja prowadząca walidację zapewnia stanowisko komputerowe (jedno stanowisko dla jednego kandydata i jedno stanowisko dla asesora walidacyjnego) wyposażone w:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "komputer z przeglądarką internetową z dostępem do internetu wraz z systemem operacyjnym,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_1/tir_6",
+       "text": "pakiet oprogramowania lub zestaw programów, na których będzie przeprowadzana walidacja, o minimalnej funkcjonalności umożliwiającej przeprowadzenie walidacji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_1/tir_7",
+       "text": "materiały umożliwiające wykonanie zadań praktycznych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Parametry łącza internetowego dla każdego stanowiska komputerowego wynoszą:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_1/tir_8",
+       "text": "prędkość pobierania danych – co najmniej 15 Mb/s,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_1/tir_9",
+       "text": "prędkość wysyłania danych – co najmniej 2 Mb/s.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Lokal musi być dostosowany do liczby zdających."
+        },
+        {
+         "type": "text",
+         "text": "Test wiedzy może być przeprowadzony przy wykorzystaniu platformy egzaminacyjnej dostępnej online, jeżeli zapewnia ona:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "10",
+       "path": "ust_1/tir_10",
+       "text": "przeprowadzenie weryfikacji efektów uczenia się w czasie rzeczywistym,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "11",
+       "path": "ust_1/tir_11",
+       "text": "automatyczne ocenianie poprawności udzielonych odpowiedzi na pytania zawarte w teście wiedzy,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "12",
+       "path": "ust_1/tir_12",
+       "text": "dokonanie oceny rezultatów wykonania zadań praktycznych przez asesora walidacyjnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Metody identyfikowania i dokumentowania efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Etap identyfikowania i dokumentowania może być realizowany na podstawie odpowiednich metod służących zidentyfikowaniu osiągniętych efektów uczenia się, w tym analizy dokumentów i wywiadu z kandydatem."
+      },
+      {
+       "type": "text",
+       "text": "2.2. Osoby zapewniające identyfikowanie i dokumentowanie efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Instytucja prowadząca walidację zapewnia doradcę walidacyjnego."
+      },
+      {
+       "type": "text",
+       "text": "Doradca walidacyjny posiada:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_2/tir_1",
+       "text": "certyfikat lub inny dokument potwierdzający posiadanie wiedzy i umiejętności odpowiadających Europejskiej Ramie Kompetencji Cyfrowych dla Obywateli – DigComp – na poziomie średnio zaawansowanym oraz",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_2/tir_2",
+       "text": "wiedzę z obszaru Zintegrowanego Systemu Kwalifikacji oraz metod i narzędzi stosowanych w procesie walidacji efektów uczenia się, w tym udokumentowane przeszkolenie przez instytucję prowadzącą walidację w zakresie Zintegrowanego Systemu Kwalifikacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełnić osoba przystępująca do walidacji, jeżeli zostały określone, albo informacja o braku takich warunków",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak warunków"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji sektorowej, jeżeli zostały określone, albo informacja o braku takich warunków",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji sektorowej"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu kwalifikacji sektorowej – bezterminowy lub określony – oraz warunki przedłużenia ważności, jeżeli okres ważności certyfikatu został określony",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat jest ważny 5 lat."
+      },
+      {
+       "type": "text",
+       "text": "Warunkiem przedłużenia ważności certyfikatu jest:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_7/tir_1",
+       "text": "przedstawienie dowodów na uczestniczenie w tworzeniu co najmniej 3 gier komputerowych w ciągu ostatnich 5 lat (ze wskazaniem technologii) lub",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_7/tir_2",
+       "text": "przedstawienie dowodów potwierdzających realizację w okresie niekrótszym niż 3 lata w ciągu ostatnich 5 lat zadań zawodowych w obszarze zgodnym z zakresem merytorycznym kwalifikacji, w tym referencji od pracodawcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji sektorowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nierzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720)."
+ }
+}

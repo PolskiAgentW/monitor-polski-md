@@ -1,0 +1,849 @@
+{
+ "eli": "MP/2026/560",
+ "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 28 maja 2026 r. w sprawie ogłoszenia jednolitego tekstu uchwały Zarządu Narodowego Banku Polskiego w sprawie regulaminu Zarządu Narodowego Banku Polskiego",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/560/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 maja 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu uchwały Zarządu Narodowego Banku Polskiego w sprawie regulaminu Zarządu Narodowego Banku Polskiego"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst uchwały nr 2/2023 Zarządu Narodowego Banku Polskiego z dnia 18 stycznia 2023 r. w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M.P. z 2026 r. poz. 163), z uwzględnieniem zmian wprowadzonych uchwałą nr 9/2026 Zarządu Narodowego Banku Polskiego z dnia 29 kwietnia 2026 r. zmieniającą uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M.P. poz. 447).",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity uchwały nie obejmuje § 2 uchwały nr 9/2026 Zarządu Narodowego Banku Polskiego z dnia 29 kwietnia 2026 r. zmieniającej uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M.P. poz. 447), który stanowi:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 2. Uchwała wchodzi w życie z dniem ogłoszenia.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: A. Glapiński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Narodowego Banku Polskiego z dnia 28 maja 2026 r. (M.P. poz. 560)",
+   "body": [
+    {
+     "type": "text",
+     "text": "UCHWAŁA NR 2/2023"
+    },
+    {
+     "type": "text",
+     "text": "ZARZĄDU NARODOWEGO BANKU POLSKIEGO"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 18 stycznia 2023 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie regulaminu Zarządu Narodowego Banku Polskiego"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 20 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025 oraz z 2026 r. poz. 340) uchwala się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ustala się regulamin Zarządu Narodowego Banku Polskiego, stanowiący załącznik do uchwały.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Traci moc uchwała Zarządu Narodowego Banku Polskiego z dnia 24 września 2013 r. w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M.P. z 2022 r. poz. 234, 383 i 1242).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Uchwała wchodzi w życie z dniem ogłoszenia[^1].",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do uchwały nr 2/2023 Zarządu Narodowego Banku Polskiego z dnia 18 stycznia 2023 r. (M.P. z 2026 r. poz. 560)",
+   "body": [
+    {
+     "type": "text",
+     "text": "REGULAMIN ZARZĄDU NARODOWEGO BANKU POLSKIEGO"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Regulamin określa szczegółowy tryb działania Zarządu Narodowego Banku Polskiego, zwanego dalej „Zarządem”.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Członek Zarządu realizuje politykę ustaloną przez Zarząd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Członek Zarządu reprezentuje w swoich wystąpieniach stanowisko zgodne z ustaleniami przyjętymi przez Zarząd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "Członkowie Zarządu otrzymują z właściwych departamentów i jednostek organizacyjnych wszystkie istotne materiały, opracowania i informacje.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "[^2] Posiedzenia Zarządu odbywają się nierzadziej niż dwa razy w miesiącu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "[^3] Posiedzenia Zarządu zwołuje i prowadzi Przewodniczący Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "W przypadku nieobecności Przewodniczącego Zarządu zastępuje go wiceprezes NBP – pierwszy zastępca Prezesa NBP, a w razie ich nieobecności – wiceprezes NBP. W przypadku nieobecności także wiceprezesa NBP Przewodniczącego Zarządu zastępuje członek Zarządu wyznaczony wcześniej decyzją Przewodniczącego Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Posiedzenia Zarządu są zwoływane także w trybie nadzwyczajnym:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_3/pkt_1",
+         "text": "z inicjatywy Przewodniczącego Zarządu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_3/pkt_2",
+         "text": "na pisemny wniosek co najmniej trzech członków Zarządu, przekazany Przewodniczącemu Zarządu. Wniosek określa przedmiot posiedzenia Zarządu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_4/ust_4",
+       "text": "Przewodniczący Zarządu zwołuje posiedzenia w trybie określonym w ust. 3 pkt 2, niepóźniej niż w ciągu trzech dni od dnia otrzymania wniosku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_4/ust_5",
+       "text": "Do posiedzeń zwołanych w trybie określonym w ust. 3:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_5/pkt_1",
+         "text": "stosuje się, w miarę możliwości, § 13 ust. 1;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_5/pkt_2",
+         "text": "nie stosuje się terminów, o których mowa w § 14 i § 15 ust. 1.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Posiedzenia Zarządu odbywają się w obecności co najmniej połowy składu Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Członkowie Zarządu przy głosowaniu za przyjęciem uchwały mogą głosować „za” albo „przeciw”, albo wstrzymać się od głosu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "W posiedzeniach Zarządu uczestniczą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_6/ust_1/pkt_1",
+         "text": "dyrektor Departamentu Generalnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_6/ust_1/pkt_2",
+         "text": "dyrektor departamentu lub dyrektor jednostki organizacyjnej, który opracował materiał rozpatrywany na posiedzeniu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_6/ust_1/pkt_3",
+         "text": "dyrektor departamentu lub dyrektor jednostki organizacyjnej, który zgłosił w toku uzgodnienia rozbieżne stanowisko do materiału rozpatrywanego na posiedzeniu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_6/ust_1/pkt_4",
+         "text": "dyrektor Departamentu Prawnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_6/ust_1/pkt_5",
+         "text": "(uchylony);",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_6/ust_1/pkt_6",
+         "text": "(uchylony).",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "W posiedzeniach Zarządu mogą uczestniczyć inne osoby zaproszone przez Zarząd lub Przewodniczącego Zarządu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "Za zgodą Przewodniczącego Zarządu udział w posiedzeniu Zarządu może odbywać się przy wykorzystaniu środków bezpośredniego porozumienia się na odległość, na zasadach określonych w odrębnych przepisach.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "Obrady Zarządu są prowadzone w trybie jawnym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Przewodniczący Zarządu zarządza prowadzenie obrad nad poszczególnymi punktami porządku lub całością obrad w trybie niejawnym, jeżeli prowadzenie obrad w tym trybie wynika z przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2025 r. poz. 1209), zwanej dalej „ustawą o ochronie informacji niejawnych”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_8/ust_3",
+       "text": "W posiedzeniach lub części posiedzeń Zarządu, o których mowa w ust. 2, mogą uczestniczyć wyłącznie osoby uprawnione do dostępu do informacji niejawnych, zgodnie z przepisami ustawy o ochronie informacji niejawnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_8/ust_4",
+       "text": "Przewodniczący Zarządu może zarządzić prowadzenie obrad Zarządu przy wykorzystaniu środków bezpośredniego porozumienia się na odległość, na zasadach określonych w odrębnych przepisach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "Zarząd rozpoczyna posiedzenie od przyjęcia porządku obrad zaproponowanego przez Przewodniczącego Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "Przewodniczący Zarządu może w trakcie posiedzenia wprowadzić do porządku obrad sprawy nieprzewidziane w porządku obrad.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_10/ust_1",
+       "text": "Z posiedzenia Zarządu Departament Generalny sporządza projekt protokołu w terminie umożliwiającym jego przyjęcie na następnym posiedzeniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_10/ust_2",
+       "text": "W uzasadnionych przypadkach termin wskazany w ust. 1 może być przedłużony za zgodą Przewodniczącego Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_10/ust_3",
+       "text": "Departament Generalny przedstawia Przewodniczącemu Zarządu protokół do podpisania niezwłocznie po przyjęciu go przez Zarząd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_10/ust_4",
+       "text": "Sporządzanie, przyjmowanie i podpisywanie protokołów oznaczonych klauzulami tajności jest dokonywane z zachowaniem zasad określonych odrębnymi przepisami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "Protokół zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/pkt_1",
+       "text": "datę posiedzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/pkt_2",
+       "text": "imiona i nazwiska osób biorących udział w posiedzeniu oraz dyskusji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/pkt_3",
+       "text": "porządek obrad;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/pkt_4",
+       "text": "informacje o sprawach będących przedmiotem posiedzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/pkt_5",
+       "text": "podjęte przez Zarząd:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_11/pkt_5/lit_a",
+         "text": "uchwały normatywne i nienormatywne, jako załączniki do protokołu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_11/pkt_5/lit_b",
+         "text": "nienormatywne uchwały zarządcze",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– wraz z wynikami głosowań;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/pkt_6",
+       "text": "zgłoszone do uchwał i sporządzone przez zgłaszającego zdanie odrębne, zgodne z treścią tego zdania przedstawioną w trakcie posiedzenia, jako załącznik do protokołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_11/pkt_7",
+       "text": "informacje o uchwałach Zarządu podjętych w trybie obiegowym do daty posiedzenia, z którego sporządzono protokół;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_11/pkt_8",
+       "text": "informacje o prowadzeniu obrad Zarządu w sposób, o którym mowa w § 8 ust. 4;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_11/pkt_9",
+       "text": "imiona i nazwiska osób biorących udział w posiedzeniu Zarządu prowadzonym w sposób, o którym mowa w § 7.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_12/ust_1",
+       "text": "Oryginały protokołów przechowuje Departament Generalny, z wyjątkiem oznaczonych klauzulami „poufne”, „tajne” lub „ściśle tajne”, przechowywanych w kancelarii tajnej oraz udostępnianych z zachowaniem zasad określonych w odrębnych przepisach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_12/ust_2",
+       "text": "Protokoły jawne lub oznaczone klauzulą „zastrzeżone” otrzymują:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_12/ust_2/pkt_1",
+         "text": "Przewodniczący Zarządu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_12/ust_2/pkt_2",
+         "text": "członkowie Zarządu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_12/ust_2/pkt_3",
+         "text": "członkowie Rady Polityki Pieniężnej, w zakresie dotyczącym projektów uchwał i innych materiałów, o których mowa w § 16 ust. 1,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_12/ust_2/pkt_4",
+         "text": "dyrektorzy departamentów,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_12/ust_2/pkt_5",
+         "text": "dyrektorzy jednostek organizacyjnych",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– z zachowaniem zasad określonych w odrębnych przepisach w odniesieniu do protokołów oznaczonych klauzulą „zastrzeżone”."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_12/ust_3",
+       "text": "Protokoły jawne są udostępniane w sposób określony przez Departament Generalny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_13/ust_1",
+       "text": "Materiały przygotowane do rozpatrzenia przez Zarząd przed złożeniem w Departamencie Generalnym wymagają uzgodnienia z zainteresowanymi departamentami i jednostkami organizacyjnymi. Istotne rozbieżności stanowisk zgłoszonych w toku uzgodnienia należy przedstawić w notatce dołączonej do materiałów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_13/ust_2",
+       "text": "Projekt porządku obrad oraz materiały na posiedzenie Zarządu Departament Generalny przedkłada do akceptacji Przewodniczącemu Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_13/ust_3",
+       "text": "Materiały na posiedzenie Zarządu są przygotowywane w trybie niejawnym, jeżeli wynika to z przepisów ustawy o ochronie informacji niejawnych, zgodnie z zasadami określonymi w odrębnych przepisach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_13/ust_4",
+       "text": "Materiały przygotowane do rozpatrzenia przez Zarząd wymagają zatwierdzenia stosownie do sprawowanego nadzoru przez Prezesa NBP, wiceprezesa NBP albo upoważnionego przez Prezesa NBP członka Zarządu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "Materiały przygotowane do rozpatrzenia przez Zarząd, sporządzone na nośniku papierowym w liczbie egzemplarzy ustalonej w porozumieniu z Departamentem Generalnym, powinny być złożone najpóźniej na cztery dni przed terminem posiedzenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/pkt_1",
+       "text": "w Departamencie Generalnym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_14/pkt_1/lit_a",
+         "text": "jawne wraz z wersją elektroniczną przekazaną za pośrednictwem wewnętrznej poczty elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_14/pkt_1/lit_b",
+         "text": "oznaczone klauzulą „zastrzeżone”, z zachowaniem zasad określonych w odrębnych przepisach;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/pkt_2",
+       "text": "w kancelarii tajnej oznaczone klauzulami „poufne”, „tajne” lub „ściśle tajne”, z zachowaniem zasad określonych w odrębnych przepisach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_15/ust_1",
+       "text": "Zawiadomienie o posiedzeniu Zarządu wraz z porządkiem obrad i pisemnymi materiałami w sprawach przewidzianych do rozpatrzenia powinno być doręczone przez Departament Generalny, z zastrzeżeniem ust. 2, członkom Zarządu oraz podmiotom wskazanym w § 6, najpóźniej na trzy dni przed jego terminem.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_15/ust_2",
+       "text": "Materiały, o których mowa w ust. 1, oraz projekty protokołu, oznaczone klauzulami „poufne”, „tajne” lub „ściśle tajne”, dostarcza kancelaria tajna, zgodnie z zasadami określonymi w odrębnych przepisach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_16/ust_1",
+       "text": "Projekty uchwał i innych materiałów na posiedzenie Rady Polityki Pieniężnej są rozpatrywane uprzednio przez Zarząd.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_16/ust_2",
+       "text": "Opinię Zarządu, w sprawach wymienionych w ust. 1, przedstawia na posiedzeniu Rady Polityki Pieniężnej Przewodniczący Zarządu lub każdorazowo wskazany przez niego członek Zarządu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "17",
+     "path": "par_17",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_17/ust_1",
+       "text": "Przewodniczący Zarządu w szczególnie uzasadnionych przypadkach może podjąć decyzję o rozpatrzeniu przez Zarząd projektu uchwały w drodze korespondencyjnego uzgodnienia (tryb obiegowy), określając termin zajęcia stanowiska.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1a",
+       "path": "par_17/ust_1a",
+       "text": "Na wniosek co najmniej trzech członków Zarządu projekt uchwały skierowany do rozpatrzenia w trybie, o którym mowa w ust. 1, zostaje skierowany do rozpatrzenia na najbliższym posiedzeniu Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_17/ust_2",
+       "text": "Projekt uchwały może być rozpatrzony w trybie obiegowym, jeżeli został uzgodniony ze wszystkimi opiniującymi departamentami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_17/ust_3",
+       "text": "Do rozpatrywania projektów uchwał w szczególnie uzasadnionych przypadkach wynikających z obiektywnych okoliczności zewnętrznych przepisu ust. 2 nie stosuje się.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "18",
+     "path": "par_18",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_18/ust_1",
+       "text": "Dyrektor Departamentu Generalnego niezwłocznie, po podjęciu decyzji o zastosowaniu trybu obiegowego, przedstawia członkom Zarządu projekt uchwały w celu zajęcia stanowiska na piśmie (głosowanie).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_18/ust_2",
+       "text": "Każdy z członków Zarządu uczestniczących w głosowaniu w trybie obiegowym otrzymuje własną kartę do głosowania. Karty do głosowania są sporządzane w formie tabeli opatrzonej datą oraz oznaczonej tytułem projektu uchwały podlegającego głosowaniu. Do głosowania za przyjęciem uchwały w trybie obiegowym przepis § 5 ust. 2 stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_18/ust_3",
+       "text": "Rozpatrzenie uchwały w trybie obiegowym jest skuteczne, jeżeli w terminie wyznaczonym dla zajęcia stanowiska głos oddała co najmniej połowa członków Zarządu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "19",
+     "path": "par_19",
+     "text": "Ustalone przez Radę Polityki Pieniężnej zadania dla NBP Zarząd przekazuje do wykonania właściwym departamentom i jednostkom organizacyjnym.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "20",
+     "path": "par_20",
+     "text": "Zadania departamentów i jednostek organizacyjnych wynikające z uchwał Zarządu podlegają wykonaniu bez odrębnego powiadamiania o ich treści.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "21",
+     "path": "par_21",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_21/ust_1",
+       "text": "Przy Zarządzie mogą działać organy opiniodawczo-doradcze.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_21/ust_2",
+       "text": "Organy opiniodawczo-doradcze powołuje Zarząd w drodze uchwały, która określa skład oraz zadania organu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "22",
+     "path": "par_22",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_22/ust_1",
+       "text": "Zarząd może powoływać zespoły robocze dla przygotowania koncepcji ważnych działań lub prac, wymagających podjęcia w NBP.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_22/ust_2",
+       "text": "W skład zespołów mogą wchodzić pracownicy NBP oraz eksperci zewnętrzni.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "23",
+     "path": "par_23",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_23/ust_1",
+       "text": "Departament Generalny sprawuje kontrolę terminowości realizacji przez departamenty i jednostki organizacyjne zadań wynikających z uchwał Zarządu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_23/ust_2",
+       "text": "Departamenty i jednostki organizacyjne, które realizują zadania wynikające z uchwał Zarządu, zawiadamiają Departament Generalny o sposobie ich wykonania niezwłocznie po zrealizowaniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_23/ust_3",
+       "text": "Departament Generalny przedstawia Zarządowi roczne sprawozdanie z wykonania zadań wynikających z uchwał Zarządu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "24",
+     "path": "par_24",
+     "text": "Obsługę kancelaryjno-organizacyjną Zarządu sprawuje Departament Generalny.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Uchwała została ogłoszona w dniu 8 lutego 2023 r.",
+  "2": "W brzmieniu ustalonym przez § 1 pkt 1 uchwały nr 9/2026 Zarządu Narodowego Banku Polskiego z dnia 29 kwietnia 2026 r. zmieniającej uchwałę w sprawie regulaminu Zarządu Narodowego Banku Polskiego (M.P. poz. 447), która weszła w życie z dniem 7 maja 2026 r.",
+  "3": "Ze zmianą wprowadzoną przez § 1 pkt 2 uchwały, o której mowa w odnośniku 2."
+ }
+}

@@ -1,0 +1,799 @@
+{
+ "eli": "MP/2025/762",
+ "title": "Uchwała nr 106 Rady Ministrów z dnia 8 sierpnia 2025 r. zmieniająca uchwałę w sprawie ustanowienia programu wieloletniego pod nazwą \"Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim\"",
+ "converter": "eli2md 0.6.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/762/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 106"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 sierpnia 2025 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustanowienia programu wieloletniego pod nazwą „Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 103 Rady Ministrów z dnia 20 czerwca 2023 r. w sprawie ustanowienia programu wieloletniego pod nazwą „Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim” (M.P. z 2025 r. poz. 45) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1 w ust. 2 wyrazy „2023–2029” zastępuje się wyrazami „2023–2030”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Łączny limit wydatków z budżetu państwa na wykonanie Programu w latach 2023–2030 wynosi 4 761 777 307 zł, w tym:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) w 2023 r. – 3 364 909 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) w 2024 r. – 30 092 084 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) w 2025 r. – 92 345 700 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) w 2026 r. – 965 272 893 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) w 2027 r. – 1 804 719 686 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) w 2028 r. – 1 397 450 617 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) w 2029 r. – 422 880 905 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) w 2030 r. – 45 650 513 zł.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w ust. 3:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_b/tir_1",
+         "text": "pkt 1–3 otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„1) w 2023 r. – 244 770 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "2) w 2024 r. – 167 157 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "3) w 2025 r. – 4 898 896 zł;”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_b/tir_2",
+         "text": "pkt 6 otrzymuje brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„6) w 2028 r. – 82 717 470 zł.”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "ust. 4 i 5 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Łączny limit wydatków z budżetu państwa na wykonanie Programu przez Generalnego Dyrektora Dróg Krajowych i Autostrad wynosi 636 882 660 zł, w tym:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) w 2023 r. – 0 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) w 2024 r. – 11 362 927 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) w 2025 r. – 7 635 938 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) w 2026 r. – 97 883 037 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) w 2027 r. – 216 337 946 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) w 2028 r. – 210 054 464 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) w 2029 r. – 72 081 405 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) w 2030 r. – 21 526 943 zł.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Łączny limit wydatków z budżetu państwa na wykonanie Programu przez spółkę PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie wynosi 3 217 852 258 zł, w tym:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) w 2023 r. – 3 120 139 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) w 2024 r. – 18 562 000 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) w 2025 r. – 79 810 866 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) w 2026 r. – 522 882 808 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) w 2027 r. – 1 113 874 692 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) w 2028 r. – 1 104 678 683 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) w 2029 r. – 350 799 500 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) w 2030 r. – 24 123 570 zł.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "w pkt 1 – Wstęp:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_3/lit_a/tir_1",
+         "text": "użyte w akapicie pierwszym wyrazy „2023–2029” zastępuje się wyrazami „2023–2030”,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_3/lit_a/tir_2",
+         "text": "w akapicie szóstym w pkt 3 po wyrazach „Nowa Wieś Lęborska” dodaje się wyrazy „ , Kartuzy, Chmielno, Sierakowice, Linia, Łęczyce”,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_3/lit_a/tir_3",
+         "text": "akapit ósmy i dziewiąty otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Wykonanie Programu jest finansowane ze środków budżetu państwa. Łączny limit wydatków z budżetu państwa na wykonanie Programu w latach 2023–2030 wynosi 4 761 777 307 zł. Na wyżej wymienioną kwotę składają się wydatki na wykonanie Programu przez:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "1) Dyrektora Urzędu Morskiego w Gdyni w wysokości 907 042 389 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "2) Generalnego Dyrektora Dróg Krajowych i Autostrad w wysokości 636 882 660 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "3) spółkę PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie w wysokości 3 217 852 258 zł.",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "Limit wydatków z budżetu państwa na wykonanie Programu w latach 2023–2030 wynosi 4 761 777 307 zł, w tym:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "1) w 2023 r. – 3 364 909 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "2) w 2024 r. – 30 092 084 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "3) w 2025 r. – 92 345 700 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "4) w 2026 r. – 965 272 893 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "5) w 2027 r. – 1 804 719 686 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "6) w 2028 r. – 1 397 450 617 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "7) w 2029 r. – 422 880 905 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "8) w 2030 r. – 45 650 513 zł.”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "par_1/pkt_3/lit_a/tir_4",
+         "text": "w akapicie dziesiątym wyrazy „Generalnego Dyrektora Dróg Krajowych i Autostrad – do 2029 r. oraz przez spółkę PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie – do 2029 r.” zastępuje się wyrazami „a przez Generalnego Dyrektora Dróg Krajowych i Autostrad oraz przez spółkę PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie – do 2030 r.”,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "w pkt 2.1 – Cel główny Programu w zdaniu drugim po wyrazach „Nowa Wieś Lęborska” dodaje się wyrazy „ , Kartuzy, Chmielno, Sierakowice, Linia”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "w pkt 2.2 – Cele szczegółowe:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_3/lit_c/tir_1",
+         "text": "w akapicie pierwszym w pkt 3 po wyrazach „Nowa Wieś Lęborska” dodaje się wyrazy „ , Kartuzy, Chmielno, Sierakowice, Linia, Łęczyce”,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_3/lit_c/tir_2",
+         "text": "w akapicie trzecim zdanie szóste otrzymuje brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Długość planowanej drogi to ok. 28 km, w tym odcinek od elektrowni jądrowej do drogi wojewódzkiej 213 – ok. 11 km i odcinek od drogi wojewódzkiej 213 do drogi S6 – ok. 17 km.”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_3/lit_c/tir_3",
+         "text": "akapit czwarty otrzymuje brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Program przewiduje również budowę lub przebudowę infrastruktury kolejowej zapewniającej dojazd do gmin: Nowa Wieś Lęborska, Kartuzy, Chmielno, Sierakowice, Linia, Łęczyce, Lębork, Wicko, Łeba, Wejherowo, Choczewo, Gniewino i Krokowa, w tym linii kolejowych wraz z sieciami trakcyjnymi, stacji pasażerskich, terminali towarowych i obiektów inżynieryjnych. Szacowana łączna długość linii kolejowych wynosi ok. 153 km. Zakres inwestycji kolejowej obejmuje modernizację linii nr 229 na odcinku Kartuzy – Lębork – Łeba, modernizację linii kolejowej nr 230 na odcinku Wejherowo – Garczegorze wraz z budową nowych odcinków oraz budowę nowego fragmentu linii kolejowej z Choczewa przez elektrownię jądrową do połączenia z linią kolejową nr 229 w obszarze stacji Steknica. Po torach będą mogły poruszać się pociągi towarowe o długości do 750 m i nacisku osi 221 kN (22,5 t/oś). Zakres inwestycji kolejowych określonych w Programie nie pokrywa się z żadnym projektem inwestycyjnym finansowanym w ramach Krajowego Programu Kolejowego do 2030 roku (z perspektywą do roku 2032) ani Programu inwestycyjnego Centralny Port Komunikacyjny.”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_3/lit_d",
+       "text": "w pkt 3 – Monitoring i ocena stopnia osiągnięcia Celu głównego w akapicie pierwszym wyrazy „na 2029 r.” zastępuje się wyrazami „na 2030 r.”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_3/lit_e",
+       "text": "w pkt 4.1 – Struktura podmiotowa Programu w akapicie drugim zdanie drugie otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Ponadto zgodnie z lp. 173 załącznika do rozporządzenia Rady Ministrów z dnia 17 stycznia 2025 r. w sprawie wykazu spółek, w których prawa z akcji Skarbu Państwa wykonuje Prezes Rady Ministrów lub inni członkowie Rady Ministrów, pełnomocnicy Rządu lub państwowe osoby prawne, w tym jednoosobowe spółki Skarbu Państwa (Dz. U. poz. 134) Pełnomocnik wykonuje prawa z udziałów Skarbu Państwa w Spółce Polskie Elektrownie Jądrowe Spółka z ograniczoną odpowiedzialnością z siedzibą w Warszawie, która zgodnie z PPEJ jest odpowiedzialna za przygotowanie i realizację inwestycji w energetykę jądrową w Polsce.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_3/lit_f",
+       "text": "w pkt 4.2 – Finansowanie Programu:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_3/lit_f/tir_1",
+         "text": "akapit pierwszy i drugi otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Wykonanie Programu jest finansowane ze środków budżetu państwa. Łączny limit wydatków z budżetu państwa na wykonanie Programu w latach 2023–2030 wynosi 4 761 777 307 zł. Za początkową datę kwalifikowalności wydatków przyjmuje się dzień 1 stycznia 2023 r. Na wyżej wymienioną kwotę składają się wydatki na wykonanie Programu przez:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "1) Dyrektora Urzędu Morskiego w Gdyni w wysokości 907 042 389 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "2) Generalnego Dyrektora Dróg Krajowych i Autostrad w wysokości 636 882 660 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "3) spółkę PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie w wysokości 3 217 852 258 zł.",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "Limit wydatków z budżetu państwa na wykonanie Programu wynosi:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "1) w 2023 r. – 3 364 909 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "2) w 2024 r. – 30 092 084 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "3) w 2025 r. – 92 345 700 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "4) w 2026 r. – 965 272 893 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "5) w 2027 r. – 1 804 719 686 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "6) w 2028 r. – 1 397 450 617 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "7) w 2029 r. – 422 880 905 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "8) w 2030 r. – 45 650 513 zł.”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_3/lit_f/tir_2",
+         "text": "w akapicie szóstym po wyrazach „Nowa Wieś Lęborska” dodaje się wyrazy „ , Kartuzy, Chmielno, Sierakowice, Linia”,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_3/lit_f/tir_3",
+         "text": "w akapicie siódmym dodaje się zdanie szóste i siódme w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Dodatkowo konieczna jest modernizacja linii kolejowej nr 229 na odcinku Kartuzy – Lębork z uwagi na negatywny wpływ przebudowy linii kolejowej nr 202 na odcinku Gdynia Chylonia – Lębork na terminowe zapewnienie dowozu pracowników i niezbędnych materiałów na potrzeby budowy samej elektrowni jądrowej w okresie od lipca 2027 r. do grudnia 2029 r. Realizacja robót budowlanych na linii kolejowej nr 202 na odcinku Gdynia Chylonia – Lębork zbiega się z okresem realizacji pozostałych inwestycji towarzyszących budowie elektrowni jądrowej, realizowanych przez PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie.”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_3/lit_g",
+       "text": "w pkt 4.3.1 – Środki przeznaczone na wykonanie Programu przez Dyrektora Urzędu Morskiego w Gdyni:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_3/lit_g/tir_1",
+         "text": "w akapicie pierwszym:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_1/pkt_3/lit_g/tir_1/tir_1",
+           "text": "pkt 1–3 otrzymują brzmienie:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„1) w 2023 r. – 244 770 zł;",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "2) w 2024 r. – 167 157 zł;",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "3) w 2025 r. – 4 898 896 zł;”,",
+             "quoted": true
+            }
+           ]
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_1/pkt_3/lit_g/tir_1/tir_2",
+           "text": "pkt 6 otrzymuje brzmienie:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„6) w 2028 r. – 82 717 470 zł.”,",
+             "quoted": true
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_3/lit_g/tir_2",
+         "text": "w akapicie drugim pkt 3 otrzymuje brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„3) w 2025 r. – na kontynuację wykonania dokumentacji przygotowawczej oraz wykonanie dokumentacji projektowej;”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_3/lit_h",
+       "text": "w pkt 4.3.2 – Środki przeznaczone na wykonanie Programu przez Generalnego Dyrektora Dróg Krajowych i Autostrad:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_3/lit_h/tir_1",
+         "text": "akapit pierwszy otrzymuje brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Łączny limit wydatków z budżetu państwa na wykonanie Programu przez Generalnego Dyrektora Dróg Krajowych i Autostrad wynosi 636 882 660 zł, w tym:",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "1) w 2023 r. – 0 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "2) w 2024 r. – 11 362 927 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "3) w 2025 r. – 7 635 938 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "4) w 2026 r. – 97 883 037 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "5) w 2027 r. – 216 337 946 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "6) w 2028 r. – 210 054 464 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "7) w 2029 r. – 72 081 405 zł;",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "8) w 2030 r. – 21 526 943 zł.”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_3/lit_h/tir_2",
+         "text": "w akapicie drugim:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_1/pkt_3/lit_h/tir_2/tir_1",
+           "text": "pkt 5 otrzymuje brzmienie:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„5) w 2029 r. – na budowę drogi oraz rozliczenia z wykonawcą (etap II);”,",
+             "quoted": true
+            }
+           ]
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_1/pkt_3/lit_h/tir_2/tir_2",
+           "text": "dodaje się pkt 6 w brzmieniu:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„6) w 2030 r. – na budowę drogi i uzyskanie pozwolenia na użytkowanie oraz rozliczenia końcowe z wykonawcą (etap II).”,",
+             "quoted": true
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_1/pkt_3/lit_i",
+       "text": "w pkt 4.3.3 – Środki przeznaczone na wykonanie Programu przez spółkę PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie akapit pierwszy i drugi otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Łączny limit wydatków z budżetu państwa na wykonanie Programu przez spółkę PKP Polskie Linie Kolejowe spółka akcyjna z siedzibą w Warszawie wynosi 3 217 852 258 zł, w tym:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) w 2023 r. – 3 120 139 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) w 2024 r. – 18 562 000 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) w 2025 r. – 79 810 866 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) w 2026 r. – 522 882 808 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) w 2027 r. – 1 113 874 692 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) w 2028 r. – 1 104 678 683 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) w 2029 r. – 350 799 500 zł;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) w 2030 r. – 24 123 570 zł.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Wyżej wymienione kwoty zostaną przeznaczone:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) w 2023 r. i 2024 r. – na wykonanie inwentaryzacji przyrodniczej i dokumentacji środowiskowej, Koncepcji Programowo-Przestrzennej oraz dokumentacji projektowej;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) w 2025 r. i 2026 r. – na wykonanie dokumentacji środowiskowej, dokumentacji projektowej wraz z uzyskaniem decyzji administracyjnych, wykup gruntów, modernizację i budowę linii kolejowych, a także nadzory inwestorskie i autorskie;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) w latach 2027–2030 – na uzyskanie decyzji administracyjnych, wykup gruntów, modernizację i budowę linii kolejowych, a także nadzory inwestorskie i autorskie.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_1/pkt_3/lit_j",
+       "text": "tabela „Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim – mierniki realizacji, koszty oraz nakłady do poniesienia z budżetu państwa” otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Tabela. Program wspierania inwestycji infrastrukturalnych w związku z realizacją kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, w tym elektrowni jądrowej, w województwie pomorskim – mierniki realizacji, koszty całkowite Programu oraz nakłady do poniesienia z budżetu państwa"
+        },
+        {
+         "type": "text",
+         "text": "Część Nazwa zadania Cel Programu Miernik realizacji Koszty całkowite Nakłady do poniesienia z budżetu państwa w tys. zł Termin Programu w tys. zł Jednostka Nazwa Wartość realizacji koordynująca miernika realizacji /realizująca B Docelowa Ogółem W ramach Ogółem 2023 r. 2024 r. 2025 r. 2026 r. 2027 r. 2028 r. 2029 r. 2030 r. a zadania z 2028 r. 2029 r. 2030 r. o w a"
+        },
+        {
+         "type": "text",
+         "text": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
+        },
+        {
+         "type": "text",
+         "text": "21 – Budowa Wsparcie Budowa 0 1 komplet ------ ----- 2023– 4 761 907 907 244,77 167,15 4 344 474 82 ------- -------- gospodarka infrastruktury inwestycji infrastruktury 2028 r. 777, 042, 042, 7 898, 507, 507, 717, morska hydrotechnicznej infrastrukturalnych hydrotechnicznej – 307 389 389 896 048 048 470 minister w granicach pasa w związku konstrukcji morskiej właściwy technicznego na z realizacją o długości do spraw obszarze gmin kluczowych ok. 1100 m służącej gospodarki Choczewo lub inwestycji do rozładunku morskiej; Krokowa oraz na w zakresie materiałów Dyrektor obszarach strategicznej i elementów Urzędu morskich infrastruktury wyposażenia, a także Morskiego Rzeczypospolitej energetycznej, infrastruktury w Gdyni Polskiej, w tym elektrowni technicznej w szczególności jądrowej, umożliwiającej na potrzeby w województwie prawidłową elektrowni pomorskim eksploatację jądrowej konstrukcji morskiej i drogi technicznej"
+        },
+        {
+         "type": "text",
+         "text": "39 – Budowa drogi Wsparcie Budowa drogi 0 --------- -------- ok. 28 km 2023– 4 636 636 0 11 362 7 635, 97 216 210 72 21 transport krajowej inwestycji krajowej o długości k 2030 r. 761 882, 882, ,927 938 883, 337, 054, 081 526, minister zapewniającej infrastrukturalnych ok. 28 km m 777, 660 660 037 946 464 405 943 właściwy dojazd do w związku zapewniającej 307 do spraw elektrowni z realizacją dojazd do elektrowni transportu; jądrowej od kluczowych jądrowej Generalny najbliższej drogi inwestycji Dyrektor ekspresowej w zakresie Dróg strategicznej Krajowych infrastruktury i Autostrad energetycznej, w tym elektrowni jądrowej, w województwie pomorskim 39 – Budowa lub Wsparcie Budowa lub 0 --------- ----- ok. 153 km 2023– 4 3 3 3 18 79 522 1 1 350 24 transport przebudowa inwestycji przebudowa linii k 2030 r. 761 217 217 120, 562, 810, 882, 113 104 799, 123, minister infrastruktury infrastrukturalnych kolejowych m 777, 852, 852, 139 000 866 808 874, 678, 500 570 właściwy kolejowej w związku o długości 307 258 258 692 683 do spraw zapewniającej z realizacją ok. 153 km transportu; dojazd do gmin kluczowych spółka PKP Nowa Wieś inwestycji Polskie Linie Lęborska, w zakresie Kolejowe Kartuzy, strategicznej spółka Chmielno, infrastruktury akcyjna Sierakowice, energetycznej, z siedzibą Linia, Łęczyce, w tym elektrowni w Warszawie Lębork, Wicko, jądrowej, Łeba, w województwie Wejherowo, pomorskim Choczewo, Gniewino i Krokowa, w tym linii kolejowych wraz z sieciami trakcyjnymi, stacji pasażerskich, terminali towarowych i obiektów inżynieryjnych"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
