@@ -78,6 +78,8 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
 - **Znany błąd**: w wklejonych PDF-ach (załączniki) konwerter czasem gubi wąskie litery, np. „elekt omobinos ci”
   zamiast „elektromobilności” w MP/2025/1128 (odsetek słów 0.72). Poprawka w kolejnej wersji eli2md.
   Ilu aktów dotyczy, nie wiem dokładnie: ciągi pojedynczych liter są w 14 plikach, ale nie wszystkie to ten błąd.
+- Drugi akt poniżej 0.8, MP/2025/541 (0.785): na s. 46–48 jest obrócona tabela z bardzo drobnym drukiem; w wyniku
+  jest ok. 2/3 słów tych stron. Przyczyny jeszcze nie zbadałem.
 - **Struktura** (art./§/ust./pkt/lit., drzewo JSON) jest zmierzona tylko na Dzienniku Ustaw 2024 (README eli2md).
   Obejrzane akty Monitora Polskiego mają podobny układ jak Dziennik Ustaw, ale struktury tu nie mierzyłem.
 <!-- quality:end -->
