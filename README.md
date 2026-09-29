@@ -24,7 +24,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 20:37 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 20:52 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -79,6 +79,14 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
   i akapity zgodne z PDF. W OCR zdarzają się błędy znaków (w MP/2025/241 „m²” odczytane jako „m””). MP/2025/121:
   tekst pełny, ale w ciasno złożonej tabeli pozycje „2) … 5)” są doklejone do „1)”. Wybór częściowo losowy,
   częściowo celowy (długie akty, OCR, najniższe wyniki miary powyżej).
+- **Losowa kontrola wzrokowa** (2026-09-29, eli2md 0.6.2): 15 losowych aktów, 20 stron (strona 1 i jedna losowa).
+  Bez żadnego błędu: 14 stron. Błąd konwertera: 6 stron — 2 istotne (MP/2025/635: pozycje listy odznaczonych
+  sklejone w jeden akapit; MP/2025/1248: numerowany wiersz tabeli wzięty w JSON za ust. 8, pod który trafiły
+  lit. e–i), 2 znanego typu (umowa MP/2026/869: s. 1 to obraz tekstu bez OCR, na s. 13 błędy OCR), 2 drobne
+  (podpis, tytuł sklejony przez granicę strony). Na żadnej stronie z warstwą tekstową nie zginęło słowo. Próba
+  mała (przedział 95%: 12–54% stron z błędem), 10 z 15 aktów ma 1 stronę. Raport:
+  [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
+  Metadane z API bywają błędne: MP/2025/635 ma `promulgation_date` 2025-07-08, PDF — 11 lipca 2025 r.
 - **Znany błąd**: w wklejonych PDF-ach (załączniki) konwerter czasem gubi wąskie litery, np. „elekt omobinos ci”
   zamiast „elektromobilności” w MP/2025/1128 (odsetek słów 0.72). Poprawka w kolejnej wersji eli2md.
   Ilu aktów dotyczy, nie wiem dokładnie: ciągi pojedynczych liter są w 14 plikach, ale nie wszystkie to ten błąd.
