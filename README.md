@@ -24,7 +24,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 19:19 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-29 19:21 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
