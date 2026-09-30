@@ -1,0 +1,151 @@
+{
+ "eli": "MP/2024/667",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 12 lipca 2024 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/667/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 lipca 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2022 r. poz. 990, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 18 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "po pkt 3b dodaje się pkt 3c w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3c) do Spraw Dzieci i Młodzieży;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "pkt 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) Edukacji i Nauki;”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 138 dodaje się ust. 1b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1b. Funkcję przewodniczącego Komisji i zastępców przewodniczącego pełnią kolejno, po 6 miesięcy, członkowie tej Komisji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_3/lit_a",
+       "text": "po pkt 3b dodaje się pkt 3c w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3c) do Spraw Dzieci i Młodzieży należą sprawy dzieci i młodzieży, w tym wszechstronnego rozwoju, wysokiej jakości życia, przestrzegania praw, ochrony przed wszelkimi formami przemocy oraz budowania solidarności międzypokoleniowej;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "w pkt 4 wyrazy „Edukacji, Nauki i Młodzieży” zastępuje się wyrazami „Edukacji i Nauki”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Dotychczasowi przewodniczący i zastępcy przewodniczącego Komisji do Spraw Służb Specjalnych pełnią swoje funkcje do czasu wyboru nowego przewodniczącego i zastępców przewodniczącego tej Komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Wyboru nowego przewodniczącego i zastępców przewodniczącego Komisji do Spraw Służb Specjalnych dokonuje się na najbliższym posiedzeniu tej Komisji przypadającym po wejściu w życie niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "W sprawach, o których mowa w pkt 3c załącznika do uchwały zmienianej w art. 1, skierowanych do komisji sejmowych przed dniem wejścia w życie niniejszej uchwały, właściwe pozostają te komisje.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: S. Hołownia"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2022 r. poz. 1092 i 1204, z 2023 r. poz. 273, 724 i 1360 oraz z 2024 r. poz. 570."
+ }
+}

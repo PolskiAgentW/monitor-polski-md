@@ -1,0 +1,911 @@
+{
+ "eli": "MP/2021/1188",
+ "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 30 listopada 2021 r. w sprawie szczegółowego wykazu przedsięwzięć służących poprawie efektywności energetycznej",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/1188/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA KLIMATU I ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 listopada 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowego wykazu przedsięwzięć służących poprawie efektywności energetycznej"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na podstawie art. 19 ust. 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 2166) ogłasza się szczegółowy wykaz przedsięwzięć służących poprawie efektywności energetycznej, stanowiący załącznik do obwieszczenia.[^2]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Klimatu i Środowiska: A. Moskwa"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Klimatu i Środowiska z dnia 30 listopada 2021 r. (poz. 1188)",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZCZEGÓŁOWY WYKAZ PRZEDSIĘWZIĘĆ SŁUŻĄCYCH POPRAWIE EFEKTYWNOŚCI ENERGETYCZNEJ"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie izolacji instalacji przemysłowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "modernizacja i wymiana izolacji termicznej rurociągów ciepłowniczych, pieców oraz ciągów technologicznych w obiektach (np. izolacja rurociągów, zbiorników, kotłów, kanałów spalin, turbin, urządzeń oczyszczających gazy wlotowe, armatury przemysłowej, wymienników ciepła lub pieców grzewczych oraz odtwarzanie wymurówki, wymiana materiałów ogniotrwałych lub warstw izolacyjnych w piecach);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "izolacja termiczna systemów transportu mediów technologicznych w obrębie procesu przemysłowego, w tym urządzeń transportowych, przygotowania półproduktów i produktów oraz sieci ciepłowniczych, wodnych i gazowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie przebudowy lub remontu budynku wraz z instalacjami i urządzeniami technicznymi, w tym przedsięwzięcia termomodernizacyjne i remontowe w rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków (Dz. U. z 2021 r. poz. 554, z późn. zm.):",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "docieplenie ścian, stropów, podłóg na gruncie, fundamentów, stropodachów lub dachów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "modernizacja lub wymiana stolarki okiennej i drzwiowej, świetlików, bram wjazdowych lub zmiana powierzchni przeszkleń w przegrodach zewnętrznych budynków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "montaż urządzeń zacieniających okna;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "modernizacja systemu ogrzewania lub systemu przygotowania ciepłej wody użytkowej (np. izolacja cieplna, równoważenie hydrauliczne, zastosowanie wysokosprawnych źródeł ciepła wraz z automatyką lub zmniejszenie strat ciepła związanych z jego akumulacją, regulacją oraz wykorzystywaniem);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "likwidacja liniowych i punktowych mostków cieplnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "modernizacja systemu wentylacji polegająca na:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_6/lit_a",
+         "text": "montażu układu odzysku ciepła (rekuperacji),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_6/lit_b",
+         "text": "zastosowaniu gruntowych wymienników ciepła,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_6/lit_c",
+         "text": "izolacji kanałów nawiewnych i wywiewnych transportujących powietrze wentylacyjne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_6/lit_d",
+         "text": "montażu systemów optymalizujących strumień objętości oraz parametry jakościowe powietrza wentylacyjnego doprowadzanego do pomieszczeń w zależności od potrzeb użytkownika;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "modernizacja systemu klimatyzacji przez dostosowanie tego systemu do potrzeb użytkowych budynku (np. dostosowanie strumienia powietrza do rzeczywistego obciążenia, zastosowanie układów z bezpośrednim odparowaniem, opartych o indywidualne klimatyzatory lub zastosowanie alternatywnych metod chłodzenia);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_2/pkt_8",
+       "text": "modernizacja lub wymiana dźwigów wraz z ich napędami i oświetleniem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_2/pkt_9",
+       "text": "instalacja urządzeń pomiarowo-kontrolnych, teletransmisyjnych oraz automatyki w ramach wdrażania systemów zarządzania energią;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_2/pkt_10",
+       "text": "przebudowa lub remont budynku użyteczności publicznej na podstawie umowy o poprawę efektywności energetycznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie modernizacji lub wymiany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "oświetlenia wewnętrznego (np. oświetlenia pomieszczeń w budynkach użyteczności publicznej, mieszkalnych lub biurowych oraz oświetlenia budynków i hal przemysłowych, magazynowych lub handlowych) lub oświetlenia zewnętrznego (np. oświetlenia tuneli, placów, składowisk, ulic, dróg, parków, oświetlenia dekoracyjnego, oświetlenia stacji paliw lub sygnalizacji świetlnej), w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_1/lit_a",
+         "text": "wymiana źródeł światła na energooszczędne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_1/lit_b",
+         "text": "wymiana opraw oświetleniowych wraz z osprzętem na energooszczędne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_1/lit_c",
+         "text": "wdrażanie inteligentnych systemów sterowania oświetleniem o regulowanych parametrach w zależności od potrzeb użytkowych i warunków zewnętrznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_1/lit_d",
+         "text": "stosowanie energooszczędnych systemów zasilania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "urządzeń i instalacji wykorzystywanych w procesach przemysłowych, telekomunikacyjnych lub informatycznych oraz w procesach energetycznych, z wyjątkiem procesów energetycznych prowadzonych w instalacjach spalania paliw objętych systemem handlu uprawnieniami do emisji, w których są prowadzone działania wskazane w załączniku nr 1 do ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych (Dz. U. z 2021 r. poz. 332, z późn. zm.), polegające na:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_2/lit_a",
+         "text": "modernizacji lub wymianie urządzeń energetycznych i technologicznych wraz z instalacjami (np. urządzeń i instalacji sprężonego powietrza lub wytwarzania próżni, kotłów, pomp, pompoturbin, turbin napędzających sprężarki procesowe i pompy, dmuchaw, wtryskarek, pras, myjek, wentylatorów, mieszadeł, agregatów chłodniczych lub młynów),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_2/lit_b",
+         "text": "modernizacji lub wymianie silników, napędów i układów sterowania lub zastosowaniu falowników przy napędach o zmiennym zapotrzebowaniu mocy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_2/lit_c",
+         "text": "modernizacji lub wymianie urządzeń służących do transportowania produktów i półproduktów w ramach procesu technologicznego (np. wózków widłowych, wozideł technologicznych lub dźwigów towarowych),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_2/lit_d",
+         "text": "modernizacji lub wymianie rurociągów, zbiorników, kanałów spalin, kominów lub urządzeń służących do uzdatniania wody,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_3/pkt_2/lit_e",
+         "text": "modernizacji lub wymianie wyposażenia narzędziowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_3/pkt_2/lit_f",
+         "text": "stosowaniu systemów pomiarowych, monitorujących i sterujących w ramach wdrażania systemów zarządzania energią,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_3/pkt_2/lit_g",
+         "text": "optymalizacji ciągów transportowych paliw (stałych, ciekłych, gazowych) lub mediów (np. woda, para, sprężone powietrze, obiegi próżni, powietrze wentylacyjne, spaliny lub gazy procesowe) oraz ciągów transportowych kopalin i linii produkcyjnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_3/pkt_2/lit_h",
+         "text": "modernizacji lub wymianie urządzeń i instalacji służących wytwarzaniu energii elektrycznej, ciepła lub chłodu, w tym:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− układów rozładunku, przygotowania i transportu paliwa (np. układów nawęglania, odparowania gazu lub redukcji ciśnienia gazów),"
+          },
+          {
+           "type": "text",
+           "text": "− układów doprowadzenia powietrza i odprowadzenia spalin (np. wentylatorów),"
+          },
+          {
+           "type": "text",
+           "text": "− układów chłodzenia (np. układów pompowych, skraplaczy lub chłodni kominowych),"
+          },
+          {
+           "type": "text",
+           "text": "− układów odprowadzenia i transportu odpadów paleniskowych (np. układów odżużlania),"
+          },
+          {
+           "type": "text",
+           "text": "− układów redukcji emisji (np. odpylania, odsiarczania oraz odazotowania spalin),"
+          },
+          {
+           "type": "text",
+           "text": "− transformatorów, silników elektrycznych i falowników,"
+          },
+          {
+           "type": "text",
+           "text": "− wymienników ciepła lub stacji redukcyjno-schładzających pary,"
+          },
+          {
+           "type": "text",
+           "text": "− układów uzdatniania wody (np. zmiana parametrów fizykochemicznych lub odgazowywanie),"
+          },
+          {
+           "type": "text",
+           "text": "− układów uzdatniania, produkcji oraz dystrybucji sprężonego powietrza (np. montaż sprężarek ze zmienną prędkością obrotową, montaż osuszaczy powietrza o niskim zapotrzebowaniu energii do procesu regeneracji, montaż sterowników nadrzędnych sterujących pracą urządzeń, stosowanie rozwiązań minimalizujących czas pracy sprężarek na biegu jałowym, optymalizacja ciśnienia w instalacji, montaż układów odzysku ciepła z procesu sprężania lub montaż zbiorników buforowych),"
+          },
+          {
+           "type": "text",
+           "text": "− układów przygotowania paliwa rozpałkowego (np. mazut lub olej lekki),"
+          },
+          {
+           "type": "text",
+           "text": "− układów sterowania, automatyki, pomiarowych, zabezpieczających lub sygnalizacyjnych,"
+          },
+          {
+           "type": "text",
+           "text": "− układów pompowych i pomp (np. stosowanie pomp o płynnej regulacji obrotów, montaż pomp o wyższej sprawności lub stosowanie metod regulacji zwiększających efektywność energetyczną układu),"
+          },
+          {
+           "type": "text",
+           "text": "− układów odwodnień oraz powrotu kondensatu instalacji parowych,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_3/pkt_2/lit_i",
+         "text": "modernizacji lub wymianie urządzeń i instalacji wykorzystywanych w górnictwie, w tym:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− układów urabiania złoża oraz transportu i zwałowania urobku,"
+          },
+          {
+           "type": "text",
+           "text": "− układów odwodnień,"
+          },
+          {
+           "type": "text",
+           "text": "− układów magazynowania, składowania, przeróbki urobku, sortowania oraz wzbogacania kopalin,"
+          },
+          {
+           "type": "text",
+           "text": "− układów oczyszczania wód kopalnianych i ścieków,"
+          },
+          {
+           "type": "text",
+           "text": "− układów zaopatrzenia w powietrze wentylacyjne,"
+          },
+          {
+           "type": "text",
+           "text": "− układów odmetanowania,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_3/pkt_2/lit_j",
+         "text": "modernizacji lub wymianie urządzeń telekomunikacyjnych (np. moduły radiowe, moduły systemowe lub moduły transmisyjne),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "ust_3/pkt_2/lit_k",
+         "text": "modernizacji lub wymianie urządzeń informatycznych (np. komputery lub serwery);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "urządzeń i instalacji potrzeb własnych wykorzystywanych w procesach energetycznych prowadzonych w instalacjach spalania paliw objętych systemem handlu uprawnieniami do emisji, w których są prowadzone działania wskazane w załączniku nr 1 do ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_3/lit_a",
+         "text": "układów rozładunku, przygotowania i transportu paliwa (np. układów nawęglania, odparowania gazu lub redukcji ciśnienia gazów),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_3/lit_b",
+         "text": "układów doprowadzenia powietrza i odprowadzenia spalin (np. wentylatorów),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_3/lit_c",
+         "text": "układów chłodzenia (np. układów pompowych, skraplaczy lub chłodni kominowych),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_3/lit_d",
+         "text": "układów odprowadzenia i transportu odpadów paleniskowych (np. układów odżużlania),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_3/pkt_3/lit_e",
+         "text": "układów redukcji emisji (np. odpylania, odsiarczania oraz odazotowania spalin),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_3/pkt_3/lit_f",
+         "text": "transformatorów, silników elektrycznych, napędów i układów sterowania oraz falowników,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_3/pkt_3/lit_g",
+         "text": "wymienników ciepła lub stacji redukcyjno-schładzających pary,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_3/pkt_3/lit_h",
+         "text": "układów uzdatniania wody (np. zmiana parametrów fizykochemicznych lub odgazowywanie),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_3/pkt_3/lit_i",
+         "text": "układów uzdatniania, produkcji oraz dystrybucji sprężonego powietrza (np. montaż sprężarek ze zmienną prędkością obrotową, montaż osuszaczy powietrza o niskim zapotrzebowaniu energii do procesu regeneracji, montaż sterowników nadrzędnych sterujących pracą urządzeń, stosowanie rozwiązań minimalizujących czas pracy sprężarek na biegu jałowym, optymalizacja ciśnienia w instalacji, montaż układów odzysku ciepła z procesu sprężania lub montaż zbiorników buforowych),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_3/pkt_3/lit_j",
+         "text": "układów przygotowania paliwa rozpałkowego (np. mazut lub olej lekki),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "ust_3/pkt_3/lit_k",
+         "text": "układów sterowania, automatyki, pomiarowych, zabezpieczających lub sygnalizacyjnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "ust_3/pkt_3/lit_l",
+         "text": "układów pompowych i pomp (np. stosowanie pomp o płynnej regulacji obrotów, montaż pomp o wyższej sprawności lub stosowanie metod regulacji zwiększających efektywność energetyczną układu),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "ust_3/pkt_3/lit_m",
+         "text": "układów odwodnień oraz powrotu kondensatu instalacji parowych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "lokalnych sieci ciepłowniczych i lokalnych źródeł ciepła w rozumieniu art. 2 pkt 6 i 7 ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów oraz o centralnej ewidencji emisyjności budynków, polegające na:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_4/lit_a",
+         "text": "wymianie lub modernizacji grupowych i indywidualnych węzłów cieplnych z zastosowaniem urządzeń i technologii o wyższej efektywności energetycznej (np. izolacje, napędy, armatura oraz wymienniki),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_4/lit_b",
+         "text": "modernizacji systemów zasilanych z grupowych węzłów cieplnych poprzez przebudowę tych systemów na węzły indywidualne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_4/lit_c",
+         "text": "instalacji lub modernizacji systemów automatyki i monitoringu pracy węzłów i sieci ciepłowniczych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_4/lit_d",
+         "text": "wymianie lub modernizacji lokalnych układów chłodniczych i klimatyzacyjnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_3/pkt_4/lit_e",
+         "text": "zastosowaniu układów kogeneracyjnych w lokalnych źródłach ciepła,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_3/pkt_4/lit_f",
+         "text": "modernizacji lokalnych źródeł ciepła (np. kotłowni lub ciepłowni osiedlowych),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_3/pkt_4/lit_g",
+         "text": "modernizacji odwodnień oraz powrotu kondensatu instalacji parowych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "urządzeń przeznaczonych do użytku domowego (np. pralki, suszarki, zmywarki do naczyń, chłodziarki, kuchenki lub piekarniki);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "pojazdów służących do transportu drogowego lub kolejowego, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_6/lit_a",
+         "text": "wymiana opon na opony o niższym oporze toczenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_6/lit_b",
+         "text": "montaż systemu kontroli ciśnienia w oponach (TPMS),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_6/lit_c",
+         "text": "montaż systemu umożliwiającego monitorowanie oraz analizę efektywności stylu jazdy kierowcy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_6/lit_d",
+         "text": "modernizacja pojazdu z silnikiem spalinowym związana z wymianą silnika spalinowego na silnik elektryczny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_3/pkt_6/lit_e",
+         "text": "modernizacja pojazdu z silnikiem spalinowym napędzanym olejem napędowym lub benzyną na silnik napędzany LNG/CNG,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_3/pkt_6/lit_f",
+         "text": "montaż systemu odzysku energii z hamowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_3/pkt_6/lit_g",
+         "text": "montaż liczników energii w pojazdach trakcyjnych w ramach systemu zarządzania energią,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_3/pkt_6/lit_h",
+         "text": "wymiana pojazdów na nowe pojazdy elektryczne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_3/pkt_6/lit_i",
+         "text": "wymiana pojazdów na nowe pojazdy z napędem hybrydowym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_3/pkt_6/lit_j",
+         "text": "wymiana pojazdów na nowe pojazdy napędzane wodorem,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "ust_3/pkt_6/lit_k",
+         "text": "wymiana pojazdów na nowe pojazdy napędzane LNG/CNG.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie odzyskiwania energii, w tym odzyskiwania energii w procesach przemysłowych, w tym przez instalację lub modernizację:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "układów odzyskiwania ciepła z urządzeń i procesów przemysłowych lub energetycznych i wykorzystanie go do celów użytkowych lub w procesie technologicznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "systemu „freecoolingu” – procesu wykorzystania chłodu zawartego w powietrzu o niskiej temperaturze na zewnątrz budynku do schłodzenia powietrza wewnątrz budynku lub w instalacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "turbin i układów wytwarzania energii, wykorzystujących energię rozprężania lub redukcji ciśnienia gazów, par lub cieczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "układów przetwarzania ciepła odzyskiwanego z procesów przemysłowych lub energetycznych na energię elektryczną;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "układów przetwarzania gazów spalinowych i odpadowych z procesów przemysłowych lub energetycznych (np. gazu koksowniczego, wielkopiecowego lub konwertorowego) na energię elektryczną lub ciepło lub na paliwa energetyczne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie ograniczeń strat:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "związanych z poborem energii biernej przez różnego rodzaju odbiorniki energii elektrycznej, w tym poprzez zastosowanie lokalnych i centralnych układów do kompensacji mocy biernej (np. baterie kondensatorów, dławiki oraz maszynowe i elektroniczne układy kompensacyjne);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "sieciowych związanych z przesyłaniem lub dystrybucją energii elektrycznej lub gazu ziemnego, w tym również w wewnętrznych systemach dystrybucji energii elektrycznej zasilających instalacje wykorzystywane w procesach przemysłowych (np. elektrolizy lub elektrorafinacji);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "na transformacji, w tym przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_3/lit_a",
+         "text": "zastosowanie układów kompensacyjnych w stanach niskiego obciążenia i pracy jałowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_3/lit_b",
+         "text": "wymianę transformatorów na jednostki charakteryzujące się wyższą efektywnością energetyczną (sprawnością) lub dostosowane do zapotrzebowania na moc;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "w sieciach ciepłowniczych, w tym przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_4/lit_a",
+         "text": "modernizację i przebudowę sieci ciepłowniczej przez:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− zmianę technologii wykonania tych sieci (magistrali, sieci rozdzielczych lub przyłączy do budynków),"
+          },
+          {
+           "type": "text",
+           "text": "− zmianę trasy przebiegu rurociągów w celu zmniejszenia ich długości lub likwidacji zbędnych odcinków,"
+          },
+          {
+           "type": "text",
+           "text": "− zmianę średnicy rurociągów w celu poprawy wymagań hydraulicznych,"
+          },
+          {
+           "type": "text",
+           "text": "− usunięcie nieszczelności i przyczyn ich powstawania,"
+          },
+          {
+           "type": "text",
+           "text": "− budowę układów pompowo-mieszających ograniczających temperaturę zasilania w wydzielonych obszarach sieci ciepłowniczej w celu obniżenia strat ciepła na przesyle,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_4/lit_b",
+         "text": "poprawę izolacji cieplnej rurociągów wraz z ich wyposażeniem w armaturę (np. wymiana rurociągów ciepłowniczych na rurociągi preizolowane),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_4/lit_c",
+         "text": "zmianę parametrów pracy sieci ciepłowniczej lub sposobu regulacji tej sieci,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_5/pkt_4/lit_d",
+         "text": "modernizację systemu ciepłowniczego przez:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− przebudowę systemu zasilanego z grupowych węzłów cieplnych na system zasilany z węzłów indywidualnych,"
+          },
+          {
+           "type": "text",
+           "text": "− wymianę lub modernizację grupowych i indywidualnych węzłów cieplnych z zastosowaniem urządzeń i technologii o wyższej efektywności energetycznej,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_5/pkt_4/lit_e",
+         "text": "wprowadzenie lub rozbudowę systemu monitoringu i sterowania pracą sieci ciepłowniczej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_5/pkt_5",
+       "text": "związanych z systemami zasilania urządzeń telekomunikacyjnych lub informatycznych, w tym przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_5/lit_a",
+         "text": "modernizację lub wymianę systemów zasilania (np. prostowników, zasilaczy lub baterii),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_5/lit_b",
+         "text": "wdrażanie systemów monitorujących i optymalizujących moc oraz zużycie energii elektrycznej urządzeń (np. wyłączających nieaktywne urządzenia, wyłączających lub ograniczających niektóre funkcjonalności lub zmieniających konfigurację urządzeń);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_5/pkt_6",
+       "text": "związanych z magazynowaniem i przeładunkiem paliw ciekłych, w tym przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_6/lit_a",
+         "text": "zastosowanie instalacji i urządzeń służących do odzyskiwania par produktów naftowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_6/lit_b",
+         "text": "modernizację zbiorników przez:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− zabezpieczenie zbiorników naziemnych służących do magazynowania paliw ciekłych powłokami ochronnymi o zdolności odbijania promieniowania cieplnego,"
+          },
+          {
+           "type": "text",
+           "text": "− stosowanie izolacji termicznej zbiornika,"
+          },
+          {
+           "type": "text",
+           "text": "− modernizację dachu zbiornika,"
+          },
+          {
+           "type": "text",
+           "text": "− nakrycie kopułą zbiornika z zewnętrznym dachem pływającym,"
+          },
+          {
+           "type": "text",
+           "text": "− zastosowanie lub wymianę uszczelnienia zewnętrznego dachu pływającego,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_6/lit_c",
+         "text": "zastosowanie systemów chłodzenia zbiorników, takich jak:",
+         "children": [
+          {
+           "type": "text",
+           "text": "− pompy służące do pompowania wody na dachy zbiorników,"
+          },
+          {
+           "type": "text",
+           "text": "− cyrkulacja medium chłodzącego w przeponie lub wężownicy zbiornika."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie, o którym mowa w art. 19 ust. 1 pkt 6 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 2166), polegające na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "zastąpieniu niskoefektywnych energetycznie źródeł ciepła wykorzystujących paliwa (stałe, ciekłe, gazowe) lub energię elektryczną źródłami charakteryzującymi się wyższą efektywnością energetyczną, w tym z wykorzystaniem ciepła z sieci ciepłowniczej wytworzonego w instalacji odnawialnego źródła energii, wykorzystującej ciepło wytworzone w wysokosprawnej kogeneracji lub ciepło odpadowe z instalacji przemysłowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "zastąpieniu niskoefektywnych energetycznie sposobów przygotowania ciepłej wody użytkowej sposobami charakteryzującymi się wyższą efektywnością energetyczną, w tym z wykorzystaniem ciepła z sieci ciepłowniczej wytworzonego w instalacji odnawialnego źródła energii, w wysokosprawnej kogeneracji lub będącego ciepłem odpadowym z instalacji przemysłowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "budowie przyłącza do sieci ciepłowniczej oraz zakupie albo modernizacji węzła cieplnego w celu zastąpienia ciepła z niskoefektywnych energetycznie źródeł ciepła ciepłem z sieci ciepłowniczej wytworzonym w instalacji odnawialnego źródła energii, w wysokosprawnej kogeneracji lub będącym ciepłem odpadowym z instalacji przemysłowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_6/pkt_4",
+       "text": "modernizacji instalacji wytwarzania chłodu z wykorzystaniem ciepła wytworzonego w instalacjach odnawialnego źródła energii, w wysokosprawnej kogeneracji lub ciepłem odpadowym z instalacji przemysłowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1949).",
+  "2": "Niniejsze obwieszczenie poprzedzone było obwieszczeniem Ministra Energii z dnia 23 listopada 2016 r. w sprawie szczegółowego wykazu przedsięwzięć służących poprawie efektywności energetycznej (M.P. poz. 1184)."
+ }
+}

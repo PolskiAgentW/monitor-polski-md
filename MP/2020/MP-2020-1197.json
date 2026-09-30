@@ -1,0 +1,1326 @@
+{
+ "eli": "MP/2020/1197",
+ "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 19 listopada 2020 r. w sprawie ogłoszenia sprawozdania z realizacji Krajowego planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym za lata 2018-19",
+ "converter": "eli2md 0.6.13",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1197/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA KLIMATU I ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 listopada 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia sprawozdania z realizacji Krajowego planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym za lata 2018–19"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 57f ust. 2 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2019 r. poz. 1792 oraz z 2020 r. poz. 284 i 322) ogłasza się sprawozdanie z realizacji Krajowego planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym za lata 2018–19, stanowiące załącznik do niniejszego obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Klimatu i Środowiska: M. Kurtyka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Klimatu i Środowiska z dnia 19 listopada 2020 r. (poz. 1197)",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Sprawozdanie z realizacji"
+    },
+    {
+     "type": "text",
+     "text": "Krajowego planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym"
+    },
+    {
+     "type": "text",
+     "text": "za lata 2018–19 SPIS TREŚCI"
+    },
+    {
+     "type": "text",
+     "text": "Wykaz skrótów 4"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wprowadzenie 7",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wykonanie 9",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zadania 2.1 9"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 2.1.1 9"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 2.1.2 10"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 2.2 11"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 2.3 11"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 2.4 12"
+      },
+      {
+       "type": "text",
+       "text": "Zadanie 2.5 16"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Podsumowanie i wnioski 17",
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik 18 WYKAZ SKRÓTÓW I OZNACZEŃ"
+      },
+      {
+       "type": "text",
+       "text": "A"
+      },
+      {
+       "type": "text",
+       "text": "B"
+      },
+      {
+       "type": "text",
+       "text": "BJiOR Bezpieczeństwo Jądrowe i Ochrona Radiologiczna"
+      },
+      {
+       "type": "text",
+       "text": "C"
+      },
+      {
+       "type": "text",
+       "text": "D"
+      },
+      {
+       "type": "text",
+       "text": "Dynamic electrochemical impedance spectroscopy, czyli dynamiczna DEIS elektrochemiczna spektroskopia impedancyjna"
+      },
+      {
+       "type": "text",
+       "text": "DEJ Departament Energii Jądrowej Ministerstwa Klimatu"
+      },
+      {
+       "type": "text",
+       "text": "E"
+      },
+      {
+       "type": "text",
+       "text": "EJ Elektrownia jądrowa"
+      },
+      {
+       "type": "text",
+       "text": "Oznaczenie typu paliwa jądrowego wykorzystywanego w reaktorze EK-10 badawczym EWA w latach 1958–1966"
+      },
+      {
+       "type": "text",
+       "text": "F"
+      },
+      {
+       "type": "text",
+       "text": "G"
+      },
+      {
+       "type": "text",
+       "text": "GBq Gigabekerel"
+      },
+      {
+       "type": "text",
+       "text": "Inicjatywa Ograniczania Globalnych Zagrożeń (ang. Global Threat Reduction GTRI Initiative)"
+      },
+      {
+       "type": "text",
+       "text": "H"
+      },
+      {
+       "type": "text",
+       "text": "I"
+      },
+      {
+       "type": "text",
+       "text": "IChTJ Instytut Chemii i Techniki Jądrowej"
+      },
+      {
+       "type": "text",
+       "text": "Raport ze studium wykonalności przedsięwzięcia (ang. Investment Feasibility IFR Report)"
+      },
+      {
+       "type": "text",
+       "text": "J"
+      },
+      {
+       "type": "text",
+       "text": "K"
+      },
+      {
+       "type": "text",
+       "text": "KIS Krajowe Inteligentne Specjalizacje"
+      },
+      {
+       "type": "text",
+       "text": "KSOP Krajowe Składowisko Odpadów Promieniotwórczych L"
+      },
+      {
+       "type": "text",
+       "text": "Ł"
+      },
+      {
+       "type": "text",
+       "text": "M"
+      },
+      {
+       "type": "text",
+       "text": "Międzynarodowa Agencja Energii Atomowej (ang. International Atomic Energy MAEA Agency)"
+      },
+      {
+       "type": "text",
+       "text": "ME Ministerstwo Energii"
+      },
+      {
+       "type": "text",
+       "text": "MG Ministerstwo Gospodarki"
+      },
+      {
+       "type": "text",
+       "text": "MK Ministerstwo Klimatu"
+      },
+      {
+       "type": "text",
+       "text": "MNiSW Ministerstwo Nauki i Szkolnictwa Wyższego"
+      },
+      {
+       "type": "text",
+       "text": "Paliwo jądrowe powstałe z mieszaniny tlenków uranu i plutonu (ang. mixed MOX oxide fuel)"
+      },
+      {
+       "type": "text",
+       "text": "Oznaczenie typu paliwa jądrowego wykorzystywanego w reaktorze MR badawczym MARIA"
+      },
+      {
+       "type": "text",
+       "text": "MWe Megawat mocy elektrycznej"
+      },
+      {
+       "type": "text",
+       "text": "MWh Megawatogodzina"
+      },
+      {
+       "type": "text",
+       "text": "MWt Megawat mocy cieplnej"
+      },
+      {
+       "type": "text",
+       "text": "N"
+      },
+      {
+       "type": "text",
+       "text": "NCBiR Narodowe Centrum Badań i Rozwoju"
+      },
+      {
+       "type": "text",
+       "text": "NCBJ Narodowe Centrum Badań Jądrowych"
+      },
+      {
+       "type": "text",
+       "text": "NCN Narodowe Centrum Nauki"
+      },
+      {
+       "type": "text",
+       "text": "NEA Agencja Energii Jądrowej OECD (ang. Nuclear Energy Agency)"
+      },
+      {
+       "type": "text",
+       "text": "NFOŚiGW Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej"
+      },
+      {
+       "type": "text",
+       "text": "NSPOP Nowe składowisko powierzchniowe odpadów promieniotwórczych"
+      },
+      {
+       "type": "text",
+       "text": "O"
+      },
+      {
+       "type": "text",
+       "text": "Organizacja Współpracy Gospodarczej i Rozwoju (ang. Organization for OECD Economic Co-operation and Development) OEJ Obiekt energetyki jądrowej"
+      },
+      {
+       "type": "text",
+       "text": "OOŚ Ocena oddziaływania na środowisko"
+      },
+      {
+       "type": "text",
+       "text": "OR Polatom Ośrodek Radioizotopów Polatom"
+      },
+      {
+       "type": "text",
+       "text": "P"
+      },
+      {
+       "type": "text",
+       "text": "PAA Państwowa Agencja Atomistyki"
+      },
+      {
+       "type": "text",
+       "text": "PIG-PIB Państwowy Instytut Geologiczny – Państwowy Instytut Badawczy"
+      },
+      {
+       "type": "text",
+       "text": "PPEJ Program polskiej energetyki jądrowej"
+      },
+      {
+       "type": "text",
+       "text": "Polskie Podziemne Laboratorium Badawcze (ang. Polish Underground PURL Research Laboratory)"
+      },
+      {
+       "type": "text",
+       "text": "R"
+      },
+      {
+       "type": "text",
+       "text": "S"
+      },
+      {
+       "type": "text",
+       "text": "SAR Raport bezpieczeństwa (ang. Safety assessment report)"
+      },
+      {
+       "type": "text",
+       "text": "SGOP Składowisko głębokie odpadów promieniotwórczych"
+      },
+      {
+       "type": "text",
+       "text": "SOOŚ Strategiczna ocena oddziaływania na środowisko"
+      },
+      {
+       "type": "text",
+       "text": "T"
+      },
+      {
+       "type": "text",
+       "text": "TBq Terabekerel"
+      },
+      {
+       "type": "text",
+       "text": "tHM Tona metali ciężkich (uranowców) (ang. tons of heavy metal)"
+      },
+      {
+       "type": "text",
+       "text": "TWh Terawatogodzina"
+      },
+      {
+       "type": "text",
+       "text": "U"
+      },
+      {
+       "type": "text",
+       "text": "W"
+      },
+      {
+       "type": "text",
+       "text": "Oznaczenie typu paliwa jądrowego wykorzystywanego w reaktorze WWR badawczym EWA w latach 1966–1995"
+      },
+      {
+       "type": "text",
+       "text": "Z"
+      },
+      {
+       "type": "text",
+       "text": "Państwowe przedsiębiorstwo użyteczności publicznej – ,,Zakład Unieszkodliwiania ZUOP Odpadów Promieniotwórczych”"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "WPROWADZENIE",
+     "children": [
+      {
+       "type": "text",
+       "text": "Krajowy plan postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym (dalej: Krajowy plan) ustanowiono uchwałą nr 195 Rady Ministrów z dnia 16 października 2015 r. w sprawie „Krajowego planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym” (M.P. poz. 1092)."
+      },
+      {
+       "type": "text",
+       "text": "Celem Krajowego planu jest zapewnienie w Polsce efektywnego i bezpiecznego postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym oraz zapewnienie rozwoju i wdrożenia ogólnokrajowego, spójnego, zintegrowanego i zrównoważonego systemu postępowania obejmującego wszystkie kategorie odpadów promieniotwórczych wytwarzanych w kraju."
+      },
+      {
+       "type": "text",
+       "text": "Krajowy plan określa działania i wyznacza zadania, które umożliwią osiągnięcie założeń polityki państwa w zakresie postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym, ze szczególnym uwzględnieniem zasady transparentności oraz zapewnienia udziału społeczeństwa w podejmowaniu kluczowych decyzji."
+      },
+      {
+       "type": "text",
+       "text": "Krajowy plan zapewnia bezpieczne postępowanie ze wszystkimi kategoriami odpadów promieniotwórczych, wytworzonych w Polsce, od ich wytworzenia do składowania i monitoringu zamkniętego składowiska."
+      },
+      {
+       "type": "text",
+       "text": "Kluczowymi zadaniami Krajowego planu są:"
+      },
+      {
+       "type": "text",
+       "text": "• przygotowanie do zamknięcia, ostateczne zamknięcie i długotrwały monitoring KSOP w Różanie;"
+      },
+      {
+       "type": "text",
+       "text": "• wybór lokalizacji, budowa i rozpoczęcie eksploatacji NSPOP;"
+      },
+      {
+       "type": "text",
+       "text": "• przygotowanie do budowy SGOP – w tym realizacja programu PURL;"
+      },
+      {
+       "type": "text",
+       "text": "• uruchomienie SGOP przed rozpoczęciem likwidacji pierwszej polskiej elektrowni jądrowej; • modyfikacja zasad postępowania z odpadami promieniotwórczymi pod kątem uwzględnienia odpadów promieniotwórczych pochodzących z energetyki jądrowej;"
+      },
+      {
+       "type": "text",
+       "text": "• modyfikacja systemu finansowania postępowania z odpadami promieniotwórczymi, opartego na zasadzie „zanieczyszczający płaci”;"
+      },
+      {
+       "type": "text",
+       "text": "• stworzenie programu naukowo-badawczego dotyczącego postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym;"
+      },
+      {
+       "type": "text",
+       "text": "• przygotowanie kadr dla krajowych instytucji i podmiotów gospodarczych zaangażowanych w postępowanie z odpadami promieniotwórczymi oraz nadzór nad tym postępowaniem."
+      },
+      {
+       "type": "text",
+       "text": "Dla zapewnienia koordynacji realizacji Krajowego planu powołano przy ministrze właściwym do spraw energii Zespół do spraw realizacji Krajowego planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym. Podobnie jak w przypadku zespołu, który zajmował się opracowaniem Krajowego planu, w jego skład weszli przedstawiciele urzędów i instytucji związanych z gospodarką odpadami promieniotwórczymi i wypalonym paliwem jądrowym."
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 57f ust. 1 ustawy – Prawo atomowe (Dz. U. z 2019 r. poz. 1792, z późn. zm.) minister właściwy do spraw energii opracowuje, co dwa lata, sprawozdanie z realizacji krajowego planu postępowania z odpadami i przedstawia je Radzie Ministrów."
+      },
+      {
+       "type": "text",
+       "text": "Sprawozdanie za lata 2015–17 zostało przygotowane, przyjęte przez Radę Ministrów i opublikowane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” jako załącznik do obwieszczenia Ministra Energii z dnia 8 lutego 2019 r. w sprawie ogłoszenia sprawozdania z realizacji Krajowego planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym za lata 2015–17 (M.P. poz. 238)."
+      },
+      {
+       "type": "text",
+       "text": "Niniejsze sprawozdanie obejmuje lata 2018–19, to jest kolejne dwa lata z realizacji Krajowego planu. Do jego opracowania włączono instytucje zaangażowane bezpośrednio w jego realizację: PAA, MNiSW i jednostki mu podległe oraz ZUOP."
+      },
+      {
+       "type": "text",
+       "text": "Pierwotnie za realizację Krajowego planu odpowiadało Ministerstwo Gospodarki. Od niego zadania w zakresie pokojowego wykorzystania energii jądrowej przejęło utworzone rozporządzeniem Rady Ministrów z dnia 7 grudnia 2015 r. w sprawie utworzenia Ministerstwa Energii (Dz. U. poz. 2075) Ministerstwo Energii, a następnie Ministerstwo Klimatu. Przez zrealizowane do tego dnia działania Ministerstwa Klimatu należy rozumieć działania Ministerstwa Gospodarki i Ministerstwa Energii."
+      },
+      {
+       "type": "text",
+       "text": "Realizowany Krajowy plan przedstawiony został w obszarze 5 działań w nim wymienionych, według stanu na dzień 31 grudnia 2019 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "WYKONANIE",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. ZADANIA W ZAKRESIE POSTĘPOWANIA Z ODPADAMI"
+      },
+      {
+       "type": "text",
+       "text": "PROMIENIOTWÓRCZYMI NISKO- I ŚREDNIOAKTYWNYMI"
+      },
+      {
+       "type": "text",
+       "text": "2.1.1. Przygotowanie do zamknięcia i zamknięcie Krajowego Składowiska Odpadów Promieniotwórczych w Różanie"
+      },
+      {
+       "type": "text",
+       "text": "Celem podejmowanych działań jest przygotowanie do zamknięcia KSOP w Różanie w związku z wypełnieniem jego pojemności, a następnie jego ostateczne zamknięcie i długotrwały monitoring."
+      },
+      {
+       "type": "text",
+       "text": "Odpowiedzialni za realizację:"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw energii – organ wiodący;"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw środowiska;"
+      },
+      {
+       "type": "text",
+       "text": "• ZUOP."
+      },
+      {
+       "type": "text",
+       "text": "Zadanie w trakcie realizacji"
+      },
+      {
+       "type": "text",
+       "text": "W 2019 roku na zlecenie MK PIG-PIB wykonał Aktualizację Eksploatacyjnego Raportu Bezpieczeństwa KSOP w Różanie. W jego opracowanie włączony też był ZUOP. Zaktualizowany Raport zostanie przedłożony przez ZUOP do zatwierdzenia przez Prezesa PAA."
+      },
+      {
+       "type": "text",
+       "text": "Raport ten będzie fundamentalnym dokumentem do opracowania Raportu Bezpieczeństwa dla zamknięcia KSOP."
+      },
+      {
+       "type": "text",
+       "text": "W latach 2018–2019 ZUOP kontynuował pobieranie próbek powietrza z dwóch obiektów (2 i 3), w których przechowywane są odpady wymagające dalszego postępowania, przed zamknięciem składowiska. Filtry w obiektach, w których zainstalowano urządzenia do poboru powietrza, poddawane są okresowo wymianie i analizie."
+      },
+      {
+       "type": "text",
+       "text": "Analiza składu powietrza z wnętrza tych obiektów ma na celu określenie warunków radiologicznych w nich panujących i przygotowanie do bezpiecznego otworzenia obiektów i ewentualnego wydobycia znajdujących się w nich odpadów, posegregowania ich, a następnie przetworzenia."
+      },
+      {
+       "type": "text",
+       "text": "MK kontynuuje wstępne przygotowania do dialogu technicznego dotyczącego opracowania oceny bezpieczeństwa dla zamknięcia KSOP."
+      },
+      {
+       "type": "text",
+       "text": "Problemy z realizacją tego zadania są związane z:"
+      },
+      {
+       "type": "text",
+       "text": "• pozyskaniem i zainteresowaniem potencjalnych wykonawców oceny bezpieczeństwa."
+      },
+      {
+       "type": "text",
+       "text": "W Europie funkcjonuje tylko kilka podmiotów posiadających odpowiednią wiedzę i doświadczenie,"
+      },
+      {
+       "type": "text",
+       "text": "• pozyskaniem środków finansowych na wykonanie oceny. Jest to drogie przedsięwzięcie, którego koszt wyniesie nawet kilkadziesiąt mln zł."
+      },
+      {
+       "type": "text",
+       "text": "Ww. problemy spowodowały, że przy realizacji zadania wystąpiły opóźnienia w stosunku do pierwotnego harmonogramu realizacji zadania."
+      },
+      {
+       "type": "text",
+       "text": "2.1.2. Wybór lokalizacji, budowa i rozpoczęcie eksploatacji nowego składowiska powierzchniowego odpadów promieniotwórczych"
+      },
+      {
+       "type": "text",
+       "text": "W związku z możliwym w niedalekiej perspektywie zapełnieniem i wynikającym z tego planowanym zamknięciem istniejącego KSOP w Różanie konieczne jest znalezienie lokalizacji, budowa i rozpoczęcie eksploatacji NSPOP, z uwzględnieniem potrzeb wynikających z rozwoju energetyki jądrowej w Polsce."
+      },
+      {
+       "type": "text",
+       "text": "Odpowiedzialni za realizację:"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw energii – organ wiodący;"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw środowiska;"
+      },
+      {
+       "type": "text",
+       "text": "• ZUOP."
+      },
+      {
+       "type": "text",
+       "text": "Zadanie w trakcie realizacji"
+      },
+      {
+       "type": "text",
+       "text": "W 2019 roku została zawarta umowa z NFOŚiGW o realizację zadania państwowej jednostki budżetowej pn. Wstępne rozpoznanie geologiczno-inżynierskie 4 lokalizacji składowiska odpadów promieniotwórczych nisko- i średnioaktywnych krótkożyciowych umieszczonego na liście zadań zakwalifikowanych do dofinansowania ze środków NFOŚiGW. Wykonawca zadania zostanie wybrany w roku 2020."
+      },
+      {
+       "type": "text",
+       "text": "Trwa przygotowanie do ogłoszenia zamówienia publicznego na realizację ww. zadania."
+      },
+      {
+       "type": "text",
+       "text": "Celem zadania jest przeprowadzenie niezbędnego zakresu badań geologicznych, które umożliwią wybór optymalnej lokalizacji składowiska odpadów promieniotwórczych nisko- i średnioaktywnych krótkożyciowych."
+      },
+      {
+       "type": "text",
+       "text": "W 2019 roku zawarto umowę z PIG-PIB, której zakres obejmował zebranie i analizę danych archiwalnych oraz wykonanie oceny jednej potencjalnej lokalizacji KSOP. Ocena taka została dokonana i potwierdziła przydatność tej lokalizacji."
+      },
+      {
+       "type": "text",
+       "text": "ZUOP w uzgodnieniu z MK opracował następujące dokumentacje koncepcyjne dla NSOP:"
+      },
+      {
+       "type": "text",
+       "text": "− Wstępna Koncepcja Składowiska Odpadów Promieniotwórczych – Studium Programowe,"
+      },
+      {
+       "type": "text",
+       "text": "− Wariantowa Koncepcja Składowiska Odpadów Promieniotwórczych – Studium Programowe, − Analiza techniczna, technologiczna i ekonomiczna dla trzech wybranych propozycji zagospodarowania terenu NSOP,"
+      },
+      {
+       "type": "text",
+       "text": "− Opracowanie koncepcji specjalistycznych technologii oraz zabudowy niestandardowych urządzeń technologicznych przewidzianych do zastosowania w NSOP."
+      },
+      {
+       "type": "text",
+       "text": "Przygotowano także wstępny projekt nowego składowiska oraz wykonano jego wizualizację. Projekt ten będzie bazą do dalszych działań w tym zakresie. Jego uszczegółowienie nastąpi po dokonaniu wyboru nowej lokalizacji składowiska odpadów nisko- i średnioaktywnych. Projekt bazuje na najlepszych i najnowocześniejszych rozwiązaniach, zapewniających najwyższy stopień bezpieczeństwa."
+      },
+      {
+       "type": "text",
+       "text": "Ww. dokumenty są na bieżąco aktualizowane."
+      },
+      {
+       "type": "text",
+       "text": "2.2. Przygotowanie do budowy składowiska głębokiego odpadów promieniotwórczych, w tym realizacja programu Polskiego Podziemnego Laboratorium Badawczego – wytypowanie jego bezpiecznej lokalizacji"
+      },
+      {
+       "type": "text",
+       "text": "Celem prac w tym zakresie jest docelowo znalezienie optymalnej lokalizacji składowiska głębokiego i jego budowa."
+      },
+      {
+       "type": "text",
+       "text": "Odpowiedzialni za realizację:"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw energii – organ wiodący;"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw środowiska;"
+      },
+      {
+       "type": "text",
+       "text": "• ZUOP;"
+      },
+      {
+       "type": "text",
+       "text": "• PIG-PIB;"
+      },
+      {
+       "type": "text",
+       "text": "• instytuty naukowe i badawcze."
+      },
+      {
+       "type": "text",
+       "text": "Zadanie w trakcie realizacji"
+      },
+      {
+       "type": "text",
+       "text": "W omawianym okresie nie wykonano nowej analizy, dokonywano jednak bieżącej wstępnej oceny możliwości budowy głębokiego składowiska odpadów promieniotwórczych w różnych rekomendowanych obszarach oraz monitorowano możliwość pojawienia się nowych obszarów. Monitorowano też postępy i sytuację w zakresie budowy głębokiego składowiska odpadów promieniotwórczych w innych krajach."
+      },
+      {
+       "type": "text",
+       "text": "2.3. Modyfikacja zasad postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym oraz likwidacji elektrowni jądrowych"
+      },
+      {
+       "type": "text",
+       "text": "Celem tego zadania jest stworzenie systemu finansowania postępowania z odpadami i wypalonym paliwem jądrowym, zapewniającego spójne, niezawodne i zrównoważone postępowanie z odpadami promieniotwórczymi i wypalonym paliwem jądrowym teraz i w przyszłości."
+      },
+      {
+       "type": "text",
+       "text": "Odpowiedzialni za realizację:"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw energii."
+      },
+      {
+       "type": "text",
+       "text": "Zadanie w trakcie realizacji"
+      },
+      {
+       "type": "text",
+       "text": "W omawianym okresie monitorowano sytuację w zakresie systemów finansowania postępowania z odpadami i wypalonym paliwem jądrowym w różnych krajach posiadających rozwiniętą energetykę jądrową, szczególnie koncentrując się na zmianach mających te systemy usprawnić."
+      },
+      {
+       "type": "text",
+       "text": "PAA"
+      },
+      {
+       "type": "text",
+       "text": "W latach 2018–2019 trwały prace nad wdrożeniem do polskiego porządku prawnego dyrektywy Rady 2013/59/Euratom z dnia 5 grudnia 2013 r. ustanawiającej podstawowe normy bezpieczeństwa w celu ochrony przed zagrożeniami wynikającymi z narażenia na działanie promieniowania jonizującego oraz uchylającej dyrektywy 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom i 2003/122/Euratom (Dz. Urz. UE L 13 z 17.01.2014, str. 1). Ich efektem jest ustawa z dnia 13 czerwca 2019 r. o zmianie ustawy – Prawo atomowe oraz ustawy o ochronie przeciwpożarowej (Dz. U. poz. 1593). Zmiany odnoszące się do postępowania z odpadami promieniotwórczymi dotyczą głównie niekwalifikowania do odpadów promieniotwórczych mas ziemnych lub skalnych związanych z wydobywaniem kopalin ze złóż, odpadów wydobywczych, osadów z oczyszczania ścieków przemysłowych zawierających naturalnie występujące izotopy promieniotwórcze o niewielkim stężeniu promieniotwórczym oraz wymagań lokalizacyjnych dla powierzchniowego składowiska odpadów promieniotwórczych."
+      },
+      {
+       "type": "text",
+       "text": "Trwają prace nad aktualizacją rozporządzeń wykonawczych do ustawy – Prawo atomowe, m.in.:"
+      },
+      {
+       "type": "text",
+       "text": "− w sprawie przypadków, w których działalność związana z narażeniem na promieniowanie jonizujące nie podlega obowiązkowi uzyskania zezwolenia, zgłoszenia albo powiadomienia, oraz przypadków, w których może być wykonana na podstawie zgłoszenia lub na podstawie powiadomienia,"
+      },
+      {
+       "type": "text",
+       "text": "− w sprawie ochrony przed promieniowaniem jonizującym pracowników zewnętrznych narażonych podczas pracy na terenie kontrolowanym lub nadzorowanym,"
+      },
+      {
+       "type": "text",
+       "text": "− zmieniającego rozporządzenie w sprawie podstawowych wymagań dotyczących terenów kontrolowanych i nadzorowanych,"
+      },
+      {
+       "type": "text",
+       "text": "− w sprawie przypadków, w których działalność związana z narażeniem na promieniowanie jonizujące pochodzące od naturalnych izotopów promieniotwórczych nie wymaga powiadomienia,"
+      },
+      {
+       "type": "text",
+       "text": "− zmieniającego rozporządzenie w sprawie odpadów promieniotwórczych i wypalonego paliwa jądrowego."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto prowadzono prace nad zaleceniami technicznymi Prezesa PAA dotyczącymi kryteriów akceptacji odpadów promieniotwórczych do składowania w powierzchniowych składowiskach odpadów promieniotwórczych. Celem zaleceń jest przedstawienie charakterystyk odpadów promieniotwórczych przyjmowanych do składowania w powierzchniowych składowiskach odpadów promieniotwórczych. Zalecenia przeszły etap konsultacji z zainteresowanymi stronami."
+      },
+      {
+       "type": "text",
+       "text": "2.4. Stworzenie programu naukowo-badawczego dotyczącego postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym"
+      },
+      {
+       "type": "text",
+       "text": "Celem zadania jest ustalenie i wykonanie programu naukowo-badawczego dotyczącego postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym, przy uwzględnieniu posiadanych środków finansowych oraz włączeniu polskich ekspertów i naukowców z instytutów naukowych i badawczych, jak również specjalistów z zakresu postępowania z odpadami promieniotwórczymi z krajowego przemysłu."
+      },
+      {
+       "type": "text",
+       "text": "Odpowiedzialni za realizację:"
+      },
+      {
+       "type": "text",
+       "text": "• NCBiR – podmiot wiodący;"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw energii;"
+      },
+      {
+       "type": "text",
+       "text": "• minister właściwy do spraw nauki i szkolnictwa wyższego;"
+      },
+      {
+       "type": "text",
+       "text": "• ZUOP;"
+      },
+      {
+       "type": "text",
+       "text": "• instytuty naukowe i badawcze;"
+      },
+      {
+       "type": "text",
+       "text": "• NCN."
+      },
+      {
+       "type": "text",
+       "text": "Zadanie w trakcie realizacji Realizacja działania IV pn. Stworzenie programu naukowo-badawczego dotyczącego postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym , za którego realizację współodpowiedzialny jest m.in. minister właściwy do spraw nauki i szkolnictwa wyższego i NCBiR, nie została jeszcze rozpoczęta z powodu braku środków finansowych w budżecie nauki na realizację nowego programu."
+      },
+      {
+       "type": "text",
+       "text": "W latach poprzednich NCBiR realizowało strategiczny projekt badawczy pn. Technologie wspomagające rozwój bezpiecznej energetyki jądrowej . Celem głównym ww. projektu badawczego realizowanego w ramach projektu strategicznego NCBiR był rozwój badań naukowych i prac rozwojowych w zakresie przechowywania, przerobu, przetwarzania i składowania wypalonego paliwa jądrowego i odpadów promieniotwórczych powstających w procesie eksploatacji elektrowni jądrowych na potrzeby rozwoju polskiej energetyki jądrowej. Oczekiwanym rezultatem realizacji projektu było natomiast opracowanie metod badawczych, dokumentacji technicznych i technologicznych układów, urządzeń i procesów oraz wyniki przeprowadzonych eksperymentów i analiz. Rezultaty uzyskane w trakcie realizacji projektu przeznaczone są, przede wszystkim, dla organów administracji państwowej podejmujących decyzję o budowie elektrowni jądrowej i o zakresie zastosowania w niej krajowych technologii przeróbki odpadów promieniotwórczych oraz ośrodków zajmujących się zastosowaniem izotopów, produkujących izotopy i substancje znaczone, zakładów medycyny nuklearnej, a w przyszłości elektrowni jądrowych, w których zagospodarowanie ciekłych, niskoaktywnych odpadów promieniotwórczych będzie ważnym problemem do rozwiązania."
+      },
+      {
+       "type": "text",
+       "text": "W zakresie różnych działań horyzontalnych, np. takich jak programy NCBiR pn. Projekty Aplikacyjne czy Szybka Ścieżka, możliwe jest dofinansowanie projektów przewidujących innowacje procesowe lub produktowe, bez ograniczeń w zakresie tematyki. W związku z powyższym istnieje możliwość ubiegania się o dofinansowanie badań na temat postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym w ramach bieżącej oferty NCBiR, bez konieczności tworzenia dedykowanych programów. NCBiR wymaga od wnioskodawców, aby ich projekty były innowacyjne i charakteryzowały się nowością, przynajmniej w skali rynku krajowego. Projekty składane przez beneficjentów muszą wpisywać się w KIS."
+      },
+      {
+       "type": "text",
+       "text": "Zestawienie projektów finansowanych przez NCN, realizowanych w latach 2018–2019, powiązanych z zagadnieniem planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_2/tir_1",
+       "text": "Badania nad sorpcją i mechanizmem wiązania analogów pierwiastków promieniotwórczych przez chloryty w środowisku wód podziemnych;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_2/tir_2",
+       "text": "Badania niestacjonarnych procesów hydratacji nowej klasy cementów specjalnych zaawansowaną metodą DEIS;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_2/tir_3",
+       "text": "Rozwój zastosowania zbrojenia betonu w postaci włókien borowo-bazaltowych do budowy obiektów do gromadzenia materiałów nuklearnych i radioaktywnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zestawienie projektów i innych działań naukowych finansowanych przez NCN, realizowanych w Iatach 2018–2019, pośrednio powiązanych z zagadnieniem planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_2/tir_4",
+       "text": "Sorpcja wybranych radionuklidów na powierzchni naturalnych materiałów odpadowych;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_2/tir_5",
+       "text": "Interakcje gospodarcze na skutek nowej polityki energetycznej;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_2/tir_6",
+       "text": "Opracowanie innowacyjnych rozwiązań dedykowanych systemom wentylacyjnym elektrowni jądrowych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zestawienie projektów międzynarodowych dofinansowywanych przez MNiSW do sprawozdania za okres 2018 – 2019 z realizacji Krajowego planu:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_2/tir_7",
+       "text": "Badanie społecznych i społeczno-ekonomicznych efektów wdrażania PPEJ przy użyciu nowej metodologii;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_2/tir_8",
+       "text": "Analiza możliwości i badania eksperymentalne paliw dla reaktorów chłodzonych wodą o zwiększonej odporności w sytuacjach awaryjnych;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_2/tir_9",
+       "text": "Cykliczne wydzielanie Tc-99 tarczy naświetlonej promieniowaniem gamma;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "10",
+       "path": "ust_2/tir_10",
+       "text": "Rozwój technologii radiacyjnych i ich procedur kontroli, w zakresie wykorzystywania promieniowania jonizującego dla obróbki produktów medycznych, zdrowia, ochrony środowiska i wytwarzania zaawansowanych materiałów;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "11",
+       "path": "ust_2/tir_11",
+       "text": "Metoda higienizacji szlamów z oczyszczalni ścieków z wykorzystaniem akceleratora elektronów;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "12",
+       "path": "ust_2/tir_12",
+       "text": "Europejskie narzędzia i metodologie dla efektywnego zarządzania starzeniem kabli w elektrowniach jądrowych;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "13",
+       "path": "ust_2/tir_13",
+       "text": "Zintegrowane strategie recyklingu tlenkowych paliw GEN IV;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "14",
+       "path": "ust_2/tir_14",
+       "text": "Europejski wspólny program gospodarowania odpadami promieniotwórczymi (EURAD).",
+       "children": [
+        {
+         "type": "text",
+         "text": "IChTJ"
+        },
+        {
+         "type": "text",
+         "text": "Instytut na bieżąco pracował nad tworzeniem programów naukowo-badawczych dotyczących postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym. Programy badawcze mogące być wsparciem dla programu rozwoju energetyki jądrowej w kraju, a także zagadnienia związane z postępowaniem z odpadami promieniotwórczymi i wypalonym paliwem jądrowym były prezentowane w ME i MNiSW, a także w trakcie spotkań organizowanych przez różne instytucje wspierające i zlecające (KPK, PAA)."
+        },
+        {
+         "type": "text",
+         "text": "Zadania własne IChTJ finansowane z dotacji na działalność statutową w 2018 r. i z subwencji na rok 2019:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zagadnienia materiałowe cyklu paliwowego:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "Rozwój technologii przeróbki niskoaktywnych i średnioaktywnych odpadów promieniotwórczych;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "Badania nad syntezą matryc wolframowych zawierających ditlenek uranu za pomocą metody zol-żel;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Chromatograficzne badania stabilności radiochemicznej układów ekstrakcyjnych stosowanych w procesach obróbki zużytego paliwa jądrowego;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zagadnienia materiałowe cyklu paliwowego: Badania nad porowatymi hybrydowymi metaloorganicznymi sorbentami dla zastosowań w jądrowych technikach energetycznych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zagadnienia materiałowe cyklu paliwowego: Wytwarzanie i badania warstw wierzchnich materiałów technicznych stosowanych w energetyce jądrowej o podwyższonej odporności w warunkach normalnej pracy reaktora i w sytuacjach awaryjnych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Zastosowanie procesu elektrodializy do unieszkodliwiania ciekłych odpadów promieniotwórczych zawierających związki organiczne;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Nowe sorbenty radionuklidów uzyskane z produktów naturalnych oraz z odpadów;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Analiza próbek odpadów o wysokim zasoleniu zawierających pierwiastki promieniotwórcze za pomocą spektroskopii promieniowania gamma.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pracownicy IChTJ uczestniczyli w pracach Komitetu Zarządzania Odpadami Radioaktywnymi Agencji Energii Jądrowej (RWMC-OECD/NEA) oraz stale reprezentowali IChTJ w grupie ekspertów Article 37 of the Euratom Treaty."
+      },
+      {
+       "type": "text",
+       "text": "NCBJ"
+      },
+      {
+       "type": "text",
+       "text": "Prace badawcze Instytutu koncentrowały się przede wszystkim na zapewnieniu warunków bezpiecznego przechowywania wypalonego paliwa jądrowego z reaktora badawczego MARIA. W basenie przechowawczym reaktora składowane są niskowzbogacone wypalone elementy paliwowe typu MC z Francji oraz typu MR-6 z Rosji."
+      },
+      {
+       "type": "text",
+       "text": "Poniżej wykaz prac finansowanych z działalności statutowej:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "pomiary uwolnień produktów reakcji rozszczepienia jądrowego wypalonych elementów paliwowych;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "obliczenia i analizy związane z przewidywanym przechowywaniem wypalonych elementów paliwowych w przechowalniku 19A;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "prace badawczo-rozwojowe zmierzające do zainstalowania w komorze gorącej reaktora MARIA spektrometru promieniowania gamma do pomiaru wypalonych elementów paliwowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poza tym w ramach współpracy z CSNSM Orsay, Francja, opracowano publikacje dotyczące defektowania materiałów przewidzianych do zastosowania jako matrycy immobilizacji odpadów radioaktywnych. Podstawowe tematy to:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Badania nad ilościową analizą stopnia zdefektowania materiałów tlenkowych przy użyciu symulacji Monte Carlo widm rozpraszania wstecz;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Pomiary kinetyki akumulacji defektów radiacyjnych w tlenkach i modelowanie tego zjawiska (tzw. model MSDA, multi-step damage accumulation).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Badania dotyczyły wielu materiałów, np. UO₂ i wyższych tlenków uranu, spineli magnezowo-aluminiowych, różnych pirochlorów. Pomiary wykonywane były przy użyciu takich technik jak: RBS/C, spektrometria Ramana, katodoluminescencja, jak również pomiarów własności mechanicznych, głównie metodą nanoindentacji."
+      },
+      {
+       "type": "text",
+       "text": "Projekty zlecone przez ZUOP:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wykonanie projektu remontu instalacji JP3RO, wykorzystywanej w Zakładzie Unieszkodliwiania Odpadów Promieniotwórczych do zatężania ciekłych niskoaktywnych i średnioaktywnych odpadów promieniotwórczych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Projekty zlecone przez NCBiR GOSPOSTRATEG:"
+      },
+      {
+       "type": "text",
+       "text": "Realizacja zad. 3 – Badanie i analiza wybranych chemicznych aspektów wytwarzania oraz stosowania paliwa TRISO w reaktorze jądrowym HTR"
+      },
+      {
+       "type": "text",
+       "text": "Projekty współfinansowane przez Unię Europejską i Euratom"
+      },
+      {
+       "type": "text",
+       "text": "– Projekt H2020 Euratom GENIORS GA No 755171 – Zintegrowane strategie recyklingu tlenkowych paliw GEN IV ( GEN IV Integrated Oxide fuels recycling strategies );"
+      },
+      {
+       "type": "text",
+       "text": "– Projekt H2020 Euratom CHANCE GA No 755371 – Charakteryzowanie kondycjonowanych odpadów promieniotwórczych w celu ich bezpiecznego składowania w Europie ( Characterization of conditioned nuclear waste for its safe disposal in Europe );"
+      },
+      {
+       "type": "text",
+       "text": "– Projekt H2020 Euratom EURAD GA No 847593 – Europejski wspólny program gospodarowania odpadami promieniotwórczymi ( European joint programme on radioactive waste management EURAD)."
+      },
+      {
+       "type": "text",
+       "text": "Projekty koordynowane przez MAEA:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_3/tir_1",
+       "text": "IAEA RC 18542 – Odzysk uranu i metali towarzyszących z odpadów przemysłowych różnego pochodzenia;",
+       "children": [
+        {
+         "type": "text",
+         "text": "Projekt we współpracy z ZIBJ Dubna:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_3/tir_2",
+       "text": "Nowy nanokompozytowy sorbent do usuwania różnych radionuklidów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.5. Przygotowanie kadr dla krajowych instytucji i podmiotów gospodarczych zaangażowanych w postępowanie z odpadami promieniotwórczymi oraz nadzór nad tym postępowaniem"
+        },
+        {
+         "type": "text",
+         "text": "PAA"
+        },
+        {
+         "type": "text",
+         "text": "W ramach podnoszenia kwalifikacji zespół pracowników PAA odpowiedzialnych za nadzór nad postępowaniem z odpadami promieniotwórczymi uczestniczył w międzynarodowych szkoleniach i warsztatach zorganizowanych przez MAEA, w zakresie przetwarzania, przechowywania i składowania odpadów promieniotwórczych. W latach 2018–19 udział w szkoleniach wyniósł 40 osobodni. Tematyka szkoleń to m.in.:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_3/tir_3",
+       "text": "przetwarzanie historycznych odpadów promieniotwórczych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_3/tir_4",
+       "text": "obiekty do przechowywania odpadów promieniotwórczych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_3/tir_5",
+       "text": "koncepcje i projekty dotyczące składowania bardzo niskoaktywnych odpadów promieniotwórczych, niskoaktywnych oraz nieużywanych, zużytych źródeł promieniotwórczych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_3/tir_6",
+       "text": "koncepcje i projekty składowania niewielkich ilości odpadów promieniotwórczych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_3/tir_7",
+       "text": "zasady rozbudowy składowisk odpadów promieniotwórczych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_3/tir_8",
+       "text": "organizowanie i przeprowadzanie ocen bezpieczeństwa dla składowania odpadów promieniotwórczych, ustanawianie warunków autoryzacji, opracowanie programów zapewnienia zgodności i przeprowadzania inspekcji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Podczas ww. szkoleń pracownicy PAA zapoznawali się z rozwiązaniami organizacyjnymi i technicznymi związanymi z nadzorem i oceną dozorową postępowania z odpadami promieniotwórczymi w innych krajach, jak również dzielili się swoim doświadczeniem i wiedzą."
+        },
+        {
+         "type": "text",
+         "text": "Kwalifikacje pracowników PAA były podnoszone również poprzez udział m.in. w:"
+        },
+        {
+         "type": "text",
+         "text": "− konferencji EURADWASTE19 skupionej na programach badawczych EURATOM dotyczących postępowania z odpadami promieniotwórczymi,"
+        },
+        {
+         "type": "text",
+         "text": "− studiach podyplomowych – w 2018 r. pracownik PAA ukończył studia podyplomowe „Projektowanie geotechniczne” na Wydziale Budownictwa i Inżynierii Środowiska SGGW, temat pracy dyplomowej: „Ocena warunków geotechnicznych obszaru pod kątem lokalizacji składowiska odpadów promieniotwórczych”."
+        },
+        {
+         "type": "text",
+         "text": "IChTJ"
+        },
+        {
+         "type": "text",
+         "text": "IChTJ stanowi zaplecze laboratoryjne warszawskich uczelni. Mają tu miejsce stałe zajęcia dydaktyczne prowadzone przez wykwalifikowaną kadrę Instytutu. Realizowane są praktyki studenckie i wizyty naukowe. Studenci wydziałów chemicznych przygotowują prace licencjackie i magisterskie, m.in. z zakresu procesów przetwarzania odpadów promieniotwórczych."
+        },
+        {
+         "type": "text",
+         "text": "IChTJ prowadził również nabór na studia doktoranckie w dziedzinie chemii. Wśród wykonywanych prac doktorskich powstaje wiele z zakresu tematyki Krajowego planu. Od roku 2019 nabór na studia doktoranckie odbywa się w ramach utworzonej z NCBJ szkoły doktorskiej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "PODSUMOWANIE I WNIOSKI",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W realizacji Krajowego planu występują opóźnienia w realizacji zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Opóźnienia wynikają z trudności z pozyskaniem finansowania na realizację zadań na obecnym etapie realizacji Krajowego planu. Drugim powodem ich występowania jest nowatorski charakteru działań, co wydłuża czas potrzebny na ich realizację. Opóźnienia powstają też w wyniku trudności z pozyskaniem kompetentnych wykonawców oraz problemów z pozyskaniem koniecznej w tego typu działaniach akceptacji społecznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Stwierdzone opóźnienia nie mają negatywnego wpływu na osiągnięcie zakładanych efektów i celów planu oraz sytuację w zakresie bezpieczeństwa radiologicznego i w postępowaniu z odpadami promieniotwórczymi w Polsce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Równolegle występują opóźnienia w realizacji PPEJ, co pozwala na przesunięcie terminu budowy nowego składowiska NSPOP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Realizacja działania IV pn. Stworzenie programu naukowo-badawczego dotyczącego postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym , za które współodpowiedzialny jest m.in. minister właściwy do spraw nauki i szkolnictwa wyższego i NCBiR, nie została jeszcze rozpoczęta.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W związku z zaleceniami Rady Ministrów wystosowanymi w związku z opóźnieniami w zakresie realizacji Krajowego planu minister właściwy do spraw energii:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_6/tir_1",
+       "text": "przeanalizował szczegółowo przebieg realizacji wszystkich działań oraz dokonał oceny przyczyn powstania opóźnień,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_6/tir_2",
+       "text": "dokonał oceny możliwości wydłużenia czasu realizacji tych zadań, bez negatywnego wpływu na cele programu,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_6/tir_3",
+       "text": "uzgodnił możliwość urealnienia terminów realizacji zadań z instytucjami zaangażowanymi w realizację Krajowego planu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W związku ze stwierdzonymi opóźnieniami, w aktualizacji Krajowego planu:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_7/tir_1",
+       "text": "minister właściwy do spraw energii zaktualizuje harmonogram planowanych w Krajowym planie działań,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_7/tir_2",
+       "text": "minister właściwy do spraw energii w maksymalnym możliwym stopniu uwzględni możliwość sfinansowania planowanych działań ze środków innych niż budżet państwa,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_7/tir_3",
+       "text": "minister właściwy do spraw energii uwzględni kwestię realizacji Programu polskiej energetyki jądrowej.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Załącznik"
+        },
+        {
+         "type": "text",
+         "text": "Rozliczenie wydatków na realizację Krajowego planu za lata 2018–19, w tys. zł"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zamknięcie KSOP Różan planowane 0 800 – przygotowanie do zamknięcia",
+     "children": [
+      {
+       "type": "text",
+       "text": "KSOP Różan"
+      },
+      {
+       "type": "text",
+       "text": "rzeczywiste 0 615 (środki MK)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ocena bezpieczeństwa planowane 10.000 0 dla zamknięcia KSOP Różan",
+     "children": [
+      {
+       "type": "text",
+       "text": "rzeczywiste 0 0"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Ocena bezpieczeństwa planowane 10.000 5.000 dla NSPOP* rzeczywiste 0 0",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Budowa NSPOP (środki programu planowane 3.000 5.000 wieloletniego) rzeczywiste 0 0",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Program naukowo-badawczy planowane 5.000 5.000 dotyczący postępowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "z odpadami promieniotwórczymi"
+      },
+      {
+       "type": "text",
+       "text": "(środki Ministerstwa Nauki rzeczywiste 626** 215** i Szkolnictwa Wyższego (NCBiR))"
+      },
+      {
+       "type": "text",
+       "text": "RAZEM planowane 29.100 16.900 rzeczywiste 631 1.278"
+      },
+      {
+       "type": "text",
+       "text": "* Wydatki PAA poniesione na przygotowanie kadr."
+      },
+      {
+       "type": "text",
+       "text": "** Wydatki NCN na realizację projektów powiązanych z zagadnieniami planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Klimatu i Środowiska kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 1720 i 2004). 1. Wykonanie usługi polegającej na przeprowadzeniu badań stopnia zużycia i weryfikacji skuteczności oczyszczania modułów membranowych w instalacji JP3RO, służącej do unieszkodliwiania ciekłych niskoaktywnych odpadów promieniotwórczych; 2. Przygotowanie raportu zawierającego rekomendacje rodzaju/typu nowych membran, które zapewniłyby wyższą skuteczność oczyszczania odpadów; Lp. Zadanie Wydatki w latach 2018–2019 tys. zł 2018 r. 2019 r. 1 2 3 4 1. Analizy lokalizacyjne nowego planowane 0 0 składowiska 300 (środki MK) rzeczywiste 0 2. Przygotowania do budowy planowane 1.000 1.000 głębokiego składowiska rzeczywiste 0 0 3. Realizacja Krajowego planu planowane 100 100 5* 148 rzeczywiste (środki PAA) (środki MK)"
+ }
+}

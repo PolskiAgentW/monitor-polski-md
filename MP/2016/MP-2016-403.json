@@ -1,0 +1,68 @@
+{
+ "eli": "MP/2016/403",
+ "title": "Komunikat Prezesa Państwowej Agencji Atomistyki z dnia 19 kwietnia 2016 r. w sprawie sytuacji radiacyjnej kraju w I kwartale 2016 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/403/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA PAŃSTWOWEJ AGENCJI ATOMISTYKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 kwietnia 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sytuacji radiacyjnej kraju w I kwartale 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 81 ustawy z dnia 29 listopada 2000 r. – Prawo atomowe (Dz. U. z 2014 r. poz. 1512, z 2015 r. poz. 1505 i 1893 oraz z 2016 r. poz. 266) informuję, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Wyniki pomiarów uzyskane ze stacji i placówek wykonujących pomiary skażeń promieniotwórczych kształtowały się następująco:"
+  },
+  {
+   "type": "tir",
+   "num": "1",
+   "path": "tir_1",
+   "text": "moc dawki – 69–125 nSv/h (nanosiwertów na godzinę) (średnio 94 nSv/h)",
+   "children": []
+  },
+  {
+   "type": "tir",
+   "num": "2",
+   "path": "tir_2",
+   "text": "Cs-137 w mleku – 0,16–0,69 Bq/dm³ (bekerela na dm³) (średnio 0,41 Bq/dm³)",
+   "children": []
+  },
+  {
+   "type": "tir",
+   "num": "3",
+   "path": "tir_3",
+   "text": "Cs-137 w powietrzu – <0,10–5,88 µBq/m³ (mikrobekerela na m³) (średnio 0,98 µBq/m³).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zawartość izotopu cezu Cs-137 w powietrzu i w mleku stanowi podstawowy wskaźnik reprezentujący skażenie promieniotwórcze materiałów środowiskowych oraz artykułów spożywczych sztucznymi izotopami promieniotwórczymi."
+    },
+    {
+     "type": "text",
+     "text": "Powyższe dane wskazują, że narażenie osób z ogółu ludności kraju powodowane obecnymi w środowisku i w żywności sztucznymi izotopami promieniotwórczymi utrzymuje się na bardzo niskim poziomie stanowiącym jedynie kilka procent wartości dawki granicznej dla ogółu ludności wynoszącej 1 mSv w ciągu roku."
+    },
+    {
+     "type": "text",
+     "text": "Prezes Państwowej Agencji Atomistyki: p.o. A. Przybycin"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

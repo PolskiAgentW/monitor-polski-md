@@ -1,0 +1,489 @@
+{
+ "eli": "MP/2023/1372",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 3 listopada 2023 r. w sprawie włączenia kwalifikacji rynkowej \"Diagnozowanie i rozwijanie kompetencji cyfrowych w organizacji\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/1372/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 listopada 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji rynkowej „Diagnozowanie i rozwijanie kompetencji cyfrowych w organizacji” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226 oraz z 2023 r. poz. 2005) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji rynkowej „Diagnozowanie i rozwijanie kompetencji cyfrowych w organizacji” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: wz. P. Lewandowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 3 listopada 2023 r. (M.P. poz. 1372)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „DIAGNOZOWANIE I ROZWIJANIE KOMPETENCJI CYFROWYCH W ORGANIZACJI” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Diagnozowanie i rozwijanie kompetencji cyfrowych w organizacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nazwa dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okres ważności dokumentu potwierdzającego nadanie kwalifikacji rynkowej i warunki przedłużenia jego ważności",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat jest ważny 5 lat. Warunkiem przedłużenia ważności certyfikatu jest złożenie, przed upływem terminu ważności, wniosku o przedłużenie ważności certyfikatu wraz:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "ze sprawozdaniem z działalności edukacyjnej obejmującym opis wsparcia udzielonego organizacjom w zakresie rozwoju kompetencji cyfrowych oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "z dowodami potwierdzającymi posiadanie kompetencji cyfrowych na poziomie zaawansowanym, odpowiadającym obowiązującej wersji Europejskiej Ramy Kompetencji Cyfrowych dla Obywateli – DigComp, takimi jak:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "ust_3/pkt_2/tir_1",
+         "text": "dokumenty, np. certyfikat, dyplom, faktura, rachunek, świadectwo pracy, lub",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "ust_3/pkt_2/tir_2",
+         "text": "próbki prac, np. program komputerowy, aplikacja internetowa, materiał audiowizualny.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Po spełnieniu ww. warunków ważność certyfikatu jest przedłużana o kolejne 5 lat."
+          },
+          {
+           "type": "text",
+           "text": "W przypadku utraty ważności certyfikatu jest możliwe jego ponowne uzyskanie pod warunkiem ponownego przystąpienia do procesu walidacji."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację rynkową wykazuje kompetencje cyfrowe na zaawansowanym poziomie Europejskiej Ramy Kompetencji Cyfrowych dla Obywateli – DigComp. W swoich działaniach posługuje się wiedzą na temat ramy kompetencji cyfrowych. Opisuje kompetencje cyfrowe na poszczególnych stanowiskach pracy w organizacji. Wykonuje diagnozę kompetencji cyfrowych pracowników i – w odniesieniu do wyników diagnozy – określa potrzeby infrastrukturalne organizacji. Wskazuje narzędzia walidacji kompetencji cyfrowych oraz możliwości dalszego rozwoju pracowników w zakresie kompetencji cyfrowych. Organizuje i prowadzi szkolenia. Wspiera organizację w procesie pozyskiwania zewnętrznych źródeł finansowania inwestycji cyfrowych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Identyfikowanie potrzeb organizacji i pracowników w zakresie kompetencji cyfrowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje ramę – omawia strukturę ramy kompetencji cyfrowych (obszary i poziomy), kompetencji cyfrowych – podaje przykłady do każdego obszaru odnoszące się do wiedzy, umiejętności i postawy (kompetencji społecznych),"
+      },
+      {
+       "type": "text",
+       "text": "– podaje przykłady dla zastosowań celowych ramy kompetencji cyfrowych."
+      },
+      {
+       "type": "text",
+       "text": "Określa wymogi – odczytuje schemat organizacji z wykorzystaniem dostępnych źródeł informacji, dotyczące kompetencji – przypisuje poziom zaawansowania czynności zawodowych do skali funkcjonującej w racyfrowych dla mie kompetencji cyfrowych, stanowisk pracy – przygotowuje opis kompetencji cyfrowych na danym stanowisku pracy, w organizacji – określa wymogi dla danego stanowiska pracy,"
+      },
+      {
+       "type": "text",
+       "text": "– weryfikuje opis kompetencji cyfrowych na danym stanowisku pracy i wprowadza wymagane modyfikacje."
+      },
+      {
+       "type": "text",
+       "text": "Transponuje – analizuje opisy stanowisk pracy pod kątem kompetencji cyfrowych wymaganych na daumiejętności cyfrowe nym stanowisku pracy (m.in. analizuje źródła informacji o stanowisku pracy, przeprowana stanowiska pracy dza wywiad z pracownikiem na określonym stanowisku pracy, obserwuje pracę na danym stanowisku pracy pod kątem realizowanych działań cyfrowych),"
+      },
+      {
+       "type": "text",
+       "text": "– sporządza wykaz kompetencji cyfrowych (odnoszących się do ramy kompetencji cyfrowych) dla danego stanowiska pracy z określeniem poziomu zaawansowania."
+      },
+      {
+       "type": "text",
+       "text": "Diagnozuje poziom – wskazuje narzędzia walidacji kompetencji cyfrowych, kompetencji cyfrowych – dobiera narzędzie umożliwiające sprawdzenie, czy dany pracownik ma umiejętności cypracowników frowe określone dla danego stanowiska pracy,"
+      },
+      {
+       "type": "text",
+       "text": "– konfiguruje narzędzia walidacji kompetencji cyfrowych,"
+      },
+      {
+       "type": "text",
+       "text": "– diagnozuje poziom kompetencji cyfrowych pracownika w odniesieniu do zestawu umiejętności określonych dla danego stanowiska pracy,"
+      },
+      {
+       "type": "text",
+       "text": "– przygotowuje raport z rekomendacjami w zakresie uzupełnienia luk kompetencyjnych pracownika."
+      },
+      {
+       "type": "text",
+       "text": "Diagnozuje potrzeby – analizuje opisy stanowisk pracy pod kątem ich wyposażenia, infrastrukturalne – określa braki w odniesieniu do niedostosowania wyposażenia do wymagań stanowisk pracy, organizacji – wskazuje przeszkody infrastrukturalne w rozwoju kompetencji cyfrowych pracowników."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Usuwanie luk w zakresie kompetencji cyfrowych pracowników"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje źródła – omawia dostępne źródła finansowania rozwoju kompetencji cyfrowych pracowników finansowania rozwoju (np. materiałów szkoleniowych, szkoleń), kompetencji cyfrowych – omawia źródła finansowania wyposażenia, i infrastruktury – sporządza rekomendację dotyczącą możliwości pozyskania środków z określonych źródeł cyfrowej na sfinansowanie rozwoju kompetencji cyfrowych i wyposażenia."
+      },
+      {
+       "type": "text",
+       "text": "Proponuje sposoby – omawia możliwości związane z podnoszeniem kompetencji cyfrowych (np. szkolenia, rozwoju kompetencji konferencje), cyfrowych – przygotowuje rekomendacje dotyczące potrzeby rozwijania kompetencji cyfrowych prapracowników cowników (np. przygotowuje indywidualny plan rozwoju cyfrowego)."
+      },
+      {
+       "type": "text",
+       "text": "Prowadzi szkolenie – określa cele szkolenia,"
+      },
+      {
+       "type": "text",
+       "text": "– przygotowuje materiały szkoleniowe,"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera i stosuje metody szkoleniowe,"
+      },
+      {
+       "type": "text",
+       "text": "– stosuje techniki skutecznej komunikacji,"
+      },
+      {
+       "type": "text",
+       "text": "– przeprowadza szkolenie zgodnie z przyjętymi celami szkolenia,"
+      },
+      {
+       "type": "text",
+       "text": "– przeprowadza ewaluację szkolenia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dotyczące walidacji i podmiotów przeprowadzających walidację",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody walidacji"
+      },
+      {
+       "type": "text",
+       "text": "W czasie walidacji jest dopuszczalne stosowanie następujących metod:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "test teoretyczny, w tym studium przypadku,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "analiza dowodów i deklaracji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.2. Zasoby kadrowe"
+        },
+        {
+         "type": "text",
+         "text": "W etapie weryfikacji biorą udział:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "operator platformy walidacyjnej, który nadzoruje przebieg testu teoretycznego oraz sprawdza tożsamość osób przystępujących do walidacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "komisja walidacyjna składająca się z minimum 3 asesorów łącznie spełniających następujące warunki:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "ust_1/pkt_2/tir_1",
+         "text": "posiadanie kompetencji cyfrowych na poziomie zaawansowanym odpowiadającym obowiązującej wersji Europejskiej Ramy Kompetencji Cyfrowych dla Obywateli – DigComp,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "ust_1/pkt_2/tir_2",
+         "text": "posiadanie kompetencji dydaktycznych oraz co najmniej 3-letniego doświadczenia w prowadzeniu szkoleń, zajęć lub lekcji,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "ust_1/pkt_2/tir_3",
+         "text": "posiadanie minimum 3-letniego doświadczenia związanego z prowadzeniem procesów rekrutacji pracowników lub z wykonywaniem zadań związanych z doradztwem zawodowym,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "ust_1/pkt_2/tir_4",
+         "text": "posiadanie minimum 3-letniego doświadczenia związanego z pozyskiwaniem środków finansowych na realizację inwestycji.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Każdy z asesorów spełnia minimum jeden z ww. warunków."
+          },
+          {
+           "type": "text",
+           "text": "Komisja walidacyjna ocenia test teoretyczny w części studium przypadku, o ile zawiera odpowiedzi swobodne."
+          },
+          {
+           "type": "text",
+           "text": "Operator platformy walidacyjnej posiada:"
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "5",
+         "path": "ust_1/pkt_2/tir_5",
+         "text": "znajomość obsługi komputera w zakresie uruchamiania oraz podstawowej obsługi platformy walidacyjnej i zainstalowanych aplikacji,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "6",
+         "path": "ust_1/pkt_2/tir_6",
+         "text": "umiejętność rozwiązywania problemów w sytuacji trudności z nawiązaniem lub zanikiem połączenia internetowego lub obsługą przeglądarki w zakresie kompatybilności z platformą walidacyjną.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Operator platformy walidacyjnej może być jednocześnie członkiem komisji walidacyjnej."
+          },
+          {
+           "type": "text",
+           "text": "Do zadań członków komisji walidacyjnej należy stosowanie:"
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "7",
+         "path": "ust_1/pkt_2/tir_7",
+         "text": "kryteriów weryfikacji przypisanych do efektów uczenia się dla opisywanej kwalifikacji rynkowej oraz kryteriów oceny formalnej i merytorycznej dowodów na posiadanie efektów uczenia się właściwych dla opisywanej kwalifikacji rynkowej,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "8",
+         "path": "ust_1/pkt_2/tir_8",
+         "text": "zasad prowadzenia weryfikacji, a także różnych metod weryfikacji efektów uczenia się, zgodnie z celami walidacji i zasadami Zintegrowanego Systemu Kwalifikacji.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Jeżeli instytucja certyfikująca prowadzi kształcenie w obszarze wnioskowanej kwalifikacji rynkowej, stosuje rozwiązania zapewniające rozdzielenie procesów kształcenia od walidacji. W szczególności jest istotne zapewnienie bezstronności osób przeprowadzających walidację, m.in. poprzez rozdział osobowy mający na celu zapobieganie konfliktowi interesów osób przeprowadzających walidację. Osoby te nie mogą weryfikować efektów uczenia się osób, które były przez nie przygotowywane do uzyskania kwalifikacji rynkowej „Diagnozowanie i rozwijanie kompetencji cyfrowych w organizacji”."
+          },
+          {
+           "type": "text",
+           "text": "1.3. Sposób przeprowadzenia walidacji oraz warunki organizacyjne i materialne"
+          },
+          {
+           "type": "text",
+           "text": "Wszystkie metody walidacji są realizowane za pomocą platformy walidacyjnej dostępnej on-line."
+          },
+          {
+           "type": "text",
+           "text": "Test teoretyczny:"
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "9",
+         "path": "ust_1/pkt_2/tir_9",
+         "text": "jednokrotnego lub wielokrotnego wyboru z jedną poprawną odpowiedzią,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "10",
+         "path": "ust_1/pkt_2/tir_10",
+         "text": "każde pytanie ma od 3 do 5 możliwych odpowiedzi,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "11",
+         "path": "ust_1/pkt_2/tir_11",
+         "text": "jeżeli test teoretyczny zawiera studium przypadku, wówczas za pośrednictwem platformy walidacyjnej są udostępniane treści oraz niezbędne zasoby, np. narzędzia umożliwiające przeprowadzenie analizy oraz wizualizacji danych. Odpowiedź osoby przystępującej do walidacji jest oceniana przez komisję walidacyjną w terminie do 3 dni roboczych, a następnie umieszczana na platformie walidacyjnej.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Analiza dowodów i deklaracji"
+          },
+          {
+           "type": "text",
+           "text": "Osoba przystępująca do walidacji, za pomocą formularza, umieszcza na platformie walidacyjnej dowody w formie elektronicznej:"
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "12",
+         "path": "ust_1/pkt_2/tir_12",
+         "text": "dokumenty, np. deklarację, certyfikat, dyplom, fakturę, rachunek, świadectwo pracy, lub",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "13",
+         "path": "ust_1/pkt_2/tir_13",
+         "text": "próbki prac, np. program komputerowy, aplikację internetową, materiał audiowizualny.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Komisja walidacyjna dokonuje oceny dowodów w terminie do 3 dni roboczych i umieszcza wynik na platformie walidacyjnej."
+          },
+          {
+           "type": "text",
+           "text": "Nie określa się minimalnej oraz maksymalnej liczby pytań w teście teoretycznym. Liczba pytań powinna być dobrana w taki sposób, aby sprawdzić wszystkie kryteria weryfikacji ich osiągnięcia przypisane do danych efektów uczenia się."
+          },
+          {
+           "type": "text",
+           "text": "Norma zaliczenia dla każdego zestawu: 50% możliwych do uzyskania punktów."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymogów dla tego etapu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Warunkiem przystąpienia do walidacji jest przedstawienie dowodów na posiadanie kompetencji cyfrowych na poziomie zaawansowanym odpowiadającym obowiązującej wersji Europejskiej Ramy Kompetencji Cyfrowych dla Obywateli – DigComp."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 26 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 792)."
+ }
+}

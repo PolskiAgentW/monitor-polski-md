@@ -1,0 +1,200 @@
+{
+ "eli": "MP/2014/157",
+ "title": "Zarządzenie Nr 6/2014 Prezesa Narodowego Banku Polskiego z dnia 13 lutego 2014 r. w sprawie ustalenia wzorów, stopu, masy i wielkości emisji monet nominalnej wartości 1 gr, 2 gr i 5 gr",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/157/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 6/2014"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lutego 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów, stopu, masy i wielkości emisji monet nominalnej wartości 1 gr, 2 gr i 5 gr"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 33 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wzór, stop, masę i wielkość emisji monety nominalnej wartości 1 gr, określone w załączniku nr 1 do zarządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wzór, stop, masę i wielkość emisji monety nominalnej wartości 2 gr, określone w załączniku nr 2 do zarządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wzór, stop, masę i wielkość emisji monety nominalnej wartości 5 gr, określone w załączniku nr 3 do zarządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Monety, o których mowa w § 1, wprowadza się do obiegu z dniem 3 marca 2014 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: M. Belka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do zarządzenia nr 6/2014 Prezesa Narodowego Banku Polskiego z dnia 13 lutego 2014 r. (poz. 157) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 1 GR"
+    },
+    {
+     "type": "text",
+     "text": "Wartość 1 gr"
+    },
+    {
+     "type": "text",
+     "text": "Cechy strona Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Poniżej orła, półkolem, od graficzne główna lewej strony ku prawej, napis: RZECZPOSPOLITA POLSKA. W otoku stylizowane pierścienie, w górnej części przecinające się, u dołu rozdzielone oznaczeniem roku emisji. Pod orłem, po prawej stronie, znak mennicy."
+    },
+    {
+     "type": "text",
+     "text": "strona Duża cyfra 1, poniżej poziomy napis: GROSZ, nad cyfrą gałązka z liściem dębu. odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Brzeg (bok) Ząbkowany"
+    },
+    {
+     "type": "text",
+     "text": "Masa (w gramach) 1,64"
+    },
+    {
+     "type": "text",
+     "text": "Średnica 15,50 (w milimetrach)"
+    },
+    {
+     "type": "text",
+     "text": "Stop Stal powlekana mosiądzem"
+    },
+    {
+     "type": "text",
+     "text": "Wielkość emisji do 990 000 000 (w sztukach)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 2"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 2 GR"
+    },
+    {
+     "type": "text",
+     "text": "Wartość 2 gr"
+    },
+    {
+     "type": "text",
+     "text": "Cechy strona Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Poniżej orła, półkolem, od graficzne główna lewej strony ku prawej, napis: RZECZPOSPOLITA POLSKA. W otoku stylizowane pierścienie, w górnej części przecinające się, u dołu rozdzielone oznaczeniem roku emisji. Pod orłem, po prawej stronie, znak mennicy."
+    },
+    {
+     "type": "text",
+     "text": "strona Duża cyfra 2, poniżej poziomy napis: GROSZE, nad cyfrą gałązka z dwoma liśćmi dębu. odwrotna"
+    },
+    {
+     "type": "text",
+     "text": "Brzeg (bok) Gładki"
+    },
+    {
+     "type": "text",
+     "text": "Masa (w gramach) 2,13"
+    },
+    {
+     "type": "text",
+     "text": "Średnica 17,50 (w milimetrach)"
+    },
+    {
+     "type": "text",
+     "text": "Stop Stal powlekana mosiądzem"
+    },
+    {
+     "type": "text",
+     "text": "Wielkość emisji do 467 000 000 (w sztukach)"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR, STOP, MASA I WIELKOŚĆ EMISJI MONETY NOMINALNEJ WARTOŚCI 5 GR"
+    },
+    {
+     "type": "text",
+     "text": "Wartość 5 gr"
+    },
+    {
+     "type": "text",
+     "text": "Cechy strona Wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Poniżej orła, półkolem, od graficzne główna lewej strony ku prawej, napis: RZECZPOSPOLITA POLSKA. W otoku stylizowane pierścienie, w górnej części przecinające się, u dołu rozdzielone oznaczeniem roku emisji. Pod orłem, po prawej stronie, znak mennicy."
+    },
+    {
+     "type": "text",
+     "text": "strona Z lewej strony duża cyfra 5, obok u góry poziomy napis: GROSZY, poniżej kompozycja odwrotna pięciu liści dębu."
+    },
+    {
+     "type": "text",
+     "text": "Brzeg (bok) Na przemian gładki i ząbkowany"
+    },
+    {
+     "type": "text",
+     "text": "Masa (w gramach) 2,59"
+    },
+    {
+     "type": "text",
+     "text": "Średnica 19,48 (w milimetrach)"
+    },
+    {
+     "type": "text",
+     "text": "Stop Stal powlekana mosiądzem"
+    },
+    {
+     "type": "text",
+     "text": "Wielkość emisji do 317 000 000 (w sztukach)"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

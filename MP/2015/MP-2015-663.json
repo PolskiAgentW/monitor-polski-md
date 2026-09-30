@@ -1,0 +1,373 @@
+{
+ "eli": "MP/2015/663",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/663/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lipca 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków oraz sposobu wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 3 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2015 r. poz. 318) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ustala się warunki oraz sposób wykorzystania techniki elektronicznej, jako narzędzia wspomagającego prace: obwodowych komisji do spraw referendum, gmin, komisarzy wyborczych oraz Państwowej Komisji Wyborczej, w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Wykorzystanie techniki elektronicznej nie zastępuje tradycyjnego, dotychczasowego ręcznego liczenia głosów przez obwodowe komisje do spraw referendum oraz konieczności porównania przez komisarzy wyborczych danych zawartych w systemie z dostarczonym protokołem głosowania w obwodzie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Warunkiem korzystania przez podmioty, o których mowa w § 1 ust. 1, z techniki elektronicznej jest używanie wyłącznie oprogramowania zaakceptowanego przez Państwową Komisję Wyborczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W przypadkach określonych w odrębnych uchwałach Państwowej Komisji Wyborczej dopuszczalne jest korzystanie z arkusza kalkulacyjnego dostarczonego przez Państwową Komisję Wyborczą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "System informatyczny Wsparcie Organów Wyborczych (WOW) umożliwia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "wprowadzenie i przechowywanie danych o terytorialnym zasięgu działania komisarzy wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wprowadzenie przez urzędy gmin i przechowywanie danych o obwodach głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "wprowadzenie przez urzędy gmin i przechowywanie danych o liczbie mieszkańców, o liczbie osób uprawnionych do udziału w referendum, o liczbie udzielonych pełnomocnictw do głosowania, o liczbie wydanych zaświadczeń o prawie do głosowania, o liczbie wysłanych pakietów referendalnych oraz o liczbie osób dopisanych i skreślonych ze spisu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "druk szablonu protokołu głosowania dla właściwej obwodowej komisji do spraw referendum;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "wprowadzenie wszystkich danych zawartych w protokole głosowania w obwodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "wsparcie sprawdzenia pod względem zgodności arytmetycznej poprawności ustalenia wyników głosowania w obwodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "sporządzenie, w formie wydruku, projektu protokołu głosowania w obwodzie z ewentualnym raportem ostrzeżeń oraz zestawienia błędów, ułatwiającego sprawdzenie zgodności arytmetycznej poprawności ustalenia wyników głosowania w obwodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_1/pkt_8",
+       "text": "zapisanie danych z protokołu w postaci pliku na elektronicznym nośniku danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_1/pkt_9",
+       "text": "przekazanie z obwodowej komisji do spraw referendum do właściwego terytorialnie komisarza wyborczego, bezpośrednio lub za pośrednictwem pełnomocnika komisarza wyborczego w gminie, danych o wynikach głosowania w obwodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/ust_1/pkt_10",
+       "text": "weryfikację oraz zatwierdzenie przez komisarza wyborczego zgodności danych elektronicznych otrzymanych z obwodowej komisji do spraw referendum z protokołem głosowania przekazanym przez obwodową komisję do spraw referendum;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_3/ust_1/pkt_11",
+       "text": "sporządzenie wydruków kontrolnych zawierających dane z protokołów głosowania w poszczególnych obwodach z właściwości terytorialnej komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_3/ust_1/pkt_12",
+       "text": "zsumowanie wyników głosowania na obszarze właściwości komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_3/ust_1/pkt_13",
+       "text": "sporządzenie, w formie wydruku, projektu protokołu głosowania na obszarze właściwości komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_3/ust_1/pkt_14",
+       "text": "przekazanie przez komisarza wyborczego wyników głosowania z obszaru swojej właściwości do Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_3/ust_1/pkt_15",
+       "text": "weryfikację przez Państwową Komisję Wyborczą zgodności danych elektronicznych otrzymanych z obszaru właściwości komisarza wyborczego z danymi z protokołu głosowania na obszarze tej właściwości, dostarczonego przez komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_3/ust_1/pkt_16",
+       "text": "zsumowanie przez Państwową Komisję Wyborczą wyników głosowania na obszarze kraju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_3/ust_1/pkt_17",
+       "text": "sporządzenie, w formie wydruku, projektu protokołu ustalenia wyniku referendum;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_3/ust_1/pkt_18",
+       "text": "przechowywanie danych zawartych w protokołach głosowania w obwodach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "System informatyczny zapewnia Państwowej Komisji Wyborczej wgląd we wszystkie dane z protokołów głosowania w obwodzie, wprowadzone do systemu informatycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "System informatyczny zapewnia przesyłanie danych obejmujących wyniki głosowania przez internet, z zapewnieniem bezpieczeństwa komunikacji i autoryzacji oraz poprawności i integralności przekazanych danych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Obsługę informatyczną Państwowej Komisji Wyborczej zapewnia Szef Krajowego Biura Wyborczego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Obsługę informatyczną komisarza wyborczego zapewnia dyrektor właściwej delegatury Krajowego Biura Wyborczego przy pomocy pełnomocnika ds. informatyki komisarza wyborczego, podporządkowanego komisarzowi wyborczemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W skład zespołu informatycznego komisarza wyborczego, oprócz pełnomocnika ds. informatyki mogą, w zależności od potrzeb, wchodzić inne osoby, zatrudnione przez dyrektora delegatury Krajowego Biura Wyborczego na podstawie umowy cywilnoprawnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Obsługę informatyczną obwodowej komisji do spraw referendum zapewnia wójt (burmistrz, prezydent miasta) w ramach zadań zleconych gminie, powołując w tym celu operatora informatycznej obsługi obwodowej komisji do spraw referendum. Wójt (burmistrz, prezydent miasta) zapewnia też niezbędny sprzęt teleinformatyczny oraz dostęp do internetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zadania operatora, o którym mowa w ust. 1, może wykonywać członek obwodowej komisji do spraw referendum, w tym także osoba wskazana do składu tej komisji przez wójta (burmistrza, prezydenta miasta).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wójt (burmistrz, prezydent miasta), po uzgodnieniu z właściwym miejscowo dyrektorem delegatury Krajowego Biura Wyborczego, powołuje koordynatora gminnego odpowiedzialnego w szczególności za szkolenie operatorów obsługi informatycznej obwodowych komisji do spraw referendum, jak też wsparcie techniczne obsługi informatycznej tych komisji i pełnomocnika komisarza wyborczego w gminie. Dopuszcza się możliwość powołania koordynatorów gminnych przez komisarza wyborczego i zatrudnienie tych osób przez dyrektora delegatury Krajowego Biura Wyborczego na podstawie umowy cywilnoprawnej. W takiej sytuacji wójt (burmistrz, prezydent miasta) nie powołuje koordynatora gminnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Wójt (burmistrz, prezydent miasta) w ramach zadań zleconych gminie, zapewnia, po uzgodnieniu z właściwym miejscowo dyrektorem delegatury Krajowego Biura Wyborczego, udostępnienie sprzętu teleinformatycznego niezbędnego dla wykonania zadań pełnomocnika komisarza wyborczego w gminie oraz koordynatora gminnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Szczegółowy zakres zadań osób uczestniczących w obsłudze informatycznej określi:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "Szef Krajowego Biura Wyborczego – w odniesieniu do osób odpowiedzialnych za wsparcie informatyczne prac Państwowej Komisji Wyborczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "dyrektor delegatury Krajowego Biura Wyborczego po porozumieniu z komisarzem wyborczym w odniesieniu do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_2/lit_a",
+       "text": "pełnomocnika ds. informatyki komisarza wyborczego oraz innych osób stanowiących zespół informatyczny komisarza wyborczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_2/lit_b",
+       "text": "pełnomocników komisarza wyborczego w gminach,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/pkt_2/lit_c",
+       "text": "powołanych przez komisarza wyborczego koordynatorów gminnych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "wójt (burmistrz, prezydent miasta) po porozumieniu z właściwym miejscowo dyrektorem delegatury Krajowego Biura Wyborczego w odniesieniu do:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_3/lit_a",
+       "text": "powołanego przez wójta (burmistrza, prezydenta miasta) koordynatora gminnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_3/lit_b",
+       "text": "operatorów informatycznej obsługi obwodowych komisji do spraw referendum.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

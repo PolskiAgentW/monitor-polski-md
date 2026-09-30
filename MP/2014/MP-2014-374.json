@@ -1,0 +1,106 @@
+{
+ "eli": "MP/2014/374",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 9 maja 2014 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/374/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "Sejmu RzeczypoSpolitej polSkiej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 maja 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32 i 819 oraz z 2013 r. poz. 62) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 7 w ust. 2 dodaje się zdanie drugie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Prezydium Sejmu po zasięgnięciu opinii Konwentu Seniorów może wyrazić zgodę na to, aby poseł był członkiem trzech komisji stałych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 18 w ust. 1 po pkt 16 dodaje się pkt 16a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„16a) Polityki Senioralnej,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_3/lit_a",
+       "text": "po pkt 16 dodaje się pkt 16a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„16a) Polityki Senioralnej należą sprawy kształtowania polityki państwa dotyczącej osób starszych;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "w pkt 17 skreśla się wyrazy „oraz aktywizacji osób w wieku przedemerytalnym”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "W sprawach dotyczących aktywizacji osób w wieku przedemerytalnym skierowanych do Komisji Polityki Społecznej i Rodziny przed dniem wejścia w życie niniejszej uchwały właściwa pozostaje ta komisja.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: E. Kopacz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

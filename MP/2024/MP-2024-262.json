@@ -1,0 +1,1825 @@
+{
+ "eli": "MP/2024/262",
+ "title": "Uchwała nr 173/2024 Państwowej Komisji Wyborczej z dnia 25 marca 2024 r. w sprawie wytycznych dla terytorialnych komisji wyborczych dotyczących ustalania wyników głosowania i wyników wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast zarządzonych na dzień 7 kwietnia 2024 r.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/262/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 173/2024"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 marca 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wytycznych dla terytorialnych komisji wyborczych dotyczących ustalania wyników głosowania i wyników wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast zarządzonych na dzień 7 kwietnia 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 161 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408) oraz w związku z art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2018 r. poz. 1817) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wytyczne dla terytorialnych komisji wyborczych dotyczące ustalania wyników głosowania i wyników wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast zarządzonych na dzień 7 kwietnia 2024 r., stanowiące załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S. Marciniak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 173/2024 Państwowej Komisji Wyborczej z dnia 25 marca 2024 r. (M.P. poz. 262) TÓW, SEJMIKÓW",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYTYCZNE DLA TERYTORIALNYCH KOMISJI WYBORCZYCH DOTYCZĄCE USTALANIA WYNIKÓW GŁOSOWANIA I WYNIKÓW WYBORÓW DO RAD GMIN, RAD POWIATÓW, SEJMIKÓW WOJEWÓDZTW I RAD DZIELNIC M.ST. WARSZAWY ORAZ WYBORACH WÓJTÓW, BURMISTRZÓW I PREZYDENTÓW MIAST ZARZĄDZONYCH NA DZIEŃ 7 KWIETNIA 2024 R."
+    },
+    {
+     "type": "text",
+     "text": "Ilekroć w wytycznych mowa jest o:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Kodeksie wyborczym – należy przez to rozumieć ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2023 r. poz. 2408);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "systemie teleinformatycznym Wsparcie Organów Wyborczych (WOW) – należy przez to rozumieć zaakceptowany i zapewniony przez Państwową Komisję Wyborczą i Krajowe Biuro Wyborcze system teleinformatyczny, o którym mowa w art. 162 § 3 Kodeksu wyborczego, pomocniczo wykorzystywany przez organy wyborcze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "radzie – należy przez to rozumieć odpowiednio radę gminy (miasta), radę powiatu, sejmik województwa lub radę dzielnicy m.st. Warszawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "wójcie – należy przez to rozumieć odpowiednio wójta, burmistrza lub prezydenta miasta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "komisji obwodowej – należy przez to rozumieć obwodową komisję wyborczą;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "terytorialnej komisji wyborczej – należy przez to rozumieć gminną (miejską) komisję wyborczą, powiatową komisję wyborczą, wojewódzką komisję wyborczą oraz dzielnicową komisję wyborczą w m.st. Warszawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "gminnej komisji wyborczej – należy przez to rozumieć także miejską komisję wyborczą;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "protokole głosowania – należy przez to rozumieć protokoły głosowania w obwodzie, o których mowa w § 1–9 uchwały nr 29/2024 Państwowej Komisji Wyborczej z dnia 23 stycznia 2024 r. w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast (M.P. poz. 131);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "uchwale w sprawie protokołów – należy przez to rozumieć uchwałę nr 28/2024 Państwowej Komisji Wyborczej z dnia 23 stycznia 2024 r. w sprawie ustalenia wzorów protokołów, zestawień i zaświadczeń o wyborze sporządzanych przez terytorialne komisje wyborcze w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m. st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast (M.P. poz. 98);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "gminnym (miejskim, dzielnicowym) zespole informatycznym, powiatowym zespole informatycznym oraz wojewódzkim zespole informatycznym – należy przez to rozumieć także odpowiednio koordynatora gminnego (miejskiego, dzielnicowego), powiatowego oraz wojewódzkiego ds. informatyki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "zespole informatycznym – należy przez to rozumieć gminny (miejski, dzielnicowy) zespół informatyczny, powiatowy zespół informatyczny oraz wojewódzki zespół informatyczny, a także odpowiednio koordynatora gminnego (miejskiego, dzielnicowego) ds. informatyki, koordynatora powiatowego ds. informatyki oraz koordynatora wojewódzkiego ds. informatyki.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Terytorialne komisje wyborcze przy wykonywaniu wszystkich czynności obowiązane są korzystać z systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW)."
+      },
+      {
+       "type": "text",
+       "text": "I. Zadania i czynności terytorialnych komisji wyborczych przed dniem wyborów i w dniu wyborów w czasie głosowania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Terytorialna komisja wyborcza powinna ustalić szczegółowy plan prac wykonywanych w dniu poprzedzającym wybory i w dniu wyborów oraz zasady współdziałania z komisjami obwodowymi i odpowiednio: z wójtem, starostą i marszałkiem województwa, właściwym komisarzem wyborczym, urzędnikiem wyborczym, a także ze służbami odpowiedzialnymi za bezpieczeństwo i ład publiczny. W szczególności należy uwzględnić ewentualną potrzebę pilnego wydrukowania i dostarczenia do obwodów głosowania obwieszczeń informujących o zmianach na liście kandydatów, a także nowych kart do głosowania w wyborach wójta (dotyczy to gminnych i miejskich komisji wyborczych).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Protokoły głosowania są dostarczane właściwym terytorialnym komisjom wyborczym osobiście przez przewodniczącego komisji obwodowej lub jego zastępcę albo przez osobę pisemnie upoważnioną przez przewodniczącego właściwej terytorialnej komisji wyborczej do odbioru protokołów głosowania z siedziby komisji obwodowej, w zapieczętowanych kopertach (art. 78 § 1 zdanie drugie Kodeksu wyborczego). W związku z tym gminna komisja wyborcza i powiatowa komisja wyborcza ustala również, po uzgodnieniu z organem obsługującym daną komisję, sposób przekazania protokołów głosowania przez komisje obwodowe, tj. czy protokoły głosowania będą dostarczone osobiście przez przewodniczących komisji obwodowych lub ich zastępców do siedziby właściwej terytorialnej komisji wyborczej, czy też zostaną przekazane w siedzibie komisji obwodowej osobie upoważnionej przez przewodniczącego właściwej terytorialnej komisji wyborczej. Przy dokonywaniu tych ustaleń należy wziąć pod uwagę wielkość gminy i liczbę obwodów głosowania, tak aby przekazanie protokołów głosowania odbywało się w sposób płynny. Przewodniczący terytorialnych komisji wyborczych powinni zwrócić się do komendanta właściwej miejscowo komendy Policji z prośbą o zabezpieczenie czynności związanych z przekazywaniem protokołów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Osoby odbierające protokoły głosowania z siedzib komisji obwodowych wykonują powierzone im czynności na podstawie pisemnego upoważnienia podpisanego przez przewodniczącego terytorialnej komisji wyborczej, dla której przeznaczone są protokoły. Odbiór kopert z protokołami głosowania potwierdzają one czytelnym podpisem. Na pokwitowaniu otrzymania protokołu wpisują informacje: od której komisji obwodowej, jaki protokół otrzymały oraz datę i godzinę otrzymania koperty z protokołem głosowania. Otrzymane koperty w stanie nienaruszonym dostarczają właściwej terytorialnej komisji wyborczej. W celu sprawnej kontroli odbioru kopert z protokołami osoby przyjmujące protokoły głosowania powinny prowadzić zestawienie kontrolne otrzymywanych protokołów głosowania według poszczególnych obwodów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "W przeddzień i w dniu głosowania niezbędne jest pełnienie dyżurów przez członków terytorialnej komisji wyborczej w celu rozstrzygania spraw związanych z wyborami, np. podjęcia uchwały o skreśleniu kandydata bądź unieważnieniu rejestracji listy, a także udzielania pomocy komisjom obwodowym i podejmowania niezbędnych działań w razie zaistnienia nieprzewidzianych sytuacji. Terytorialne komisje wyborcze rozpatrują te sprawy niezwłocznie, podejmują stosowne uchwały i sporządzają obwieszczenia o dokonanych skreśleniach nazwisk kandydatów bądź o unieważnieniu rejestracji list.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Obwieszczenie podaje się do publicznej wiadomości oraz wywiesza w widocznym miejscu w lokalach wyborczych na obszarze właściwych okręgów wyborczych, a w przypadku skreślenia kandydata na wójta – na obszarze całej gminy."
+      },
+      {
+       "type": "text",
+       "text": "Terytorialne komisje wyborcze przy wykonywaniu opisanych wyżej czynności i zadań obowiązane są korzystać z systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW). W przypadku skreślenia kandydata lub unieważnienia rejestracji listy kandydatów terytorialna komisja wyborcza poleca niezwłoczne wprowadzenie tej informacji do tego systemu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W przypadku skreślenia kandydata lub unieważnienia rejestracji listy po wydrukowaniu kart do głosowania, w obwieszczeniu, oprócz informacji o skreśleniu bądź unieważnieniu, podaje się wyjaśnienie o warunkach ważności głosu oddanego na karcie do głosowania, na której pozostało nazwisko skreślonego kandydata bądź unieważniona lista (art. 437 § 2 i 3 Kodeksu wyborczego).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Terytorialne komisje wyborcze są także obowiązane sprawdzić, w których okręgach wyborczych głosowanie nie będzie przeprowadzone, oraz w których okręgach wybory nie odbędą się.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W wyborach do rad głosowania nie przeprowadza się, gdy liczba zarejestrowanych kandydatów na liście bądź listach jest równa liczbie radnych wybieranych w tym okręgu lub od niej mniejsza (art. 380 Kodeksu wyborczego). W takim przypadku gminna komisja wyborcza w gminach liczących do 20 000 mieszkańców uznaje za wybranych na radnych zarejestrowanych kandydatów. W gminach liczących powyżej 20 000 mieszkańców, w powiatach, województwach i dzielnicach m.st. Warszawy terytorialna komisja wyborcza za wybranych radnych uzna zarejestrowanych kandydatów, jeżeli na listy komitetu wyborczego, który ich zgłosił, w skali odpowiednio gminy, powiatu, województwa lub dzielnicy m.st. Warszawy, oddano co najmniej 5 % ważnie oddanych głosów. Jeżeli liczba kandydatów na radnych jest mniejsza od liczby mandatów, pozostałe mandaty pozostają nieobsadzone."
+      },
+      {
+       "type": "text",
+       "text": "II. Przyjmowanie protokołów głosowania od komisji obwodowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Terytorialna komisja wyborcza od zakończenia głosowania musi być przygotowana do przyjmowania protokołów głosowania od komisji obwodowych. Przy przekazywaniu terytorialnej komisji wyborczej protokołów głosowania mogą być obecni mężowie zaufania wyznaczeni do komisji obwodowej, jeżeli przybyli do siedziby terytorialnej komisji wyborczej z osobą przekazującą protokoły głosowania. Przy dalszych czynnościach terytorialnej komisji wyborczej mogą być obecni mężowie zaufania i obserwatorzy społeczni wyznaczeni do danej terytorialnej komisji wyborczej oraz międzynarodowi obserwatorzy wyborów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Przyjmując protokoły głosowania terytorialna komisja wyborcza sprawdza, czy znajdują się one w zapieczętowanych kopertach. Jeżeli protokoły głosowania nie zostały dostarczone w zapieczętowanych kopertach, terytorialna komisja wyborcza zawiadamia o tym niezwłocznie Policję i komisarza wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Doręczenie protokołów głosowania odnotowuje się na przygotowanym wcześniej wykazie obwodów głosowania, następnie protokół głosowania sprawdza się pod względem poprawności sporządzenia, zwracając uwagę, czy prawidłowo wpisano numer obwodu i okręgu, liczbę mandatów w tym okręgu, kod terytorialny gminy oraz czy protokół głosowania jest podpisany przez wymaganą liczbę członków komisji obwodowej (co najmniej 2/3 jej ustawowego składu) i czy jest opatrzony właściwą pieczęcią, a także czy na każdej stronie protokołu, z wyjątkiem strony z podpisami członków komisji obwodowej i stron pustych (dotyczy to przypadku drukowania dwustronnego), znajdują się parafy członków danej komisji obwodowej uczestniczących w jego sporządzeniu. W przypadku protokołu wydrukowanego w systemie teleinformatycznym Wsparcie Organów Wyborczych (WOW) sprawdza się, czy na każdej stronie znajduje się taki sam symbol kontrolny systemu informatycznego oraz czy na każdej stronie wydrukowany jest kod kreskowy, a także czy do protokołu została załączona strona z kodem QR. W razie wniesienia do protokołu głosowania zarzutów przez mężów zaufania wyznaczonych do komisji obwodowych lub członków tych komisji należy sprawdzić, czy komisja obwodowa dołączyła swoje stanowisko, w którym ustosunkowała się do zarzutów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "O stwierdzeniu braków lub innych uchybień w omawianym zakresie terytorialna komisja wyborcza zawiadamia pisemnie przewodniczącego komisji obwodowej i wzywa do ich usunięcia. Wojewódzkie komisje wyborcze sprawdzają w podanym wyżej zakresie poprawność protokołów zbiorczych wyników głosowania na obszarze powiatu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Gminne komisje wyborcze, z wyjątkiem miast na prawach powiatu, otrzymują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "protokoły głosowania w wyborach do rady gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "protokoły głosowania w wyborach wójta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "raport lub raporty ostrzeżeń, jeżeli zostały sporządzone w związku z wyborami do rady gminy lub wyborami wójta oraz informatyczny nośnik danych zawierający dane ze wszystkich protokołów głosowania w postaci plików, jeżeli komisja miała obsługę informatyczną, a dane z protokołów głosowania nie zostały wcześniej wprowadzone do sieci elektronicznego przekazywania danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Dzielnicowe komisje wyborcze w m.st. Warszawie otrzymują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "protokoły głosowania do rady dzielnicy m.st. Warszawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "raport ostrzeżeń, jeżeli został sporządzony w związku z wyborami do rady dzielnicy m.st. Warszawy oraz informatyczny nośnik danych zawierający dane ze wszystkich protokołów głosowania w postaci plików, jeżeli komisja miała obsługę informatyczną, a dane z protokołów głosowania nie zostały wcześniej wprowadzone do sieci elektronicznego przekazywania danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Miejskie komisje wyborcze w miastach na prawach powiatu otrzymują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "protokoły głosowania w wyborach do rady miasta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "protokoły głosowania w wyborach prezydenta miasta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "protokoły głosowania w wyborach do sejmiku województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_6/pkt_4",
+       "text": "raport lub raporty ostrzeżeń, jeżeli zostały sporządzone w związku z wyborami do rady miasta lub do sejmiku województwa albo wyborami prezydenta miasta oraz informatyczny nośnik danych zawierający dane ze wszystkich protokołów głosowania w postaci plików, jeżeli komisja miała obsługę informatyczną, a dane z protokołów głosowania nie zostały wcześniej wprowadzone do sieci elektronicznego przekazywania danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Powiatowe komisje wyborcze otrzymują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "protokoły głosowania w wyborach do rady powiatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "protokoły głosowania w wyborach do sejmiku województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "raport lub raporty ostrzeżeń, jeżeli zostały sporządzone w związku z wyborami III. Zakres stosowania systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zgodnie z uchwałą nr 42/2024 Państwowej Komisji Wyborczej z dnia 7 lutego 2024 r. w sprawie warunków oraz sposobu pomocniczego wykorzystania techniki elektronicznej w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast zarządzonych na dzień 7 kwietnia 2024 r. (M.P. poz. 186) terytorialna komisja wyborcza dla ustalenia wyników głosowania i wyników wyborów obowiązana jest korzystać z systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zespół informatyczny działa pod nadzorem terytorialnej komisji wyborczej. Zespół ten przyjmie i potwierdzi w systemie teleinformatycznym Wsparcie Organów Wyborczych (WOW) wyniki głosowania z protokołów głosowania komisji obwodowych przekazane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "elektronicznie – bezpośrednio przez komisje obwodowe korzystające ze wspomagania informatycznego i posiadające łączność internetową;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "na informatycznym nośniku danych zawierającym dane ze wszystkich protokołów głosowania w postaci plików, jeżeli komisja obwodowa miała obsługę informatyczną, a dane z protokołów głosowania nie zostały wcześniej wprowadzone do sieci elektronicznego przekazywania danych. W takim przypadku do systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW) dane z protokołów głosowania z wyborów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_2/lit_a",
+         "text": "do rady gminy – wprowadza gminny zespół informatyczny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_2/lit_b",
+         "text": "do rady dzielnicy m.st. Warszawy – wprowadza dzielnicowy zespół informatyczny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_2/lit_c",
+         "text": "do rady powiatu i do sejmiku województwa – wprowadza powiatowy zespół informatyczny,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_2/lit_d",
+         "text": "w miastach na prawach powiatu dane z wyborów do sejmiku województwa – wprowadza miejski zespół informatyczny;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "przez terytorialną komisję wyborczą – z przyjętych przez nią protokołów głosowania sporządzonych przez te komisje obwodowe, które wcześniej nie przekazały wyników głosowania w formie, o której mowa w ppkt 1 i 2. Potwierdzenie wprowadzonych do systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW) danych o wynikach głosowania z obwodów, o których mowa w pkt 1 i 2, z danymi z protokołu głosowania przyjętego przez terytorialną komisję wyborczą polega na wprowadzeniu do tego systemu symbolu kontrolnego lub kodu kreskowego umieszczonego na protokole głosowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jeżeli po wprowadzeniu danych z protokołu głosowania komisji obwodowej system teleinformatyczny Wsparcie Organów Wyborczych (WOW) wydrukuje zestawienie ostrzeżeń, terytorialna komisja wyborcza dokonuje analizy tych ostrzeżeń i podejmuje odpowiednie działania wyjaśniające."
+        },
+        {
+         "type": "text",
+         "text": "IV. Ustalanie wyników głosowania i wyników wyborów przez terytorialne komisje wyborcze"
+        },
+        {
+         "type": "text",
+         "text": "Uprawnienia mężów zaufania, obserwatorów społecznych"
+        },
+        {
+         "type": "text",
+         "text": "i międzynarodowych obserwatorów wyborów"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przy ustalaniu wyników głosowania i wyników wyborów przez terytorialne komisje wyborcze mogą być obecni mężowie zaufania oraz obserwatorzy społeczni (art. 103a § 1 i art. 103c § 2 Kodeksu wyborczego).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Mężowie zaufania przed przystąpieniem do swoich czynności przedstawiają przewodniczącemu terytorialnej komisji wyborczej dokument tożsamości oraz zaświadczenie podpisane przez pełnomocnika wyborczego lub upoważnioną przez niego osobę, sporządzone według wzoru ustalonego przez Państwową Komisję Wyborczą uchwałą nr 65/2023 Państwowej Komisji Wyborczej z dnia 17 sierpnia 2023 r. w sprawie wzoru zaświadczenia dla męża zaufania (M.P. poz. 929). Jeżeli zaświadczenie wystawiła osoba upoważniona przez pełnomocnika wyborczego, mąż zaufania okazuje również oryginał lub kserokopię tego upoważnienia. Na podstawie przedłożonego terytorialnej komisji wyborczej zaświadczenia, w którym wskazana będzie m.in. nazwa komitetu wyborczego, członek danej komisji weryfikuje uprawnienie do wyznaczenia męża zaufania przez dany komitet. Sprawdzenia, czy dany komitet wyborczy jest do tego uprawniony należy dokonać poprzez weryfikację, czy komitet ten zarejestrował listę kandydatów na radnych na obszarze danej jednostki samorządu terytorialnego, dla której jest właściwa terytorialna komisja wyborcza, lub zarejestrował kandydata na wójta w danej gminie. Poza tym terytorialna komisja wyborcza weryfikuje, czy zaświadczenie lub upoważnienie podpisał upoważniony do tego pełnomocnik wyborczy. Sprawdzenia tych informacji można dokonać na podstawie systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zaświadczenia mogą różnić się między sobą wyglądem i układem graficznym, ale ich treść musi odpowiadać wzorowi ustalonemu przez Państwową Komisję Wyborczą."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Mężowie zaufania są uprawnieni do obserwowania wszystkich czynności terytorialnej komisji wyborczej oraz do zgłaszania jej przewodniczącemu na bieżąco uwag i zastrzeżeń. Mogą także wnieść do protokołu uwagi z wymienieniem konkretnych zarzutów, być obecni przy wprowadzeniu danych z protokołów do sieci elektronicznego przekazywania danych, tj. do systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW), a także przy przewożeniu i przekazywaniu protokołu głosowania komisarzowi wyborczemu (art. 103b § 1 pkt 1, 3 i 4 Kodeksu wyborczego).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Obserwatorzy społeczni przed przystąpieniem do swoich czynności przedstawiają przewodniczącemu terytorialnej komisji wyborczej dokument tożsamości oraz zaświadczenie podpisane przez osobę działającą w imieniu organu uprawnionego do reprezentowania na zewnątrz stowarzyszenia/fundacji, sporządzone według wzoru ustalonego przez Państwową Komisję Wyborczą uchwałą nr 66/2023 Państwowej Komisji Wyborczej z dnia 17 sierpnia 2023 r. w sprawie wzoru zaświadczenia dla obserwatora społecznego (M.P. poz. 899). Na podstawie przedłożonego terytorialnej komisji wyborczej zaświadczenia, wskazującego numer, pod którym stowarzyszenie lub fundacja została wpisana do Krajowego Rejestru Sądowego, członek danej komisji weryfikuje uprawnienie do wyznaczenia obserwatorów społecznych przez dane stowarzyszenie lub fundację. Sprawdzenia można dokonać w wyszukiwarce Ministerstwa Sprawiedliwości na stronie internetowej: https://ekrs.ms.gov.pl/web/wyszukiwarkakrs/strona-glowna/index.html.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Czynności te może wykonywać pracownik urzędu obsługującego terytorialną komisję wyborczą."
+      },
+      {
+       "type": "text",
+       "text": "Zaświadczenia mogą różnić się między sobą wyglądem i układem graficznym, ale ich treść musi odpowiadać wzorowi ustalonemu przez Państwową Komisję Wyborczą."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Obserwatorzy społeczni mają takie same uprawnienia, jakie przysługują mężom zaufania, za wyjątkiem wnoszenia uwag do protokołu oraz obecności przy przewożeniu i przekazywaniu protokołu komisarzowi wyborczemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Na żądanie mężów zaufania i obserwatorów społecznych terytorialna komisja wyborcza może zlecić wykonanie wydruków kontrolnych danych z protokołów zapisanych w systemie teleinformatycznym Wsparcie Organów Wyborczych (WOW) ze wskazanych przez nich obwodów głosowania w celu porównania tych danych z protokołami głosowania przekazanymi przez komisje obwodowe. Mężowie zaufania oraz obserwatorzy społeczni mogą otrzymać kopie wydruków sprawdzonych w ten sposób protokołów. Ograniczenie liczby protokołów sprawdzanych z wydrukami może być podyktowane wyłącznie względami organizacyjnymi, związanymi ze zbyt dużą liczbą bieżących zadań niezbędnych do wykonania przez terytorialną komisję wyborczą (np. liczbą komisji obwodowych oczekujących na przyjęcie protokołu). O wprowadzeniu określonych ograniczeń decyduje terytorialna komisja wyborcza.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Obserwacja czynności wykonywanych przez terytorialną komisję wyborczą nie uprawnia mężów zaufania oraz obserwatorów społecznych do utrwalania pracy tej komisji za pomocą urządzeń rejestrujących (telefonów, aparatów fotograficznych lub kamer). Można natomiast fotografować oraz filmować protokół podany do wiadomości publicznej przez terytorialną komisję wyborczą.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Mężowie zaufania oraz obserwatorzy społeczni nie mogą wykonywać żadnych czynności członka terytorialnej komisji wyborczej, a wykonywanie ich uprawnień nie może utrudniać pracy tej komisji."
+      },
+      {
+       "type": "text",
+       "text": "Przy pełnieniu czynności w terytorialnej komisji wyborczej mężowie zaufania oraz obserwatorzy społeczni powinni nosić identyfikatory z imieniem, nazwiskiem i funkcją."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Międzynarodowi obserwatorzy wyborów legitymują się zaświadczeniem wydanym przez Państwową Komisję Wyborczą. Przysługują im takie uprawnienia jak mężom zaufania, z wyjątkiem prawa do wnoszenia uwag do protokołu (art. 50 Kodeksu wyborczego).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Formularze wyborcze i sposób ich wypełnienia"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Terytorialne komisje wyborcze, ustalając wyniki głosowania i wyniki wyborów, sporządzają protokoły i zestawienia na formularzach, których wzory określiła Państwowa Komisja Wyborcza uchwałą w sprawie protokołów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Protokoły wraz zestawieniami terytorialne komisje wyborcze sporządzają w 3 egzemplarzach."
+      },
+      {
+       "type": "text",
+       "text": "Przy sporządzaniu tych dokumentów komisje obowiązane są korzystać z systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW). W razie niemożności skorzystania z wydruku komputerowego formularz protokołu należy wypełnić ręcznie w sposób staranny i czytelny."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Uwagi mężów zaufania terytorialna komisja wyborcza wpisuje bezpośrednio do właściwych rubryk protokołu. Mąż zaufania, który wniósł uwagę, podpisuje ją w protokole. Jeżeli mężowie zaufania nie zgłosili uwag lub nie byli obecni przy sporządzaniu protokołu, w punkcie tym należy wpisać odpowiednio wyrazy „brak zarzutów” lub „brak mężów zaufania”. Członek terytorialnej komisji wyborczej, który wniósł uwagę z wymienieniem konkretnych zarzutów, podpisuje ją w protokole. Jeżeli członkowie terytorialnej komisji wyborczej nie zgłosili uwag, w punkcie tym należy wpisać wyrazy „brak zarzutów”.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Jeżeli treść uwag mężów zaufania albo członków terytorialnej komisji wyborczej nie mieści się na formularzu, należy napisać je na odrębnych kartkach i dołączyć do protokołu, zaznaczając to w odpowiednim punkcie tego protokołu."
+      },
+      {
+       "type": "text",
+       "text": "W rubryce „Inne uwagi” terytorialna komisja wyborcza ustosunkowuje się do wniesionych zarzutów. Jeżeli stanowisko danej komisji nie mieści się w tej rubryce, należy je dołączyć do protokołu w formie załącznika."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Terytorialna komisja wyborcza sporządza protokoły i zestawienia w możliwie pełnym składzie, lecz nie mniejszym niż co najmniej 1/2 jej ustawowego składu, w tym z udziałem przewodniczącego danej komisji lub jego zastępcy. Dokumenty te opatruje się pieczęcią terytorialnej komisji wyborczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Każdą stronę protokołu i zestawienia parafują wszyscy członkowie terytorialnej komisji wyborczej obecni przy ich sporządzaniu. Należy zwrócić uwagę, aby parafy członków terytorialnej komisji wyborczej nie zostały umieszczone na symbolu kontrolnym lub kodzie kreskowym umieszczonym na protokole głosowania zamieszczonym na dole każdej strony protokołu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sporządzenie zestawień i protokołów wyników wyborów"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Protokół głosowania po sprawdzeniu w systemie teleinformatycznym Wsparcie Organów Wyborczych (WOW) zespół informatyczny zwraca terytorialnej komisji wyborczej wraz z potwierdzeniem jego zgodności arytmetycznej. Po ustaleniu przez terytorialną komisję wyborczą, że nie zawiera on wad, zawiadamia ona komisję obwodową o przyjęciu protokołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "W przypadku stwierdzenia nieprawidłowości w protokole głosowania terytorialna komisja wskazuje je na piśmie i ustala sposób ich usunięcia, informując o tym niezwłocznie komisję obwodową. Usunięcie nieprawidłowości może polegać w szczególności na: sporządzeniu nowego protokołu głosowania, naniesieniu na już sporządzony protokół głosowania poprawek i ich parafowaniu przez komisję obwodową oraz opatrzeniu pieczęcią, uzupełnieniu danych w protokole głosowania (np. brakujących podpisów członków komisji obwodowych obecnych przy sporządzaniu protokołu głosowania, brakującego odcisku pieczęci).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Czynności gminnych komisji wyborczych w gminach"
+      },
+      {
+       "type": "text",
+       "text": "liczących do 20 000 mieszkańców"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "W pierwszej kolejności gminna komisja wyborcza przystępuje do ustalenia wyników wyborów wójta oraz sporządzenia protokołu wyników głosowania i wyników wyborów, a następnie ustala wyniki wyborów do rady gminy (miasta).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Wyniki głosowania i wyniki wyborów wójta",
+     "children": [
+      {
+       "type": "text",
+       "text": "Po wprowadzeniu do systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW) danych ze wszystkich protokołów głosowania gminna komisja wyborcza otrzymuje wydruk komputerowy projektu protokołu wyników głosowania i wyników wyborów wójta."
+      },
+      {
+       "type": "text",
+       "text": "Gminna komisja wyborcza w przypadku wątpliwości powinna sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą. Jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności."
+      },
+      {
+       "type": "text",
+       "text": "Sporządzając protokół bez wspomagania informatycznego, gminna komisja wyborcza sumuje odpowiednie dane z protokołów głosowania wszystkich komisji obwodowych i wpisuje je w odpowiednich rubrykach formularza protokołu."
+      },
+      {
+       "type": "text",
+       "text": "Jeśli głosowano na dwóch lub więcej kandydatów, gminna komisja wyborcza korzysta z formularza stanowiącego załącznik nr 8 do uchwały w sprawie protokołów, a jeśli głosowano na jednego kandydata – z formularza stanowiącego załącznik nr 9 do tej uchwały."
+      },
+      {
+       "type": "text",
+       "text": "Jeśli w wyborach głosowano na więcej niż jednego kandydata, w pkt I.1–I.12 gminna komisja wyborcza wpisuje sumę odpowiednich liczb z protokołów głosowania."
+      },
+      {
+       "type": "text",
+       "text": "W pkt II.13 protokołu gminna komisja wyborcza wpisuje liczbę stanowiącą więcej niż połowę ważnie oddanych głosów. Liczbę tę ustala się w sposób następujący : jeżeli liczba ważnie oddanych głosów (pkt I.10) jest:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_16/pkt_1",
+       "text": "parzysta – należy podzielić ją przez 2 i dodać do wyniku dzielenia 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_16/pkt_2",
+       "text": "nieparzysta – należy podzielić ją przez 2 i dodać do wyniku dzielenia 0,5.",
+       "children": [
+        {
+         "type": "text",
+         "text": "W pkt II.14 gminna komisja wyborcza stwierdza, kto został wybrany na wójta. Jeżeli żaden z kandydatów nie uzyskał wymaganej większości głosów, w pkt II.15 wskazuje się dwóch kandydatów, którzy uzyskali największą liczbę głosów, a w przypadku równej liczby głosów niepozwalającej na wskazanie dwóch kandydatów – tego kandydata (lub kandydatów), który uzyskał większość głosów w większej liczbie obwodów głosowania lub, jeżeli także to kryterium nie pozwala wyłonić kandydata – kandydata ustalonego w trybie losowania. Jeżeli konieczne było ustalenie kandydata w trybie losowania, jego przebieg gminna komisja wyborcza opisuje w pkt II.15 ppkt 3."
+        },
+        {
+         "type": "text",
+         "text": "W przypadku stwierdzenia, że w wyborach żaden kandydat nie uzyskał wymaganej większości głosów i nie został wybrany na wójta, gminna komisja wyborcza, na podstawie art. 473 § 6 Kodeksu wyborczego, w drodze uchwały, podaje do publicznej wiadomości informację o konieczności i przyczynach przeprowadzenia ponownego głosowania w dniu 21 kwietnia 2024 r., wskazując nazwiska i imiona dwóch kandydatów uczestniczących w tym głosowaniu. Jeden egzemplarz uchwały przekazuje się komisarzowi wyborczemu. Wzór uchwały gminnej komisji wyborczej stanowi załącznik nr 5 do wytycznych."
+        },
+        {
+         "type": "text",
+         "text": "Jeśli w wyborach głosowano na jednego kandydata, kandydata uważa się za wybranego, jeżeli liczba głosów ważnych „za wyborem” (pkt II.11a) stanowi więcej niż połowę ważnie oddanych głosów (za wyborem i przeciw wyborowi), obliczoną w sposób wyżej podany (wpisaną w pkt III.12)."
+        },
+        {
+         "type": "text",
+         "text": "Wynik wyborów gminna komisja wyborcza niezwłocznie podaje do publicznej wiadomości przez wywieszenie jednego egzemplarza protokołu z wyborów w swojej siedzibie."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Wyniki głosowania i wyniki wyborów do rady gminy",
+     "children": [
+      {
+       "type": "text",
+       "text": "Po ustaleniu wyniku wyborów wójta gminna komisja wyborcza przystępuje do ustalenia wyników wyborów do rady gminy."
+      },
+      {
+       "type": "text",
+       "text": "Gminna komisja wyborcza otrzymuje wydruk komputerowy zestawień wyników głosowania osobno dla każdego okręgu wyborczego (według wzoru stanowiącego załącznik do wzoru protokołu z wyborów stanowiącego załącznik nr 1 do uchwały w sprawie protokołów)."
+      },
+      {
+       "type": "text",
+       "text": "Gminna komisja wyborcza w przypadku wątpliwości powinna sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą. Jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku sporządzania zestawień ręcznie gminna komisja wyborcza sumuje dane liczbowe z protokołów głosowania w obwodach i sporządza zestawienia głosowania oddzielnie dla każdego okręgu wyborczego."
+      },
+      {
+       "type": "text",
+       "text": "Po uzyskaniu wydruków komputerowych zestawień dla wszystkich okręgów, w których przeprowadzono głosowanie (lub po ich sporządzeniu w sposób ręczny), gminna komisja wyborcza przystępuje do sporządzenia protokołu z wyborów według wzoru stanowiącego załącznik nr 1 do uchwały w sprawie protokołów. Gminna komisja wyborcza drukuje z systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW) protokół z wyborów. Gminna komisja wyborcza przed podpisaniem protokołu – w przypadku wątpliwości – powinna sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą. Jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności."
+      },
+      {
+       "type": "text",
+       "text": "Sporządzając protokół w sposób ręczny gminna komisja wyborcza, po wypełnieniu części ogólnej i pkt I protokołu, w pkt II.A protokołu wpisuje liczbę i numery okręgów, w których nie przeprowadzono wyborów z powodu braku kandydatów i stwierdza, ile mandatów pozostaje nieobsadzonych."
+      },
+      {
+       "type": "text",
+       "text": "Punkt II.B wypełnia się wtedy, gdy w okręgu zarejestrowano jedną listę kandydatów. Za wybranego bez głosowania uznaje się kandydata z tej listy (art. 380 Kodeksu wyborczego)."
+      },
+      {
+       "type": "text",
+       "text": "Punkt III wypełnia się, wpisując dane zbiorcze z głosowania z poszczególnych protokołów głosowania w obwodzie."
+      },
+      {
+       "type": "text",
+       "text": "Punkt IV wypełnia się, wpisując dane z poszczególnych zestawień oraz protokołów z obsadzenia mandatów bez głosowania (o których mowa w dalszej części wytycznych). W punkcie tym ujmuje się dane dotyczące wszystkich okręgów wyborczych na obszarze gminy w kolejności ich numerów."
+      },
+      {
+       "type": "text",
+       "text": "Punkt IV.A wypełnia się w zależności od zaistnienia opisanych w nich sytuacji. Dotyczą one wskazania kandydata, który uzyskuje mandat w razie równej liczby głosów. W przypadku losowania kandydata, który uzyskał mandat, w punkcie tym opisuje się również przebieg losowania."
+      },
+      {
+       "type": "text",
+       "text": "W pkt IV.B wpisuje się dane dotyczące obsadzenia mandatu w danym okręgu wyborczym bez głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Punkt IV.C wypełnia się w sytuacji, gdy w danym okręgu wyborów nie przeprowadzono."
+      },
+      {
+       "type": "text",
+       "text": "Do protokołu gminna komisja wyborcza załącza zestawienia wyników głosowania z okręgów wyborczych oraz ewentualnie protokół (protokoły) obsadzenia mandatów radnych bez głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Protokół z obsadzenia mandatów radnych bez głosowania gminna komisja wyborcza sporządza, jeżeli w okręgu wyborczym zarejestrowano jedną listę kandydatów (jednego kandydata). Protokół ten sporządza się według załącznika nr 7 do uchwały w sprawie protokołów, odrębnie dla każdego okręgu, w którym nie przeprowadzono głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Protokół podpisują wszyscy obecni członkowie gminnej komisji wyborczej. Ponadto każda strona protokołu jest parafowana przez wszystkich obecnych jej członków. Należy zwrócić uwagę, aby parafy członków gminnej komisji wyborczej nie zostały umieszczone na symbolu kontrolnym lub kodzie kreskowym umieszczonym na protokole głosowania zamieszczonym na dole każdej strony protokołu."
+      },
+      {
+       "type": "text",
+       "text": "Wyniki wyborów gminna komisja wyborcza niezwłocznie podaje do publicznej wiadomości przez wywieszenie jednego egzemplarza protokołu z wyborów wraz z zestawieniami wyników głosowania w okręgu wyborczym w swojej siedzibie."
+      },
+      {
+       "type": "text",
+       "text": "Czynności miejskich komisji wyborczych w miastach na prawach powiatu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "W pierwszej kolejności miejska komisja wyborcza przystępuje do ustalenia wyników wyborów prezydenta miasta oraz sporządzenia protokołu wyników głosowania i wyników wyborów, wykonując takie same czynności, jak gminne komisje wyborcze w gminach liczących do 20 000 mieszkańców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Następnie miejska komisja wyborcza ustala wyniki głosowania do sejmiku województwa na obszarze miasta na prawach powiatu lub okręgu wyborczego. Ustalenia tego miejska komisja wyborcza dokonuje na podstawie protokołów głosowania w obwodach w wyborach do sejmiku województwa otrzymanych od wszystkich komisji obwodowych. Przy ustalaniu zbiorczych wyników głosowania w wyborach do sejmiku województwa komisja obowiązana jest korzystać z systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Miejska komisja wyborcza drukuje protokół zbiorczych wyników głosowania do sejmiku województwa na obszarze miasta na prawach powiatu lub okręgu wyborczego, sporządzony według wzoru stanowiącego załącznik nr 5 do uchwały w sprawie protokołów."
+      },
+      {
+       "type": "text",
+       "text": "Miejska komisja wyborcza w przypadku wątpliwości powinna sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą. Jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku sporządzania protokołu ręcznie miejska komisja wyborcza sumuje odpowiednie dane liczbowe z protokołów głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Protokół podpisują wszyscy obecni członkowie miejskiej komisji wyborczej. Ponadto każda strona protokołu jest parafowana przez wszystkich obecnych członków tej komisji. Należy zwrócić uwagę, aby parafy członków miejskiej komisji wyborczej nie zostały umieszczone na symbolu kontrolnym lub kodzie kreskowym umieszczonym na protokole głosowania zamieszczonym na dole każdej strony protokołu."
+      },
+      {
+       "type": "text",
+       "text": "Jeden egzemplarz protokołu zbiorczych wyników głosowania w wyborach do sejmiku województwa na obszarze miasta na prawach powiatu lub okręgu wyborczego miejska komisja wyborcza pakuje w pakiet, opisuje i pieczętuje, a następnie doręcza wojewódzkiej komisji wyborczej."
+      },
+      {
+       "type": "text",
+       "text": "Wyniki głosowania miejska komisja wyborcza niezwłocznie podaje do publicznej wiadomości przez wywieszenie protokołu w swojej siedzibie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Po ustaleniu wyników głosowania do sejmiku województwa miejska komisja wyborcza w mieście na prawach powiatu ustala wyniki wyborów do rady miasta na prawach powiatu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Miejska komisja wyborcza drukuje komputerowe zestawienie wyników głosowania i podziału mandatów w okręgu wyborczym, osobno dla każdego okręgu wyborczego (według wzoru stanowiącego załącznik do wzoru protokołu z wyborów stanowiącego załącznik nr 2 do uchwały w sprawie protokołów). Miejska komisja wyborcza w przypadku wątpliwości powinna sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą. Jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności."
+      },
+      {
+       "type": "text",
+       "text": "Sporządzając zestawienie wyników głosowania dla każdego okręgu wyborczego w sposób ręczny, miejska komisja wyborcza sumuje dane z protokołów głosowania i wpisuje je w odpowiednie rubryki zestawienia."
+      },
+      {
+       "type": "text",
+       "text": "Miejska komisja wyborcza ustala, listy których komitetów wyborczych uczestniczą w podziale mandatów."
+      },
+      {
+       "type": "text",
+       "text": "W pkt 13 wpisuje się informację na temat list biorących udział w podziale mandatów w danym okręgu wyborczym."
+      },
+      {
+       "type": "text",
+       "text": "Należy mieć na uwadze, że w podziale mandatów uczestniczą tylko listy kandydatów tych komitetów wyborczych, na których listy w skali miasta na prawach powiatu oddano co najmniej 5 % ważnych głosów."
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli 5 % z liczby ważnie oddanych głosów jest liczbą ułamkową, wówczas liczbą głosów stanowiącą co najmniej 5 % ważnie oddanych głosów jest ta liczba zaokrąglona w górę (do jedności)."
+      },
+      {
+       "type": "text",
+       "text": "Następnie miejska komisja wyborcza wylicza i wpisuje w zestawieniu ilorazy wyborcze (obliczone z dokładnością do czterech miejsc po przecinku) dla każdej listy uczestniczącej w podziale mandatów w okręgu (pkt 14 zestawienia). Listy te szereguje się według numerów."
+      },
+      {
+       "type": "text",
+       "text": "Wyliczenia dokonuje się, dzieląc liczbę głosów łącznie oddanych w okręgu na daną listę (liczba z pkt 12 zestawienia) kolejno przez 1, 2, 3, 4, 5 itd., wyliczając dla każdej listy tyle ilorazów, ile mandatów jest w danym okręgu. Tak wyliczone ilorazy szereguje się w kolejności od największego, wpisując je w pkt 15 zestawienia."
+      },
+      {
+       "type": "text",
+       "text": "Przykładowe wyliczenie ilorazów dla okręgu 6-mandatowego, w którym 5 list uczestniczy w podziale mandatów:"
+      },
+      {
+       "type": "text",
+       "text": "Lista nr 3"
+      },
+      {
+       "type": "text",
+       "text": "Liczba głosów oddanych na listę nr 3 – X = 100"
+      },
+      {
+       "type": "text",
+       "text": "Wyliczone ilorazy wyborcze:"
+      },
+      {
+       "type": "text",
+       "text": "X : 1 = 100,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 2 = 50,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 3 = 33,3333"
+      },
+      {
+       "type": "text",
+       "text": "X : 4 = 25,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 5 = 20,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 6 = 16,6667"
+      },
+      {
+       "type": "text",
+       "text": "List nr 8"
+      },
+      {
+       "type": "text",
+       "text": "Liczba głosów oddanych na listę nr 8 – X = 105"
+      },
+      {
+       "type": "text",
+       "text": "Wyliczone ilorazy wyborcze:"
+      },
+      {
+       "type": "text",
+       "text": "X : 1 = 105,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 2 = 52,5000"
+      },
+      {
+       "type": "text",
+       "text": "X : 3 = 35,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 4 = 26,2500"
+      },
+      {
+       "type": "text",
+       "text": "X : 5 = 21,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 6 = 17,5000"
+      },
+      {
+       "type": "text",
+       "text": "Lista nr 13"
+      },
+      {
+       "type": "text",
+       "text": "Liczba głosów oddanych na listę nr 13 – X = 303"
+      },
+      {
+       "type": "text",
+       "text": "Wyliczone ilorazy wyborcze:"
+      },
+      {
+       "type": "text",
+       "text": "X : 1 = 303,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 2 = 151,5000"
+      },
+      {
+       "type": "text",
+       "text": "X : 3 = 101,0000 X : 4 = 75,7500"
+      },
+      {
+       "type": "text",
+       "text": "X : 5 = 60,6000"
+      },
+      {
+       "type": "text",
+       "text": "X : 6 = 50,5000"
+      },
+      {
+       "type": "text",
+       "text": "Lista nr 14"
+      },
+      {
+       "type": "text",
+       "text": "Liczba głosów oddanych na listę nr 14 – X = 108"
+      },
+      {
+       "type": "text",
+       "text": "Wyliczone ilorazy wyborcze:"
+      },
+      {
+       "type": "text",
+       "text": "X : 1 = 108,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 2 = 54,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 3 = 36,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 4 = 27,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 5 = 21,6000"
+      },
+      {
+       "type": "text",
+       "text": "X : 6 = 18,0000"
+      },
+      {
+       "type": "text",
+       "text": "Lista nr 15"
+      },
+      {
+       "type": "text",
+       "text": "Liczba głosów oddanych na listę nr 15 – X = 215"
+      },
+      {
+       "type": "text",
+       "text": "Wyliczone ilorazy wyborcze:"
+      },
+      {
+       "type": "text",
+       "text": "X : 1 = 215,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 2 = 107,5000"
+      },
+      {
+       "type": "text",
+       "text": "X : 3 = 71,6667"
+      },
+      {
+       "type": "text",
+       "text": "X : 4 = 53,7500"
+      },
+      {
+       "type": "text",
+       "text": "X : 5 = 43,0000"
+      },
+      {
+       "type": "text",
+       "text": "X : 6 = 35,8333"
+      },
+      {
+       "type": "text",
+       "text": "Biorąc pod uwagę powyższe wyliczenia, szereg kolejno największych liczb"
+      },
+      {
+       "type": "text",
+       "text": "(ilorazów wyborczych) jest następujący:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_20/pkt_1",
+       "text": "303,0000 odpowiada liście nr 13;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_20/pkt_2",
+       "text": "215,0000 odpowiada liście nr 15;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_20/pkt_3",
+       "text": "151,5000 odpowiada liście nr 13;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_20/pkt_4",
+       "text": "108,0000 odpowiada liście nr 14;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_20/pkt_5",
+       "text": "107,5000 odpowiada liście nr 15;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_20/pkt_6",
+       "text": "105,0000 odpowiada liście nr 8.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jeżeli dwie lub więcej list uzyskało ilorazy równe ostatniej liczbie z liczb"
+        },
+        {
+         "type": "text",
+         "text": "uszeregowanych w podany wyżej sposób, a tych list jest więcej niż mandatów do rozdzielenia, należy stosować kolejne kryteria podziału mandatów przewidziane w art. 444 § 2 Kodeksu wyborczego, wpisując odpowiednie dane w pkt 16, 17 i 18 zestawienia. W przypadku przeprowadzenia losowania listy, która otrzymuje mandat, w pkt 18 należy również opisać przebieg losowania."
+        },
+        {
+         "type": "text",
+         "text": "Po sporządzeniu, parafowaniu każdej strony, podpisaniu i opieczętowaniu pieczęcią miejskiej komisji wyborczej zestawień dla wszystkich okręgów wyborczych, miejska komisja wyborcza sporządza protokół z wyborów według wzoru stanowiącego załącznik nr 2 do uchwały w sprawie protokołów."
+        },
+        {
+         "type": "text",
+         "text": "Miejska komisja wyborcza drukuje protokół. Komisja ta w przypadku wątpliwości powinna sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą. Jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "W razie sporządzania protokołu bez wspomagania informatycznego miejska komisja wyborcza postępuje w sposób następujący:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Część ogólną protokołu, tj. pkt II.A i II.B, wypełnia się na podstawie dokumentów wskazujących okręgi, w których nie przeprowadza się wyborów lub danych z protokołów z obsadzenia mandatów bez głosowania (o których mowa w dalszej części wytycznych)."
+      },
+      {
+       "type": "text",
+       "text": "W pkt III należy wpisać dane zbiorcze z głosowania ustalone na podstawie protokołów głosowania, w tym w pkt III.12 należy wpisać liczbę stanowiącą co najmniej 5 % wszystkich głosów ważnych, której uzyskanie stanowi warunek udziału list w podziale mandatów. Liczbę tę ustalono wcześniej w celu stwierdzenia, które listy biorą udział w podziale mandatów w poszczególnych okręgach. Następnie wpisuje się informacje o listach komitetów wyborczych, które uczestniczą w podziale mandatów, gdyż uzyskały co najmniej 5 % ważnych głosów, oraz informacje o listach komitetów wyborczych, które nie uczestniczą w podziale mandatów, gdyż nie uzyskały co najmniej 5 % ważnych głosów."
+      },
+      {
+       "type": "text",
+       "text": "Na podstawie danych zawartych w zestawieniach miejska komisja wyborcza wypełnia pkt IV dotyczący wszystkich okręgów wyborczych na obszarze gminy w kolejności ich numerów."
+      },
+      {
+       "type": "text",
+       "text": "Punkty IV.B i IV.C wypełnia się w zależności od zaistnienia opisanych w nich sytuacji. Dotyczą one wskazania kandydata, który uzyskuje mandat w razie równej liczby głosów. W przypadku losowania kandydata, który uzyskał mandat, w pkt IV.C opisuje się również przebieg losowania."
+      },
+      {
+       "type": "text",
+       "text": "Punkty od IV.D do IV.F wypełnia się w sytuacjach opisanych w tych punktach, jeżeli w danym okręgu wyborczym pozostają nieobsadzone mandaty."
+      },
+      {
+       "type": "text",
+       "text": "Do protokołu miejska komisja wyborcza załącza zestawienia wyników głosowania z okręgów wyborczych oraz ewentualnie protokół (protokoły) obsadzenia mandatów radnych bez głosowania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Protokół z obsadzenia mandatów radnych bez głosowania miejska komisja wyborcza sporządza, jeżeli w okręgu wyborczym liczba wszystkich zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w danym okręgu wyborczym. Protokoły te sporządza się według załącznika nr 7 do uchwały w sprawie protokołów, odrębnie dla każdego okręgu, w którym nie przeprowadzono głosowania.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Protokół podpisują wszyscy obecni członkowie danej komisji. Ponadto każda strona protokołu jest parafowana przez wszystkich obecnych jej członków. Należy zwrócić uwagę, aby parafy członków miejskiej komisji wyborczej nie zostały umieszczone na symbolu kontrolnym lub kodzie kreskowym umieszczonym na protokole głosowania zamieszczonym na dole każdej strony protokołu."
+      },
+      {
+       "type": "text",
+       "text": "Wyniki wyborów miejska komisja wyborcza niezwłocznie podaje do publicznej wiadomości przez wywieszenie jednego egzemplarza protokołu z wyborów wraz z zestawieniami wyników głosowania i podziału mandatów w okręgu wyborczym w swojej siedzibie."
+      },
+      {
+       "type": "text",
+       "text": "Czynności gminnych komisji wyborczych w gminach liczących powyżej"
+      },
+      {
+       "type": "text",
+       "text": "20 000 mieszkańców niebędących miastami na prawach powiatu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "Gminne komisje wyborcze w gminach liczących powyżej 20 000 mieszkańców niebędących miastami na prawach powiatu ustalając wyniki wyborów do rady, wykonują takie same czynności, jak miejskie komisje wyborcze ustalające wyniki wyborów do rad miast na prawach powiatu, według wzoru stanowiącego załącznik nr 2 do uchwały w sprawie protokołów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Należy mieć na uwadze, że w podziale mandatów w gminach liczących powyżej 20 000 mieszkańców niebędących miastami na prawach powiatu uczestniczą tylko listy kandydatów tych komitetów wyborczych, na których listy w skali danej gminy oddano co najmniej 5 % ważnych głosów."
+      },
+      {
+       "type": "text",
+       "text": "Czynności dzielnicowych komisji wyborczych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Dzielnicowe komisje wyborcze ustalając wyniki wyborów do rady dzielnicy, wykonują takie same czynności, jak miejskie komisje wyborcze ustalające wyniki wyborów do rad miast na prawach powiatu, według wzoru stanowiącego załącznik nr 3 do uchwały w sprawie protokołów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Należy mieć na uwadze, że w podziale mandatów w dzielnicy uczestniczą tylko listy kandydatów tych komitetów wyborczych, na których listy w skali danej dzielnicy oddano co najmniej 5 % ważnych głosów."
+      },
+      {
+       "type": "text",
+       "text": "Czynności powiatowych komisji wyborczych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Przed ustaleniem wyników głosowania i wyników wyborów do rady powiatu powiatowe komisje wyborcze ustalają wyniki głosowania do sejmiku województwa na obszarze powiatu lub okręgu wyborczego, wykonując takie same czynności jak miejskie komisje wyborcze ustalające wyniki głosowania do sejmiku województwa na obszarze miasta na prawach powiatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Po ustaleniu wyników głosowania do sejmiku województwa powiatowe komisje wyborcze ustalają wyniki wyborów do rady powiatu, wykonując takie same czynności jak miejskie komisje wyborcze w miastach na prawach powiatu, z tym że powiatowe komisje wyborcze sporządzają protokół z wyborów i zestawienia wyników głosowania i podziału mandatów według wzoru stanowiącego załącznik nr 4 do uchwały w sprawie protokołów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Czynności wojewódzkich komisji wyborczych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "Po otrzymaniu protokołów od powiatowych komisji wyborczych i miejskich komisji wyborczych w miastach na prawach powiatu, które ustaliły wyniki głosowania na obszarze powiatu lub miasta albo okręgu wyborczego w wyborach do sejmiku województwa, wojewódzka komisja wyborcza bada prawidłowość ustalenia zbiorczych wyników głosowania przez powiatowe i miejskie komisje wyborcze w miastach na prawach powiatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "Następnie wojewódzka komisja wyborcza drukuje zestawienia wyników głosowania i podziału mandatów w okręgu wyborczym, osobno dla każdego okręgu wyborczego (według wzoru stanowiącego załącznik do wzoru protokołu z wyborów stanowiącego załącznik nr 6 do uchwały w sprawie protokołów). Wojewódzka komisja wyborcza w przypadku wątpliwości powinna sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą. Jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W przypadku sporządzania zestawień ręcznie wojewódzka komisja wyborcza postępuje analogicznie, jak miejska komisja wyborcza w mieście na prawach powiatu."
+      },
+      {
+       "type": "text",
+       "text": "Po sporządzeniu, podpisaniu i opieczętowaniu zestawień dla wszystkich okręgów wyborczych wojewódzka komisja wyborcza sporządza protokół z wyborów według wzoru stanowiącego załącznik nr 6 do uchwały w sprawie protokołów."
+      },
+      {
+       "type": "text",
+       "text": "Wojewódzka komisja wyborcza otrzymuje wydruk komputerowy protokołu z wyborów do sejmiku województwa. Wojewódzka komisja wyborcza może sprawdzić dane zawarte w wydruku z wyliczeniami dokonanymi inną metodą. Jeżeli dane z wyliczeń dokonanych w różny sposób nie są identyczne, należy wyjaśnić i usunąć przyczynę rozbieżności."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "Sporządzając protokół bez wspomagania informatycznego wojewódzka komisja wyborcza wykonuje takie same czynności, jak miejskie komisje wyborcze ustalające wyniki wyborów do miast na prawach powiatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "Protokół podpisują wszyscy obecni członkowie wojewódzkiej komisji wyborczej. Ponadto każda strona protokołu jest parafowana przez wszystkich obecnych członków wojewódzkiej komisji wyborczej. Należy zwrócić uwagę, aby parafy członków wojewódzkiej komisji wyborczej nie zostały umieszczone na symbolu kontrolnym lub kodzie kreskowym umieszczonym na protokole głosowania zamieszczonym na dole każdej strony protokołu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wyniki wyborów wojewódzka komisja wyborcza niezwłocznie podaje do publicznej wiadomości przez wywieszenie w swojej siedzibie jednego egzemplarza protokołu z wyborów oraz zestawień wyników w okręgu wyborczym."
+      },
+      {
+       "type": "text",
+       "text": "V. Tryb przeprowadzenia losowania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Terytorialne komisje wyborcze ustalając wyniki głosowania i wyniki wyborów w sytuacjach wymagających przeprowadzenia losowania, postępują w sposób niżej opisany.",
+     "children": [
+      {
+       "type": "text",
+       "text": "O godzinie losowania należy niezwłocznie powiadomić pełnomocników wyborczych (kandydatów na wójta) z odpowiednim wyprzedzeniem, w celu umożliwienia im obecności przy tej czynności."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku losowania w celu ustalenia, który z kandydatów na wójta uzyskuje mandat lub który z kandydatów dopuszczony jest do wyborów w ponownym głosowaniu, obecni mogą być również kandydaci, których również należy powiadomić o terminie losowania."
+      },
+      {
+       "type": "text",
+       "text": "Nieobecność pełnomocników wyborczych, a w przypadku wyborów wójta – kandydatów lub pełnomocników wyborczych, nie wstrzymuje przeprowadzenia losowania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "Losowanie prowadzi przewodniczący terytorialnej komisji wyborczej w obecności członków danej komisji i pełnomocników wyborczych obecnych przy jej pracach. Czynności losowania dokonuje wyznaczony członek terytorialnej komisji wyborczej. W razie konieczności ustalenia, w drodze losowania, która z list uzyskuje mandat, do jednakowych, nieprzezroczystych kopert lub innych pojemników, zwanych dalej „kopertami”, wkłada się kartki z numerami list. Po wymieszaniu kopert losuje się jedną z nich. Numer listy odczytuje się i okazuje obecnym, a wylosowaną kartkę dołącza się do protokołu. Na żądanie osób obecnych przy losowaniu należy okazać zawartość niewylosowanych kopert.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "33",
+     "path": "ust_33",
+     "text": "W razie konieczności ustalenia, w drodze losowania, który z kandydatów uzyskuje mandat, a w przypadku wyborów wójta również, który z kandydatów dopuszczony jest do wyborów w ponownym głosowaniu, do jednakowych, nieprzezroczystych kopert wkłada się kartki z wypisanymi nazwiskami i imionami tych kandydatów oraz – w przypadku kandydatów na radnych – numerami list, na których się znajdują. Po wymieszaniu kopert losuje się jedną z nich. Nazwisko i imię wylosowanego kandydata oraz – ewentualnie – numer listy odczytuje się i okazuje obecnym, a wylosowaną kartkę dołącza się do protokołu. Na żądanie osób obecnych przy losowaniu należy okazać zawartość niewylosowanych kopert.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "34",
+     "path": "ust_34",
+     "text": "Przebieg przeprowadzonego losowania opisuje się w protokole (art. 443 § 2, art. 444 § 2, art. 444 § 3 w związku z art. 233 § 2, art. 450, art. 469, art. 473 § 3 i 7 Kodeksu wyborczego).",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Przeprowadzenie i ustalenie wyników ponownego głosowania w wyborach wójta"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Druk i rozplakatowanie uchwały o przeprowadzeniu ponownego głosowania w wyborach wójta zapewnia wójt. Uchwałę gminnej komisji wyborczej należy rozplakatować na obszarze gminy (miasta) niezwłocznie po ustaleniu wyników wyborów przez gminną komisję wyborczą.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Jednocześnie gminna komisja wyborcza powinna wykonać czynności związane z zarządzeniem i drukiem kart do głosowania w ponownym głosowaniu, zgodnie ze wzorem karty do głosowania i w sposób określony w uchwale Państwowej Komisji Wyborczej z dnia 27 sierpnia 2018 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast (M.P. poz. 921, 931 i 936 oraz z 2024 r. poz. 97, 173 i 243) i w uchwale nr 59/2024 Państwowej Komisji Wyborczej z dnia 12 lutego 2024 r. w sprawie wytycznych i wyjaśnień dotyczących druku i przechowywania kart do głosowania oraz trybu ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast zarządzonych na dzień 7 kwietnia 2024 r. (M.P. poz. 178)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Jeżeli jeden z kandydatów wycofa zgodę na kandydowanie, utraci bierne prawo wyborcze lub umrze, w ponownym głosowaniu bierze udział jeden kandydat (art. 473 § 4 Kodeksu wyborczego). W takiej sytuacji gminna komisja wyborcza podejmuje i podaje do publicznej wiadomości uchwałę o konieczności i przyczynach przeprowadzenia ponownego głosowania na jednego kandydata, wskazując jego imię i nazwisko i skrót nazwy komitetu wyborczego, który zgłosił kandydata. Jeden egzemplarz uchwały przekazuje się komisarzowi wyborczemu. Wzór uchwały gminnej komisji wyborczej stanowi załącznik nr 6 do wytycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Ustalenie wyniku wyborów w ponownym głosowaniu przebiega analogicznie do ustalania wyniku wyborów w pierwszym głosowaniu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Obecni przy ustalaniu wyników ponownego głosowania mogą być tylko mężowie zaufania tych komitetów wyborczych, które zgłosiły kandydatów kandydujących w tym głosowaniu, oraz obserwatorzy społeczni i międzynarodowi obserwatorzy wyborów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Jeżeli ponowne głosowanie odbywało się na dwóch kandydatów, gminna komisja wyborcza sporządza protokół według wzoru stanowiącego załącznik nr 10 do uchwały w sprawie protokołów, natomiast w przypadku, gdy ponowne głosowanie odbywało się na jednego kandydata, gminna komisja wyborcza sporządza protokół, odpowiednio stosując wzór stanowiący załącznik nr 11 do tej uchwały.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VII. Sposób przekazywania dokumentów z wyborów właściwemu komisarzowi wyborczemu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Gminna komisja wyborcza, dzielnicowa komisja wyborcza i powiatowa komisja wyborcza, po ustaleniu wyników głosowania i wyników wyborów w wyborach do danej rady, jeden egzemplarz protokołu z wyborów wraz z zestawieniami dotyczącymi każdego okręgu i protokołami z obsadzenia mandatów bez głosowania oraz protokołami głosowania w obwodach pakuje w pakiet, opisuje i pieczętuje. Przewodniczący gminnej komisji wyborczej, dzielnicowej komisji wyborczej i powiatowej komisji wyborczej lub jego zastępca dostarcza zamkniętą kopertę właściwemu komisarzowi wyborczemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Gminna komisja wyborcza analogicznie postępuje także z protokołem wyników głosowania i wyników wyborów wójta oraz protokołami głosowania z tych wyborów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Przewodniczący lub zastępca powiatowej komisji wyborczej i miejskiej komisji wyborczej w mieście na prawach powiatu ponadto przekazuje, w zaklejonej i opieczętowanej kopercie, komisarzowi wyborczemu właściwemu w zakresie czynności o charakterze ogólnowojewódzkim, protokół głosowania do sejmiku województwa na obszarze powiatu lub miasta na prawach powiatu lub okręgu wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wojewódzka komisja wyborcza jeden egzemplarz protokołu wyników z wyborów do sejmiku województwa wraz z zestawieniami, a także protokoły wyników głosowania na obszarze powiatu (miasta na prawach powiatu, okręgu wyborczego) sporządzone przez powiatowe komisje wyborcze (bądź miejskie w miastach na prawach powiatu) pakuje w pakiet, pieczętuje i opisuje; następnie przewodniczący tej komisji lub jego zastępca przekazuje komisarzowi wyborczemu właściwemu w zakresie czynności o charakterze ogólnowojewódzkim.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VIII. Sprawdzanie przez komisarza wyborczego prawidłowości ustalenia wyników głosowania i wyników wyborów"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Komisarz wyborczy, po otrzymaniu protokołów z wyborów wraz z zestawieniami i protokołami głosowania w obwodach od gminnych komisji wyborczych, miejskich komisji wyborczych w miastach na prawach powiatu, dzielnicowych komisji wyborczych, powiatowych komisji wyborczych i wojewódzkich komisji wyborczych, sprawdza prawidłowość ustalenia wyników głosowania i wyników wyborów do poszczególnych rad oraz wyborów wójtów. W razie stwierdzenia nieprawidłowości zarządza ponowne ustalenie wyników i zawiadamia o tym niezwłocznie Państwową Komisję Wyborczą (art. 448 § 2, art. 450, art. 459",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 1, art. 470 Kodeksu wyborczego)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Do czasu uzyskania potwierdzenia od komisarza wyborczego, że przekazane protokoły sporządzono prawidłowo, każda terytorialna komisja wyborcza pełni dyżur w sposób wcześniej ustalony z komisarzem wyborczym. Ustalając tryb pełnienia dyżuru, należy mieć na uwadze konieczność bieżącego kontaktu z członkami, w sposób umożliwiający zebranie się terytorialnej komisji wyborczej w regulaminowym składzie w razie potrzeby ponownego ustalenia wyników głosowania lub wyborów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IX. Wydanie radnym i wójtom zaświadczeń o wyborze"
+      },
+      {
+       "type": "text",
+       "text": "Właściwa terytorialna komisja wyborcza po stwierdzeniu przez komisarza wyborczego prawidłowości ustalenia wyników wyborów sporządza dla wybranych radnych zaświadczenia o wyborze na radnego, na właściwych formularzach, według wzoru ustalonego przez Państwową Komisję Wyborczą w uchwale w sprawie protokołów ( załączniki nr 12, 13 i 14 do uchwały w sprawie protokołów) i wydaje je radnym."
+      },
+      {
+       "type": "text",
+       "text": "Gminne komisje wyborcze sporządzają i wydają wybranym wójtom zaświadczenie o wyborze według wzoru stanowiącego załącznik nr 15 do uchwały w sprawie protokołów."
+      },
+      {
+       "type": "text",
+       "text": "X. Postępowanie z dokumentami z wyborów"
+      },
+      {
+       "type": "text",
+       "text": "Egzemplarze protokołów i zestawień, które pozostały w terytorialnych komisjach wyborczych, oraz inne dokumenty powstałe przy ustalaniu wyników (arkusze pomocnicze, wydruki itp.) pakuje się, pieczętuje, opisuje i tak uporządkowane, razem z pieczęcią danej komisji przekazuje, za pokwitowaniem, do depozytu właściwemu urzędnikowi wyborczemu, w sposób uprzednio z nim ustalony. Dokumenty powiatowych komisji wyborczych oraz wojewódzkich komisji wyborczych przekazywane są do depozytu urzędnikowi wyborczemu miasta będącego odpowiednio siedzibą organów powiatu i województwa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załączniki do wytycznych dla terytorialnych komisji wyborczych dotyczących ustalania wyników głosowania i wyników wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast zarządzonych na dzień 7 kwietnia 2024 r. Załącznik nr 1 r WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "Uchwała"
+    },
+    {
+     "type": "text",
+     "text": "....................... Komisji Wyborczej w ......................................."
+    },
+    {
+     "type": "text",
+     "text": "(nazwa) (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": "z dnia .............................. 2024 r."
+    },
+    {
+     "type": "text",
+     "text": "o przeprowadzeniu ponownego głosowania w wyborach"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................"
+    },
+    {
+     "type": "text",
+     "text": "(wójta, burmistrza, prezydenta – nazwa gminy lub miasta)* )"
+    },
+    {
+     "type": "text",
+     "text": "w dniu 21 kwietnia 2024 r."
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 473 § 6 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy"
+    },
+    {
+     "type": "text",
+     "text": "(Dz. U. z 2023 r. poz. 2408) .................................. Komisja Wyborcza w ………………"
+    },
+    {
+     "type": "text",
+     "text": "(nazwa) (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": "stwierdza, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "W wyborach przeprowadzonych w dniu 7 kwietnia 2024 r. żaden z .....................",
+       "children": [
+        {
+         "type": "text",
+         "text": "(liczba)"
+        },
+        {
+         "type": "text",
+         "text": "kandydatów nie został wybrany na ........................................................................,"
+        },
+        {
+         "type": "text",
+         "text": "ponieważ nie otrzymał więcej niż połowy ważnie oddanych głosów."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "W dniu 21 kwietnia 2024 r. zostanie przeprowadzone ponowne głosowanie",
+       "children": [
+        {
+         "type": "text",
+         "text": "na dwóch kandydatów, którzy otrzymali największą liczbę ważnych głosów."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_1/ust_3",
+       "text": "Kandydatami na ............................................. w ponownym głosowaniu są:",
+       "children": [
+        {
+         "type": "text",
+         "text": "(wójta, burmistrza, prezydenta)"
+        },
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_1/ust_3/pkt_1",
+         "text": ".........................................................",
+         "children": [
+          {
+           "type": "text",
+           "text": "(nazwisko i imię – imiona)"
+          },
+          {
+           "type": "text",
+           "text": "zgłoszony przez ......................................................;"
+          },
+          {
+           "type": "text",
+           "text": "(skrót nazwy komitetu wyborczego)"
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_1/ust_3/pkt_2",
+         "text": ".........................................................",
+         "children": [
+          {
+           "type": "text",
+           "text": "(nazwisko i imię – imiona)"
+          },
+          {
+           "type": "text",
+           "text": "zgłoszony przez ......................................................"
+          },
+          {
+           "type": "text",
+           "text": "(skrót nazwy komitetu wyborczego)"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_1/ust_4",
+       "text": "Głosowanie zostanie przeprowadzone w godzinach od 7.00 do 21.00 w tych samych",
+       "children": [
+        {
+         "type": "text",
+         "text": "lokalach wyborczych, co w dniu 7 kwietnia 2024 r."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega podaniu do publicznej",
+       "children": [
+        {
+         "type": "text",
+         "text": "wiadomości przez rozplakatowanie na obszarze gminy."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Druk i rozplakatowanie uchwały zapewni .............................................................",
+       "children": [
+        {
+         "type": "text",
+         "text": "(wójt, burmistrz, prezydent – nazwa gminy lub miasta)* )"
+        },
+        {
+         "type": "text",
+         "text": "Przewodniczący"
+        },
+        {
+         "type": "text",
+         "text": "............................ Komisji Wyborczej"
+        },
+        {
+         "type": "text",
+         "text": "(nazwa)"
+        },
+        {
+         "type": "text",
+         "text": "w ..............................."
+        },
+        {
+         "type": "text",
+         "text": "..................................."
+        },
+        {
+         "type": "text",
+         "text": "______________"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Uchwała"
+    },
+    {
+     "type": "text",
+     "text": "....................... Komisji Wyborczej w ......................................."
+    },
+    {
+     "type": "text",
+     "text": "(nazwa) (miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": "z dnia .............................. 2024 r."
+    },
+    {
+     "type": "text",
+     "text": "o przeprowadzeniu ponownego głosowania w wyborach"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................"
+    },
+    {
+     "type": "text",
+     "text": "(wójta, burmistrza, prezydenta – nazwa gminy lub miasta)* )"
+    },
+    {
+     "type": "text",
+     "text": "w dniu 21 kwietnia 2024 r."
+    },
+    {
+     "type": "text",
+     "text": "tylko na jednego kandydata"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 473 § 4 w związku z § 6 ustawy z dnia 5 stycznia 2011 r. – Kodeks"
+    },
+    {
+     "type": "text",
+     "text": "wyborczy (Dz. U. z 2023 r. poz. 2408) ............................................... Komisja Wyborcza"
+    },
+    {
+     "type": "text",
+     "text": "(nazwa)"
+    },
+    {
+     "type": "text",
+     "text": "w ……………………"
+    },
+    {
+     "type": "text",
+     "text": "(miejscowość)"
+    },
+    {
+     "type": "text",
+     "text": "stwierdza, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "W wyborach przeprowadzonych w dniu 7 kwietnia 2024 r. żaden z .........................",
+       "children": [
+        {
+         "type": "text",
+         "text": "(liczba)"
+        },
+        {
+         "type": "text",
+         "text": "kandydatów nie został wybrany na ............................................................................,"
+        },
+        {
+         "type": "text",
+         "text": "ponieważ nie otrzymał więcej niż połowy ważnie oddanych głosów."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Kandydatami uprawnionymi do udziału w ponownym głosowaniu w dniu",
+       "children": [
+        {
+         "type": "text",
+         "text": "21 kwietnia 2024 r. byli następujący kandydaci, którzy otrzymali największą liczbę"
+        },
+        {
+         "type": "text",
+         "text": "głosów:"
+        },
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/ust_2/tir_1",
+         "text": "…………………………………….. zgłoszony przez …………...……………….",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/ust_2/tir_2",
+         "text": "…………………………………….. zgłoszony przez ……………………………",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_1/ust_3",
+       "text": "Ze względu na śmierć/wycofanie zgody na kandydowanie/utratę prawa",
+       "children": [
+        {
+         "type": "text",
+         "text": "wybieralności * przez kandydata …………………………………………………"
+        },
+        {
+         "type": "text",
+         "text": "(nazwisko i imię)"
+        },
+        {
+         "type": "text",
+         "text": "W ponownym głosowaniu weźmie udział jeden kandydat:"
+        },
+        {
+         "type": "text",
+         "text": "……………………………………….. zgłoszony przez …………………………"
+        },
+        {
+         "type": "text",
+         "text": "(nazwisko i imię)"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_1/ust_4",
+       "text": "Głosowanie zostanie przeprowadzone w dniu 21 kwietnia 2024 r. w godzinach",
+       "children": [
+        {
+         "type": "text",
+         "text": "od 7.00 do 21.00 w tych samych lokalach wyborczych, co w dniu 7 kwietnia 2024 r."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega podaniu do publicznej",
+       "children": [
+        {
+         "type": "text",
+         "text": "wiadomości przez rozplakatowanie na obszarze gminy."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Druk i rozplakatowanie uchwały zapewni .............................................................",
+       "children": [
+        {
+         "type": "text",
+         "text": "(wójt, burmistrz, prezydent – nazwa gminy lub miasta)* )"
+        },
+        {
+         "type": "text",
+         "text": "Przewodniczący"
+        },
+        {
+         "type": "text",
+         "text": "............................ Komisji Wyborczej"
+        },
+        {
+         "type": "text",
+         "text": "(nazwa)"
+        },
+        {
+         "type": "text",
+         "text": "w ..............................."
+        },
+        {
+         "type": "text",
+         "text": "(miejscowość)"
+        },
+        {
+         "type": "text",
+         "text": "..................................."
+        },
+        {
+         "type": "text",
+         "text": "_________"
+        },
+        {
+         "type": "text",
+         "text": "do rady powiatu lub wyborami do sejmiku województwa oraz informatyczny nośnik danych zawierający dane ze wszystkich protokołów głosowania w postaci plików, jeżeli komisja miała obsługę informatyczną, a dane z protokołów głosowania nie zostały wcześniej wprowadzone do sieci elektronicznego przekazywania danych. 8. Wojewódzkie komisje wyborcze otrzymują od powiatowych komisji wyborczych i od miejskich komisji wyborczych w miastach na prawach powiatu protokoły zbiorczych wyników głosowania do sejmiku województwa na obszarze powiatu (miasta na prawach powiatu lub okręgu wyborczego). Ponadto wraz z kopertami z protokołami głosowania w obwodach terytorialne komisje wyborcze otrzymują od komisji obwodowych stanowisko w sprawie uwag wniesionych przez mężów zaufania i członków danej komisji obwodowej (o ile zostały wniesione). (wójta, burmistrza, prezydenta – nazwa gminy lub miasta)* ) (miejscowość) (imię i nazwisko) * ) Wpisać odpowiednio. (wójta, burmistrza, prezydenta – nazwa gminy lub miasta)* ) (imię i nazwisko) * ) Wpisać odpowiednio."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,289 @@
+{
+ "eli": "MP/2015/650",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 10 lipca 2015 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/650/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 lipca 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 68 Prezesa Rady Ministrów z dnia 3 października 2011 r. w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta (M.P. z 2014 r. poz. 209), z uwzględnieniem zmian wprowadzonych zarządzeniem nr 22 Prezesa Rady Ministrów z dnia 9 kwietnia 2015 r. zmieniającym zarządzenie w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta (M.P. poz. 355).",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje § 2 i § 3 zarządzenia nr 22 Prezesa Rady Ministrów z dnia 9 kwietnia 2015 r. zmieniającego zarządzenie w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta (M.P. poz. 355), które stanowią:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 2. Kierownicy komórek organizacyjnych oraz główny księgowy, o których mowa w § 3 ust. 2 załącznika do zarządzenia wskazanego w § 1, w brzmieniu dotychczasowym, stają się dyrektorami komórek organizacyjnych, o których mowa w § 3 ust. 2 załącznika do zarządzenia wskazanego w § 1, w brzmieniu nadanym niniejszym zarządzeniem.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 3. Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: E. Kopacz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 10 lipca 2015 r. (poz. 650)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 68"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 3 października 2011 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 57 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm.[^1]) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Biuru Rzecznika Praw Pacjenta nadaje się statut, stanowiący załącznik do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Traci moc zarządzenie nr 67 Prezesa Rady Ministrów z dnia 2 września 2009 r. w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta (M.P. Nr 57, poz. 778 oraz z 2010 r. Nr 25, poz. 238 i Nr 61, poz. 796).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Zarządzenie wchodzi w życie po upływie 3 dni od dnia ogłoszenia[^2].",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do zarządzenia nr 68 Prezesa Rady Ministrów z dnia 3 października 2011 r.",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT BIURA RZECZNIKA PRAW PACJENTA"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "Biuro Rzecznika Praw Pacjenta, zwane dalej „biurem”, jest urzędem administracji rządowej, przy pomocy którego Rzecznik Praw Pacjenta wykonuje swoje zadania w zakresie ochrony praw pacjenta określonych w ustawie z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2012 r. poz. 159, z późn. zm.[^3]) oraz w przepisach odrębnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Rzecznik Praw Pacjenta, zwany dalej „Rzecznikiem”, kieruje biurem przy pomocy:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_1/ust_2/pkt_1",
+         "text": "nie więcej niż dwóch zastępców, zwanych dalej „zastępcami Rzecznika”;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_1/ust_2/pkt_2",
+         "text": "dyrektora generalnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_1/ust_2/pkt_3",
+         "text": "kierowników komórek organizacyjnych wymienionych w § 3.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_1/ust_3",
+       "text": "Zakres zadań zastępców Rzecznika określa Rzecznik.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_1/ust_4",
+       "text": "Rzecznik może upoważnić osoby, o których mowa w ust. 2, a także innych pracowników biura do podejmowania w jego imieniu decyzji w określonych sprawach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W czasie nieobecności Rzecznika pracą biura kieruje zastępca Rzecznika.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "[^4] W skład biura wchodzą następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "Wydział do spraw Zdrowia Psychicznego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "Wydział Prawny;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "Wydział Interwencyjno-Poradniczy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_3/ust_1/pkt_4",
+         "text": "Wydział Prezydialny;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_3/ust_1/pkt_5",
+         "text": "Wydział Dialogu Społecznego i Komunikacji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_3/ust_1/pkt_6",
+         "text": "Wydział Finansowy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_3/ust_1/pkt_7",
+         "text": "Wydział Spraw Osobowych i Wynagrodzeń;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_3/ust_1/pkt_8",
+         "text": "Wydział Klasyfikacji Wniosków;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_3/ust_1/pkt_9",
+         "text": "Wieloosobowe Stanowisko Pracy do spraw Badań Statystycznych, Analiz Strategicznych i Ochrony Danych Osobowych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_3/ust_1/pkt_10",
+         "text": "Wieloosobowe Stanowisko Pracy do spraw Informatyzacji.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "[^4] Komórkami organizacyjnymi, o których mowa w ust. 1 pkt 1–8, kierują dyrektorzy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Organizację wewnętrzną i szczegółowy zakres zadań komórek organizacyjnych, o których mowa w ust. 1, oraz tryb pracy biura określa regulamin organizacyjny nadany przez Rzecznika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "(uchylony).[^5]",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742, z 2013 r. poz. 1245 oraz z 2014 r. poz. 1822.",
+  "2": "Zarządzenie zostało ogłoszone w dniu 6 października 2011 r.",
+  "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742, z 2013 r. poz. 1245 oraz z 2014 r. poz. 1822.",
+  "4": "W brzmieniu ustalonym przez § 1 pkt 1 zarządzenia nr 22 Prezesa Rady Ministrów z dnia 9 kwietnia 2015 r. zmieniającego zarządzenie w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta (M.P. poz. 355), które weszło w życie z dniem 1 maja 2015 r.",
+  "5": "Przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 4."
+ }
+}

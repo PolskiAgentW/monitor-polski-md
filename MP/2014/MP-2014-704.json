@@ -1,0 +1,51 @@
+{
+ "eli": "MP/2014/704",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 6 sierpnia 2014 r. w sprawie stawek opłaty egzaminacyjnej oraz opłaty za wydanie świadectwa stwierdzającego kwalifikacje na rok 2015",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/704/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 sierpnia 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek opłaty egzaminacyjnej oraz opłaty za wydanie świadectwa stwierdzającego kwalifikacje na rok 2015"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 66 ust. 5 ustawy z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. z 2014 r. poz. 613, 587 i 850) ogłasza się, że w 2015 r. stawka:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "opłaty egzaminacyjnej wynosi 270,28 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "opłaty za wydanie świadectwa stwierdzającego kwalifikacje wynosi 32,45 zł.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Środowiska: M.H. Grabowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 248, poz. 1493 i Nr 284, poz. 1671)."
+ }
+}

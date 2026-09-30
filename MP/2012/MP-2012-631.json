@@ -1,0 +1,483 @@
+{
+ "eli": "MP/2012/631",
+ "title": "Zarządzenie Nr 69 Prezesa Rady Ministrów z dnia 29 sierpnia 2012 r. w sprawie powołania Międzyresortowego Zespołu do spraw Współpracy ze Strażami Gminnymi (Miejskimi)",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/631/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 69"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 sierpnia 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Międzyresortowego Zespołu do spraw Współpracy ze Strażami Gminnymi (Miejskimi)"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Międzyresortowy Zespół do spraw Współpracy ze Strażami Gminnymi (Miejskimi), zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "przewodniczący – podsekretarz stanu w urzędzie obsługującym ministra właściwego do spraw wewnętrznych, sprawujący nadzór nad prowadzeniem spraw z zakresu ochrony bezpieczeństwa i porządku publicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "zastępca przewodniczącego – sekretarz lub podsekretarz stanu albo dyrektor departamentu, wyznaczony przez ministra właściwego do spraw wewnętrznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_3/lit_a",
+         "text": "sekretarz lub podsekretarz stanu, wyznaczony przez ministra właściwego do spraw:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_2/ust_1/pkt_3/lit_a/tir_1",
+           "text": "administracji publicznej,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_2/ust_1/pkt_3/lit_a/tir_2",
+           "text": "transportu,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_3/lit_b",
+         "text": "Komendant Główny Policji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "sekretarz – wyznaczony przez przewodniczącego Zespołu, pracownik komórki organizacyjnej sprawującej nadzór nad prowadzeniem spraw z zakresu ochrony bezpieczeństwa i porządku publicznego w urzędzie obsługującym ministra właściwego do spraw wewnętrznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Do udziału w pracach Zespołu, na prawach członka Zespołu, przewodniczący Zespołu zaprasza przedstawicieli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "Związku Miast Polskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "Unii Metropolii Polskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "Unii Miasteczek Polskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "Związku Gmin Wiejskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "Federacji Regionalnych Związków Gmin i Powiatów RP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_2/pkt_6",
+       "text": "Krajowej Rady Komendantów Straży Miejskich i Gminnych Rzeczypospolitej Polskiej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Członkowie Zespołu biorą udział w jego pracach osobiście.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Członkowie Zespołu mogą być, za zgodą przewodniczącego Zespołu, zastępowani w pracach Zespołu przez pisemnie upoważnionych przedstawicieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "W pracach Zespołu mogą brać udział, z głosem doradczym, osoby niebędące członkami Zespołu, zaproszone przez przewodniczącego Zespołu, w tym przedstawiciele wojewodów, zainteresowanych organów państwowych i samorządu terytorialnego, instytucji i organizacji, a także eksperci.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Do zadań Zespołu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "opracowywanie i rekomendowanie kierunków współpracy Policji, straży gminnych (miejskich) oraz samorządu terytorialnego w zakresie prewencji i ochrony porządku publicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "koordynowanie współdziałania centralnych i terenowych organów administracji rządowej z organami samorządu terytorialnego w zakresie ochrony porządku publicznego na terenie gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "konsultacje w ramach prac nad projektami przepisów dotyczących bezpieczeństwa ruchu drogowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "przygotowywanie propozycji rozwiązań prawnych w zakresie funkcjonowania straży gminnych (miejskich) oraz opiniowanie propozycji zmian w powyższym zakresie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Organy administracji rządowej i samorządowej udzielają Zespołowi niezbędnej pomocy w wykonywaniu jego zadań, w zakresie swoich kompetencji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przewodniczący Zespołu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "zwołuje posiedzenia Zespołu nie rzadziej niż dwa razy do roku i przewodniczy jego obradom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "ustala harmonogram prac Zespołu, terminy i program kolejnych posiedzeń Zespołu, z uwzględnieniem wniosków zgłaszanych przez członków Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "przedstawia Prezesowi Rady Ministrów wnioski będące efektem prac Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Zastępca przewodniczącego pełni obowiązki przewodniczącego Zespołu w razie jego nieobecności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W celu realizacji zadań Zespołu przewodniczący Zespołu, z własnej inicjatywy albo na wniosek członka Zespołu, może tworzyć grupy robocze lub zespoły doradcze złożone z członków Zespołu oraz osób zaproszonych do udziału w pracach Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Członkowie Zespołu mogą wyznaczyć do udziału w grupach roboczych i zespołach doradczych pracowników swoich urzędów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przewodniczący Zespołu może zlecać wykonanie opracowań, analiz, raportów lub ekspertyz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zespół podejmuje decyzje w formie uchwał na posiedzeniach. Uchwały podejmowane są zwykłą większością głosów w obecności co najmniej połowy członków Zespołu lub ich upoważnionych przedstawicieli. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Uzgodnione projekty uchwał mogą być poddane pod głosowanie w trybie obiegowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Osobom zaproszonym do udziału w pracach Zespołu oraz pracownikom, o których mowa w § 5 ust. 2, nie przysługuje prawo udziału w głosowaniu nad uchwałami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Korespondencja wymieniana w ramach Zespołu może być przesyłana za pośrednictwem poczty elektronicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Protokół z posiedzenia Zespołu sporządza sekretarz Zespołu. Protokół podpisuje osoba przewodnicząca posiedzeniu oraz sekretarz Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Obsługę techniczno-organizacyjną oraz merytoryczną działalności Zespołu zapewnia urząd obsługujący ministra właściwego do spraw wewnętrznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Wydatki związane z działalnością Zespołu są pokrywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Udział w pracach Zespołu jest nieodpłatny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Koszty delegacji osób uczestniczących w pracach Zespołu ponoszą właściwe jednostki delegujące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Przewodniczący Zespołu przedstawia Prezesowi Rady Ministrów, do dnia 31 marca, sprawozdanie z prac Zespołu za poprzedni rok.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Sprawozdanie, o którym mowa w ust. 1, powinno zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "dane identyfikacyjne (osoba sporządzająca i zatwierdzająca dokument, podstawa prawna utworzenia Zespołu, okres objęty sprawozdaniem);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "wnioski płynące z prac Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "plany działalności na kolejny okres;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_2/pkt_4",
+       "text": "informacje o ewentualnych zagrożeniach realizacji celów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_2/pkt_5",
+       "text": "określenie liczby i dat posiedzeń w okresie sprawozdawczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_2/pkt_6",
+       "text": "inne niezbędne informacje o funkcjonowaniu Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Do sprawozdania, o którym mowa w ust. 1, dołącza się kopie podjętych uchwał.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

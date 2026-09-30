@@ -1,0 +1,377 @@
+{
+ "eli": "MP/2014/39",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 4 listopada 2013 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Administracji i Cyfryzacji",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/39/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 listopada 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Administracji i Cyfryzacji"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 97 Prezesa Rady Ministrów z dnia 8 grudnia 2011 r. w sprawie nadania statutu Ministerstwu Administracji i Cyfryzacji (M.P. Nr 107, poz. 1089), z uwzględnieniem zmian wprowadzonych zarządzeniem nr 79 Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającym zarządzenie w sprawie nadania statutu Ministerstwu Administracji i Cyfryzacji (M.P. poz. 693).",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje § 2 zarządzenia nr 79 Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającego zarządzenie w sprawie nadania statutu Ministerstwu Administracji i Cyfryzacji (M.P. poz. 693), który stanowi:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 4 listopada 2013 r. (poz. 39)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE Nr 97"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 8 grudnia 2011 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie nadania statutu Ministerstwu Administracji i Cyfryzacji"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwu Administracji i Cyfryzacji nadaje się statut, stanowiący załącznik do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia, z mocą od dnia 18 listopada 2011 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik do zarządzenia nr 97 Prezesa Rady Ministrów z dnia 8 grudnia 2011 r."
+      },
+      {
+       "type": "text",
+       "text": "STATUT MINISTERSTWA ADMINISTRACJI I CYFRYZACJI"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Administracji i Cyfryzacji, zwane dalej „ministerstwem”, zapewnia obsługę Ministra Administracji i Cyfryzacji, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Administracji i Cyfryzacji (Dz. U. Nr 248, poz. 1479), do spraw:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/pkt_1",
+       "text": "administracji publicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/pkt_2",
+       "text": "informatyzacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/pkt_3",
+       "text": "łączności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/pkt_4",
+       "text": "wyznań religijnych oraz mniejszości narodowych i etnicznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład ministerstwa wchodzą Gabinet Polityczny Ministra oraz następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Biuro Ministra;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Departament Administracji Publicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "Departament Analiz i Komunikacji Publicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Departament Budżetu i Finansów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4a",
+       "path": "par_2/pkt_4a",
+       "text": "[^1] Departament do spraw Usuwania Skutków Klęsk Żywiołowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "Departament Funduszy Strukturalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "Departament Informatyzacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "(uchylony);[^2]",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "Departament Kontroli, Skarg i Wniosków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "Departament Poczty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/pkt_10",
+       "text": "Departament Prawny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/pkt_11",
+       "text": "Departament Społeczeństwa Informacyjnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/pkt_12",
+       "text": "Departament Telekomunikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/pkt_13",
+       "text": "Departament Współpracy z Jednostkami Samorządu Terytorialnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/pkt_14",
+       "text": "Departament Wyznań Religijnych oraz Mniejszości Narodowych i Etnicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14a",
+       "path": "par_2/pkt_14a",
+       "text": "[^3] Departament Zarządzania Kryzysowego i Systemu Powiadamiania Ratunkowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/pkt_15",
+       "text": "Biuro Dyrektora Generalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_2/pkt_16",
+       "text": "(uchylony).[^4]",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "w zakresie działu administracja publiczna:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_1/lit_a",
+         "text": "Departament Administracji Publicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_1/lit_b",
+         "text": "Departament Współpracy z Jednostkami Samorządu Terytorialnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/pkt_1/lit_c",
+         "text": "[^5] Departament do spraw Usuwania Skutków Klęsk Żywiołowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/pkt_1/lit_d",
+         "text": "[^5] Departament Zarządzania Kryzysowego i Systemu Powiadamiania Ratunkowego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "w zakresie działu informatyzacja:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_2/lit_a",
+         "text": "Departament Informatyzacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_2/lit_b",
+         "text": "Departament Społeczeństwa Informacyjnego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "w zakresie działu łączność:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_3/lit_a",
+         "text": "Departament Poczty,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_3/lit_b",
+         "text": "Departament Telekomunikacji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "w zakresie działu wyznania religijne oraz mniejszości narodowe i etniczne – Departament Wyznań Religijnych oraz Mniejszości Narodowych i Etnicznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Bezpośredni nadzór nad Gabinetem Politycznym Ministra sprawuje Minister.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Dodany przez § 1 pkt 1 lit. a zarządzenia nr 79 Prezesa Rady Ministrów z dnia 28 września 2012 r. zmieniającego zarządzenie w sprawie nadania statutu Ministerstwu Administracji i Cyfryzacji (M.P. poz. 693), które weszło w życie z dniem 5 października 2012 r.",
+  "2": "Przez § 1 pkt 1 lit. b zarządzenia, o którym mowa w odnośniku 1.",
+  "3": "Dodany przez § 1 pkt 1 lit. c zarządzenia, o którym mowa w odnośniku 1.",
+  "4": "Przez § 1 pkt 1 lit. d zarządzenia, o którym mowa w odnośniku 1.",
+  "5": "Dodana przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 1."
+ }
+}

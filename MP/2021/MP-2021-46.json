@@ -1,0 +1,866 @@
+{
+ "eli": "MP/2021/46",
+ "title": "Zarządzenie nr 2 Prezesa Rady Ministrów z dnia 13 stycznia 2021 r. w sprawie Zespołu do spraw Zapewnienia Współpracy Polskiej Administracji Rządowej z Wielkoskalowymi Systemami Informacyjnymi Unii Europejskiej",
+ "converter": "eli2md 0.6.13",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/46/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 2"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 stycznia 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Zespołu do spraw Zapewnienia Współpracy Polskiej Administracji Rządowej z Wielkoskalowymi Systemami Informacyjnymi Unii Europejskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568, 695 i 2320) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Zespół do spraw Zapewnienia Współpracy Polskiej Administracji Rządowej z Wielkoskalowymi Systemami Informacyjnymi Unii Europejskiej, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w niniejszym zarządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Programie – należy przez to rozumieć zbiór powiązanych ze sobą projektów i zadań realizowanych przez Zespół, zmierzających do zapewnienia współpracy organów i jednostek administracji rządowej z Wielkoskalowymi Systemami Informacyjnymi Unii Europejskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Systemach – należy przez to rozumieć Wielkoskalowe Systemy Informacyjne Unii Europejskiej budowane, rozwijane i utrzymywane przez Agencję Unii Europejskiej ds. Zarządzania Operacyjnego Wielkoskalowymi Systemami Informatycznymi w Przestrzeni Wolności, Bezpieczeństwa i Sprawiedliwości, a w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "System Informacyjny Schengen drugiej generacji (SIS II),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "Wizowy System Informacyjny (VIS),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_2/lit_c",
+       "text": "Europejski Zautomatyzowany System Rozpoznawania Odcisków Palców (Eurodac),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_2/lit_d",
+       "text": "System kontroli wjazdu/wyjazdu (EES),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_2/lit_e",
+       "text": "Europejski system informacji o podróży oraz zezwoleń na podróż (ETIAS),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_2/pkt_2/lit_f",
+       "text": "Scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "Projektach – należy przez to rozumieć przedsięwzięcia związane z budową nowych, modernizacją istniejących i zapewnieniem interoperacyjności Systemów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "MasterPlanie – należy przez to rozumieć plan dostosowania organów administracji rządowej do współpracy z Systemami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "Interoperacyjności – należy przez to rozumieć ramy interoperacyjności Systemów Wielkoskalowych Unii Europejskiej, w tym narzędzia interoperacyjności takie jak: europejski portal wyszukiwania, wspólny system porównywania danych biometrycznych, wspólne repozytorium danych umożliwiających identyfikację, detektor wielokrotnych tożsamości, które zapewnią dodatkowo odpowiedni dostęp organów krajowych do danych spoza systemów wielkoskalowych UE, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2019/817 z dnia 20 maja 2019 r. w sprawie ustanowienia ram interoperacyjności systemów informacyjnych UE w obszarze granic i polityki wizowej oraz zmieniające rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726, (UE) 2018/1861 oraz decyzje Rady 2004/512/WE i 2008/633/WSiSW (Dz. Urz. UE L 135 z 22.05.2019, s. 27) oraz rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2019/818 z dnia 20 maja 2019 r. w sprawie ustanowienia ram interoperacyjności systemów informacyjnych UE w obszarze współpracy policyjnej i sądowej, azylu i migracji oraz zmieniające rozporządzenia (UE) 2018/1726, (UE) 2018/1862 i (UE) 2019/816 (Dz. Urz. UE L 135 z 22.05.2019, s. 85);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "Planie projektu – należy przez to rozumieć dokument, który zawiera w szczególności: zakres projektu zadania, zasoby, w tym zasoby ludzkie, harmonogram projektu, oszacowanie kosztów, ryzyka, podmioty zaangażowane w projekt, skład zespołu projektowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Do zadań Zespołu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "przygotowywanie projektów dokumentów i rozstrzygnięć mających znaczenie dla Systemów oraz ich Interoperacyjności w Rzeczypospolitej Polskiej, przedstawianych Prezesowi Rady Ministrów celem przedłożenia Radzie Ministrów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "przygotowanie oraz przedstawienie do akceptacji Radzie Ministrów projektu MasterPlanu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "opracowanie harmonogramu prac Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "identyfikacja zadań oraz ustalenie, w celu zarekomendowania Radzie Ministrów, które organy administracji rządowej oraz podległe im jednostki organizacyjne lub przez nie nadzorowane będą realizowały zadania jako wiodące lub współpracujące w kwestiach związanych z Systemami oraz ich Interoperacyjnością;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "przeprowadzenie szczegółowej analizy zadań administracji rządowej zmierzających do zapewnienia współpracy organów oraz podległych im jednostek organizacyjnych lub przez nie nadzorowanych z Systemami oraz ich Interoperacyjnością;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "przeprowadzenie analizy kosztów działań związanych z realizacją zadań administracji rządowej zmierzających do zapewnienia współpracy organów oraz podległych im jednostek organizacyjnych lub przez nie nadzorowanych z Systemami oraz ich Interoperacyjnością.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Organy administracji rządowej oraz podległe im jednostki organizacyjne lub przez nie nadzorowane są obowiązane do współdziałania i udzielania pomocy Zespołowi, w szczególności przez udostępnianie mu informacji i dokumentów niezbędnych do realizacji jego zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Udostępnianie informacji i dokumentów odbywa się w sposób wskazany w art. 10a ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W skład Zespołu wchodzą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "Rada Programu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "Kierownik Programu – dyrektor albo zastępca dyrektora departamentu właściwego merytorycznie do spraw Wielkoskalowych Systemów Informacyjnych Unii Europejskiej Ministerstwa Spraw Wewnętrznych i Administracji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "Komitet Sterujący;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "Kierownicy Projektów – dyrektorzy albo zastępcy dyrektorów właściwych merytorycznie komórek organizacyjnych w urzędach obsługujących odpowiednich członków Rady Programu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_4/lit_a",
+       "text": "modernizacji systemu SIS II,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_4/lit_b",
+       "text": "modernizacji systemu VIS,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_5/pkt_4/lit_c",
+       "text": "modernizacji systemu Eurodac,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_5/pkt_4/lit_d",
+       "text": "wdrożenia systemu EES,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_5/pkt_4/lit_e",
+       "text": "wdrożenia systemu ETIAS,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_5/pkt_4/lit_f",
+       "text": "wdrożenia systemu ECRIS-TCN,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_5/pkt_4/lit_g",
+       "text": "dostosowania przepisów prawnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_5/pkt_4/lit_h",
+       "text": "wdrożenia narzędzi Interoperacyjności Systemów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W skład Rady Programu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "Przewodniczący Rady Programu – sekretarz albo podsekretarz stanu w Ministerstwie Spraw Wewnętrznych i Administracji koordynujący działania departamentu właściwego merytorycznie do spraw Wielkoskalowych Systemów Informacyjnych Unii Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "Zastępca Przewodniczącego Rady Programu – Pełnomocnik Ministra Spraw Wewnętrznych i Administracji do spraw Informatyzacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_1/pkt_3/lit_a",
+         "text": "sekretarz stanu albo podsekretarz stanu wyznaczony przez Ministra Sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_1/pkt_3/lit_b",
+         "text": "sekretarz stanu albo podsekretarz stanu wyznaczony przez ministra właściwego do spraw finansów publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_1/pkt_3/lit_c",
+         "text": "sekretarz stanu albo podsekretarz stanu wyznaczony przez ministra właściwego do spraw zagranicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_6/ust_1/pkt_3/lit_d",
+         "text": "sekretarz stanu albo podsekretarz stanu wyznaczony przez ministra właściwego do spraw informatyzacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_6/ust_1/pkt_3/lit_e",
+         "text": "przedstawiciel krajowy w Zarządzie Agencji eu-LISA,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_6/ust_1/pkt_3/lit_f",
+         "text": "Szef Agencji Bezpieczeństwa Wewnętrznego albo jego zastępca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_6/ust_1/pkt_3/lit_g",
+         "text": "Komendant Główny Policji albo jego zastępca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_6/ust_1/pkt_3/lit_h",
+         "text": "Komendant Główny Straży Granicznej albo jego zastępca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_6/ust_1/pkt_3/lit_i",
+         "text": "Szef Urzędu do Spraw Cudzoziemców albo jego zastępca.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Członek Rady Programu, za zgodą Przewodniczącego Rady Programu, może być zastępowany w pracach Rady Programu przez upoważnionego przedstawiciela w randze dyrektora. Upoważnienie do zastępowania wymaga zachowania formy pisemnej. Dopuszcza się przekazanie upoważnienia drogą elektroniczną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Na zaproszenie Przewodniczącego Rady Programu w posiedzeniach Rady Programu mogą uczestniczyć, bez prawa głosu, przedstawiciele innych organów administracji rządowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Do zadań Rady Programu należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "przyjęcie projektu MasterPlanu przedłożonego przez Kierownika Programu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "przedłożenie projektu MasterPlanu do akceptacji Radzie Ministrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "monitoring realizacji Programu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "monitoring działań Kierownika Programu i realizacji poszczególnych Projektów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "akceptacja raportów okresowych i raportu końcowego z prac Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_1/pkt_6",
+       "text": "przedłożenie raportu końcowego z prac Zespołu do akceptacji Radzie Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Pracami Rady Programu kieruje Przewodniczący Rady Programu. W czasie nieobecności Przewodniczącego Rady Programu jego obowiązki wykonuje Zastępca Przewodniczącego Rady Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Do zadań Przewodniczącego Rady Programu należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "monitorowanie prac Komitetu Sterującego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "zwoływanie i przewodniczenie posiedzeniom Rady Programu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Posiedzenia Rady Programu odbywają się nie rzadziej niż raz na trzy miesiące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Udział w obradach Zespołu może być realizowany także w formie telekonferencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Rada Programu podejmuje rozstrzygnięcia w formie uchwał na posiedzeniach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_7/ust_7",
+     "text": "Uchwały Rady Programu są podejmowane zwykłą większością głosów, a w przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Rady Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_7/ust_8",
+     "text": "Uchwały Rady Programu mogą być też poddane pod głosowanie w trybie obiegowym, przy użyciu poczty elektronicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Do zadań Kierownika Programu należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "opracowanie projektu MasterPlanu, na podstawie planów projektów przedstawionych przez Kierowników Projektów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "monitorowanie i identyfikowanie ryzyk w Programie oraz planowanie i monitorowanie skuteczności działań podejmowanych w odpowiedzi na ryzyko;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "monitorowanie działań w poszczególnych Projektach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_1/pkt_4",
+       "text": "zwoływanie i przewodniczenie posiedzeniom Komitetu Sterującego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_8/ust_1/pkt_5",
+       "text": "przekazywanie Radzie Programu informacji o postępach Programu i poszczególnych Projektów oraz o istotnych zagadnieniach i zagrożeniach w ich realizacji, wraz z propozycjami działań niezbędnych do osiągnięcia oczekiwanych celów i korzyści Programu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_8/ust_1/pkt_6",
+       "text": "opracowywanie raportów okresowych obejmujących trzymiesięczny okres sprawozdawczy i przedstawianie ich na posiedzeniach Rady Programu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_8/ust_1/pkt_7",
+       "text": "przygotowanie raportu końcowego Programu i przedstawienie Radzie Programu do akceptacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Kierownik Programu może powoływać grupy robocze, które będą funkcjonować w ramach Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "W skład grup roboczych mogą wchodzić przedstawiciele komórek organizacyjnych Ministerstwa Spraw Wewnętrznych i Administracji, jednostek organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych albo przez niego nadzorowanych oraz przedstawiciele innych organów administracji rządowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Pracami grup roboczych kierują przewodniczący grupy wyznaczani przez Kierownika Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_8/ust_5",
+     "text": "Zakres prac oraz sposób funkcjonowania grup roboczych określa Kierownik Programu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W skład Komitetu Sterującego wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "Przewodniczący Komitetu Sterującego – Kierownik Programu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "pracownik właściwej merytorycznie komórki do spraw Wielkoskalowych Systemów Informacyjnych Unii Europejskiej Ministerstwa Spraw Wewnętrznych i Administracji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "Kierownicy Projektów, o których mowa w § 5 pkt 4, lub upoważnione przez nich osoby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W pracach Komitetu Sterującego mogą uczestniczyć, na wniosek Kierownika Programu lub Kierowników Projektów, z głosem doradczym, przedstawiciele innych organów administracji rządowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Posiedzenie Komitetu Sterującego zwołuje Przewodniczący Komitetu Sterującego albo jego zastępca, w terminach wynikających ze stanu realizacji Programu, nie rzadziej jednak niż raz na trzy miesiące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Kierownicy Projektów mogą wnioskować do Przewodniczącego Komitetu Sterującego o zwołanie posiedzenia Komitetu Sterującego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Z każdego posiedzenia Komitetu Sterującego właściwa merytorycznie komórka do spraw Wielkoskalowych Systemów Informacyjnych Unii Europejskiej Ministerstwa Spraw Wewnętrznych i Administracji sporządza notatkę przedstawiającą przebieg dyskusji i podjęte uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Do zadań Komitetu Sterującego należy w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "identyfikacja i dokumentowanie potencjalnych problemów, opóźnień i zagrożeń w realizacji Projektów, ustalanie przyczyn ich powstania oraz opracowywanie planów naprawczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "bieżące identyfikowanie zagadnień projektowych, w celu zapewnienia kontroli nad działaniami wykonanymi w zakresie przedmiotu prac;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_10/pkt_3",
+     "text": "prowadzenie repozytorium wiedzy o realizowanych Projektach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Do zadań Kierownika Projektu należy zarządzanie Projektem, w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "zapewnianie realizacji zadań, zgodnie z zakresem i harmonogramem Projektu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "planowanie i organizowanie pracy w ramach Projektu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_11/pkt_3",
+     "text": "sporządzenie i aktualizacja planu Projektu i przekazywanie go do Kierownika Programu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_11/pkt_4",
+     "text": "odpowiedzialność za realizację całości zadań Projektu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_11/pkt_5",
+     "text": "przekazywanie Kierownikowi Programu informacji o kluczowych terminach realizacji poszczególnych zadań wykonywanych w ramach Projektu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_11/pkt_6",
+     "text": "monitorowanie i przekazywanie niezwłocznie Kierownikowi Programu informacji o postępach w realizacji Projektu oraz informacji o zagrożeniach w jego realizacji, w szczególności mogących stanowić ryzyko dla osiągnięcia oczekiwanych celów i korzyści Projektu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_11/pkt_7",
+     "text": "monitorowanie i identyfikowanie ryzyk w obszarze odpowiedzialności oraz planowanie działań w odpowiedzi na zidentyfikowane zagrożenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_11/pkt_8",
+     "text": "przekazywanie Kierownikowi Programu informacji o ryzykach i problemach występujących w realizacji Projektu, które wymagają podjęcia decyzji lub działań przez Kierownika Programu, wraz z propozycjami działań naprawczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_11/pkt_9",
+     "text": "przekazywanie informacji, na podstawie których Kierownik Programu sporządza raport okresowy i raport końcowy, o których mowa w § 8 ust. 1 pkt 6 i 7.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Obsługa organizacyjna oraz kancelaryjno-biurowa Zespołu, w szczególności Rady Programu i Kierownika Programu, jest prowadzona we właściwej merytorycznie komórce do spraw Wielkoskalowych Systemów Informacyjnych Unii Europejskiej Ministerstwa Spraw Wewnętrznych i Administracji, w tym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "prowadzenie dokumentacji Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "wsparcie merytoryczne i administracyjne Kierownika Programu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_12/pkt_3",
+     "text": "przygotowywanie materiałów informacyjnych dotyczących prac Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_12/pkt_4",
+     "text": "realizacja innych zadań delegowanych przez Kierownika Programu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Udział w pracach Zespołu jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Zespół ulega rozwiązaniu z dniem zaakceptowania przez Radę Ministrów raportu końcowego z prac Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

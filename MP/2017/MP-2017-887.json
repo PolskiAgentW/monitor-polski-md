@@ -1,0 +1,242 @@
+{
+ "eli": "MP/2017/887",
+ "title": "Zarządzenie nr 105 Prezesa Rady Ministrów z dnia 22 września 2017 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Finansów",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/887/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 105"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 września 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Finansów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 13 Prezesa Rady Ministrów z dnia 21 lutego 2017 r. w sprawie nadania statutu Ministerstwu Finansów (M.P. poz. 213) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "po pkt 5 dodaje się pkt 5a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5a) Departament Cen Transferowych i Wycen;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "po pkt 14 dodaje się pkt 14a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„14a) Departament Kluczowych Podmiotów;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "po pkt 15 dodaje się pkt 15a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„15a) Departament Organizacji i Wdrożeń;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "uchyla się pkt 16,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_1/lit_e",
+       "text": "po pkt 29 dodaje się pkt 29a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„29a) Departament Zarządzania Strategicznego;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_1/lit_f",
+       "text": "uchyla się pkt 30,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_1/lit_g",
+       "text": "po pkt 35 dodaje się pkt 35a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„35a) Biuro Kontroli;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_1/lit_h",
+       "text": "uchyla się pkt 38 i 39;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w pkt 2:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_a/tir_1",
+         "text": "po lit. b dodaje się lit. ba i bb w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„ba) Departament Cen Transferowych i Wycen,",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "bb) Departament Informacji Finansowej,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_a/tir_2",
+         "text": "po lit. c dodaje się lit. ca w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„ca) Departament Kluczowych Podmiotów,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_2/lit_a/tir_3",
+         "text": "po lit. d dodaje się lit. da w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„da) Departament Organizacji i Wdrożeń,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "par_1/pkt_2/lit_a/tir_4",
+         "text": "uchyla się lit. e,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "5",
+         "path": "par_1/pkt_2/lit_a/tir_5",
+         "text": "po lit. o dodaje się lit. oa i ob w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„oa) Departament Współpracy Międzynarodowej,",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "ob) Departament Zarządzania Strategicznego,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "6",
+         "path": "par_1/pkt_2/lit_a/tir_6",
+         "text": "uchyla się lit. p,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w pkt 3 uchyla się lit. a.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: B. Szydło"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

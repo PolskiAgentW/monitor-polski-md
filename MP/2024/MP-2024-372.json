@@ -1,0 +1,503 @@
+{
+ "eli": "MP/2024/372",
+ "title": "Zarządzenie nr 53 Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie Komitetu Rady Ministrów do spraw Bezpieczeństwa Narodowego",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/372/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 53"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 maja 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Komitetu Rady Ministrów do spraw Bezpieczeństwa Narodowego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 1 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195, 1234 i 1641) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Komitet Rady Ministrów do spraw Bezpieczeństwa Narodowego, zwany dalej „Komitetem”, jest organem pomocniczym Rady Ministrów i Prezesa Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Do zadań Komitetu należy zapewnienie koordynacji działań w sprawach bezpieczeństwa i obrony państwa oraz bezpieczeństwa cyberprzestrzeni, w tym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "zapewnienie koordynacji wykonywania przez Radę Ministrów i inne organy administracji rządowej zadań w zakresie bezpieczeństwa i obrony państwa oraz bezpieczeństwa cyberprzestrzeni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "dokonywanie analiz w zakresie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_2/lit_a",
+         "text": "spraw wewnętrznych, porządku publicznego, obronności i bezpieczeństwa cyberprzestrzeni oraz spraw dotyczących wymiaru sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_2/lit_b",
+         "text": "udoskonalania systemu zarządzania bezpieczeństwem i obroną państwa oraz bezpieczeństwem cyberprzestrzeni,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_2/lit_c",
+         "text": "rządowej polityki bezpieczeństwa i obrony państwa oraz bezpieczeństwa cyberprzestrzeni, w tym inicjatyw wymagających współpracy międzynarodowej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "rozpatrywanie projektów aktów prawnych oraz projektów innych dokumentów rządowych o istotnym wpływie na zagadnienia bezpieczeństwa i obrony państwa oraz bezpieczeństwa cyberprzestrzeni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "przygotowywanie propozycji rozwiązań w zakresie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_4/lit_a",
+         "text": "działań na rzecz bezpieczeństwa na poziomie strategicznym, w tym dotyczących: rozwoju zdolności operacyjnych służb mundurowych, pozyskiwania uzbrojenia i innych produktów, rozwoju przemysłu obronnego, działalności badawczo-rozwojowej na potrzeby bezpieczeństwa i obronności, mobilizacji zasobów oraz rezerw strategicznych na potrzeby bezpieczeństwa i obronności,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_4/lit_b",
+         "text": "udoskonalania systemu zarządzania bezpieczeństwem,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_4/lit_c",
+         "text": "spójności rządowej polityki bezpieczeństwa i obrony państwa oraz bezpieczeństwa cyberprzestrzeni z inicjatywami międzyresortowymi;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "przedstawianie Radzie Ministrów lub Prezesowi Rady Ministrów rekomendacji w zakresie koordynacji działań w sprawach bezpieczeństwa i obrony państwa oraz bezpieczeństwa cyberprzestrzeni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "wykonywanie innych zadań zleconych przez Radę Ministrów lub Prezesa Rady Ministrów dotyczących zagadnień pozostających w zakresie zadań Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Komitet jest właściwym komitetem, o którym mowa w § 53 uchwały nr 190 Rady Ministrów z dnia 29 października 2013 r. – Regulamin pracy Rady Ministrów (M.P. z 2022 r. poz. 348), w zakresie rozpatrywania spraw dotyczących bezpieczeństwa i obrony państwa oraz bezpieczeństwa cyberprzestrzeni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Komitetu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący Komitetu – Wiceprezes Rady Ministrów, Minister Obrony Narodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "pozostali członkowie Komitetu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "Wiceprezes Rady Ministrów, Minister Cyfryzacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "Minister Aktywów Państwowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "Minister Sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_2/lit_d",
+         "text": "Minister Spraw Wewnętrznych i Administracji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_2/lit_e",
+         "text": "Minister Spraw Zagranicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_2/lit_f",
+         "text": "Minister – Koordynator Służb Specjalnych, w przypadku jego powołania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_2/lit_g",
+         "text": "Minister – Członek Rady Ministrów – Szef Kancelarii Prezesa Rady Ministrów;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "sekretarz Komitetu w randze dyrektora komórki organizacyjnej w Ministerstwie Obrony Narodowej, obsługującej sprawy Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Prezes Rady Ministrów przewodniczy posiedzeniom Komitetu, ilekroć bierze w nich udział. W takim przypadku przewodniczący Komitetu uczestniczy w posiedzeniu jako członek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Członkowie Komitetu mogą wyznaczyć, do zastępowania ich w pracach Komitetu, upoważnionych przedstawicieli w randze sekretarza stanu albo podsekretarza stanu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przewodniczący Komitetu wskazuje członka Komitetu, który wykonuje zadania przewodniczącego Komitetu w przypadku jego nieobecności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W przypadku rozpatrywania na posiedzeniu Komitetu spraw należących do zakresu kompetencji członków Rady Ministrów niewchodzących w skład Komitetu przewodniczący Komitetu zaprasza ich do uczestniczenia w posiedzeniu Komitetu na prawach członka Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przewodniczący Komitetu może zapraszać do udziału w pracach Komitetu, z głosem doradczym, inne osoby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Przewodniczący Komitetu może zarządzić niejawność całości albo części posiedzenia Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Przewodniczący Komitetu określa szczegółowe sposoby i terminy realizacji zadań Komitetu, o których mowa w § 2 ust. 1, oraz wskazuje osoby lub podmioty odpowiedzialne za ich wykonanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Komitet może określić tryb i terminy wykonania prac zmierzających do przygotowania projektu dokumentu rządowego przewidzianego do rozpatrzenia przez Radę Ministrów lub Prezesa Rady Ministrów oraz wskazywać organy odpowiedzialne za ich wykonanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_4/ust_7",
+     "text": "Uprawnienia, o których mowa w ust. 6, przysługują również przewodniczącemu Komitetu, jeżeli Komitet nie określił trybu i terminu wykonania odpowiednich prac lub organów odpowiedzialnych za ich wykonanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_4/ust_8",
+     "text": "Przewodniczący Komitetu może powoływać stałe lub czasowe zespoły robocze, wyznaczać ich skład spośród członków Komitetu lub osób, o których mowa w ust. 2 i 3, oraz przydzielać im zadania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_4/ust_9",
+     "text": "W posiedzeniach Komitetu stale lub doraźnie uczestniczą, bez prawa udziału w podejmowaniu rozstrzygnięć, osoby zaproszone przez sekretarza Komitetu, jeżeli uzna on ich udział w posiedzeniu za niezbędny do wykonywania powierzonych im zadań służbowych albo do obsługi prac Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Sekretarz Komitetu odpowiada za sprawy organizacyjne Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Sekretarz Komitetu, na podstawie informacji uzyskanych od przewodniczącego Komitetu oraz projektów dokumentów rządowych wniesionych do rozpatrzenia przez Komitet, przygotowuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "porządek obrad Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "listę członków Komitetu oraz osób, o których mowa w § 4 ust. 2 i 3, zaproszonych do udziału w posiedzeniu Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Sekretarz Komitetu przekazuje porządek obrad Komitetu osobom zaproszonym do udziału w posiedzeniu Komitetu nie później niż na 3 dni przed dniem posiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "W uzasadnionych przypadkach, za zgodą przewodniczącego Komitetu, termin, o którym mowa w ust. 3, może zostać skrócony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Komitet odbywa posiedzenia w terminach określonych przez przewodniczącego Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przewodniczący Komitetu albo działający z jego upoważnienia sekretarz Komitetu może zarządzić rozpatrzenie sprawy w drodze korespondencyjnego uzgodnienia stanowisk (tryb obiegowy).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Rozstrzygnięcia Komitetu zapadają w drodze uzgodnienia stanowiska.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W przypadku gdy uzgodnienie stanowiska nie jest możliwe, rozstrzyga zdanie przewodniczącego Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Członkowie Komitetu mogą zgłosić zdanie odrębne w stosunku do zapadłego rozstrzygnięcia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Sekretarz Komitetu przekazuje członkom Komitetu oraz Sekretarzowi Rady Ministrów protokół zawierający ustalenia zapadłe podczas posiedzenia Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Protokół jest podpisywany przez przewodniczącego Komitetu i sekretarza Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Egzemplarz protokołu przechowuje się w Kancelarii Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Przewodniczący Komitetu może zlecać członkom Komitetu opracowanie analiz poświęconych istniejącym rozwiązaniom prawnym, organizacyjnym i funkcjonalnym z zakresu bezpieczeństwa i obronności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Przewodniczący Komitetu może zlecać rzeczoznawcom lub ekspertom opracowanie analiz, prognoz, ekspertyz, opinii lub koncepcji i projektów rozwiązań z zakresu bezpieczeństwa i obronności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Organy administracji rządowej oraz podległe im jednostki organizacyjne lub jednostki przez nie nadzorowane, na wniosek przewodniczącego Komitetu, udzielają Komitetowi, w ramach swoich kompetencji, pomocy przy wykonywaniu jego zadań, w szczególności przedstawiają niezbędne informacje i udostępniają dokumenty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Obsługę merytoryczną i organizacyjną Komitetu oraz środki związane z jego działalnością zapewnia Ministerstwo Obrony Narodowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Traci moc zarządzenie nr 162 Prezesa Rady Ministrów z dnia 9 października 2020 r. w sprawie Komitetu Rady Ministrów do spraw Bezpieczeństwa Narodowego i spraw Obronnych (M.P. poz. 918 oraz z 2023 r. poz. 638).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

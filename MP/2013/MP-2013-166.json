@@ -1,0 +1,187 @@
+{
+ "eli": "MP/2013/166",
+ "title": "Zarządzenie Nr 19 Prezesa Rady Ministrów z dnia 8 marca 2013 r. w sprawie nadania statutu Urzędowi do Spraw Cudzoziemców",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/166/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 19"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 marca 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Urzędowi do Spraw Cudzoziemców"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 142 ust. 4 ustawy z dnia 13 czerwca 2003 r. o cudzoziemcach (Dz. U. z 2011 r. Nr 264, poz. 1573 oraz z 2012 r. poz. 589 i 769) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Urzędowi do Spraw Cudzoziemców nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie nr 57 Prezesa Rady Ministrów z dnia 10 sierpnia 2010 r. w sprawie nadania statutu Urzędowi do Spraw Cudzoziemców (M.P. Nr 56, poz. 763).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 19 Prezesa Rady Ministrów z dnia 8 marca 2013 r. (poz. 166)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT URZĘDU DO SPRAW CUDZOZIEMCÓW"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Urząd do Spraw Cudzoziemców, zwany dalej „Urzędem”, jest urzędem administracji rządowej obsługującym Szefa Urzędu do Spraw Cudzoziemców, zwanego dalej „Szefem Urzędu”, działającym pod jego bezpośrednim kierownictwem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Urzędem kieruje Szef Urzędu przy pomocy zastępców Szefa Urzędu, dyrektora generalnego i kierowników komórek organizacyjnych wymienionych w § 3 pkt 1.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "W skład Urzędu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "komórki organizacyjne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_1/lit_a",
+         "text": "Departament Legalizacji Pobytu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_1/lit_b",
+         "text": "Departament Postępowań Uchodźczych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/pkt_1/lit_c",
+         "text": "Departament Pomocy Socjalnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/pkt_1/lit_d",
+         "text": "Biuro Szefa Urzędu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/pkt_1/lit_e",
+         "text": "Biuro Finansów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/pkt_1/lit_f",
+         "text": "Biuro Logistyki i Pomocy Zagranicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/pkt_1/lit_g",
+         "text": "Biuro Prawne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/pkt_1/lit_h",
+         "text": "Biuro Informatyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/pkt_1/lit_i",
+         "text": "Wydział Kadr, Szkolenia i Organizacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/pkt_1/lit_j",
+         "text": "Wydział Archiwum i Ewidencji Cudzoziemców;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "samodzielne stanowiska:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_2/lit_a",
+         "text": "do spraw Audytu Wewnętrznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_2/lit_b",
+         "text": "Pełnomocnika do spraw Ochrony Informacji Niejawnych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

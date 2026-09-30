@@ -1,0 +1,65 @@
+{
+ "eli": "MP/2020/1129",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 3 grudnia 2020 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.13",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1129/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 grudnia 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2018 r. poz. 846 oraz z 2020 r. poz. 306, 499 i 500) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "tytuł działu VIa otrzymuje brzmienie: „Udział w posiedzeniach Senatu i komisji senackich w sposób zdalny”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "po art. 67c dodaje się art. 67d w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 67d. Przepisy art. 67a i art. 67b ust. 1 pkt 1 i ust. 2–4 stosuje się odpowiednio do udziału w posiedzeniach komisji osób wymienionych w art. 60 ust. 2, 3 i 6.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: T. Grodzki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

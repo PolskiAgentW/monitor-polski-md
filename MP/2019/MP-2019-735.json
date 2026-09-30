@@ -1,0 +1,191 @@
+{
+ "eli": "MP/2019/735",
+ "title": "Obwieszczenie Ministra Finansów z dnia 1 sierpnia 2019 r. w sprawie ogłoszenia obowiązujących w 2020 r. maksymalnych stawek opłat za usunięcie pojazdu z drogi i jego parkowanie na parkingu strzeżonym",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/735/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 sierpnia 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia obowiązujących w 2020 r. maksymalnych stawek opłat za usunięcie pojazdu z drogi i jego parkowanie na parkingu strzeżonym"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 130a ust. 6c ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.[^2]) ogłasza się maksymalne stawki opłat za usunięcie pojazdu z drogi i jego parkowanie na parkingu strzeżonym, obowiązujących w 2020 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "rower lub motorower:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "za usunięcie – 118 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "za każdą dobę przechowywania – 22 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "motocykl:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "za usunięcie – 232 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "za każdą dobę przechowywania – 29 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "pojazd o dopuszczalnej masie całkowitej do 3,5 t:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "za usunięcie – 503 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "za każdą dobę przechowywania – 42 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "pojazd o dopuszczalnej masie całkowitej powyżej 3,5 t do 7,5 t:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "za usunięcie – 628 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "za każdą dobę przechowywania – 54 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "pojazd o dopuszczalnej masie całkowitej powyżej 7,5 t do 16 t:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_5/lit_a",
+     "text": "za usunięcie – 887 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_5/lit_b",
+     "text": "za każdą dobę przechowywania – 79 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "pojazd o dopuszczalnej masie całkowitej powyżej 16 t:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_6/lit_a",
+     "text": "za usunięcie – 1308 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_6/lit_b",
+     "text": "za każdą dobę przechowywania – 142 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "pojazd przewożący materiały niebezpieczne:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_7/lit_a",
+     "text": "za usunięcie – 1591 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_7/lit_b",
+     "text": "za każdą dobę przechowywania – 208 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: M. Banaś"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 czerwca 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1059).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 2244 i 2322 oraz z 2019 r. poz. 53, 60, 730, 752, 870, 1123, 1180 i 1466."
+ }
+}

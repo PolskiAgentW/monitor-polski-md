@@ -1,0 +1,410 @@
+{
+ "eli": "MP/2016/994",
+ "title": "Zarządzenie nr 123 Prezesa Rady Ministrów z dnia 18 października 2016 r. w sprawie Komitetu Sterującego do spraw Krajowego Programu Ochrony Powietrza",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/994/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 123"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 października 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Komitetu Sterującego do spraw Krajowego Programu Ochrony Powietrza"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 2 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Komitet Sterujący do spraw Krajowego Programu Ochrony Powietrza, zwany dalej „Komitetem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Komitet jest organem opiniodawczo-doradczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Komitetu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "koordynacja realizacji wspólnych działań na rzecz poprawy jakości powietrza wynikających ze Strategii „Bezpieczeństwo Energetyczne i Środowisko – perspektywa do 2020 r.”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "monitorowanie stanu zaawansowania działań na rzecz poprawy jakości powietrza wynikających z Krajowego Programu Ochrony Powietrza, zwanego dalej „Programem”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "opiniowanie przygotowanej przez ministra właściwego do spraw środowiska informacji dla Rady Ministrów o stanie realizacji Programu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Komitetu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący – minister właściwy do spraw środowiska albo wskazany przez niego sekretarz albo podsekretarz stanu w urzędzie obsługującym ministra właściwego do spraw środowiska;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "pozostali członkowie, po jednym przedstawicielu – w randze sekretarza albo podsekretarza stanu – wyznaczonym przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "ministra właściwego do spraw energii,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "ministra właściwego do spraw finansów publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_2/lit_d",
+         "text": "ministra właściwego do spraw gospodarki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_2/lit_e",
+         "text": "ministra właściwego do spraw nauki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_2/lit_f",
+         "text": "ministra właściwego do spraw oświaty i wychowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_2/lit_g",
+         "text": "ministra właściwego do spraw rolnictwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_2/lit_h",
+         "text": "ministra właściwego do spraw rozwoju regionalnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_2/lit_i",
+         "text": "ministra właściwego do spraw rozwoju wsi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/ust_1/pkt_2/lit_j",
+         "text": "ministra właściwego do spraw szkolnictwa wyższego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_3/ust_1/pkt_2/lit_k",
+         "text": "ministra właściwego do spraw transportu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_3/ust_1/pkt_2/lit_l",
+         "text": "ministra właściwego do spraw zdrowia;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "sekretarz – wyznaczony przez przewodniczącego pracownik urzędu obsługującego ministra właściwego do spraw środowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Członkowie Komitetu, o których mowa w ust. 1 pkt 1 i 2, w szczególnie uzasadnionych przypadkach mogą być zastępowani w pracach Komitetu przez upoważnionych przedstawicieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przewodniczący może, z własnej inicjatywy lub na wniosek członka Komitetu, zapraszać do uczestnictwa w pracach Komitetu z głosem doradczym również osoby niebędące członkami Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "W przypadku gdy minister kieruje więcej niż jednym działem administracji rządowej, wyznacza do składu Komitetu tylko jednego przedstawiciela.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Posiedzenia Komitetu zwołuje przewodniczący z własnej inicjatywy co najmniej dwa razy w roku oraz w każdym przypadku na umotywowany wniosek członka Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Posiedzeniami Komitetu kieruje przewodniczący albo wyznaczony przez przewodniczącego członek Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przewodniczący może powierzyć członkom Komitetu, zgodnie z ich właściwością, wykonanie określonych prac służących realizacji zadań Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W ramach Komitetu przewodniczący powołuje zespoły robocze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W skład zespołów roboczych mogą wejść:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "przewodniczący lub pozostali członkowie Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "wyznaczeni przez członków Komitetu pracownicy urzędów obsługujących ministrów wymienionych w § 3 ust. 1 pkt 1 i 2, właściwi ze względu na rodzaj działania, które będzie realizował zespół roboczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "inne osoby, z głosem doradczym.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W sprawach wymagających rozstrzygnięcia Komitet podejmuje uchwały zwykłą większością głosów w obecności co najmniej połowy liczby członków Komitetu. W przypadku równej liczby głosów decyduje głos przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Szczegółowy tryb pracy Komitetu określi regulamin uchwalony przez Komitet na pierwszym posiedzeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Organy administracji rządowej oraz jednostki organizacyjne nadzorowane przez te organy lub im podległe są zobowiązane do współdziałania z Komitetem oraz udzielania Komitetowi pomocy przy realizacji zadań, o których mowa w § 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Wydatki związane z działalnością Komitetu i powoływanych zespołów roboczych są pokrywane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw środowiska.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Udział w pracach Komitetu jest nieodpłatny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Obsługę techniczno-organizacyjną oraz biurową prac Komitetu oraz zespołów roboczych zapewnia urząd obsługujący ministra właściwego do spraw środowiska.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Posiedzenia Komitetu oraz zespołów roboczych odbywać się będą w siedzibie urzędu obsługującego ministra właściwego do spraw środowiska.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Komitet tworzy się na okres wykonywania zadań, o których mowa w § 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Przewodniczący Komitetu przedstawia Radzie Ministrów sprawozdania okresowe z realizacji zadań Komitetu, w terminie do dnia 31 maja i 30 listopada każdego roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Prezes Rady Ministrów znosi Komitet po przyjęciu przez Radę Ministrów ostatniego sprawozdania, zawierającego podsumowanie realizacji zadań Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: B. Szydło"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

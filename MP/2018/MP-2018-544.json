@@ -1,0 +1,89 @@
+{
+ "eli": "MP/2018/544",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 6 czerwca 2018 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/544/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 czerwca 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 31a ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Sejm powołuje i odwołuje członków Komisji do spraw reprywatyzacji nieruchomości warszawskich.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w załączniku:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "w pkt 8a po wyrazach „rybactwa śródlądowego” dodaje się wyrazy „oraz gospodarki wodnej, meteorologii i hydrologii”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "w pkt 15 skreśla się wyrazy „gospodarki wodnej, meteorologii, hydrologii,”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Sprawy z zakresu gospodarki wodnej, meteorologii i hydrologii skierowane do Komisji Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa przed dniem wejścia w życie niniejszej uchwały rozpatruje ta komisja.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079, z 2015 r. poz. 31, 550, 1130, 1136 i 1212, z 2016 r. poz. 349, 512, 616, 634 i 1178, z 2017 r. poz. 262 i 420 oraz z 2018 r. poz. 146 i 267."
+ }
+}

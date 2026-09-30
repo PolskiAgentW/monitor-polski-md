@@ -1,0 +1,78 @@
+{
+ "eli": "MP/2015/758",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 12 sierpnia 2015 r. zmieniająca uchwałę w sprawie sposobu drukowania kart do głosowania oraz trybu ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille'a obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej w 2015 roku",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/758/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 sierpnia 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie sposobu drukowania kart do głosowania oraz trybu ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej w 2015 roku"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 223 i 266 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Państwowej Komisji Wyborczej z dnia 9 czerwca 2015 r. w sprawie sposobu drukowania kart do głosowania oraz trybu ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej w 2015 roku (M.P. poz. 537) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pkt 8 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8. Dla każdego lokalu wyborczego przeznacza się 1 egzemplarz nakładki każdego rodzaju. Ponadto dla każdej delegatury Krajowego Biura Wyborczego przeznacza się 10 sztuk nakładek każdego rodzaju. Delegatura Krajowego Biura Wyborczego, na podstawie informacji wójtów (burmistrzów, prezydentów miast) o liczbie wyborców, którzy zgłosili zamiar głosowania korespondencyjnego przy użyciu nakładek, przekaże nakładki urzędom gmin w celu przygotowania pakietów wyborczych stosowanych w głosowaniu korespondencyjnym.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pkt 17 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„17. Na kartach do głosowania przeznaczonych do sporządzenia pakietów wyborczych obwodowa komisja wyborcza umieszcza odcisk swojej pieczęci.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072 oraz z 2015 r. poz. 1043, 1044 i 1045."
+ }
+}

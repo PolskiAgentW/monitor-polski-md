@@ -1,0 +1,185 @@
+{
+ "eli": "MP/2016/634",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 7 lipca 2016 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/634/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "Sejmu RzeczypoSpolitej polSkiej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 lipca 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 26 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Sejm wybiera zastępców przewodniczącego i członków Trybunału Stanu, sędziów Trybunału Konstytucyjnego, członków Rady Polityki Pieniężnej, członków Krajowej Rady Radiofonii i Telewizji, posłów członków Krajowej Rady Sądownictwa, członków Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz członków Rady Mediów Narodowych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "art. 125 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 125.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Sejm rozpatruje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) przedstawione przez Krajową Radę Radiofonii i Telewizji sprawozdanie z jej działalności oraz informację o podstawowych problemach radiofonii i telewizji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przedstawioną przez Radę Mediów Narodowych informację o jej działalności.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Sprawozdanie i informacje, o których mowa w ust. 1, doręcza się posłom.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rozpatrzenie sprawozdania i informacji, o których mowa w ust. 1, nie może nastąpić później niż w terminie 3 miesięcy od dnia ich doręczenia posłom.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Sprawozdanie i informacje, o których mowa w ust. 1, przesyła się do komisji, która po ich rozpatrzeniu przedstawia Sejmowi:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) projekt uchwały o przyjęciu lub odrzuceniu sprawozdania, o którym mowa w ust. 1 pkt 1;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) projekt uchwały o przyjęciu lub odrzuceniu informacji, o której mowa w ust. 1 pkt 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Sejm podejmuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) uchwałę o przyjęciu lub odrzuceniu sprawozdania, o którym mowa w ust. 1 pkt 1;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) uchwałę o przyjęciu lub odrzuceniu informacji, o której mowa w ust. 1 pkt 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Uchwały, o których mowa w ust. 5, mogą zawierać uwagi i zastrzeżenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Uchwałę, o której mowa w ust. 5 pkt 2, Marszałek Sejmu przesyła Przewodniczącemu Rady Mediów Narodowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Sejm rozstrzyga o sposobie wykorzystania wniosków wynikających ze sprawozdania i z informacji, o których mowa w ust. 1, a w razie potrzeby kieruje te wnioski do właściwych komisji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 169 w ust. 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_3/lit_a",
+       "text": "po pkt 14e dodaje się pkt 14f w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„14f) coroczne informacje Rady Mediów Narodowych o jej działalności,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "w pkt 15 wyrazy „pkt 12–14e” zastępuje się wyrazami „pkt 12–14f”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 170 w ust. 3 po wyrazach „Przewodniczący Krajowej Rady Radiofonii i Telewizji,” dodaje się wyrazy „Przewodniczący Rady Mediów Narodowych,”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 186 w ust. 3 po wyrazach „Przewodniczącemu Krajowej Rady Radiofonii i Telewizji,” dodaje się wyrazy „Przewodniczącemu Rady Mediów Narodowych,”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079, z 2015 r. poz. 31, 550, 1130, 1136 i 1212 oraz z 2016 r. poz. 349, 512 i 616."
+ }
+}

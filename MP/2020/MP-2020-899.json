@@ -1,0 +1,80 @@
+{
+ "eli": "MP/2020/899",
+ "title": "Obwieszczenie Ministra Klimatu z dnia 30 września 2020 r. w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2021",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/899/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA KLIMATU[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 września 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2021"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 291 ust. 2 oraz art. 312 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, 1378 i 1565) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "górną jednostkową stawkę kary za przekroczenie dopuszczalnego poziomu hałasu przenikającego do środowiska, za jeden dB przekroczenia, wynoszącą 69,31 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "jednostkowe stawki kar za przekroczenie dopuszczalnego poziomu hałasu, zawarte w załączniku do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Klimatu: M. Kurtyka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Klimatu z dnia 30 września 2020 r. (poz. 899)",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KAR ZA PRZEKROCZENIE DOPUSZCZALNEGO POZIOMU HAŁASU"
+    },
+    {
+     "type": "text",
+     "text": "w zł za każdy dB przekroczenia Wielkość przekroczenia w porze dnia w porze nocy"
+    },
+    {
+     "type": "text",
+     "text": "od 1 do 5 dB 12,06 15,09"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 5 do 10 dB 21,10 25,65"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 10 do 15 dB 30,18 36,22"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 15 dB 45,25 54,35"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Klimatu kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495)."
+ }
+}

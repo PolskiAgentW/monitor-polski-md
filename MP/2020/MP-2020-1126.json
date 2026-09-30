@@ -1,0 +1,102 @@
+{
+ "eli": "MP/2020/1126",
+ "title": "Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 26 listopada 2020 r. w sprawie stawek akcyzy na paliwa silnikowe w roku 2021",
+ "converter": "eli2md 0.6.13",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1126/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 listopada 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek akcyzy na paliwa silnikowe w roku 2021"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 89 ust. 1b pkt 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722 i 1747) ogłasza się, że w roku 2021 stawki akcyzy na paliwa silnikowe wynoszą dla:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "benzyn silnikowych o kodach CN 2710 12 45 lub 2710 12 49 oraz wyrobów powstałych ze zmieszania tych benzyn z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1514,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "olejów napędowych o kodzie CN 2710 19 43 i 2710 20 11 oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1145,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "biokomponentów stanowiących samoistne paliwa, spełniających wymagania jakościowe określone w odrębnych przepisach, przeznaczonych do napędu silników spalinowych, bez względu na kod CN – 1145,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "gazów przeznaczonych do napędu silników spalinowych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "gazu ziemnego (mokrego) i pozostałych węglowodorów gazowych objętych pozycją CN 2711 oraz gazowych węglowodorów alifatycznych objętych pozycją CN 2901:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_4/lit_a/tir_1",
+       "text": "skroplonych – 644,00 zł/1000 kilogramów,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_4/lit_a/tir_2",
+       "text": "w stanie gazowym – 10,02 zł/1 gigadżul (GJ),",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "pozostałych – 13,70 zł/1 GJ;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "pozostałych paliw silnikowych – 1771,00 zł/1000 litrów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów, Funduszy i Polityki Regionalnej kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Funduszy i Polityki Regionalnej (Dz. U. poz. 1719)."
+ }
+}

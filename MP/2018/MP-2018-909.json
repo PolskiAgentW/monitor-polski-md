@@ -1,0 +1,195 @@
+{
+ "eli": "MP/2018/909",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 27 sierpnia 2018 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/909/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 sierpnia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 53j § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uchwała określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "sposób postępowania z kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej ds. przeprowadzenia głosowania do zakończenia głosowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "sposób postępowania z kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej ds. przeprowadzenia głosowania po zakończeniu głosowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "sposób postępowania z kopertami zwrotnymi zawierającymi niezaklejone koperty na kartę lub karty do głosowania, zwane dalej „kopertami na kartę do głosowania”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "sposób postępowania z kopertami zwrotnymi niezawierającymi podpisanego oświadczenia o osobistym i tajnym oddaniu głosu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "sposób postępowania z pakietami wyborczymi nieodebranymi przez wyborcę niepełnosprawnego",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– w głosowaniu korespondencyjnym."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Koperty zwrotne, dostarczone do obwodowej komisji wyborczej ds. przeprowadzenia głosowania do zakończenia głosowania, komisja otwiera niezwłocznie po dostarczeniu i sprawdza, czy w kopercie zwrotnej znajduje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "podpisane przez wyborcę oświadczenie o osobistym i tajnym oddaniu głosu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "zaklejona koperta na kartę do głosowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jeżeli spełnione są warunki, o których mowa w ust. 1, komisja odnotowuje w rubryce spisu wyborców „Uwagi”, odpowiadającej pozycji, pod którą przy nazwisku wyborcy umieszczono informację o wysłaniu pakietu wyborczego, że wyborca głosował korespondencyjnie, a zaklejoną kopertę na kartę do głosowania komisja wrzuca do urny wyborczej. Oświadczenie o osobistym i tajnym oddaniu głosu komisja dołącza do spisu wyborców. Puste koperty zwrotne komisja pakuje w pakiet, opisuje i odkłada. Pakiet ten pozostaje w dokumentacji komisji, która po zakończeniu głosowania przekazywana jest w depozyt urzędnikowi wyborczemu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "w kopercie zwrotnej nie było oświadczenia o osobistym i tajnym oddaniu głosu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "oświadczenie o osobistym i tajnym oddaniu głosu nie było podpisane przez wyborcę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "w kopercie zwrotnej nie było koperty na kartę do głosowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_3/pkt_4",
+       "text": "koperta na kartę do głosowania była niezaklejona",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– komisja ds. przeprowadzenia głosowania odkłada kopertę zwrotną wraz z zawartością, segregując odłożone koperty według naruszeń powyższych warunków. Kopert tych komisja ds. ustalania wyników głosowania nie bierze pod uwagę przy ustalaniu wyników głosowania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Komisja pakuje koperty wraz z kartami w osobne pakiety, według naruszeń warunków określonych w ust. 3, opisuje je i odkłada.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Jeżeli kopertę zwrotną wyborca dostarczył osobiście do obwodowej komisji wyborczej, komisja w jego obecności otwiera kopertę zwrotną i na podstawie jego dokumentu tożsamości sprawdza, czy w kopercie zwrotnej znajduje się podpisane przez tego wyborcę oświadczenie o osobistym i tajnym oddaniu głosu. Ponadto komisja sprawdza, czy koperta na kartę do głosowania jest zaklejona. Jeżeli któryś z wymienionych warunków nie jest spełniony, komisja wzywa wyborcę do usunięcia stwierdzonej wady. Jeżeli warunki są spełnione, komisja dołącza do spisu wyborców oświadczenie o osobistym i tajnym oddaniu głosu, wrzuca kopertę na kartę do głosowania do urny, a pustą kopertę zwrotną dołącza do pakietu, o którym mowa w ust. 2 zdanie trzecie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Pakiety wyborcze nieodebrane przez wyborcę, dostarczone obwodowej komisji wyborczej ds. przeprowadzenia głosowania w obwodzie, komisja pakuje w pakiet, opisuje i odkłada. Pakiet ten pozostaje w dokumentacji komisji, która po zakończeniu głosowania przekazywana jest w depozyt urzędnikowi wyborczemu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przepis § 3 stosuje się odpowiednio do kopert zwrotnych dostarczonych do obwodowej komisji wyborczej ds. przeprowadzenia głosowania po zakończeniu głosowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Niniejsza uchwała była poprzedzona uchwałą Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym w kraju (M.P. z 2015 r. poz. 37), która utraciła moc z dniem 1 sierpnia 2018 r. na podstawie art. 18 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130)."
+ }
+}

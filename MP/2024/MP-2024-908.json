@@ -1,0 +1,135 @@
+{
+ "eli": "MP/2024/908",
+ "title": "Uchwała nr 127 Rady Ministrów z dnia 23 października 2024 r. zmieniająca uchwałę w sprawie Inicjatywy \"Wspólna Infrastruktura Informatyczna Państwa\"",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/908/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 127"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 października 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie Inicjatywy „Wspólna Infrastruktura Informatyczna Państwa”"
+  },
+  {
+   "type": "text",
+   "text": "Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 97 Rady Ministrów z dnia 11 września 2019 r. w sprawie Inicjatywy „Wspólna Infrastruktura Informatyczna Państwa” (M.P. z 2021 r. poz. 1006) w załączniku nr 2 w ust. 1 tabela otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Objaśnienie ogólne: Kategorie systemów teleinformatycznych przedstawione w tabeli mają charakter, co do zasady, rozłączny. Kryterium rozróżnienia kategorii uwzględnia główne rodzaje systemów teleinformatycznych działających w organach publicznych oraz ich główne, z punktu widzenia bezpieczeństwa przetwarzania w chmurze obliczeniowej, cechy i przeznaczenie. W praktyce może się okazać, że system teleinformatyczny można zakwalifikować do dwóch lub więcej kategorii. Jeżeli z objaśnień dla poszczególnych kategorii nie wynika pierwszeństwo dla danej kategorii, o możliwości przetwarzania w określonym typie chmury obliczeniowej decyduje analiza poszczególnego systemu teleinformatycznego. Brak oznaczenia w postaci X w kolumnie „Brak możliwości skorzystania z usług chmurowych określonych w uchwale” oznacza, że system teleinformatyczny powinien być utrzymywany przy wykorzystaniu usług chmurowych (zasada pierwszeństwa chmury), a rodzaj dopuszczalnych usług chmurowych zależy od oznaczenia w tabeli. Oznaczenie X w kolumnie „Brak możliwości skorzystania z usług chmurowych określonych w uchwale” i kolumnie „Rządowa Chmura Obliczeniowa” oznacza możliwość utrzymywania systemu teleinformatycznego w ramach Dedykowanej Infrastruktury Teleinformatycznej (DIT) lub w Rządowej Chmurze Obliczeniowej w zależności od wyniku przeprowadzonej analizy. Analogicznie zasady mają zastosowanie w przypadku pozostałych klasyfikacji."
+    },
+    {
+     "type": "text",
+     "text": "Lp. Kategoria systemów Brak możliwości Rządowa Publiczna Publiczna Objaśnienia dla teleinformatycznych skorzystania Chmura Chmura Chmura poszczególnych z usług Obliczeniowa Obliczeniowa Obliczeniowa kategorii chmurowych w jurysdykcji w jurysdykcji określonych krajowej Europejskiego w uchwale[^1] Obszaru (konieczność Gospodarczego korzystania (EOG) z Dedykowanej Infrastruktury Teleinformatycznej – DIT) 1 Systemy Dotyczy to X teleinformatyczne systemów oraz rozwiązania teleinformatycznych informatyczne, oraz rozwiązań w których są informatycznych, przetwarzane które w przepisach informacje niejawne, powszechnie z wyłączeniem pkt 2 obowiązujących są określone jako systemy niejawne lub w stosunku do których uprawnione organy wskazały, że są w nich przetwarzane informacje niejawne, z wyłączeniem pkt 2."
+    },
+    {
+     "type": "text",
+     "text": "2 Systemy Dotyczy to X X X X teleinformatyczne systemów oraz rozwiązania teleinformatycznych informatyczne, oraz rozwiązań w których są informatycznych, przetwarzane w stosunku do informacje niejawne których uprawnione o maksymalnej organy wskazały, że klauzuli są w nich „zastrzeżone” lub przetwarzane równoważnej informacje niejawne klauzuli o maksymalnej międzynarodowej, klauzuli organizowane przez „zastrzeżone” lub podmioty, o których równoważnej mowa w art. 10 ust. 2 klauzuli pkt 1 i 2 ustawy międzynarodowej. z dnia 5 sierpnia W zależności od 2010 r. o ochronie dokonanej analizy informacji przez podmiot niejawnych (Dz. U. odpowiedzialny za z 2024 r. poz. 632 system i 1222), teleinformatyczny w odniesieniu do oraz uzyskania których zadania zgody wyrażonej w zakresie nadzoru przez Służbę nad funkcjonowaniem Kontrwywiadu systemu ochrony Wojskowego. informacji niejawnych realizuje Służba Kontrwywiadu Wojskowego"
+    },
+    {
+     "type": "text",
+     "text": "3 Systemy W zależności od X X X X teleinformatyczne dokonanej analizy służb specjalnych przez podmiot w rozumieniu art. 11 odpowiedzialny za ustawy z dnia system 24 maja 2002 r. teleinformatyczny. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812, 1222 i 1562), z wyłączeniem systemów teleinformatycznych Agencji Bezpieczeństwa Wewnętrznego"
+    },
+    {
+     "type": "text",
+     "text": "4 Systemy W zależności od X X teleinformatyczne dokonanej analizy Agencji przez podmiot Bezpieczeństwa odpowiedzialny za Wewnętrznego system teleinformatyczny. Dotyczy wszystkich systemów teleinformatycznych Agencji Bezpieczeństwa Wewnętrznego, nawet jeżeli te systemy teleinformatyczne spełniają kryteria kwalifikujące do innej kategorii systemów teleinformatycznych."
+    },
+    {
+     "type": "text",
+     "text": "5 Systemy W zależności od X X X X teleinformatyczne dokonanej analizy wykorzystywane do przez podmiot prowadzenia odpowiedzialny za rejestrów[^2], system ewidencji[^3] oraz teleinformatyczny. innych baz danych[^4] przez organy publiczne na podstawie przepisów prawa Unii Europejskiej lub na podstawie zawartych umów międzynarodowych"
+    },
+    {
+     "type": "text",
+     "text": "6 Systemy W zależności od X X X X teleinformatyczne dokonanej analizy wykorzystywane do przez podmiot prowadzenia odpowiedzialny za rejestrów, ewidencji system oraz innych baz teleinformatyczny."
+    },
+    {
+     "type": "text",
+     "text": "danych przez organy wymiaru sprawiedliwości, służby lub formacje umundurowane oraz służby odpowiedzialne za zapewnienie porządku i bezpieczeństwa publicznego, z wyłączeniem służb wskazanych w pkt 7"
+    },
+    {
+     "type": "text",
+     "text": "7 Systemy O możliwości X X X teleinformatyczne przetwarzania wykorzystywane do w danej chmurze prowadzenia obliczeniowej rejestrów, ewidencji decyduje wynik oraz innych baz analizy. danych, prowadzone przez straże gminne i straże leśne"
+    },
+    {
+     "type": "text",
+     "text": "8 Systemy W zależności od X X teleinformatyczne dokonanej analizy wykorzystywane do przez podmiot prowadzenia odpowiedzialny za rejestrów, ewidencji system oraz innych baz teleinformatyczny. danych przez organy Analiza zawiera publiczne, w których możliwość przetwarzane są dane rozdzielenia referencyjne, komponentów wykorzystywane systemów w funkcjonalnościach teleinformatycznych, przewidzianych w których w art. 35 ustawy realizowane są z dnia 24 maja funkcjonalności 2002 r. o Agencji Agencji Bezpieczeństwa Bezpieczeństwa Wewnętrznego oraz Wewnętrznego oraz Agencji Wywiadu[^5] Agencji Wywiadu. Nie obejmuje systemów teleinformatycznych, które nie wchodzą w zakres podmiotowy uchwały oraz systemów podmiotów prywatnych, np. systemów teleinformatycznych, przy użyciu których wydawane są środki identyfikacji elektronicznej."
+    },
+    {
+     "type": "text",
+     "text": "9 Systemy O możliwości X X X teleinformatyczne przetwarzania wykorzystywane do w danej chmurze prowadzenia obliczeniowej rejestrów, ewidencji decyduje wynik oraz innych baz analizy. danych, zawierające dane referencyjne inne niż wskazane w pkt 8"
+    },
+    {
+     "type": "text",
+     "text": "10 Systemy O możliwości X X X teleinformatyczne przetwarzania wykorzystywane do w danej chmurze prowadzenia obliczeniowej rejestrów, ewidencji decyduje wynik oraz innych baz analizy. O ile danych, w których są systemy przetwarzane teleinformatyczne szczególne kategorie mieszczą się danych osobowych w kategoriach 5–8, w rozumieniu art. 9 klasyfikacja i 10 rozporządzenia dokonywana jest Parlamentu w oparciu o kryteria, Europejskiego i Rady o których mowa (UE) 2016/679 z dnia w pkt 5–8. 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.)"
+    },
+    {
+     "type": "text",
+     "text": "11 Systemy O możliwości X X X teleinformatyczne przetwarzania wykorzystywane do w danej chmurze prowadzenia obliczeniowej rejestrów, ewidencji decyduje wynik oraz innych baz analizy. Skutek danych innych niż prawny systemu wskazane w pkt 5–9, teleinformatycznego jeżeli prowadzone są rozumiany jest one na podstawie zarówno jako skutek przepisów konstytutywny, jak powszechnie i deklaratoryjny."
+    },
+    {
+     "type": "text",
+     "text": "obowiązujących, a w szczególności jeżeli wpisy do tych rejestrów, ewidencji i baz danych mają skutek prawny"
+    },
+    {
+     "type": "text",
+     "text": "12 Systemy O możliwości X X X teleinformatyczne przetwarzania wykorzystywane do w danej chmurze prowadzenia obliczeniowej rejestrów, ewidencji decyduje wynik oraz innych baz analizy. danych innych niż Kategoria obejmuje wskazane w pkt 1–9, systemy jeżeli prowadzone są teleinformatyczne one przez podmioty do prowadzenia na własny użytek rejestrów, ewidencji i mają charakter oraz innych baz wspomagający danych, które nie są prowadzone na podstawie przepisów powszechnie obowiązujących, a organ stworzył je w celu ulepszenia realizacji zadań publicznych, np. spisy, wewnętrzne ewidencje lub bazy danych, na podstawie których na bieżąco realizuje określone w przepisach powszechnie obowiązujących zadania publiczne."
+    },
+    {
+     "type": "text",
+     "text": "13 Systemy Kategoria obejmuje X X X teleinformatyczne samodzielne wykorzystywane do systemy udostępniania teleinformatyczne informacji publicznej niebędące częścią lub udostępniania systemów informacji sektora teleinformatycznych publicznego do należących do ponownego kategorii 6–11. Pod wykorzystania warunkiem (otwarte dane) zakwalifikowania podmiotu odpowiedzialnego za system teleinformatyczny do zakresu podmiotowego uchwały."
+    },
+    {
+     "type": "text",
+     "text": "14 Systemy O możliwości X X X teleinformatyczne, przetwarzania w ramach których w danej chmurze świadczone są usługi obliczeniowej elektroniczne decyduje wynik organów analizy. administracji Kategoria obejmuje publicznej systemy teleinformatyczne: – przeznaczone do udostępniania danych z rejestrów, ewidencji oraz innych baz danych w drodze zapytań jednostkowych, – transakcyjne, wykorzystujące dane pochodzące z rejestrów, ewidencji lub innych baz danych, – pozwalające na wnoszenie do organów administracji publicznej oraz doręczanie przez te organy dokumentów stanowiących elementy postępowań administracyjnych oraz innych, przewidzianych w przepisach powszechnie obowiązujących, czynności realizowanych przez te organy."
+    },
+    {
+     "type": "text",
+     "text": "15 Systemy O możliwości X X X teleinformatyczne przetwarzania służące do w danej chmurze prowadzenia decyduje wynik wewnętrznego analizy. elektronicznego obiegu dokumentacji lub elektronicznego zarządzania dokumentacją"
+    },
+    {
+     "type": "text",
+     "text": "16 Systemy O możliwości X X X teleinformatyczne przetwarzania klasy ERP i CRM itp. w danej chmurze decyduje wynik analizy."
+    },
+    {
+     "type": "text",
+     "text": "17 Pozostałe systemy Kategoria obejmuje X X X teleinformatyczne inne systemy teleinformatyczne świadczące usługi obsługowe na wewnętrzny użytek, zapewniające komunikację, np. systemy ekstranetowe, intranetowe lub poczty elektronicznej."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Nie oznacza, że system teleinformatyczny nie może być przetwarzany w innych zamkniętych środowiskach chmurowych, których działania regulują inne przepisy, pragmatyki lub które utworzone zostały przez uprawnione do tego organy. Dedykowana Infrastruktura Teleinformatyczna to środowisko informatyczne pozostające pod kontrolą jednostki administracji publicznej, realizowane poza Rządową Chmurą Obliczeniową.",
+  "2": "W przypadku gdy przepisy powszechnie obowiązujące posługują się pojęciem rejestru.",
+  "3": "W przypadku gdy przepisy powszechnie obowiązujące posługują się pojęciem ewidencja.",
+  "4": "W przypadku gdy przepisy powszechnie obowiązujące posługują się dla oznaczenia systemu teleinformatycznego innymi pojęciami niż rejestr lub ewidencja.",
+  "5": "Zgodnie z art. 35 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu w związku z wykonywaniem swoich zadań Agencje zapewniają ochronę środków, form i metod realizacji zadań, zgromadzonych informacji oraz własnych obiektów i danych identyfikujących funkcjonariuszy tych Agencji."
+ }
+}

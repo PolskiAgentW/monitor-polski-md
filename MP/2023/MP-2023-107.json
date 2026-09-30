@@ -1,0 +1,288 @@
+{
+ "eli": "MP/2023/107",
+ "title": "Zarządzenie nr 1 Prezesa Rady Ministrów z dnia 20 stycznia 2023 r. zmieniające zarządzenie w sprawie Komitetu Sterującego do spraw Krajowego Programu Ochrony Powietrza",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/107/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 1"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 stycznia 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie Komitetu Sterującego do spraw Krajowego Programu Ochrony Powietrza"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 2 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 123 Prezesa Rady Ministrów z dnia 18 października 2016 r. w sprawie Komitetu Sterującego do spraw Krajowego Programu Ochrony Powietrza (M.P. poz. 994, z 2017 r. poz. 756 oraz z 2018 r. poz. 294) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Do zadań Komitetu należy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) monitorowanie i analizowanie stanu zaawansowania działań na rzecz poprawy jakości powietrza wynikających z Krajowego Programu Ochrony Powietrza oraz jego aktualizacji, zwanego dalej „Programem”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przygotowywanie rekomendacji i opinii związanych z realizacją działań wynikających z Programu dla podmiotów, których aktywność może przyczynić się do optymalizacji realizacji działań w ramach Programu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) wsparcie realizacji działań wynikających z przyjętej uchwałą nr 8 Rady Ministrów z dnia 14 lutego 2017 r. w sprawie przyjęcia Strategii na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.) (M.P. poz. 260) stanowiącej załącznik do uchwały Strategii na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.), określonych w projekcie strategicznym „Czyste powietrze”, przez przedstawianie opinii lub rekomendacji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) opiniowanie przygotowanej przez ministra właściwego do spraw klimatu informacji dla Rady Ministrów o stanie realizacji Programu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. W skład Komitetu wchodzą:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) przewodniczący – minister właściwy do spraw klimatu albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu w urzędzie obsługującym ministra właściwego do spraw klimatu;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) Pełnomocnik Prezesa Rady Ministrów do spraw Programu „Czyste Powietrze” i efektywności energetycznej budynków;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) pozostali członkowie, po jednym przedstawicielu – w randze sekretarza stanu albo podsekretarza stanu – wyznaczonym przez:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) ministra właściwego do spraw administracji publicznej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) ministra właściwego do spraw aktywów państwowych,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "d) ministra właściwego do spraw energii,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "e) ministra właściwego do spraw finansów publicznych,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "f) ministra właściwego do spraw gospodarki,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "g) ministra właściwego do spraw informatyzacji,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "h) ministra właściwego do spraw oświaty i wychowania,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "i) ministra właściwego do spraw rodziny,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "j) ministra właściwego do spraw rolnictwa,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "k) ministra właściwego do spraw rozwoju regionalnego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "l) ministra właściwego do spraw rozwoju wsi,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "m) ministra właściwego do spraw szkolnictwa wyższego i nauki,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "n) ministra właściwego do spraw środowiska,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "o) ministra właściwego do spraw transportu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "p) ministra właściwego do spraw wewnętrznych,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "q) ministra właściwego do spraw zabezpieczenia społecznego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "r) ministra właściwego do spraw zdrowia;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) sekretarz – wyznaczony przez przewodniczącego pracownik urzędu obsługującego ministra właściwego do spraw klimatu.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w ust. 2 wyrazy „pkt 1 i 2” zastępuje się wyrazami „pkt 1–3”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "ust. 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. W przypadku gdy minister wchodzący w skład Komitetu kieruje więcej niż jednym działem administracji rządowej, wyznacza do udziału w pracach Komitetu jednego przedstawiciela.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 5 w ust. 2 w pkt 2 wyrazy „pkt 1 i 2” zastępuje się wyrazami „pkt 1 i 3”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 8 w ust. 1 wyraz „gospodarki” zastępuje się wyrazem „klimatu”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w § 9:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "w ust. 1 wyraz „gospodarki” zastępuje się wyrazem „klimatu”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Posiedzenia Komitetu oraz zespołów roboczych odbywać się będą w urzędzie obsługującym ministra właściwego do spraw klimatu.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w § 11 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Przewodniczący Komitetu przedstawia Radzie Ministrów sprawozdanie z realizacji zadań Komitetu, w terminie do dnia 31 marca każdego roku, za poprzedni rok kalendarzowy.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

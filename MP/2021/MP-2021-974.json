@@ -1,0 +1,509 @@
+{
+ "eli": "MP/2021/974",
+ "title": "Obwieszczenie Ministra Infrastruktury z dnia 29 września 2021 r. w sprawie wysokości stawek opłaty podwyższonej obowiązujących od dnia 1 stycznia 2022 r.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/974/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA INFRASTRUKTURY[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 września 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości stawek opłaty podwyższonej obowiązujących od dnia 1 stycznia 2022 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 293 ust. 2 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2021 r. poz. 624, 784, 1564 i 1641) ogłasza się następujące wysokości stawek opłaty podwyższonej obowiązujące od dnia 1 stycznia 2022 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "górne jednostkowe stawki opłaty podwyższonej za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "1425,07 zł – za 1 kg substancji w przypadku przekroczenia:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_1/lit_a/tir_1",
+       "text": "dopuszczalnej ilości i składu ścieków, z wyjątkiem zawiesiny łatwo opadającej,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_1/lit_a/tir_2",
+       "text": "minimalnej procentowej redukcji stężeń substancji w ściekach,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_1/lit_a/tir_3",
+       "text": "dopuszczalnej masy substancji w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "15,34 zł – za 1 dm³ zawiesiny łatwo opadającej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "15,34 zł – za 1 m³ ścieków w przypadku przekroczenia dopuszczalnej temperatury, odczynu pH, poziomu sztucznych substancji promieniotwórczych lub dopuszczalnego stopnia rozcieńczenia ścieków eliminującego toksyczne oddziaływanie ścieków na ryby;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "jednostkowa stawka opłaty podwyższonej za przekroczenie dopuszczalnej ilości zawiesiny łatwo opadającej za 1 dm³ wynosi 13,99 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "jednostkowa stawka opłaty podwyższonej za przekroczenie dopuszczalnej temperatury wprowadzanych ścieków za 1 m³:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "za ścieki, których temperatura przekracza dopuszczalną wielkość o mniej niż 5°C – wynosi 0,71 zł za każdy stopień przekroczenia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "za ścieki, których temperatura przekracza dopuszczalną wielkość o 5°C i więcej – wynosi 1,45 zł za każdy stopień przekroczenia;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "jednostkowa stawka opłaty podwyższonej za przekroczenie dopuszczalnego odczynu wprowadzanych ścieków za 1 m³:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "za ścieki, których pH jest wyższe od górnej albo niższe od dolnej wartości dopuszczalnej o mniej niż 0,5 pH – wynosi 1,45 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "za ścieki, których pH jest wyższe od górnej albo niższe od dolnej wartości dopuszczalnej o 0,5 pH do 1,5 pH – wynosi 3,62 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_4/lit_c",
+     "text": "za ścieki, których pH jest wyższe od górnej albo niższe od dolnej wartości dopuszczalnej o więcej niż 1,5 pH do 2,5 pH – wynosi 7,22 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_4/lit_d",
+     "text": "za ścieki, których pH jest wyższe od górnej albo niższe od dolnej wartości dopuszczalnej o więcej niż 2,5 pH – wynosi 13,99 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "jednostkowa stawka opłaty podwyższonej za przekroczenie dopuszczalnego stopnia rozcieńczenia ścieków, eliminującego toksyczne oddziaływanie ścieków na ryby, za 1 m³ wynosi 13,99 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "jednostkowa stawka opłaty podwyższonej za przekroczenie dopuszczalnego poziomu sztucznych substancji promieniotwórczych w ściekach za 1 m³ wynosi 13,99 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "jednostkowe stawki opłaty podwyższonej za 1 kg substancji, w tym substancji wyrażonych jako wskaźniki, za przekroczenie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_7/lit_a",
+     "text": "dopuszczalnej ilości i składu ścieków, z wyjątkiem zawiesiny łatwo opadającej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_7/lit_b",
+     "text": "minimalnej procentowej redukcji stężeń substancji w ściekach,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_7/lit_c",
+     "text": "dopuszczalnej masy substancji w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– są określone w załączniku do obwieszczenia."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Infrastruktury: A. Adamczyk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Infrastruktury z dnia 29 września 2021 r. (poz. 974)",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI OPŁATY PODWYŻSZONEJ ZA JEDEN KILOGRAM SUBSTANCJI, W TYM SUBSTANCJI WYRAŻONYCH JAKO WSKAŹNIK"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Nazwy substancji, w tym substancji wyrażonych jako wskaźniki Stawka"
+    },
+    {
+     "type": "text",
+     "text": "1 Dwuchloro-dwufenylo-trójchloroetan (DDT) 1376,78 zł"
+    },
+    {
+     "type": "text",
+     "text": "2 Wielopierścieniowe chlorowane dwufenyle (PCB) 1376,78 zł"
+    },
+    {
+     "type": "text",
+     "text": "3 Wielopierścieniowe chlorowane trójfenyle (PCT) 1376,78 zł"
+    },
+    {
+     "type": "text",
+     "text": "4 Heksachlorocykloheksan (HCH) 1376,78 zł"
+    },
+    {
+     "type": "text",
+     "text": "5 Aldryna (C₁₂H₈Cl₆) 1376,78 zł"
+    },
+    {
+     "type": "text",
+     "text": "6 Dieldryna (C₁₂H₈Cl₆O) 1376,78 zł"
+    },
+    {
+     "type": "text",
+     "text": "7 Endryna (C₁₂H₈Cl₆O) 1376,78 zł"
+    },
+    {
+     "type": "text",
+     "text": "8 Izodryna (C₁₂H₈Cl₆) 1376,78 zł"
+    },
+    {
+     "type": "text",
+     "text": "9 Tetrachlorometan (czterochlorek węgla) (CCl₄) 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "10 Pentachlorofenol (PCP) [2,3,4,5,6-pięciochloro-1-hydroksybenzen] i jego sole 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "11 Heksachlorobenzen (HCB) 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "12 Heksachlorobutadien (HCBD) 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "13 Trichlorometan (chloroform) (CHCl₃) 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "14 1,2-dichloroetan (EDC) 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "15 Trichloroetylen (TRI) 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "16 Tetrachloroetylen (nadchloroetylen) (PER) 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "17 Trichlorobenzen (TCB) jako suma trzech izomerów (1,2,3-TCB + 1,2,4-TCB + 1,2,5-TCB) 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "18 Kadm 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "19 Rtęć 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "20 Insektycydy z grupy węglowodorów chlorowanych 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "21 Insektycydy fosforoorganiczne i karbaminianowe 1262,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "22 Absorbowalne związki chloroorganiczne – AOX 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "23 Antymon 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "24 Arsen 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "25 Chlor wolny 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "26 Chlor całkowity 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "27 Cyjanki wolne 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "28 Chrom +6 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "29 Lotne związki chloroorganiczne – VOX (chlorowane węglowodory lotne) 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "30 Lotne węglowodory aromatyczne – BTX (benzen, toluen, ksylen) 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "31 Miedź 946,49 zł 32 Nikiel 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "33 Ołów 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "34 Siarczki 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "35 Srebro 946,49 zł"
+    },
+    {
+     "type": "text",
+     "text": "36 Aldehyd mrówkowy 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "37 Chrom ogólny 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "38 Bar 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "39 Beryl 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "40 Bor 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "41 Cyjanki związane 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "42 Cynk 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "43 Cyna 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "44 Kobalt 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "45 Molibden 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "46 Selen 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "47 Tal 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "48 Tytan 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "49 Wanad 757,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "50 Akrylonitryl 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "51 Fenole lotne (index fenolowy) 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "52 Kaprolaktam 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "53 Surfaktanty anionowe (substancje powierzchniowo czynne anionowe) 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "54 Surfaktanty niejonowe (substancje powierzchniowo czynne niejonowe) 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "55 Suma surfaktantów anionowych i niejonowych 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "56 Substancje ekstrahujące się eterem naftowym 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "57 Węglowodory ropopochodne (substancje ropopochodne) 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "58 Rodanki 504,96 zł"
+    },
+    {
+     "type": "text",
+     "text": "59 Fluorki 288,58 zł"
+    },
+    {
+     "type": "text",
+     "text": "60 Azot ogólny 28,85 zł"
+    },
+    {
+     "type": "text",
+     "text": "61 Azot amonowy 28,85 zł"
+    },
+    {
+     "type": "text",
+     "text": "62 Azot azotanowy 28,85 zł"
+    },
+    {
+     "type": "text",
+     "text": "63 Azot azotynowy 28,85 zł"
+    },
+    {
+     "type": "text",
+     "text": "64 Fosfor ogólny 28,85 zł"
+    },
+    {
+     "type": "text",
+     "text": "65 Pięciodobowe biochemiczne zapotrzebowanie tlenu (BZT₅) 28,85 zł"
+    },
+    {
+     "type": "text",
+     "text": "66 Glin 17,34 zł"
+    },
+    {
+     "type": "text",
+     "text": "67 Chemiczne zapotrzebowanie tlenu metodą dwuchromianową (ChZT Cr ) 17,34 zł 68 Ogólny węgiel organiczny (OWO) 17,34 zł"
+    },
+    {
+     "type": "text",
+     "text": "69 Potas 17,34 zł"
+    },
+    {
+     "type": "text",
+     "text": "70 Siarczyny 17,34 zł"
+    },
+    {
+     "type": "text",
+     "text": "71 Sód 17,34 zł"
+    },
+    {
+     "type": "text",
+     "text": "72 Żelazo ogólne 17,34 zł"
+    },
+    {
+     "type": "text",
+     "text": "73 Zawiesina ogólna 5,35 zł"
+    },
+    {
+     "type": "text",
+     "text": "74 Chlorki 5,35 zł"
+    },
+    {
+     "type": "text",
+     "text": "75 Siarczany 5,35 zł"
+    },
+    {
+     "type": "text",
+     "text": "76 Suma chlorków i siarczanów (Cl+SO₄) 5,35 zł"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Infrastruktury kieruje działem administracji rządowej – gospodarka wodna, na podstawie § 1 ust. 2 pkt 6 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury (Dz. U. z 2021 r. poz. 937)."
+ }
+}

@@ -1,0 +1,489 @@
+{
+ "eli": "MP/2014/959",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 6 października 2014 r. w sprawie wytycznych dla obwodowych i terytorialnych komisji wyborczych dotyczących sprawdzenia zgodności arytmetycznej danych w sporządzanych w systemie informatycznym protokołach głosowania w wyborach do organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/959/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 października 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wytycznych dla obwodowych i terytorialnych komisji wyborczych dotyczących sprawdzenia zgodności arytmetycznej danych w sporządzanych w systemie informatycznym protokołach głosowania w wyborach do organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 161 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) w związku z art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, z późn. zm.[^2]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wytyczne dla obwodowych i terytorialnych komisji wyborczych dotyczące sprawdzenia zgodności arytmetycznej danych w sporządzanych w systemie informatycznym protokołach głosowania w wyborach do organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r., stanowiące załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 6 października 2014 r. (poz. 959)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYTYCZNE DLA OBWODOWYCH I TERYTORIALNYCH KOMISJI WYBORCZYCH DOTYCZĄCE SPRAWDZENIA ZGODNOŚCI ARYTMETYCZNEJ DANYCH W SPORZĄDZANYCH W SYSTEMIE INFORMATYCZNYM PROTOKOŁACH GŁOSOWANIA W WYBORACH DO ORGANÓW JEDNOSTEK SAMORZĄDU TERYTORIALNEGO, ZARZĄDZONYCH NA DZIEŃ 16 LISTOPADA 2014 R."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Warunki poprawności arytmetycznej danych liczbowych w protokołach głosowania w obwodach podlegające sprawdzeniu w systemie informatycznym"
+    },
+    {
+     "type": "text",
+     "text": "Obwodowe komisje wyborcze mające obsługę informatyczną w swojej siedzibie sporządzają protokoły głosowania w systemie informatycznym „Platforma wyborcza”, o ile nie zachodzą przeszkody w wykorzystaniu tego systemu."
+    },
+    {
+     "type": "text",
+     "text": "System informatyczny może sygnalizować błędy i ostrzeżenia o nieprawidłowym sporządzeniu protokołu, o czym mowa w wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w wyborach organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r., stanowiących załącznik do uchwały Państwowej Komisji Wyborczej z dnia 29 września 2014 r. (M.P. poz. 934)."
+    },
+    {
+     "type": "text",
+     "text": "Warunki arytmetyczne dotyczące danych w protokołach głosowania w obwodach podzielono na dwa rodzaje:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "warunki konieczne, które muszą być spełnione bezwzględnie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "warunki dodatkowe, które powinny być spełnione, ale w szczególnych okolicznościach mogą być niezachowane.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ponadto w „Platformie wyborczej” zdefiniowano warunki, które służą sprawdzeniu zgodności niektórych danych liczbowych z protokołów głosowania w wyborach do poszczególnych rad i w wyborach wójta w danym obwodzie."
+      },
+      {
+       "type": "text",
+       "text": "A. Wybory do rad i wybory wójtów"
+      },
+      {
+       "type": "text",
+       "text": "Warunki ogólne"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Warunki konieczne",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymienione niżej warunki muszą być bezwzględnie spełnione, albowiem naruszenie któregokolwiek powoduje nieprawidłowe ustalenie wyników głosowania w obwodzie lub wadliwe sporządzenie protokołu głosowania:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "liczba osób, którym wydano karty do głosowania, nie może być większa od liczby uprawnionych do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "liczba wyborców głosujących przez pełnomocnika nie może być większa od liczby kart do głosowania wydanych wyborcom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "w obwodzie odrębnym liczba wyborców głosujących przez pełnomocnika musi wynosić 0;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "w przypadku obwodu wyznaczonego dla głosowania korespondencyjnego suma liczby kart do głosowania wydanych wyborcom i liczby wysłanych pakietów wyborczych nie może być większa od liczby wyborców uprawnionych do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "suma liczby kopert zwrotnych bez oświadczenia i liczby kopert z niepodpisanym oświadczeniem nie może być większa od liczby otrzymanych kopert zwrotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "suma liczby kopert zwrotnych bez koperty na kartę do głosowania oraz liczby kopert zwrotnych z niezaklejoną kopertą na kartę do głosowania nie może być większa od liczby otrzymanych kopert zwrotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "w przypadku obwodowych komisji wyborczych niewyznaczonych dla głosowania korespondencyjnego, liczby w punktach protokołu głosowania: 6, od 7 do 7e oraz 8a muszą wynosić 0;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "liczba kart do głosowania danego rodzaju wyjętych z urny musi być równa sumie liczby odpowiednich kart nieważnych i liczby odpowiednich kart ważnych wyjętych z urny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "liczba kart ważnych danego rodzaju musi być równa sumie liczby głosów nieważnych i liczby głosów ważnych (w wyborach wójta głosów ważnych oddanych na wszystkich kandydatów lub za i przeciw kandydatowi);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "w wyborach wójta liczba głosów nieważnych ogółem musi być równa lub większa od sumy liczb głosów nieważnych z poszczególnych przyczyn;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "w wyborach do rady gminy i w wyborach wójta liczba uprawnionych do głosowania musi być równa sumie liczby obywateli polskich (z części A spisu wyborców) i liczby obywateli Unii Europejskiej niebędących obywatelami Polski (z części B spisu wyborców);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "liczba uprawnionych do głosowania w wyborach do rady gminy, a na terenie m.st. Warszawy również w wyborach do rady dzielnicy (poza obwodami odrębnymi) musi być równa liczbie uprawnionych do głosowania odpowiednio w wyborach wójta i Prezydenta m.st. Warszawy.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jedynie w obwodach odrębnych na terenie m.st. Warszawy liczba uprawnionych do głosowania w wyborach do rady dzielnicy może być mniejsza lub równa liczbie uprawnionych do głosowania w wyborach do Rady m.st. Warszawy i Prezydenta m.st. Warszawy;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_1/pkt_13",
+       "text": "w obwodzie głosowania, w skład którego wchodzi więcej niż jeden okręg wyborczy dla wyboru rady gminy, liczba uprawnionych do głosowania w wyborach wójta (zarówno ogółem, jak obywateli polskich i pozostałych obywateli Unii Europejskiej) musi się równać sumie odpowiednich liczb uprawnionych do głosowania w wyborach do rady gminy w okręgach wchodzących w skład obwodu głosowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jedynie gdy w jednym lub więcej z tych okręgów wyborczych dla wyboru rady gminy wyborów lub głosowania nie przeprowadza się liczby uprawnionych do głosowania w protokole głosowania w wyborach wójta muszą być większe od sumy odpowiednich liczb uprawnionych do głosowania w wyborach do rady gminy w okręgach wchodzących w skład obwodu głosowania;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_1/pkt_14",
+       "text": "liczba osób uprawnionych do głosowania w wyborach do rady powiatu i do sejmiku województwa (poza obwodami odrębnymi) musi być równa liczbie obywateli polskich uprawnionych do głosowania w wyborach do rady gminy i w wyborach wójta (z części A spisu wyborców).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jedynie w obwodzie głosowania, w skład którego wchodzi więcej niż jeden okręg wyborczy dla wyboru rady gminy, gdy w jednym lub więcej z tych okręgów wyborczych dla wyboru rady gminy wyborów lub głosowania nie przeprowadza się suma liczb uprawnionych do głosowania obywateli polskich w wyborach do rady gminy musi być mniejsza od liczby uprawnionych do głosowania w wyborach do rady powiatu i w wyborach do sejmiku województwa."
+        },
+        {
+         "type": "text",
+         "text": "Ponadto w obwodach odrębnych liczba uprawnionych do głosowania obywateli polskich w wyborach do rady gminy i wójta może być mniejsza lub równa liczbie uprawnionych do głosowania w wyborach do rady powiatu, a liczba uprawnionych do głosowania w wyborach do rady powiatu mniejsza lub równa liczbie uprawnionych do głosowania w wyborach do sejmiku województwa."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Warunki dodatkowe",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymienione niżej warunki powinny być także spełnione, jednakże w wyjątkowych okolicznościach mogą być niedotrzymane. W takiej sytuacji do protokołu musi być dołączony wydrukowany raport ostrzeżeń podpisany przez wszystkie osoby wchodzące w skład obwodowej komisji wyborczej, uczestniczące w ustalaniu wyników głosowania:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "liczba kart danego rodzaju otrzymanych przez komisję nie powinna być większa od sumy liczby kart niewykorzystanych oraz liczby kart wydanych wyborcom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "liczba wyborców głosujących przez pełnomocnika w wyborach do rady powiatu powinna być równa liczbie wyborców głosujących przez pełnomocnika w wyborach do sejmiku województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "liczba wyborców głosujących przez pełnomocnika w wyborach do rady gminy (a w m.st. Warszawie również w wyborach do rady dzielnicy) powinna być równa liczbie wyborców głosujących przez pełnomocnika w wyborach wójta; w przypadku nieprzeprowadzenia głosowania w jednym lub więcej okręgów wyborczych liczba ta nie powinna być większa od liczby wyborców głosujących przez pełnomocnika w wyborach wójta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "liczba kart danego rodzaju wyjętych z urny pomniejszona o liczbę odpowiednich kart wyjętych z kopert na karty do głosowania nie powinna być mniejsza od liczby wyborców, którym wydano takie karty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "liczba kart ważnych danego rodzaju wyjętych z urny pomniejszona o liczbę odpowiednich kart wyjętych z kopert na karty do głosowania nie powinna być większa od liczby wyborców, którym wydano karty do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "liczba uprawnionych do głosowania nie powinna być mniejsza niż liczba kart ważnych danego rodzaju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "liczba głosów nieważnych ogółem nie powinna być większa od sumy liczb głosów nieważnych z poszczególnych przyczyn (w wyborach wójta).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Rozbieżność może występować wyłącznie w sytuacji, gdy komisja obwodowa stwierdziła, nieważność głosów z powodu naniesienia przez wyborcę znaków graficznych w obrębie kratki, w tym w szczególności zamazania kratki, przekreślenia znaku w kratce."
+        },
+        {
+         "type": "text",
+         "text": "B. Wybory do rad gmin niebędących miastami na prawach powiatu"
+        },
+        {
+         "type": "text",
+         "text": "Warunki konieczne"
+        },
+        {
+         "type": "text",
+         "text": "Wymienione niżej warunki muszą być bezwzględnie spełnione, albowiem naruszenie któregokolwiek powoduje nieprawidłowe ustalenie wyników głosowania w obwodzie lub wadliwe sporządzenie protokołu głosowania:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "suma głosów oddanych na wszystkie listy kandydatów (kandydatów) musi być równa liczbie głosów ważnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "liczba głosów oddanych na listę kandydatów (kandydata) nie może być większa od liczby głosów ważnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "C. Wybory do rad miast na prawach powiatu, rad dzielnic,"
+        },
+        {
+         "type": "text",
+         "text": "rad powiatów i sejmików województw"
+        },
+        {
+         "type": "text",
+         "text": "Warunki konieczne"
+        },
+        {
+         "type": "text",
+         "text": "Wymienione niżej warunki muszą być bezwzględnie spełnione, albowiem naruszenie któregokolwiek powoduje nieprawidłowe ustalenie wyników głosowania w obwodzie lub wadliwe sporządzenie protokołu głosowania:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "suma głosów oddanych na wszystkich kandydatów z listy musi być równa liczbie głosów oddanych na listę.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jedynie gdy na liście znajduje się nazwisko skreślonego kandydata, suma głosów oddanych na wszystkich kandydatów z listy może być mniejsza od liczby głosów oddanych na listę;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "suma głosów oddanych na wszystkie listy musi być równa liczbie głosów ważnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "D. Wybory wójtów"
+        },
+        {
+         "type": "text",
+         "text": "Warunki konieczne"
+        },
+        {
+         "type": "text",
+         "text": "Wymienione niżej warunki muszą być bezwzględnie spełnione, albowiem naruszenie któregokolwiek powoduje nieprawidłowe ustalenie wyników głosowania w obwodzie lub wadliwe sporządzenie protokołu głosowania:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "liczba głosów nieważnych z powodu, o którym mowa w pkt 11c protokołu głosowania w obwodzie musi być równa 0 przy braku kandydatów skreślonych po wydruku kart.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Warunek ten nie dotyczy wyborów, w których głosuje się na jednego kandydata;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "suma głosów nieważnych i głosów ważnych oddanych na wszystkich kandydatów musi być równa liczbie kart ważnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Po wprowadzeniu danych z protokołów głosowania w obwodach do „Platformy wyborczej” sprawdza ona wszystkie warunki arytmetyczne. W przypadku stwierdzenia błędów „Platforma wyborcza” informuje o tym operatora, wymieniając konkretne przekroczone warunki, oraz generuje raport błędów, który jest drukowany. Raport zawiera dokładne informacje identyfikujące protokół oraz szczegółowy opis warunków, które nie zostały dotrzymane."
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli wystąpiło chociaż jedno naruszenie warunku koniecznego, dane nie zostają zapisane w systemie."
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli zostały przekroczone jedynie warunki dodatkowe, to dane z protokołu zostają zapisane warunkowo – oznaczone jako przekraczające warunki arytmetyczne; terytorialna komisja wyborcza może podjąć decyzję o konieczności ponownego ustalenia wyników głosowania przez komisję obwodową i o usunięciu danych z systemu."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Czynności obwodowych i terytorialnych komisji wyborczych w przypadku gdy system informatyczny uniemożliwi wydrukowanie protokołu głosowania w obwodzie z powodu wystąpienia ostrzeżenia"
+    },
+    {
+     "type": "text",
+     "text": "Jeżeli zaszedł jeden z wymienionych niżej warunków (co jest dopuszczalne w szczególnych okolicznościach), system informatyczny uniemożliwi wydrukowanie protokołu głosowania w obwodzie, zaś obwodowa komisja wyborcza o niespełnieniu określonego warunku musi powiadomić właściwą terytorialną komisję wyborczą. Dotyczy to następujących warunków:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "w obwodzie stałym liczba wyborców jest większa od 110% lub mniejsza od 90% szacowanej liczby wyborców (liczby wyborców ustalonych w meldunku wyborczym);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "liczba wyborców w części B spisu wyborców jest większa od liczby wyborców w części B spisu wyborców podanej w meldunku wyborczym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "w obwodzie stałym liczba otrzymanych kart do głosowania danego rodzaju jest większa od 110% lub mniejsza od 80% ustalonego dla obwodu nakładu kart do głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "liczba kopert na karty do głosowania wrzuconych do urny jest większa niż liczba otrzymanych kopert zwrotnych pomniejszona o liczbę kopert zwrotnych niespełniających warunków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "liczba kart do głosowania danego rodzaju wyjętych z kopert na karty do głosowania jest większa od liczby kopert na karty do głosowania wrzuconych do urny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "liczba kart do głosowania danego rodzaju wyjętych z urny pomniejszona o liczbę odpowiednich kart do głosowania wyjętych z kopert na karty do głosowania jest większa od liczby wyborców, którym wydano karty do głosowania tego rodzaju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "liczba kart nieważnych jest większa od zera, a liczba głosów nieważnych równa jest zeru;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "suma liczby wydanych przez komisję kart do głosowania danego rodzaju i liczby odpowiednich kart niewykorzystanych jest większa od liczby tych kart do głosowania otrzymanych przez komisję;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "liczba osób głosujących przez pełnomocnika w wyborach danego organu jest równa liczbie wydanych kart do głosowania odpowiedniego rodzaju.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Jeżeli terytorialna komisja wyborcza uzna, że ostrzeżenie jest niezasadne, występuje do komisarza wyborczego o akceptację pozostawienia danych bez zmian i przekazanie przez niego kodu odblokowującego możliwość wydrukowania protokołu. Wygenerowany przez komisarza wyborczego kod odblokowujący będzie dostępny w „Platformie wyborczej”. Jeżeli dana obwodowa komisja wyborcza nie posiada łączności internetowej, terytorialna komisja wyborcza telefonicznie przekazuje tej komisji kod odblokowujący."
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli terytorialna komisja wyborcza lub komisarz wyborczy uznają, że ostrzeżenie jest zasadne, terytorialna komisja wyborcza nakazuje obwodowej komisji wyborczej ponowne przeanalizowanie treści ostrzeżeń i dokonanie korekty danych liczbowych."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1087, z 2006 r. Nr 249, poz. 1826 i 1828, z 2009 r. Nr 95, poz. 787 oraz z 2011 r. Nr 21, poz. 113."
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "eli": "MP/2018/284",
+ "title": "Obwieszczenie Ministra Energii z dnia 13 marca 2018 r. w sprawie wielkości średniego dziennego przywozu netto ekwiwalentu ropy naftowej, średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej, średniej dziennej produkcji netto gazu płynnego (LPG), średniego dziennego przywozu gazu płynnego (LPG) w 2017 r. oraz wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w 2018 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/284/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ENERGII[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 marca 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wielkości średniego dziennego przywozu netto ekwiwalentu ropy naftowej, średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej, średniej dziennej produkcji netto gazu płynnego (LPG), średniego dziennego przywozu gazu płynnego (LPG) w 2017 r. oraz wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2017 r. poz. 1210 i 1387) ogłasza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wielkości średniego dziennego przywozu netto ekwiwalentu ropy naftowej, średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej, średniej dziennej produkcji netto gazu płynnego (LPG), średniego dziennego przywozu gazu płynnego (LPG) w 2017 r. wyniosły odpowiednio:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "średni dzienny przywóz netto ekwiwalentu ropy naftowej – 75,62 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "średnie dzienne zużycie krajowe brutto ekwiwalentu ropy naftowej – 72,81 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "średnia dzienna produkcja netto gazu płynnego (LPG) – 1,12 tys. ton;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "średni dzienny przywóz gazu płynnego (LPG) – 5,59 tys. ton.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w 2018 r., wynoszą dla:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "gazu płynnego LPG – 0,541 tony/m³;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "benzyn silnikowych – 0,741 tony/m³;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "benzyn lotniczych – 0,722 tony/m³;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "paliwa typu benzynowego do silników odrzutowych – 0,780 tony/m³;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "paliwa typu nafty do silników odrzutowych – 0,794 tony/m³;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "innych naft – 0,780 tony/m³;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "olejów napędowych – 0,832 tony/m³;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "lekkich olejów opałowych i pozostałych olejów napędowych – 0,837 tony/m³;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "ciężkich olejów opałowych – 0,940 tony/m³.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Energii: K. Tchórzewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314)."
+ }
+}

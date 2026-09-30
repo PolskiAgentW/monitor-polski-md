@@ -1,0 +1,85 @@
+{
+ "eli": "MP/2014/184",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 17 lutego 2014 r. zmieniająca uchwałę w sprawie należności pieniężnych przysługujących członkom komisji wyborczych i osobom powołanym w skład inspekcji w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej i Parlamentu Europejskiego oraz sposobu dokumentowania dni zwolnienia od pracy",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/184/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 lutego 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie należności pieniężnych przysługujących członkom komisji wyborczych i osobom powołanym w skład inspekcji w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej i Parlamentu Europejskiego oraz sposobu dokumentowania dni zwolnienia od pracy"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 154 § 7 i art. 155 § 4 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 14 marca 2011 r. w sprawie należności pieniężnych przysługujących członkom komisji wyborczych i osobom powołanym w skład inspekcji w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej i Parlamentu Europejskiego oraz sposobu dokumentowania dni zwolnienia od pracy (M.P. Nr 23, poz. 252) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 3 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Członkom komisji, w związku z udziałem w pracach komisji w kraju, przysługują diety oraz zwrot kosztów podróży i noclegów, na zasadach określonych w rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 29 stycznia 2013 r. w sprawie należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej (Dz. U. poz. 167), w przepisach dotyczących podróży krajowej, z uwzględnieniem zmian wynikających z uchwały.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 5 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Członkom obwodowych komisji wyborczych w obwodach głosowania utworzonych za granicą przysługują diety oraz zwrot kosztów podróży i noclegów na zasadach określonych w rozporządzeniu, o którym mowa w § 3 ust. 1, w przepisach dotyczących podróży zagranicznej, z uwzględnieniem zmian wynikających z uchwały.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 8 uchyla się ust. 2 i 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179 i 180."
+ }
+}

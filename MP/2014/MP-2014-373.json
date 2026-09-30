@@ -1,0 +1,91 @@
+{
+ "eli": "MP/2014/373",
+ "title": "Zarządzenie Nr 30 Prezesa Rady Ministrów z dnia 20 maja 2014 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Spraw Wewnętrznych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/373/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 30"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 maja 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Spraw Wewnętrznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 93 Prezesa Rady Ministrów z dnia 1 grudnia 2011 r. w sprawie nadania statutu Ministerstwu Spraw Wewnętrznych (M.P. Nr 106, poz. 1071, z późn. zm.[^1]) w załączniku w § 2 wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "po pkt 3a dodaje się pkt 3b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3b) Departament Komunikacji Społecznej;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "uchyla się pkt 5a;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "po pkt 7 dodaje się pkt 7a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„7a) Departament Porządku Publicznego;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "uchyla się pkt 9a i 14a.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionego zarządzenia zostały ogłoszone w M.P. z 2012 r. poz. 146, 648 i 1013 oraz z 2013 r. poz. 562."
+ }
+}

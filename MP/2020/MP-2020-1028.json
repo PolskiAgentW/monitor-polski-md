@@ -1,0 +1,227 @@
+{
+ "eli": "MP/2020/1028",
+ "title": "Ogłoszenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia 28 października 2020 r. o możliwości uzyskania koncesji na rozpowszechnianie programu telewizyjnego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1028/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OGŁOSZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PRZEWODNICZĄCEGO KRAJOWEJ RADY RADIOFONII I TELEWIZJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 października 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "o możliwości uzyskania koncesji na rozpowszechnianie programu telewizyjnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 34 ust. 1 oraz ust. 1a ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805) ogłaszam informację o możliwości uzyskania koncesji na rozpowszechnianie w sposób cyfrowy rozsiewczy naziemny w multipleksie pierwszym programu telewizyjnego."
+  },
+  {
+   "type": "text",
+   "text": "I. Ogłoszenie stanowi podstawę do składania wniosków o udzielenie jednej koncesji, na okres 10 lat, na rozpowszechnianie w sposób cyfrowy rozsiewczy naziemny w multipleksie pierwszym programu telewizyjnego o charakterze uniwersalnym bądź wyspecjalizowanym."
+  },
+  {
+   "type": "text",
+   "text": "Program będzie rozpowszechniany codziennie przez 24 godziny na dobę i będzie oznaczony nazwą określoną w koncesji."
+  },
+  {
+   "type": "text",
+   "text": "Program będzie rozpowszechniany w sposób cyfrowy rozsiewczy naziemny w multipleksie pierwszym na obszarze całego kraju, z zachowaniem poniższych warunków:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "częstotliwości wykorzystywane na zasadzie współużytkowania – kanały TV o szerokości 8 MHz, których obszary określi Prezes UKE w rezerwacji częstotliwości, mogą zostać zmienione zgodnie z przepisami prawa, w szczególności na podstawie art. 123 ust. 1 ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2019 r. poz. 2460 oraz z 2020 r. poz. 374, 695 i 875), uwzględniając konieczność dokonania niezbędnych uzgodnień międzynarodowych,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "stacje nadawcze będą zlokalizowane na poszczególnych obszarach wykorzystania częstotliwości, które określi Prezes UKE w rezerwacji częstotliwości, lub poza tymi obszarami, w odległości nie większej jednak niż 50 (pięćdziesiąt) km od granicy ww. obszarów,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "wartości parametrów technicznych stacji nadawczych, w tym mocy promieniowanej, będą zawierały się w takich granicach, aby dopuszczalny sumaryczny poziom natężenia pola sygnałów zakłócających, wyznaczony zgodnie z obowiązującymi zaleceniami Sektora Radiokomunikacji Międzynarodowego Związku Telekomunikacyjnego – ITU-R i Porozumienia Genewa 2006 (Porozumienie Regionalne w sprawie planowania naziemnej radiodyfuzji cyfrowej w Regionie 1 (w częściach Regionu 1 położonych na zachód od południka 170°E i na północ od równoleżnika 40°S, z wyłączeniem terytorium Mongolii) oraz Islamskiej Republice Iranu, w pasmach częstotliwości 174–230 MHz oraz 470–862 MHz (Genewa, 2006 r.)), tzn. obliczony metodą ITU-R P.1546 dla 1% czasu, 50% miejsc, na wysokości 10 m n.p.t, nie przekraczał na granicy wspólnokanałowych obszarów wykorzystania częstotliwości wartości, które określi Prezes UKE w rezerwacji częstotliwości,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "system emisji:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "lit_d/tir_1",
+     "text": "standard DVB-T zgodnie z normą PN-ETSI EN 300 744 (Telewizja cyfrowa (DVB) – Struktura ramkowania, kodowanie kanałowe i modulacja dla naziemnej telewizji cyfrowej),",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "lit_d/tir_2",
+     "text": "standard DVB-T2 zgodnie z normą PN-ETSI EN 302 755 (Telewizja cyfrowa (DVB) – Struktura ramkowania, kodowanie kanałowe i modulacja dla systemu drugiej generacji naziemnej telewizji cyfrowej (DVB-T2),",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "stosowany zgodnie z harmonogramem określonym przez Prezesa UKE w rezerwacji częstotliwości,"
+    }
+   ]
+  },
+  {
+   "type": "lit",
+   "num": "e",
+   "path": "lit_e",
+   "text": "standard kodowania sygnału wizji:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "lit_e/tir_1",
+     "text": "dla DVB-T: H.264/AVC (zgodnie z zaleceniem Sektora Telekomunikacji Międzynarodowego Związku Telekomunikacyjnego ITU-T H.264 Zaawansowane kodowanie wizji dla źródłowych usług audiowizualnych) zdolny do kodowania strumienia MP@L3 dla telewizji o standardowej rozdzielczości (SDTV) i HP@L4 dla telewizji o wysokiej rozdzielczości (HDTV),",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "lit_e/tir_2",
+     "text": "dla DVB-T2: H.265/HEVC (zgodnie z zaleceniem Sektora Telekomunikacji Międzynarodowego Związku Telekomunikacyjnego ITU-T H.265 Wysokowydajne kodowanie wizji) zdolny do kodowania obrazów o rozdzielczości 1920 x 1080 p50 i 1280 x 720 p50 dla telewizji o wysokiej rozdzielczości (HDTV),",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "stosowany zgodnie z harmonogramem, który określi Prezes UKE w rezerwacji częstotliwości,"
+    }
+   ]
+  },
+  {
+   "type": "lit",
+   "num": "f",
+   "path": "lit_f",
+   "text": "standard kodowania sygnału fonii podstawowej: MPEG-2 Audio Warstwa II (zgodnie z normą ISO/IEC 13818-3 – Technika informatyczna – Ogólne zasady kodowania obrazów ruchomych i towarzyszącej im informacji dźwiękowej; Część 3: Dźwięk),",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "g",
+   "path": "lit_g",
+   "text": "standard kodowania sygnału fonii przestrzennej: E-AC-3 (Dolby Digital +) zgodnie z normą ETSI TS 102 366 (Standard cyfrowej kompresji fonii (AC-3, Enhanced AC-3)),",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "h",
+   "path": "lit_h",
+   "text": "średnia przepływność strumienia danych przypadającego na jeden program telewizyjny – 1/8 przepływności całkowitego strumienia danych multipleksu,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "i",
+   "path": "lit_i",
+   "text": "sygnał multipleksu pierwszego tworzyć będzie nie więcej niż 8 programów telewizyjnych,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "j",
+   "path": "lit_j",
+   "text": "program nie będzie kodowany i będzie udostępniany odbiorcom bezpłatnie,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "k",
+   "path": "lit_k",
+   "text": "multipleks pierwszy, poza programem, którego nadawca, w wyniku rozstrzygnięcia niniejszego postępowania, uzyska prawo do umieszczenia go w multipleksie pierwszym, będą tworzyć następujące programy: ESKA TV, TTV, POLO TV, TRWAM, STOPKLATKA, Fokus TV, TVP ABC,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "l",
+   "path": "lit_l",
+   "text": "uporządkowanie audiowizualnych składników multipleksu pierwszego będzie następujące:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "lit_l/tir_1",
+     "text": "ESKA TV, TTV, POLO TV,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "lit_l/tir_2",
+     "text": "program, który uzyska koncesję w niniejszym postępowaniu,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "lit_l/tir_3",
+     "text": "TRWAM, STOPKLATKA, Fokus TV, TVP ABC.",
+     "children": [
+      {
+       "type": "text",
+       "text": "II. 1. Elementem decyzji koncesyjnej w zakresie określania warunków programowych będzie odesłanie do zadeklarowanych przez wnioskodawcę we wniosku o udzielenie koncesji informacji programowych i związanych z tym załączników, do których przestrzegania po uzyskaniu decyzji w sprawie udzielenia koncesji wnioskodawca się zobowiąże. Rażące odstąpienie od zadeklarowanych warunków programowych po udzieleniu koncesji będzie stanowić przesłankę cofnięcia koncesji w trybie art. 38 ust. 1 pkt 2 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Elementem decyzji koncesyjnej w zakresie określenia warunków technicznych będzie ustalenie parametrów sygnalizacyjnych – identyfikatorów ID.",
+   "children": [
+    {
+     "type": "text",
+     "text": "III. W postępowaniu stosuje się formularze wniosków, które można uzyskać w siedzibie Krajowej Rady Radiofonii i Telewizji w Warszawie przy Skwerze kard. Stefana Wyszyńskiego 9 w dni robocze w godzinach 10⁰⁰–15⁰⁰. Formularze dostępne są także na stronie internetowej www.krrit.gov.pl."
+    },
+    {
+     "type": "text",
+     "text": "Wnioski można nadsyłać pocztą lub składać w kancelarii Krajowej Rady Radiofonii i Telewizji – pokój A1. Kancelaria przyjmuje wnioski w dni robocze w godz. 10⁰⁰–15⁰⁰. Wnioski należy składać w jednym egzemplarzu."
+    },
+    {
+     "type": "text",
+     "text": "Informacje dotyczące postępowania można uzyskać pod numerem telefonu 22-597-30-89, a w sprawie parametrów technicznych stacji pod numerem telefonu 22-597-31-74."
+    },
+    {
+     "type": "text",
+     "text": "IV. Wnioski mogą być składane w ciągu 45 dni od dnia opublikowania ogłoszenia."
+    },
+    {
+     "type": "text",
+     "text": "V. Wnioski niezgodne z warunkami określonymi w pkt I w zakresie: przedmiotu postępowania, określenia charakteru programu lub warunków technicznych, a także wnioski złożone po terminie określonym w pkt IV będą pozostawiane bez rozpoznania."
+    },
+    {
+     "type": "text",
+     "text": "VI. Niezwłocznie po wszczęciu postępowania lista wnioskodawców uczestniczących w postępowaniu opublikowana zostanie w Internecie na stronie www.krrit.gov.pl oraz wywieszona w siedzibie Biura Krajowej Rady Radiofonii i Telewizji."
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

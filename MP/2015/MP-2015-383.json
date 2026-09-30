@@ -1,0 +1,1754 @@
+{
+ "eli": "MP/2015/383",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 8 kwietnia 2015 r. w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/383/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 kwietnia 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 161 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wytyczne dla obwodowych komisji wyborczych dotyczące zadań i trybu przygotowania oraz przeprowadzenia głosowania w obwodach głosowania utworzonych za granicą w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r., stanowiące załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 8 kwietnia 2015 r. (poz. 383)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYTYCZNE DLA OBWODOWYCH KOMISJI WYBORCZYCH DOTYCZĄCE ZADAŃ I TRYBU PRZYGOTOWANIA ORAZ PRZEPROWADZENIA GŁOSOWANIA W OBWODACH GŁOSOWANIA UTWORZONYCH ZA GRANICĄ W WYBORACH PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ, ZARZĄDZONYCH NA DZIEŃ 10 MAJA 2015 R."
+    },
+    {
+     "type": "text",
+     "text": "Ilekroć w wytycznych mowa jest o:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Kodeksie wyborczym – należy przez to rozumieć ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "certyfikacie, loginie i haśle oraz kodach jednorazowych – należy przez to rozumieć sposoby uwierzytelniania użytkowników w systemie informatycznym udostępnionym przez Państwową Komisję Wyborczą.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 161 § 1 Kodeksu wyborczego wytyczne Państwowej Komisji Wyborczej są wiążące dla obwodowych komisji wyborczych. Dlatego też członkowie komisji zobowiązani są zapoznać się z całością wytycznych i bezwzględnie je stosować."
+      },
+      {
+       "type": "text",
+       "text": "W celu ułatwienia korzystania z wytycznych zostały one podzielone na rozdziały przedstawiające sposób wykonywania poszczególnych zadań komisji:"
+      },
+      {
+       "type": "text",
+       "text": "Rozdział Punkty"
+      },
+      {
+       "type": "text",
+       "text": "I. Informacje ogólne 1–12"
+      },
+      {
+       "type": "text",
+       "text": "Członkowie komisji 1–2"
+      },
+      {
+       "type": "text",
+       "text": "Mężowie zaufania i obserwatorzy międzynarodowi 3–5"
+      },
+      {
+       "type": "text",
+       "text": "Dziennikarze 6"
+      },
+      {
+       "type": "text",
+       "text": "Lokal wyborczy 7–12"
+      },
+      {
+       "type": "text",
+       "text": "II. Zadania komisji przed dniem wyborów 13–17"
+      },
+      {
+       "type": "text",
+       "text": "III. Zadania komisji w dniu wyborów przed otwarciem lokalu wyborczego 18–19"
+      },
+      {
+       "type": "text",
+       "text": "IV. Zadania komisji w trakcie głosowania 20–41"
+      },
+      {
+       "type": "text",
+       "text": "Otwarcie lokalu wyborczego 20"
+      },
+      {
+       "type": "text",
+       "text": "Postępowanie w przypadku skreślenia kandydata z listy 21"
+      },
+      {
+       "type": "text",
+       "text": "Czynności przed wydaniem wyborcy karty do głosowania 22"
+      },
+      {
+       "type": "text",
+       "text": "Dopisywanie wyborców do spisu wyborców 23"
+      },
+      {
+       "type": "text",
+       "text": "Wydawanie wyborcom kart do głosowania 24–27"
+      },
+      {
+       "type": "text",
+       "text": "Przebieg głosowania 28–35"
+      },
+      {
+       "type": "text",
+       "text": "Szczególne zadanie komisji wyznaczonych do głosowania korespondencyjnego 36"
+      },
+      {
+       "type": "text",
+       "text": "Przerwa w głosowaniu 37–41"
+      },
+      {
+       "type": "text",
+       "text": "V. Zakończenie głosowania 42–43"
+      },
+      {
+       "type": "text",
+       "text": "VI. Ustalenie wyników głosowania i sporządzenie protokołu głosowania 44–66"
+      },
+      {
+       "type": "text",
+       "text": "Informacje wstępne 44–47"
+      },
+      {
+       "type": "text",
+       "text": "Rozliczenie kart do głosowania 48–50"
+      },
+      {
+       "type": "text",
+       "text": "Ustalenie wyników głosowania 51–59"
+      },
+      {
+       "type": "text",
+       "text": "Uwagi do protokołu głosowania wnoszone przez mężów zaufania i członków komisji 60"
+      },
+      {
+       "type": "text",
+       "text": "Sporządzenie protokołu głosowania (informacje ogólne) 61–62"
+      },
+      {
+       "type": "text",
+       "text": "Sporządzenie protokołu głosowania w systemie informatycznym 63"
+      },
+      {
+       "type": "text",
+       "text": "Podpisywanie protokołu głosowania 64–65"
+      },
+      {
+       "type": "text",
+       "text": "Podawanie protokołu głosowania do publicznej wiadomości 66"
+      },
+      {
+       "type": "text",
+       "text": "VII. Przekazanie protokołu głosowania do okręgowej komisji wyborczej 67–72"
+      },
+      {
+       "type": "text",
+       "text": "VIII. Postępowanie z dokumentami z wyborów 73–74"
+      },
+      {
+       "type": "text",
+       "text": "IX. Ponowne głosowanie 75–80"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział I",
+     "text": "Informacje ogólne"
+    },
+    {
+     "type": "text",
+     "text": "Członkowie komisji"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W dniu wyborów członkowie komisji są obowiązani nosić identyfikatory z imieniem i nazwiskiem oraz funkcją pełnioną w komisji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Członkowie komisji nie mogą udzielać wyborcom pomocy w głosowaniu, z wyjątkiem pomocy udzielanej wyborcom niepełnosprawnym w zakresie, o którym mowa w art. 37c § 2 Kodeksu wyborczego, oraz polegającej na udzielaniu wyborcom informacji, o których mowa w pkt 21 i 27."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Przewodniczący komisji kieruje pracami komisji, zwołuje jej posiedzenia i przewodniczy im. W razie nieobecności przewodniczącego jego obowiązki pełni zastępca przewodniczącego komisji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podczas głosowania przewodniczący komisji odpowiada za utrzymanie porządku i spokoju, czuwa nad przestrzeganiem tajności głosowania, przestrzeganiem zakazu prowadzenia w lokalu wyborczym i na terenie budynku, w którym lokal ten się znajduje, w jakiejkolwiek formie agitacji wyborczej (art. 107 § 2 Kodeksu wyborczego) i przestrzeganiem właściwego toku czynności podczas głosowania. Ma prawo zażądać opuszczenia lokalu przez osoby naruszające porządek i spokój (art. 49 § 2 Kodeksu wyborczego), a w razie potrzeby zwrócić się do odpowiednich służb o zapewnienie koniecznej pomocy (art. 49 § 3 Kodeksu wyborczego). Przypadki zakłócenia głosowania odnotowuje się w punkcie 21 protokołu głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Mężowie zaufania i obserwatorzy międzynarodowi"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Mężowie zaufania wyznaczeni przez pełnomocników wyborczych komitetów wyborczych (lub upoważnione przez nich osoby), których kandydaci na Prezydenta Rzeczypospolitej Polskiej zostali zarejestrowani, mogą być obecni w dniu wyborów w lokalu wyborczym podczas wszystkich czynności wykonywanych przez komisję. Do każdej komisji pełnomocnik wyborczy komitetu wyborczego spełniającego powyższy warunek może zgłosić po jednym mężu zaufania (art. 103 § 1 Kodeksu wyborczego). Mężowie zaufania danego komitetu wyborczego mogą jednakże zmieniać się w ciągu pracy komisji. Mężami zaufania mogą być wyłącznie osoby pełnoletnie. Mężowie zaufania przedstawią komisji zaświadczenie podpisane przez pełnomocnika wyborczego lub upoważnioną przez niego osobę, sporządzone według wzoru ustalonego przez Państwową Komisję Wyborczą uchwałą z dnia 9 marca 2015 r. w sprawie wzoru zaświadczenia dla mężów zaufania do obwodowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, w wyborach Prezydenta Rzeczypospolitej Polskiej oraz w wyborach do Parlamentu Europejskiego w Rzeczypospolitej Polskiej (M.P. poz. 278). Jeżeli zaświadczenie wystawiła osoba upoważniona przez pełnomocnika, mąż zaufania okazuje komisji to upoważnienie. Zaświadczenia mogą różnić się między sobą wyglądem i układem graficznym, ale ich treść musi odpowiadać wzorowi ustalonemu przez Państwową Komisję Wyborczą. Komisja sprawdza zgodność treści przedłożonego zaświadczenia z ustalonym wzorem oraz tożsamość osoby okazującej zaświadczenie. Zaświadczenie i upoważnienie do jego wystawienia może być przedstawione w formie kopii (kserokopia, skan, wydruk z e-maila itp.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Podczas obecności w lokalu wyborczym mężowie zaufania noszą identyfikatory z imieniem, nazwiskiem, funkcją oraz nazwą komitetu wyborczego, który reprezentują. Identyfikatory nie mogą zawierać elementów kampanii wyborczej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Mężowie zaufania mają prawo obserwować wszystkie czynności obwodowej komisji wyborczej, zarówno przed rozpoczęciem głosowania, w trakcie jego trwania oraz po jego zakończeniu (art. 42 § 4 Kodeksu wyborczego), zgłaszać przewodniczącemu komisji na bieżąco uwagi i zastrzeżenia, wnosić uwagi do protokołu głosowania, z wymienieniem konkretnych zarzutów (art. 75 § 6 Kodeksu wyborczego), oraz być obecni przy transmisji danych z protokołu do okręgowej komisji wyborczej, o ile transmisja taka będzie dokonywana, a także przy przekazywaniu protokołu głosowania pełnomocnikowi okręgowej komisji wyborczej."
+      },
+      {
+       "type": "text",
+       "text": "Mężowie zaufania nie mogą wykonywać żadnych czynności członka komisji, pomagać wyborcom w głosowaniu ani udzielać im wyjaśnień. Mężowie zaufania nie są uprawnieni także do liczenia ani do przeglądania kart do głosowania przed rozpoczęciem głosowania, w trakcie głosowania i po jego zakończeniu."
+      },
+      {
+       "type": "text",
+       "text": "Obserwacja czynności wykonywanych przez komisję obwodową nie uprawnia mężów zaufania do utrwalania pracy komisji za pomocą aparatów fotograficznych lub kamer. Dopuszczalne jest natomiast fotografowanie oraz filmowanie protokołu głosowania podanego do publicznej wiadomości przez obwodową komisję wyborczą. Zainteresowani mężowie zaufania mogą także, w miarę możliwości technicznych, otrzymać kopię protokołu głosowania. Dotyczy to również przypadku, gdy konieczne było sporządzenie nowego protokołu głosowania lub naniesienie poprawek na już sporządzonym protokole."
+      },
+      {
+       "type": "text",
+       "text": "Wykonywanie uprawnień mężów zaufania nie może utrudniać pracy komisji, zakłócać powagi głosowania ani naruszać jego tajności. Niedopuszczalne jest także wchodzenie przez mężów zaufania do pomieszczenia za zasłoną, zapewniającego tajność głosowania, w chwili, gdy w pomieszczeniu tym znajduje się wyborca, nawet jeśli wyraził on na to zgodę."
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący komisji może wydawać polecenia o charakterze porządkowym, w przypadku gdy działania mężów zaufania wykraczają poza ich uprawnienia, utrudniają pracę komisji, zakłócają powagę głosowania lub naruszają jego tajność. Fakt ten należy odnotować w punkcie 18 protokołu głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący komisji informuje mężów zaufania o przysługujących im prawach i wskazuje im miejsce w lokalu wyborczym, z którego będą mogli obserwować przebieg głosowania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Przy wszystkich czynnościach komisji mogą być również obecni obserwatorzy międzynarodowi zaproszeni przez Państwową Komisję Wyborczą. Obserwatorzy międzynarodowi przedstawią komisji zaświadczenie wydane przez Państwową Komisję Wyborczą. Obserwatorzy posiadają uprawnienia mężów zaufania, z wyjątkiem prawa do wnoszenia uwag do protokołu (art. 50 § 2 Kodeksu wyborczego). Nie mogą oni wykonywać żadnych czynności członka komisji, pomagać wyborcom w głosowaniu ani udzielać im wyjaśnień.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dziennikarze"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W czasie głosowania w lokalu mogą przebywać dziennikarze posiadający ważną legitymację dziennikarską lub inny dokument potwierdzający reprezentowanie redakcji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dziennikarze są obowiązani zgłosić swoją obecność przewodniczącemu komisji oraz stosować się do zarządzeń mających na celu zapewnienie powagi i tajności głosowania. Dziennikarze nie mogą przeprowadzać wywiadów w lokalu, w którym odbywa się głosowanie. Dopuszczalne jest natomiast, po uzyskaniu zgody przewodniczącego komisji oraz osób, których wizerunek jest utrwalany, filmowanie i fotografowanie przebiegu głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Dziennikarze nie mogą przebywać w lokalu wyborczym przed rozpoczęciem głosowania oraz po jego zakończeniu. Jednakże za zgodą właściwej okręgowej komisji wyborczej dopuszczalne jest sfilmowanie i sfotografowanie przez przedstawicieli prasy momentu otwierania przez obwodową komisję wyborczą urny wyborczej i wyjmowania z niej kart do głosowania. Po wykonaniu tej czynności przedstawiciele prasy obowiązani są niezwłocznie opuścić lokal komisji."
+      },
+      {
+       "type": "text",
+       "text": "Lokal wyborczy"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W lokalu wyborczym powinny znajdować się: godło Rzeczypospolitej Polskiej, urna wyborcza, pomieszczenia lub osłony zapewniające tajność głosowania umieszczone w takiej liczbie i w taki sposób, aby zapewnić sprawny jego przebieg. Miejsca za osłonami powinny być wyposażone w przybory do pisania. W miejscach tych należy także umieścić plakat informacyjny Państwowej Komisji Wyborczej o sposobie głosowania i warunkach ważności głosu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Lokal wyborczy powinien być dobrze oświetlony, w szczególności dotyczy to miejsc zapewniających tajność głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto lokal wyborczy powinien być – w miarę możliwości – tak urządzony, aby wyborca po otrzymaniu karty do głosowania kierował się bezpośrednio do miejsca za osłoną, a następnie w stronę urny."
+      },
+      {
+       "type": "text",
+       "text": "Wystrój lokalu wyborczego powinien odpowiadać powadze głosowania. Dotyczy to również estetyki urny wyborczej. Niedopuszczalne jest użycie jako urny wyborczej przedmiotów, których codzienne przeznaczenie powoduje, że wykorzystanie ich jako urny wyborczej naruszałoby powagę głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Komisja obowiązana jest sprawdzić, czy urna jest takiej wielkości, że pomieści wszystkie oddane karty do głosowania, oraz czy wykonana jest w taki sposób, aby przez cały czas, od jej zamknięcia i opieczętowania do jej otwarcia po zakończeniu głosowania, nie było możliwe wrzucenie do niej kart w inny sposób niż przez otwór do tego przeznaczony ani wyjęcie bądź wysypanie się kart. Jeżeli wielkość urny nie zapewni pomieszczenia w niej wszystkich kart do głosowania oddanych przez wyborców, komisja występuje do konsula o zapewnienie dla potrzeb głosowania urny dodatkowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Na widocznym miejscu w lokalu wywiesza się urzędowe obwieszczenia i informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "zarejestrowanych kandydatach na Prezydenta Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "sposobie głosowania i warunkach ważności głosu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_8/pkt_4",
+       "text": "składzie komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Obwieszczenia i informacje powinny być dodatkowo umieszczone na wysokości umożliwiającej ich odczytanie przez wyborców niepełnosprawnych o ograniczonej sprawności ruchowej (art. 37c § 1 Kodeksu wyborczego).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Komisja powinna mieć w swojej siedzibie zapewniony dostęp do telefonu oraz znać numery telefonów, pod którymi pełnione będą dyżury członków okręgowej komisji wyborczej oraz dyżury w konsulacie oraz w Ministerstwie Spraw Zagranicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "W lokalu wyborczym oraz na terenie budynku (wewnątrz i na zewnątrz), w którym mieści się ten lokal, nie mogą być umieszczone hasła, napisy lub ulotki oraz inne materiały o charakterze agitacyjnym (art. 107 § 2 Kodeksu wyborczego). Kontroli w tym zakresie komisja dokonuje bezpośrednio przed dniem głosowania oraz ponownie przed rozpoczęciem głosowania, a także – w razie potrzeby – w trakcie głosowania. W razie umieszczenia takich materiałów komisja usuwa je; w przypadku gdyby usunięcie ich przez komisję we własnym zakresie nie było możliwe, zwraca się ona w tej sprawie do właściwego konsula.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Lokale obwodowych komisji wyborczych przygotowuje i wyposaża właściwy konsul. W miarę możliwości w terminie uzgodnionym z konsulem komisja skontroluje stan wyposażenia lokalu oraz oznakowanie budynku, w którym odbędzie się głosowanie. O stwierdzonych brakach lub nieprawidłowościach komisja niezwłocznie zawiadamia konsula, a następnie sprawdza czy zostały one usunięte.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział II",
+     "text": "Zadania komisji przed dniem wyborów"
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Po powołaniu przez konsula komisja odbywa posiedzenie, na którym dokonuje wyboru przewodniczącego komisji i jego zastępcy oraz ustala sposób wykonania swoich zadań.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Komisja podaje do publicznej wiadomości informację o swoim składzie, z uwzględnieniem funkcji pełnionych w komisji, a także ze wskazaniem podmiotów, które dokonały zgłoszeń do komisji."
+      },
+      {
+       "type": "text",
+       "text": "W dniu głosowania aktualną informację o składzie komisji wywiesza się w lokalu wyborczym."
+      },
+      {
+       "type": "text",
+       "text": "Komisja zapoznaje się z ustaleniami organizacyjnymi dotyczącymi m.in. godziny rozpoczęcia pracy w dniu głosowania. Informację o godzinie rozpoczęcia pracy przez komisję podaje się do publicznej wiadomości, przede wszystkim na stronie internetowej konsula, a także w miarę możliwości przez jej wywieszenie w budynku, w którym mieści się lokal wyborczy. Informacja ta jest przeznaczona dla mężów zaufania i obserwatorów międzynarodowych w celu umożliwienia im obecności przy wszystkich czynnościach komisji poprzedzających otwarcie lokalu. Komisja współdziała w tym zakresie z właściwym konsulem."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Komisja odbiera od pracowników konsulatu przygotowane karty do głosowania, formularze protokołu głosowania, pieczęć oraz spis wyborców. Do wykonania tego zadania komisja wyznacza co najmniej trzy osoby ze swego składu, przy czym jedną z nich powinien być przewodniczący komisji lub jego zastępca. Komisja ustala także, w uzgodnieniu z konsulem miejsce i sposób przechowywania odebranych materiałów do dnia głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Przy odbiorze upoważnieni członkowie komisji dokładnie sprawdzają, czy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_15/pkt_1",
+       "text": "karty do głosowania zostały dostarczone w odpowiedniej liczbie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_15/pkt_2",
+       "text": "karty do głosowania są prawidłowo wydrukowane, np. czy nie mają błędów i usterek drukarskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_15/pkt_3",
+       "text": "karty do głosowania są kompletne, tj. czy zawierają wszystkich kandydatów na Prezydenta Rzeczypospolitej Polskiej. Sprawdzenia kompletności kart komisja dokonuje na podstawie obwieszczenia Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_15/pkt_4",
+       "text": "przekazano właściwą liczbę formularzy protokołu głosowania (5 egzemplarzy);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_15/pkt_5",
+       "text": "przekazano właściwy spis wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_15/pkt_6",
+       "text": "przekazano właściwą pieczęć komisji, tj. czy nazwa i siedziba (miejscowość) komisji oraz numer obwodu dotyczą danej obwodowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_15/pkt_7",
+       "text": "przygotowane zostały potrzebne materiały biurowe (poduszka do stempli, przybory do pisania, papier, sznurek, nawilżacze, taśma klejąca itp.).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Odbiór dokumentów potwierdza się na piśmie, wymieniając ich rodzaj i ilość, w tym liczbę otrzymanych kart do głosowania. Protokół odbioru otrzymuje organ przekazujący, a jego kopię włącza się do dokumentacji komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "W przypadku gdy Państwowa Komisja Wyborcza zarządziła stosowanie systemu informatycznego, a komisji obwodowej zapewniono obsługę informatyczną, przewodniczący oraz zastępca przewodniczącego komisji odbierają certyfikat oraz login i hasło upoważniające do korzystania z systemu informatycznego. Następnie pobierają oni z tego systemu kody jednorazowe do uwierzytelniania protokołów obwodowych. Odbiór certyfikatu oraz loginu i hasła należy potwierdzić, w miarę możliwości pisemnie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Osoby, które posiadają certyfikat, login i hasło oraz kody jednorazowe, mają obowiązek zabezpieczenia ich przed dostępem innych osób. W razie zniszczenia lub utraty któregoś ze sposobów uwierzytelniania w systemie, należy niezwłocznie skontaktować się z właściwym konsulem w celu podjęcia dalszych kroków."
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący komisji najpóźniej w przeddzień głosowania ustala z osobami odpowiedzialnymi za obsługę informatyczną miejsce i harmonogram jej pracy."
+      },
+      {
+       "type": "text",
+       "text": "Po otrzymaniu informacji o przyjęciu protokołu głosowania w obwodzie przez okręgową komisję wyborczą przewodniczący i zastępca przewodniczącego obowiązani są dokonać zniszczenia certyfikatu, loginu i hasła oraz kodów jednorazowych do systemu. W świetle art. 154 § 5 i art. 161 § 1 Kodeksu wyborczego niewykonanie powyższego stanowić będzie niedopełnienie obowiązków przez osobę ponoszącą odpowiedzialność jak funkcjonariusz publiczny."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział III",
+     "text": "Zadania komisji w dniu wyborów przed otwarciem lokalu wyborczego"
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "W dniu wyborów komisja zbiera się w lokalu wyborczym w możliwie pełnym składzie, z udziałem przewodniczącego komisji lub jego zastępcy, na tyle wcześnie, aby wykonać wszystkie czynności związane z przygotowaniem głosowania, lecz nie później niż o godz. 6⁰⁰.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Przed rozpoczęciem głosowania komisja, w możliwie pełnym składzie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_19/pkt_1",
+       "text": "sprawdza dostarczone jej dokumenty oraz pieczęć komisji (zobacz pkt 15 wytycznych);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_19/pkt_2",
+       "text": "ponownie przelicza karty do głosowania; ustaloną liczbę komisja wpisuje w punkcie 2 formularza protokołu głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_19/pkt_3",
+       "text": "ostemplowuje karty do głosowania – w miejscu na to przeznaczonym – swoją pieczęcią; w celu uniknięcia wydania wyborcy karty nieważnej zaleca się ostemplowanie wszystkich kart do głosowania przed otwarciem lokalu, tj. przed godziną 7⁰⁰; w razie niemożności wykonania tej czynności przed rozpoczęciem głosowania należy ostemplować karty bezpośrednio po godzinie 7⁰⁰, możliwie przed rozpoczęciem wydawania kart wyborcom; po ostemplowaniu wszystkich kart pieczęcią komisji należy je wraz z pieczęcią komisji odpowiednio zabezpieczyć;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_19/pkt_4",
+       "text": "rozkłada spis wyborców oraz karty do głosowania w sposób ułatwiający prowadzenie głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_19/pkt_5",
+       "text": "sprawdza, czy w lokalu wyborczym w widocznym miejscu wywieszone są urzędowe obwieszczenia i informacje, o których mowa w pkt 8, sprawdza również, czy dodatkowo są one umieszczone na wysokości umożliwiającej ich odczytanie z wózka inwalidzkiego; w razie stwierdzenia nieprawidłowości w tym zakresie komisja podejmuje niezwłocznie działania dla ich usunięcia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_19/pkt_6",
+       "text": "sprawdza, czy w lokalu wyborczym oraz wewnątrz i na zewnątrz budynku, w którym mieści się lokal, nie znajdują się elementy służące prowadzeniu kampanii wyborczej (plakaty, ulotki, napisy); w razie umieszczenia takich materiałów komisja usuwa je; w przypadku gdyby komisja nie mogła tego uczynić sama, zwraca się w tej sprawie do konsula; kontrolę w tym zakresie należy przeprowadzać również w toku głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_19/pkt_7",
+       "text": "sprawdza, czy urna jest pusta, a następnie zamyka ją i opieczętowuje; urna powinna być ustawiona w takim miejscu, by była przez cały czas głosowania widoczna dla członków komisji i mężów zaufania oraz obserwatorów międzynarodowych; ponadto możliwe jest wyznaczenie jednego członka komisji (rotacyjnie), którego zadaniem będzie czuwanie nad urną. Urny nie wolno wynosić z lokalu wyborczego. Urna musi pozostać zamknięta przez cały czas od zamknięcia aż do jej otwarcia po zakończeniu głosowania. Gdyby w tym czasie doszło do otwarcia urny, komisja odnotowuje to zdarzenie i wyjaśnia jego przyczynę w punkcie 21 protokołu głosowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IV",
+     "text": "Zadania komisji w trakcie głosowania"
+    },
+    {
+     "type": "text",
+     "text": "Otwarcie lokalu wyborczego"
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "O godzinie 7⁰⁰ komisja otwiera lokal. Od chwili rozpoczęcia głosowania do czasu jego zakończenia komisja wykonuje swoje zadania w składzie zapewniającym wyborcom udział w głosowaniu bez zakłóceń przy wydawaniu kart do głosowania, ale co najmniej 3-osobowym, w tym zawsze z udziałem przewodniczącego komisji bądź jego zastępcy (art. 42 § 3 Kodeksu wyborczego). Wymóg obecności co najmniej 3 osób z komisji oznacza stałe przebywanie takiej liczby członków w pomieszczeniu, w którym znajduje się urna.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Postępowanie w przypadku skreślenia kandydata z listy"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Jeżeli w okresie po wydrukowaniu kart do głosowania, a przed dniem wyborów Państwowa Komisja Wyborcza skreśli z listy kandydatów nazwisko kandydata na Prezydenta Rzeczypospolitej Polskiej, nazwisko tego kandydata pozostawia się na wydrukowanych kartach do głosowania. Informację o skreśleniu kandydata i nowym brzmieniu karty do głosowania oraz o warunkach ważności głosu oddanego na takiej karcie podaje się do publicznej wiadomości w formie obwieszczenia Państwowej Komisji Wyborczej. Obwieszczenie to komisja obwodowa wywiesza w lokalu wyborczym oraz informuje ustnie o tym wyborców.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Niedopuszczalne jest dokonywanie przez komisję jakichkolwiek skreśleń i adnotacji na kartach do głosowania."
+      },
+      {
+       "type": "text",
+       "text": "Czynności przed wydaniem wyborcy karty do głosowania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Przed wydaniem karty do głosowania komisja:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_22/pkt_1",
+       "text": "sprawdza tożsamość wyborcy na podstawie ważnego polskiego paszportu. Wyłącznie na terenie państw Unii Europejskiej oraz państw, do których można wyjechać na podstawie polskiego dowodu osobistego, obywatel polski może przedstawić komisji ważny polski dowód osobisty (art. 52 § 3 Kodeksu wyborczego);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_22/pkt_2",
+       "text": "ustala, czy wyborca jest uprawniony do głosowania w tym obwodzie, przez sprawdzenie, czy jego nazwisko jest ujęte w spisie wyborców.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Komisje wyborcze wyznaczone do głosowania korespondencyjnego sprawdzają ponadto, czy w rubryce spisu wyborców „Uwagi” odpowiadającej nazwisku danego wyborcy nie jest umieszczona informacja o wysłaniu do niego pakietu wyborczego. W przypadku umieszczenia takiej informacji komisja odmawia wydania kart do głosowania. Jeżeli wyborca poinformuje komisję, że nie otrzymał pakietu wyborczego, wówczas przewodniczący komisji lub jego zastępca telefonicznie bądź mailowo potwierdza w konsulacie, czy konsulat posiada informację o niedoręczeniu temu wyborcy pakietu. W przypadku potwierdzenia niedoręczenia pakietu przewodniczący lub jego zastępca skreśla adnotację w spisie o wysłaniu pakietu, w to miejsce wpisuje adnotację „pakiet niedoręczony” i opatruje ją parafą, a komisja wydaje wyborcy kartę do głosowania."
+        },
+        {
+         "type": "text",
+         "text": "Dopisywanie wyborców do spisu wyborców"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "W dniu głosowania komisja dopisuje do spisu wyborców, na dodatkowym formularzu spisu, i umożliwia głosowanie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_23/pkt_1",
+       "text": "osobie przedkładającej zaświadczenie o prawie do głosowania (należy zwrócić szczególną uwagę, czy zaświadczenie wydane jest na pierwsze głosowanie w dniu 10 maja 2015 r.), które to zaświadczenie zatrzymuje i dołącza do spisu, czyniąc w rubryce „Uwagi” adnotację „Z 10.05”; odnosi się to także do osób, które na podstawie zaświadczenia chcą głosować w „swoim” obwodzie (wyborca otrzymał zaświadczenie w związku z zamiarem głosowania np. w innym obwodzie, a później odstąpił od tego zamiaru); komisja nie wydaje karty do głosowania wyborcy przedkładającemu w dniu pierwszego głosowania zaświadczenie o prawie do głosowania w dniu ponownego głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_23/pkt_2",
+       "text": "osobie pominiętej w spisie, jeżeli udokumentuje, że pominięcie jej nazwiska jest wynikiem pomyłki powstałej przy sporządzaniu spisu, co potwierdzi konsul odpowiedzialny za sporządzenie spisu; członek komisji, który otrzymał potwierdzenie, sporządza stosowną notatkę, którą dołącza się do spisu wyborców.",
+       "children": [
+        {
+         "type": "text",
+         "text": "W przedstawionych powyżej dwóch przypadkach dopisania wyborców do spisu komisja jest zobowiązana do wpisania na dodatkowym arkuszu spisu wszystkich danych wyborcy zgodnie z rubrykami spisu."
+        },
+        {
+         "type": "text",
+         "text": "Komisja nie jest uprawniona do dokonywania jakichkolwiek innych zmian w spisie wyborców."
+        },
+        {
+         "type": "text",
+         "text": "Wydawanie wyborcom kart do głosowania"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Wyborcy wydaje się jedną kartę do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Przy wydawaniu kart do głosowania obwodowa komisja sprawdza, czy wydawana karta jest ostemplowana jej pieczęcią.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ponadto komisja zwraca uwagę, by wyborca potwierdził własnoręcznym podpisem, w przeznaczonej na to rubryce spisu wyborców, fakt otrzymania karty. W przypadku odmowy złożenia podpisu wydający karty członek komisji w rubryce spisu wyborców „Uwagi” czyni adnotację „odmowa podpisu” i opatruje ją swoją parafą."
+      },
+      {
+       "type": "text",
+       "text": "Przy czynności potwierdzania przez wyborców otrzymania karty należy zwrócić szczególną uwagę, by podpisy składane były w miejscach (w linii) odpowiadających nazwiskom. Możliwe jest składanie podpisu bez odwracania spisu."
+      },
+      {
+       "type": "text",
+       "text": "Zwrócić także należy uwagę na konieczność zapewnienia ochrony danych osobowych osób ujętych w spisie wyborców, w tym przed ujawnieniem danych osobowych innych osób przy potwierdzaniu przez wyborcę odbioru karty do głosowania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Komisja odmawia ponownego wydania karty do głosowania niezależnie od przyczyn tego żądania (np. z powodu pomyłkowego wypełnienia karty, zniszczenia jej itp.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "Na wniosek wyborcy komisja jest obowiązana wyjaśnić mu sposób głosowania w wyborach oraz warunki ważności głosu, zgodnie z informacją umieszczoną na karcie do głosowania. Wyjaśnienie to nie może zawierać elementów agitacyjnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ponadto komisja jest obowiązana, na prośbę wyborcy niepełnosprawnego, do przekazania ustnie treści obwieszczeń wyborczych w zakresie informacji o zarejestrowanych kandydatach na Prezydenta Rzeczypospolitej Polskiej. Czynności te wykonuje przewodniczący komisji lub zastępca przewodniczącego w obecności innego członka komisji."
+      },
+      {
+       "type": "text",
+       "text": "Przebieg głosowania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "W czasie głosowania komisja zwraca uwagę, by wyborcy głosowali osobiście i w taki sposób, aby nie została naruszona tajność głosowania, a także aby głosowanie nie zostało wykorzystane do prowadzenia agitacji wyborczej. Karty do głosowania wyborcy powinni wrzucać do urny w taki sposób, aby strona zadrukowana była niewidoczna (art. 52 § 7 Kodeksu wyborczego).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "Niedopuszczalne jest głosowanie za członka rodziny lub za inną osobę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "Osobie niepełnosprawnej, na jej prośbę, może pomagać w głosowaniu inna osoba, w tym także niepełnoletnia; pomoc ta może mieć tylko techniczny charakter; nie może ona polegać na sugerowaniu wyborcy sposobu głosowania lub na głosowaniu w zastępstwie tego wyborcy; dopuszczalne jest, aby na życzenie osoby niepełnosprawnej w pomieszczeniu za zasłoną przebywała osoba udzielająca pomocy. Pomocy w głosowaniu nie może udzielać członek komisji ani mąż zaufania (art. 53 Kodeksu wyborczego).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Komisja zwraca uwagę, by wyborcy nie wynosili kart do głosowania poza lokal wyborczy. W przypadku gdy komisja zauważy, że wyborca wyniósł kartę do głosowania na zewnątrz, lub otrzyma informację, że w lokalu wyborczym lub poza nim oferowane jest odstąpienie karty, obowiązana jest niezwłocznie zawiadomić o tym właściwego konsula i fakt ten opisać w punkcie 21 protokołu głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "Komisja zwraca również uwagę, aby wyborcy nie wrzucali do urny innych przedmiotów niż karty do głosowania. W razie stwierdzenia takich przypadków fakt ten należy opisać w punkcie 21 protokołu głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "33",
+     "path": "ust_33",
+     "text": "Komisja, na żądanie wyborcy, obowiązana jest wydać zaświadczenie potwierdzające wzięcie udziału w głosowaniu. Zaświadczenie powinno zawierać następującą treść:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Zaświadczenie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Obwodowa Komisja Wyborcza Nr ... w ........................................................................................................ zaświadcza,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "że Pan/Pani* ................................................................................................... otrzymał/otrzymała* kartę do głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "w wyborach Prezydenta Rzeczypospolitej Polskiej w głosowaniu w dniu ..................................................................... .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "...................................................... ..........................................................",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zaświadczenie podpisuje przewodniczący komisji lub zastępca przewodniczącego i opatruje pieczęcią komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zaświadczenie sporządza się w jednym egzemplarzu. Informację o wydaniu zaświadczenia umieszcza się w rubryce spisu „Uwagi” przy nazwisku wyborcy, którego zaświadczenie dotyczyło. Formularze zaświadczeń zapewnia konsul.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "34. Komisja na bieżąco sprawdza liczbę podpisów w spisie potwierdzających otrzymanie karty przez wyborców.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy liczba ta przekroczy 70% liczby otrzymanych przez komisję kart do głosowania, komisja obowiązana jest powiadomić właściwego konsula, który podejmuje natychmiastowe działania w celu zapewnienia potrzebnej liczby kart do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "35. Komisja czuwa, aby nie doszło do przepełnienia urny wyborczej. Otwieranie urny przy wykonywaniu tego zadania jest niedopuszczalne. Jeżeli komisja stwierdzi, że urna uległa zapełnieniu, np. zauważając, że wyborcy mają trudności z wrzucaniem do niej kart do głosowania, powinna zakleić oraz opieczętować tę urnę i wykorzystać drugą urnę, jeżeli została dostarczona przed rozpoczęciem głosowania, lub niezwłocznie zwrócić się do konsula o dostarczenie drugiej urny. Urna, która uległa przepełnieniu, pozostaje w lokalu wyborczym. Przed rozpoczęciem stosowania drugiej urny komisja sprawdza, czy jest ona pusta, a następnie zamyka ją i opieczętowuje. Obie urny powinny być ustawione w takim miejscu, by były przez cały czas głosowania widoczne dla członków komisji i mężów zaufania oraz obserwatorów międzynarodowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Szczególne zadanie komisji wyznaczonych do głosowania korespondencyjnego",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "36. Komisje wyznaczone do głosowania korespondencyjnego przeprowadzają to głosowanie, postępując w sposób określony w uchwale Państwowej Komisji Wyborczej z dnia 27 marca 2015 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym za granicą (M.P. poz. 328). Komisje te, w trakcie przeprowadzania głosowania, na bieżąco ustalają:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) liczbę otrzymanych kopert zwrotnych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) liczbę kopert zwrotnych, w których nie było oświadczenia o osobistym i tajnym oddaniu głosu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) liczbę kopert zwrotnych, w których oświadczenie o osobistym i tajnym oddaniu głosu nie było podpisane przez wyborcę;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) liczbę kopert zwrotnych, w których nie było koperty na kartę do głosowania;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) liczbę kopert zwrotnych, w których znajdowała się niezaklejona koperta na kartę do głosowania;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) liczbę kopert na kartę do głosowania wrzuconych do urny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy informacje z ppkt 2–5 dotyczą jednej koperty zwrotnej, należy je uwzględnić w każdym z tych punktów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Otrzymanych przez komisję pustych kopert zwrotnych nie uwzględnia się przy dokonywaniu powyższych ustaleń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Dane, o których mowa, są zapisywane na arkuszu pomocniczym prowadzonym przez wskazanego członka komisji pod nadzorem przewodniczącego lub zastępcy przewodniczącego komisji i wykorzystywane przy sporządzeniu protokołu wyników głosowania w obwodzie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przerwa w głosowaniu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "37. Głosowania nie wolno przerywać, chyba że w wyniku nadzwyczajnych wydarzeń zostanie ono przejściowo lub trwale uniemożliwione. Przez nadzwyczajne wydarzenie należy rozumieć wyłącznie takie, które realnie uniemożliwia głosowanie (np. katastrofa budowlana dotycząca budynku, w którym znajduje się lokal wyborczy); nie są nadzwyczajnymi wydarzeniami sytuacje o charakterze techniczno-organizacyjnym (brak właściwej pieczęci, trudność w dostaniu się do budynku lub lokalu przed rozpoczęciem głosowania, zapełnienie się urny itp.).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "O przyczynach uzasadniających – zdaniem komisji – zarządzenie przerwy w głosowaniu, jego przedłużenie lub odroczenie komisja powiadamia niezwłocznie właściwego konsula i za jego pośrednictwem okręgową komisję wyborczą i podejmuje uchwałę w tej sprawie. Uchwałę o zarządzeniu przerwy w głosowaniu, jego przedłużeniu lub odroczeniu komisja bezzwłocznie podaje do publicznej wiadomości oraz przesyła okręgowej komisji wyborczej, która przekazuje ją Państwowej Komisji Wyborczej, i konsulowi. Uchwałę tę komisja załącza do protokołu głosowania i czyni o tym adnotację w punkcie 18 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "38. W razie przerwania lub odroczenia głosowania komisja zakleja i opieczętowuje wlot urny, ustala liczbę niewykorzystanych kart do głosowania, liczbę osób uprawnionych do głosowania, czyli liczbę osób ujętych w spisie wyborców, oraz liczbę wydanych kart – na podstawie podpisów osób w spisie wyborców. Następnie spis wyborców, niewykorzystane karty do głosowania oraz inne dokumenty komisji umieszcza w odrębnych pakietach, opieczętowuje je i opisuje. Urnę wraz z pakietami oddaje na przechowanie przewodniczącemu komisji. Z czynności tych należy sporządzić protokół, podając w nim liczbę niewykorzystanych kart do głosowania, liczbę osób uprawnionych do głosowania i liczbę wydanych kart.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "39. Po sporządzeniu protokołu przewodniczący komisji zamyka lokal wyborczy i opieczętowuje wejście do lokalu pieczęcią komisji. Pieczęć komisji oddaje się na przechowanie zastępcy przewodniczącego lub innemu członkowi komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "40. Konsul zapewnia ochronę lokalu komisji w czasie przerwy w głosowaniu. Zadania i tryb postępowania konsula w zakresie ochrony lokalu określa rozporządzenie Ministra Spraw Zagranicznych z dnia 23 lutego 2015 r. w sprawie szczegółowych wymagań oraz obowiązków konsula w zakresie ochrony lokalu wyborczego w czasie przerwy w głosowaniu (Dz. U. poz. 292).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "41. Przed wznowieniem głosowania komisja stwierdza protokolarnie, czy pieczęcie na wejściu do lokalu wyborczego, na urnie i pakietach z kartami oraz spisem nie zostały naruszone. W razie naruszenia pieczęci lub braku pakietów albo dokumentów komisja opisuje stwierdzony stan w protokole głosowania, zawiadamia o tym niezwłocznie właściwego konsula i za jego pośrednictwem okręgową komisję wyborczą i następnie wykonuje czynności wskazane przez okręgową komisję wyborczą.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział V",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zakończenie głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "42. O godzinie 21⁰⁰ przewodniczący komisji zarządza zakończenie głosowania. Komisja zamyka lokal; osobom przybyłym do lokalu przed tą godziną należy umożliwić oddanie głosu. Po opuszczeniu lokalu przez ostatniego wyborcę komisja zapieczętowuje wlot urny, zaklejając go paskiem papieru opatrzonym pieczęcią komisji i podpisami jej członków. W przypadku podjęcia przez komisję uchwały o przedłużeniu głosowania lokal wyborczy jest zamykany później niż o godz. 21⁰⁰, tj. o godzinie wynikającej z uchwały.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisje utworzone za granicą nie mają możliwości zakończenia głosowania wcześniej niż o godz. 21⁰⁰, nawet w przypadku udziału w głosowaniu przez wszystkich wyborców ujętych w spisie wyborców.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "43. Po zamknięciu lokalu i po zakończeniu głosowania w lokalu mogą przebywać poza członkami komisji wyłącznie mężowie zaufania i obserwatorzy międzynarodowi. Ponadto w czasie otwierania urny i wyjmowania z niej kart dopuszczalna jest obecność w lokalu przedstawicieli prasy, na zasadach, o których mowa w pkt 6. Mężowie zaufania, obserwatorzy międzynarodowi i przedstawiciele prasy nie mogą uczestniczyć w liczeniu głosów ani pomagać członkom komisji w wykonywaniu ich zadań.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy Państwowa Komisja Wyborcza zarządziła stosowanie systemu informatycznego, a komisji zapewniono obsługę informatyczną, w lokalu w miejscu wyznaczonym przez przewodniczącego mogą przebywać również osoby odpowiedzialne za tę obsługę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział VI",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustalenie wyników głosowania i sporządzenie protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Informacje wstępne",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "44. Czynności związane z ustaleniem wyników głosowania w obwodzie i sporządzeniem protokołu głosowania komisja wykonuje w możliwie pełnym składzie. Nie jest dopuszczalne tworzenie z członków komisji grup roboczych, które wykonywałyby oddzielnie czynności po zakończeniu głosowania, np. ustalając wyniki głosowania na podstawie części kart do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "45. Komisja ustala wyniki głosowania i sporządza protokół głosowania, wykorzystując w tym celu dostarczone formularze protokołu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "46. Czynności opisane w pkt 47–60 dotyczą przygotowania projektu protokołu, ale należy wykonywać je na odpowiednich formularzach protokołu głosowania. Ze względów praktycznych we wskazanych wyżej punktach dla uproszczenia używane jest pojęcie „protokołu głosowania”, a nie „projektu protokołu głosowania” lub „formularza protokołu głosowania”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "47. Liczby w protokole głosowania wpisuje się w następujący sposób: liczby jednocyfrowe wpisuje się w ostatniej kratce z prawej strony, liczby dwucyfrowe – w dwóch ostatnich kratkach z prawej strony, liczby trzycyfrowe – w trzech ostatnich kratkach z prawej strony itd., czyli tak, aby ostatnia cyfra wpisywanej liczby wypadła w ostatniej kratce z prawej strony.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli ustalona przez komisję liczba wynosi zero, w ostatniej kratce z prawej strony należy wpisać cyfrę „0”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozliczenie kart do głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "48. W pierwszej kolejności komisja dokonuje rozliczenia kart do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 2 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja wpisuje w punkcie 2 protokołu głosowania ustaloną przed rozpoczęciem głosowania liczbę otrzymanych kart do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 3 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja przelicza niewykorzystane karty do głosowania. Ustaloną przez komisję liczbę niewykorzystanych kart do głosowania wpisuje się w punkcie 3 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Karty niewykorzystane należy zapakować w pakiet, opieczętować je i opisać.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 1 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja ustala liczbę wyborców uprawnionych do głosowania, tj. umieszczonych w spisie, łącznie z osobami dopisanymi przez komisję w trakcie głosowania na dodatkowym formularzu spisu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 4 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Kolejną czynnością komisji jest ustalenie liczby wyborców, którym wydano kartę do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustalenia tego dokonuje się na podstawie liczby podpisów potwierdzających otrzymanie karty do głosowania (łącznie z adnotacjami „odmowa podpisu” zastępującymi podpisy).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Liczba ta nie może być większa od liczby wyborców uprawnionych do głosowania (punkt 1 protokołu).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 15 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49. Na podstawie ustalonych danych komisja ustala, czy liczba kart niewykorzystanych (punkt 3 protokołu) i liczba wyborców, którym wydano karty do głosowania (punkt 4 protokołu), stanowią w sumie liczbę kart, które otrzymała komisja (punkt 2 protokołu).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W razie stwierdzenia niezgodności należy ponownie przeliczyć podpisy w spisie, a jeśli wynik rozliczenia kart będzie ten sam – przypuszczalną przyczynę niezgodności opisać w punkcie 15 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W razie braku miejsca w protokole na opisanie przyczyn rozbieżności należy dokonać tego na oddzielnej kartce papieru stanowiącej załącznik do protokołu. W protokole należy zamieścić informację o sporządzeniu załącznika. Jeżeli niezgodność nie występuje, w punkcie 15 protokołu głosowania należy wpisać wyrazy „brak uwag”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "50. W dalszej kolejności komisja dokonuje ustaleń dotyczących głosowania na podstawie zaświadczenia o prawie do głosowania i głosowania korespondencyjnego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 5 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja w punkcie 5 protokołu głosowania wpisuje cyfrę „0” – wobec ustawowego braku możliwości głosowania przez pełnomocnika.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 6 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja ustala liczbę wyborców głosujących na podstawie zaświadczenia o prawie do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustalenia tego dokonuje się na podstawie liczby adnotacji „Z 10.05” w rubryce spisu „Uwagi”, potwierdzających głosowanie na podstawie zaświadczenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Uzyskaną liczbę komisja porównuje z liczbą otrzymanych zaświadczeń. Liczby te powinny być równe. Jeżeli zachodzi rozbieżność pomiędzy tymi liczbami, komisja dokonuje ponownego przeliczenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Liczbę wyborców głosujących na podstawie zaświadczenia o prawie do głosowania wpisuje się w punkcie 6 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 7 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W dalszej kolejności komisja ustala liczby dotyczące głosowania korespondencyjnego. Ustaleń tych dokonują komisje wyznaczone do głosowania korespondencyjnego, pozostałe komisje w punktach 7–8e protokołu głosowania wpisują cyfrę „0”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Liczbę wyborców, którym wysłano pakiety wyborcze, ustala się na podstawie liczby adnotacji w spisie wyborców zawierających informacje o wysłaniu pakietu wyborczego do wyborcy. Liczbę wyborców, którym wysłano pakiety wyborcze, wpisuje się w punkcie 7 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 8 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Następnie komisja wyznaczona do głosowania korespondencyjnego wpisuje ustalone wcześniej, zgodnie z pkt 36, liczby:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– otrzymanych kopert zwrotnych (w punkcie 8 protokołu),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– kopert zwrotnych, w których nie było oświadczenia o osobistym i tajnym oddaniu głosu (w punkcie 8a protokołu),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– kopert zwrotnych, w których oświadczenie o osobistym i tajnym oddaniu głosu nie było podpisane przez wyborcę (w punkcie 8b protokołu),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– kopert zwrotnych, w których nie było koperty na kartę do głosowania (w punkcie 8c protokołu),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– kopert zwrotnych, w których znajdowała się niezaklejona koperta na kartę do głosowania (w punkcie 8d protokołu),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– kopert na kartę do głosowania wrzuconych do urny (w punkcie 8e protokołu).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Liczba otrzymanych kopert zwrotnych (punkt 8 protokołu) nie może być większa od liczby wyborców, którym wysłano pakiety wyborcze (punkt 7 protokołu).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W przypadku gdy informacje z ppkt 8a–8d dotyczą jednej koperty zwrotnej, należy je uwzględnić w każdym z tych punktów. W takiej sytuacji nie uwzględnia się uwagi umieszczonej w protokole, że suma liczb z pkt 8a–8e nie może być większa od liczby z pkt 8.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Otrzymanych przez komisję pustych kopert zwrotnych nie uwzględnia się przy dokonywaniu powyższych ustaleń.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustalenie wyników głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "51. Komisja sprawdza, czy pieczęcie na urnie oraz na wlocie do urny pozostały nienaruszone, po czym otwiera urnę i wyjmuje z niej karty do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zaleca się zachowanie staranności przy wyjmowaniu kart z urny, aby karty do głosowania nie zostały uszkodzone.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W przypadku stwierdzenia, że w urnie znajdują się inne przedmioty niż karty do głosowania (w tym np. czyste kartki papieru), komisja oddziela je od kart do głosowania, a informacje o ich odnalezieniu odnotowuje w punkcie 21 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "52. Komisja wyznaczona do głosowania korespondencyjnego, po otwarciu urny i wyjęciu z niej kart, przystępuje do wykonania zadań określonych w § 2 ust. 6 uchwały, o której mowa w pkt 36, tj. komisja w pierwszej kolejności wyjmuje ze znajdujących się w urnie kopert na kartę do głosowania karty i ustala ich liczbę. Liczba ta powinna odpowiadać liczbie adnotacji w spisie wyborców, potwierdzającej że wyborca głosował korespondencyjnie. Różnica jest możliwa tylko gdy koperta na kartę do głosowania była pusta. Sytuację tę komisja opisuje w protokole głosowania w punkcie „Inne uwagi”. Koperty na kartę do głosowania, z których komisja wyjęła karty, komisja pakuje w pakiet, opisuje go odpowiednio i odkłada. Pakiet ten pozostaje w dokumentacji komisji, która po zakończeniu głosowania przekazywana jest w depozyt konsulowi. Pakiet ten podlega zniszczeniu w terminie i trybie określonym w rozporządzeniu Ministra Kultury i Dziedzictwa Narodowego z dnia 13 listopada 2013 r. w sprawie sposobu przekazywania, przechowywania i udostępniania dokumentów z wyborów (Dz. U. poz. 1488).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "53. Komisja przegląda wszystkie karty i wydziela z nich karty całkowicie przedarte na dwie lub więcej części, których nie bierze się pod uwagę przy obliczeniach.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Karty takie należy zapakować w pakiet, opieczętować go i opisać.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 9 i punktu 16 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja liczy karty wyjęte z urny i ustaloną liczbę wpisuje w punkcie 9 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisje wyznaczone do głosowania korespondencyjnego podają w punkcie 9a protokołu głosowania liczbę kart do głosowania wyjętych z kopert na kartę do głosowania, ustaloną w sposób określony w uchwale, o której mowa w pkt 36.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Liczbę tę należy uwzględnić przy ustalaniu liczby kart wyjętych z urny, o których mowa wyżej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pozostałe komisje wpisują cyfrę „0” w punkcie 9a protokołu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli liczba kart wyjętych z urny (punkt 9 protokołu) pomniejszona o liczbę kart wyjętych z kopert na kartę do głosowania (punkt 9a protokołu) nie jest równa liczbie wyborców, którym wydano karty do głosowania (punkt 4 protokołu), wówczas przypuszczalną przyczynę tego stanu rzeczy należy omówić w punkcie 16 protokołu głosowania. Przyczynę tę należy ustalić po przeliczeniu kart ważnych i nieważnych. Jeżeli różnica nie występuje, w punkcie tym należy wpisać wyrazy „brak uwag”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Analogicznie należy postąpić, jeżeli liczba kart wyjętych z kopert na kartę do głosowania (punkt 9a protokołu) jest większa od liczby kopert na kartę do głosowania wrzuconych do urny (punkt 8e protokołu).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W razie braku miejsca w protokole na opisanie przyczyn rozbieżności należy dokonać tego na oddzielnej kartce, którą załącza się do protokołu. W protokole należy zamieścić informację o sporządzeniu załącznika.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 10 i punktu 17 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "54. Komisja wydziela i liczy karty nieważne (tj. inne niż ustalone urzędowo lub nieopatrzone pieczęcią komisji obwodowej) i ustaloną liczbę wpisuje się w punkcie 10 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Należy uważać, aby omyłkowo w tym punkcie protokołu nie wpisać liczby głosów nieważnych, o których będzie mowa w dalszej części wytycznych. Jeżeli liczba kart nieważnych jest większa niż 0, przypuszczalną przyczynę wystąpienia kart nieważnych należy opisać w punkcie 17 protokołu głosowania. Jeżeli liczba kart nieważnych wynosi 0, w punkcie 10 protokołu należy wpisać „0”, a w punkcie 17 protokołu wyrazy „brak uwag”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Karty nieważne należy zapakować w pakiet, opieczętować je i opisać.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 11 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pozostałe karty są kartami ważnymi i na ich podstawie ustala się wyniki głosowania. Karty ważne należy policzyć i ustaloną liczbę wpisać w punkcie 11 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Suma liczb kart nieważnych (punkt 10 protokołu) i kart ważnych (punkt 11 protokołu) musi być równa liczbie kart wyjętych z urny (punkt 9 protokołu).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 12 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "55. Na podstawie kart ważnych komisja ustala liczbę głosów nieważnych oraz głosów ważnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja jest obowiązana przejrzeć całą kartę do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W trakcie przeglądania kart do głosowania komisja odkłada osobno karty z głosami nieważnymi i osobno karty z głosami ważnymi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Uznania głosu za nieważny komisja dokonuje po okazaniu karty wszystkim członkom komisji uczestniczącym w ustalaniu wyniku głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustalając, czy głos na karcie jest ważny czy nieważny, komisja stosuje poniższe reguły:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– w przypadkach wątpliwych należy przyjmować, że znakiem „x” postawionym w kratce są dwie linie przecinające się, których punkt przecięcia znajduje się w obrębie kratki. Ustalenie, czy znak „x” postawiony jest w kratce, czy poza nią, należy do komisji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– wszelkie znaki, wykreślenia, przekreślenia, w tym również i znak „x” postawiony przez wyborcę poza przeznaczoną na to kratką, traktuje się jako dopiski, które nie wpływają na ważność głosu. Natomiast wszelkie znaki graficzne naniesione w obrębie kratki, w tym w szczególności zamazanie kratki, przekreślenie znaku w kratce itp. powodują nieważność głosu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "56. Wyborca może głosować na jednego kandydata (art. 311 Kodeksu wyborczego).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Za nieważny uznaje się głos, gdy wyborca w kratce na karcie do głosowania:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) postawił znak „x” przy nazwisku więcej niż jednego kandydata;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) nie postawił znaku „x” przy nazwisku żadnego kandydata.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wyodrębnione karty z głosami nieważnymi liczy się i odkłada, a ich liczbę, wpisuje w punkcie 12 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Karty ważne z głosami nieważnymi należy zapakować w pakiet, opieczętować go i opisać „Głosy nieważne z kart ważnych w wyborach Prezydenta Rzeczypospolitej Polskiej – ................”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "57. Jeżeli na karcie do głosowania znajdzie się nazwisko kandydata skreślonego przez Państwową Komisję Wyborczą z listy kandydatów, obwodowa komisja wyborcza, ustalając wyniki głosowania i sporządzając protokół głosowania, postępuje tak, jakby skreślonego nazwiska nie było na karcie do głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oznacza to, że:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) jeżeli na karcie do głosowania znak „x” został postawiony tylko w kratce obok nazwiska skreślonego kandydata, to głos taki uznaje się za nieważny;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) jeżeli na karcie do głosowania znak „x” został postawiony w kratce obok nazwiska skreślonego kandydata i obok nazwiska innego kandydata, to taki głos jest ważny i oddany został na tego innego kandydata; w takim przypadku znak „x” obok nazwiska skreślonego kandydata traktuje się jako dopisek w rozumieniu art. 41 Kodeksu wyborczego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 13 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "58. Pozostałe karty ważne są kartami z głosami ważnymi. Komisja liczy wszystkie głosy ważne oddane na kandydatów i ich liczbę wpisuje w punkcie 13 protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 14 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "59. Komisja ustala – na podstawie kart z głosami ważnymi – liczbę głosów ważnych oddanych na poszczególnych kandydatów na Prezydenta Rzeczypospolitej Polskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustalenia tego komisja dokonuje na przygotowanych wcześniej arkuszach pomocniczych z nazwiskami i imionami wszystkich kandydatów na Prezydenta.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustaloną liczbę głosów ważnych oddanych na poszczególnych kandydatów komisja wpisuje w punkcie 14 protokołu głosowania odpowiednio przy nazwiskach poszczególnych kandydatów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Sumę liczb głosów ważnych oddanych na poszczególnych kandydatów wpisuje się w rubryce „Razem”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Liczba głosów ważnych oddanych na wszystkich kandydatów (rubryka „Razem” punktu 14 protokołu) musi być równa liczbie głosów ważnych (punkt 13 protokołu). Jeżeli występuje rozbieżność, należy poszukać przyczyny błędu i po sprostowaniu obliczeń właściwe liczby wpisać do protokołu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli w okresie po wydrukowaniu kart do głosowania Państwowa Komisja Wyborcza skreśliła z zarejestrowanej listy nazwisko kandydata, skreślone nazwisko kandydata umieszcza się (pozostawia) w odpowiedniej części protokołu głosowania, a w miejscu przeznaczonym na wpisanie liczby głosów wpisuje się „XXXXX”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Po ustaleniu liczby głosów oddanych na poszczególnych kandydatów komisja pakuje w odrębne pakiety karty z głosami oddanymi na każdego kandydata i na każdym pakiecie umieszcza nazwisko kandydata i liczbę oddanych na niego głosów. Pakiety te należy zapakować w zbiorczy pakiet, opieczętować go i opisać „Głosy ważne z kart ważnych w wyborach Prezydenta Rzeczypospolitej Polskiej – ...................”. (liczba)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Następnie komisja wypełnia w pozostałych punktach protokół głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Uwagi do protokołu głosowania wnoszone przez mężów zaufania i członków komisji",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wypełnianie punktu 19 i punktu 20 protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "60. Do każdego protokołu głosowania mogą wnieść uwagi mężowie zaufania obecni przy pracach komisji oraz członkowie komisji uczestniczący w jej pracach. Mąż zaufania, który wniósł uwagę, podpisuje ją w protokole. Uwagi mężów zaufania wpisuje się bezpośrednio do protokołu w punkcie 19. Jeżeli mężowie zaufania nie zgłosili uwag lub nie byli obecni przy sporządzaniu protokołu, w punkcie tym należy wpisać odpowiednio wyrazy „brak zarzutów” lub „brak mężów zaufania w obwodzie”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Uwagi członków komisji wpisuje się bezpośrednio do protokołu w punkcie 20. Członek komisji, który wniósł uwagę, podpisuje ją w protokole. Jeżeli członkowie komisji nie zgłosili uwag, w punkcie tym należy wpisać wyrazy „brak zarzutów”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli treść uwag mężów zaufania albo członków komisji nie mieści się na formularzu, należy dołączyć ją do protokołu, zaznaczając to w odpowiednim punkcie protokołu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja ma obowiązek ustosunkować się do wniesionych zarzutów, załączając do protokołu wyjaśnienia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Sporządzenie protokołu głosowania (informacje ogólne)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "61. Komisja jest obowiązana sporządzić protokół głosowania według wzoru określonego w załączniku nr 1 do uchwały Państwowej Komisji Wyborczej z dnia 26 stycznia 2015 r. w sprawie wzorów protokołów głosowania i protokołu o wynikach głosowania stosowanych w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. (M.P. poz. 159).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "62. Protokół głosowania sporządza się w dostarczonym komisji systemie informatycznym, zatwierdzonym do użytku przez Państwową Komisję Wyborczą. Jeżeli Państwowa Komisja Wyborcza nie zarządziła stosowania systemu informatycznego lub komisja nie ma obsługi informatycznej w swojej siedzibie, albo zachodzą przeszkody w wykorzystaniu systemu informatycznego, protokół głosowania sporządza się ręcznie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Sporządzanie protokołu głosowania w systemie informatycznym",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "63. Sporządzenie protokołu w systemie informatycznym odbywa się w następujący sposób:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) przewodniczący lub zastępca przewodniczącego komisji przekazuje osobie odpowiedzialnej za obsługę informatyczną sporządzony przez komisję projekt protokołu głosowania; osoba ta wprowadza wszystkie dane z projektu protokołu do systemu informatycznego. W trakcie wprowadzania danych system może sygnalizować na ekranie monitora błędy (w kolorze czerwonym) i ostrzeżenia (w kolorze niebieskim). Mimo tej sygnalizacji przygotowane dane liczbowe należy wprowadzić do końca;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w przypadku gdy po wprowadzeniu wszystkich danych liczbowych system sygnalizuje błędy lub ostrzeżenia, należy wydrukować zestawienie błędów. Obowiązkiem komisji jest ustalenie przyczyny błędu i jego usunięcie przez wprowadzenie w odpowiednich rubrykach prawidłowych danych liczbowych, bowiem bez usunięcia błędów protokół nie zostanie wydrukowany. W tym celu komisja powinna przeanalizować treść komunikatu o błędzie, sprawdzić odpowiednie dane liczbowe na arkuszach pomocniczych, sprawdzić prawidłowość działań arytmetycznych, a jeśli to jest konieczne – powtórzyć czynności związane z ustaleniem wyników głosowania. Wydrukowane zestawienie błędów podpisują wszystkie osoby wchodzące w skład komisji obwodowej uczestniczące w ustalaniu wyników głosowania oraz opatruje się je pieczęcią komisji. Dokument ten nie jest przekazywany do okręgowej komisji wyborczej, lecz pozostaje w dokumentacji komisji obwodowej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w przypadku gdy system informatyczny nie sygnalizuje błędów (zostały usunięte lub ich nie było), a jedynie sygnalizuje ostrzeżenia, obowiązkiem komisji jest przeanalizowanie treści ostrzeżeń i – w razie stwierdzenia ich zasadności – dokonanie korekty danych liczbowych. Jeżeli natomiast komisja, po analizie ostrzeżeń, dojdzie do wniosku, że dane liczbowe są prawidłowe, powinna wpisać zajęte stanowisko na wydruku raportu ostrzeżeń. Raport ostrzeżeń podpisują wszystkie osoby wchodzące w skład komisji obwodowej uczestniczące w ustalaniu wyników głosowania oraz opatruje się go pieczęcią komisji. Obwodowa komisja wyborcza przekazuje wraz z protokołem do okręgowej komisji wyborczej podpisany wydruk raportu ostrzeżeń, jeśli aprobowała protokół bez wprowadzania zmian w zakresie sygnalizowanym raportem ostrzeżeń;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) jeśli system informatyczny nie sygnalizował błędów lub zostały one usunięte, drukowany jest protokół głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Awaria drukarki lub inne przeszkody w wydrukowaniu protokołu nie zwalniają komisji posiadającej obsługę informatyczną z obowiązku wprowadzenia do systemu informatycznego danych z protokołu głosowania;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) komisja sprawdza zgodność danych z wydrukowanego protokołu z ustalonymi wynikami głosowania; sprawdzenia dokonuje się poprzez odczytanie na głos danych z wydrukowanego protokołu i porównanie ich z danymi z projektu protokołu przekazanego osobie odpowiedzialnej za obsługę informatyczną komisji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) jeżeli pozwalają na to możliwości techniczne, to osoba odpowiedzialna za obsługę informatyczną komisji dokonuje transmisji danych z protokołu, a przewodniczący komisji lub jego zastępca uwierzytelnia kodem jednorazowym zgodność danych wprowadzonych do systemu informatycznego z danymi zawartymi w protokole przyjętym przez komisję;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) osoba odpowiedzialna za obsługę informatyczną komisji dokonuje zapisu danych z protokołu na nośniku elektronicznym;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) w każdym etapie prac w systemie informatycznym, oprócz osoby odpowiedzialnej za obsługę informatyczną komisji, powinien brać udział przewodniczący komisji lub jego zastępca; przy tych czynnościach mogą być też obecni pozostali członkowie komisji, mężowie zaufania i obserwatorzy międzynarodowi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Podpisywanie protokołu głosowania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "64. Protokół głosowania, w dwóch egzemplarzach, podpisują wszyscy członkowie komisji obecni przy jego sporządzeniu, także ci, którzy wnieśli do niego uwagi. Protokół opatruje się pieczęcią komisji. Powyższe obowiązki dotyczą zarówno komisji, w których protokół został sporządzony w systemie informatycznym, jak i komisji, w których protokół został sporządzony ręcznie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "65. W przypadku komisji, w których protokół został sporządzony ręcznie, bez wykorzystania systemu informatycznego, wszyscy członkowie komisji obecni przy jego sporządzeniu dodatkowo parafują wszystkie strony protokołu (poza stroną, na której składane są podpisy członków komisji) na dole każdej strony.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Podawanie protokołu głosowania do publicznej wiadomości",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "66. Komisja sporządza kopię protokołu głosowania, którą po zabezpieczeniu przed wpływem warunków atmosferycznych (deszcz itp.) wywiesza w miejscu łatwo dostępnym dla zainteresowanych i widocznym po zamknięciu lokalu. Kopia protokołu powinna być wywieszona w taki sposób, żeby możliwe było jej odczytanie także z wózka inwalidzkiego. Wywieszenie kopii protokołu głosowania winno nastąpić niezwłocznie po sporządzeniu protokołu. Poza przypadkami, o których mowa w pkt 37, komisja nie może opuścić lokalu wyborczego przed wywieszeniem kopii protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jako kopię protokołu można wykorzystać wydruki dodatkowego egzemplarza projektu protokołu (w komisjach korzystających ze wspomagania informatycznego), kserokopię protokołu lub kopię sporządzoną odręcznie na formularzu protokołu. Kopię poświadczają za zgodność z oryginałem członkowie komisji obecni przy jej sporządzeniu, podpisując ją, parafując każdą stronę i opatrując ją pieczęcią obwodowej komisji wyborczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W przypadku sprostowań dokonywanych w protokole komisja obowiązana jest niezwłocznie podać, w powyższy sposób, treść sprostowanego protokołu do publicznej wiadomości. W takiej sytuacji na pierwotnie sporządzonym protokole, na pierwszej stronie, należy uczynić adnotację „WADLIWY. PODLEGAŁ SPROSTOWANIU”. Adnotację tę opatrują podpisami wszyscy członkowie komisji obecni przy tej czynności. Adnotację opatruje się pieczęcią. Podaniu do publicznej wiadomości podlegają oba protokoły głosowania (wadliwy i sprostowany).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zainteresowani mężowie zaufania mogą, w miarę możliwości technicznych, otrzymać kopię protokołu głosowania, o czym mowa w pkt 4. Powyższe dotyczy również zainteresowanych członków komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział VII",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przekazanie protokołu głosowania do okręgowej komisji wyborczej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "67. Zasady oraz tryb przekazywania wyników głosowania i protokołów głosowania z obwodów utworzonych za granicą szczegółowo regulują przepisy uchwały Państwowej Komisji Wyborczej z dnia 1 kwietnia 2015 r. w sprawie zasad i trybu przekazywania Okręgowej Komisji Wyborczej Nr 21 w Warszawie wyników głosowania i protokołów głosowania z obwodów utworzonych za granicą w wyborach Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r. (M.P. poz. 345).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "68. Protokół wyników głosowania w obwodzie sporządzony ręcznie bądź w systemie informatycznym komisja niezwłocznie przekazuje elektronicznie w formie skanu bądź, w przypadku braku możliwości technicznych, telefaksem do Okręgowej Komisji Wyborczej Nr 21 w Warszawie, za pośrednictwem konsula. W razie braku możliwości technicznych komisja przekazuje konsulowi dane z protokołu telefonicznie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "69. W razie powołania przez Okręgową Komisję Wyborczą Nr 21 w Warszawie konsula na pełnomocnika, o którym mowa w art. 173 Kodeksu wyborczego, konsul dokonuje sprawdzenia pod względem zgodności arytmetycznej poprawność ustalenia wyników głosowania przez komisje obwodowe.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "70. Jeżeli w wyborach nie był stosowany system informatyczny, pełnomocnik okręgowej komisji wyborczej sprawdza, w sposób wskazany przez okręgową komisję wyborczą, poprawność danych arytmetycznych zawartych w przekazanej przez komisję kopii protokołu głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W przypadku zarządzenia przez Państwową Komisję Wyborczą stosowania systemu informatycznego pełnomocnik wprowadza do systemu wszystkie dane z protokołu głosowania przekazanego przez komisję. Jeżeli po wprowadzeniu przez pełnomocnika danych system sygnalizuje błędy lub ostrzeżenia, należy wydrukować zestawienie błędów, które pełnomocnik przekazuje przewodniczącemu komisji obwodowej w celu usunięcia błędów. Komisja w tym celu stosuje odpowiednio pkt 63 ppkt 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli system sygnalizuje jedynie ostrzeżenia, należy wydrukować raport ostrzeżeń, który pełnomocnik przekazuje przewodniczącemu komisji obwodowej. Do dalszego postępowania stosuje się odpowiednio pkt 63 ppkt 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Poprawienie protokołu przez komisję obwodową może polegać na sporządzeniu nowego protokołu głosowania w obwodzie lub naniesieniu na już sporządzony protokół poprawek i ich parafowaniu przez członków obwodowej komisji wyborczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Protokół zawierający błędy stanowi dokument z głosowania. Jak wskazano w pkt 66, na pierwszej stronie protokołu należy uczynić adnotację „WADLIWY. PODLEGAŁ SPROSTOWANIU”. Adnotację tę opatrują podpisami wszyscy członkowie komisji obecni przy tej czynności. Adnotację opatruje się pieczęcią.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Poprawiony protokół komisja przekazuje ponownie pełnomocnikowi okręgowej komisji wyborczej. Po otrzymaniu poprawionej kopii protokołu pełnomocnik sprawdza, czy błędy usunięto, i potwierdza poprawność ustalonych wyników.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Jeżeli system nie sygnalizował niezgodności arytmetycznych lub zostały one usunięte, pełnomocnik, w miarę możliwości technicznych, przesyła dane z protokołu głosowania do okręgowej komisji wyborczej, a w przypadku obecności podczas transmisji przewodniczący komisji lub jego zastępca uwierzytelnia kodem jednorazowym zgodność danych wprowadzonych do systemu informatycznego z danymi zawartymi w protokole przyjętym przez komisję. W pozostałych przypadkach uwierzytelnienia danych dokonuje konsul.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przy tych czynnościach mogą być obecni wszyscy członkowie komisji, mężowie zaufania i obserwatorzy międzynarodowi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "71. Jeden egzemplarz protokołu głosowania wraz z załączonymi do protokołu ewentualnymi wniesionymi zarzutami mężów zaufania i/lub członków komisji oraz zajętym wobec nich stanowiskiem komisji umieszcza się w kopercie, którą zakleja się, pieczętuje na złączeniach oraz opisuje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„Wybory Prezydenta Rzeczypospolitej Polskiej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– głosowanie w dniu 10 maja 2015 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Obwód głosowania nr ...........................................",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Adres siedziby Obwodowej Komisji Wyborczej ............................................”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "72. Zabezpieczony, w sposób opisany wyżej, protokół komisja przekazuje konsulowi. Ponadto, jeżeli komisja obwodowa miała obsługę informatyczną, w osobnej kopercie przekazuje nośnik elektroniczny oraz raport ostrzeżeń (jeżeli został sporządzony).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział VIII",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Postępowanie z dokumentami z wyborów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "73. Spis wyborców wraz z dołączonymi do niego zaświadczeniami o prawie do głosowania oraz sporządzone wcześniej pakiety zawierające posegregowane karty do głosowania, pakiety zawierające koperty zwrotne (w przypadku komisji wyznaczonych do głosowania korespondencyjnego), a także wszystkie arkusze pomocnicze i niewykorzystane formularze protokołu (także błędnie wypełnione) oraz wadliwie sporządzone protokoły głosowania, pakuje się w zbiorczą paczkę, którą opisuje się, pieczętuje i zabezpiecza przed możliwością niekontrolowanego otwarcia. Pozostałą dokumentację komisji (drugi egzemplarz protokołu głosowania, protokoły posiedzeń, uchwały, zestawienie błędów, drugie egzemplarze raportu ostrzeżeń itp.) komisja pakuje w odrębną paczkę, którą opisuje i pieczętuje.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "74. Przewodniczący obwodowej komisji przekazuje w depozyt konsulowi wszystkie paczki z dokumentami oraz pieczęć komisji. Sposób przekazania należy uzgodnić wcześniej z osobami, którym depozyt jest przekazywany. Dokumenty stanowiące depozyt przechowywane są w konsulacie i mogą być udostępnione wyłącznie na żądanie Sądu Najwyższego, sądów powszechnych, prokuratury i Policji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział IX",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ponowne głosowanie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "75. Ponowne głosowanie przeprowadza się 14. dnia po pierwszym głosowaniu, tj. w dniu 24 maja 2015 r., jeżeli w pierwszym głosowaniu żaden z kandydatów nie uzyskał więcej niż połowy ważnie oddanych głosów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "76. Ponowne głosowanie przeprowadza i ustala jego wyniki w obwodzie ta sama obwodowa komisja wyborcza, która przeprowadziła głosowanie w dniu 10 maja 2015 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "77. Zadania obwodowej komisji wyborczej w zakresie przygotowania i przeprowadzenia ponownego głosowania, ustalenia jego wyników, sporządzenia protokołu głosowania, podania go do publicznej wiadomości i przekazania Okręgowej Komisji Wyborczej Nr 21 w Warszawie są analogiczne, jak te związane z przeprowadzeniem głosowania w dniu 10 maja 2015 r., z zastrzeżeniem pkt 78–80.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "78. Podczas wszystkich czynności komisji w dniu ponownego głosowania w lokalu wyborczym mogą przebywać mężowie zaufania wyznaczeni przez pełnomocników wyborczych (lub osoby przez nich upoważnione) tylko tych komitetów wyborczych, które zgłosiły kandydatów uczestniczących w ponownym głosowaniu. Mężowie zaufania mogą legitymować się upoważnieniami dotyczącymi wyborów przeprowadzanych w dniu pierwszego głosowania. Pełnomocnicy wyborczy, jeżeli zajdzie taka potrzeba, mogą wyznaczyć do pełnienia funkcji męża zaufania nową osobę. Obowiązuje jednak zasada, że każdego kandydata uczestniczącego w ponownym głosowaniu może reprezentować tylko jeden mąż zaufania. Mężowie zaufania danego komitetu wyborczego mogą jednakże zmieniać się w ciągu pracy komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "79. Głosowanie ponowne przeprowadza się na podstawie spisów wyborców sporządzonych przed pierwszym głosowaniem, podlegających aktualizacji polegającej w szczególności na umieszczeniu w spisie osób, które najpóźniej w dniu ponownego głosowania ukończą 18 lat.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komisja otrzyma zaktualizowany, wydrukowany przed ponownym głosowaniem, egzemplarz spisu, na którym w rubryce przeznaczonej do potwierdzania otrzymania karty przez wyborcę wpisana będzie data ponownego głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Obwodowa komisja wyborcza dopisuje do spisu wyborców w dniu ponownego głosowania wyłącznie osoby wskazane w pkt 23, w sposób omówiony w tym punkcie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W czasie ponownego głosowania wyborcy przedkładający zaświadczenie o prawie do głosowania w dniu ponownego głosowania są dopisywani do spisu na podstawie tego zaświadczenia. Komisja, dopisując nazwisko wyborcy w rubryce „Uwagi”, umieszcza adnotację „Z 24.05”. Komisja szczególnie starannie sprawdza, czy przedstawiane przez wyborców zaświadczenia o prawie do głosowania dotyczą ponownego głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "80. Komisja sporządza protokół zgodnie ze wzorem, o którym mowa w pkt 61, umieszczając w prawym górnym rogu protokołu wyraz „PONOWNE”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072. (imię i nazwisko wyborcy) (data głosowania) (miejscowość, data) (podpis) * Niepotrzebne skreślić lub pominąć.”. (liczba)"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "eli": "MP/2016/79",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 13 stycznia 2016 r. w sprawie powołania członków Rady Polityki Pieniężnej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/79/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 stycznia 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania członków Rady Polityki Pieniężnej"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Senat Rzeczypospolitej Polskiej, na podstawie art. 227 ust. 5 Konstytucji Rzeczypospolitej Polskiej oraz art. 13 ust. 1 pkt 2 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036 oraz z 2015 r. poz. 855 i 1513), powołuje w skład Rady Polityki Pieniężnej:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "par_1/tir_1",
+     "text": "Marka ChRzaNoWSKiego",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "par_1/tir_2",
+     "text": "eugeniusza gatNaRa",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "par_1/tir_3",
+     "text": "Jerzego Janusza KRoPiWNiCKiego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Kadencja powołanych członków Rady rozpoczyna się w dniu 25 stycznia 2016 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: S. Karczewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,134 @@
+{
+ "eli": "MP/2022/423",
+ "title": "Zarządzenie nr 96 Prezesa Rady Ministrów z dnia 21 kwietnia 2022 r. zmieniające zarządzenie w sprawie utworzenia Instytutu De Republica",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/423/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 96"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 kwietnia 2022 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie utworzenia Instytutu De Republica"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 12 Prezesa Rady Ministrów z dnia 16 lutego 2021 r. w sprawie utworzenia Instytutu De Republica (M.P. z 2022 r. poz. 384) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 4 dodaje się ust. 4–6 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Dyrektor zawiera umowy cywilnoprawne o wartości przedmiotu umowy powyżej 30 000 zł po uzyskaniu uprzedniej opinii rady naukowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. W przypadku gdy w danym roku kalendarzowym jest zawierana kolejna umowa cywilnoprawna z tym samym podmiotem, podlega ona zaopiniowaniu przez radę naukową niezależnie od wartości przedmiotu tej umowy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Dyrektor sporządza plany wydawnicze Instytutu po uzyskaniu uprzedniej opinii rady naukowej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 7:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. W Instytucie działa rada naukowa pełniąca funkcje kontrolne, opiniodawcze i doradcze.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w ust. 2 pkt 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1) opiniowanie propozycji wydawniczych oraz planów wydawniczych;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "ust. 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Posiedzenia rady naukowej zwołuje, nie rzadziej niż raz w miesiącu, jej przewodniczący, a w przypadku jego nieobecności dyrektor.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 10 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Członkom rady naukowej nie przysługuje dodatkowe wynagrodzenie wypłacane na podstawie umów cywilnoprawnych.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655."
+ }
+}

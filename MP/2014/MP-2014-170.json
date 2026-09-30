@@ -1,0 +1,143 @@
+{
+ "eli": "MP/2014/170",
+ "title": "Komunikat Państwowej Komisji Wyborczej z dnia 24 lutego 2014 r. o liczbie wyborców ujętych w rejestrach wyborców",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/170/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 lutego 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "o liczbie wyborców ujętych w rejestrach wyborców"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 337 § 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]), w związku z wyborami do Parlamentu Europejskiego zarządzonymi na dzień 25 maja 2014 r., Państwowa Komisja Wyborcza ogłasza, że liczba wyborców ujętych w rejestrach wyborców według stanu na dzień 31 grudnia 2013 r. wynosi:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "na terenie całego kraju – 30 568 786 osób;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "na terenie poszczególnych okręgów wyborczych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "Okręgu wyborczego Nr 1 – 1 764 542 osoby,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "Okręgu wyborczego Nr 2 – 1 645 562 osoby,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "Okręgu wyborczego Nr 3 – 2 110 421 osób,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "Okręgu wyborczego Nr 4 – 2 152 846 osób,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "Okręgu wyborczego Nr 5 – 2 020 263 osoby,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_2/lit_f",
+     "text": "Okręgu wyborczego Nr 6 – 2 038 105 osób,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_2/lit_g",
+     "text": "Okręgu wyborczego Nr 7 – 2 716 663 osoby,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_2/lit_h",
+     "text": "Okręgu wyborczego Nr 8 – 1 749 349 osób,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "pkt_2/lit_i",
+     "text": "Okręgu wyborczego Nr 9 – 1 709 330 osób,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "pkt_2/lit_j",
+     "text": "Okręgu wyborczego Nr 10 – 3 679 224 osoby,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "pkt_2/lit_k",
+     "text": "Okręgu wyborczego Nr 11 – 3 680 125 osób,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "l",
+     "path": "pkt_2/lit_l",
+     "text": "Okręgu wyborczego Nr 12 – 3 141 943 osoby,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "pkt_2/lit_m",
+     "text": "Okręgu wyborczego Nr 13 – 2 160 413 osób.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179 i 180."
+ }
+}

@@ -1,0 +1,398 @@
+{
+ "eli": "MP/2024/211",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 13 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/211/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 marca 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 195 Prezesa Rady Ministrów z dnia 5 grudnia 2017 r. w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju (M.P. poz. 1156), z uwzględnieniem zmian wprowadzonych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "zarządzeniem nr 83 Prezesa Rady Ministrów z dnia 12 czerwca 2020 r. zmieniającym zarządzenie w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju (M.P. poz. 516);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "zarządzeniem nr 266 Prezesa Rady Ministrów z dnia 25 sierpnia 2022 r. zmieniającym zarządzenie w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju (M.P. poz. 836).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "§ 2 zarządzenia nr 83 Prezesa Rady Ministrów z dnia 12 czerwca 2020 r. zmieniającego zarządzenie w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju (M.P. poz. 516), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "§ 2 zarządzenia nr 266 Prezesa Rady Ministrów z dnia 25 sierpnia 2022 r. zmieniającego zarządzenie w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju (M.P. poz. 836), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 13 marca 2024 r. (M.P. poz. 211)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 195"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 5 grudnia 2017 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 35a ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2024 r. poz. 324) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "[^1]",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "W skład Komitetu Koordynacyjnego do spraw Polityki Rozwoju, zwanego dalej „Komitetem Koordynacyjnym”, wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_1/ust_1/pkt_1",
+         "text": "przewodniczący – minister właściwy do spraw rozwoju regionalnego, jako przedstawiciel Prezesa Rady Ministrów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_1/ust_1/pkt_2",
+         "text": "wiceprzewodniczący – wyznaczony przez ministra właściwego do spraw rozwoju regionalnego przedstawiciel w randze sekretarza stanu albo podsekretarza stanu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_1/ust_1/pkt_3",
+         "text": "wiceprzewodniczący – wyznaczony przez ministra właściwego do spraw rolnictwa przedstawiciel w randze sekretarza stanu albo podsekretarza stanu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_1/ust_1/pkt_4",
+         "text": "wiceprzewodniczący – Szef Kancelarii Prezesa Rady Ministrów albo wyznaczony przez niego przedstawiciel w randze sekretarza stanu albo podsekretarza stanu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_1/ust_1/pkt_5",
+         "text": "wiceprzewodniczący – wyznaczony przez ministra właściwego do spraw gospodarki przedstawiciel w randze sekretarza stanu albo podsekretarza stanu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_1/ust_1/pkt_6",
+         "text": "pozostali członkowie:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_1/ust_1/pkt_6/lit_a",
+           "text": "minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_1/ust_1/pkt_6/lit_b",
+           "text": "wyznaczeni przez ministrów właściwych kierujących działami administracji rządowej przedstawiciele w randze sekretarza stanu albo podsekretarza stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_1/ust_1/pkt_6/lit_c",
+           "text": "Przewodniczący Komitetu do spraw Pożytku Publicznego,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_1/ust_1/pkt_6/lit_d",
+           "text": "Prezes Głównego Urzędu Statystycznego,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "e",
+           "path": "par_1/ust_1/pkt_6/lit_e",
+           "text": "Prezes Urzędu Ochrony Konkurencji i Konsumentów.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Minister, o którym mowa w ust. 1 pkt 2, 3, 5 oraz pkt 6 lit. b, kierujący więcej niż jednym działem administracji rządowej wyznacza jednego przedstawiciela.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Przewodniczący może zapraszać do udziału w pracach Komitetu Koordynacyjnego inne osoby, jeżeli wymaga tego zakres spraw będących przedmiotem tych prac.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Przewodniczący może powoływać stałe podkomitety albo doraźne zespoły konsultacyjne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Do prac w podkomitetach i zespołach, o których mowa w ust. 1, przewodniczący może zapraszać przedstawicieli strony samorządowej, środowiska akademickiego i partnerów społeczno-gospodarczych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Posiedzenia Komitetu Koordynacyjnego są zwoływane przez przewodniczącego z własnej inicjatywy albo na wniosek co najmniej dwóch członków Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Posiedzenia Komitetu Koordynacyjnego odbywają się w terminach wyznaczonych przez przewodniczącego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "[^2] Obsługę Komitetu Koordynacyjnego, w tym prowadzenie i przechowywanie dokumentacji związanej z pracami Komitetu Koordynacyjnego, zapewnia Sekretariat Komitetu Koordynacyjnego w urzędzie obsługującym ministra właściwego do spraw rozwoju regionalnego, zwany dalej „Sekretariatem”.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Projekty dokumentów przewidziane do rozpatrzenia przez Komitet Koordynacyjny są przesyłane do Sekretariatu drogą elektroniczną, nie później niż na 4 dni robocze przed datą posiedzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Na podstawie dokumentów, o których mowa w ust. 1, Sekretariat przygotowuje porządek obrad, który może być zmieniony lub uzupełniony na posiedzeniu Komitetu Koordynacyjnego przez przewodniczącego z własnej inicjatywy albo na umotywowany wniosek zgłoszony przez członka Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_6/ust_3",
+       "text": "Projekty dokumentów, o których mowa w ust. 1, wraz z zawiadomieniem o posiedzeniu Komitetu Koordynacyjnego i porządkiem obrad, Sekretariat przesyła członkom Komitetu oraz osobom zaproszonym do udziału w jego pracach, nie później niż na 3 dni robocze przed datą posiedzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_6/ust_4",
+       "text": "Projekty dokumentów przesłane do Sekretariatu bez zachowania terminu, o którym mowa w ust. 1, i z naruszeniem terminu, o którym mowa w ust. 3, mogą być rozpatrzone przez Komitet Koordynacyjny na tym posiedzeniu, za zgodą przewodniczącego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Projekty dokumentów i inne sprawy przewidziane do rozpatrzenia na posiedzeniu Komitetu Koordynacyjnego referuje przewodniczący albo wskazany przez niego: członek Komitetu lub osoba zaproszona do prac w Komitecie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Członek Komitetu Koordynacyjnego może zgłaszać uwagi do rozpatrywanych projektów dokumentów lub innych spraw przewidzianych do rozpatrzenia na posiedzeniu Komitetu Koordynacyjnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Po rozpatrzeniu projektu dokumentu lub innej sprawy Komitet Koordynacyjny wydaje opinię.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_7/ust_4",
+       "text": "Komitet Koordynacyjny przyjmuje opinię, o której mowa w ust. 3, w drodze uchwały, większością 2/3 głosów członków Komitetu Koordynacyjnego obecnych na posiedzeniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_7/ust_5",
+       "text": "Z posiedzenia Komitetu Koordynacyjnego Sekretariat sporządza protokół, który po podpisaniu przez przewodniczącego jest przesyłany przez Sekretariat członkom Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "[^3] W czasie nieobecności przewodniczącego jego zadania wykonuje wiceprzewodniczący, o którym mowa w § 1 ust. 1 pkt 2.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "Komitet Koordynacyjny może przyjmować dokumenty w trybie obiegowym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "W przypadku przyjęcia trybu obiegowego zastosowanie mają odpowiednio § 7 ust. 2–5.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "Traci moc zarządzenie nr 59 Prezesa Rady Ministrów z dnia 4 lipca 2012 r. w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[^4].",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "W brzmieniu ustalonym przez § 1 pkt 1 zarządzenia nr 266 Prezesa Rady Ministrów z dnia 25 sierpnia 2022 r. zmieniającego zarządzenie w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju (M.P. poz. 836), które weszło w życie z dniem 30 sierpnia 2022 r.",
+  "2": "W brzmieniu ustalonym przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 1.",
+  "3": "W brzmieniu ustalonym przez § 1 pkt 3 zarządzenia, o którym mowa w odnośniku 1.",
+  "4": "Zarządzenie zostało ogłoszone w dniu 13 grudnia 2017 r."
+ }
+}

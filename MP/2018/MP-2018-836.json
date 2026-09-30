@@ -1,0 +1,310 @@
+{
+ "eli": "MP/2018/836",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 1 sierpnia 2018 r. w sprawie włączenia kwalifikacji rynkowej \"Odzyskiwanie danych z dysków twardych HDD\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/836/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 sierpnia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji rynkowej „Odzyskiwanie danych z dysków twardych HDD” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2017 r. poz. 986 i 1475 oraz z 2018 r. poz. 650) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji rynkowej „Odzyskiwanie danych z dysków twardych HDD” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: M. Zagórski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 1 sierpnia 2018 r. (poz. 836) n r. .",
+   "body": [
+    {
+     "type": "text",
+     "text": "ACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „ODZYSKIWANIE DANYCH Z DYSKÓW TWARDYCH HDD” DO ZINTEGROWANEGO INFORMACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „ODZYSKIWANIE DANYCH Z DYSKÓW TWARDYCH HDD” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "ODZYSKIWANIE DANYCH Z DYSKÓW TWARDYCH HDD"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nazwa dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okres ważności dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 lat. Po tym czasie konieczna jest ponowna weryfikacja efektów uczenia się."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację w zakresie odzyskiwania danych z dysków twardych HDD potrafi samodzielnie przeprowadzać proces diagnozowania nośnika i wykonywać czynności związane z odzyskiwaniem danych z dysku twardego. Wykorzystuje przy tym dogłębną znajomość zagadnień związanych z cyfrowymi nośnikami danych, procedurami i zasadami odzyskiwania danych oraz zabezpieczaniem cyfrowych dowodów. Korzysta przy tym ze specjalistycznego laboratorium wyposażonego w komorę laminarną oraz niezbędny sprzęt lub oprogramowanie do odzyskiwania danych. Aktualizuje swoją wiedzę w zakresie odzyskiwania danych z dysków twardych oraz podejmuje decyzje w zakresie planu i warunków realizacji zadań własnych i zarządzanego zespołu oraz doboru odpowiednich rozwiązań organizacyjnych i technicznych. Osoba posiadająca kwalifikację samodzielnie decyduje o zakupie sprzętu i oprogramowania do odzyskiwania danych. Posiadanie kwalifikacji na tym poziomie pozwala zarówno na wykorzystywanie istniejących metod i wzorców, jak i na poszukiwanie i wprowadzanie własnych rozwiązań."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Przeprowadzanie wywiadu z klientem i wstępna ocena sytuacji"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "– wymienia działania związane z odzyskiwaniem danych, niezgodne z zasadami etycznymi; Dokonuje etycznej oceny – wymienia możliwe konsekwencje dla klienta, siebie oraz stron trzecich wynikające z nieetycznych działań związanych sytuacji z odzyskiwaniem danych."
+      },
+      {
+       "type": "text",
+       "text": "– rozróżnia rodzaje uszkodzeń fizycznych dysku twardego; Formułuje hipotezy – wymienia zagrożenia związane z niezachowywaniem bezpieczeństwa informatycznego; dotyczące uszkodzeń – omawia działania naruszające zasady bezpieczeństwa informatycznego; dysku twardego HDD lub – wskazuje zależności między warunkami, w jakich pracował twardy dysk, oraz zdarzeniami, które mogły wpłynąć na jego utraty danych uszkodzenie, a rodzajami uszkodzeń dysku twardego;"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje zależności między działaniami naruszającymi bezpieczeństwo informatyczne a utratą danych."
+      },
+      {
+       "type": "text",
+       "text": "– zadaje klientowi pytania o warunki, w jakich pracował dysk twardy HDD;"
+      },
+      {
+       "type": "text",
+       "text": "– zadaje klientowi pytania o zdarzenia, które mogły wpłynąć na uszkodzenie dysku twardego HDD, uwzględniając warunki Uzyskuje informacje od pracy dysku; klienta – formułuje pytania o dane, jakie klient chce odzyskać, oraz o to, które dane należy traktować jako priorytetowe;"
+      },
+      {
+       "type": "text",
+       "text": "– sporządza notatkę zawierającą informacje o warunkach i zdarzeniach, które mogły mieć wpływ na stan dysku twardego HDD, oraz danych, które chce odzyskać klient."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Diagnozowanie uszkodzeń"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Rozpoznaje rodzaje – nazywa różne rodzaje dysków twardych; dysków twardych HDD – omawia różnice między różnymi rodzajami dysków twardych; i rodzaje uszkodzeń – charakteryzuje rodzaje uszkodzeń fizycznych i logicznych dysków twardych."
+      },
+      {
+       "type": "text",
+       "text": "– ocenia stan zewnętrznej obudowy dysku twardego;"
+      },
+      {
+       "type": "text",
+       "text": "– omawia metody diagnozowania dysku twardego za pomocą różnych narzędzi, zwłaszcza miernika elektronicznego, mikroskopu i terminala; Rozpoznaje stan dysku – omawia zasady doboru narzędzi do rodzaju uszkodzenia; twardego HDD – ustala stan elektroniki zewnętrznej dysku twardego za pomocą miernika elektronicznego;"
+      },
+      {
+       "type": "text",
+       "text": "– ustala stan elementów wewnętrznych dysku twardego w komorze laminarnej oraz za pomocą mikroskopu;"
+      },
+      {
+       "type": "text",
+       "text": "– analizuje dysk twardy za pomocą terminala do badania uszkodzeń fizycznych dysków twardych;"
+      },
+      {
+       "type": "text",
+       "text": "– ocenia stan struktury logicznej."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Omijanie uszkodzeń"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "– czyści powierzchnię magnetyczną dysku twardego; Poprawia stan fizyczny – przywraca działanie wybranych modułów obszaru serwisowego za pomocą specjalistycznych narzędzi programowodysku twardego HDD -sprzętowych."
+      },
+      {
+       "type": "text",
+       "text": "Poprawia stan logiczny – odbudowuje strukturę logiczną systemu plików w celu uzyskania spójnej pierwotnej struktury danych; dysku twardego HDD – skanuje dane użytkownika zapisane na dysku twardym."
+      },
+      {
+       "type": "text",
+       "text": "Wymienia uszkodzone – dobiera dyski o odpowiedniej specyfikacji, aby mogły być źródłem potrzebnych elementów; elementy dysku twardego – wymienia uszkodzone elementy z zakresu elektroniki zewnętrznej dysku twardego; HDD – wymienia zespoły głowic oraz talerze dysku twardego i inne komponenty."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 4. Odzyskiwanie danych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Kopiuje sektory nośnika – sporządza kopie binarne sektorów nośnika; HDD i dane – kopiuje dane na inny dysk twardy."
+      },
+      {
+       "type": "text",
+       "text": "– lokalizuje niestandardowe pliki po ich sygnaturach; – odczytuje BAD sektory (sektory uszkodzone); Odzyskuje dane – wydobywa dane z macierzy RAID (macierzy dysków HDD, których działanie polega na współpracy dwóch lub więcej dysków twardych w taki sposób, aby zapewnić dodatkowe możliwości, nieosiągalne przy użyciu jednego dysku); – stosuje niekomercyjne i komercyjne narzędzia do odzyskiwania danych."
+      },
+      {
+       "type": "text",
+       "text": "Rozpoznaje stan – ustala położenie danych na obszarach przydzielonych do głowic dysku twardego HDD; i położenie danych – ustala stan danych, stosując zarówno niekomercyjne, jak i komercyjne narzędzia do odzyskiwania danych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 5. Weryfikacja odzyskanych danych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Ustala możliwości – naprawia pliki niesprawne za pomocą dostępnych narzędzi przeznaczonych do konkretnego rodzaju danych; odczytania plików na – tworzy raport wyników prac procesu odzyskiwania danych; komputerach osobistych – odtwarza pliki w formacie, który klient może odczytać."
+      },
+      {
+       "type": "text",
+       "text": "Ustala stan odzyskanych – sprawdza spójność skopiowanych danych; danych – tworzy raporty plików z uszkodzonymi sektorami."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dotyczące walidacji i podmiotów przeprowadzających walidację",
+     "children": [
+      {
+       "type": "text",
+       "text": "Instytucja prowadząca proces walidacji powinna zapewniać wsparcie kandydatów w zakresie identyfikowania (na podstawie dowolnych metod) oraz dokumentowania posiadanych efektów uczenia się. Korzystanie z tego wsparcia nie jest obowiązkowe. Pomoc ta może być bezpłatna lub odpłatna."
+      },
+      {
+       "type": "text",
+       "text": "Metody stosowane w walidacji"
+      },
+      {
+       "type": "text",
+       "text": "Weryfikacja składa się z dwóch części: testu wiedzy oraz testu praktycznego. Zaliczenie testu wiedzy jest warunkiem przystąpienia do części praktycznej. Do zweryfikowania efektów uczenia się ujętych w zestawach 1–5 zastosowanie mają jedynie następujące metody: test wiedzy połączony z symulacją albo test wiedzy połączony z analizą dowodów i rozmową z kandydatem."
+      },
+      {
+       "type": "text",
+       "text": "Zasoby kadrowe – wymagania kompetencyjne w stosunku do osób przeprowadzających walidację"
+      },
+      {
+       "type": "text",
+       "text": "W procesie walidacji biorą udział:"
+      },
+      {
+       "type": "text",
+       "text": "− komisja weryfikacyjna; − konsultant walidacyjny, jeśli kandydat zwróci się o jego wsparcie; − w przypadku stosowania metody analizy dowodów na etapie weryfikacji – doradca walidacyjny, którego wsparcie zapewnia instytucja."
+      },
+      {
+       "type": "text",
+       "text": "Komisja weryfikacyjna składa się z minimum 2 członków, z których przynajmniej jeden spełnia poniższe wymagania:"
+      },
+      {
+       "type": "text",
+       "text": "− posiada minimum trzyletnie doświadczenie na stanowisku specjalisty ds. odzyskiwania danych lub równoważnym; − posiada udokumentowane doświadczenie w weryfikowaniu efektów uczenia się w kwalifikacji o zbliżonym charakterze; − przedstawi zaświadczenie o niekaralności."
+      },
+      {
+       "type": "text",
+       "text": "Zadaniem konsultanta walidacyjnego jest udzielanie zainteresowanym kandydatom informacji w całym procesie walidacji. Od konsultanta walidacyjnego wymaga się:"
+      },
+      {
+       "type": "text",
+       "text": "− znajomości opisu niniejszej kwalifikacji oraz wiedzy na temat kwalifikacji pokrewnych do niniejszej kwalifikacji; − znajomości założeń Zintegrowanego Systemu Kwalifikacji; − umiejętności komunikacyjnych na wysokim poziomie."
+      },
+      {
+       "type": "text",
+       "text": "Zadaniem doradcy walidacyjnego jest wsparcie kandydata w procesie identyfikowania oraz dokumentowania efektów uczenia sią, które mogą zostać potwierdzone metodą analizy dowodów. Doradca walidacyjny powinien:"
+      },
+      {
+       "type": "text",
+       "text": "− posiadać doświadczenie zawodowe na stanowisku specjalisty ds. odzyskiwania danych lub równoważnym; − umieć stosować metody i narzędzia pomocne przy identyfikowaniu i dokumentowaniu kompetencji; − znać zasady weryfikacji dowodów na osiągnięcie efektów uczenia się; − znać wymagane efekty uczenia się oraz kryteria weryfikacji ustalone dla niniejszej kwalifikacji."
+      },
+      {
+       "type": "text",
+       "text": "Sposób prowadzenia walidacji oraz warunki organizacyjne i materialne niezbędne do prawidłowego prowadzenia walidacji"
+      },
+      {
+       "type": "text",
+       "text": "Postępowanie przed komisją weryfikacyjną musi trwać od 3 do 8 godzin i odbywać się w profesjonalnym laboratorium, w którym znajdują się:"
+      },
+      {
+       "type": "text",
+       "text": "− minimum 1 komora laminarna; − baza dawców części zamiennych wystarczająca do przeprowadzenia postępowania przed komisją weryfikacyjną; − urządzenie umożliwiające klonowanie lub obrazowanie dysków twardych z uszkodzoną powierzchnią magnetyczną, dające możliwość aproksymowania wartości poszczególnych sektorów; − urządzenie umożliwiające dostęp i naprawę obszaru serwisowego, ekstrakcję danych z omijaniem uszkodzonych sektorów oraz pominięciem uszkodzonej głowicy; − lutownica IRDA, HotAir; − mikroskop; − kompresor bezolejowy 2–4 bar."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na dziesięć lat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 761)."
+ }
+}

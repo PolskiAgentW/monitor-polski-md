@@ -1,0 +1,355 @@
+{
+ "eli": "MP/2015/657",
+ "title": "Zarządzenie nr 60 Prezesa Rady Ministrów z dnia 23 lipca 2015 r. w sprawie powołania Komitetu Sterującego do spraw inicjatywy \"Obywatel\"",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/657/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 60"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 lipca 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie powołania Komitetu Sterującego do spraw inicjatywy „Obywatel”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 2 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "1 Tworzy się Komitet Sterujący do spraw inicjatywy „Obywatel”, zwany dalej „Komitetem”.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Komitet jest organem pomocniczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Komitetu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "określanie kierunku prowadzonych prac w celu realizacji inicjatywy „Obywatel”, w ramach następujących działań:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "przygotowanie i wdrożenie rozszerzonego serwisu informacyjnego „Portal obywatel.gov.pl”, jego rozwój i utrzymanie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "utworzenie systemu „Informacja dla obywatela”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_1/lit_c",
+       "text": "przygotowanie rekomendacji w zakresie doskonalenia sposobu prowadzenia korespondencji z obywatelami;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "nadzór nad realizacją inicjatywy „Obywatel”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W celu realizacji zadań Komitetu przewodniczący może:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "tworzyć zespoły i grupy robocze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "korzystać z pomocy doradców i ekspertów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W skład Komitetu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "przewodniczący, reprezentujący Szefa Kancelarii Prezesa Rady Ministrów – Szef Służby Cywilnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "wiceprzewodniczący – sekretarz stanu, podsekretarz stanu albo dyrektor generalny Kancelarii Prezesa Rady Ministrów wyznaczony przez Szefa Kancelarii Prezesa Rady Ministrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "po jednym przedstawicielu, w randze sekretarza stanu albo podsekretarza stanu albo zajmującym stanowisko dyrektora generalnego, wyznaczonym przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_1/pkt_3/lit_a",
+         "text": "ministra właściwego do spraw wewnętrznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_1/pkt_3/lit_b",
+         "text": "ministra właściwego do spraw informatyzacji.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Osoby, o których mowa w ust. 1 pkt 2 i 3, mogą być zastępowane w pracach Komitetu przez upoważnionych, przez te osoby, przedstawicieli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Pracami Komitetu kieruje przewodniczący, a w przypadku jego nieobecności pracami Komitetu kieruje wiceprzewodniczący.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Do zadań przewodniczącego należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "zwoływanie posiedzeń Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "przewodniczenie posiedzeniom Komitetu i kierowanie jego pracami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "ustalanie terminów i programu kolejnych posiedzeń Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przewodniczący może zapraszać do udziału w pracach Komitetu, z głosem doradczym, osoby niebędące członkami Komitetu, w szczególności ekspertów reprezentujących Centralny Ośrodek Informatyki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Posiedzenia Komitetu przygotowuje i obsługuje sekretarz Komitetu, będący przedstawicielem Departamentu Służby Cywilnej w Kancelarii Prezesa Rady Ministrów, wyznaczonym przez Szefa Służby Cywilnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Komitet podejmuje decyzje w formie uchwał na posiedzeniach. Uchwały są podejmowane zwykłą większością głosów w obecności co najmniej połowy członków Komitetu lub ich upoważnionych przedstawicieli. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Uzgodnione projekty uchwał mogą być też poddane pod głosowanie w trybie obiegowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Protokół z posiedzenia Komitetu sporządza sekretarz Komitetu. Protokół podpisuje przewodniczący Komitetu oraz sekretarz Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W terminie do 15 grudnia każdego roku, przewodniczący Komitetu przedstawia Prezesowi Rady Ministrów sprawozdanie z realizacji działań, o których mowa w § 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "podsumowanie prac zrealizowanych w ramach działań, o których mowa w § 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "podsumowanie kosztów realizacji działań, o których mowa w § 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_2/pkt_3",
+       "text": "proponowane kierunki rozwoju w odniesieniu do działań, o których mowa w § 2, w tym harmonogram prac i szacowane koszty.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Organy administracji rządowej na wniosek przewodniczącego współuczestniczą w zakresie swoich właściwości w realizacji zadań Komitetu, o których mowa w § 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Obsługę techniczno-organizacyjną Komitetu zapewnia Departament Służby Cywilnej w Kancelarii Prezesa Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Udział w pracach Komitetu jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Komitet tworzy się na okres realizacji działań, o których mowa w § 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Przewodniczący przedstawi Prezesowi Rady Ministrów końcowe sprawozdanie z realizacji zadań Komitetu, o których mowa w § 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: E. Kopacz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

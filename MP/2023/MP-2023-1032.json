@@ -1,0 +1,345 @@
+{
+ "eli": "MP/2023/1032",
+ "title": "Uchwała nr 169/2023 Państwowej Komisji Wyborczej z dnia 11 września 2023 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/1032/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 169/2023"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 września 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 53j § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2022 r. poz. 1277 i 2418 oraz z 2023 r. poz. 497) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uchwała określa sposób postępowania z:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej do zakończenia głosowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "kopertami zwrotnymi dostarczonymi do obwodowej komisji wyborczej po zakończeniu głosowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "kopertami zwrotnymi zawierającymi niezaklejone koperty na kartę lub karty do głosowania, zwane dalej „kopertami na kartę do głosowania”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "kopertami zwrotnymi niezawierającymi podpisanego oświadczenia o osobistym i tajnym oddaniu głosu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "pakietami wyborczymi nieodebranymi przez wyborcę niepełnosprawnego, wyborcę, który najpóźniej w dniu głosowania kończy 60 lat, oraz wyborcę podlegającego w dniu głosowania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– w głosowaniu korespondencyjnym."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Koperty zwrotne, dostarczone do obwodowej komisji wyborczej do zakończenia głosowania, komisja otwiera niezwłocznie po dostarczeniu i sprawdza, czy w kopercie zwrotnej znajduje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "podpisane przez wyborcę oświadczenie o osobistym i tajnym oddaniu głosu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "zaklejona koperta na kartę do głosowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jeżeli spełnione są warunki, o których mowa w ust. 1, obwodowa komisja wyborcza:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "porównuje imię i nazwisko wyborcy oraz numer PESEL zawarty w oświadczeniu o osobistym i tajnym oddaniu głosu z danymi zawartymi w spisie wyborców. Jeżeli dane się zgadzają, członek komisji odnotowuje w rubryce spisu „Uwagi”, odpowiadającej pozycji, pod którą przy nazwisku wyborcy umieszczono informację o wysłaniu pakietu wyborczego, że wyborca głosował korespondencyjnie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "zaklejoną kopertę na kartę do głosowania wrzuca do urny wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "oświadczenie o osobistym i tajnym oddaniu głosu dołącza do spisu wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "puste koperty zwrotne pakuje w pakiet, opisuje i odkłada; pakiet ten pozostaje w dokumentacji komisji, która po zakończeniu głosowania przekazywana jest w depozyt urzędnikowi wyborczemu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "w kopercie zwrotnej nie było oświadczenia o osobistym i tajnym oddaniu głosu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "oświadczenie o osobistym i tajnym oddaniu głosu nie było podpisane przez wyborcę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "w kopercie zwrotnej nie było koperty na kartę do głosowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_3/pkt_4",
+       "text": "koperta na kartę do głosowania była niezaklejona",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– obwodowa komisja wyborcza odkłada kopertę zwrotną wraz z zawartością, segregując odłożone koperty według naruszeń powyższych warunków. Kopert tych obwodowa komisja wyborcza nie bierze pod uwagę przy ustalaniu wyników głosowania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Obwodowa komisja wyborcza pakuje koperty wraz z kartami w osobne pakiety, według naruszeń warunków określonych w ust. 3, opisuje je i odkłada.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Jeżeli wyborca, którego koperta zwrotna została doręczona do obwodowej komisji wyborczej, nie jest ujęty w spisie wyborców, komisja jest obowiązana wyjaśnić telefonicznie w dziale ewidencji ludności urzędu gminy przyczynę nieumieszczenia wyborcy w spisie wyborców. Jeżeli urząd gminy potwierdzi, że nieumieszczenie wyborcy w spisie wynika z omyłki, komisja dopisuje wyborcę do spisu wyborców na dodatkowym formularzu spisu. Członek komisji, który otrzymał potwierdzenie z urzędu gminy, sporządza notatkę w tej sprawie, którą dołącza się do spisu wyborców. Analogicznie komisja postępuje w przypadku, gdy dane wyborcy wpisane na oświadczeniu o osobistym i tajnym oddaniu głosu nie zgadzają się z danymi w spisie wyborców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Obwodowa komisja wyborcza odkłada w jeden odrębny pakiet:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_6/pkt_1",
+       "text": "koperty zwrotne, w których znajdowało się oświadczenie o osobistym i tajnym oddaniu głosu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_6/pkt_1/lit_a",
+         "text": "wyborcy nieujętego w spisie wyborców, o ile pominięcie w spisie wyborców nie wynikało z omyłki podczas jego sporządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_6/pkt_1/lit_b",
+         "text": "zawierające dane wyborcy niezgadzające się z danymi w spisie wyborców, o ile nie wynikało to z omyłki podczas jego sporządzenia lub sporządzania oświadczenia;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_6/pkt_2",
+       "text": "koperty zwrotne, w których znajdowała się więcej niż jedna koperta na kartę do głosowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Kopert tych obwodowa komisja wyborcza nie bierze pod uwagę przy ustalaniu wyników głosowania."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Wykonując czynności, o których mowa w uchwale, obwodowa komisja wyborcza na bieżąco ustala:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "liczbę otrzymanych kopert zwrotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "liczbę kopert zwrotnych, w których nie było oświadczenia o osobistym i tajnym oddaniu głosu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "liczbę kopert zwrotnych, w których oświadczenie o osobistym i tajnym oddaniu głosu nie było podpisane przez wyborcę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "liczbę kopert zwrotnych, w których znajdowała się niezaklejona koperta na kartę do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "liczbę kopert zwrotnych, w których nie było koperty na kartę do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "liczbę kopert na kartę do głosowania wrzuconych do urny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W przypadku gdy informacje, o których mowa w ust. 1 pkt 2–5, dotyczą jednej koperty zwrotnej, należy je uwzględnić w każdym z tych punktów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Otrzymanych przez komisję pustych kopert zwrotnych oraz kopert, o których mowa w § 2 ust. 6, nie uwzględnia się przy dokonywaniu ustaleń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Dane, o których mowa w ust. 1, muszą być na bieżąco zapisywane na arkuszu pomocniczym prowadzonym przez wskazanego członka komisji pod nadzorem przewodniczącego lub zastępcy przewodniczącego komisji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Dostarczone obwodowej komisji wyborczej pakiety wyborcze nieodebrane przez wyborcę komisja pakuje w pakiet, opisuje i odkłada. Pakiet ten pozostaje w dokumentacji komisji, która po zakończeniu głosowania przekazywana jest w depozyt urzędnikowi wyborczemu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przepis § 4 stosuje się odpowiednio do kopert zwrotnych doręczonych do obwodowej komisji wyborczej po zakończeniu głosowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S. Marciniak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Niniejsza uchwała była poprzedzona uchwałą nr 212/2020 Państwowej Komisji Wyborczej z dnia 18 sierpnia 2020 r. w sprawie sposobu postępowania z kopertami zwrotnymi i pakietami wyborczymi w głosowaniu korespondencyjnym (M.P. poz. 789), która utraciła moc z dniem 31 marca 2023 r. na podstawie art. 1 pkt 11 ustawy z dnia 26 stycznia 2023 r. o zmianie ustawy – Kodeks wyborczy oraz niektórych innych ustaw (Dz. U. poz. 497)."
+ }
+}

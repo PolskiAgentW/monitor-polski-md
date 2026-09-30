@@ -1,0 +1,100 @@
+{
+ "eli": "MP/2012/905",
+ "title": "Zarządzenie Nr 104 Prezesa Rady Ministrów z dnia 29 listopada 2012 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/905/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 104"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 listopada 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 106 Prezesa Rady Ministrów z dnia 28 grudnia 2011 r. w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego (M.P. Nr 118, poz. 1195) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "pkt 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) Departament Organizacji Szkolnictwa Wyższego, Kontroli i Nadzoru;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "uchyla się pkt 5;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3 pkt 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2) w zakresie działu szkolnictwo wyższe:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Organizacji Szkolnictwa Wyższego, Kontroli i Nadzoru,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Strategii.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,107 @@
+{
+ "eli": "MP/2018/1286",
+ "title": "Obwieszczenie Ministra Finansów z dnia 21 grudnia 2018 r. w sprawie ogłoszenia rodzaju bazowej stopy procentowej i marży dla potrzeb cen transferowych w zakresie podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/1286/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 grudnia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia rodzaju bazowej stopy procentowej i marży dla potrzeb cen transferowych w zakresie podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 23s ust. 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm.[^2]) i art. 11g ust. 4 z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2018 r. poz. 1036, z późn. zm.[^3]) ogłasza się, że od 1 stycznia 2019 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "rodzaj bazowej stopy procentowej dla pożyczek:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "w złotych – stanowi WIBOR 3M, będący referencyjną wysokością oprocentowania kredytów w złotych o trzymiesięcznym okresie zapadalności na polskim rynku międzybankowym,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "w dolarach amerykańskich – stanowi LIBOR USD 3M, będący referencyjną wysokością oprocentowania kredytów w dolarach amerykańskich o trzymiesięcznym okresie zapadalności na rynku międzybankowym w Londynie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "w euro – stanowi EURIBOR 3M, będący referencyjną wysokością oprocentowania kredytów w euro o trzymiesięcznym okresie zapadalności na europejskim rynku międzybankowym,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "we frankach szwajcarskich – stanowi LIBOR CHF 3M, będący referencyjną wysokością oprocentowania kredytów we frankach szwajcarskich o trzymiesięcznym okresie zapadalności na rynku międzybankowym w Londynie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_1/lit_e",
+     "text": "w funtach brytyjskich – stanowi LIBOR GBP trzymiesięczny, będący referencyjną wysokością oprocentowania kredytów w funtach brytyjskich o trzymiesięcznym okresie zapadalności na rynku międzybankowym w Londynie;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "marża:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "wynosi 2 punkty procentowe,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "stanowi sumę wartości bezwzględnej bazowej stopy procentowej i wartości określonej w lit. a, w przypadku gdy wartość bazowej stopy procentowej określonej w pkt 1 jest mniejsza od zera",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– i jest marżą maksymalną dla pożyczkobiorcy i minimalną dla pożyczkodawcy."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: wz. T. Robaczyński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 10 stycznia 2018 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 92).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246 i 2429.",
+  "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1162, 1291, 1629, 1669, 1693, 2073, 2159, 2192, 2193, 2212, 2215, 2243, 2244, 2245, 2429 i 2500."
+ }
+}

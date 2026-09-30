@@ -1,0 +1,92 @@
+{
+ "eli": "MP/2013/978",
+ "title": "Komunikat Ministra Nauki i Szkolnictwa Wyższego z dnia 26 listopada 2013 r. o zmianie zasad finansowania programu pod nazwą \"Ideas Plus\"",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/978/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KomuniKat"
+  },
+  {
+   "type": "text",
+   "text": "Ministra nauki i szkolnictwa wyższego[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 listopada 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie zasad finansowania programu pod nazwą „ideas Plus”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. Nr 96, poz. 615, z późn. zm.[^2]) ogłasza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Z dniem 29 listopada 2013 r. wprowadza się następujące zmiany zasad finansowania programu pod nazwą „Ideas Plus”[^3]:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "składanie wniosków o przyznanie środków finansowych w ramach programu następuje w trybie naboru ciągłego;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "minister właściwy do spraw nauki ogłosi, w Biuletynie Informacji Publicznej na swojej stronie podmiotowej, nabór wniosków w ramach programu, określając:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "datę rozpoczęcia naboru i miejsce składania wniosków,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "warunki ubiegania się o przyznanie środków finansowych w ramach programu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "kryteria i tryb oceny wniosków,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "wzór wniosku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "wykaz dokumentów, które należy dołączyć do wniosku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Nauki i Szkolnictwa Wyższego: B. Kudrycka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. Nr 248, poz. 1483).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 84, poz. 455 i Nr 185, poz. 1092 oraz z 2013 r. poz. 675.",
+  "3": "Program pod nazwą „Ideas Plus” został ustanowiony z dniem 8 listopada 2010 r. Komunikat Ministra Nauki i Szkolnictwa Wyższego z dnia 5 listopada 2010 r. o ustanowieniu programu pod nazwą „Ideas Plus” został ogłoszony w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” z dnia 17 listopada 2010 r. (M.P. Nr 86, poz. 1011)."
+ }
+}

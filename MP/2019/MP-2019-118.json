@@ -1,0 +1,186 @@
+{
+ "eli": "MP/2019/118",
+ "title": "Zarządzenie nr 6 Prezesa Rady Ministrów z dnia 22 stycznia 2019 r. w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/118/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 6"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 stycznia 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392, z 2015 r. poz. 1064 oraz z 2018 r. poz. 1669) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Nauki i Szkolnictwa Wyższego nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie nr 12 Prezesa Rady Ministrów z dnia 26 stycznia 2016 r. w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego (M.P. poz. 92).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 lutego 2019 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 6 Prezesa Rady Ministrów z dnia 22 stycznia 2019 r. (poz. 118)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA NAUKI I SZKOLNICTWA WYŻSZEGO"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Nauki i Szkolnictwa Wyższego, zwane dalej „Ministerstwem”, zapewnia obsługę Ministra Nauki i Szkolnictwa Wyższego, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 2317 oraz z 2018 r. poz. 1998), do spraw objętych działem administracji rządowej – szkolnictwo wyższe i nauka.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa wchodzi Gabinet Polityczny Ministra oraz następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Departament Budżetu i Finansów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Departament Innowacji i Rozwoju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "Departament Legislacyjno-Prawny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Departament Nauki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "Departament Szkolnictwa Wyższego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "Departament Współpracy Międzynarodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "Biuro Dyrektora Generalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "Biuro Kontroli i Audytu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "Biuro Ministra;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/pkt_10",
+       "text": "Biuro Programów i Przedsięwzięć Ministra.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra w zakresie działu administracji rządowej – szkolnictwo wyższe i nauka zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "Departament Innowacji i Rozwoju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "Departament Nauki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "Departament Szkolnictwa Wyższego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Bezpośredni nadzór nad Gabinetem Politycznym Ministra sprawuje Minister.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

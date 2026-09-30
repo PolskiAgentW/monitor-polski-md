@@ -1,0 +1,210 @@
+{
+ "eli": "MP/2016/479",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 19 maja 2016 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/479/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "uchwała"
+  },
+  {
+   "type": "text",
+   "text": "senatu rzeczypospolitej polskiej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 maja 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany regulaminu senatu"
+  },
+  {
+   "type": "text",
+   "text": "art. 1. W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2015 r. poz. 805 i 1129 oraz z 2016 r. poz. 442) wprowadza się następujące zmiany:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w art. 92:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Senat wybiera dwóch senatorów do składu Krajowej Rady Sądownictwa.”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "w ust. 2 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) dwóch członków Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Uchwały w sprawach określonych w ust. 1 i ust. 2 pkt 1 i 2 Senat podejmuje bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby senatorów.”;",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w art. 93 ust. 1 i 2 otrzymują brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„1. Wniosek w sprawie wyboru lub powołania poszczególnych osób na stanowiska państwowe określone w art. 92 ust. 1 i 2 może zgłosić grupa co najmniej 7 senatorów.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Senator może udzielić poparcia co najwyżej dwóm kandydatom do Krajowej Rady Sądownictwa, jednemu kandydatowi do Krajowej Rady Radiofonii i Telewizji, trzem kandydatom do Rady Polityki Pieniężnej oraz jednemu kandydatowi do Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w art. 94 w ust. 2:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1) przed upływem kadencji organów lub członków organów, o których mowa w art. 92 ust. 1 i 2,”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) od dnia rozpoczęcia pierwszego posiedzenia Senatu – w stosunku do kandydatów na członków Krajowej Rady Sądownictwa.”;",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "w art. 95:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "w ust. 2 zdanie pierwsze otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Jeżeli w głosowaniu żaden z kandydatów na stanowiska państwowe określone w art. 92 ust. 1 i ust. 2 pkt 1 i 2 nie uzyska wymaganej większości głosów, przeprowadza się kolejne tury głosowania z wyłączeniem kandydata, który w danej turze uzyskał najmniejszą liczbę głosów.”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "w ust. 3 zdanie pierwsze otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Jeżeli w głosowaniu nie dokonano wyboru lub powołania wymaganej liczby członków organów państwowych, o których mowa w art. 92 ust. 1 i 2, senatorom przysługuje prawo ponownego zgłaszania kandydatur w terminie 7 dni od daty głosowania.”;",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "uchyla się art. 95a;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "w art. 96:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_6/lit_a",
+     "text": "uchyla się ust. 1,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_6/lit_b",
+     "text": "ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Do postępowania w sprawie projektu uchwały, o którym mowa w ust. 2, przepisy art. 94 ust. 3 i 4 oraz art. 95 ust. 1 stosuje się odpowiednio.”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "art. 2. Marszałek Senatu ustali i poda do wiadomości senatorów początek i koniec terminu na składanie wniosków w sprawie powołania członków Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, tak aby okres składania wniosków był nie krótszy niż 14 dni."
+      },
+      {
+       "type": "text",
+       "text": "art. 3. Uchwała wchodzi w życie z dniem wejścia w życie ustawy z dnia 29 kwietnia 2016 r. o zmianie ustawy o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz niektórych innych ustaw (Dz. U. poz. 749), z wyjątkiem art. 1 pkt 1 lit. a, pkt 3 lit. b i pkt 6, które wchodzą w życie z dniem podjęcia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: S. Karczewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

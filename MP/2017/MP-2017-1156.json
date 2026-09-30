@@ -1,0 +1,381 @@
+{
+ "eli": "MP/2017/1156",
+ "title": "Zarządzenie nr 195 Prezesa Rady Ministrów z dnia 5 grudnia 2017 r. w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/1156/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 195"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 grudnia 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 35a ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2017 r. poz. 1376 i 1475) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W skład Komitetu Koordynacyjnego do spraw Polityki Rozwoju, zwanego dalej „Komitetem Koordynacyjnym”, wchodzą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "przewodniczący – Minister Rozwoju i Finansów jako przedstawiciel Prezesa Rady Ministrów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wiceprzewodniczący – wyznaczony przez Ministra Rozwoju i Finansów przedstawiciel w randze sekretarza albo podsekretarza stanu w Ministerstwie Rozwoju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wiceprzewodniczący – Minister Rolnictwa i Rozwoju Wsi albo wyznaczony przez niego przedstawiciel w randze sekretarza albo podsekretarza stanu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "wiceprzewodniczący – Szef Kancelarii Prezesa Rady Ministrów albo wyznaczony przez niego przedstawiciel w randze sekretarza albo podsekretarza stanu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "pozostali członkowie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "Minister Cyfryzacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "Minister Edukacji Narodowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "Minister Energii,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_5/lit_d",
+       "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_5/lit_e",
+       "text": "Minister Infrastruktury i Budownictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_5/lit_f",
+       "text": "Minister Kultury i Dziedzictwa Narodowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_5/lit_g",
+       "text": "Minister Nauki i Szkolnictwa Wyższego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_5/lit_h",
+       "text": "Minister Obrony Narodowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_1/pkt_5/lit_i",
+       "text": "Minister Rodziny, Pracy i Polityki Społecznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_1/pkt_5/lit_j",
+       "text": "Minister Sportu i Turystyki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_1/pkt_5/lit_k",
+       "text": "Minister Sprawiedliwości,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "l",
+       "path": "par_1/pkt_5/lit_l",
+       "text": "Minister Spraw Wewnętrznych i Administracji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "par_1/pkt_5/lit_m",
+       "text": "Minister Spraw Zagranicznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "n",
+       "path": "par_1/pkt_5/lit_n",
+       "text": "Minister Środowiska,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "o",
+       "path": "par_1/pkt_5/lit_o",
+       "text": "Minister Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "albo wyznaczeni przez nich przedstawiciele w randze sekretarza albo podsekretarza stanu,"
+      },
+      {
+       "type": "lit",
+       "num": "p",
+       "path": "par_1/pkt_5/lit_p",
+       "text": "wyznaczony przez Ministra Rozwoju i Finansów przedstawiciel w randze sekretarza albo podsekretarza stanu w Ministerstwie Finansów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "q",
+       "path": "par_1/pkt_5/lit_q",
+       "text": "Prezes Głównego Urzędu Statystycznego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przewodniczący może zapraszać do udziału w pracach Komitetu Koordynacyjnego inne osoby, jeżeli wymaga tego zakres spraw będących przedmiotem tych prac.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Przewodniczący może powoływać stałe podkomitety albo doraźne zespoły konsultacyjne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Do prac w podkomitetach i zespołach, o których mowa w ust. 1, przewodniczący może zapraszać przedstawicieli strony samorządowej, środowiska akademickiego i partnerów społeczno-gospodarczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Posiedzenia Komitetu Koordynacyjnego są zwoływane przez przewodniczącego z własnej inicjatywy albo na wniosek co najmniej dwóch członków Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Posiedzenia Komitetu Koordynacyjnego odbywają się w terminach wyznaczonych przez przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Obsługę Komitetu Koordynacyjnego, w tym prowadzenie i przechowywanie dokumentacji związanej z pracami Komitetu, zapewnia usytuowany w Ministerstwie Rozwoju Sekretariat Komitetu, zwany dalej „Sekretariatem”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Projekty dokumentów przewidziane do rozpatrzenia przez Komitet Koordynacyjny są przesyłane do Sekretariatu drogą elektroniczną, nie później niż na 4 dni robocze przed datą posiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Na podstawie dokumentów, o których mowa w ust. 1, Sekretariat przygotowuje porządek obrad, który może być zmieniony lub uzupełniony na posiedzeniu Komitetu Koordynacyjnego przez przewodniczącego z własnej inicjatywy albo na umotywowany wniosek zgłoszony przez członka Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Projekty dokumentów, o których mowa w ust. 1, wraz z zawiadomieniem o posiedzeniu Komitetu Koordynacyjnego i porządkiem obrad, Sekretariat przesyła członkom Komitetu oraz osobom zaproszonym do udziału w jego pracach, nie później niż na 3 dni robocze przed datą posiedzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Projekty dokumentów przesłane do Sekretariatu bez zachowania terminu, o którym mowa w ust. 1, i z naruszeniem terminu, o którym mowa w ust. 3, mogą być rozpatrzone przez Komitet Koordynacyjny na tym posiedzeniu, za zgodą przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Projekty dokumentów i inne sprawy przewidziane do rozpatrzenia na posiedzeniu Komitetu Koordynacyjnego referuje przewodniczący albo wskazany przez niego: członek Komitetu lub osoba zaproszona do prac w Komitecie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Członek Komitetu Koordynacyjnego może zgłaszać uwagi do rozpatrywanych projektów dokumentów lub innych spraw przewidzianych do rozpatrzenia na posiedzeniu Komitetu Koordynacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Po rozpatrzeniu projektu dokumentu lub innej sprawy Komitet Koordynacyjny wydaje opinię.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Komitet Koordynacyjny przyjmuje opinię, o której mowa w ust. 3, w drodze uchwały, większością 2/3 głosów członków Komitetu Koordynacyjnego obecnych na posiedzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Z posiedzenia Komitetu Koordynacyjnego Sekretariat sporządza protokół, który po podpisaniu przez przewodniczącego jest przesyłany przez Sekretariat członkom Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W czasie nieobecności przewodniczącego jego zadania wykonuje wiceprzewodniczący, o którym mowa w § 1 pkt 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Komitet Koordynacyjny może przyjmować dokumenty w trybie obiegowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W przypadku przyjęcia trybu obiegowego zastosowanie mają odpowiednio § 7 ust. 2–5.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Traci moc zarządzenie nr 59 Prezesa Rady Ministrów z dnia 4 lipca 2012 r. w sprawie Komitetu Koordynacyjnego do spraw Polityki Rozwoju.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: B. Szydło"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,511 @@
+{
+ "eli": "MP/2018/253",
+ "title": "Zarządzenie nr 20 Prezesa Rady Ministrów z dnia 26 lutego 2018 r. w sprawie Komitetu Sterującego do spraw Projektu e-Dowód",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/253/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 20"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 lutego 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Komitetu Sterującego do spraw Projektu e-Dowód"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Komitet Sterujący do spraw Projektu e-Dowód, zwany dalej „Komitetem”, którego celem jest koordynacja działań mających na celu wdrożenie dowodów osobistych z warstwą elektroniczną na podstawie dokumentu „Koncepcja e-Dowód – kontynuacja projektu pl.ID i realizacja projektów powiązanych”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Komitet jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Komitetu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "określanie kierunku prowadzonych prac w celu realizacji zadań wskazanych w dokumencie „Koncepcja e-Dowód – kontynuacja projektu pl.ID i realizacja projektów powiązanych”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "koordynowanie i monitorowanie prac projektowych realizowanych w Ministerstwie Spraw Wewnętrznych i Administracji oraz Ministerstwie Cyfryzacji w ramach Projektu e-Dowód zgodnie z zakresem określonym w dokumencie „Koncepcja e-Dowód – kontynuacja projektu pl.ID i realizacja projektów powiązanych”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "opracowywanie propozycji działań w zakresie wdrażania produktów Projektu e-Dowód oraz utrzymania i doskonalenia wdrażanych rozwiązań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "wydawanie wytycznych i przedstawianie założeń niezbędnych dla realizacji Projektu e-Dowód;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "monitorowanie postępów w realizacji Projektu e-Dowód;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "monitorowanie prac nad przygotowaniem projektów rozwiązań prawnych i organizacyjnych w celu uruchomienia wydawania dowodu osobistego z warstwą elektroniczną (e-Dowodu);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "monitorowanie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_7/lit_a",
+       "text": "postępu wydawania e-Dowodów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_7/lit_b",
+       "text": "satysfakcji osób używających e-Dowodu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_7/lit_c",
+       "text": "jakości oprogramowania oraz obsługi obywatela.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Komitetu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący Komitetu – przedstawiciel Ministra Cyfryzacji w randze sekretarza stanu albo podsekretarza stanu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zastępca przewodniczącego Komitetu – przedstawiciel Ministra Spraw Wewnętrznych i Administracji w randze sekretarza stanu albo podsekretarza stanu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "pozostali członkowie Komitetu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "przedstawiciel Ministra Zdrowia w randze sekretarza stanu albo podsekretarza stanu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "Szef Agencji Bezpieczeństwa Wewnętrznego albo jego zastępca.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W trakcie nieobecności przewodniczącego Komitetu jego zadania wykonuje zastępca przewodniczącego Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Do zadań przewodniczącego Komitetu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "powoływanie Kierownika Projektu e-Dowód oraz sekretarza Komitetu, a także przewodniczących grup roboczych, o ile takie zostaną powołane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "zwoływanie posiedzeń Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "kierowanie pracami Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_3/pkt_4",
+       "text": "przedstawianie Ministrowi Cyfryzacji informacji o stanie realizacji Projektu e-Dowód;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_3/pkt_5",
+       "text": "przedstawianie, wraz z zastępcą przewodniczącego Komitetu, Radzie Ministrów sprawozdania z prac Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Posiedzenia Komitetu odbywają się nie rzadziej niż raz na miesiąc.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Obsługę organizacyjno-techniczną prac Komitetu zapewnia Ministerstwo Cyfryzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Posiedzenia Komitetu przygotowuje i obsługuje sekretarz Komitetu będący pracownikiem Ministerstwa Cyfryzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Do zadań sekretarza Komitetu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "zapewnianie właściwego przygotowania i sprawnej obsługi posiedzeń Komitetu, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_3/pkt_1/lit_a",
+         "text": "przygotowanie projektu porządku posiedzenia oraz koordynacja przygotowania oraz dostarczenia materiałów i projektów dokumentów przeznaczonych do rozpatrzenia, w szczególności projektów uchwał,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_3/pkt_1/lit_b",
+         "text": "sporządzenie listy obecności na posiedzeniu Komitetu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/ust_3/pkt_1/lit_c",
+         "text": "sporządzenie protokołu z posiedzenia Komitetu, zawierającego w szczególności:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_1",
+           "text": "porządek posiedzenia,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_2",
+           "text": "imiona i nazwiska osób biorących udział w posiedzeniu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_3",
+           "text": "wnioski osób biorących udział w posiedzeniu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_4",
+           "text": "odpisy uchwał Komitetu podjętych podczas posiedzenia,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_5",
+           "text": "inne ustalenia Komitetu i przewodniczącego Komitetu;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "uczestniczenie w posiedzeniach Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "gromadzenie i przechowywanie dokumentacji dotyczącej prac Komitetu, w szczególności uchwał i protokołów z posiedzeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_3/pkt_4",
+       "text": "wykonywanie innych zadań zleconych przez przewodniczącego Komitetu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przewodniczący Komitetu może z własnej inicjatywy lub na wniosek członka Komitetu powoływać grupy robocze oraz korzystać z pomocy doradców i ekspertów, których wiedza i doświadczenie mogą być przydatne do realizacji Projektu e-Dowód.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Do udziału w pracach Komitetu mogą być zapraszane, z inicjatywy przewodniczącego Komitetu, również inne osoby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Osoby, o których mowa w ust. 1 i 2, są zapraszane na posiedzenia Komitetu przez przewodniczącego Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "W posiedzeniach Komitetu uczestniczy, bez prawa głosu, Kierownik Projektu w Ministerstwie Cyfryzacji, koordynujący bieżące prace nad Projektem e-Dowód oraz współpracujący z wyznaczonymi przedstawicielami ministerstw oraz innych podmiotów zaangażowanych w realizację tego projektu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Komitet podejmuje rozstrzygnięcia w formie uchwał na posiedzeniu w drodze uzgodnienia stanowiska. W przypadku braku uzgodnienia stanowiska rozstrzygają wspólnie przewodniczący Komitetu i zastępca przewodniczącego Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Sekretarzowi Komitetu oraz osobom zaproszonym do udziału w pracach Komitetu, o których mowa w § 5 ust. 1 i 2, nie przysługuje prawo głosu przy podejmowaniu uchwał.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wydatki związane z obsługą organizacyjno-techniczną Komitetu pokrywane są z budżetu państwa z części, której dysponentem jest Minister Cyfryzacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Udział w pracach Komitetu jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Sprawozdanie z realizacji zadań Komitetu przedstawia się Radzie Ministrów raz na 6 miesięcy, natomiast sprawozdanie roczne przedstawia się w terminie do dnia 31 marca roku następującego po roku, za który składane jest sprawozdanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Sprawozdania, o których mowa w ust. 1, w szczególności powinny zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "dane identyfikacyjne (osoba sporządzająca i zatwierdzająca dokument, podstawa prawna utworzenia Komitetu, okres objęty sprawozdaniem);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "wskazanie liczby i terminów odbytych posiedzeń Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "określenie postępów w pracach Komitetu w odniesieniu do zadań wynikających z zarządzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_2/pkt_4",
+       "text": "wnioski i rekomendacje wynikające z prac Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_2/pkt_5",
+       "text": "informacje dotyczące celowości dalszego działania Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_2/pkt_6",
+       "text": "inne niezbędne informacje o funkcjonowaniu Komitetu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Pierwsze sprawozdanie Komitet przedkłada Radzie Ministrów do dnia 31 marca 2018 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

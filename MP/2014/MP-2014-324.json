@@ -1,0 +1,52 @@
+{
+ "eli": "MP/2014/324",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 24 kwietnia 2014 r. w sprawie średniej krajowej dochodów gmin i powiatów w 2013 r. przypadających na jednego mieszkańca",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/324/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 kwietnia 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie średniej krajowej dochodów gmin i powiatów w 2013 r. przypadających na jednego mieszkańca"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 404 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2013 r. poz. 1232, z późn. zm.[^2]) ogłasza się, że średnia krajowa dochodów z roku poprzedniego przypadających na jednego mieszkańca, osiągnięta w 2013 r. z tytułu opłat i kar, o których mowa w art. 402 ust. 4–6 tej ustawy, wyniosła:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "dla gmin – 10,74 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dla powiatów – 2,53 zł.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Środowiska: M.H. Grabowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 248, poz. 1493 i Nr 284, poz. 1671).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47 i 457."
+ }
+}

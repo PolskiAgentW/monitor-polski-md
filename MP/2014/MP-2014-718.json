@@ -1,0 +1,275 @@
+{
+ "eli": "MP/2014/718",
+ "title": "Obwieszczenie Ministra Finansów z dnia 7 sierpnia 2014 r. w sprawie górnych granic stawek kwotowych podatków i opłat lokalnych w 2015 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/718/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 sierpnia 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie górnych granic stawek kwotowych podatków i opłat lokalnych w 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 2 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z 2014 r. poz. 849) ogłasza się górne granice stawek kwotowych na rok 2015 określone w:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "art. 5 w ust. 1 w pkt 1 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych, zwanej dalej „ustawą”, w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "lit. a – 0,90 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "lit. b – 4,58 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "lit. c – 0,47 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "art. 5 w ust. 1 w pkt 2 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "lit. a – 0,75 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "lit. b – 23,13 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "lit. c – 10,80 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "lit. d – 4,70 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "lit. e – 7,77 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "art. 10 w ust. 1 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "pkt 1 w:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_3/lit_a/tir_1",
+       "text": "lit. a – 821,45 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_3/lit_a/tir_2",
+       "text": "lit. b – 1370,38 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_3/lit_a/tir_3",
+       "text": "lit. c – 1644,45 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "pkt 2 – 3138,07 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "pkt 3 – 1918,50 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_3/lit_d",
+     "text": "pkt 4 w:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_3/lit_d/tir_1",
+       "text": "lit. a – 2425,51 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_3/lit_d/tir_2",
+       "text": "lit. b – 3138,07 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_3/lit_e",
+     "text": "pkt 5 – 1644,45 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_3/lit_f",
+     "text": "pkt 6 w:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_3/lit_f/tir_1",
+       "text": "lit. a – 1918,50 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_3/lit_f/tir_2",
+       "text": "lit. b – 2425,51 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_3/lit_g",
+     "text": "pkt 7 w:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_3/lit_g/tir_1",
+       "text": "lit. a – 1918,50 zł,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_3/lit_g/tir_2",
+       "text": "lit. b – 2425,51 zł;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "art. 19 w pkt 1 ustawy w:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "lit. a – 767,68 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "lit. b – 2,20 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_4/lit_c",
+     "text": "lit. c – 3,13 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_4/lit_d",
+     "text": "lit. d – 4,32 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_4/lit_e",
+     "text": "lit. f – 121,50 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: wz. J. Cichoń"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 248, poz. 1481)."
+ }
+}

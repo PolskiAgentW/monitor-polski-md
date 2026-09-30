@@ -1,0 +1,265 @@
+{
+ "eli": "MP/2018/297",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 15 marca 2018 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/297/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 marca 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2017 r. poz. 827 oraz z 2018 r. poz. 18 i 176) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 53 w ust. 2 na końcu dodaje się wyrazy „, z wyjątkiem art. 96c ust. 1”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 92 po ust. 2 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. Senat wybiera i odwołuje ławników Sądu Najwyższego.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "po art. 96 dodaje się art. 96a–96g w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 96a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Niezwłocznie po podaniu do wiadomości Marszałka Senatu ustalonej liczby ławników Sądu Najwyższego albo po złożeniu wniosku o wybór uzupełniający, na senackiej stronie internetowej udostępnia się informację o przystąpieniu do wyboru ławników Sądu Najwyższego, zawierającą:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) liczbę wybieranych ławników i określenie ich kadencji, ze wskazaniem czy wybór dotyczy pełnej kadencji, czy też ma charakter uzupełniający,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wskazanie terminu i miejsca zgłaszania kandydatów oraz skutków przekroczenia terminu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) wymogi, jakie powinien spełnić kandydat,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wymogi formalne, jakim powinno odpowiadać zgłoszenie, oraz skutki niespełnienia tych wymogów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) podmioty uprawnione do zgłaszania kandydatów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) omówienie procedury wyboru,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) wzór karty zgłoszenia oraz miejsce jego udostępnienia w formie papierowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku wyboru uzupełniającego termin zgłaszania kandydatów wynosi 30 dni od dnia udostępnienia informacji o przystąpieniu do wyboru ławników.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 96b.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Marszałek Senatu kieruje zgłoszenia kandydatów na ławników Sądu Najwyższego wraz z dołączonymi dokumentami do Komisji Praw Człowieka, Praworządności i Petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Po zbadaniu zgłoszeń Komisja:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wskazuje Marszałkowi Senatu kandydatów, których zgłoszenia zostały wniesione w terminie i spełniają wymogi formalne,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przedstawia Senatowi projekt uchwały stwierdzającej pozostawienie bez dalszego biegu zgłoszeń wniesionych po upływie terminu lub niespełniających wymogów formalnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Marszałek Senatu przekazuje Komisji informacje o kandydatach, o których mowa w ust. 2 pkt 1, otrzymane od Komendanta Głównego Policji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Komisja przedstawia Senatowi listę kandydatów, o których mowa w ust. 2 pkt 1, oraz opinie o nich w zakresie spełniania wymogów określonych w ustawie o Sądzie Najwyższym, sformułowane w oparciu o posiadane dokumenty, a w razie potrzeby przesłuchania określonych kandydatów – także w oparciu o te przesłuchania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 96c.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Senat wybiera ławników w głosowaniu tajnym przy użyciu opieczętowanych kart do głosowania. Przepisy art. 53 ust. 5 i ust. 8 zdanie drugie stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Senator może opowiedzieć się za wyborem co najwyżej tylu kandydatów, ilu jest wybieranych ławników.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli liczba kandydatów, o których mowa w art. 96b ust. 2 pkt 1, jest większa niż liczba wybieranych ławników:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) za wybranych na ławników uważa się kandydatów, którzy uzyskali największą liczbę głosów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w przypadku gdy dwóch lub więcej kandydatów otrzyma równą liczbę głosów, a jednocześnie spowodowałoby to wybór większej niż ustalona liczby ławników, przeprowadza się spośród tych kandydatów drugą turę głosowania, a w razie potrzeby – kolejne tury głosowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 96d. Marszałek Senatu przesyła niezwłocznie Pierwszemu Prezesowi Sądu Najwyższego uchwałę Senatu w sprawie wyboru ławników Sądu Najwyższego oraz dokumenty dotyczące osób wybranych ławnikami:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) karty zgłoszenia kandydatów wraz z dołączonymi dokumentami,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) informacje o kandydatach uzyskane od Komendanta Głównego Policji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 96e.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Kandydat na ławnika Sądu Najwyższego, który nie został wybrany, albo podmiot go zgłaszający odbiera w terminie 60 dni od dnia podjęcia uchwały przez Senat kartę zgłoszenia kandydata wraz z dołączonymi dokumentami.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kandydat na ławnika Sądu Najwyższego, który nie został wybrany, odbiera w terminie, o którym mowa w ust. 1, informacje o nim uzyskane od Komendanta Głównego Policji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W przypadku nieodebrania dokumentów, o których mowa w ust. 1 i 2, podlegają one zniszczeniu przez Kancelarię Senatu w terminie 30 dni po upływie terminu, o którym mowa w ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Przepisy ust. 1 i 3 stosuje się odpowiednio w przypadku podjęcia przez Senat uchwały, o której mowa w art. 96b ust. 2 pkt 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 96f.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Odwołanie ławnika Sądu Najwyższego następuje wyłącznie w przypadkach określonych w ustawie – Prawo o ustroju sądów powszechnych. Marszałek Senatu przedstawia Senatowi projekt uchwały w tej sprawie, który podlega zaopiniowaniu przez Komisję Praw Człowieka, Praworządności i Petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przewodniczący Komisji zaprasza ławnika, którego dotyczy projekt uchwały, o którym mowa w ust. 1, a w razie niemożności osobistego stawiennictwa – ustanowionego przez niego pełnomocnika, do udziału w posiedzeniu Komisji w celu złożenia wyjaśnień.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przepis ust. 2 stosuje się odpowiednio do posiedzenia Senatu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Marszałek Senatu przesyła niezwłocznie Pierwszemu Prezesowi Sądu Najwyższego uchwałę Senatu w sprawie odwołania ławnika.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 96g. Do projektów uchwał, o których mowa w art. 96 ust. 2, art. 96b ust. 2 pkt 2 i art. 96f ust. 1, nie stosuje się przepisów działu IX.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do zgłaszania kandydatów na ławników Sądu Najwyższego pierwszej kadencji stosuje się termin określony w art. 96a ust. 2 Regulaminu Senatu, z tym że jego bieg kończy się nie później niż 31 maja 2018 r.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem 3 kwietnia 2018 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: S. Karczewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

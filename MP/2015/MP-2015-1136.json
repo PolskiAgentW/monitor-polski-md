@@ -1,0 +1,52 @@
+{
+ "eli": "MP/2015/1136",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 listopada 2015 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1136/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 listopada 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) w art. 30 w ust. 3 w pkt 4 kropkę zastępuje się przecinkiem i dodaje się pkt 5 w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„5) ustalonym przez Marszałka Sejmu w przypadku zaistnienia innych niż określone w pkt 1–4 okoliczności powodujących konieczność dokonania wyboru.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079 oraz z 2015 r. poz. 31, 550 i 1130."
+ }
+}

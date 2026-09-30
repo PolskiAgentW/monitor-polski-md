@@ -1,0 +1,460 @@
+{
+ "eli": "MP/2020/936",
+ "title": "Komunikat Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 7 października 2020 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/936/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZARZĄDU BANKU GOSPODARSTWA KRAJOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 października 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stałych stóp procentowych – stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. z 2019 r. poz. 208) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawa z dnia 8 czerwca 2001 r. o dopłatach do oprocentowania kredytów eksportowych o stałych stopach procentowych (Dz. U. z 2019 r. poz. 208) określa stałe stopy procentowe wyznaczające minimalny poziom stóp oprocentowania kredytów eksportowych w państwach będących uczestnikami Porozumienia OECD w sprawie Oficjalnie Wspieranych Kredytów Eksportowych z dnia 1 kwietnia 1978 r., zwanego dalej „Porozumieniem OECD”; minimalne stopy wyznaczane są przez stopy CIRR (stopy referencyjne oprocentowania rynkowego) i ogłaszane przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stopy CIRR (stopy referencyjne oprocentowania rynkowego) ustalane są dla poszczególnych walut wszystkich uczestników Porozumienia OECD; stopy CIRR publikowane są do 15 dnia każdego miesiąca i obowiązują od tego dnia do 14 dnia następnego miesiąca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w terminie od dnia 15 października 2020 r. do dnia 14 listopada 2020 r. dla poszczególnych walut obowiązują następujące stopy CIRR (stopy referencyjne oprocentowania rynkowego):",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "obliczane zgodnie z art. 20 Porozumienia OECD dla transakcji finansowanych na zasadach ogólnych Porozumienia OECD – stanowiące załącznik nr 1 do komunikatu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "obliczane zgodnie z Aneksami II i IV do Porozumienia OECD – stanowiące załącznik nr 2 do komunikatu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: wz. A. Wilińska"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do komunikatu Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 7 października 2020 r. (poz. 936) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "Waluta kraju Okres spłaty Symbol waluty Stopa CIRR ≤ 5 lat 1,16 dolar amerykański > 5 do 8,5 lat USD 1,27 > 8,5 lat 1,46 dolar australijski AUD 1,33 ≤ 5 lat 1,27 dolar kanadyjski > 5 do 8,5 lat CAD 1,36 > 8,5 lat 1,40 dolar nowozelandzki NZD 0,98 ≤ 5 lat 0,28 euro > 5 do 8,5 lat EUR 0,30 > 8,5 lat 0,38 forint węgierski HUF 2,46 ≤ 5 lat 0,17 frank szwajcarski > 5 do 8,5 lat CHF 0,27 > 8,5 lat 0,39 ≤ 5 lat 0,86 funt brytyjski > 5 do 8,5 lat GBP 0,92 > 8,5 lat 1,05 ≤ 5 lat 0,87 jen japoński > 5 do 8,5 lat JPY 0,89 > 8,5 lat 0,91 ≤ 5 lat 1,37 korona czeska > 5 do 8,5 lat CZK 1,59 > 8,5 lat 1,81 ≤ 5 lat 0,38 korona duńska > 5 do 8,5 lat DKK 0,41 > 8,5 lat 0,48 korona norweska NOK 1,34 ≤ 5 lat 0,83 korona szwedzka > 5 do 8,5 lat SEK 0,65 > 8,5 lat 0,76 won koreański KRW 2,19 złoty polski PLN 1,72"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "Stopa CIRR Stopa CIRR Waluta kraju Okres spłaty Symbol waluty dla dużych dla pozostałych projektów[^1] projektów[^2]"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4 5"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 1,46 1,46"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 1,46 1,46"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 1,73 1,66"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 1,81 1,73 dolar amerykański USD > 14 do 15 lat 1,81 1,73"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 1,93 1,81"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 1,98 1,81"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 1,98 1,88"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 1,40 1,40"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 1,40 1,40"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 1,65 1,60"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 1,71 1,65 dolar kanadyjski CAD > 14 do 15 lat 1,71 1,65"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 1,81 1,71"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 1,86 1,71"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 1,86 1,76"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 0,98 0,98"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 1,17 1,17"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 1,47 1,37"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 1,56 1,47 dolar nowozelandzki NZD > 14 do 15 lat 1,56 1,47"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 1,71 1,56"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 1,76 1,56"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 1,76 1,66"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 0,38 0,38"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 0,38 0,38"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 0,63 0,58"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 0,68 0,63 euro EUR > 14 do 15 lat 0,68 0,63"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 0,78 0,68"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 0,83 0,68"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 0,83 0,73 1 2 3 4 5"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 0,39 0,39"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 0,39 0,39"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 0,63 0,59"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 0,67 0,63 frank szwajcarski CHF > 14 do 15 lat 0,67 0,63"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 0,75 0,67"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 0,80 0,67"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 0,80 0,70"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 1,05 1,05"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 1,05 1,05"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 1,33 1,25"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 1,40 1,33 funt brytyjski GBP > 14 do 15 lat 1,40 1,33"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 1,52 1,40"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 1,57 1,40"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 1,57 1,47"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 0,91 0,91"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 0,91 0,91"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 1,14 1,11"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 1,19 1,14 jen japoński JPY > 14 do 15 lat 1,19 1,14"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 1,28 1,19"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 1,33 1,19"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 1,33 1,23"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 1,81 1,81"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 1,81 1,81"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 2,11 2,01"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 2,14 2,11 korona czeska CZK > 14 do 15 lat 2,14 2,11"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 2,24 2,14"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 2,29 2,14"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 2,29 2,19"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 0,48 0,48"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 0,48 0,48"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 0,72 0,68"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 0,77 0,72 korona duńska DKK > 14 do 15 lat 0,77 0,72"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 0,88 0,77"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 0,93 0,77"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 0,93 0,83 1 2 3 4 5"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 1,34 1,34"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 1,45 1,45"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 1,71 1,65"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 1,76 1,71 korona norweska NOK > 14 do 15 lat 1,76 1,71"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 1,87 1,76"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 1,92 1,76"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 1,92 1,82"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 0,76 0,76"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 0,76 0,76"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 0,96 0,96"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 1,04 0,96 korona szwedzka SEK > 14 do 15 lat 1,04 0,96"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 1,17 1,04"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 1,22 1,04"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 1,22 1,12"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 2,19 2,19"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 2,32 2,32"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 2,58 2,52"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 2,64 2,58 won koreański KRW > 14 do 15 lat 2,64 2,58"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 2,75 2,64"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 2,80 2,64"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 2,80 2,70"
+    },
+    {
+     "type": "text",
+     "text": "< 11 lat 1,72 1,72"
+    },
+    {
+     "type": "text",
+     "text": "≥ 11 do 12 lat 2,09 2,09"
+    },
+    {
+     "type": "text",
+     "text": "> 12 do 13 lat 2,38 2,29"
+    },
+    {
+     "type": "text",
+     "text": "> 13 do 14 lat 2,47 2,38 złoty polski PLN > 14 do 15 lat 2,47 2,38"
+    },
+    {
+     "type": "text",
+     "text": "> 15 do 16 lat 2,60 2,47"
+    },
+    {
+     "type": "text",
+     "text": "> 16 do 17 lat 2,65 2,47"
+    },
+    {
+     "type": "text",
+     "text": "> 17 do 18 lat 2,65 2,55"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Projekty, o których mowa w art. 1 lit. a pkt 1 Aneksu II do Porozumienia OECD, oraz projekty z długim okresem budowy, o których mowa w art. 7 Aneksu IV do Porozumienia OECD.",
+  "2": "Projekty, o których mowa w art. 1 lit. a pkt 2–4 Aneksu II do Porozumienia OECD, oraz projekty, dla których stosuje się standardowe minimalne stopy procentowe, o których mowa w art. 7 Aneksu IV do Porozumienia OECD."
+ }
+}

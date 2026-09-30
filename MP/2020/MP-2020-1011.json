@@ -1,0 +1,670 @@
+{
+ "eli": "MP/2020/1011",
+ "title": "Uchwała nr 157 Rady Ministrów z dnia 30 października 2020 r. zmieniająca uchwałę w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1011/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 157"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 października 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 65 ust. 28 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, 695, 1086, 1262 1478 i 1747) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 102 Rady Ministrów z dnia 23 lipca 2020 r. w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego (M.P. poz. 662) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w ust. 1:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_1/lit_a/tir_1",
+         "text": "po pkt 1 dodaje się pkt 1a w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„1a) gmin z przeznaczeniem na inwestycje i zakupy inwestycyjne realizowane w miejscowościach, w których funkcjonowały zlikwidowane państwowe przedsiębiorstwa gospodarki rolnej, które wynosi 250 000 tys. zł,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_1/lit_a/tir_2",
+         "text": "w pkt 3 dodaje się przecinek i dodaje się pkt 4 w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„4) gmin zakwalifikowanych do udziału w projekcie „Pod Biało-Czerwoną”, zorganizowanym przez Kancelarię Prezesa Rady Ministrów oraz Ministerstwo Cyfryzacji, które wynosi do 5000 zł dla każdej zakwalifikowanej gminy”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Wartość kosztorysowa inwestycji, finansowanej lub dofinansowanej ze środków, o których mowa w ust. 1 pkt 1a, nie może być niższa niż 50 tys. zł i wyższa niż 5 000 tys. zł.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1b. Maksymalna łączna wartość kosztorysowa wszystkich inwestycji na terenie gminy, finansowanych lub dofinansowanych ze środków, o których mowa w ust. 1 pkt 1a, nie może być wyższa niż 5 000 tys. zł.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "po § 3 dodaje się § 3a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 3a. Wsparcie ze środków, o których mowa w § 2 ust. 1 pkt 1a, może być przeznaczone na finansowanie lub dofinansowanie inwestycji, w szczególności:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) budowy, rozbudowy lub przebudowy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) kanalizacji sanitarnej lub lokalnych oczyszczalni ścieków wraz z kanalizacją oraz przepompowni ścieków,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) wodociągów, przyłączy do sieci gazowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) dróg wewnątrz miejscowości lub dojazdów do miejscowości,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) chodników, ścieżek rowerowych, elementów uspokojenia ruchu, przystanków autobusowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) obiektów użyteczności publicznej w centrach miejscowości umożliwiających integrację społeczną oraz aktywizację mieszkańców (w tym placów zabaw, siłowni zewnętrznych, utwardzonych miejsc do festynów, wiat, terenów zieleni),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "f) obiektów sportowych, zaplecza socjalnego i sanitarnego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "g) świetlic, obiektów bibliotecznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "h) oświetlenia wewnątrz miejscowości (lampy uliczne, latarnie),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i) remiz strażackich;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) modernizacji składników mienia pochodzącego z zasobu zlikwidowanych państwowych przedsiębiorstw gospodarki rolnej, w tym budynków, ogrodzeń, termomodernizacji budynków;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) prac konserwatorskich, restauratorskich i robót budowlanych przy zabytku wpisanym do rejestru zabytków.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 6:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Wsparcie, o którym mowa w § 2 ust. 1 pkt 1–3, udzielane jest na wniosek jednostki, składany przez elektroniczną skrzynkę podawczą do Prezesa Rady Ministrów za pośrednictwem właściwego wojewody, zwany dalej „wnioskiem”.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "po ust. 1 dodaje się ust. 1a i 1b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Wniosek o przyznanie wsparcia ze środków, o których mowa w § 2 ust. 1 pkt 1a, składa gmina zgodnie z ust. 1, po uprzednim uzyskaniu opinii kierownika właściwego oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1b. Gmina może złożyć nie więcej niż 3 wnioski na nie więcej niż 3 inwestycje o przyznanie wsparcia ze środków, o których mowa w § 2 ust. 1 pkt 1a i 3.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "w ust. 2 po pkt 1 dodaje się pkt 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a) § 2 ust. 1 pkt 1a, określa załącznik nr 3a do uchwały;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_3/lit_d",
+       "text": "dodaje się ust. 5–8 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Wniosek o przyznanie wsparcia ze środków, o których mowa w § 2 ust. 1 pkt 1a, opiniuje kierownik właściwego oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, na wniosek gminy, w terminie 7 dni od dnia wpływu wniosku.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6. Opinia zawiera co najmniej:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) informację potwierdzającą zlokalizowanie danej inwestycji w miejscowości, w której funkcjonowały zlikwidowane państwowe przedsiębiorstwa gospodarki rolnej;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) informację potwierdzającą spełnienie przez inwestycję wymogów formalnych określonych w § 2 ust. 1a i 1b.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7. Wniosek o przyznanie wsparcia ze środków, o których mowa w § 2 ust. 1 pkt 1a, po zaopiniowaniu przez kierownika właściwego oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, opiniuje wojewoda w zakresie kompletności wniosku.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8. Wojewoda, po zaopiniowaniu wniosku, przekazuje go do Prezesa Rady Ministrów, w terminie 7 dni od dnia zakończenia naboru wniosków.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "§ 8 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 8. Prezes Rady Ministrów, na podstawie rekomendacji Komisji do spraw Wsparcia Jednostek Samorządu Terytorialnego, zwanej dalej „Komisją”, składa dyspozycję wypłaty środków, o których mowa w § 2 ust. 1 pkt 1a i 3, w terminie 7 dni od dnia otrzymania rekomendacji Komisji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w § 9:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. W celu udzielenia wsparcia, o którym mowa w § 2 ust. 1 pkt 1a i 3, Prezes Rady Ministrów powołuje Komisję. W skład Komisji wchodzi:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) trzech przedstawicieli Prezesa Rady Ministrów;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) dwóch przedstawicieli ministra właściwego do spraw gospodarki;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) dwóch przedstawicieli ministra właściwego do spraw finansów publicznych;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) dwóch przedstawicieli ministra właściwego do spraw rozwoju regionalnego.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. W celu udzielenia wsparcia, o którym mowa w § 2 ust. 1 pkt 1a, Prezes Rady Ministrów powołuje w skład Komisji, o której mowa w ust. 1, jednego przedstawiciela ministra właściwego do spraw administracji publicznej.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "po § 10 dodaje się § 10a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 10a. Prezes Rady Ministrów ogłasza termin naboru wniosków o wsparcie, o którym mowa w § 2 ust. 1 pkt 1a, i zamieszcza informację o tym terminie na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ten organ na co najmniej 30 dni przed dniem upływu tego terminu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w § 11 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Prezes Rady Ministrów ogłasza termin naboru wniosków o wsparcie, o którym mowa w § 2 ust. 1 pkt 3, i zamieszcza informację o tym terminie na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ten organ na co najmniej 14 dni przed dniem upływu tego terminu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "§ 13 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 13. Jednostka, która otrzymała środki, przedkłada do właściwego wojewody, przez elektroniczną skrzynkę podawczą, roczne informacje o wykorzystaniu środków, według stanu na koniec roku, w terminie 30 dni od dnia zakończenia okresu, za który sporządzana jest informacja o wykorzystaniu środków, oraz 60 dni od dnia zakończenia wydatkowania przekazanych środków. Wzór informacji o wykorzystaniu środków określa załącznik nr 5 do uchwały.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "§ 14 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 14. Wojewoda przekazuje za pośrednictwem elektronicznej skrzynki podawczej, w terminie do ostatniego dnia miesiąca, w którym jednostka przekazała informacje o wykorzystaniu środków, zbiorczą informację o wykorzystaniu przez jednostki środków do ministra właściwego do spraw gospodarki, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw administracji publicznej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "po § 15 dodaje się § 15a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 15a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W terminie 7 dni od dnia podjęcia przez Komisję Projektową, powołaną przez organizatorów projektu „Pod Biało-Czerwoną”, decyzji o zakwalifikowaniu gminy do udziału w tym projekcie sekretarz stanu w Kancelarii Prezesa Rady Ministrów właściwy do spraw informatyzacji przekaże Prezesowi Rady Ministrów oraz do wiadomości właściwemu wojewodzie wykaz zakwalifikowanych gmin w podziale na województwa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Na podstawie wykazu, o którym mowa w ust. 1, wskazany przez Prezesa Rady Ministrów dysponent lub minister kierujący określonym działem administracji rządowej składa dyspozycję wypłaty środków, o których mowa w § 2 ust. 1 pkt 4, na rachunki bankowe właściwych wojewodów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Środki, o których mowa w § 2 ust. 1 pkt 4, gminom przekazuje wojewoda.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. § 13–15 stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "po załączniku nr 3 do uchwały dodaje się załącznik nr 3a do uchwały w brzmieniu określonym w załączniku do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "w załączniku nr 4 do uchwały na stronie 3 pkt 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„5) przedkładania do właściwego wojewody w formie elektronicznej, przez elektroniczną skrzynkę podawczą, rocznych informacji o wykorzystaniu środków, na określonym w uchwale Rady Ministrów w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego wzorze, o wykorzystaniu środków, według stanu na koniec roku, w terminie 14 dni od dnia zakończenia okresu, za który sporządzana jest informacja, oraz 60 dni od dnia zakończenia wydatkowania przekazanych środków;”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia, przy czym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "§ 1 pkt 3 lit. b w zakresie § 6 ust. 1b znajduje zastosowanie do naborów ogłoszonych przez Prezesa Rady Ministrów po wejściu w życie niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "§ 1 pkt 4 znajduje zastosowanie do naborów ogłoszonych przez Prezesa Rady Ministrów i niezakończonych przed dniem wejścia w życie niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 157 Rady Ministrów z dnia 30 października 2020 r. (poz. 1011) Załącznik nr 3a",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "gmina Prezes Rady Wniosek Ministrów za ………………………………………………… o uzyskanie środków Funduszu pośrednictwem ……………………………………………….. Przeciwdziałania COVID-19 dla gmin wojewody ………………………………………………… ………………… z przeznaczeniem na inwestycje (nazwa gminy) (nazwa wojewody) realizowane w miejscowościach, w których …………………………………………………. funkcjonowały zlikwidowane państwowe (kod TERYT) przedsiębiorstwa gospodarki rolnej"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Kwota wnioskowanych środków:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Numer konta:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Przedmiot i krótki opis inwestycji: (maks. 500 znaków)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Planowane miesiąc i rok rozpoczęcia oraz zakończenia realizacji inwestycji:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Szacowany koszt inwestycji: (w złotych)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Relacja kosztu z pkt 5 do planowanych dochodów ogółem gminy w roku rozpoczęcia realizacji:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Czy inwestycja była zainicjowana przez mieszkańców gminy, sołtysów, rady sołeckie, zarząd osiedla/dzielnicy, innego przedstawiciela lokalnej społeczności, podmioty prowadzące lub zamierzające prowadzić na obszarze gminy działalność społeczną, w tym organizacje pozarządowe i grupy nieformalne?",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Uzasadnienie: a) zrównoważony rozwój",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "(w formie wskaźnikowej) b) kompleksowość",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "(w formie wskaźnikowej) c) ograniczenie emisyjności i ingerencji w środowisko",
+       "children": [
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_8/pkt_2/lit_d",
+         "text": "udział liczby mieszkańców gminy, na który inwestycja wywiera pozytywny wpływ",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "udział (%) uzasadnienie (maks. 500 znaków)"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "(w formie wskaźnikowej) e) spodziewany efekt planowanej inwestycji",
+       "children": [
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_8/pkt_3/lit_f",
+         "text": "wpływ planowanej inwestycji na ograniczenie skutków klęsk żywiołowych lub zapobieganie im w przyszłości, jeżeli planowana inwestycja może mieć taki wpływ (max. 500 znaków)",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_8/pkt_3/lit_g",
+         "text": "zapewnienie dostępności w rozumieniu ustawy z dnia 19 lipca 2019 r. o zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2020 r. poz. 1062)",
+         "children": [
+          {
+           "type": "text",
+           "text": "(max. 500 znaków) Klasyfikacja budżetowa wydatków na planowaną Udział wydatków z Funduszu Przeciwdziałania inwestycję COVID-19 w wartości planowanej inwestycji"
+          },
+          {
+           "type": "text",
+           "text": "(%)"
+          },
+          {
+           "type": "text",
+           "text": "dział rozdział"
+          },
+          {
+           "type": "text",
+           "text": "1 2 3"
+          },
+          {
+           "type": "text",
+           "text": "Gmina …………………………………………….… (nazwa jst) zobowiązuje się do:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "przeznaczenia całości otrzymanych środków na wydatki majątkowe objęte wnioskiem, a w przypadku zmiany zakresu kosztu lub przedmiotu wydatku majątkowego poinformowania o tym Prezesa Rady Ministrów za pośrednictwem wojewody w terminie 14 dni od dnia zaistnienia zmiany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "przeznaczenia niewykorzystanych środków na wydatki majątkowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "przeznaczenia całości odsetek od otrzymanych środków, zgromadzonych na rachunku bankowym lub lokacie, na wydatki majątkowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_8/pkt_4",
+       "text": "przeznaczenia całości ewentualnej kary umownej, uiszczonej przez wykonawcę realizującego inwestycję dotyczącą wydatku majątkowego objętego wnioskiem, na wydatki majątkowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_8/pkt_5",
+       "text": "przedkładania do właściwego wojewody w formie elektronicznej, przez elektroniczną skrzynkę podawczą, informacji o wykorzystaniu środków, zgodnie z określonym w uchwale Rady Ministrów w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego wzorem, o wykorzystaniu środków, wg stanu na koniec 2020 r., 2021 r. i 2022 r., w terminie 14 dni od dnia zakończeniu okresu, za który sporządzana jest informacja, oraz 60 dni od dnia zakończenia wydatkowania przekazanych środków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_8/pkt_6",
+       "text": "umieszczenia na przedmiocie inwestycji, w momencie jej rozpoczęcia, tabliczki z logo, zgodnie ze wzorem określonym w uchwale Rady Ministrów w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego, z informacją o pochodzeniu środków oraz zamieszczenia informacji o otrzymanych środkach na stronie internetowej urzędu gminy.",
+       "children": [
+        {
+         "type": "text",
+         "text": "………………………………………………………… ……………………………….…………………………"
+        },
+        {
+         "type": "text",
+         "text": "……… …………………………………………………………. ……………………………….…………………………………"
+        },
+        {
+         "type": "text",
+         "text": "3 Opinia kierownika właściwego oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa (wypełnia kierownik właściwego oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa)"
+        },
+        {
+         "type": "text",
+         "text": "(pozytywnie/negatywnie– uzasadnienie) Opinia właściwego wojewody (wypełnia wojewoda lub osoba upoważniona)"
+        },
+        {
+         "type": "text",
+         "text": "4"
+        },
+        {
+         "type": "text",
+         "text": "(tak/nie – wskazać przez kogo) (maks. 500 znaków)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Przykładowe wskaźniki kompleksowości:\n\n1) zawarcie w wykazie przedsięwzięć wieloletnich do wieloletniej prognozy finansowej gmin zwiększonych wydatków ze środków budżetowych na transport publiczny;\n\n2) w przypadku budownictwa komunalnego: zapisanie w wykazie przedsięwzięć wieloletnich do wieloletniej prognozy finansowej gmin zwiększonych wydatków ze środków budżetowych na budowę równoważnej liczby mieszkań w okresie trzech lat;\n\n3) w przypadku infrastruktury rowerowej: długość dróg/ciągów rowerowych w promieniu 2 km od każdej z końcówek zrealizowanej/nych inwestycji w zakresie dróg rowerowych, czy zrealizowano miejsca postojowe dla rowerów powiązanych z realizowaną drogą rowerową i w jakiej liczbie;\n\n4) doświetlenie określonej liczby i udziału przejść dla pieszych;\n\n5) w przypadku budowy hal sportowych, budowy i rozbudowy szkół i przedszkoli – zapewnienie dostępności do tych obiektów w odległości mniejszej niż 1000 m lub 20 min. dojazdu komunikacją zbiorową;\n\n6) w przypadku realizacji zakładów przetwarzania odpadów: realizacja Zbiorczego Punktu Gromadzenia Odpadów na terenie każdej miejscowości.",
+  "2": "Przykładowe wskaźniki w zakresie ograniczenia emisyjności i ingerencji w środowisko:\n\n1) w przypadku budownictwa komunalnego: dostosowanie budynku/ów do norm dyrektywy Parlamentu Europejskiego i Rady 2009/125/WE w odniesieniu do wymogów dotyczących ekoprojektu dla kotłów na paliwo stałe, czy zastosowano dodatkowe nieemisyjne źródła ciepła, czy zastosowano panele fotowoltaiczne i o jakiej mocy;\n\n2) w przypadku infrastruktury rowerowej: liczba kilometrów nowych dróg rowerowych przypadających na 10 tys. mieszkańców;\n\n3) w przypadku instalacji nowych latarni: czy zainstalowano panele fotowoltaiczne, jaka jest ich moc oraz pokrycie zapotrzebowania nowych latarni;\n\n4) w przypadku zakładów przetwarzania odpadów – czy zmniejszono składowanie odpadów i o ile.",
+  "3": "Przykładowe wskaźniki w zakresie spodziewanego efektu inwestycji:\n\n1) w przypadku budownictwa komunalnego – wzrost odsetka liczby osób, które mieszkają w zasobie komunalnym;\n\n2) w przypadku inwestycji rowerowych długość mających być zrealizowanych ciągów rowerowych w stosunku do zakontraktowanych do realizacji na obszarze gminy w okresie 5 lat przed zgłoszeniem wniosku długości dróg samochodowych;\n\n3) zmniejszenie zapotrzebowania na energię na oświetlenie ulic i o ile procent;\n\n4) w przypadku budowy szkoły: wzrost wydatków gminy w budżecie na jednego ucznia;\n\n5) w przypadku zakładów przetwarzania odpadów – czy zmniejszono składowanie odpadów i o ile. 2 (skarbnik) (wójt/burmistrz/prezydent) (data, miejscowość, podpis) (data, miejscowość, podpis)"
+ }
+}

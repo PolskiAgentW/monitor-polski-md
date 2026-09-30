@@ -1,0 +1,509 @@
+{
+ "eli": "MP/2012/696",
+ "title": "Zarządzenie Nr 84 Prezesa Rady Ministrów z dnia 1 października 2012 r. w sprawie Rady Bezpieczeństwa Imprez Sportowych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/696/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 84"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 października 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Rady Bezpieczeństwa Imprez Sportowych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) w związku z art. 2 Europejskiej konwencji w sprawie przemocy i ekscesów widzów w czasie imprez sportowych, a w szczególności meczów piłki nożnej, sporządzonej w Strasburgu dnia 19 sierpnia 1985 r. (Dz. U. z 1995 r. Nr 129, poz. 625) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Radę Bezpieczeństwa Imprez Sportowych, zwaną dalej „Radą”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Rada jest organem pomocniczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład Rady wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "Przewodniczący – minister właściwy do spraw wewnętrznych lub wyznaczony przez niego sekretarz stanu albo podsekretarz stanu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "Wiceprzewodniczący – minister właściwy do spraw kultury fizycznej lub wyznaczony przez niego sekretarz stanu albo podsekretarz stanu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_3/lit_a",
+         "text": "minister właściwy do spraw administracji publicznej lub wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_3/lit_b",
+         "text": "minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej lub wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_3/lit_c",
+         "text": "minister właściwy do spraw nauki lub wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_3/lit_d",
+         "text": "minister właściwy do spraw oświaty i wychowania lub wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_1/pkt_3/lit_e",
+         "text": "minister właściwy do spraw transportu lub wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_2/ust_1/pkt_3/lit_f",
+         "text": "Minister Sprawiedliwości lub wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_2/ust_1/pkt_3/lit_g",
+         "text": "Pełnomocnik Rządu do spraw Równego Traktowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_2/ust_1/pkt_3/lit_h",
+         "text": "Szef Agencji Bezpieczeństwa Wewnętrznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_2/ust_1/pkt_3/lit_i",
+         "text": "Komendant Główny Państwowej Straży Pożarnej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_2/ust_1/pkt_3/lit_j",
+         "text": "Komendant Główny Policji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "sekretarz Rady – osoba wyznaczona przez Przewodniczącego spośród pracowników zatrudnionych w ministerstwie obsługującym ministra właściwego do spraw wewnętrznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W przypadku gdy co najmniej dwoma działami administracji rządowej wymienionymi w ust. 1 pkt 3 lit. a–e kieruje jeden minister, przysługuje mu jeden głos. W takim przypadku właściwy minister może wyznaczyć jednego sekretarza stanu albo podsekretarza stanu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Do udziału w pracach Rady, na prawach członka, Przewodniczący zaprasza:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "Prokuratora Generalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "prezesa polskiego związku sportowego w rozumieniu art. 7 ust. 1 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857, z późn. zm.[^1]), zwanej dalej „ustawą o sporcie”, właściwego w sprawach piłki nożnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "prezesa polskiego związku sportowego w rozumieniu art. 7 ust. 1 ustawy o sporcie, właściwego w sprawach sportów motorowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_3/pkt_4",
+       "text": "prezesa zarządu podmiotu zarządzającego ligą zawodową piłki nożnej w rozumieniu art. 15 ust. 4 ustawy o sporcie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_3/pkt_5",
+       "text": "prezesa zarządu podmiotu zarządzającego ligą zawodową w sporcie żużlowym w rozumieniu art. 15 ust. 4 ustawy o sporcie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_3/pkt_6",
+       "text": "Prezesa Polskiego Komitetu Olimpijskiego, o którym mowa w art. 24 ust. 1 ustawy o sporcie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Do udziału w pracach Rady, na prawach członka, Przewodniczący może zaprosić:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_4/pkt_1",
+       "text": "prezesów polskich związków sportowych w rozumieniu art. 7 ust. 1 ustawy o sporcie właściwych w sprawach sportów innych niż piłka nożna oraz sporty motorowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_4/pkt_2",
+       "text": "przedstawicieli instytucji, których przedmiot działalności pozostaje w związku z przedmiotem posiedzenia Rady.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Przewodniczący, Wiceprzewodniczący, członkowie Rady, a także osoby, o których mowa w ust. 3 i 4, mogą być zastępowani w pracach Rady przez upoważnionych przedstawicieli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Do zadań Rady należy, w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "opracowywanie programów mających na celu poprawę bezpieczeństwa imprez sportowych oraz ocena ich realizacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "inicjowanie i opiniowanie projektów aktów prawnych dotyczących bezpieczeństwa imprez sportowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "analizowanie i ocena działań podejmowanych przez służby i instytucje w zakresie dotyczącym bezpieczeństwa imprez sportowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "inicjowanie i zlecanie badań naukowych i prac analitycznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "koordynowanie przedsięwzięć mających na celu zapobieganie aktom przemocy w związku z imprezami sportowymi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "analiza naruszeń bezpieczeństwa w związku z masowymi imprezami sportowymi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "współpraca ze Stałym Komitetem, o którym mowa w art. 8 Europejskiej konwencji w sprawie przemocy i ekscesów widzów w czasie imprez sportowych, a w szczególności meczów piłki nożnej, sporządzonej w Strasburgu dnia 19 sierpnia 1985 r.;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "inicjowanie, monitorowanie i opiniowanie przedsięwzięć mających na celu zapobieganie zjawiskom dyskryminacji, ze szczególnym uwzględnieniem dyskryminacji rasowej w związku z imprezami sportowymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Pracami Rady kieruje Przewodniczący, a w razie jego nieobecności Wiceprzewodniczący.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Posiedzenia Rady zwołuje Przewodniczący albo z jego upoważnienia Wiceprzewodniczący.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przewodniczący może powierzać poszczególnym członkom Rady wykonanie określonych zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Szczegółowy tryb pracy Rady określa regulamin ustalony przez Przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Protokół z posiedzenia Rady sporządza sekretarz Rady. Protokół podpisuje osoba przewodnicząca posiedzeniu oraz sekretarz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Stanowiska zajmowane przez Radę lub opinie Rady są podejmowane w formie uchwały, zwykłą większością głosów. W przypadku równej liczby głosów – decyduje głos osoby prowadzącej posiedzenie Rady.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Przewodniczący składa Prezesowi Rady Ministrów, w terminie do dnia 31 marca każdego roku, sprawozdanie z działalności Rady za rok ubiegły.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przewodniczący z własnej inicjatywy, na wniosek Wiceprzewodniczącego lub członków Rady może zapraszać – z głosem doradczym, bez prawa głosu – do udziału w pracach Rady osoby inne niż określone w § 2 ust. 3 i 4, w szczególności osoby, których wiedza i doświadczenie mogą być przydatne w pracach Rady.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przewodniczący spośród osób, o których mowa w ust. 1, wyznacza osoby, które tworzą Stałą Grupę Ekspercką.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Przewodniczący wyznacza kierownika Stałej Grupy Eksperckiej oraz określa tryb jej pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W celu realizacji zadań Rady Przewodniczący może tworzyć spośród członków Rady grupy robocze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Przewodniczący wyznacza kierownika grupy roboczej oraz określa jej skład i zadania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Udział w pracach Rady oraz Stałej Grupy Eksperckiej jest nieodpłatny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Osobom, o których mowa w § 7 ust. 1, które nie są pracownikami delegowanymi przez pracodawców będących państwowymi lub samorządowymi jednostkami sfery budżetowej, przysługuje zwrot kosztów przejazdu lub noclegów ze środków pozostających w dyspozycji ministerstwa obsługującego ministra właściwego do spraw wewnętrznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Zwrot kosztów poniesionych przez osoby, o których mowa ust. 2, następuje na podstawie dokumentu potwierdzającego poniesione koszty związane z przejazdem lub noclegami oraz poświadczonego przez sekretarza Rady dokumentu stwierdzającego obecność na posiedzeniu Rady lub Stałej Grupy Eksperckiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Zwrot kosztów przejazdu poniesionych przez osoby, o których mowa w ust. 2, następuje do wysokości kosztu przejazdu środkami transportu publicznego drogowego lub kolejowego klasą drugą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "W przypadku gdy osoby, o których mowa w ust. 2, odbyły podróż z wykorzystaniem własnego środka transportu, zwrot kosztów przejazdu odbywa się według kosztu przejazdu środkami transportu publicznego drogowego lub kolejowego klasą drugą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "Koszty badań naukowych i prac analitycznych zlecanych przez Radę są finansowane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw wewnętrznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Obsługę administracyjno-biurową i techniczną Rady oraz Stałej Grupy Eksperckiej zapewnia ministerstwo obsługujące ministra właściwego do spraw wewnętrznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Obowiązek sprawozdawczy, o którym mowa w § 6, za 2012 r. obejmuje także działalność Rady powołanej zarządzeniem, o którym mowa w § 12.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Traci moc zarządzenie nr 104 Prezesa Rady Ministrów z dnia 23 września 2008 r. w sprawie powołania Rady Bezpieczeństwa Imprez Sportowych, zmienione zarządzeniem nr 12 Prezesa Rady Ministrów z dnia 10 lutego 2010 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 151, poz. 1014, z 2011 r. Nr 171, poz. 1016, Nr 185, poz. 1092 i Nr 208, poz. 1240 i 1241 oraz z 2012 r. poz. 490."
+ }
+}

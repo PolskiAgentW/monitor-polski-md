@@ -1,0 +1,282 @@
+{
+ "eli": "MP/2013/971",
+ "title": "Zarządzenie Nr 90 Prezesa Rady Ministrów z dnia 28 listopada 2013 r. w sprawie nadania statutu Urzędowi Regulacji Energetyki",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/971/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 90"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 listopada 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Urzędowi Regulacji Energetyki"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 6 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059 oraz z 2013 r. poz. 984 i 1238) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Urzędowi Regulacji Energetyki nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 90 Prezesa Rady Ministrów z dnia 28 listopada 2013 r. (poz. 971)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT URZĘDU REGULACJI ENERGETYKI"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "Urząd Regulacji Energetyki, zwany dalej „Urzędem”, zapewnia obsługę Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Urząd działa pod bezpośrednim nadzorem i kierownictwem Prezesa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_1/ust_3",
+       "text": "Siedzibą Urzędu jest miasto stołeczne Warszawa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Prezes kieruje Urzędem przy pomocy wiceprezesa, dyrektora generalnego oraz dyrektorów komórek organizacyjnych Urzędu i dyrektorów oddziałów, o których mowa w § 3 ust. 1 i 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Prezes może upoważnić osoby, o których mowa w ust. 1, a także innych pracowników Urzędu do podejmowania decyzji w określonych sprawach w jego imieniu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "W skład Urzędu wchodzą następujące komórki organizacyjne i wyodrębnione stanowiska:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "Departament Rynków Energii Elektrycznej i Ciepła;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "Departament Rynków Paliw Gazowych i Ciekłych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "Departament Rozwoju Rynków i Spraw Konsumenckich;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_3/ust_1/pkt_4",
+         "text": "Departament Systemów Wsparcia;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_3/ust_1/pkt_5",
+         "text": "Departament Strategii i Komunikacji Społecznej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_3/ust_1/pkt_6",
+         "text": "Departament Prawny i Rozstrzygania Sporów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_3/ust_1/pkt_7",
+         "text": "Biuro Dyrektora Generalnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_3/ust_1/pkt_8",
+         "text": "Stanowisko do spraw Koordynacji Rozwoju Inteligentnych Sieci;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_3/ust_1/pkt_9",
+         "text": "Stanowisko do spraw Współpracy Międzynarodowej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_3/ust_1/pkt_10",
+         "text": "Stanowisko do spraw Ochrony Informacji Niejawnych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_3/ust_1/pkt_11",
+         "text": "Stanowisko do spraw Audytu Wewnętrznego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "W skład Urzędu wchodzą również:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_2/pkt_1",
+         "text": "północno-zachodni oddział terenowy z siedzibą w Szczecinie, którego zasięg terytorialny obejmuje obszar województw zachodniopomorskiego i lubuskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_2/pkt_2",
+         "text": "północny oddział terenowy z siedzibą w Gdańsku, którego zasięg terytorialny obejmuje obszar województw pomorskiego i warmińsko-mazurskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_2/pkt_3",
+         "text": "zachodni oddział terenowy z siedzibą w Poznaniu, którego zasięg terytorialny obejmuje obszar województw wielkopolskiego i kujawsko-pomorskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_3/ust_2/pkt_4",
+         "text": "wschodni oddział terenowy z siedzibą w Lublinie, którego zasięg terytorialny obejmuje obszar województw lubelskiego i podlaskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_3/ust_2/pkt_5",
+         "text": "środkowo-zachodni oddział terenowy z siedzibą w Łodzi, którego zasięg terytorialny obejmuje obszar województw łódzkiego i mazowieckiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_3/ust_2/pkt_6",
+         "text": "południowo-zachodni oddział terenowy z siedzibą we Wrocławiu, którego zasięg terytorialny obejmuje obszar województw dolnośląskiego i opolskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_3/ust_2/pkt_7",
+         "text": "południowy oddział terenowy z siedzibą w Katowicach, którego zasięg terytorialny obejmuje obszar województw śląskiego i świętokrzyskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_3/ust_2/pkt_8",
+         "text": "południowo-wschodni oddział terenowy z siedzibą w Krakowie, którego zasięg terytorialny obejmuje obszar województw małopolskiego i podkarpackiego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Organizację wewnętrzną, właściwość rzeczową, w tym zakres zadań i tryb pracy komórek organizacyjnych, wyodrębnionych stanowisk i oddziałów, o których mowa w ust. 1 i 2, określa regulamin organizacyjny nadany przez Prezesa na wniosek dyrektora generalnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Prezes może powoływać zespoły pomocnicze, opiniodawcze lub doradcze o charakterze stałym lub doraźnym, określając ich nazwę, skład osobowy oraz zakres i tryb działania.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Niniejsze zarządzenie było poprzedzone zarządzeniem Ministra Gospodarki z dnia 6 lutego 2013 r. w sprawie nadania statutu Urzędowi Regulacji Energetyki (Dz. Urz. Min. Gosp. poz. 2), które utraciło moc z dniem 11 września 2013 r. na podstawie art. 1 pkt 25 lit. h ustawy z dnia 26 lipca 2013 r. o zmianie ustawy – Prawo energetyczne oraz niektórych innych ustaw (Dz. U. poz. 984)."
+ }
+}

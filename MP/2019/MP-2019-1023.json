@@ -1,0 +1,169 @@
+{
+ "eli": "MP/2019/1023",
+ "title": "Obwieszczenie Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie ogłoszenia obowiązujących w 2020 r. maksymalnych stawek opłat za usunięcie, przechowywanie i strzeżenie środka transportu lub towaru w wyznaczonym miejscu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1023/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW, INWESTYCJI I ROZWOJU[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 października 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia obowiązujących w 2020 r. maksymalnych stawek opłat za usunięcie, przechowywanie i strzeżenie środka transportu lub towaru w wyznaczonym miejscu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 5 ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2018 r. poz. 2332 oraz z 2019 r. poz. 730, 1123 i 1556) ogłasza się maksymalną wysokość stawek kwotowych opłat obowiązujących w 2020 r. za usunięcie, przechowywanie i strzeżenie w wyznaczonym miejscu:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "środka transportu o dopuszczalnej masie całkowitej do 3,5 t:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "za usunięcie – 503 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "za każdą dobę przechowywania i strzeżenia – 42 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "środka transportu o dopuszczalnej masie całkowitej powyżej 3,5 t do 7,5 t:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "za usunięcie – 628 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "za każdą dobę przechowywania i strzeżenia – 54 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "środka transportu o dopuszczalnej masie całkowitej powyżej 7,5 t do 16 t:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "za usunięcie – 887 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "za każdą dobę przechowywania i strzeżenia – 79 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "środka transportu o dopuszczalnej masie całkowitej powyżej 16 t:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "za usunięcie – 1308 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "za każdą dobę przechowywania i strzeżenia – 142 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "środka transportu przewożącego materiały niebezpieczne:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_5/lit_a",
+     "text": "za usunięcie – 1591 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_5/lit_b",
+     "text": "za każdą dobę przechowywania i strzeżenia – 208 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "towaru:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_6/lit_a",
+     "text": "za usunięcie – 1590 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_6/lit_b",
+     "text": "za każdą dobę przechowywania i strzeżenia – 5 zł 20 gr za 1 m³ albo 1 zł 20 gr za 1 m² powierzchni magazynowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841)."
+ }
+}

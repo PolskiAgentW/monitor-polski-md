@@ -1,0 +1,426 @@
+{
+ "eli": "MP/2023/176",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 3 stycznia 2023 r. w sprawie włączenia kwalifikacji rynkowej \"Programowanie komputerów kwantowych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/176/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 stycznia 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji rynkowej „Programowanie komputerów kwantowych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji rynkowej „Programowanie komputerów kwantowych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: wz. J. Cieszyński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 3 stycznia 2023 r. (M.P. poz. 176)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „PROGRAMOWANIE KOMPUTERÓW KWANTOWYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Programowanie komputerów kwantowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nazwa dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okres ważności dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bezterminowo"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację samodzielnie tworzy programy i uruchamia je na komputerach lub symulatorach kwantowych. Wykonując umiarkowanie złożone zadania zawodowe, posługuje się specjalistyczną wiedzą z dziedziny informatyki kwantowej z wykorzystaniem oprogramowania narzędziowego Qiskit. Wykorzystuje znajomość istniejących algorytmów kwantowych oraz ich złożoności obliczeniowej do rozwiązywania wybranych problemów. Optymalizuje programy kwantowe, uwzględniając dynamicznie zmieniającą się architekturę rzeczywistych procesorów kwantowych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Podstawy algebry liniowej"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Wykonuje obliczenia – wykonuje mnożenie macierzy; na wektorach – znajduje wartości własne macierzy (diagonalizacja macierzy); i macierzach – przedstawia różne reprezentacje zapisu liczb;"
+      },
+      {
+       "type": "text",
+       "text": "– przeprowadza operacje na wektorach;"
+      },
+      {
+       "type": "text",
+       "text": "– przedstawia wektory w postaci geometrycznej."
+      },
+      {
+       "type": "text",
+       "text": "Wykonuje obliczenia – omawia właściwości liczb zespolonych; na liczbach zespolonych – przeprowadza obliczenia na liczbach zespolonych;"
+      },
+      {
+       "type": "text",
+       "text": "– zapisuje liczby zespolone w postaci trygonometrycznej (wzór Eulera);"
+      },
+      {
+       "type": "text",
+       "text": "– przedstawia liczby zespolone i operacje na nich na płaszczyźnie zespolonej."
+      },
+      {
+       "type": "text",
+       "text": "Wykonuje obliczenia, – omawia zasady zapisu Diraca; stosując notację Diraca – przekształca zapis wektorowy na zapis Diraca;"
+      },
+      {
+       "type": "text",
+       "text": "– interpretuje wzory w zapisie Diraca."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Podstawy teoretyczne działania komputerów kwantowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Posługuje się wiedzą – wyjaśnia pojęcie stanu układu kwantowego i opisuje go w wybranej reprezentacji; z zakresu mechaniki – wyjaśnia unitarną ewolucję układu kwantowego; kwantowej – opisuje wpływ pomiaru na układ kwantowy;"
+      },
+      {
+       "type": "text",
+       "text": "– podaje możliwe wyniki pomiaru prostego układu kwantowego;"
+      },
+      {
+       "type": "text",
+       "text": "– wyjaśnia korelację pomiędzy wielkościami fizycznymi a operatorami w mechanice kwantowej;"
+      },
+      {
+       "type": "text",
+       "text": "– wyjaśnia fizyczną interpretację wartości własnych operatorów."
+      },
+      {
+       "type": "text",
+       "text": "Omawia pojęcia – omawia pojęcie kubitu i jego możliwe realizacje; z zakresu informatyki – omawia podstawowe bramki kwantowe i podaje ich interpretacje; kwantowej – omawia pojęcie splątania kwantowego;"
+      },
+      {
+       "type": "text",
+       "text": "– omawia pojęcie superpozycji stanów kwantowych;"
+      },
+      {
+       "type": "text",
+       "text": "– omawia wpływ interferencji na wynik pomiarów stanów kwantowych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Wykorzystanie rzeczywistych komputerów kwantowych i symulatorów"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Korzysta z graficznego – omawia zasady korzystania z dostępnych komputerów kwantowych; interfejsu służącego – omawia elementy interfejsu graficznego; do konstruowania algorytmów kwantowych – konstruuje algorytmy, używając interfejsu graficznego;"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje różne metody wizualizacji stanów kwantowych i wyników ich pomiarów;"
+      },
+      {
+       "type": "text",
+       "text": "– interpretuje wyniki uruchomienia obwodu kwantowego;"
+      },
+      {
+       "type": "text",
+       "text": "– zmienia parametry uruchomienia obwodu kwantowego."
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystuje komputery – definiuje elementy oprogramowania narzędziowego Qiskit; kwantowe przy użyciu – zapisuje algorytm kwantowy przy użyciu oprogramowania narzędziowego Qiskit; oprogramowania narzędziowego Qiskit – odczytuje i interpretuje parametry komputerów kwantowych, używając oprogramowania narzędziowego Qiskit;"
+      },
+      {
+       "type": "text",
+       "text": "– uruchamia zadania/programy i zarządza nimi;"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje różne metody wizualizacji stanów kwantowych i wyników ich pomiarów przy użyciu oprogramowania narzędziowego Qiskit;"
+      },
+      {
+       "type": "text",
+       "text": "– zmienia parametry uruchomienia obwodu kwantowego przy użyciu oprogramowania narzędziowego Qiskit;"
+      },
+      {
+       "type": "text",
+       "text": "– interpretuje wyniki uruchomienia programu kwantowego przy użyciu oprogramowania narzędziowego Qiskit;"
+      },
+      {
+       "type": "text",
+       "text": "– wizualizuje wyniki wykonania programu na komputerze kwantowym przy użyciu oprogramowania narzędziowego Qiskit."
+      },
+      {
+       "type": "text",
+       "text": "Stosuje wybrane typy – omawia rodzaje symulatorów komputerów kwantowych; symulatorów – omawia zasady korzystania z dostępnych symulatorów komputerów kwantowych;"
+      },
+      {
+       "type": "text",
+       "text": "– uruchamia programy kwantowe z wykorzystaniem wybranego symulatora."
+      },
+      {
+       "type": "text",
+       "text": "Omawia parametry – określa moc obliczeniową komputerów kwantowych i wyjaśnia elementy na nią wpływakomputerów jące; kwantowych – porównuje ze sobą różne komputery kwantowe; i minimalizuje wpływ – omawia rodzaje błędów w istniejących komputerach kwantowych; błędów na obliczenia – wyjaśnia pojęcie NISQ (Noisy Intermediate Scale Quantum computers);"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje dostępne możliwości oprogramowania narzędziowego Qiskit do minimalizacji wpływu błędów/szumów na wynik obliczeń."
+      },
+      {
+       "type": "text",
+       "text": "Optymalizuje programy – wyjaśnia pojęcie procesu transpilacji; kwantowe, – analizuje topologię procesorów komputerów kwantowych; uwzględniając – dostosowuje program do architektury wybranego rzeczywistego komputera kwantowego. architekturę rzeczywistych procesorów kwantowych Zestaw 4. Wykorzystanie istniejących algorytmów z uwzględnieniem ich złożoności obliczeniowej"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje elementy – omawia podstawowe klasy złożoności obliczeniowej (klasyfikacja złożoności); teorii złożoności – szacuje czasową i pamięciową złożoność obliczeniową; obliczeniowej – analizuje możliwości istniejących procesorów kwantowych pod względem uruchomienia danego programu."
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystuje algorytmy – omawia podstawowe algorytmy zawarte w oprogramowaniu narzędziowym Qiskit oraz kwantowe ich zastosowania w zakresie uczenia maszynowego, problemów optymalizacyjnych, symulacji układów fizycznych i chemicznych (np.: Grover, Shor, VQE);"
+      },
+      {
+       "type": "text",
+       "text": "– omawia i wykonuje obliczenia hybrydowe (klasyczno-kwantowe);"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje gotowe implementacje algorytmów w oprogramowaniu narzędziowym Qiskit; – rozwiązuje wybrane problemy, adaptując konkretne algorytmy kwantowe;"
+      },
+      {
+       "type": "text",
+       "text": "– omawia i analizuje różnice pomiędzy algorytmami klasycznymi i kwantowymi w zastosowaniu do podobnych klas problemów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dotyczące walidacji i podmiotów przeprowadzających walidację",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody walidacji – test teoretyczny;"
+      },
+      {
+       "type": "text",
+       "text": "– obserwacja w warunkach symulowanych/rzeczywistych;"
+      },
+      {
+       "type": "text",
+       "text": "– wywiad swobodny/ustrukturyzowany;"
+      },
+      {
+       "type": "text",
+       "text": "– analiza dowodów i deklaracji. Weryfikacja efektów uczenia się składa się z dwóch części: teoretycznej i praktycznej. W części teoretycznej wykorzystuje się test teoretyczny. W części praktycznej stosuje się metodę obserwacji w warunkach symulowanych lub metodę obserwacji w warunkach rzeczywistych uzupełnione wywiadem swobodnym lub ustrukturyzowanym (rozmową z komisją). Obie części walidacji mogą być poprzedzone analizą dowodów i deklaracji oraz wywiadem swobodnym w celu potwierdzenia całości lub części efektów uczenia się. Przykładowe dowody: IBM Certified Associate Developer – Quantum Computation using Qiskit, Fundamentals of Quantum Computation Using Qiskit – Developer, Qiskit Advocate."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Zasoby kadrowe Weryfikację efektów uczenia się prowadzi komisja walidacyjna składająca się co najmniej z 2 asesorów, z których jeden pełni funkcję przewodniczącego komisji z głosem decydującym. Wymagania dla członków komisji walidacyjnej obejmują:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "minimum 2-letnie udokumentowane doświadczenie w zakresie programowania komputerów kwantowych;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "udokumentowane doświadczenie (minimum 100 godzin w okresie 2 ostatnich lat) w prowadzeniu i projektowaniu szkoleń z zakresu programowania komputerów kwantowych z wykorzystaniem oprogramowania narzędziowego Qiskit; – co najmniej 2 publikacje naukowe lub popularnonaukowe w tematyce informatyki kwantowej z wykorzystaniem oprogramowania narzędziowego Qiskit;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "udokumentowane doświadczenie w weryfikowaniu efektów uczenia się z zakresu tej kwalifikacji;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "stopień naukowy doktora z jednej z dziedzin: informatyki, fizyki, matematyki, chemii. Każdy z członków komisji walidacyjnej musi spełniać co najmniej 2 z powyższych wymagań.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne Instytucja prowadząca walidację zapewnia:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "do części praktycznej:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "ust_1/pkt_1/tir_1",
+         "text": "komputer z dostępem do Internetu,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "ust_1/pkt_1/tir_2",
+         "text": "dostęp do środowiska umożliwiającego wykorzystanie oprogramowania narzędziowego Qiskit;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "do części teoretycznej:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "ust_1/pkt_2/tir_1",
+         "text": "test w języku angielskim w postaci papierowej lub elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "ust_1/pkt_2/tir_2",
+         "text": "standardowe warunki umożliwiające samodzielną pracę osoby przystępującej do walidacji.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymagań dotyczących etapów identyfikowania i dokumentowania efektów uczenia się."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716)."
+ }
+}

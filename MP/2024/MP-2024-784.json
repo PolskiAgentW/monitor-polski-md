@@ -1,0 +1,80 @@
+{
+ "eli": "MP/2024/784",
+ "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 13 sierpnia 2024 r. w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2025",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/784/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA KLIMATU I ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 sierpnia 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2025"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 291 ust. 2 oraz art. 312 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2024 r. poz. 54, 834, 1089 i 1222) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "górną jednostkową stawkę kary za przekroczenie dopuszczalnego poziomu hałasu przenikającego do środowiska, za jeden dB przekroczenia, wynoszącą 96 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "jednostkowe stawki kar za przekroczenie dopuszczalnego poziomu hałasu, zawarte w załączniku do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Klimatu i Środowiska: P. Hennig-Kloska"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Klimatu i Środowiska z dnia 13 sierpnia 2024 r. (M.P. poz. 784)",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KAR ZA PRZEKROCZENIE DOPUSZCZALNEGO POZIOMU HAŁASU"
+    },
+    {
+     "type": "text",
+     "text": "w zł za każdy dB przekroczenia Wielkość przekroczenia w porze dnia w porze nocy"
+    },
+    {
+     "type": "text",
+     "text": "od 1 do 5 dB 16,71 20,90"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 5 do 10 dB 29,22 35,51"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 10 do 15 dB 41,80 50,16"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 15 dB 62,67 75,28"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. poz. 2726)."
+ }
+}

@@ -1,0 +1,3306 @@
+{
+ "eli": "MP/2014/810",
+ "title": "Komunikat Państwowej Komisji Wyborczej z dnia 1 września 2014 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach do Parlamentu Europejskiego, przeprowadzonych w dniu 25 maja 2014 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/810/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KomuniKat"
+  },
+  {
+   "type": "text",
+   "text": "Państwowej Komisji wyborczej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 września 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach do Parlamentu europejskiego, przeprowadzonych w dniu 25 maja 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 143 § 1 i 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza ogłasza przedłożone jej sprawozdania finansowe komitetów wyborczych uczestniczących w wyborach do Parlamentu Europejskiego, przeprowadzonych w dniu 25 maja 2014 r., i informuje, że termin składania sprawozdań upłynął 25 sierpnia 2014 r. Obowiązek złożenia sprawozdań finansowych ciążył na 20 komitetach wyborczych."
+  },
+  {
+   "type": "text",
+   "text": "W ustawowym terminie sprawozdania finansowe złożyło 19 komitetów wyborczych. Sprawozdania nie złożył Komitet Wyborczy Wyborców Gospodarka Dobra Wspólnego."
+  },
+  {
+   "type": "text",
+   "text": "Przedłożone sprawozdania stanowią załączniki nr 1–19 do komunikatu, według załączonego wykazu."
+  },
+  {
+   "type": "text",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do komunikatu Państwowej Komisji Wyborczej z dnia 1 września 2014 r. (poz. 810)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WyKaZ ZałącZNiKóW"
+    },
+    {
+     "type": "text",
+     "text": "Komitety wyborcze partii politycznych:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Komitet Wyborczy Demokracja Bezpośrednia",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Komitet Wyborczy Nowa Prawica – Janusza Korwin-Mikke",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Komitet Wyborczy Platforma Obywatelska RP",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Komitet Wyborczy Polska Razem Jarosława Gowina",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Komitet Wyborczy Polskie Stronnictwo Ludowe",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Komitet Wyborczy Prawo i Sprawiedliwość",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Komitet Wyborczy Samoobrona",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Komitet Wyborczy Samoobrona Odrodzenie",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Komitet Wyborczy Solidarna Polska Zbigniewa Ziobro",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Komitet Wyborczy Partia Zieloni",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Komitet Wyborczy Związku Słowiańskiego",
+     "children": [
+      {
+       "type": "text",
+       "text": "Koalicyjne Komitety wyborcze:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Koalicyjny Komitet Wyborczy Europa Plus Twój Ruch",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Koalicyjny Komitet Wyborczy Sojusz Lewicy Demokratycznej – Unia Pracy",
+     "children": [
+      {
+       "type": "text",
+       "text": "Komitety wyborcze wyborców:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Komitet Wyborczy Wyborców Marka Wocha",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Komitet Wyborczy Wyborców Naprawimyto.org",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Komitet Wyborczy Wyborców Obrony Wędlin Tradycyjnych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Komitet Wyborczy Wyborców Oburzeni",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Komitet Wyborczy Wyborców Ruch Narodowy",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Komitet Wyborczy Wyborców Wolność załącznik nr 1",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "it. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy 88 1540 1287 2001 7119 5870 0001 (nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem - 32 270,70 zł"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty - 2014.03.06 (1 404,50 zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty - 2014.05.23 (2 930,00 zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem - 34 200,85 zł"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty - 2014.03.10 (553,50 zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty - 2014.07.10 (75,57 zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrécone**)"
+      },
+      {
+       "type": "ocr",
+       "text": "(imię i nazwisko, miejscowość zamieszkania)"
+      },
+      {
+       "type": "ocr",
+       "text": "(imię i nazwisko, miejscowość zamieszkania)"
+      },
+      {
+       "type": "ocr",
+       "text": "d. kwota spłacona (w tym odsetki): ...................- e ces ecereeaecaeteceacerseeties e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+      },
+      {
+       "type": "ocr",
+       "text": "d. kwota spłacona (w tym odsetki): ........................ ee enectececesaeterereenseetaee e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty**): 2 190,00"
+      },
+      {
+       "type": "ocr",
+       "text": "1) Zobowiązanie z tytułu podatku PIT-4 za miesiąc kwiecień 2014 r. (wierzycie! — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) Zobowiązanie z tytułu podatku PIT-4 za miesiąc maj 2014 r. (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": "3) Zobowiązanie z tytułu podatku PIT-4 za miesiąc lipiec 2014 r. (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": "4) Łuk-press Marcin Gomółka; Os. Unitów Podlaskich 3/1, 21-400 Łuków (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": "5) TaxAll Sp z 0.0.; Ul. Wilczyńskiego 27, 21-400 Łuków (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne**):"
+      },
+      {
+       "type": "ocr",
+       "text": "1) Demokracja Bezpośrednia (nazwa partii, z której funduszu wyborczego pochodzą środki)"
+      },
+      {
+       "type": "ocr",
+       "text": "7. Wykaz pozostałych tytułów, niewymienionych w pkt 2—4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego*)/*\"):"
+      },
+      {
+       "type": "ocr",
+       "text": "(świadczeniodawca — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": "*)Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.). ™)W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowił załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "Warszawa, 18-08-2014 A u SZĄ (miejscowość, data) (imię i nazwisko oraz podpis pełnomocnika finansowego)"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 2"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "| 2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace projektowe i wy- 10376185 tworzenie 123.761,96 KKT-2*---* WW KC"
+      },
+      {
+       "type": "ocr",
+       "text": "zlecenia), nieujęte w pkt 1—2 47.000,00"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki 43.933,60 C. Wysokość nadwyżki, o której mowa w art. 138 § 1—3') Kodeksu wyborczego | 000"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne (w tym z tytułu umowy o dzieło lub"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Monitor Polski 1B Poz. 810 ll. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy 82 1020 1156 0000 7302 0131 5365"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem , . 05.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wptaty"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wptaty"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem 09.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty"
+      },
+      {
+       "type": "ocr",
+       "text": "(kwota w zi)"
+      },
+      {
+       "type": "ocr",
+       "text": "(imię i nazwisko, miejscowość zamieszkania) NIE DOTYCZY (imię i nazwisko, miejscowość zamieszkania) fkwota w zł) „Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą”:"
+      },
+      {
+       "type": "ocr",
+       "text": "{imie i nazwisko, miejscowość zamieszkania) NIE DOTYCZY (imię i nazwisko, miejscowość zamieszkania) (kwota w zt} . Kredyty bankowe”: NIE DOTYCZY"
+      },
+      {
+       "type": "ocr",
+       "text": "1) a. kredytodawca: b. warunki uzyskania kredytu: ... NIF. DOTYCZY"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (w zt): NIĘ DOTYCZY. NIE DOTYC2Y d. kwota sptacona (w tym odsetki): .... e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): NIE DOTYCZY."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "NIE DO OZ ao awatar"
+      },
+      {
+       "type": "ocr",
+       "text": "2) a. kredytodawca: ...... NIE DOTYCZY b. warunki uzyskania kredytu:"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (w zł): NIEDORMYCZY, ooo cicccccccceccesessessesssusssepsssessersssiesseesstesvenveciateees d. kwota spłacona (w tym odsetki): NIE DOTY COZY A e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): ............::c::csecceereeeeeeees"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty”: 1 nM ZBŁĄCZNIKA, asgnsnnnnnsnnsnnnagnssnanannannsea eee (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) NIE DOTYCZY (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "2)... Perr era? . Wykaz funduszy wyborczych, z których pochodzą środki pieniężne”):"
+      },
+      {
+       "type": "ocr",
+       "text": "1) ..... KONGRES NOWEJ PRAWICY... | ŚA001600 (nazwa partii, z której funduszu wyborczego pochodzą środki) NIE DOTYCZY (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł) . Wykaz pozostałych tytułów, niewymienionych w pkt 2—4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego”*\"):"
+      },
+      {
+       "type": "ocr",
+       "text": "(świadczeniodawca — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) NIE DOTYCZY (świadczeniodawca — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "* Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.). \"W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowil załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "Zdzisława Łuczkiewicz ("
+      },
+      {
+       "type": "ocr",
+       "text": "WARSZAWA, 12.08.2014 ) . NZS nace, |_| (miejscowość, data) \"| (imię i nazwisko oraz podpis pełnomocnika finansowego)"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 3"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Monitor Polski -ll1l- Poz. 810"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii elektrycznej 105 669,89"
+      },
+      {
+       "type": "ocr",
+       "text": "b) koszty telekomunikacyjne (np. telefony, tacze internetowe) 69 513,53"
+      },
+      {
+       "type": "ocr",
+       "text": "c) koszty utworzenia i utrzymania strony internetowej komitetu 7 237,59"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Ustugi obce 16 572 032,28"
+      },
+      {
+       "type": "ocr",
+       "text": "1) korzystanie ze środków masowego przekazu i nośników plakatów 10 133 503,47"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych,w tym prace koncepcyjne, prace projektowe i wytworzenie"
+      },
+      {
+       "type": "ocr",
+       "text": "_ f) inne materiały wyborcze (np. plakietki, reklamówki) 511 872,47"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie) 860 170,65"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów 311 367,05"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty 2 438 733,10 700 349,62"
+      },
+      {
+       "type": "ocr",
+       "text": "373 753,50 C. Wysokość nadwyżki, o której mowa w art. 138 § 1—3”) Kodeksu wyborczego ’ 511 525,70"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne (w tym ztytutu umowy o dzieło lub zlecenia), nieujęte w pkt 1—2"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy 30 1020 1026 0000 1702 0232 6981 (nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty: 04.03.2014 r. (500 000,00zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty: 23.05.2014 r. (1 161 680,80zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty: 05.03.2014 r. (50,00zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty: 13.08.2014 (120,00zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunkuw dniu złożenia sprawozdania finansowego 511 525,70 (kwota w zt) . Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone”**):"
+      },
+      {
+       "type": "ocr",
+       "text": "nie dotyczy (imię i nazwisko, miejscowość zamieszkania) nie dotyczy (imię i nazwisko, miejscowość zamieszkania) (kwota w zt) . Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą”:"
+      },
+      {
+       "type": "ocr",
+       "text": "nie dotyczy fimię i nazwisko, miejscowość zamieszkania) nie dotyczy (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) . Kredyty bankowe*”):"
+      },
+      {
+       "type": "ocr",
+       "text": "1) a. kredytodawca: nie dotyczy b. warunki uzyskania kredytu: nie dotyczy c. kwota kredytu (w zł): nie dotyczy d. kwota spłacona (w tym odsetki): nie dotyczy e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): nie dotyczy"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "2)a. kredytodawca: nie dotyczy b. warunki uzyskania kredytu: nie dotyczy c. kwota kredytu (w zł): nie dotyczy d. kwota spłacona (w tym odsetki): nie dotyczy e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): nie dotyczy"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, zpodaniem kwoty zobowiązania pozostałego do spłaty””):"
+      },
+      {
+       "type": "ocr",
+       "text": "nie dotyczy sv auussauawenewssasaune (wierzycie! — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) fkwota w zł) nie dotyczy A (wierzycie! — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne **: Platforma Obywatelska RP 18 340 000,00 (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w =) nie dotyczy sbeetnavardeavusesdeenaes (nazwa partii, z której funduszu wyborczego pochodzą środki) fkwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "7. Wykaz pozostałych tytułów, niewymienionych w pkt 2—4 i6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego”)**):"
+      },
+      {
+       "type": "ocr",
+       "text": "nie dotyczy Sevesssssseasanaauesseess (Swiadezeniodawca — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) nie dotyczy gauss suwuaver sane sevens (Swiadezeniodawca — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "M Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Mr 21, poz. 112, z późn. zm.). | W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowił załącznikodpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "(miejscowość, data) (imię i nazwisko oraz podpis pełnomocnika finansowego)"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 4"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Sprawozdanie Finansowe za okres od dnia 28.02.2014 do dnia 30.07.2014 r. Komitet Wyborczy Polska Razem Jarosława Gowina Wybory do Parlamentu Europejskiego z dn. 25.05.2014 WYSZCZEGÓLNIENIE KWOTA 2)Wykonanie materiałów wyborczych , w tym prace koncepcyjne, prace projektowe i wytworzenie 566 981,00 a)plakaty wyborcze, bilbord 182 064,93"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spot c)ulotki djinnne wydawnictwa 68 972,55 e)reklama w internecie 5 443,50 wyborcze (np.plakietki reklamówki ) 83 202,38 3)Koszty spotkań wyborczych 78 624,48"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty spotkań wyborczych 78 624,48 4)Koszty podróży 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "a) zajęcie pasa drogowego"
+      },
+      {
+       "type": "ocr",
+       "text": "b) dystrybucja materiałów wyborczych c)prowizje agencyjne d)Szkołenia „wizerunek 6 294,00 e)tłumaczenia 863,00 3.Wynagrodzenia i składki na ubezpieczenia społeczne ( w tym z tytułu umowy o dzieło lub złecenia) nie ujęte w pkt.1-2 0,00 NEM"
+      },
+      {
+       "type": "ocr",
+       "text": "4) Pozostałe wydatki 5 903,19 Ja) opłaty bankowe 854,99 b)opłaty pocztowe,kurier 5 048,20 C.WYSOKOŚĆ NAD KI, O KTÓREJ MOWA W ART.138 PAR.1-3 KODEKSY WYBORCZEGO . 75,86 stan rachunku na 30.07.2014 75,85 nadpłata na kontrahenta Zapol Sp.zo.o. 0,01"
+      },
+      {
+       "type": "ocr",
+       "text": "str. 2z4"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 16 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Sprawozdanie Finansowe za okres od dnia 28.02.2014 do dnia 30.07.2014 r."
+      },
+      {
+       "type": "ocr",
+       "text": "Komitet Wyborczy Polska Razem Jarosława Gowina Wybory do Parlamentu Europejskiego z dn. 25.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "II INFORMACJE SZCZEGÓŁOWE"
+      },
+      {
+       "type": "ocr",
+       "text": "WYSZCZEGÓLNIENIE | KWOTA 1.RACHUNEK BANKOWY : Powszechna Kasa Oszczędności Bank Polski SA nr rachunku komitetu wyborczego :19102010970000740202591584"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "|| [| 1 806 507,69 ee KE KOKA"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty 19.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty 23.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "nie dotyczące zasilenia z Funduszu Wyborczego"
+      },
+      {
+       "type": "ocr",
+       "text": "zwrot od kontrahentalNNOVATIONS SP.ZO.O. FV KOREKTA 09.04.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "zwrot od kontrahentalNNOVATIONS SP.ZO.O. FV KOREKTA 09.05.2014 zwrot od kontrahenta POCZTA POLSKA S.A błędny rachunek na fv 28.05.2014 RAFAL KOZLOWSKI zwrot btednie dokonanego zwrotu z rach. Komitetu z dnia 22.05.2014 26.05.2014 STRUS IRENEUSZ zwrot blednie dokonanego zwrotu z rach. Komitetu 26.05.2014 EWA GŁÓWKA zwrot błednie dokonanego zwrotu z rach. Komitetu z dnia 22.05.2014 26.05.2014 ANDRZEJ PŁONKA zwrot błednie dokonanego zwrotu z rach. Komitetu z dnia 22.05.2014 26.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem Po 1... 1806431,84"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty 20.03.2014 3 955,68"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty 29.07.2014 1,30"
+      },
+      {
+       "type": "ocr",
+       "text": "3) Stan rachunku w dniu złożenia sprawozdania finansowego 75,85"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego,przyjęte i niezw rócone :"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wpłaty przyjęte i niezwrócone „dokonane w inny sposób niż czekiem Nie występują"
+      },
+      {
+       "type": "ocr",
+       "text": "4.Kredyty bankowe Brak kredytów bankowych 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "str. 324"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Sprawozdanie Finansowe za okres od dnia 28.02.2014 do dnia 30.07.2014 r. Komitet Wyborczy Polska Razem Jarosława Gowina Wybory do Parlamentu Europejskiego z dn. 25.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne : 1)Fundusz Wyborczy - Partia Polska Razem Jarosława Gowina"
+      },
+      {
+       "type": "ocr",
+       "text": "I 1751 400,00"
+      },
+      {
+       "type": "ocr",
+       "text": "nieodpłatnych, z z wyjątkiem świadczeń polegających na i nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art.133"
+      },
+      {
+       "type": "ocr",
+       "text": "Warszawa 30.07.2014 Miejscgyość „data płoć i Maja Rezanko-2) Skara Pełnomocnik Finansowy"
+      },
+      {
+       "type": "ocr",
+       "text": "str. 4z 4"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 5"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 18 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 19 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "KOMITET WYBORCZY Stronnictwo Ludowe ul, Piękna 3a/7 00-539 Warszawa."
+      },
+      {
+       "type": "ocr",
+       "text": "b). koszty telekomunikacyjne(np. telefony, łącze internetowe)"
+      },
+      {
+       "type": "ocr",
+       "text": "c). koszty utworzenia i utrzymania strony internetowej komitetu 5 535,00"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Usługi obce 3 774 223,30 1)korzystanie ze środków masowego przekazu i nośników plakatów 1 749 867,13"
+      },
+      {
+       "type": "ocr",
+       "text": "a) dzienniki i czasopisma(koszt zamieszczania ogłoszeń i artykułów sponsorowanych) 580 687,90"
+      },
+      {
+       "type": "ocr",
+       "text": "b) radio (koszt usługi emisji ogłoszenia, spotu, audycji itp.) 126 452,69"
+      },
+      {
+       "type": "ocr",
+       "text": "c) telewizja (koszt usługi ogłoszenia, spotu, audycji itp.) 269 232,57"
+      },
+      {
+       "type": "ocr",
+       "text": "d) nośniki plakatów (koszt ekspozycji 659 939,59"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie (koszt usługi emisji 113 554,38"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych w tym prace koncepcyjne, prace projektowe i wytworzenia 1 427 370,58"
+      },
+      {
+       "type": "ocr",
+       "text": "a) plakaty wyborcze, bilboardy 606 862,69"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spoty 209 429,43"
+      },
+      {
+       "type": "ocr",
+       "text": "c) ulotki 257 083,40"
+      },
+      {
+       "type": "ocr",
+       "text": "d) inne wydawnictwa 142 105,00"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie 11 147,66 inne materiały wyborcze(np. plakietki, reklamówki 200 742,40"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie) 277 243,84"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszt 314 813,11"
+      },
+      {
+       "type": "ocr",
+       "text": "6) prowizje i opłaty bankowe"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne( w tym z tytułu EZ umowy o dzieło lub zlecenia), nieujęte w pkt1-2 332 393,98"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki | 4351870 43 516,70 C. | Wysokość nadwyżki, o której mowa w art.138§1-3 *Kodeksu borczego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 20 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "KOMITET WYBORCZY Polskie Stronnictwo Ludowe 00-539 Warszawa, ul. Piękna 3a/7"
+      },
+      {
+       "type": "ocr",
+       "text": "ll. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "Rachunek bankowy: BPS SA O/Warszawa | PI. Jana Henryka Dąbrowskiego 3, 00-057 Warszawa 58 1930 1523 2310 0348 1495 0001-konto główne 16-rachunki pomocnicze"
+      },
+      {
+       "type": "ocr",
+       "text": "oddział dolnośląskie kujawsko-pomorskie lubelskie lubuskie łódzkie małopolskie mazowieckie opolskie podkarpackie | podlaskie pomorskie śląskie"
+      },
+      {
+       "type": "ocr",
+       "text": "Numer subkonta 31 1930 1523 2310 0348 1495 0002 04 1930 1523 2310 0348 1495 0003 74 1930 1523 2310 0348 1495 0004 47 1930 1523 2310 0348 1495 0005 20 1930 1523 2310 0348 1495 0006 90 1930 1523 2310 0348 1495 0007 63 1930 1523 2310 0348 1495 0008 36 1930 1523 2310 0348 1495 0009 09 1930 1523 2310 0348 1495 0010 79 1930 1523 2310 0348 1495 0011 52 1930 1523 2310 0348 1495 0012 25 1930 1523 2310 0348 1495 0013 95 1930 1523 2310 0348 1495 0014 | świętokrzyskie 68 1930 1523 2310 0348 1495 0015 |warmińsko-mazurskie 41 1930 1523 2310 0348 1495 0016 | wielkopolskie 14 1930 1523 2310 0348 1495 0017 |zachodniopomorskie"
+      },
+      {
+       "type": "ocr",
+       "text": "(nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem: 4 383 043,92"
+      },
+      {
+       "type": "ocr",
+       "text": "50 000,00"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty: VVB 1 /2014-02-27 zasilenie Komitetu Wyborczego PSL z Funduszu Wyborczego PSL"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty: 975,42 WB 27/2014-07-30, likwidacja rachunku pomocniczego Komitetu Wyborczego PSL o numerze : 14 1930 1523 2310 0348 1495 0017"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem a). data pierwszej wypłaty :WB 2/2014-03-03, prowizja bankowa"
+      },
+      {
+       "type": "ocr",
+       "text": "4 383 043,92"
+      },
+      {
+       "type": "ocr",
+       "text": "1,50 b). data ostatniej wypłaty: WB 59/2014-08-05, likwidacja rachunku podstawowego Komitetu Wyborczego PSL odprowadzenie środków na rachunek Funduszu Wyborczego PSL"
+      },
+      {
+       "type": "ocr",
+       "text": "225 870,68"
+      },
+      {
+       "type": "ocr",
+       "text": "0,00 (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "KOMITEFWYG ORCZY Pałskie Strannictwo Ludowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wpłaty na rzecz komitetu wyborczego , przyjęte i niezwrócone **): NIE DOTYCZY 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "0,0. (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem 0,00 rozrachunkowym, przelewem lub kartą płatniczą **):NIE DOTYCZY (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "(imię i nazwisko, miejscowość zamieszkania Kredyty bankowe **): NIE DOTYCZY"
+      },
+      {
+       "type": "ocr",
+       "text": "1) a. kredytodawca:.. A b. warunki uzyskania kredytu: Po EeRR RER Fa 494 ous PAD kad kra orz mza mag aa r eesoueaee sane c. kwota kredytu(w zł): d. kwota spłacona( w tym odsetki): e. kwota pozostała do spłaty ( w tym odsetki na dzień sporządzenia sprawozdania):"
+      },
+      {
+       "type": "ocr",
+       "text": "Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego , innych niż tytuł kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty **): 1 (wierzyciel-imię i nazwisko, miejscowość zamieszkania lub nazwa siedziby) (kwota w zh"
+      },
+      {
+       "type": "ocr",
+       "text": "Wykaz funduszy wyborczych, z których pochodzą środki pieniężne **): 1). Fundusz Wyborczy Polskiego Stronnictwa Ludowego, ul. Piękna 3a, 00-539 4 381 873,92 Warszawa Konto: 21 1930 1523 2310 0342 0944 0001 (nazwa partii, z której funduszu wyborczego pochodzą środki)"
+      },
+      {
+       "type": "ocr",
+       "text": "Wykaz pozostałych tytułów, niewymienionych w pkt 2-4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego *)/**):"
+      },
+      {
+       "type": "ocr",
+       "text": "(kwota w zł) (świadczeniodawca-imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba"
+      },
+      {
+       "type": "ocr",
+       "text": "*) ustawa z dnia 5 stycznia 2011r. -kodeks wyborczy (dz, u, Nr 21, poz, 112z późn, zm.). **) w przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowił załącznik odpowiednich punktów do sprawozdania. Warszawa dnia 05-08-2014 r. Maral Katarzyna Kuriej nicl Ludowe (imię i Gay id isko AGNI Pełnomocnika finansowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "(miejscowość, data) jaj"
+      },
+      {
+       "type": "ocr",
+       "text": "KOMITET WYBORCZY Polskie Stronnictwa Ludowe 00-539 Warszawa, ui. Piękna Sal?"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 22 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 6"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 23 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "nieujęte w pkt 1-2"
+      },
+      {
+       "type": "ocr",
+       "text": "c. Wysokość nadwyżki, o której mowa w art. 138 § 1-3 Kodeksu wyborczego 19 420,78"
+      },
+      {
+       "type": "ocr",
+       "text": "II. Informacje szczegółowe Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy PKO BP S.A. I REGIONALNY ODDZ KORPORACYJNY 91 1020 1026 0000 1602 0233 2237 (nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty 11.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty 23.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty 11.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty 31.07.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego 0,00 (kwota w zł) Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone 0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą 0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) Kredyty bankowe"
+      },
+      {
+       "type": "ocr",
+       "text": "1) a. kredytodawca: .........- ae ea ae eens eeeceee eset es eens sea zaa aa taaak aaa rana c ce Nie dotyczy b. warunki uzyskania kredytu: .......eeeeeeeza erze zza anawa aaa akira ana N AA kwota kredytu (W Zł): .....u ee ae eee a aaa aaa aaa za aaa ana za zat za aaa tanka AAAA kwota spłacona (w tym odsetki): ...........1..11..1:.. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): ........."
+      },
+      {
+       "type": "ocr",
+       "text": "kredytodaWCa: .....u uuu aeaa aaa zy aaa ana a ate aa taaa az aan na aaa ryt akara Gia I GA Nie dotyczy warunki uzyskania kredytu: ......... eee zee e eee anna cesses aan aka aaa akira ri t iii Ł kwota kredytu (W Zł): ...........euaa ua a eee zaa n ana a panna karania ata rak nart iii tir kwota sptacona (w tym odsetki): ..........eee ue a aaa aaa eau aaa aaa aannkkaa i ees kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): ........."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 24 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty”: 0,00 (wierzyciel - imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) Wykaz funduszy wyborczych, z których pochodzą środki pieniężne"
+      },
+      {
+       "type": "ocr",
+       "text": "1) PRAWO I SPRAWIEDLIWOŚĆ 16 815 000,00 (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł) Wykaz pozostałych tytułów, niewymienionych w pkt 2-4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego\": 0,00 (świadczeniodawca - imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "\") Ustawa z dnia 5 stycznia 2011 r. - Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.). = W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnymgr' będzie stanowił załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "zu, który"
+      },
+      {
+       "type": "ocr",
+       "text": "MARSA wp 3107 JO (miejscowość, data) - (imię il źwisko oraz podpis pełnomocnika finansowego)"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 7"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 25 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 26 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "KOMITET W;BORCZY"
+      },
+      {
+       "type": "ocr",
+       "text": "00-508 Warszawa ."
+      },
+      {
+       "type": "ocr",
+       "text": "3. Pochodzące z kredytów 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pochodzące z funduszu(y) wyborczego(ych) 5.901,00 II. Inne 00,00 B. Wydatki/ koszty (suma z pkt I +II +111) 5. 901,00"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Koszty administracyjne 307,38"
+      },
+      {
+       "type": "ocr",
+       "text": "a) Koszty wynajmu powierzchni biurowej, w tym koszty energii 00,00 elektrycznej"
+      },
+      {
+       "type": "ocr",
+       "text": "b) Koszty telekomunikacyjne (np. telefony, łącze 00,00 internetowe)"
+      },
+      {
+       "type": "ocr",
+       "text": "c) Koszty utworzenia i utrzymania strony internetowej komitetu 307,38"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Usługi obce 5.335,12"
+      },
+      {
+       "type": "ocr",
+       "text": "1) — ze środków masowego przekazu i nośników plakatów — 793,00 —|"
+      },
+      {
+       "type": "ocr",
+       "text": "a) Dzienniki i czasopisma 123,00"
+      },
+      {
+       "type": "ocr",
+       "text": "b) Radio (koszt usługi ogłoszenia, spotu, audycji itp..) 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "c) Telewizja (koszt usługi ogłoszenia , spotu , audycji itp) | 369,00"
+      },
+      {
+       "type": "ocr",
+       "text": "d) Nośniki plakatów (koszt ekspozycji) 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "e) Reklama w Internecie (koszt usługi emisji) 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace 3. 100,00 projektowe i wytworzenia)"
+      },
+      {
+       "type": "ocr",
+       "text": "a) plakaty wyborcze 850,00"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spoty 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "c) ulotki 850,00"
+      },
+      {
+       "type": "ocr",
+       "text": "d) inne wydawnictwa 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "f) Inne materiały wyborcze (np. plakietki, reklamówki) 1.400,00 |"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, 246,00 nagłośnienie)"
+      },
+      {
+       "type": "ocr",
+       "text": "4) Koszty podróży i noclegów 1.497,12"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne (w tym z 00,00 tytułu umowy o dzieło lub zlecenia ) nieujęte w pkt 1-2"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki 258,50 C. Wysokość nadwyżki o której mowa w art. 138 § 1-3 Kodeksu Wyborczego 00,00"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 27 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "KOMITET W; BORCZY ł SAMOOBRONA Al. JEROZOLIMSKIE 11/19 lok. 14 00-508 Warszawa"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. _ Informacje szczegółowe Wyszczególnienie Kwota w zł"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy: Bank Millenium nr: 06 1160 2202 0000 0002 5776 5392 ererrerererereree rere rere errr ORO 0000000 0000000000200000000000000000000000000000000000000000000000000400000000 (nazwa banku, nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty - 21.03.2014 500,00 600,00"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty — 15.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty - 26.03.2014 315,87"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty — 05.06.2014 5,00"
+      },
+      {
+       "type": "ocr",
+       "text": "3) Stan rachunku w dniu złożenia sprawozdania wyborczego 00,00"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone:"
+      },
+      {
+       "type": "ocr",
+       "text": "ANN Nie dotyczy (Imię i nazwisko , miejscowość zamieszkania)"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą: DE nie dotyczy"
+      },
+      {
+       "type": "ocr",
+       "text": "(Imię i nazwisko , miejscowość zamieszkania)"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Kredyty bankowe"
+      },
+      {
+       "type": "ocr",
+       "text": "1) A.kredytodawca: .........u.eueaa aaa aaa aaa aaa aaa aaa rawa a aaa aaaeca B. warunki uzyskania kredytu: ..........e.eaeaa aaa aaa aa aaa aaa wia C. Kwota kredytu (w zł) ........eueuaa aaa aaa aaa aaa aaa nacanca . Nie dotyczy D. Kwota spłacona (w tym odsetki) .............e.aaaaaaa aa nana. E. Kwota pozostała do spłaty ( w tym odsetki na dzień sporządzenia sprawozdania ..........ms.eseaa aaa nana aaa a znane aa"
+      },
+      {
+       "type": "ocr",
+       "text": "2) A.kredytodawca: ...........eea aaa aa aaa aaa zaawan nana a aaa aw ian awea"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "KOMITET W;BORCZY SAMOOBRONA Al. JEROZOLIMSKIE 11/19 | 00-508 Warszawa ox “ B. warunki uzyskania kredytu: ...............ccccccseuceeeueescecnseecuens C. Kwota kredytu (w zł) .............e-ese eee aaa aaa nan aaa awk awaecea D. Kwota spłacona (w tym odsetki) .............cccecececcecececececees Nie dotyczy E. Kwota pozostała do spłaty ( w tym odsetki na dzień sporządzenia sprawozdania ..........e.eeeaa aaa awa aaa aaa aaa kak aka nawa naa aaa caacae"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty: Nie dotyczy (wierzyciel-Imię i nazwisko, miejscowość zamieszkania lub nazwa i siedzibą)"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki finansowe:"
+      },
+      {
+       "type": "ocr",
+       "text": "1) Fundusz Wyborczy Samoobrona"
+      },
+      {
+       "type": "ocr",
+       "text": "7. Wykaz pozostałych tytułów, niewymienionych w pkt 2-4 i 6, w tym świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego: Nie dotyczy WIE (Świadczeniodawca — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": "Warszawa dnia 30 lipca 2014r. Halina Sikorska"
+      },
+      {
+       "type": "ocr",
+       "text": "( miejscowość , data)"
+      },
+      {
+       "type": "ocr",
+       "text": "PEŁNOMOCNIK FINANSOWY KOMITETU W) CZEGO Hali ikérska"
+      },
+      {
+       "type": "ocr",
+       "text": "WYKAZ RODZAJÓW DOKUMENTÓW ZAŁĄCZANYCH DO SPRAWOZDANIA WYBORCZEGO"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Dokumenty bankowe każdego wydatku i wpływu na rachunek (komitetu wyborczego, koalicyjnego komitetu wyborczego, komitetu wyborców)."
+      },
+      {
+       "type": "ocr",
+       "text": "2. Umowy, faktury, rachunki i inne dokumenty dotyczące kosztów i wydatków."
+      },
+      {
+       "type": "ocr",
+       "text": "54"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 8"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 29 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 30 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "c) koszty utworzenia i utrzymania strony internetowej komitetu 0"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Usługi obce 0"
+      },
+      {
+       "type": "ocr",
+       "text": "1. korzystanie ze środków masowego przekazu 0"
+      },
+      {
+       "type": "ocr",
+       "text": "a) dzienniki, czasopisma 0"
+      },
+      {
+       "type": "ocr",
+       "text": "b) radio 0"
+      },
+      {
+       "type": "ocr",
+       "text": "c) telewizja 0"
+      },
+      {
+       "type": "ocr",
+       "text": "d) nośniki plakatów 0"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie 0"
+      },
+      {
+       "type": "ocr",
+       "text": "2. wykonanie materiałów wyborczych, w tym prace projektowe, koncepcyjne i wytworzenie 0"
+      },
+      {
+       "type": "ocr",
+       "text": "a) plakaty wyborcze 0"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spoty 0"
+      },
+      {
+       "type": "ocr",
+       "text": "c) ulotki 0"
+      },
+      {
+       "type": "ocr",
+       "text": "d) inne wydawnictwa 0"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie 0"
+      },
+      {
+       "type": "ocr",
+       "text": "f) inne materiaty wyborcze 0"
+      },
+      {
+       "type": "ocr",
+       "text": "3. koszty spotkan wyborczych 0"
+      },
+      {
+       "type": "ocr",
+       "text": "4. koszty podróży i noclegów 0"
+      },
+      {
+       "type": "ocr",
+       "text": "5. pozostałe koszty 0"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne 0"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki 0 C. Wysokość nadwyżki ,o której mowa w art.138 par. 1-3 Kodeksu wyborczego 0"
+      },
+      {
+       "type": "ocr",
+       "text": "II Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy komitetu wyborczego SAMOOBRONA ODRODZENIE nie został otwarty."
+      },
+      {
+       "type": "ocr",
+       "text": "i le Voda nat Phare to Vs OO SOO Warszawa 7.07.2014 rok pełnomocnik finansowy"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 9"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 31 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 32 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "a) b) c) ro"
+      },
+      {
+       "type": "ocr",
+       "text": "b) E dj . e)"
+      },
+      {
+       "type": "ocr",
+       "text": "a)"
+      },
+      {
+       "type": "ocr",
+       "text": "wytworzenie"
+      },
+      {
+       "type": "ocr",
+       "text": "koszty wynajmu powierzchni biurowej, w tym koszty energii elektrycznej koszty telekomunikacyjne (np. telefony, łącze internetowe) koszty utworzenia i utrzymania strony internetowej komitetu Usługi obce korzystanie ze środków masowego przek"
+      },
+      {
+       "type": "ocr",
+       "text": "zu i nośników płakatów dzienniki i czasopisma (koszt zamieszczenia ogłoszeń i artykułów sponsorowanych) radio (koszt usługi emisji ogłoszenia, spotu, audycji itp.) =) telewizja (koszt usługi ogłoszenia, spotu, audycji itp.) nośniki plakatów (koszt ekspozycji) reklama w Internecie (koszt usługi emisji) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace projektowe i plakaty wyborcze filmy reklamowe i spoty ulotki inne wydawnictwa reklama w Internecie inne materiały wyborcze (np. płakietki, reklamówki) koszty spotkań wyborczyc"
+      },
+      {
+       "type": "ocr",
+       "text": ". wynajęcie Sali, sprzętu, nagłośnienie) - koszty podróży i noclegów pozostałe koszty Wynagrodzenia i składki na ubezpieczenia społeczne ( w tym z tytułu umowy 0 dzieło lub złecenia), nieujęte w pkt 1-2 Pozostałe wydatki"
+      },
+      {
+       "type": "ocr",
+       "text": "Wysokość nadwyżki, o której mowa w art. 138 $ 1-3*) Kodeksu wyborczego"
+      },
+      {
+       "type": "ocr",
+       "text": "4.800 0 i 600 2.485.941. 1.773.116"
+      },
+      {
+       "type": "ocr",
+       "text": "i"
+      },
+      {
+       "type": "ocr",
+       "text": "228.466 59,246. „031.605. 451.076"
+      },
+      {
+       "type": "ocr",
+       "text": "118.038. 26.560. 83.353"
+      },
+      {
+       "type": "ocr",
+       "text": "34.024 | 311.079"
+      },
+      {
+       "type": "ocr",
+       "text": "5.271)"
+      },
+      {
+       "type": "ocr",
+       "text": "330"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 33 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "IL. Informacje szczegółowe Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy 83 1020 1026 0000 1002 0233 4712 (nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) Wpłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty 12-03-2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty 23-05-2014"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty 13-03-2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty 04-07-2014"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego 0,00 | (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone **): ORA 0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) PARE REEENA NO (imię i nazwisko, miejscowość zamieszkania) (kwoia w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem | rozrachunkowym, przelewem lub kartą płatniczą **): DRZE 0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) PANCERNA (imię i nazwisko, miejscowość zamieszkania) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "Kredyty bankowe**): |) a. kredytodawea: .... uuu eee aaa aaa aaa aaa aaa tne een ten antigen ened b. warunki uzyskania kredytu: ........ ee eeeaae aaa aaa aaa aaa aaa ia"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (W ZM: 0... cece cece aaa aaa aa ee ene e tt ete t eben eens d. kwota spłacona ( w tym odsetki): 2.0... 0... ceccee cee aaa aaa ee eeeneeeenenene e. kwota pozostała do spłaty ( w tym odsetki na dzień sporządzenia sprawozdania): .............1.-1111."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 34 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "2) a. kredytodawca:"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (w Zł): ...... use eee aaa aa aaa aa aaa aaa aaa na enna teen ee arki aka ER EAH d. kwota spłacona ( w tym odsetki): .........ue-u use a aaa aaa aaa a b zaw aaa eee eee eeeeeeeeees e. kwota pozostała do spłaty ( w tym odsetki na dzień sporządzenia sprawozdania):"
+      },
+      {
+       "type": "ocr",
+       "text": "| Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z | tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty**):"
+      },
+      {
+       "type": "ocr",
+       "text": "1) Zarząd Dróg Miejskich Warszawa ul. Chmielna 120 zał.3. 3.842 (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) GRUPA MERLIN Andrzej Duszyński 82-300 Elbląg ul. Portowa 2 66.121 (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne**):"
+      },
+      {
+       "type": "ocr",
+       "text": "1) FUNDUSZ WYBORCZY SOLIDARNA POLSKA ZBIGNIEWA ZIOBRO 2.424.500 (nazwa partii, z której funduszu wyborczego pochodzą Środki) (kwota w zł) NONE | Geeeeeeeeaeeeteeee | (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "17. Wykaz pozostałych tytułów, niewymienionych w pkt 2-4 i 6, w tym świadczeń | nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu | plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborezego*)/**): |DO NE | (świadczeniodawca imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zt) EYE NE | (świadczeniodawca imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł"
+      },
+      {
+       "type": "ocr",
+       "text": "*) Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. Zm.) **) W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić na oddzielnym arkuszu, który będzie stanowił załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "Haczowa dn. 18/08 [1 Anna. Mayer (miejscowość, data) (imię i nazwisko oraz podpis pełnomocnika finansowe"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 35 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 10"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 36 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "I. Informacje ogólne Wyszczególnienie Kwota w zł A Przychody/wpływy (suma pkt I+ll)"
+      },
+      {
+       "type": "ocr",
+       "text": ". Srodki pieniężne gromadzone na rachunku bankowym :"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Pochodzące od osób fizycznych"
+      },
+      {
+       "type": "ocr",
+       "text": "a R"
+      },
+      {
+       "type": "ocr",
+       "text": "© ©"
+      },
+      {
+       "type": "ocr",
+       "text": "o >) © © U N"
+      },
+      {
+       "type": "ocr",
+       "text": "o o B R"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Odsetki od środków na rachunku bankowym 0,0 IN"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Pochodzące z kredytów"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pochodzące z funduszu(y) wyborczego(ych)"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Pozostałe przychody (niewymienione wyżej)"
+      },
+      {
+       "type": "ocr",
+       "text": "B Koszty administracyjne"
+      },
+      {
+       "type": "ocr",
+       "text": "&"
+      },
+      {
+       "type": "ocr",
+       "text": "©"
+      },
+      {
+       "type": "ocr",
+       "text": "© ©"
+      },
+      {
+       "type": "ocr",
+       "text": "NI ©"
+      },
+      {
+       "type": "ocr",
+       "text": "©"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Koszty administracyjne 4 358,68"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii 1 283,68 elektrycznej"
+      },
+      {
+       "type": "ocr",
+       "text": "b) koszty telekomunikacyjne (np. telefony, łącza internetowe) 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "c) koszty utworzenia i utrzymania strony internetowej komitetu) 3075,00"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Usługi obce 36 400,76 . 1) korzystanie ze środków masowego przekazu i nośników plakatów 7 995,00"
+      },
+      {
+       "type": "ocr",
+       "text": "a) dzienniki i czasopisma (koszt zamieszczania ogłoszeń i artykułów 1 823,60 sponsorowanych"
+      },
+      {
+       "type": "ocr",
+       "text": "b) radio (koszt usługi emisji ogłoszenia, spotu, audycji itp. | 0,00] c i | (0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "d) nośniki plakatów (koszt ekspozycji _6 171,40"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie (koszt usługi emisji | 0,00]"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace 22 977,76 projektowe i wytworzeniowe"
+      },
+      {
+       "type": "ocr",
+       "text": "a) plakat borcze 13 792,33"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spot 2 950,97"
+      },
+      {
+       "type": "ocr",
+       "text": "c) ulotki 362,28"
+      },
+      {
+       "type": "ocr",
+       "text": "d) inne wydawnictwa 2 450,16"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie | 0,00] inne materiały wyborcze (np. plakietki, reklamówki 3 422,02"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie Sali, sprzętu, nagłośnienie 5 428,00"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów | 0,00)"
+      },
+      {
+       "type": "ocr",
+       "text": "dA"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 37 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "584,00"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszt"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenie społeczne (w tym z tytułu umowy o dzieło lub zlecenia), nie ujęte w pkt 1-2"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki 11 909,57 C . Wysokość nadwyżki, o której mowa w art. 138 par. 1-3 Kodeksu 311,87 borczego"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie Em 1. Rachunek bankowy Bank PKO BP 89 1020 1026 0000 1102 0233 5040 nazwa banku, nr rachunku bankowego"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem: 43 037,00"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty 11.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty 23.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem 43 037,04"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty 11.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty 08.07.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego | 980 Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone::"
+      },
+      {
+       "type": "ocr",
+       "text": "0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą: 0,00 || 2D) NE"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Kredyty bankowe 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "1a) kredytodawca............ ue eee aa aaa centre eee ana ca"
+      },
+      {
+       "type": "ocr",
+       "text": "b) warunki uzyskania kredytu ...............eeeeuessaee ee aa aaa naniaececccać"
+      },
+      {
+       "type": "ocr",
+       "text": "AJAY OCH UZ UNE"
+      },
+      {
+       "type": "ocr",
+       "text": "d) kwota sptacona (w tym odsetki)...................-..u..eeeee aaa ania"
+      },
+      {
+       "type": "ocr",
+       "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia ACELENNNPNTNTORNNNNANANNNNNNNNNAE"
+      },
+      {
+       "type": "ocr",
+       "text": "2) a. kredytodawca"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 38 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "sprawozdania............."
+      },
+      {
+       "type": "ocr",
+       "text": "b. warunki uzyskania kredytu c. kwota kredytu d. kwota spłacona (w tym odsetki) e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia"
+      },
+      {
+       "type": "ocr",
+       "text": "Wykaz zobowiązań niespłaconych na ostatni dzień okresu 10 527,84 sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty: Zał. Nr 1"
+      },
+      {
+       "type": "ocr",
+       "text": "6. « Wykaz funduszy wyborczych, z których pochodzą środki pieniężne 43 037,00 1."
+      },
+      {
+       "type": "ocr",
+       "text": "Wykaz pozostałych tytułów, niewymienionych w pkt 2-4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego:"
+      },
+      {
+       "type": "ocr",
+       "text": "KOMITET WYBORCZY PARTIA ZIELONI i ul. Marszałkowska 1 lok. 160 Kw 00.624 Warszawa NiP: 525 232 02 50; REGON: 015876700 (1)"
+      },
+      {
+       "type": "ocr",
+       "text": "(miejscowość, data) (imię i nazwisko oraz podpis pełnomocnika finansowego)"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 11"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 39 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii elektrycznej"
+      },
+      {
+       "type": "ocr",
+       "text": "b) koszty telekomunikacyjne (np. telefony, łącze internetowe)"
+      },
+      {
+       "type": "ocr",
+       "text": "c) koszty utworzenia i utrzymania strony internetowej komitetu"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Usługi obce"
+      },
+      {
+       "type": "ocr",
+       "text": "1) korzystanie ze środków masowego przekazu i nośników plakatów 7 DO"
+      },
+      {
+       "type": "ocr",
+       "text": "a) dzienniki i czasopisma (koszt zamieszczenia ogłoszeń i artykułów sponsorowanych) 0 0 0"
+      },
+      {
+       "type": "ocr",
+       "text": "b) radio (koszt usługi emisji ogłoszenia, spotu, audycji itp.) 0 00"
+      },
+      {
+       "type": "ocr",
+       "text": "c) telewizja (koszt usługi ogłoszenia, spotu, audycji itp.)"
+      },
+      {
+       "type": "ocr",
+       "text": "d) nośniki plakatów (koszt ekspozycji) | 0,00] ) reklama w Internecie (koszt usługi emisji)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace projektowe i wy- fe) 0 0 tworzenie /"
+      },
+      {
+       "type": "ocr",
+       "text": "a) plakaty wyborcze"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spoty"
+      },
+      {
+       "type": "ocr",
+       "text": "d) inne wydawnictwa"
+      },
+      {
+       "type": "ocr",
+       "text": "| 200)"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie"
+      },
+      {
+       "type": "ocr",
+       "text": "f) inne materiały wyborcze (np. plakietki, reklamówki) | 000"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie) () 0o"
+      },
+      {
+       "type": "ocr",
+       "text": "A"
+      },
+      {
+       "type": "ocr",
+       "text": ". „ 5 a a + +"
+      },
+      {
+       "type": "ocr",
+       "text": "= 4 <"
+      },
+      {
+       "type": "ocr",
+       "text": ". 7"
+      },
+      {
+       "type": "ocr",
+       "text": ". 4 D"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów © 00"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty | 600"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na „bezpieczenia społeczne (w tym z tytułu umowy o dzieło lub ( 6 zlecenia), nieujete w pkt 1— U"
+      },
+      {
+       "type": "ocr",
+       "text": "143,08"
+      },
+      {
+       "type": "ocr",
+       "text": ">"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 41 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Monitor Polski -4]- Poz. 810"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. tnformacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty ......"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty 6:06: 204 4x EN"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrécone””?: FUNDUSZ WY Bekczy fimię i nazwisko, miejscowość zamieszkania) EVNDUSZ WY BORCZY fimię i nazwisko, miejscowość zamieszkania) (kwota iw zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wpłaty przyjęte i niezwrócone, d ty w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą” ”: pie o 10°F he doty C2 0, 00 (imię i nazwisko, miejscowość zamieszkania] (kwota w zł) 0,0D fimię i nazwisko, miejscowość zamieszkania) fkwóta w zi)"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Kredyty bankowe” ”: nie Lo fyc"
+      },
+      {
+       "type": "ocr",
+       "text": "1) a. kredytodawca: ....mie. doty"
+      },
+      {
+       "type": "ocr",
+       "text": "1"
+      },
+      {
+       "type": "ocr",
+       "text": "b. warunki uzyskania kredytu: do c. kwota kredytu (w zł): Oy o"
+      },
+      {
+       "type": "ocr",
+       "text": "d. kwota spłacona (w tym odsetki): ML toy e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): .........e.sss-eassuassenacnnacna nne m NER DOTY O DY"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 42 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "€"
+      },
+      {
+       "type": "ocr",
+       "text": "2) a. kredytodawca: ......../.U| Tide b. warunki uzyskania kredytu: ... c. kwota kredytu (w zł): .... „MIŚ L. —d ‘sige l. dy | AA (my... e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): ."
+      },
+      {
+       "type": "ocr",
+       "text": "d. kwota spłacona (w tym odsetki): . „M ie... dott"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do sptaty**!: (wierzyciel — - imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) \"kwota wzi) ALE wa partii, z której funduszu wyborczego pochodzą środki) (kwota Ww zł) OR Die. „doł aon OO tycz W PO m LO. (nazwa partii, z której furiduszu wyborczego pochodzą środki) (kwota w zł) „ Wykaz pozostałych tytułów, niewymienionych w pkt 2—4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego””**: (świadczeniodawca nee. da k cowosf zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) sssssssssssssnessesensessnsnssesnessss NA£...... Chel ely. mak."
+      },
+      {
+       "type": "ocr",
+       "text": "(świadczeniodawca — imię i „A miefjscowąjć zamieszkania lub nazwa i siedziba) ‘ota w zł) \"! Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.). \"| W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowił załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "Nawszawa dnia 25. 07. Lofty Boniek Ryakauste (miejscowość, data). U \"(imię | \"nazwisko oraz podpis pelnomocnika finansowego)"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 12"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 43 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 44 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "—"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii elektrycznej 8 214,00 - | | | | b) koszty telekomunikacyjna (np. telefony, łącza internetowe) 12 920,03 spam ———"
+      },
+      {
+       "type": "ocr",
+       "text": "c) koszty utworzenia i utrzymania strony internetowej komitetu 2 557,80 | 2. Usługi obce 5 130 273,45 |"
+      },
+      {
+       "type": "ocr",
+       "text": "1) korzystanie ze środków masowego przekazu i nośników plakatów 1574 819.42 | -t —"
+      },
+      {
+       "type": "ocr",
+       "text": "a) dzienniki i czasopisma (koszt zamieszczenia ogłoszeń i artykułów 349 770,82 sponsorowanych) —|_"
+      },
+      {
+       "type": "ocr",
+       "text": "b) radio (koszt usługi emisji ogłoszenia, spotu, audycji itp.) 61 797,79"
+      },
+      {
+       "type": "ocr",
+       "text": "c) telewizja (koszt usługi ogłoszenia, spotu, audycji itp.) 247 090.62 |"
+      },
+      {
+       "type": "ocr",
+       "text": "d) nośniki plakatów (koszt ekspozycji) 659 500,23 “oS rs |"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie (koszt ustugi emisji) 256 659,96 a —_—_|__"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace projektowe 2 245 330.49 i wytworzenie |"
+      },
+      {
+       "type": "ocr",
+       "text": "| a) plakaty wyborcze 821 621,93 | i | _ |"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spoty 680 608,55"
+      },
+      {
+       "type": "ocr",
+       "text": "c) ulotki 158 a"
+      },
+      {
+       "type": "ocr",
+       "text": "| d) inne wydawnictwa 281 545,23 a —"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie 18 238,00 | f) inne materiały wyborcze (np. plakietki, reklamówki) 284 827,83 |"
+      },
+      {
+       "type": "ocr",
+       "text": "| | 3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie) 403 584,18"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów 224 431 sj | = ——"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty 682 107,43"
+      },
+      {
+       "type": "ocr",
+       "text": ": 3. Wynagrodzenia i składki na ubezpieczania społeczne (w tym z tytułu umowy o 0.00 | dzieło lub zlecenia), nieujęte w pkt 1 -2 | i pasi z | 4 Pozostate wydatki 19 107,70"
+      },
+      {
+       "type": "ocr",
+       "text": "C. Wysokość nadwyżki, o której mowa w art. 138 § 1-3*) Kodeksu wyborczego | 0,00"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 45 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "li. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie | 1 Rachunek bankowy A w PKO BP 14 1020 1026 0000 1102 0233 3383 aa... (nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem |"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty | NOSZONA aaa"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniejwpłaty | SODOWA"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wypłaty ogółem i a) data pierwszej wypłaty 12-03-2094 |, | | b) data ostatniej wypłaty | SOON A | 3) stan rachunku w dniu złożenia sprawozdania finansowego"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i nie-zwrócone**): | 1) 0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zt)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) 0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) | 3. Wpłaty przyjęte i nie-zwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą**): | 1) 0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) | 2) 0,00 (imię i nazwisko, miejscowość zamieszkania) (kwota w zt) | 4. Kredyty bankowe**): 1)a. kredytodawca: na czas kampanii wyborczej nie był zaciągany kredyt"
+      },
+      {
+       "type": "ocr",
+       "text": "b. warunki uzyskania kredytu. nie dotyczy"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (w zł); nie dotyczy | d. kwota spłacona (w tym odsetki): nie dotyczy ł e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): OO OD nie dotyczy |"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 46 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "| 2)a. kredytodawca: na czas kampanii wyborczej nie był zaciągany kredyt b. warunki uzyskania kredytu. nie dotyczy"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (w zł; nie dotyczy d. kwota spłacona (w tym odsetki): nie dotyczy e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): REA NIE AOŻYCZY ccccceeesessssnsssesennnenennennnen | 5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty**): 1). wg. załącznika a2 187,06 po (wierzyciel - imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) OZNA ORNE W aa | \"(wierzyciel - imię i nazwisko, miejscowość zamieszkania lub nazwa i sizdziba) (kwota w zł) | 6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne **):"
+      },
+      {
+       "type": "ocr",
+       "text": "1) Fundusz Wyborczy -PartiiTwójRuch |: 3 371 777,44 PP (nazwa partii, z której funduszu wyborczego pochodzą środki). a na (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) Fundusz Wyborczy - Stronnictwo Demokratyczne 564 273,00 — | Pa (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zt) ' 3) Fundusz Wyborczy - Partia Demokratyczna-Demokracji.pl | 141850,00 — NOO (nazwa partii, z której funduszu wyborczego pochodzą środki (kwota w zt)"
+      },
+      {
+       "type": "ocr",
+       "text": "| 7 Wykaz pozostałych tytułów, niewymienionych w pkt 2-4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego *)/**):"
+      },
+      {
+       "type": "ocr",
+       "text": "1) 0,00 (świadczeniodawca - imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) 0,00 (świadczeniodawca - imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) *) Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr. 21. poz. 112, z późn. zm.). ~ **) W przypadku wykazu zawierającego większą ilośc pozycji należy sporządzić go na oddzielnym arkuszu, który bedzie stanowił załacznik odpowiednich punktów sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "Pełnomocnik Finansowy KKW AUY Twój Ruch Danuta Wójcik wosk . Danuta Wójcik (miejscowość, data) (imię inazwisko oraz podpis pełnomocnika finansowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "Warszawa, data 2014-08-01"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 13"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 47 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 48 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "II. Inne 0,00 B. Wydatki/koszty 5 475 781,21"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Koszty administracyjne 17 282,06"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym Koszty energii 0.00 elektrycznej |"
+      },
+      {
+       "type": "ocr",
+       "text": "b) koszty telekomunikacyjne (np. telefony, łącze internetowe) 6 879,68"
+      },
+      {
+       "type": "ocr",
+       "text": "c) koszty utworzenia i utrzymania strony internetowej komitetu 10 402,38"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Usługi obce 5 255 998,91"
+      },
+      {
+       "type": "ocr",
+       "text": "1) korzystanie ze środków masowego przekazu i nośników plakatów 2 181 388,34"
+      },
+      {
+       "type": "ocr",
+       "text": "a) dzienniki i czasopisma (koszt zamieszczenia ogłoszeń i artykułów 319 792,86 sponsorowanych)"
+      },
+      {
+       "type": "ocr",
+       "text": "b) radio (koszt usługi emisji ogłoszenia, spotu, audycji itp.) 60 231,59"
+      },
+      {
+       "type": "ocr",
+       "text": "c) telewizja (koszt usługi ogłoszenia, spotu, audycji itp.) 225 129,69"
+      },
+      {
+       "type": "ocr",
+       "text": "d) nośniki plakatów(koszt ekspozycji) 1 497 047,87"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie (koszt usługi emisji) 79 186,33"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace 1 187 345,04 projektowe i wytworzenie"
+      },
+      {
+       "type": "ocr",
+       "text": "a) plakaty wyborcze 389 483,89"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spoty 283 056,18"
+      },
+      {
+       "type": "ocr",
+       "text": "c) ulotki 285 241,66 |"
+      },
+      {
+       "type": "ocr",
+       "text": "d) inne wydawnictwa 18 957,42"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internecie 36 062,86"
+      },
+      {
+       "type": "ocr",
+       "text": "f) inne materiały wyborcze (np. plakietki, reklamówki) 174 543,03"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie) 1 006 698,26"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów 674 236,35"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty | 206 330,92"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne (w tym z tytułu umowy o dzieło lub zlecenia), vicuet w pkt a 2 ve \" 109: 227.94"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki 37 272,30 C. Wysokość nadwyżki, o której mowa w art. 138 § 1 - 3*) Kodeksu nadwyżka nie wyborczego wystąpiła są"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 49 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "II. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie Kwota w zł"
+      },
+      {
+       "type": "ocr",
+       "text": "— bankowy PKO Bank Polski S.A. 73 1020 1026 0000 1402 0233 3920 - (nazwa banku, nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem: | 4271 070,76 | data pierwszej wplaty 07.03.2014 r. 500 000,00 data ostatniej wpłaty (wpływ odsetek) 18.07.2014 r. 0,08"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem 4 271 070,76 data pierwszej wypłaty 07.03.2014 r. 2 080,00 data ostatniej wypłaty 18.07.2014 r. 34,84"
+      },
+      {
+       "type": "ocr",
+       "text": "3) © stan rachunku w dniu złożenia sprawozdania finansowego 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone > , , ,, | - niedotyczy|"
+      },
+      {
+       "type": "ocr",
+       "text": "L)"
+      },
+      {
+       "type": "ocr",
+       "text": "Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą” nie dotyczy"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Kredyty bankowe i nie korzystano"
+      },
+      {
+       "type": "ocr",
+       "text": "- odsetki od środków na rachunku bankowym"
+      },
+      {
+       "type": "ocr",
+       "text": "©) Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.)."
+      },
+      {
+       "type": "ocr",
+       "text": "z kredytu"
+      },
+      {
+       "type": "ocr",
+       "text": "5. - Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do 1227 069.11 spłaty” - załącznik nr 6 i Należności komitetu wyborczego — sumy do rozliczenia z kontrahentami — 17 771,80 załącznik nr 9"
+      },
+      {
+       "type": "ocr",
+       "text": "6. _ Wykaz funduszy wyborczych, z których pochodzą środki pieniężne” ” 4 116 476,98 - Fundusz Wyborczy SLD - Fundusz Wyborczy UP 150 000,00"
+      },
+      {
+       "type": "ocr",
+       "text": "7. Wykaz pozostałych tytułów, niewymienionych w pkt 2-4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego i) 6,92"
+      },
+      {
+       "type": "ocr",
+       "text": "\"W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowił załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 50 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "10."
+      },
+      {
+       "type": "ocr",
+       "text": "Do sprawozdania dołączamy następujące dokumenty:"
+      },
+      {
+       "type": "ocr",
+       "text": ". Uchwała Państwowej Komisji Wyborczej z dnia 28 lutego 2014 r. w sprawie przyjęcia zawiadomienia o utworzeniu komitetu wyborczego — Koalicyjny Komitet Wyborczy Sojusz Lewicy Demokratycznej — Unia Pracy(załącznik nr 1). . Zaświadczenie z Urzędu Statystycznego w Warszawie z dnia 4 marca 2014 r. o nadaniu numeru identyfikacyjnego REGON (załącznik nr 2). . Potwierdzenie nadania przez Naczelnika Pierwszego Urzędu Skarbowego Warszawa — Śródmieście z dnia 4 marca 2014 r. numeru identyfikacji podatkowej (załącznik nr 3). . Umowa rachunku bankowego (załącznik nr 4). . Historia rachunku bankowego (załącznik nr 5). . . Wykaz wierzycieli Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej — Unia Pracy - zobowiązania nieuregulowane na dzień sporządzenia sprawozdania (załącznik nr 6). . Dokumenty bankowe każdego wydatku i wpływu na rachunek Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej — Unia Pracy (w zbiorze dokumentacji finansowo — księgowej). . Umowy, faktury, rachunki i inne dokumenty dotyczące kosztów i wydatków — jak w pkt. 7. . Pokwitowania odbioru gotówki wypłaconej przez Koalicyjny Komitet Wyborczy Sojusz Lewicy Demokratycznej — Unia Pracy osobom fizycznym (dowody KW) — jak w pkt. 7. Pokwitowania odbioru materiałów wyborczych przez Koalicyjny Komitet Wyborczy Sojusz Lewicy Demokratycznej — Unia Pracy w celu rozpowszechniania (np. plakatów, ulotek) — jak w pkt. 7."
+      },
+      {
+       "type": "ocr",
+       "text": "Ponadto dołączamy:"
+      },
+      {
+       "type": "ocr",
+       "text": ". Wykaz dokumentów księgowych Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej — Unia Pracy przekazanych Państwowej Komisji Wyborczej (załącznik nr 7). . Oświadczenie w sprawie rachunkowości Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej — Unia Pracy (załącznik nr 8)."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 51 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wykaz należności Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej — Unia Pracy — z tytułu rozrachunków z kontrahentami, w tym wynikających z nadpłat (załącznik nr 9)."
+      },
+      {
+       "type": "ocr",
+       "text": "4. Informację uzupełniającą do sprawozdania finansowego Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej — Unia Pracy (załącznik nr 10)."
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz Wojewódzkich Sztabów Wyborczych Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej - Unia Pracy i osób upoważnionych do zatwierdzania dokumentów finansowych (załącznik nr 11)."
+      },
+      {
+       "type": "ocr",
+       "text": "Pełnomocnik Finansowy Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Do pokray cznej — Unia Pracy Koalicyjny Komitet Wyborczy A Sojusz Lewicy Demokratycznej — Unia Pracy Ewa Popowska 00-019 Warszawa, ul. Złota 9 lok. 4"
+      },
+      {
+       "type": "ocr",
+       "text": "Na zlecenie Koalicyjnego Komitetu Wyborczego Sojusz Lewicy Demokratycznej — Unia Pracy księgi rachunkowe prowadziła i sprawozdanie wyborcze sporządziła uprawniona jednostka działająca pod firmą:"
+      },
+      {
+       "type": "ocr",
+       "text": "FINANS - SERVIS Zespół Doradców Finansowo-Księgowych Specjalista , Zarządu Sp. 20.0. GRUPA FINANS-SERVIS ds. Rachunkowości 00-336 Warszawa, ul. Kopernika 30 E azn zyka Dittri tel: (022) 826-70-55; 56; 57, tel./fax: (022) 826-15-13 Ewa Araźna ttrich NIP 526-026- 13-24. REGON 0622407\""
+      },
+      {
+       "type": "ocr",
+       "text": "Warszawa, dnia 6 sierpnia 2014 r."
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 14"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 52 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 53 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Sprawozdanie Finansowe Komitet Wyborczy Wyborców Marka Wocha; Wybory do Parlamentu Europejskiego z dn. 25.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "stan rachunku na 01.08.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "ll INFORMACJE SZCZEGÓŁOWE"
+      },
+      {
+       "type": "ocr",
+       "text": "WYSZCZEGÓLNIENIE 1.RACHUNEK BANKOWY : Powszechna Kasa Oszczędności Bank Polski SA nr rachunku komitetu wyborczego :07 1020 1127 0000 1402 0232 2832 Mywpłatyogółem || |||] T 4 824,00 | |"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty 21.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpła 12.05.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty 26.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypła 18.07.2014 CT"
+      },
+      {
+       "type": "ocr",
+       "text": "3) Stan rachunku w dniu złożenia sprawozdania finansowego 3,33"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego,przyjęte i niezwrócone : por. Załącznik"
+      },
+      {
+       "type": "ocr",
+       "text": "4.Kredyty bankowe |] Brak kredytów bankowych Pe"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 54 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Sprawozdanie Finansowe Komitet Wyborczy Wyborców Marka Wocha; Wybory do Parlamentu Europejskiego z dn. 25.05.2014 Zobowiązania z tytułu zanizonego odprowadzenia podatku dochodowego od osób fizycznych z o dzieło z dnia 05.03.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "nieodpłatnych, z wyjątkiem świadczeń ń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art.133"
+      },
+      {
+       "type": "ocr",
+       "text": "Warszawa 01.08.2014 Miejscowość „data Monika Dorota Gomółka A ik Finans ko. [Vrnife"
+      },
+      {
+       "type": "ocr",
+       "text": "str. 3z3"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 15"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 55 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 56 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii elektrycznej bi koszty telekomunikacyjne (np. telefony, łącze internetowej cl koszty utwarzenia i utrzymania strony internetowej komitetu"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Usługi obce"
+      },
+      {
+       "type": "ocr",
+       "text": "1) korzystanie ze środków masowego przekazu i nośników plakatów a} dzienniki i czasopisma (koszt zamieszczenia ogłoszeń i artykułów sponsorowanych) bł radio (koszt ustugi emisji ogłoszenia, spotu, audycji itp.) ©) telewizja (koszt usługi ogłoszenia, spotu, audycji itp.) di nośniki plakatów (koszt ekspozycji] el reklama w Internecie (koszt usługi emisji)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncapcyjne, prace projektowa i wytworzenie al plakaty wyborcze"
+      },
+      {
+       "type": "ocr",
+       "text": "b) fimy reklamowe i spoty c} ulotki"
+      },
+      {
+       "type": "ocr",
+       "text": "TTTT."
+      },
+      {
+       "type": "ocr",
+       "text": "d) inne wydawnictwa"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w Internacie"
+      },
+      {
+       "type": "ocr",
+       "text": "f) inne materiały wyborcze (np. plakietki, reklamówki) i 3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie) | 4) koszty podróży i noclegów"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty | 3. Wynagrodzenia | skladki na ubezpieczenia spałeczne (w tym z tytułu umowy o dzieło lub | zleceniaj, nieujęte w pkt 1—2 a. Pozostałe wydatki ©. Wysokość nadwyżki, o której mowa w art. 138 3 1-—3') Kodeksu wyborczego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 57 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 58 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "2) a. UNC OE b. warunki uzyskania kredytu: c. kwota kredytu (w zł): ......es-ee eee [ives cue senecscseuseesevsnstsussetensnseecueasuseeunnenesannsuns d. kwota splacona (w tym odsetki): NA WERE ENY PRZE e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): ........0-.ccce-ecseseeeseeeee"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespiaconych na ostatni dzień okresu sprawozdawczego, innych niź z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty” ”!: W) neesearesunsnauaan ssnsanssssonseonsnensaneenresausaetsaasaseneesrnsansrausauasseaarananes sees saseqnenseseenssnanrsdenutapssiseserecevareersaeeneres (wierzyciel — imię | nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) fkwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne **!: ONE, WA GL A (nazwa partii, z której funduszu wyborczego pochodzą środki] (kwota w zł) z NA M OSA (nazwa partii, z której funduszu wyborczego pochodzą środki) fkwota w zt! mj"
+      },
+      {
+       "type": "ocr",
+       "text": ". Wykaz pozostałych tytułów, niewymienionych w pkt 2—4 i 6, w tym świadczeń nieod płatnych, z wyjątkiem świadczeń polegających na nieodplatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego”!\"*: (kwota w zł) fkwota w zi) Ki Ustewa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.]. W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowit załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "(miejscowość, data} oraz podpis pelnomocnika finansowego)"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 16"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 59 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 60 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii elektrycznej"
+      },
+      {
+       "type": "ocr",
+       "text": "b) koszty telskornunikacyjne (np. telefony, lącze internetowe) oj koszty utworzenia I utrzymania strony internetowej komitetu 2, Usługi obce"
+      },
+      {
+       "type": "ocr",
+       "text": "1) korzystanie ze środków masawego przekazu i nośników plakatów a} dzienniki i czasopisma (koszt zamieszczenia ogłoszeń | artykułów sponsorowanych)"
+      },
+      {
+       "type": "ocr",
+       "text": "b) radio (koszt usługi emisji ogłoszenia, spotu, audycji itp.)"
+      },
+      {
+       "type": "ocr",
+       "text": "c) telewizja (koszt usługi ogłoszenia, spotu, audycji itp.) d! nośniki płakatów (koszt ekspozycji) reklama w Internecie [koszt usługi emisji)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace projektowe i wytworzenie"
+      },
+      {
+       "type": "ocr",
+       "text": "O sna O KK\" W YI [mem 10] [rem TO |"
+      },
+      {
+       "type": "ocr",
+       "text": "f) inne materiały wyborcze (np. plakietki, reklamówki!"
+      },
+      {
+       "type": "ocr",
+       "text": "O"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie)"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne (w tym z tytułu umowy o dzieło lub zlecenia), nieujęte w pkt 1—2"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostale wydatki C. Wysokość nadwyżki, o której mowa w art. 138 5 1—3) Kodeksu wyborczego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 61 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "I. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczegółnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "{ar rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wplaty ogółem a} data pierwszej wpłaty b] data ostatniej wpłaty Lee eee oaza aaa aaa waza ay atak eswanaasarassusnnneny TOTO TTZ TOYOTY aaa tessenyeveeseveesecguaeer anes"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego"
+      },
+      {
+       "type": "ocr",
+       "text": ". Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone ”:"
+      },
+      {
+       "type": "ocr",
+       "text": "fimię i nazwisko, miejscowość zamieszkania] ees ee eee (imię | nezwisko, miejscowość zamisszkania}"
+      },
+      {
+       "type": "ocr",
+       "text": "tkwota w zt)"
+      },
+      {
+       "type": "ocr",
+       "text": "© \"(kwota w zi] O........ (kwota w zł) „Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą”):"
+      },
+      {
+       "type": "ocr",
+       "text": "jimię i nazwisko, miejscowość zamieszkania) . Kredyty bankowe” ”':"
+      },
+      {
+       "type": "ocr",
+       "text": "fkwota w zł) Q tkwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "eee ta. kredytodawea: eee aa aaa erences eee b. warunki uzyskania kredytu: oo. ccee reer cecrcnneesteescaueceensiyevaeseveetuavanaseaeeovars"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu fw zł): eS d. kwota splacona (w tym odsetkij: SKODA e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdaniał: ...-111111. Q RAA"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 62 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "2) a. kredytodawca: -.. eee aaa anawa anawa aaa aa aaa anta aa naa at pantera taaa aaa aaa aaa taaa ane aa eaten rea b. warunki uzyskania kredytu: uses. cece aan ema tata baba zaba aaa aaa aa aaa aaa aa amen eat"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (w zi}: KODA posaezawzynuraoazi ny ALARA d. kwota splacona (w tym odsetki]: KONNE e. kwota pozostała do splaty (w tym odsetki na dzień sporządzenia sprawozdania]: KONA"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty”:"
+      },
+      {
+       "type": "ocr",
+       "text": "(wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedzibaj ikwota w zł) — SSS O (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa I siedzibaj (kwota w zi)"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne ”*\"!: O (nazwa partii, z której funduszu wyborczego pochodzą środki) \"(kwota w zł) TT — >„22) LM, , , , _ |ÓÓQQQóQóÓóÓóÓóÓó O 0777777 (nazwa partii, z której funduszu wyborczego pochodzą środkij 0,0, , | (kwotawzł)"
+      },
+      {
+       "type": "ocr",
+       "text": "7. Wykaz pozostałych tytułów, niewymienionych w pkt 2—4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodplatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego*”**:"
+      },
+      {
+       "type": "ocr",
+       "text": "iadczeniodawca — imię i nazwisko, miejsco kania lub nazwa i siedzibaj i (kwota w zł) tświadczeniodawca — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba)"
+      },
+      {
+       "type": "ocr",
+       "text": ". Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.). ’ W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowil załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "(miejscowość, data) (imię i nazwisko oraz podpi pełnomocnika finansowego|"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 17"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 63 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 64 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "f) inne materiały wyborcze (np. plakietki, reklamówki) - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie) - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne (w tym z tytułu umowy o dzieło lub zlecenia), nieujęte w pkt. 1-2 - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "C. Wysokość nadwyżki, o której mowa w art. 138 $ 1-3 - 0,00 II. Informacje szczegółowe Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunki bankowe"
+      },
+      {
+       "type": "ocr",
+       "text": "PLN 03 1090 1014 0000 0001 2298 3366 USD 17 1090 1014 0000 0001 2298 3405 EUR 38 1090 1014 0000 0001 2298 3415"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem —------ wanna nnn nnn nnn nnnnnnnnnnnnnnnnnnnnnnnnnnnannnnannnenennannnnennnnnnann---- — (),0O"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty ------------------------------------------------------------------------"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty -------------------------------------------------------------------------"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem | remnenemmemamanamananannananan nama nnn n nnn nnn nn nee nn nen enna - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wypłaty ------------------~-------------------nnnnnnnn nnn nena enna nnn"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wypłaty ----------------------------------~-------------- nn nn nen e nnn nn anna"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego (kwota w zł) - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem, rozrachunkowym przelewem lub kartą płatniczą - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Kredyty bankowe --=-n=-nnemamanamannmananaan maaac - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty - 0,00"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne ------------ nie dotyczy"
+      },
+      {
+       "type": "ocr",
+       "text": "7. Wykaz pozostałych tytułów, niewymienionych w pkt. 2-4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego _—---~--~-------------------=-------------------------- nie dotyezy"
+      },
+      {
+       "type": "ocr",
+       "text": "Warszawa, 18.06.2014"
+      },
+      {
+       "type": "ocr",
+       "text": "podpis pełnomocnika finansowego Leus Rartom"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 18"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 65 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 66 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Informacje ogólne"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "kwota w zt A. PRZYCHODY LUB WPŁYWY (I+II) 80934,72 80934,72 80934,46"
+      },
+      {
+       "type": "ocr",
+       "text": "I. Środki pieniężne gromadzone na rachunku bankowym"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Pochodzące z wpłat od osób fizycznych"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Odsetki od środków na rachunku bankowym"
+      },
+      {
+       "type": "ocr",
+       "text": "0,26"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Pochodzące z kredytów"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pochodzące z funduszu(y) wyborczego(ych) II. Inne"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Koszty administracyjne"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii elektr."
+      },
+      {
+       "type": "ocr",
+       "text": "b) koszty telekomunikacyjne"
+      },
+      {
+       "type": "ocr",
+       "text": "c) koszty utworzenia i utrzymania stron"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Usługi obce"
+      },
+      {
+       "type": "ocr",
+       "text": "1) korzystanie ze środków masowego przekazu i nośników plakatów"
+      },
+      {
+       "type": "ocr",
+       "text": "a) dzienniki i czasopisma ( koszt zamieszczania ogłoszeń i artykułów sponsorowanych)"
+      },
+      {
+       "type": "ocr",
+       "text": "b) radio (koszt usługi emisji ogłoszenia, spotu, audycji i itp.)"
+      },
+      {
+       "type": "ocr",
+       "text": "c) telewizja (koszt usługi ogłoszenia, spotu, audycji itp."
+      },
+      {
+       "type": "ocr",
+       "text": "d) nośniki plakatów (koszt ekspozycji)"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w internecie (koszt usługi emisji)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace projektowe i wytworzenie"
+      },
+      {
+       "type": "ocr",
+       "text": "a) plakaty wyborcze"
+      },
+      {
+       "type": "ocr",
+       "text": "b) filmy reklamowe i spot"
+      },
+      {
+       "type": "ocr",
+       "text": "internetowej komitetu"
+      },
+      {
+       "type": "ocr",
+       "text": "c) ulotki"
+      },
+      {
+       "type": "ocr",
+       "text": "d) inne wydawnictwa"
+      },
+      {
+       "type": "ocr",
+       "text": "e) reklama w internecie"
+      },
+      {
+       "type": "ocr",
+       "text": "f) inne materiały wyborcze (np. plakietki, reklamówki)"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie)"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróż"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszt"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia społeczne, nieujęte w pkt 1-2"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Pozostałe wydatki C. WYSOKOŚĆ NADWYZKI, o której mowa w art. 138 par. 1-3 Kodeksu wyborczego"
+      },
+      {
+       "type": "ocr",
+       "text": "i noclegów"
+      },
+      {
+       "type": "ocr",
+       "text": "0 0"
+      },
+      {
+       "type": "ocr",
+       "text": "B.WYDATKI LUB KOSZTY 78842,95 1286,13"
+      },
+      {
+       "type": "ocr",
+       "text": "987,72"
+      },
+      {
+       "type": "ocr",
+       "text": "267,66\" 30,75 69208,61"
+      },
+      {
+       "type": "ocr",
+       "text": "5262,25"
+      },
+      {
+       "type": "ocr",
+       "text": "3202,00"
+      },
+      {
+       "type": "ocr",
+       "text": "1322,25 492,00 246,00"
+      },
+      {
+       "type": "ocr",
+       "text": "44626,66"
+      },
+      {
+       "type": "ocr",
+       "text": "17387,79 5435,73 10698,25"
+      },
+      {
+       "type": "ocr",
+       "text": "11104,89"
+      },
+      {
+       "type": "ocr",
+       "text": "19319,70"
+      },
+      {
+       "type": "ocr",
+       "text": "0 0"
+      },
+      {
+       "type": "ocr",
+       "text": "6979,00"
+      },
+      {
+       "type": "ocr",
+       "text": "2091,77"
+      },
+      {
+       "type": "ocr",
+       "text": "(i & 4"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 67 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy nr51 1020 1026 0000 1702 0233 3490 prowadzony przez Powszechna Kasa Oszczędności Bank Polski SA"
+      },
+      {
+       "type": "ocr",
+       "text": "1) Wpłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) Data pierwszej wpłaty 7 marca 2014r."
+      },
+      {
+       "type": "ocr",
+       "text": "b) Data ostatniej wpłaty 23 maja 2014r. (zaksięgowane na rachunku w dn. 26 maja)"
+      },
+      {
+       "type": "ocr",
+       "text": "2) Wypłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) Data pierwszej wypłaty 10 marca 2014r."
+      },
+      {
+       "type": "ocr",
+       "text": "b) Data ostatniej wypłaty 16 lipca 2014r."
+      },
+      {
+       "type": "ocr",
+       "text": "3) Stan rachunku w dniu złożenia sprawozdania finansowego 2091,77 zł. ."
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego przyjęte i niezwrócone: brak"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą: brak"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Kredyty bankowe: brak"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz \"zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż ztytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty: brak"
+      },
+      {
+       "type": "ocr",
+       "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne: nie dotyczy"
+      },
+      {
+       "type": "ocr",
+       "text": "7. Wykaz pozostałych tytułów, niewymienionych w pkt 2-4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 33 Kodeksu Wyborczego: brak"
+      },
+      {
+       "type": "ocr",
+       "text": "Udlut Lal"
+      },
+      {
+       "type": "ocr",
+       "text": "Warszawa, dn. 17.07.2014 Michał Melon Pełnomocnik Finansowy Komitetu Wyborczego Wyborców Ruch Narodowy"
+      },
+      {
+       "type": "text",
+       "text": "załącznik nr 19"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 68 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 69 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii elektrycznej SO 0"
+      },
+      {
+       "type": "ocr",
+       "text": "m rame Cd"
+      },
+      {
+       "type": "ocr",
+       "text": "[owego wo | 0 | ornasawnewam | [ owewmee ea | 0"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wykonanie materiałów wyborczych, w tym prace koncepcyjne, prace projektowe i wy- LO | tworzenie [sme YZ [wera Po oe [a]"
+      },
+      {
+       "type": "ocr",
+       "text": "f) inne materiały wyborcze (np. plakietki, reklamówki)"
+      },
+      {
+       "type": "ocr",
+       "text": "3) koszty spotkań wyborczych (np. wynajęcie sali, sprzętu, nagłośnienie) 0 |"
+      },
+      {
+       "type": "ocr",
+       "text": "O a O O S"
+      },
+      {
+       "type": "ocr",
+       "text": "D O O"
+      },
+      {
+       "type": "ocr",
+       "text": "So"
+      },
+      {
+       "type": "ocr",
+       "text": "DG"
+      },
+      {
+       "type": "ocr",
+       "text": "4) koszty podróży i noclegów"
+      },
+      {
+       "type": "ocr",
+       "text": "5) pozostałe koszty MM"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wynagrodzenia i składki na ubezpieczenia spoleczne (w tym z tytułu umowy o dzieło lub 16 | zlecenia), nieujęte w pkt 1—2 Ó 4, Pozostałe wydatki O | C. Wysokość nadwyżki, o której mowa w art. 138 § 1—3°) Kodeksu wyborczego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 70 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 71 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "b. warunki uzyskania kredytu: ."
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (W Zł): L.. Lu... eee ccc ccceaseeeeaceeeeenauessseesscnsceuaceseuaeeeauaeeeueatasssatssssessesetsaecasiessseteeeeesseess d. kwota spłacona (w tym odsetki): ......... ue cece cece cee naa a na cee eeeeeeueeeeeeessusestsnaetsstarsstetsetsstaeseeeesiateaeeseues e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): ......-.eeezae asza"
+      },
+      {
+       "type": "ocr",
+       "text": "5. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty” *”!"
+      },
+      {
+       "type": "ocr",
+       "text": "as ah ngswaTsiedsibey 777 \"wota wzi eae \"wierzyciel — - imię 1 nazwisko, miejscowość zamieszkania lub nażwa I słędziba! fkwota w zł!"
+      },
+      {
+       "type": "ocr",
+       "text": "(nazwa partli, z której funduszu wyborczego pochodzą środki) or (kwota w zł! . Wykaz pozostałych tytułów, niewymienionych w pkt 2—4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego\": \"świadczeniodawca — — imię 7 nazwisko, teen ie narwa 3 I siedziba) (kwota w zi) tświadczeniodawca — imię I nazwisko, miejscowość zamieszkania lub nazwa i siedziba) fkwota w zi!"
+      },
+      {
+       "type": "ocr",
+       "text": "„, Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z pozn. zm.). \"W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowil załącznik odpowiednich punktów do sprawozdania."
+      },
+      {
+       "type": "ocr",
+       "text": "\"tanca... POLOTU v eee rey (miejscowość, data)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072."
+ }
+}

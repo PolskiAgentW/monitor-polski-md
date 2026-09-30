@@ -1,0 +1,474 @@
+{
+ "eli": "MP/2015/537",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 9 czerwca 2015 r. w sprawie sposobu drukowania kart do głosowania oraz trybu ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille'a obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej w 2015 roku",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/537/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 czerwca 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu drukowania kart do głosowania oraz trybu ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej w 2015 roku"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 223 i 266 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się sposób drukowania kart do głosowania oraz tryb ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej w 2015 roku, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 9 czerwca 2015 r. (poz. 537)",
+   "body": [
+    {
+     "type": "text",
+     "text": "SPOSÓB DRUKOWANIA KART DO GŁOSOWANIA ORAZ TRYB ICH PRZEKAZANIA WRAZ Z NAKŁADKAMI NA KARTY DO GŁOSOWANIA SPORZĄDZONYMI W ALFABECIE BRAILLE’A OBWODOWYM KOMISJOM WYBORCZYM W WYBORACH DO SEJMU RZECZYPOSPOLITEJ POLSKIEJ I DO SENATU RZECZYPOSPOLITEJ POLSKIEJ W 2015 ROKU"
+    },
+    {
+     "type": "text",
+     "text": "Zasady ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Okręgowa komisja wyborcza, na wniosek dyrektora właściwej delegatury Krajowego Biura Wyborczego, ustala:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "harmonogram druku kart do głosowania uwzględniający dwukrotną korektę i kontrolę jakości druku kart w drukarni oraz ostateczne sprawdzenie kart przez wyznaczonych członków okręgowej komisji wyborczej, z uwzględnieniem konieczności wcześniejszego dostarczenia wójtom (burmistrzom, prezydentom miast) kart i nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, zwanych dalej „nakładkami na karty do głosowania”, w celu przygotowania pakietów wyborczych stosowanych w głosowaniu korespondencyjnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "sposób zabezpieczenia kart do głosowania w procesie druku oraz ich przechowywania w drukarni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "terminy i sposób dostarczenia kart z drukarni do okręgowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "miejsce przechowywania i sposób zabezpieczenia kart do głosowania i nakładek na karty do głosowania do czasu ich dostarczenia obwodowym komisjom wyborczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "terminy i sposób przekazania kart do głosowania i nakładek na karty do głosowania obwodowym komisjom wyborczym wraz z innymi materiałami wyborczymi oraz wójtom (burmistrzom, prezydentom miast) w celu przygotowania pakietów wyborczych stosowanych w głosowaniu korespondencyjnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "sposób zabezpieczenia rezerwy kart do głosowania i nakładek na karty do głosowania oraz dysponowania tą rezerwą w dniu wyborów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Karty do głosowania i nakładki na karty do głosowania przeznaczone do sporządzenia pakietów wyborczych stosowanych w głosowaniu korespondencyjnym powinny być wykonane i przygotowane do dystrybucji najpóźniej na 12 dni przed dniem wyborów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Pozostała część nakładu kart do głosowania i nakładek na karty do głosowania powinna być wykonana i przygotowana do dystrybucji nie później niż na 3 dni przed dniem wyborów, z tym że karty i nakładki nie mogą się treścią ani w żaden inny sposób różnić od kart i nakładek do głosowania przekazanych wójtom (burmistrzom, prezydentom miast) w trybie określonym w pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zlecenia druku kart do głosowania wykonawcy, o którym mowa w pkt 10, dokonuje dyrektor delegatury obsługującej okręgową komisję wyborczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Nakładki na karty do głosowania zostaną dostarczone do okręgowej komisji wyborczej przez wykonawcę nakładek, wyłonionego przez Komisję Przetargową w Krajowym Biurze Wyborczym w postępowaniu o zamówienie publiczne na wykonanie nakładek na karty do głosowania sporządzanych w alfabecie Braille’a, nie później niż na 25 dni przed wyborami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nakład kart do głosowania i nakładek na karty do głosowania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Państwowa Komisja Wyborcza ustala nakład kart do głosowania w liczbie stanowiącej 80% uprawnionych do głosowania w okręgu wyborczym. Komisja zaleca, aby z ustalonego nakładu kart do głosowania karty w liczbie stanowiącej 5% uprawnionych do głosowania były rezerwą okręgowej komisji wyborczej. Rezerwa ta kierowana byłaby do obwodów w miarę potrzeb sygnalizowanych przez obwodowe komisje wyborcze. Pełny nakład kart do głosowania, odpowiadający liczbie wyborców, należy dostarczyć dla obwodów utworzonych w zakładach opieki zdrowotnej, domach pomocy społecznej, zakładach karnych i aresztach śledczych oraz oddziałach zewnętrznych takich zakładów i aresztów, domach studenckich lub zespołach domów studenckich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Nakład kart do głosowania przeznaczonych do przygotowania pakietów wyborczych stosowanych w głosowaniu korespondencyjnym ustala się według informacji wójtów (burmistrzów, prezydentów miast) o wyborcach, którzy zgłosili zamiar głosowania korespondencyjnego. Nakład tych kart jest częścią nakładu, o którym mowa w pkt 6.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Dla każdego lokalu wyborczego przeznacza się 1 egzemplarz nakładki każdego rodzaju. Ponadto dla każdej gminy przeznacza się 2 egzemplarze nakładek każdego rodzaju, stanowiących rezerwę.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zarządzenie druku kart do głosowania na listy kandydatów na posłów i kandydatów na senatora"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Okręgowa komisja wyborcza ustala, w drodze uchwały, treść karty do głosowania na listy kandydatów na posłów i karty do głosowania na kandydatów na senatora, stosując ściśle odpowiednie przepisy uchwały Państwowej Komisji Wyborczej w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju, w tym dotyczące wzorów oraz szczególnych warunków technicznych dla kart do głosowania. W uchwale Komisja podaje ponadto nakład kart do głosowania. Przekazanie wyżej wymienionej uchwały dyrektorowi delegatury Krajowego Biura Wyborczego traktuje się jako zarządzenie druku kart.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Druk kart do głosowania na listy kandydatów na posłów i kandydatów na senatora"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Ustaloną przez okręgową komisję wyborczą treść karty do głosowania na listy kandydatów na posłów i karty do głosowania na kandydatów na senatora dyrektor delegatury Krajowego Biura Wyborczego przekazuje do zakładu poligraficznego wyłonionego przez Komisję Przetargową w Krajowym Biurze Wyborczym w postępowaniu o udzielenie zamówienia publicznego na druk kart do głosowania, wraz z ogólnym nakładem kart do głosowania i z zestawieniem liczby kart przypadających poszczególnym gminom (miastom) i poszczególnym obwodom głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Druk kart do głosowania powinien odbywać się z zachowaniem warunków najwyższej staranności i kontroli jego wykonania. Konieczne jest szczegółowe sprawdzenie parametrów technicznych oraz innych szczegółowych warunków dla karty do głosowania określonych w uchwale powołanej w pkt 9.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ustala się, do bezwzględnego przestrzegania, następujące zasady kontroli druku kart:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_11/pkt_1",
+       "text": "korektę składu karty do głosowania na listy kandydatów na posłów i karty do głosowania na kandydatów na senatora prowadzą w drukarni dwa niezależnie od siebie działające zespoły pracowników wyznaczonych przez dyrektora delegatury Krajowego Biura Wyborczego. Pracownicy zespołów odpowiedzialni są za jakość korekty. Stwierdzone błędy oba zespoły wzajemnie konfrontują i przekazują kierownikowi drukarni. Oba zespoły zatrzymują po 1 egzemplarzu odbitki składu każdego rodzaju karty. Po usunięciu błędów zespoły prowadzą ponowną korektę na podstawie materiału wyjściowego, tj. treści karty ustalonej przez okręgową komisję wyborczą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_11/pkt_2",
+       "text": "ostatecznej kontroli jakości składu kart do głosowania dokonują dwaj wyznaczeni członkowie okręgowej komisji wyborczej, którzy informują dyrektora delegatury Krajowego Biura Wyborczego, iż można uruchomić druk ustalonego nakładu karty, i podpisują kartę do druku, podając datę, imię i nazwisko. Odbitka każdego rodzaju karty skierowanej do druku jest przechowywana w delegaturze Krajowego Biura Wyborczego w aktach okręgowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_11/pkt_3",
+       "text": "po wydrukowaniu kart do głosowania wyznaczeni członkowie okręgowej komisji wyborczej sprawdzają treść karty z odbitką tej karty uruchamiającej druk i sporządzają z tej czynności stosowną notatkę, która pozostaje w aktach komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_11/pkt_4",
+       "text": "wyznaczeni członkowie okręgowej komisji wyborczej sprawdzają 3–5% nakładu kart, czy karty do głosowania składające się z odpowiedniej liczby stron są zbroszurowane i trwale połączone. Karty nie mogą być trwale połączone poprzez zszycie ich w jednym lub nawet w wielu miejscach po zewnętrznej stronie.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Pakowanie kart do głosowania"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Wydrukowane karty do głosowania na listy kandydatów na posłów oraz kandydatów na senatora należy zapakować (odrębnie dla każdego rodzaju wyborów) w następujący sposób:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_12/pkt_1",
+       "text": "nakład kart do głosowania dzieli się odrębnie na części według obwodów głosowania; od nakładu przewidzianego dla danego obwodu należy odjąć nakład kart z tego obwodu przekazanych wójtowi (burmistrzowi, prezydentowi miasta) w celu przygotowania pakietów wyborczych stosowanych w głosowaniu korespondencyjnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_12/pkt_2",
+       "text": "na paczkach kart do głosowania należy odpowiednio wpisać:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Wybory do Sejmu Rzeczypospolitej Polskiej",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Okręg wyborczy nr ...................................................................................................................................................,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": ".................................................................................................................................................................................... (siedziba Okręgowej Komisji Wyborczej)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Obwód głosowania nr ................................................................................................................................................",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "w ................................................................................................................................................................................,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gmina .........................................................................................................................................................................",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Liczba kart do głosowania ......................................................................................................................................”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "lub"
+        },
+        {
+         "type": "text",
+         "text": "„Wybory do Senatu Rzeczypospolitej Polskiej",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Okręg wyborczy nr ...................................................................................................................................................,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": ".................................................................................................................................................................................... (siedziba Okręgowej Komisji Wyborczej)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Obwód głosowania nr ................................................................................................................................................",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "w ................................................................................................................................................................................,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gmina .........................................................................................................................................................................",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Liczba kart do głosowania ......................................................................................................................................”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Przed zapakowaniem każdej paczki należy sprawdzić: czy karty do głosowania dotyczą właściwego okręgu wyborczego, czy nie ma kart pustych lub z niekompletnym nadrukiem, czy nie zostały przemieszane karty do głosowania na listy kandydatów na posłów z kartami do głosowania na kandydatów na senatora itp.;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_12/pkt_3",
+       "text": "rezerwę nakładu kart do głosowania należy zapakować w oddzielne paczki. Paczki te powinny być odpowiednio oznakowane, np.:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Rezerwa kart do głosowania",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Wybory do Sejmu Rzeczypospolitej Polskiej",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Okręg wyborczy nr ...................................................................................................................................................,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": ".................................................................................................................................................................................... (siedziba Okręgowej Komisji Wyborczej)",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gmina .........................................................................................................................................................................",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Liczba kart do głosowania ......................................................................................................................................”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "lub"
+        },
+        {
+         "type": "text",
+         "text": "„Rezerwa kart do głosowania",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Wybory do Senatu Rzeczypospolitej Polskiej",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Okręg wyborczy nr ...................................................................................................................................................,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "....................................................................................................................................................................................",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "gmina .........................................................................................................................................................................",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Liczba kart do głosowania ......................................................................................................................................”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rezerwowe karty do głosowania należy zmagazynować w urzędach miast lub gmin wyznaczonych przez okręgową komisję wyborczą, co umożliwi ich sprawne dostarczenie do obwodów w miarę występujących potrzeb. W punktach tych należy zapewnić środek transportu dla dowiezienia kart do obwodu głosowania stosownie do dyspozycji okręgowej komisji wyborczej."
+        },
+        {
+         "type": "text",
+         "text": "Rezerwę kart do głosowania zabezpiecza wójt lub burmistrz (prezydent miasta) stosownie do poleceń okręgowej komisji wyborczej."
+        },
+        {
+         "type": "text",
+         "text": "Wydanie rezerwy kart do głosowania obwodowym komisjom wyborczym może nastąpić wyłącznie protokolarnie i na polecenie okręgowej komisji wyborczej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Wydrukowane karty do głosowania na listy kandydatów na posłów i kandydatów na senatora przeznaczone do sporządzenia pakietów wyborczych należy zapakować odrębnie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przechowywanie i zabezpieczenie kart do głosowania i nakładek na karty do głosowania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Wydrukowane i przygotowane do przekazania karty do głosowania i nakładki na karty do głosowania należy przechować w warunkach pełnego zabezpieczenia przed uszkodzeniem, zniszczeniem lub utratą. Odpowiedzialność za zapewnienie należytego zabezpieczenia kart do głosowania ponosi dyrektor właściwej delegatury Krajowego Biura Wyborczego. Zaleca się, aby karty do głosowania były przechowywane w odrębnym, specjalnie do tego celu wydzielonym pomieszczeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Zapakowane karty do głosowania i nakładki na karty do głosowania należy dostarczyć do obwodów głosowania w przeddzień głosowania i doręczyć za pokwitowaniem obwodowym komisjom wyborczym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Karty i nakładki do pakietów wyborczych stosowanych w głosowaniu korespondencyjnym należy doręczyć za pokwitowaniem wójtom (burmistrzom, prezydentom miast) najpóźniej na 12 dni przed dniem wyborów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Na kartach do głosowania przeznaczonych do sporządzenia pakietów wyborczych wójt (burmistrz, prezydent miasta) umieszcza odcisk pieczęci właściwej obwodowej komisji wyborczej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Postępowanie w przypadku zmian w zarejestrowanych listach kandydatów na posłów oraz wśród zarejestrowanych kandydatów na senatora"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "W razie dokonania przez okręgową komisję wyborczą – po zarządzeniu druku kart do głosowania – zmian w zarejestrowanych listach kandydatów na posłów (tj. skreślenia kandydata z listy lub unieważnienia rejestracji listy) lub skreślenia kandydata na senatora, dyrektor delegatury Krajowego Biura Wyborczego, który zlecił druk kart do głosowania, zapewnia wykonanie obwieszczenia okręgowej komisji wyborczej, o którym mowa w art. 225 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy. Obwieszczenia te należy przekazać do wywieszenia w lokalach wyborczych za pośrednictwem delegatury Krajowego Biura Wyborczego obsługującej właściwą okręgową komisję wyborczą.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072. (siedziba Okręgowej Komisji Wyborczej)"
+ }
+}

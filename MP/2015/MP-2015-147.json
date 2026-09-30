@@ -1,0 +1,539 @@
+{
+ "eli": "MP/2015/147",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 12 stycznia 2015 r. zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/147/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 stycznia 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 40 § 5 i art. 40a § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 11 sierpnia 2014 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast (M.P. poz. 734 i 735) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "ust. 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3. Wielostronicowa karta do głosowania stanowi jedną kartę do głosowania i zawiera stronę tytułową i stronę ze spisem treści. Pierwsza strona karty do głosowania jest stroną tytułową. W górnej jej części, pośrodku, umieszczony jest napis „KARTA DO GŁOSOWANIA w wyborach do …………………… (nazwa rady/sejmiku) w dniu ....................... . W dolnej jej części umieszcza się pouczenie następującej treści:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "„INFORMACJA! Niniejsza karta do głosowania jest wielostronicową kartą do głosowania. Na karcie tej głosować można tylko na jedną listę, stawiając znak „x” w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje się jego pierwszeństwo do otrzymania mandatu. Postawienie znaku „x” w kratce obok nazwisk kandydatów z różnych list lub niepostawienie znaku „x” w żadnej kratce powoduje nieważność głosu.”, a poniżej, po prawej stronie, drukuje się odcisk pieczęci terytorialnej komisji wyborczej, natomiast po lewej stronie oznacza się miejsce na umieszczenie pieczęci obwodowej komisji wyborczej. Druga strona karty do głosowania jest stroną ze spisem treści. W górnej jej części, pośrodku, umieszczony jest napis „Spis treści Listy kandydatów na radnych Strona”, a poniżej ułożone według kolejności numerów list skróty nazw komitetów wyborczych zgłaszających listy i numery stron, na których umieszczona jest dana lista. Na kolejnych stronach karty do głosowania umieszcza się listy kandydatów na radnych.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "ust. 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Na jednej stronie umieszcza się tylko jedną listę kandydatów na radnych.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "ust. 8 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„8. Przepisy § 1 ust. 1 pkt 2 i 3 oraz ust. 2 stosuje się odpowiednio.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "w ust. 9 zdanie wstępne otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Wzór oraz szczegółowe warunki techniczne strony tytułowej, strony ze spisem treści i następnych stron dla kart do głosowania w wyborach do:”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "po § 10 dodaje się § 10a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 10a. Uchwałę stosuje się także w wyborach przeprowadzanych w toku kadencji, z tym że jeżeli w danym dniu w jednostce samorządu terytorialnego przeprowadzane są wybory tylko do jednego organu, niezależnie od wybieranego organu:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) karta do głosowania jest koloru białego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przepis § 3 ust. 1a stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "załączniki nr 2–5 do uchwały otrzymują brzmienie określone w załącznikach nr 1–4 do niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 12 stycznia 2015 r. (poz. 147) Załącznik nr 1 WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ……… str. 1 z … dla wyboru Rady ………………….. (nazwa rady i gminy)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA w wyborach do Rady …………………………… (nazwa rady i gminy)"
+    },
+    {
+     "type": "text",
+     "text": "w dniu …………….."
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA! Niniejsza karta do głosowania jest wielostronicową kartą do głosowania. Na karcie tej głosować można tylko na jedną listę, stawiając znak „x” w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje się jego pierwszeństwo do otrzymania mandatu. Postawienie znaku „x” w kratce obok nazwisk kandydatów z różnych list lub niepostawienie znaku „x” w żadnej kratce powoduje nieważność głosu."
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ……… str. 2 z … dla wyboru Rady ………………….. (nazwa rady i gminy)"
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "text",
+     "text": "Listy kandydatów na radnych Strona"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………."
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………."
+    },
+    {
+     "type": "text",
+     "text": "A – 13 mm B – 8 mm"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "E ——> 4 Fx | Okręg wyborczy nr ................ str. ... Z... NG E do wyboru Rady, seiscsssiisercreconvernvenencnneeesen (0 | (nazwa rady i gminy) |-y"
+    },
+    {
+     "type": "ocr",
+     "text": "A Lista nr ........ EA aes"
+    },
+    {
+     "type": "ocr",
+     "text": "KANDYDACI NA RADNYCH vw"
+    },
+    {
+     "type": "ocr",
+     "text": "xc yD"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imie - imiona)"
+    },
+    {
+     "type": "ocr",
+     "text": "> A-49mm E-13mm B B-185mm F-8 mm C - 4 mm D-6mm [ | 6 mm na 6 mm - grubość linii 1 punkt"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2 WZÓR ą r",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ……… str. 1 z … dla wyboru Rady Powiatu (nazwa ………….. powiatu)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA w wyborach do Rady Powiatu ………………..... (nazwa powiatu)"
+    },
+    {
+     "type": "text",
+     "text": "w dniu ……………….…….."
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA! Niniejsza karta do głosowania jest wielostronicową kartą do głosowania. Na karcie tej głosować można tylko na jedną listę, stawiając znak „x” w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje się jego pierwszeństwo do otrzymania mandatu. Postawienie znaku „x” w kratce obok nazwisk kandydatów z różnych list lub niepostawienie znaku „x” w żadnej kratce powoduje nieważność głosu."
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ……… str. 2 z … dla wyboru Rady Powiatu (nazwa ………….. powiatu)"
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "text",
+     "text": "Listy kandydatów na radnych Strona"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "A – 13 mm B – 8 mm C – 8 mm"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": ">"
+    },
+    {
+     "type": "ocr",
+     "text": "+ » pg Okręg wyborczy nr ................ Stee noca K do'wyboru' Rady Powlatun..lóómn nnn M (nazwa powiatu)"
+    },
+    {
+     "type": "ocr",
+     "text": "| w A Lista nr ........ C) | arrears dnrecrreencenecconnrncter Toho czna:"
+    },
+    {
+     "type": "ocr",
+     "text": "KANDYDACI NA RADNYCH w_ 01. [e (nazwisko i imię - imiona) 19 02."
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona)"
+    },
+    {
+     "type": "ocr",
+     "text": "A-49 mm E-13mm B B-185mm F -8 mm C-4 mm G-8mm D - 6 mm [ | 6 mm na 6 mm - grubość linii 1 punkt"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3 WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ……… str. 1 z … dla wyboru Sejmiku Województwa ……….……….. (nazwa województwa)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA w wyborach do Sejmiku Województwa ………………….... (nazwa województwa)"
+    },
+    {
+     "type": "text",
+     "text": "w dniu …………….."
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA! Niniejsza karta do głosowania jest wielostronicową kartą do głosowania. Na karcie tej głosować można tylko na jedną listę, stawiając znak „x” w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje się jego pierwszeństwo do otrzymania mandatu. Postawienie znaku „x” w kratce obok nazwisk kandydatów z różnych list lub niepostawienie znaku „x” w żadnej kratce powoduje nieważność głosu."
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ……… str. 2 z … dla wyboru Sejmiku Województwa ……….……….. (nazwa województwa)"
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "text",
+     "text": "Listy kandydatów na radnych Strona"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………."
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………."
+    },
+    {
+     "type": "text",
+     "text": "A – 13 mm B – 8 mm C – 8 mm"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4 WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ……… str. 1 z … dla wyboru Rady Dzielnicy ……….……….. m.st. Warszawy (nazwa dzielnicy)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA w wyborach do Rady Dzielnicy ……………….…... (nazwa dzielnicy)"
+    },
+    {
+     "type": "text",
+     "text": "m.st. Warszawy w dniu …………….."
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA! Niniejsza karta do głosowania jest wielostronicową kartą do głosowania. Na karcie tej głosować można tylko na jedną listę, stawiając znak „x” w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje się jego pierwszeństwo do otrzymania mandatu. Postawienie znaku „x” w kratce obok nazwisk kandydatów z różnych list lub niepostawienie znaku „x” w żadnej kratce powoduje nieważność głosu."
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr ……… str. 2 z … dla wyboru Rady Dzielnicy ……….……….. m.st. Warszawy (nazwa dzielnicy)"
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "text",
+     "text": "Listy kandydatów na radnych Strona"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "…………………………………………….. ………. (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "A – 13 mm B – 8 mm C – 8 mm"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "4"
+    },
+    {
+     "type": "ocr",
+     "text": "(skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "ocr",
+     "text": "KANDYDACI NA RADNYCH"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwisko i imię - imiona)"
+    },
+    {
+     "type": "ocr",
+     "text": "A-49 mm E-13mm B-185mm F-8mm C -4 mm G-8mm D - 6 mm [ | 6 mm na 6 mm - grubość linii 1 punkt"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072. obwodowej na miejsce pieczęć pieczęć terytorialnej komisji komisji wyborczej wyborczej A – 13 mm B – 8 mm (skrót nazwy komitetu wyborczego) (skrót nazwy komitetu wyborczego) miejsce obwodowej na pieczęć pieczęć terytorialnej wyborczej komisji komisji wyborczej A – 13 mm B – 8 mm C – 8 mm na miejsce pieczęć pieczęć terytorialnej obwodowej komisji komisji wyborczej wyborczej A – 13 mm B – 8 mm C – 8 mm (skrót nazwy komitetu wyborczego) (skrót nazwy komitetu wyborczego) na miejsce pieczęć pieczęć terytorialnej obwodowej komisji wyborczej wyborczej komisji A – 13 mm B – 8 mm C – 8 mm"
+ }
+}

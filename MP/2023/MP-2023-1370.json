@@ -1,0 +1,84 @@
+{
+ "eli": "MP/2023/1370",
+ "title": "Zarządzenie nr 649 Prezesa Rady Ministrów z dnia 8 grudnia 2023 r. zmieniające zarządzenie w sprawie utworzenia Instytutu De Republica",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/1370/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 649"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 grudnia 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie utworzenia Instytutu De Republica"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 12 Prezesa Rady Ministrów z dnia 16 lutego 2021 r. w sprawie utworzenia Instytutu De Republica (M.P. z 2023 r. poz. 406) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 4 ust. 3a otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3a. W przypadku zatrudnienia dwóch zastępców dyrektora dyrektor wskazuje spośród nich pierwszego zastępcę dyrektora.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 5. Dyrektora powołuje i odwołuje Prezes Rady Ministrów.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zastępcę dyrektora Instytutu De Republica, powołanego na podstawie § 5 załącznika do zarządzenia zmienianego w § 1, w brzmieniu dotychczasowym, odwołuje dyrektor Instytutu De Republica.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872."
+ }
+}

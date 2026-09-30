@@ -1,0 +1,530 @@
+{
+ "eli": "MP/2013/15",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 21 grudnia 2012 r. w sprawie szczegółowego wykazu przedsięwzięć służących poprawie efektywności energetycznej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/15/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 grudnia 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowego wykazu przedsięwzięć służących poprawie efektywności energetycznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 17 ust. 2 ustawy z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. Nr 94, poz. 551, z późn. zm.[^2]) ogłasza się szczegółowy wykaz przedsięwzięć służących poprawie efektywności energetycznej, zawarty w załączniku do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: wz. M. Kasprzak"
+  },
+  {
+   "type": "text",
+   "text": "¹⁾ Minister Gospodarki kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 248, poz. 1478). ²⁾ Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951, 1203 i 1397."
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do obwieszczenia Ministra Gospodarki z dnia 21 grudnia 2012 r. (poz. 15)"
+  },
+  {
+   "type": "text",
+   "text": "SZCZEGÓŁOWY WYKAZ PRZEDSIĘWZIĘĆ SŁUŻĄCYCH POPRAWIE EFEKTYWNOŚCI ENERGETYCZNEJ"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie izolacji instalacji przemysłowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "modernizacja izolacji termicznej rurociągów ciepłowniczych oraz ciągów technologicznych w obiektach (np. izolacja: rurociągów, zbiorników, kotłów, kanałów spalin, turbin, urządzeń oczyszczających gazy wlotowe, armatury przemysłowej);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "izolacja termiczna systemów transportu mediów technologicznych w obrębie procesu przemysłowego, w tym urządzeń transportowych, przygotowania półproduktów i produktów (np. transport surówki, ciekłej stali, wyrobów walcowniczych) oraz sieci ciepłowniczych, wodnych i gazowych (transportujących np. gaz ziemny, gaz koksowniczy, gazy hutnicze, gazy techniczne oraz sprężone powietrze);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_1/pkt_3",
+     "text": "izolacja termiczna walcowniczych pieców grzewczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie przebudowy lub remontu budynków, w tym przedsięwzięcia termomodernizacyjne i remontowe w rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. Nr 223, poz. 1459, z późn. zm.[^1]):",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "ocieplenie ścian, stropów, fundamentów, stropodachów lub dachów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "modernizacja lub wymiana stolarki okiennej i drzwiowej lub wymiana oszkleń w budynkach na efektywne energetycznie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "montaż urządzeń zacieniających okna (np. rolety, żaluzje);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "izolacja cieplna, równoważenie hydrauliczne lub kompleksowa modernizacja instalacji ogrzewania lub przygotowania ciepłej wody użytkowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_2/pkt_5",
+     "text": "likwidacja liniowych i punktowych mostków cieplnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_2/pkt_6",
+     "text": "modernizacja systemu wentylacji poprzez montaż układu odzysku (rekuperacji) ciepła.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie modernizacji lub wymiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_3/pkt_1",
+     "text": "urządzeń przeznaczonych do użytku domowego (np. pralki, suszarki, zmywarki do naczyń, chłodziarki, piekarnika);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_3/pkt_2",
+     "text": "oświetlenia wewnętrznego (np. oświetlenia pomieszczeń: w budynkach użyteczności publicznej, mieszkalnych, biurowych, a także budynków i hal przemysłowych lub handlowych) lub oświetlenia zewnętrznego (np. oświetlenia tuneli, placów, ulic, dróg, parków, oświetlenia dekoracyjnego, oświetlenia stacji benzynowych oraz sygnalizacji świetlnej), w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/pkt_2/lit_a",
+       "text": "wymiana źródeł światła na energooszczędne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/pkt_2/lit_b",
+       "text": "wymiana opraw oświetleniowych wraz z osprzętem na energooszczędne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_3/pkt_2/lit_c",
+       "text": "wdrażanie systemów oświetlenia o regulowanych parametrach (natężenie, wydajność, sterowanie) w zależności od potrzeb użytkowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_3/pkt_2/lit_d",
+       "text": "stosowanie energooszczędnych systemów zasilania;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_3/pkt_3",
+     "text": "urządzeń potrzeb własnych, w tym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/pkt_3/lit_a",
+       "text": "wentylatorów powietrza i spalin,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/pkt_3/lit_b",
+       "text": "układów pompowych i pomp – stosowanie pomp o płynnej regulacji obrotów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_3/pkt_3/lit_c",
+       "text": "układów odżużlania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_3/pkt_3/lit_d",
+       "text": "układów nawęglania – młyny węglowe,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_3/pkt_3/lit_e",
+       "text": "układów sterowania – układy automatyki kotła, układy pomiarowe, zabezpieczające i sygnalizacyjne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_3/pkt_3/lit_f",
+       "text": "sprężarek i układów sprężarkowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_3/pkt_3/lit_g",
+       "text": "silników elektrycznych – instalacja falowników przy napędach o zmiennym zapotrzebowaniu mocy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_3/pkt_3/lit_h",
+       "text": "urządzeń w systemach uzdatniania wody,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_3/pkt_3/lit_i",
+       "text": "oświetlenia terenu, hal, warsztatów i innych pomieszczeń produkcyjnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_3/pkt_3/lit_j",
+       "text": "wyposażenia warsztatów (np. spawarki, piece, tokarki, frezarki).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie urządzeń i instalacji wykorzystywanych w procesach przemysłowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_4/pkt_1",
+     "text": "modernizacja lub wymiana urządzeń energetycznych i technologicznych wraz z instalacjami: sprężarki, silniki elektryczne, pompy, wentylatory oraz ich napędy i układy sterowania lub zastosowanie falowników przy napędach o zmiennym zapotrzebowaniu mocy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_4/pkt_2",
+     "text": "modernizacja lub wymiana rurociągów, zbiorników, kanałów spalin, kominów, urządzeń służących do uzdatniania wody;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_4/pkt_3",
+     "text": "stosowanie systemów pomiarowych i monitorujących media energetyczne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_4/pkt_4",
+     "text": "optymalizacja ciągów transportowych mediów (ciepło, woda, gaz ziemny, sprężone powietrze, powietrze wentylacyjne) oraz ciągów transportowych linii produkcyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie lokalnych sieci ciepłowniczych i lokalnych źródeł ciepła, polegające na:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_5/pkt_1",
+     "text": "wymianie lub modernizacji grupowych i indywidualnych węzłów cieplnych z zastosowaniem urządzeń i technologii o wyższej efektywności energetycznej (izolacje, napędy, wymienniki);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_5/pkt_2",
+     "text": "modernizacji systemów zasilanych z grupowych węzłów cieplnych poprzez przebudowę tych systemów na węzły indywidualne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_5/pkt_3",
+     "text": "instalacji lub modernizacji systemów automatyki i monitoringu pracy węzłów i sieci ciepłowniczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_5/pkt_4",
+     "text": "wymianie lokalnych układów chłodniczych i klimatyzacyjnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_5/pkt_5",
+     "text": "zastosowaniu układów kogeneracyjnych w lokalnych źródłach ciepła;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_5/pkt_6",
+     "text": "modernizacji lokalnych kotłowni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie odzysku energii w procesach przemysłowych, w tym instalacja lub modernizacja:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_6/pkt_1",
+     "text": "układów odzysku ciepła z urządzeń i procesów przemysłowych oraz wykorzystanie go do celów użytkowych lub w procesie technologicznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_6/pkt_2",
+     "text": "systemu „freecoolingu” – procesu wykorzystania chłodu zawartego w powietrzu o niskiej temperaturze na zewnątrz budynku do schłodzenia powietrza wewnątrz budynku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_6/pkt_3",
+     "text": "turbin i układów wytwarzania energii, wykorzystujących energię rozprężania lub redukcji ciśnienia gazów, pary lub wody;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_6/pkt_4",
+     "text": "układów przetwarzania ciepła odzyskiwanego z procesów przemysłowych na energię elektryczną;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_6/pkt_5",
+     "text": "układów przetwarzania gazów odpadowych z procesów przemysłowych (np. gazu koksowniczego, wielkopiecowego, konwertorowego) i spalin na energię elektryczną i cieplną lub na paliwa energetyczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie ograniczeń strat:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_7/pkt_1",
+     "text": "związanych z poborem energii biernej przez różnego rodzaju odbiorniki energii elektrycznej, w tym poprzez zastosowanie lokalnych i centralnych układów do kompensacji mocy biernej (baterie kondensatorów, dławiki oraz maszynowe i elektroniczne układy kompensacyjne);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_7/pkt_2",
+     "text": "sieciowych związanych z przesyłaniem lub dystrybucją energii elektrycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_7/pkt_3",
+     "text": "na transformacji w transformatorach poprzez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_7/pkt_3/lit_a",
+       "text": "zastosowanie układów kompensacyjnych w stanach niskiego obciążenia i pracy jałowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_7/pkt_3/lit_b",
+       "text": "wymianę transformatorów na jednostki charakteryzujące się wyższą efektywnością energetyczną (sprawnością) lub dostosowane do zapotrzebowania mocy;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_7/pkt_4",
+     "text": "w sieciach ciepłowniczych, dokonując:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_7/pkt_4/lit_a",
+       "text": "modernizacji i przebudowy sieci ciepłowniczej poprzez:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "ust_7/pkt_4/lit_a/tir_1",
+         "text": "zmianę technologii wykonania tych sieci (magistrali, sieci rozdzielczych, przyłączy do budynków),",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "ust_7/pkt_4/lit_a/tir_2",
+         "text": "zmianę trasy przebiegu rurociągów w celu zmniejszenia ich długości lub likwidacji zbędnych odcinków,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "ust_7/pkt_4/lit_a/tir_3",
+         "text": "zmianę średnicy rurociągów w celu poprawy wymagań hydraulicznych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "ust_7/pkt_4/lit_a/tir_4",
+         "text": "usunięcie nieszczelności i przyczyn ich powstawania,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_7/pkt_4/lit_b",
+       "text": "poprawy izolacji cieplnej rurociągów wraz z ich wyposażeniem w armaturę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_7/pkt_4/lit_c",
+       "text": "zmiany parametrów pracy sieci ciepłowniczej lub sposobu regulacji tej sieci,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_7/pkt_4/lit_d",
+       "text": "wprowadzenia lub rozbudowy systemu monitoringu i sterowania pracą systemu ciepłowniczego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Przedsięwzięcia służące poprawie efektywności energetycznej w zakresie, o którym mowa w art. 17 ust. 1 pkt 6 ustawy z dnia 15 kwietnia 2011 r. o efektywności energetycznej, polegające na:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_8/pkt_1",
+     "text": "zastąpieniu niskoefektywnych energetycznie lokalnych i indywidualnych źródeł ciepła opalanych węglem, koksem, gazem lub olejem opałowym źródłami charakteryzującymi się wyższą efektywnością energetyczną, w tym odnawialnymi źródłami energii, ciepłem wytwarzanym w kogeneracji lub ciepłem odpadowym z instalacji przemysłowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_8/pkt_2",
+     "text": "zastąpieniu niskoefektywnych energetycznie lokalnych i indywidualnych sposobów przygotowania ciepłej wody użytkowej sposobami charakteryzującymi się wyższą efektywnością energetyczną, w tym z wykorzystaniem odnawialnych źródeł energii, ciepła wytworzonego w kogeneracji lub ciepła odpadowego z instalacji przemysłowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_8/pkt_3",
+     "text": "budowie przyłącza ciepłowniczego oraz zakupie albo modernizacji węzła cieplnego w celu zastąpienia ciepła z niskoefektywnych energetycznie lokalnych lub indywidualnych źródeł ciepła ciepłem z sieci ciepłowniczej wytworzonym z odnawialnych źródeł energii, w kogeneracji lub ciepłem odpadowym z instalacji przemysłowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_8/pkt_4",
+     "text": "modernizacji instalacji wytwarzania chłodu z wykorzystaniem ciepła pochodzącego z sieci ciepłowniczej zasilanej ciepłem wytworzonym z odnawialnych źródeł energii, w kogeneracji lub ciepłem odpadowym z instalacji przemysłowych.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 76, poz. 493, z 2011 r. Nr 106, poz. 622 oraz z 2012 r. poz. 951 i 1342."
+ }
+}

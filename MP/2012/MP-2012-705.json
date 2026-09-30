@@ -1,0 +1,580 @@
+{
+ "eli": "MP/2012/705",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 27 września 2012 r. w sprawie wysokości stawek kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi oraz za przekroczenie dopuszczalnego poziomu hałasu, na rok 2013",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/705/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 września 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości stawek kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi oraz za przekroczenie dopuszczalnego poziomu hałasu, na rok 2013"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 291 ust. 2 oraz art. 312 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. Nr 25, poz. 150, z późn. zm.[^2]) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "górne jednostkowe stawki kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi, zawarte w załączniku nr 1 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "jednostkowe stawki kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi, za poszczególne substancje, w tym substancje wyrażone jako wskaźniki, za przekroczenie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "dopuszczalnej ilości i składu ścieków, z wyjątkiem zawiesiny łatwo opadającej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "minimalnej procentowej redukcji stężeń substancji w ściekach,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "dopuszczalnej masy substancji w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– zawarte w załączniku nr 2 do obwieszczenia;"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "jednostkowe stawki kar za przekroczenie dopuszczalnej temperatury wprowadzanych do wód lub do ziemi ścieków, za jeden m³, zawarte w załączniku nr 3 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "jednostkowe stawki kar za przekroczenie dopuszczalnego odczynu wprowadzanych do wód lub do ziemi ścieków, za jeden m³, zawarte w załączniku nr 4 do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "jednostkową stawkę kary za przekroczenie dopuszczalnej ilości zawiesiny łatwo opadającej, za jeden litr, wynoszącą 12,20 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "jednostkową stawkę kary za przekroczenie dopuszczalnego stopnia rozcieńczenia ścieków, eliminującego toksyczne oddziaływanie ścieków na ryby, za jeden m³, wynoszącą 12,20 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "jednostkową stawkę kary za przekroczenie dopuszczalnego poziomu sztucznych substancji promieniotwórczych w ściekach, za jeden m³, wynoszącą 12,20 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "górną jednostkową stawkę kary za przekroczenie dopuszczalnego poziomu hałasu przenikającego do środowiska, za jeden dB przekroczenia, wynoszącą 62,48 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "jednostkowe stawki kar za przekroczenie dopuszczalnego poziomu hałasu, zawarte w załączniku nr 5 do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M. Korolec"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Środowiska z dnia 27 września 2012 r. (poz. 705) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "GÓRNE JEDNOSTKOWE STAWKI KAR ZA PRZEKROCZENIE WARUNKÓW WPROWADZANIA ŚCIEKÓW DO WÓD LUB DO ZIEMI"
+    },
+    {
+     "type": "text",
+     "text": "Górna Lp. Przedmiot kary jednostkowa stawka kary w zł"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "Za 1 kg substancji, w wypadku przekroczenia:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "dopuszczalnej ilości i składu ścieków z wyjątkiem zawiesiny łatwo opadającej; 1 2) minimalnej procentowej redukcji stężeń substancji w ściekach; 1 242,36 3) dopuszczalnej masy substancji w odprowadzanych ściekach przypadającej na jednostkę masy wykorzystanego surowca, materiału, paliwa lub wytworzonego produktu",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Za 1 l zawiesiny łatwo opadającej 12,64"
+      },
+      {
+       "type": "text",
+       "text": "Za 1 m³ ścieków, w wypadku przekroczenia dopuszczalnej temperatury, odczynu pH, poziomu 3 sztucznych substancji promieniotwórczych lub dopuszczalnego stopnia rozcieńczenia ścieków 12,64 eliminującego toksyczne oddziaływanie ścieków na ryby"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KAR ZA JEDEN KILOGRAM SUBSTANCJI, W TYM SUBSTANCJI WYRAŻONYCH JAKO WSKAŹNIKI"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Nazwy substancji, w tym substancji wyrażonych jako wskaźniki Stawka w zł"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Dwuchloro-dwufenylo-trójchloroetan (DDT) 1 200,34"
+    },
+    {
+     "type": "text",
+     "text": "2 Wielopierścieniowe chlorowane dwufenyle (PCB) 1 200,34"
+    },
+    {
+     "type": "text",
+     "text": "3 Wielopierścieniowe chlorowane trójfenyle (PCT) 1 200,34"
+    },
+    {
+     "type": "text",
+     "text": "4 Heksachlorocykloheksan (HCH) 1 200,34"
+    },
+    {
+     "type": "text",
+     "text": "5 Aldryna (C₁₂H₈Cl₆) 1 200,34"
+    },
+    {
+     "type": "text",
+     "text": "6 Dieldryna (C₁₂H₈Cl₆O) 1 200,34"
+    },
+    {
+     "type": "text",
+     "text": "7 Endryna (C₁₂H₈Cl₆O) 1 200,34"
+    },
+    {
+     "type": "text",
+     "text": "8 Izodryna (C₁₂H₈Cl₆) 1 200,34"
+    },
+    {
+     "type": "text",
+     "text": "9 Tetrachlorometan (czterochlorek węgla) (CCl₄) 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "10 Pentachlorofenol (PCP) [2, 3, 4, 5, 6-pięciochloro-1-hydroksybenzen] i jego sole 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "11 Heksachlorobenzen (HCB) 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "12 Heksachlorobutadien (HCBD) 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "13 Trichlorometan (chloroform) (CHCl₃) 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "14 1,2-dichloroetan (EDC) 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "15 Trichloroetylen (TRI) 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "16 Tetrachloroetylen (nadchloroetylen) (PER) 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "17 Trichlorobenzen (TCB) jako suma trzech izomerów (1,2,3-TCB + 1,2,4-TCB + 1,2,5-TCB) 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "18 Kadm 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "19 Rtęć 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "20 Insektycydy z grupy węglowodorów chlorowanych 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "21 Insektycydy fosforoorganiczne i karbaminianowe 1 100,67"
+    },
+    {
+     "type": "text",
+     "text": "22 Absorbowalne związki chloroorganiczne – AOX 825,20"
+    },
+    {
+     "type": "text",
+     "text": "23 Antymon 825,20"
+    },
+    {
+     "type": "text",
+     "text": "24 Arsen 825,20"
+    },
+    {
+     "type": "text",
+     "text": "25 Chlor wolny 825,20"
+    },
+    {
+     "type": "text",
+     "text": "26 Chlor całkowity 825,20"
+    },
+    {
+     "type": "text",
+     "text": "27 Cyjanki wolne 825,20"
+    },
+    {
+     "type": "text",
+     "text": "28 Chrom +6 825,20 1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "29 Lotne związki chloroorganiczne – VOX (chlorowane węglowodory lotne) 825,20"
+    },
+    {
+     "type": "text",
+     "text": "30 Lotne węglowodory aromatyczne – BTX (benzen, toluen, ksylen) 825,20"
+    },
+    {
+     "type": "text",
+     "text": "31 Miedź 825,20"
+    },
+    {
+     "type": "text",
+     "text": "32 Nikiel 825,20"
+    },
+    {
+     "type": "text",
+     "text": "33 Ołów 825,20"
+    },
+    {
+     "type": "text",
+     "text": "34 Siarczki 825,20"
+    },
+    {
+     "type": "text",
+     "text": "35 Srebro 825,20"
+    },
+    {
+     "type": "text",
+     "text": "36 Aldehyd mrówkowy 660,42"
+    },
+    {
+     "type": "text",
+     "text": "37 Chrom ogólny 660,42"
+    },
+    {
+     "type": "text",
+     "text": "38 Bar 660,42"
+    },
+    {
+     "type": "text",
+     "text": "39 Beryl 660,42"
+    },
+    {
+     "type": "text",
+     "text": "40 Bor 660,42"
+    },
+    {
+     "type": "text",
+     "text": "41 Cyjanki związane 660,42"
+    },
+    {
+     "type": "text",
+     "text": "42 Cynk 660,42"
+    },
+    {
+     "type": "text",
+     "text": "43 Cyna 660,42"
+    },
+    {
+     "type": "text",
+     "text": "44 Kobalt 660,42"
+    },
+    {
+     "type": "text",
+     "text": "45 Molibden 660,42"
+    },
+    {
+     "type": "text",
+     "text": "46 Selen 660,42"
+    },
+    {
+     "type": "text",
+     "text": "47 Tal 660,42"
+    },
+    {
+     "type": "text",
+     "text": "48 Tytan 660,42"
+    },
+    {
+     "type": "text",
+     "text": "49 Wanad 660,42"
+    },
+    {
+     "type": "text",
+     "text": "50 Akrylonitryl 440,25"
+    },
+    {
+     "type": "text",
+     "text": "51 Fenole lotne (indeks fenolowy) 440,25"
+    },
+    {
+     "type": "text",
+     "text": "52 Kaprolaktam 440,25"
+    },
+    {
+     "type": "text",
+     "text": "53 Surfaktanty anionowe (substancje powierzchniowo czynne anionowe) 440,25"
+    },
+    {
+     "type": "text",
+     "text": "54 Surfaktanty niejonowe (substancje powierzchniowo czynne niejonowe) 440,25"
+    },
+    {
+     "type": "text",
+     "text": "55 Suma surfaktantów anionowych i niejonowych 440,25"
+    },
+    {
+     "type": "text",
+     "text": "56 Substancje ekstrahujące się eterem naftowym 440,25"
+    },
+    {
+     "type": "text",
+     "text": "57 Węglowodory ropopochodne (substancje ropopochodne) 440,25"
+    },
+    {
+     "type": "text",
+     "text": "58 Rodanki 440,25"
+    },
+    {
+     "type": "text",
+     "text": "59 Fluorki 251,59"
+    },
+    {
+     "type": "text",
+     "text": "60 Azot ogólny 25,15"
+    },
+    {
+     "type": "text",
+     "text": "61 Azot amonowy 25,15 1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "62 Azot azotanowy 25,15"
+    },
+    {
+     "type": "text",
+     "text": "63 Azot azotynowy 25,15"
+    },
+    {
+     "type": "text",
+     "text": "64 Fosfor ogólny 25,15"
+    },
+    {
+     "type": "text",
+     "text": "65 Pięciodobowe biochemiczne zapotrzebowanie tlenu (BZT₅) 25,15"
+    },
+    {
+     "type": "text",
+     "text": "66 Glin 15,11"
+    },
+    {
+     "type": "text",
+     "text": "67 Chemiczne zapotrzebowanie tlenu metodą dwuchromianową (ChZT Cr ) 15,11"
+    },
+    {
+     "type": "text",
+     "text": "68 Ogólny węgiel organiczny (OWO) 15,11"
+    },
+    {
+     "type": "text",
+     "text": "69 Potas 15,11"
+    },
+    {
+     "type": "text",
+     "text": "70 Siarczyny 15,11"
+    },
+    {
+     "type": "text",
+     "text": "71 Sód 15,11"
+    },
+    {
+     "type": "text",
+     "text": "72 Żelazo ogólne 15,11"
+    },
+    {
+     "type": "text",
+     "text": "73 Zawiesina ogólna 4,66"
+    },
+    {
+     "type": "text",
+     "text": "74 Chlorki 4,66"
+    },
+    {
+     "type": "text",
+     "text": "75 Siarczany 4,66"
+    },
+    {
+     "type": "text",
+     "text": "76 Suma chlorków i siarczanów (Cl+SO₄) 4,66"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KARY ZA PRZEKROCZENIE DOPUSZCZALNEJ TEMPERATURY WPROWADZANYCH DO WÓD LUB DO ZIEMI ŚCIEKÓW"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowa Lp. Przedmiot kary stawka kary w zł za jeden m³"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Za ścieki, których temperatura przekracza dopuszczalną wielkość o mniej niż 5°C – za każdy 0,63 stopień przekroczenia"
+    },
+    {
+     "type": "text",
+     "text": "2 Za ścieki, których temperatura przekracza dopuszczalną wielkość o 5°C i więcej – za każdy 1,26 stopień przekroczenia"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KARY ZA PRZEKROCZENIE DOPUSZCZALNEGO ODCZYNU WPROWADZANYCH DO WÓD LUB DO ZIEMI ŚCIEKÓW"
+    },
+    {
+     "type": "text",
+     "text": "Jednostkowa Lp. Przedmiot kary stawka kary w zł za jeden m³"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "1 Za ścieki, których pH jest wyższe od górnej albo niższe od dolnej wartości dopuszczalnej 1,26 o mniej niż 0,5 pH"
+    },
+    {
+     "type": "text",
+     "text": "2 Za ścieki, których pH jest wyższe od górnej albo niższe od dolnej wartości dopuszczalnej 3,15 o 0,5 pH do 1,5 pH"
+    },
+    {
+     "type": "text",
+     "text": "3 Za ścieki, których pH jest wyższe od górnej albo niższe od dolnej wartości dopuszczalnej 6,29 o więcej niż 1,5 pH do 2,5 pH"
+    },
+    {
+     "type": "text",
+     "text": "4 Za ścieki, których pH jest wyższe od górnej albo niższe od dolnej wartości dopuszczalnej 12,20 o więcej niż 2,5 pH"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KAR ZA PRZEKROCZENIE DOPUSZCZALNEGO POZIOMU HAŁASU"
+    },
+    {
+     "type": "text",
+     "text": "w zł za każdy dB przekroczenia"
+    },
+    {
+     "type": "text",
+     "text": "Wielkość przekroczenia"
+    },
+    {
+     "type": "text",
+     "text": "w porze dnia w porze nocy"
+    },
+    {
+     "type": "text",
+     "text": "od 1 do 5 dB 10,87 13,61"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 5 do 10 dB 19,03 23,12"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 10 do 15 dB 27,21 32,66"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 15 dB 40,79 48,99"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 248, poz. 1493 i Nr 284, poz. 1671).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019, Nr 182, poz. 1228, Nr 229, poz. 1498 i Nr 249, poz. 1657, z 2011 r. Nr 32, poz. 159, Nr 63, poz. 322, Nr 94, poz. 551, Nr 99, poz. 569, Nr 122, poz. 695, Nr 152, poz. 897, Nr 178, poz. 1060 i Nr 224, poz. 1341 oraz z 2012 r. poz. 460 i 951."
+ }
+}

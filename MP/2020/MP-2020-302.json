@@ -1,0 +1,421 @@
+{
+ "eli": "MP/2020/302",
+ "title": "Uchwała nr 44/2020 Państwowej Komisji Wyborczej z dnia 2 marca 2020 r. w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących sprawdzenia w systemie informatycznym zgodności arytmetycznej danych zawartych w projektach protokołów głosowania i w protokołach głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 10 maja 2020 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/302/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 44/2020"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 marca 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wytycznych dla obwodowych komisji wyborczych dotyczących sprawdzenia w systemie informatycznym zgodności arytmetycznej danych zawartych w projektach protokołów głosowania i w protokołach głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 10 maja 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 161 § 1 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2019 r. poz. 684 i 1504) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się wytyczne dla obwodowych komisji wyborczych dotyczące sprawdzenia w systemie informatycznym zgodności arytmetycznej danych zawartych w projektach protokołów głosowania i w protokołach głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej zarządzonych na dzień 10 maja 2020 r., stanowiące załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S. Marciniak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 44/2020 Państwowej Komisji Wyborczej z dnia 2 marca 2020 r. (poz. 302)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYTYCZNE DLA OBWODOWYCH KOMISJI WYBORCZYCH DOTYCZĄCE SPRAWDZENIA W SYSTEMIE INFORMATYCZNYM ZGODNOŚCI ARYTMETYCZNEJ DANYCH ZAWARTYCH W PROJEKTACH PROTOKOŁÓW GŁOSOWANIA I W PROTOKOŁACH GŁOSOWANIA W WYBORACH PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ ZARZĄDZONYCH NA DZIEŃ 10 MAJA 2020 R."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Warunki poprawności arytmetycznej danych liczbowych w projektach protokołów głosowania i w protokołach głosowania podlegające sprawdzeniu w systemie informatycznym"
+    },
+    {
+     "type": "text",
+     "text": "Warunki arytmetyczne dotyczące danych w projektach protokołów głosowania i w protokołach głosowania dzieli się na dwa rodzaje:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "warunki konieczne, które muszą być spełnione bezwzględnie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "warunki dodatkowe, które powinny być spełnione, ale w szczególnych okolicznościach mogą być niezachowane.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ponadto w systemie informatycznym „Wsparcie Organów Wyborczych (WOW)” zdefiniowano warunki, które służą sprawdzeniu zgodności niektórych danych liczbowych z projektów protokołów głosowania i protokołów głosowania w wyborach."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Warunki konieczne",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "liczba wyborców, którym wydano karty do głosowania, nie może być większa od liczby wyborców uprawnionych do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "liczba niewykorzystanych kart do głosowania nie może być większa od liczby kart, które otrzymała komisja;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "liczba wyborców głosujących przez pełnomocnika musi być równa 0 w obwodach odrębnych, zagranicznych i na statkach morskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "suma liczby wyborców głosujących przez pełnomocnika i liczby wyborców głosujących na podstawie zaświadczenia o prawie do głosowania nie może być większa od liczby wyborców, którym wydano karty do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "liczby dotyczące głosowania korespondencyjnego muszą być równe 0 w obwodach nieobjętych głosowaniem korespondencyjnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "suma liczby wyborców, którym wydano karty do głosowania, i liczby wyborców, którym wysłano pakiety wyborcze, nie może być większa od liczby wyborców uprawnionych do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "liczba otrzymanych kopert zwrotnych nie może być większa, niż liczba wyborców, którym wysłano pakiety wyborcze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "suma liczby kopert zwrotnych, w których nie było oświadczenia o osobistym i tajnym oddaniu głosu, oraz liczby kopert zwrotnych, w których oświadczenie nie było podpisane, nie może być większa od liczby otrzymanych kopert zwrotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "suma liczby kopert zwrotnych, w których nie było koperty na kartę do głosowania, oraz liczby kopert zwrotnych, w których znajdowała się niezaklejona koperta na kartę do głosowania, nie może być większa od liczby otrzymanych kopert zwrotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "liczba otrzymanych kopert zwrotnych nie może być większa od sumy liczb kopert z poszczególnymi wadami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "liczba wrzuconych do urny kopert na karty do głosowania nie może być większa od liczby otrzymanych kopert zwrotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "liczba kart wyjętych z urny musi być większa niż 0, gdy liczba osób, którym wydano karty do głosowania, jest większa niż 0, w obwodach stałych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_1/pkt_13",
+       "text": "liczba kart wyjętych z urny musi być równa sumie liczby kart nieważnych i liczby kart ważnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_1/pkt_14",
+       "text": "liczba kart ważnych musi być równa sumie liczby głosów nieważnych i liczby głosów ważnych oddanych łącznie na wszystkich kandydatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_1/pkt_15",
+       "text": "suma liczb głosów nieważnych z poszczególnych powodów musi być równa liczbie głosów nieważnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_1/pkt_16",
+       "text": "suma liczb głosów ważnych oddanych na poszczególnych kandydatów musi być równa liczbie głosów ważnych oddanych łącznie na wszystkich kandydatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_1/pkt_17",
+       "text": "liczba głosów oddanych na wszystkich kandydatów wpisana w rubryce „Razem” musi być równa sumie liczb głosów oddanych na poszczególnych kandydatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_1/pkt_18",
+       "text": "przy nazwiskach kandydatów skreślonych po wydrukowaniu kart do głosowania nie może być wpisana żadna liczba.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Warunki dodatkowe",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "liczba wyborców uprawnionych do głosowania powinna być większa od zera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "liczba wyborców, którym wydano karty do głosowania, powinna być większa od zera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "liczba wyborców, którym wydano karty do głosowania, nie powinna przekraczać 90% liczby wyborców uprawnionych do głosowania w obwodach stałych w kraju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "suma liczby wyborców, którym wydano karty do głosowania, i liczby niewykorzystanych kart do głosowania powinna być równa liczbie kart do głosowania otrzymanych przez komisję;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "liczba wyborców głosujących przez pełnomocnika powinna być:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_5/lit_a",
+         "text": "mniejsza od liczby wyborców, którym wydano karty do głosowania, gdy ta jest większa od zera,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_5/lit_b",
+         "text": "nie większa niż 10% liczby wyborców, którym wydano karty do głosowania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "liczba wyborców głosujących na podstawie zaświadczenia o prawie do głosowania powinna być:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_6/lit_a",
+         "text": "mniejsza od liczby wyborców, którym wydano karty do głosowania, gdy ta jest większa od zera,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_6/lit_b",
+         "text": "nie większa niż 10% liczby wyborców, którym wydano karty do głosowania, z wyjątkiem obwodów głosowania utworzonych za granicą oraz obwodów odrębnych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "liczba kopert na karty do głosowania wrzuconych do urny nie powinna być większa niż liczba otrzymanych kopert zwrotnych pomniejszona o liczbę kopert zwrotnych niespełniających warunków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_2/pkt_8",
+       "text": "liczba kart wyjętych z urny powinna być większa od zera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_2/pkt_9",
+       "text": "liczba kart do głosowania wyjętych z kopert na kartę do głosowania nie powinna być większa od liczby wyborców, którym wysłano pakiety wyborcze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_2/pkt_10",
+       "text": "liczba kart do głosowania wyjętych z kopert na kartę do głosowania powinna być równa liczbie kopert na kartę do głosowania wrzuconych do urny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_2/pkt_11",
+       "text": "liczba kart do głosowania wyjętych z urny pomniejszona o liczbę kart wyjętych z kopert na karty do głosowania powinna być równa liczbie wyborców, którym wydano karty do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_2/pkt_12",
+       "text": "liczba kart ważnych powinna być większa od zera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_2/pkt_13",
+       "text": "liczba wyborców uprawnionych do głosowania nie powinna być mniejsza niż liczba kart ważnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_2/pkt_14",
+       "text": "liczba kart nieważnych nie powinna być większa od zera;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_2/pkt_15",
+       "text": "liczba kart nieważnych nie powinna być większa od liczby głosów nieważnych z kart ważnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Weryfikacja zgodności danych zawartych w projekcie protokołu głosowania i w protokole głosowania z meldunkiem przedwyborczym ze spisów wyborców"
+    },
+    {
+     "type": "text",
+     "text": "System informatyczny „Wsparcie Organów Wyborczych (WOW)” weryfikuje również zgodność danych w projekcie protokołu głosowania i w protokole głosowania z meldunkiem przedwyborczym ze spisu wyborców oraz weryfikuje właściwą liczbę członków komisji dla danego obwodu, wraz z wymaganym kworum."
+    },
+    {
+     "type": "text",
+     "text": "Wymienione niżej warunki powinny być spełnione, jednakże w wyjątkowych okolicznościach mogą być niedotrzymane. W takiej sytuacji do protokołu głosowania musi być dołączony wydrukowany raport ostrzeżeń podpisany przez wszystkie osoby wchodzące w skład obwodowej komisji wyborczej, uczestniczące w ustalaniu wyników głosowania. Poniższe warunki mają charakter warunków dodatkowych:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "liczba wyborców uprawnionych do głosowania, pomniejszona o liczbę wyborców głosujących na podstawie zaświadczenia o prawie do głosowania, nie powinna być większa od 120% lub mniejsza od 80% szacowanej liczby wyborców uprawnionych do głosowania (ustalonej w meldunku przedwyborczym) – w obwodzie stałym w kraju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "liczba otrzymanych kart do głosowania nie powinna być mniejsza niż 65% i większa niż 100% od szacowanej liczby wyborców uprawnionych do głosowania (ustalonej w meldunku przedwyborczym) – w obwodzie stałym w kraju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "liczba wyborców głosujących przez pełnomocnika nie powinna być większa od liczby sporządzonych aktów pełnomocnictwa, ustalonej w meldunku przedwyborczym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "liczba wyborców, którym wysłano pakiety wyborcze, powinna być równa liczbie wysłanych pakietów wyborczych, ustalonej w meldunku przedwyborczym.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Działania w systemie informatycznym „Wsparcie Organów Wyborczych (WOW)” w przypadku naruszenia warunków poprawności arytmetycznej"
+    },
+    {
+     "type": "text",
+     "text": "System informatyczny „Wsparcie Organów Wyborczych (WOW)” sprawdza wszystkie warunki arytmetyczne. W przypadku stwierdzenia błędów system „Wsparcie Organów Wyborczych (WOW)” informuje o tym operatora, wymieniając konkretne przekroczone warunki, oraz generuje raport błędów, który jest drukowany. Raport zawiera dokładne informacje identyfikujące protokół oraz szczegółowy opis warunków, które nie zostały dotrzymane."
+    },
+    {
+     "type": "text",
+     "text": "Jeżeli wystąpiło chociaż jedno naruszenie warunku koniecznego, dane nie zostają zapisane w systemie."
+    },
+    {
+     "type": "text",
+     "text": "Jeżeli zostały naruszone jedynie warunki dodatkowe, to dane z protokołu zostają zapisane warunkowo. Właściwa okręgowa komisja wyborcza może podjąć decyzję o konieczności ponownego ustalenia wyników głosowania przez obwodową komisję wyborczą, w tym o sporządzeniu nowego protokołu głosowania w obwodzie."
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

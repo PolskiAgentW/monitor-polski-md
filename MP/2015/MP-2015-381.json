@@ -1,0 +1,98 @@
+{
+ "eli": "MP/2015/381",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 20 kwietnia 2015 r. w sprawie zarządzenia druku kart do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 10 maja 2015 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/381/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 kwietnia 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zarządzenia druku kart do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 10 maja 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 307 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Zarządza się druk kart do głosowania w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 10 maja 2015 r., zgodnie z treścią zawartą w załączniku do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Karty do głosowania drukuje się zgodnie z parametrami wynikającymi z uchwały Państwowej Komisji Wyborczej z dnia 26 stycznia 2015 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. (M.P. poz. 154).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Karty do głosowania drukuje się w nakładzie wynikającym z uchwały Państwowej Komisji Wyborczej z dnia 26 stycznia 2015 r. w sprawie wytycznych dotyczących druku kart do głosowania oraz wytycznych dla okręgowych komisji wyborczych dotyczących dostarczenia kart do głosowania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille’a obwodowym komisjom wyborczym utworzonym w kraju w wyborach Prezydenta Rzeczypospolitej Polskiej w 2015 r. (M.P. poz. 151).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 20 kwietnia 2015 r. (poz. 381)",
+   "body": [
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "w wyborach Prezydenta Rzeczypospolitej Polskiej w dniu 10 maja 2015 r."
+    },
+    {
+     "type": "text",
+     "text": "Kandydaci na Prezydenta Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "text",
+     "text": "□ 01. BRAUN Grzegorz Michał □ 02. DUDA Andrzej Sebastian □ 03. JARUBAS Adam Sebastian □ 04. KOMOROWSKI Bronisław Maria □ 05. KORWIN-MIKKE Janusz Ryszard □ 06. KOWALSKI Marian Janusz □ 07. KUKIZ Paweł Piotr □ 08. OGÓREK Magdalena Agnieszka □ 09. PALIKOT Janusz Marian □ 10. TANAJNO Paweł Jan □ 11. WILK Jacek"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA Głosować można tylko na jednego kandydata, stawiając w kratce z lewej strony obok jego nazwiska znak „x” (dwie przecinające się linie w obrębie kratki). Postawienie znaku „x” przy nazwisku więcej niż jednego kandydata lub niepostawienie znaku „x” przy żadnym z nazwisk kandydatów, powoduje nieważność głosu."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072."
+ }
+}

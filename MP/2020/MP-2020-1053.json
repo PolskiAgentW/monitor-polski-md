@@ -1,0 +1,120 @@
+{
+ "eli": "MP/2020/1053",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 17 listopada 2020 r. w sprawie granicznych kwot przychodu dla 2020 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1053/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 listopada 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie granicznych kwot przychodu dla 2020 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2020 r. poz. 53, 252, 568, 1222 i 1578) ogłasza się, że kwoty graniczne przychodu dla 2020 r. wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "43 187,90 zł – co stanowi sumę kwot przychodu odpowiadających 70% przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_1/tir_1",
+     "text": "3452,20 zł – od 1 stycznia 2020 r. do 29 lutego 2020 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_1/tir_2",
+     "text": "3639,10 zł – od 1 marca 2020 r. do 31 maja 2020 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_1/tir_3",
+     "text": "3732,10 zł – od 1 czerwca 2020 r. do 31 sierpnia 2020 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_1/tir_4",
+     "text": "3517,20 zł – od 1 września 2020 r. do 30 listopada 2020 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_1/tir_5",
+     "text": "3618,30 zł – od 1 grudnia 2020 r. do 31 grudnia 2020 r.;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "80 205,20 zł – co stanowi sumę kwot przychodu odpowiadających 130% przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_2/tir_1",
+     "text": "6411,10 zł – od 1 stycznia 2020 r. do 29 lutego 2020 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_2/tir_2",
+     "text": "6758,20 zł – od 1 marca 2020 r. do 31 maja 2020 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_2/tir_3",
+     "text": "6931,00 zł – od 1 czerwca 2020 r. do 31 sierpnia 2020 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_2/tir_4",
+     "text": "6531,90 zł – od 1 września 2020 r. do 30 listopada 2020 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_2/tir_5",
+     "text": "6719,70 zł – od 1 grudnia 2020 r. do 31 grudnia 2020 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: G. Uścińska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

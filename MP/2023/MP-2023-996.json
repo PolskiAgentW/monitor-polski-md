@@ -1,0 +1,176 @@
+{
+ "eli": "MP/2023/996",
+ "title": "Uchwała nr 111/2023 Państwowej Komisji Wyborczej z dnia 28 sierpnia 2023 r. w sprawie warunków oraz sposobu pomocniczego wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 15 października 2023 r.",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/996/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 111/2023"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 sierpnia 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków oraz sposobu pomocniczego wykorzystania techniki elektronicznej w referendum ogólnokrajowym zarządzonym na dzień 15 października 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 11 ust. 3 w związku z art. 90 ust. 1 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2020 r. poz. 851 oraz z 2023 r. poz. 497 i 1628) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ustala się warunki oraz sposób wykorzystania techniki elektronicznej jako narzędzia wspomagającego prace: obwodowych komisji wyborczych, gmin, komisarzy wyborczych, delegatur i zespołów Krajowego Biura Wyborczego, okręgowych komisji wyborczych oraz Państwowej Komisji Wyborczej, w referendum ogólnokrajowym zarządzonym na dzień 15 października 2023 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Wykorzystanie techniki elektronicznej jest pomocnicze i nie zastępuje ręcznego liczenia głosów przez komisje obwodowe oraz konieczności porównania przez okręgowe komisje wyborcze danych zawartych w systemie teleinformatycznym z dostarczonymi protokołami głosowania w obwodzie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunkiem korzystania przez podmioty, o których mowa w § 1 ust. 1, z techniki elektronicznej jest używanie wyłącznie oprogramowania zaakceptowanego i zapewnionego przez Państwową Komisję Wyborczą – systemu teleinformatycznego Wsparcie Organów Wyborczych (WOW), zwanego dalej „systemem teleinformatycznym”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "System teleinformatyczny umożliwia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "wprowadzenie, przechowywanie i aktualizację danych o podmiotach uprawnionych do udziału w kampanii referendalnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "druk formularzy protokołów głosowania w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "wprowadzenie wszystkich danych zawartych w protokole głosowania w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "wydruk projektów protokołów głosowania w obwodzie z ewentualnym zestawieniem błędów oraz raportem ostrzeżeń, ułatwiającymi sprawdzenie poprawności ustalenia wyników głosowania w obwodzie, a w szczególności zgodności arytmetycznej danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "wprowadzenie danych z podpisanych protokołów głosowania w obwodzie do sieci elektronicznego przekazywania danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "zapisanie danych z protokołu głosowania w obwodzie w postaci pliku na elektronicznym nośniku danych, w przypadku braku możliwości wprowadzenia danych do sieci elektronicznego przekazywania danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "potwierdzenie przez koordynatora gminnego ds. informatyki zgodności danych elektronicznych otrzymanych z obwodowej komisji wyborczej z kopiami protokołów głosowania w obwodzie przekazanymi przez tę obwodową komisję wyborczą;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "weryfikację i zatwierdzenie danych z protokołów głosowania w obwodzie na poziomie właściwej okręgowej komisji wyborczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "sporządzenie, w formie wydruku, projektu protokołu głosowania na obszarze właściwości okręgowej komisji wyborczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "gromadzenie i przekazywanie skanów protokołów głosowania w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_3/pkt_11",
+     "text": "przekazanie przez okręgową komisję wyborczą wyników głosowania z obszaru swojej właściwości do Państwowej Komisji Wyborczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_3/pkt_12",
+     "text": "sporządzenie, w formie wydruku, projektu protokołu o wyniku referendum;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_3/pkt_13",
+     "text": "przechowywanie danych zawartych w protokołach głosowania w obwodach, na poziomie jednostki samorządu terytorialnego, w okręgach wyborczych oraz w skali kraju.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W sprawach nieuregulowanych w niniejszej uchwale stosuje się odpowiednio przepisy uchwały Państwowej Komisji Wyborczej nr 63/2023 z dnia 17 sierpnia 2023 r. w sprawie warunków oraz sposobu pomocniczego wykorzystania techniki elektronicznej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej zarządzonych na dzień 15 października 2023 r. (M.P. poz. 988).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S. Marciniak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

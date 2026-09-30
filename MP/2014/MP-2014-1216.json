@@ -1,0 +1,101 @@
+{
+ "eli": "MP/2014/1216",
+ "title": "Komunikat Ministra Nauki i Szkolnictwa Wyższego z dnia 16 grudnia 2014 r. o zmianie zasad finansowania programu pod nazwą \"Diamentowy Grant\"",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/1216/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA NAUKI I SZKOLNICTWA WYŻSZEGO[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 grudnia 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie zasad finansowania programu pod nazwą „Diamentowy Grant”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 ust. 2 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki (Dz. U. z 2014 r. poz. 1620), w związku z art. 187a ustawy z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2012 r. poz. 572, z późn. zm.[^2]) ogłasza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Z dniem 29 grudnia 2014 r. wprowadza się następującą zmianę zasad finansowania programu pod nazwą „Diamentowy Grant”[^3]:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w ramach programu wsparciem mogą być objęci:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "studenci jednolitych studiów magisterskich, którzy ukończyli trzeci rok studiów w roku ogłoszenia konkursu i kontynuują naukę, a w przypadku studiów jednolitych trwających 6 lat – studenci, którzy ukończyli czwarty rok studiów w roku ogłoszenia konkursu i kontynuują naukę,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "absolwenci studiów pierwszego stopnia, którzy otrzymali tytuł zawodowy licencjata w roku ogłoszenia konkursu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "studenci studiów inżynierskich, kończący studia w semestrze zimowym w roku ogłoszenia konkursu;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "osoby, o których mowa w pkt 1, muszą spełniać łącznie następujące warunki:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "nie posiadać tytułu zawodowego magistra,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "posiadać udokumentowaną znajomość co najmniej jednego języka obcego na poziomie nie niższym niż B2,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "prowadzić zaawansowane badania naukowe i posiadać wybitne osiągnięcia naukowe lub, w przypadku kierunków studiów artystycznych, posiadać wyróżniające osiągnięcia artystyczne.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Nauki i Szkolnictwa Wyższego: wz. M.K. Ratajczak"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Nauki i Szkolnictwa Wyższego kieruje działem administracji rządowej – nauka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. poz. 1259).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650 oraz z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198.",
+  "3": "Program pod nazwą „Diamentowy Grant” został ustanowiony z dniem 2 listopada 2011 r. Komunikat Ministra Nauki i Szkolnictwa Wyższego z dnia 27 października 2011 r. o ustanowieniu programu pod nazwą „Diamentowy Grant” został ogłoszony w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” z dnia 7 listopada 2011 r. (M.P. Nr 98, poz. 999)."
+ }
+}

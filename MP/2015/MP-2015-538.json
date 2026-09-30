@@ -1,0 +1,1445 @@
+{
+ "eli": "MP/2015/538",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 9 czerwca 2015 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/538/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 czerwca 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 40 § 5 i art. 40a § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Karta do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej w obwodach głosowania utworzonych w kraju:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "drukowana jest na papierze offsetowym o gramaturze 80 g/m², koloru białego, jednakowym rodzajem i wielkością czcionki dla oznaczeń wszystkich list kandydatów w danym okręgu wyborczym i nazwisk kandydatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "składa się z odpowiedniej liczby zadrukowanych jednostronnie, zbroszurowanych i trwale połączonych kartek formatu A4, z zastrzeżeniem ust. 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "każda kartka karty do głosowania na zadrukowanej stronie, w górnej lewej części, opatrzona jest oznaczeniem „Okręg wyborczy nr...” i nazwą miejscowości, w której mieści się siedziba okręgowej komisji wyborczej, a w prawej – oznaczeniem „kartka ... (numer danej kartki) z … (liczba kartek)”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "pierwsza kartka karty do głosowania jest kartką tytułową. W górnej jej części, pośrodku, umieszczony jest napis „KARTA DO GŁOSOWANIA w wyborach do Sejmu Rzeczypospolitej Polskiej w dniu ........................”. W dolnej jej części umieszcza się informację o sposobie głosowania i warunkach ważności głosu, a poniżej, po prawej stronie, drukuje się odcisk pieczęci okręgowej komisji wyborczej, natomiast po lewej stronie oznacza się miejsce na umieszczenie pieczęci obwodowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_1/pkt_5",
+       "text": "druga kartka karty do głosowania jest kartką ze spisem treści. W górnej jej części, pośrodku, umieszczony jest napis „Spis treści Listy kandydatów na posłów Kartka”, a poniżej ułożone według kolejności wzrastającej numerów list nazwy lub skróty nazw komitetów wyborczych zgłaszających listy i numer kartki, na której umieszczona jest dana lista;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_1/pkt_6",
+       "text": "na trzeciej i kolejnych kartkach karty do głosowania umieszcza się listy kandydatów na posłów; na jednej kartce karty do głosowania może być umieszczona tylko jedna lista kandydatów na posłów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/ust_1/pkt_7",
+       "text": "każda lista opatrzona jest oznaczeniem „Lista nr ...” oraz nazwą lub skrótem nazwy komitetu wyborczego, który zgłosił listę. Na liście po oznaczeniu „Kandydaci na posłów” umieszcza się w kolejności liczbę porządkową, po niej kratkę przeznaczoną na oddanie głosu oraz nazwisko i imię – imiona każdego kandydata;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/ust_1/pkt_8",
+       "text": "nazwiska kandydatów z tej samej listy kandydatów na posłów umieszcza się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_8/lit_a",
+         "text": "w jednej kolumnie, jeżeli na liście zarejestrowano nie więcej niż 20 kandydatów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_8/lit_b",
+         "text": "w dwóch kolumnach, jeżeli na liście zarejestrowano więcej niż 20 kandydatów; na pierwszej pozycji w drugiej (prawej) kolumnie zamieszcza się nazwisko i imię – imiona kandydata zarejestrowanego na danej liście pod numerem 21.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W wyjątkowych sytuacjach, w przypadku gdy z powodu wieloznakowych imion lub nazwisk kandydatów umieszczenie kandydatów z danej listy na karcie, o której mowa w ust. 1 pkt 2, nie jest możliwe, dopuszczalne jest sporządzenie kart w formacie B4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Karta do głosowania ma ścięty prawy górny róg.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Wzór oraz szczegółowe warunki techniczne kartki tytułowej, kartki ze spisem treści i następnych kartek karty do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej w obwodach głosowania utworzonych w kraju sporządzanej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_4/pkt_1",
+       "text": "w formacie A4 określa załącznik nr 1 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_4/pkt_2",
+       "text": "w formacie B4 określa załącznik nr 2 do uchwały.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Karta do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej w obwodach głosowania utworzonych w kraju drukowana jest jednostronnie na papierze offsetowym o gramaturze 80 g/m², w kolorze żółtym lub na papierze białym jednostronnie barwionym na kolor żółty po stronie zadrukowanej, jednakowym rodzajem i wielkością czcionki dla oznaczenia wszystkich kandydatów na senatora w danym okręgu wyborczym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Karta do głosowania, o której mowa w ust. 1, jest jedną kartką, zadrukowaną jednostronnie, formatu A4, a w okręgu wyborczym, w którym zarejestrowano tylko jednego kandydata na senatora – formatu A5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "W przypadku karty do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej, w okręgu wyborczym, w którym zarejestrowano więcej niż jednego kandydata na senatora:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "nazwiska kandydatów na senatora umieszcza się w jednej kolumnie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "na jednej karcie umieszcza się nazwiska nie więcej niż 14 kandydatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "karta, w górnej lewej części, opatrzona jest oznaczeniem „Okręg wyborczy nr ...” i nazwą miejscowości, w której mieści się siedziba okręgowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_3/pkt_4",
+       "text": "pośrodku karty, w górnej jej części, umieszczony jest napis „KARTA DO GŁOSOWANIA w wyborach do Senatu Rzeczypospolitej Polskiej w dniu ........................ Kandydaci na senatora”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_3/pkt_5",
+       "text": "nazwiska i imiona zarejestrowanych kandydatów umieszczone są na karcie do głosowania w kolejności alfabetycznej; przed nazwiskiem i imieniem – imionami każdego kandydata umieszczona jest w kolejności liczba porządkowa i kratka przeznaczona na oddanie głosu, a pod nazwiskiem i imieniem umieszczone są wyrazy: „zgłoszony przez” lub „zgłoszona przez” oraz nazwa lub skrót nazwy komitetu wyborczego, który zgłosił kandydata; druk nazwy lub skrótu nazwy wykonuje się mniejszą czcionką, jednakową dla oznaczeń wszystkich nazw komitetów i skrótów nazw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_3/pkt_6",
+       "text": "w dolnej części karty umieszcza się informację o sposobie głosowania i warunkach ważności głosu, a poniżej, po prawej stronie, drukuje się odcisk pieczęci okręgowej komisji wyborczej, natomiast po lewej stronie oznacza się miejsce na umieszczenie pieczęci obwodowej komisji wyborczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "W przypadku karty do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej, w okręgu wyborczym, w którym zarejestrowano tylko jednego kandydata na senatora:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_4/pkt_1",
+       "text": "w górnej lewej części opatrzona jest ona oznaczeniem „Okręg wyborczy nr ...” i nazwą miejscowości, w której mieści się siedziba okręgowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_4/pkt_2",
+       "text": "pośrodku, w górnej części, umieszczony jest napis „KARTA DO GŁOSOWANIA w wyborach do Senatu Rzeczypospolitej Polskiej w dniu ........................ Kandydat na senatora”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_4/pkt_3",
+       "text": "z lewej strony przed nazwiskiem kandydata umieszcza się wyraz „TAK” i kratkę przeznaczoną na oddanie głosu, a niżej wyraz „NIE” i kratkę przeznaczoną na oddanie głosu, a następnie nazwisko i imię – imiona kandydata, a pod nazwiskiem i imieniem umieszcza się wyrazy: „zgłoszony przez” lub „zgłoszona przez” oraz nazwę lub skrót nazwy komitetu wyborczego, który zgłosił kandydata; druk nazwy lub skrótu nazwy wykonuje się mniejszą czcionką;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_4/pkt_4",
+       "text": "przepisy ust. 3 pkt 6 stosuje się odpowiednio.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Karta do głosowania ma ścięty prawy górny róg.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Wzór oraz szczegółowe warunki techniczne karty do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju, w okręgu wyborczym, w którym zarejestrowano:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_6/pkt_1",
+       "text": "więcej niż jednego kandydata na senatora, określa załącznik nr 3 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_6/pkt_2",
+       "text": "jednego kandydata na senatora, określa załącznik nr 4 do uchwały.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Nakładka na kartę do głosowania sporządzana w alfabecie Braille’a, zwana dalej „nakładką na kartę”, w wyborach do Sejmu Rzeczypospolitej Polskiej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "wykonywana jest z przezroczystego trójwarstwowego materiału plastycznego politereftalan etylenu, znanego także pod nazwami PET, R-PET, A-PET, o grubości pomiędzy 0,25 do 0,3 mm i gęstości 1,35 g/cm³;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "sporządzana jest w formacie A4 lub B4, w zależności od formatu karty do głosowania w danym okręgu wyborczym; ponadto u góry, u dołu oraz z prawej strony znajdują się zakładki podtrzymujące kartę do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "ma ścięty prawy górny róg;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "pośrodku nakładki na kartę, w górnej jej części, umieszczony jest odpowiednio napis „Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej. Format A4” lub „Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej. Format B4”, zapisany alfabetem Braille’a w standardzie Marburg Medium;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "w miejscach odpowiadających umieszczonej na karcie do głosowania kratce przeznaczonej na oddanie głosu wycięta jest kratka, a następnie umieszczona jest liczba porządkowa zapisana alfabetem Braille’a;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "na nakładce na kartę wycina się 40 kratek;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "u dołu nakładki nakleja się sporządzoną pismem płaskim naklejkę informującą o rodzaju nakładki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Wzór oraz szczegółowe warunki techniczne nakładki na kartę w wyborach do Sejmu Rzeczypospolitej Polskiej sporządzanej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "w formacie A4 określa załącznik nr 5 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "w formacie B4 określa załącznik nr 6 do uchwały.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Nakładka na kartę w wyborach do Senatu Rzeczypospolitej Polskiej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "wykonywana jest z przezroczystego trójwarstwowego materiału plastycznego politereftalan etylenu, znanego także pod nazwami PET, R-PET, A-PET, o grubości pomiędzy 0,25 do 0,3 mm i gęstości 1,35 g/cm³;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "sporządzana jest w formacie A4 lub A5, w zależności od formatu karty do głosowania w danym okręgu wyborczym; ponadto u góry, u dołu oraz z prawej strony znajdują się zakładki podtrzymujące kartę do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "ma ścięty prawy górny róg;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "u dołu nakładki nakleja się sporządzoną pismem płaskim naklejkę informującą o rodzaju nakładki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W przypadku nakładki na kartę w wyborach do Senatu Rzeczypospolitej Polskiej w okręgu wyborczym, w którym zarejestrowano więcej niż jednego kandydata na senatora:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "w górnej części, pośrodku nakładki na kartę, umieszcza się napis „Nakładka na kartę do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej. Kandydaci na senatora”, zapisany alfabetem Braille’a w standardzie Marburg Medium;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "na nakładce na kartę wycina się 14 kratek;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "przepis § 3 ust. 1 pkt 5 stosuje się.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W przypadku nakładki na kartę w wyborach do Senatu Rzeczypospolitej Polskiej w okręgu wyborczym, w którym zarejestrowano jednego kandydata na senatora:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "w górnej części, pośrodku nakładki na kartę, umieszcza się napis „Nakładka na kartę do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej. Kandydat na senatora”, zapisany alfabetem Braille’a w standardzie Marburg Medium;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "w miejscach odpowiadających umieszczonym na karcie do głosowania kratkom przeznaczonym na oddanie głosu wycina się kratki, a następnie umieszcza się odpowiednio wyrazy „TAK” i „NIE” zapisane alfabetem Braille’a.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Wzór oraz szczegółowe warunki techniczne nakładki na kartę w wyborach do Senatu Rzeczypospolitej Polskiej w okręgu wyborczym, w którym zarejestrowano:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_4/pkt_1",
+       "text": "więcej niż jednego kandydata na senatora, określa załącznik nr 7 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_4/pkt_2",
+       "text": "jednego kandydata na senatora, określa załącznik nr 8 do uchwały.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 17 sierpnia 2011 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju (M.P. Nr 80, poz. 805).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 9 czerwca 2015 r. (poz. 538) Załącznik nr 1 WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okrêg wyborczy nr .................... kartka 1 z ....."
+    },
+    {
+     "type": "text",
+     "text": "...................................................... (siedziba okrêgowej komisji wyborczej)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO G£OSOWANIA w wyborach do Sejmu Rzeczypospolitej Polskiej w dniu ..................."
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA"
+    },
+    {
+     "type": "text",
+     "text": "Niniejsza karta jest wielokartkow¹ kart¹ do g³osowania zawieraj¹c¹ listy kandydatów na pos³ów. Na karcie tej g³osowaæ mo¿na tylko na jedn¹ listê, stawiaj¹c znak \"x\" w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje siê jego pierwszeñstwo do otrzymania mandatu. Postawienie znaku \"x\" w kratce obok nazwisk kandydatów z ró¿nych list (na wiêcej ni¿ jednej kartce karty do g³osowania) lubniepostawienie znaku \"x\" w ¿adnej kratce powoduje niewa¿noœæ g³osu."
+    },
+    {
+     "type": "text",
+     "text": "Przez znak \"x\" nale¿y rozumieæ dwie przecinaj¹ce siê linie w obrêbie kratki."
+    },
+    {
+     "type": "text",
+     "text": "Okrêg wyborczy nr .................... kartka 2 z ....."
+    },
+    {
+     "type": "text",
+     "text": "...................................................... (siedziba okrêgowej komisji wyborczej)"
+    },
+    {
+     "type": "text",
+     "text": "Spis treœci"
+    },
+    {
+     "type": "text",
+     "text": "Listy kandydatów na pos³ów Kartka"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego) E"
+    },
+    {
+     "type": "text",
+     "text": "E"
+    },
+    {
+     "type": "text",
+     "text": "Okrêg wyborczy nr .................... kartka ..... z ....."
+    },
+    {
+     "type": "text",
+     "text": "...................................................... AA (siedziba okrêgowej komisji wyborczej)"
+    },
+    {
+     "type": "text",
+     "text": "Lista nr ........ ........................................................................................................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "KANDYDACI NA POS£ÓW"
+    },
+    {
+     "type": "text",
+     "text": "F"
+    },
+    {
+     "type": "ust",
+     "num": "01",
+     "path": "ust_01",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 21. BBBBBBBBBB Aaaaaaaaaaaa CC DD 02. BBBBBBBBBB Aaaaaaaaaaaa 22. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "03",
+     "path": "ust_03",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 23. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "04",
+     "path": "ust_04",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 24. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "05",
+     "path": "ust_05",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 25. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "06",
+     "path": "ust_06",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 26. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "07",
+     "path": "ust_07",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 27. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "08",
+     "path": "ust_08",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 28. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "09",
+     "path": "ust_09",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 29. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 30. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 31. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 32. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 33. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 34. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 35. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 36. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 37. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 38. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 39. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 40. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": [
+      {
+       "type": "text",
+       "text": "B"
+      },
+      {
+       "type": "text",
+       "text": "A - 69 mm E - 13 mm B - 185 mm F - 88 mm C - 4 mm D - 6 mm"
+      },
+      {
+       "type": "text",
+       "text": "6 mm na 6 mm - gruboœæ linii 1 punkt"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2 WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okrêg wyborczy nr .................... kartka 1 z ....."
+    },
+    {
+     "type": "text",
+     "text": "...................................................... (siedziba okrêgowej komisji wyborczej)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO G£OSOWANIA w wyborach do Sejmu Rzeczypospolitej Polskiej w dniu ..................."
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA"
+    },
+    {
+     "type": "text",
+     "text": "Niniejsza karta jest wielokartkow¹ kart¹ do g³osowania zawieraj¹c¹ listy kandydatów na pos³ów. Na karcie tej g³osowaæ mo¿na tylko na jedn¹ listê, stawiaj¹c znak \"x\" w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje siê jego pierwszeñstwo do otrzymania mandatu. Postawienie znaku \"x\" w kratce obok nazwisk kandydatów z ró¿nych list (na wiêcej ni¿ jednej kartce karty do g³osowania) lubniepostawienie znaku \"x\" w ¿adnej kratce powoduje niewa¿noœæ g³osu."
+    },
+    {
+     "type": "text",
+     "text": "Przez znak \"x\" nale¿y rozumieæ dwie przecinaj¹ce siê linie w obrêbie kratki."
+    },
+    {
+     "type": "text",
+     "text": "Okrêg wyborczy nr .................... kartka 2 z ....."
+    },
+    {
+     "type": "text",
+     "text": "...................................................... (siedziba okrêgowej komisji wyborczej)"
+    },
+    {
+     "type": "text",
+     "text": "Spis treœci"
+    },
+    {
+     "type": "text",
+     "text": "Listy kandydatów na pos³ów Kartka"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "............................................................................................... ........................ (nazwa lub skrót nazwy komitetu wyborczego) E"
+    },
+    {
+     "type": "text",
+     "text": "E"
+    },
+    {
+     "type": "text",
+     "text": "Okrêg wyborczy nr .................... kartka ..... z ....."
+    },
+    {
+     "type": "text",
+     "text": "...................................................... (siedziba okrêgowej komisji wyborczej) A Lista nr ........ ........................................................................................................ (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "KANDYDACI NA POS£ÓW F"
+    },
+    {
+     "type": "ust",
+     "num": "01",
+     "path": "ust_01",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 21. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": [
+      {
+       "type": "text",
+       "text": "C"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "02",
+     "path": "ust_02",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 22. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": [
+      {
+       "type": "text",
+       "text": "D 03. BBBBBBBBBB Aaaaaaaaaaaa 23. BBBBBBBBBB Aaaaaaaaaaaa"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "04",
+     "path": "ust_04",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 24. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "05",
+     "path": "ust_05",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 25. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "06",
+     "path": "ust_06",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 26. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "07",
+     "path": "ust_07",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 27. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "08",
+     "path": "ust_08",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 28. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "09",
+     "path": "ust_09",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 29. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 30. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 31. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 32. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 33. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 34. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 35. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 36. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 37. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 38. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 39. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa 40. BBBBBBBBBB Aaaaaaaaaaaa",
+     "children": [
+      {
+       "type": "text",
+       "text": "B"
+      },
+      {
+       "type": "text",
+       "text": "A - 61 mm E - 13 mm B - 227,5 mm F - 110 mm C - 8 mm D - 6 mm 6 mm na 6 mm - gruboœæ linii 1 punkt"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3 WZÓR E",
+   "body": [
+    {
+     "type": "text",
+     "text": "E Okrêg wyborczy nr ...................."
+    },
+    {
+     "type": "text",
+     "text": "...................................................... (siedziba okrêgowej komisji wyborczej)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO G£OSOWANIA A w wyborach do Senatu Rzeczypospolitej Polskiej w dniu ................."
+    },
+    {
+     "type": "text",
+     "text": "KANDYDACI NA SENATORA D"
+    },
+    {
+     "type": "ust",
+     "num": "01",
+     "path": "ust_01",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... B (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "02",
+     "path": "ust_02",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego) C 03. BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "04",
+     "path": "ust_04",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "05",
+     "path": "ust_05",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "06",
+     "path": "ust_06",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "07",
+     "path": "ust_07",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "08",
+     "path": "ust_08",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "09",
+     "path": "ust_09",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... .... (nazwa lub skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... ....",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... ....",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ................................................................................................................... ....",
+     "children": [
+      {
+       "type": "text",
+       "text": "INFORMACJA"
+      },
+      {
+       "type": "text",
+       "text": "F G"
+      },
+      {
+       "type": "text",
+       "text": "A - 52,5 mm E - 13 mm B - 6,5 mm F - 25 mm C - 6 mm G - 35 mm D - 177 mm 6 mm na 6 mm - gruboœæ linii 1 punkt"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4 WZÓR E",
+   "body": [
+    {
+     "type": "text",
+     "text": "Okrêg wyborczy nr .................... E"
+    },
+    {
+     "type": "text",
+     "text": "...................................................... (siedziba okrêgowej komisji wyborczej)"
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO G£OSOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "w wyborach do Senatu Rzeczypospolitej Polskiej A w dniu .............."
+    },
+    {
+     "type": "text",
+     "text": "KANDYDAT NA SENATORA"
+    },
+    {
+     "type": "text",
+     "text": "D"
+    },
+    {
+     "type": "text",
+     "text": "TAK"
+    },
+    {
+     "type": "text",
+     "text": "B BBBBBBBBBB Aaaaaaaaaaaa zg³oszony(-a) przez ............................................................................................................... .. (nazwa lub skrót nazwy komitetu wyborczego) C NIE"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA G³osuj¹c za wyborem kandydata, stawia siê znak \"x\" w kratce oznaczonej s³owem \"TAK\" z lewej strony obok nazwiska kandydata. G³osuj¹c przeciwko wyborowi kandydata, stawia siê znak \"x\" w kratce oznaczonej s³owem \"NIE\" z lewej strony obok nazwiska kandydata. Postawienie znaku x w obu kratkach albo niepostawienie znaku \"x w ¿adnej kratce powoduje niewa¿noœæ g³osu. Przez znak \"x\" nale¿y rozumieæ dwie przecinaj¹ce sie linie w obrêbie kratki. ........ ....................."
+    },
+    {
+     "type": "text",
+     "text": "miejsce na pieczêæ pieczêæ okrêgowej obwodowej komisji wyborczej G H komisji wyborczej"
+    },
+    {
+     "type": "text",
+     "text": "A - 69 mm E - 13 mm I - 8 mm B - 10 mm J - 8 mm C - 6 mm G - 2 5 m m D - 166 mm H - 35 mm"
+    },
+    {
+     "type": "text",
+     "text": "gruboœæ linii 1 punkt"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5 WZÓR H",
+   "body": [
+    {
+     "type": "text",
+     "text": "G J"
+    },
+    {
+     "type": "text",
+     "text": "zagiêcie J Nak³adka na kartê do g³osowania w wyborach do Sejmu Rzeczypospolitej Polskiej. Format A4."
+    },
+    {
+     "type": "text",
+     "text": "(opis jak powy¿ej alfabetem Braille`a) K C"
+    },
+    {
+     "type": "text",
+     "text": "F M"
+    },
+    {
+     "type": "text",
+     "text": "D"
+    },
+    {
+     "type": "text",
+     "text": "E"
+    },
+    {
+     "type": "text",
+     "text": "A I"
+    },
+    {
+     "type": "text",
+     "text": "z ag i ê c i e"
+    },
+    {
+     "type": "text",
+     "text": "L"
+    },
+    {
+     "type": "text",
+     "text": "G"
+    },
+    {
+     "type": "text",
+     "text": "K G A - 297,8 mm I - 207,8 mm B - 203 mm J - 12,5 mm C - 68,15 mm K - 45 mm D - 3,0 mm L - 2 9 ,7 m m E - 7 mm M - 88,5 mm F - 1 8 5 , 5 mm G - 30 mm 7 m m na 7 mm H H - 158 mm"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 6 WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "J"
+    },
+    {
+     "type": "text",
+     "text": "K"
+    },
+    {
+     "type": "text",
+     "text": "E"
+    },
+    {
+     "type": "text",
+     "text": "zagiêcie E I"
+    },
+    {
+     "type": "text",
+     "text": "G"
+    },
+    {
+     "type": "text",
+     "text": "A Nak³adka na kartê do g³osowania w wyborach do Sejmu Rzeczypospolitej Polskiej. Format B4."
+    },
+    {
+     "type": "text",
+     "text": "(opis jak powy¿ej alfabetem Braille`a) F"
+    },
+    {
+     "type": "text",
+     "text": "C"
+    },
+    {
+     "type": "text",
+     "text": "D"
+    },
+    {
+     "type": "text",
+     "text": "e i c ê i L H ga z"
+    },
+    {
+     "type": "text",
+     "text": "K"
+    },
+    {
+     "type": "text",
+     "text": "M"
+    },
+    {
+     "type": "text",
+     "text": "J zagiêcie"
+    },
+    {
+     "type": "text",
+     "text": "K"
+    },
+    {
+     "type": "text",
+     "text": "A - 60,9 mm E - 13 mm I - 226,4 mm M - 40 mm B - 228 mm F - 110,5 mm J - 200 mm C - 8 mm G - 239,4 mm K - 40 mm 7 mm na 7 mm D - 6 mm H 353,8 mm L 274 mm"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 7 WZÓR H",
+   "body": [
+    {
+     "type": "text",
+     "text": "G J"
+    },
+    {
+     "type": "text",
+     "text": "Nak³adka na kartê zagiêcie do g³osowania w wyborach do Senatu Rzeczypospolitej Polskiej. Kandydaci na senatora K C (opis jak powy¿ej alfabetem Braillea) J"
+    },
+    {
+     "type": "text",
+     "text": "F"
+    },
+    {
+     "type": "text",
+     "text": "#0 D #02"
+    },
+    {
+     "type": "text",
+     "text": "E #0"
+    },
+    {
+     "type": "text",
+     "text": "#04"
+    },
+    {
+     "type": "text",
+     "text": "#05"
+    },
+    {
+     "type": "text",
+     "text": "#06"
+    },
+    {
+     "type": "text",
+     "text": "#07"
+    },
+    {
+     "type": "text",
+     "text": "#08 z ag A i ê c i e I #09"
+    },
+    {
+     "type": "text",
+     "text": "# 0"
+    },
+    {
+     "type": "text",
+     "text": "#"
+    },
+    {
+     "type": "text",
+     "text": "# 2"
+    },
+    {
+     "type": "text",
+     "text": "#"
+    },
+    {
+     "type": "text",
+     "text": "# 4"
+    },
+    {
+     "type": "text",
+     "text": "L"
+    },
+    {
+     "type": "text",
+     "text": "G"
+    },
+    {
+     "type": "text",
+     "text": "B"
+    },
+    {
+     "type": "text",
+     "text": "K"
+    },
+    {
+     "type": "text",
+     "text": "K G I - 207,8 mm A - 297,8 mm B - 203 mm J - 32 mm C - 52 mm K - 45 mm D - 5,5 mm L - 29 ,7 mm E - 7 mm 7 mm na 7 mm F - 177,5 mm G - 30 mm H H - 158 mm"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 8 WZÓR",
+   "body": [
+    {
+     "type": "text",
+     "text": "H"
+    },
+    {
+     "type": "text",
+     "text": "G J"
+    },
+    {
+     "type": "text",
+     "text": "zzaaggiiêêcciiee"
+    },
+    {
+     "type": "text",
+     "text": "Nak³adka na kartê do g³osowania w wyborach do Senatu Rzeczypospolitej Polskiej. Kandydat na senatora. K J (opis jak powy¿ej alfabetem Braille`a) C"
+    },
+    {
+     "type": "text",
+     "text": "F"
+    },
+    {
+     "type": "text",
+     "text": "$t k z A D ag i ê c i e I $nie E"
+    },
+    {
+     "type": "text",
+     "text": "M"
+    },
+    {
+     "type": "text",
+     "text": "A - 148,6 mm B - 203 mm Nak³adka na kartê do L C - 68,5 mm g³osowania w wyborach do D - 9,0 mm Senatu Rzeczypospolitej Polskiej. E - 7 mm F - 1 6 6 , 5 mm zagiêcie G - 30 mm H - 158 mm"
+    },
+    {
+     "type": "text",
+     "text": "I - 72 mm G J - 32 mm K - 44 mm L - 32 mm M - 29,7 mm"
+    },
+    {
+     "type": "text",
+     "text": "B 7 m m na 7 mm"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072. pieczêæ miejsce na pieczêæ okrêgowej obwodowej komisji komisji wyborczej wyborczej pieczêæ miejsce na pieczêæ okrêgowej obwodowej komisji komisji wyborczej wyborczej (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego) G³osowaæ mo¿na na jednego kandydata, stawiaj¹c znak \"x\" w kratce z lewej strony obok nazwiska kandydata, na którego wyborca g³osuje. Postawienie znaku \"x\" w wiêcej ni¿ 1 kratce lub niepostawienie znaku \"x\" w ¿adnej kratce powoduje niewa¿noœæ g³osu. Przez znak \"x\" nale¿y rozumieæ dwie przecinaj¹ce siê linie w obrêbie kratki. miejsce na pieczêæ pieczêæ okrêgowej obwodowej komisji wyborczej komisji wyborczej Nak³adka na kartê do K g³osowania w wyborach do Sejmu Rzeczypospolitej Polskiej. Format A4 B zagiêcie Nak³adka na kartê do g³osowania w wyborach do Sejmu Rzeczypospolitej Polskiej. Format B4 B Na t g o y or d zyposp it o zagiêcie"
+ }
+}

@@ -1,0 +1,1190 @@
+{
+ "eli": "MP/2019/862",
+ "title": "Uchwała nr 97 Rady Ministrów z dnia 11 września 2019 r. w sprawie Inicjatywy \"Wspólna Infrastruktura Informatyczna Państwa\"",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/862/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 97"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 września 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Inicjatywy „Wspólna Infrastruktura Informatyczna Państwa”"
+  },
+  {
+   "type": "text",
+   "text": "Kierując się potrzebą zapewnienia bezpieczeństwa danych przetwarzanych w systemach teleinformatycznych podmiotów administracji publicznej oraz optymalizacji kosztów utrzymania tych systemów, uznając, że wprowadzenie jednolitych wysokich standardów ochrony systemów informatycznych i wspieranie podmiotów administracji publicznej w utrzymaniu tych systemów oraz uzyskiwaniu usług niezbędnych do ich budowy, rozwoju i utrzymania przyczyni się do zapewnienia wysokiego poziomu usług świadczonych społeczeństwu przez administrację publiczną, uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Przyjmuje się Inicjatywę „Wspólna Infrastruktura Informatyczna Państwa”, zwaną dalej „Inicjatywą WIIP”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Inicjatywa WIIP obejmuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "budowę, rozwój i utrzymanie oraz zarządzanie zasobami Rządowej Chmury Obliczeniowej, z wykorzystaniem w szczególności sieci teletransmisji pozostających w dyspozycji podmiotów publicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "budowę, rozwój i utrzymanie Rządowego Klastra Bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "zapewnienie podmiotom administracji publicznej możliwości nabywania usług przetwarzania w publicznych chmurach obliczeniowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "budowę i utrzymanie systemu teleinformatycznego wspomagającego zarządzanie usługami przetwarzania w Rządowej Chmurze Obliczeniowej i w publicznych chmurach obliczeniowych, zwanego dalej „Systemem Zapewnienia Usług Chmurowych”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_2/pkt_5",
+       "text": "określenie Standardów Cyberbezpieczeństwa Chmur Obliczeniowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Realizację Inicjatywy WIIP powierza się ministrowi właściwemu do spraw informatyzacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w uchwale określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Centrum Przetwarzania Danych (CPD) – serwerownię w zasobach administracji rządowej lub obiekt budowlany, w którym zlokalizowana jest infrastruktura teleinformatyczna i związane z nią elementy (np.: systemy telekomunikacyjne, zasoby przetwarzania) wraz z nadmiarowymi źródłami zasilania, dodatkowymi sieciami teletransmisyjnymi, środkami kontroli środowiska (np. klimatyzacją, systemami gaśniczymi), urządzeniami i systemami bezpieczeństwa oraz ochroną fizyczną obiektu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "chmura hybrydowa – sposób wdrażania chmury obliczeniowej, w którym infrastruktura składa się z dwóch lub więcej odrębnych infrastruktur teleinformatycznych dostarczanych z chmury obliczeniowej (prywatnej, wspólnotowej lub publicznej), które pozostają odrębnymi jednostkami powiązanymi ze sobą znormalizowaną lub zastrzeżoną technologią, umożliwiającą przenoszenie danych i aplikacji między chmurami obliczeniowymi (np. w celu równoważenia obciążenia);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "chmura obliczeniowa – model przetwarzania umożliwiający powszechny i wygodny dostęp za pośrednictwem sieci do wspólnej puli konfigurowalnych zasobów przetwarzania (np. sieci, serwerów, pamięci masowych, aplikacji i usług), które są szybko udostępniane z katalogu usług przy minimalnym wysiłku ze strony zespołów zarządzania lub dostawcy usług, składający się z trzech modeli usług (SaaS, PaaS, IaaS), czterech sposobów wdrażania chmur (chmura prywatna, chmura wspólnotowa, chmura publiczna, chmura hybrydowa) oraz charakteryzujący się pięcioma zasadniczymi cechami (samoobsługą na żądanie, szerokim dostępem do sieci, dynamicznym gromadzeniem zasobów, szybkim i elastycznym przydzielaniem i zwalnianiem zasobów, pomiarami i optymalizacją usług), w którym stosowana jest zasada współdzielonej odpowiedzialności między dostawcą i odbiorcą usług chmurowych, a kluczowe technologie wykorzystywane do budowy tego modelu obejmują: szybkie i wydajne sieci rozległe, wydajne oraz relatywnie niedrogie serwery (uwzględniając ich liczbę) oraz wysokowydajną wirtualizację sprzętu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "chmura prywatna – sposób wdrażania chmury obliczeniowej, w którym infrastruktura jest udostępniana do wyłącznego użytku przez jedną organizację obejmującą wielu odbiorców usług, może być własnością tej organizacji, strony trzeciej lub ich kombinacji bądź może być przez nie zarządzana i obsługiwana oraz zainstalowana w siedzibie tej organizacji lub poza nią;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "chmura publiczna – sposób wdrażania chmury obliczeniowej, w którym infrastruktura jest udostępniana do użytku publicznego, może być własnością organizacji biznesowej, akademickiej lub rządowej lub ich kombinacji bądź może być przez nie zarządzana i obsługiwana oraz jest zainstalowana w siedzibie dostawcy chmury;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "chmura wspólnotowa – sposób wdrażania chmury obliczeniowej, w którym infrastruktura jest przeznaczona do wyłącznego użytku przez określoną grupę organizacji mających wspólne założenia (m.in. misję, wymagania bezpieczeństwa, politykę, zgodność z regulacjami), może być własnością jednej lub więcej organizacji wchodzącej w skład grupy, strony trzeciej lub ich kombinacji bądź może być przez nie zarządzana i obsługiwana i jest zainstalowana w siedzibie organizacji lub poza nią;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "infrastruktura chmury – zasoby przetwarzania stanowiące zbiór sprzętu i oprogramowania zgrupowanego w puli zasobów, umożliwiający spełnienie pięciu zasadniczych cech przetwarzania w chmurze obliczeniowej zawierające warstwę zarówno fizyczną (składającą się z zasobów sprzętowych, które są niezbędne do obsługi dostarczanych usług w chmurze obliczeniowej i zazwyczaj obejmują składniki serwera, pamięci masowej i sieci), jak i warstwę abstrakcji znajdującą się powyżej warstwy fizycznej (składającą się z oprogramowania rozmieszczonego w warstwie fizycznej, która posiada zasadnicze cechy chmury obliczeniowej);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "infrastruktura jako usługa (IaaS) – model usługi chmurowej zapewniający infrastrukturę chmury, na której odbiorca usług jest w stanie wdrożyć i uruchomić dowolne oprogramowanie (systemy operacyjne i aplikacje), jednak nie zarządza ani nie kontroluje infrastruktury chmury, z wyjątkiem kontroli nad systemami operacyjnymi, pamięcią masową i wdrożonymi aplikacjami oraz, ewentualnie, ograniczonej kontroli nad wybranymi komponentami sieciowymi (np. zapór sieciowych);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "platforma jako usługa (PaaS) – model usługi chmurowej umożliwiający odbiorcy usług wdrożenie na infrastrukturze chmury aplikacji stworzonych przez siebie lub nabytych, które zostały przygotowane przy użyciu języków programowania, bibliotek, usług i narzędzi obsługiwanych przez dostawcę, w przypadku której odbiorca usług nie zarządza ani nie kontroluje infrastruktury chmury, w tym sieci, serwerów, systemów operacyjnych oraz pamięci masowych, ale ma kontrolę nad wdrożonymi aplikacjami i, ewentualnie, nad ustawieniami konfiguracji dla środowiska udostępnienia aplikacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "oprogramowanie jako usługa (SaaS) – model usługi chmurowej umożliwiający odbiorcy usług wykorzystanie aplikacji uruchomionych na infrastrukturze chmury dostarczanej przez dostawcę usług dostępnej na różnych urządzeniach klienckich za pośrednictwem np. przeglądarki internetowej lub klienta aplikacji oraz w przypadku której odbiorca usług nie zarządza ani nie kontroluje infrastruktury chmury, w tym sieci, serwerów, systemów operacyjnych, pamięci masowej, a nawet parametrów konfiguracyjnych aplikacji, z wyjątkiem ograniczonych ustawień konfiguracji aplikacji specyficznych dla użytkownika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "publiczne chmury obliczeniowe – usługi chmury publicznej świadczone przez dostawców komercyjnych spełniające w szczególności wymagania w zakresie poufności, integralności i dostępności zdefiniowanych pod kątem zapewnienia bezpieczeństwa informacji administracji publicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "Rządowa Chmura Obliczeniowa – chmurę wspólnotową administracji publicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "Rządowy Klaster Bezpieczeństwa (RKB) – usługi bezpieczeństwa oraz środki techniczne stosowane do zabezpieczenia Rządowej Chmury Obliczeniowej będące implementacją wymagań Standardów Cyberbezpieczeństwa Chmur Obliczeniowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "sieci rządowe – sieci teletransmisyjne zarządzane przez ministra właściwego do spraw wewnętrznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "Standardy Cyberbezpieczeństwa Chmur Obliczeniowych (SCCO) – zbiór wymagań prawnych, organizacyjnych i technicznych zapewniających cyberbezpieczeństwo w modelach wdrażania chmur obliczeniowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, Ministrem Obrony Narodowej oraz Ministrem – Członkiem Rady Ministrów, Koordynatorem Służb Specjalnych, określa Standardy Cyberbezpieczeństwa Chmur Obliczeniowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji zapewnia budowę, rozwój i utrzymanie oraz zarządzanie zasobami Rządowej Chmury Obliczeniowej, jako operator Rządowej Chmury Obliczeniowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Minister właściwy do spraw informatyzacji może powierzyć realizację we własnym imieniu zadania, o którym mowa w ust. 1, jednostce przez niego nadzorowanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Operator Rządowej Chmury Obliczeniowej tworzy katalog usług przetwarzania w Rządowej Chmurze Obliczeniowej i udostępnia go podmiotom, o których mowa w § 6 ust. 1, których systemy teleinformatyczne spełniają kryteria klasyfikacji do korzystania z usług przetwarzania w Rządowej Chmurze Obliczeniowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Usługi przetwarzania w Rządowej Chmurze Obliczeniowej będą świadczone, w szczególności w modelach „infrastruktura jako usługa” (IaaS), „platforma jako usługa” (PaaS) oraz „oprogramowanie jako usługa” (SaaS).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Usługi przetwarzania w Rządowej Chmurze Obliczeniowej będą świadczone w CPD, których posiadaczami są organy administracji rządowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Organy administracji rządowej współpracują z ministrem właściwym do spraw informatyzacji, w celu świadczenia usług przetwarzania w Rządowej Chmurze Obliczeniowej w oparciu o posiadane przez nie zasoby teleinformatyczne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "CPD, o których mowa w § 4 ust. 5, będą przyłączone do Rządowej Chmury Obliczeniowej z inicjatywy operatora Rządowej Chmury Obliczeniowej. Warunkiem przyłączenia jest złożenie operatorowi Rządowej Chmury Obliczeniowej przez posiadacza CPD pisemnego oświadczenia potwierdzającego spełnienie minimalnych wymagań organizacyjnych i technicznych dla posiadaczy CPD oraz ich CPD przyłączonych do Rządowej Chmury Obliczeniowej, określonych w załączniku nr 1 do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Do oświadczenia, o którym mowa w ust. 1, posiadacz CPD dołącza uwierzytelnioną kopię obowiązującego porozumienia zawartego między posiadaczem CPD a ministrem właściwym do spraw wewnętrznych, regulującego kwestie związane z korzystaniem z sieci rządowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Sposób i zakres przyłączenia oraz zasady korzystania z CPD przyłączonego do Rządowej Chmury Obliczeniowej określa porozumienie zawarte między posiadaczem CPD a ministrem właściwym do spraw informatyzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Zasady i sposób wykorzystania sieci rządowej na potrzeby Rządowej Chmury Obliczeniowej określa porozumienie zawarte między właściwym operatorem sieci rządowej a ministrem właściwym do spraw informatyzacji. Ocena spełniania przez posiadacza CPD minimalnych wymagań organizacyjnych i technicznych w zakresie możliwości przyłączenia CPD do sieci rządowej będzie każdorazowo dokonywana przez strony porozumienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Przepisu ust. 4 nie stosuje się, w przypadku gdy przed datą zawarcia porozumienia, o którym mowa w ust. 4, posiadacz CPD zawarł z ministrem właściwym do spraw wewnętrznych porozumienie regulujące kwestie związane z korzystaniem z sieci rządowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Z usług przetwarzania w Rządowej Chmurze Obliczeniowej lub publicznych chmurach obliczeniowych mogą korzystać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "podmioty sektora finansów publicznych, o których mowa w art. 9 pkt 1–13 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2019 r. poz. 869, 1622 i 1649);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "inne państwowe osoby prawne utworzone na podstawie odrębnych ustaw w celu wykonywania zadań publicznych, z wyłączeniem przedsiębiorstw, banków i spółek prawa handlowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "inne, niż określone w ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych, państwowe jednostki organizacyjne nieposiadające osobowości prawnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Korzystanie przez podmioty, o których mowa w ust. 1, z usług przetwarzania w Rządowej Chmurze Obliczeniowej lub publicznych chmurach obliczeniowych uzależnione jest od spełnienia kryteriów klasyfikacji systemów teleinformatycznych, które mogą korzystać z usług przetwarzania w Rządowej Chmurze Obliczeniowej lub w publicznych chmurach obliczeniowych, określonych w załączniku nr 2 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Podmioty, o których mowa w § 6 ust. 1, w celu skorzystania z usług przetwarzania w Rządowej Chmurze Obliczeniowej, wnioskują do ministra właściwego do spraw informatyzacji o zawarcie porozumienia określającego szczegółowe warunki techniczne korzystania z usług przetwarzania w Rządowej Chmurze Obliczeniowej oraz prawa i obowiązki stron, w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "zastosowane standardy techniczne świadczenia usług;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "podział odpowiedzialności i jej ograniczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "zasady przeprowadzania lub zlecania przez strony audytu dotyczącego sposobu realizacji porozumienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "procedury rozpoczęcia korzystania z usług;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "podział obowiązków i odpowiedzialności związany z korzystaniem z usług, w tym obowiązki dostawcy usług oraz zapewnienie ustalonego w porozumieniu poziomu jakości świadczenia usług (SLA);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_1/pkt_6",
+       "text": "zasady obsługi technicznej świadczonej w ramach utrzymania usług;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_7/ust_1/pkt_7",
+       "text": "obowiązki w zakresie praw własności intelektualnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_7/ust_1/pkt_8",
+       "text": "procedury bezpieczeństwa oraz zasady reagowania na incydenty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_7/ust_1/pkt_9",
+       "text": "obowiązki w zakresie ochrony danych osobowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_7/ust_1/pkt_10",
+       "text": "procedury rezygnacji podmiotu z korzystania z usług oraz warunki wypowiedzenia porozumienia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_7/ust_1/pkt_11",
+       "text": "zasady prowadzenia rozliczeń za korzystanie z usług;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_7/ust_1/pkt_12",
+       "text": "obowiązki informacyjne w zakresie świadczenia usług.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Podmioty, o których mowa w § 6 ust. 1, nie mogą korzystać z usług przetwarzania w Rządowej Chmurze Obliczeniowej w celu prowadzenia działalności gospodarczej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Podmioty, o których mowa w § 6 ust. 1, w celu skorzystania z usług przetwarzania w publicznych chmurach obliczeniowych wnioskują do właściwego Zespołu Reagowania na Incydenty Bezpieczeństwa Komputerowego działającego na poziomie krajowym prowadzonego przez Ministra Obrony Narodowej, Naukową i Akademicką Sieć Komputerową – Państwowy Instytut Badawczy lub Szefa Agencji Bezpieczeństwa Wewnętrznego o wydanie opinii w zakresie możliwości wykorzystania publicznych chmur obliczeniowych. Niewydanie opinii w terminie 30 dni od dnia otrzymania wniosku jest równoznaczne z wydaniem opinii pozytywnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "RKB obejmuje usługi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "bezpieczeństwa teleinformatycznego, świadczone w oparciu o przeznaczone do tego celu systemy bezpieczeństwa realizujące zadania wyłącznie na potrzeby Inicjatywy WIIP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "monitorowania poziomu bezpieczeństwa opartego o przeznaczone do tego celu zespoły:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_2/lit_a",
+         "text": "Centrum Zarządzania Siecią (Network Operations Center „NOC”),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_1/pkt_2/lit_b",
+         "text": "Operacyjnego Centrum Bezpieczeństwa (Security Operations Center „SOC”).",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "RKB zapewnia bezpieczeństwo:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "połączenia między poszczególnymi CPD, w których umieszczona zostanie infrastruktura Rządowej Chmury Obliczeniowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "komunikacji między Rządową Chmurą Obliczeniową a odbiorcami jej usług w oparciu o udostępnioną dla CPD i odbiorców usług infrastrukturę sieci rządowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "połączenia infrastruktury teleinformatycznej Rządowej Chmury Obliczeniowej z publiczną siecią Internet przez przeznaczone do tego celu zabezpieczone punkty styku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Zasoby teletransmisyjne wykorzystane do podłączenia odbiorców usług przetwarzania w Rządowej Chmurze Obliczeniowej oraz sposób ich finansowania będą każdorazowo uzgadniane między ministrem właściwym do spraw informatyzacji a odbiorcą usług w porozumieniu, o którym mowa w § 7 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Operatorem RKB jest minister właściwy do spraw informatyzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Operator RKB w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_5/pkt_1",
+       "text": "świadczy usługi bezpieczeństwa z wykorzystaniem środków technicznych i zespołów, o których mowa w ust. 1 pkt 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_5/pkt_2",
+       "text": "zapewnia utrzymanie i rozwój zespołów, o których mowa w ust. 1 pkt 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_5/pkt_3",
+       "text": "informuje o zagrożeniach bezpieczeństwa i incydentach, jak operator usługi kluczowej, o którym mowa w art. 11 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. poz. 1560);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_5/pkt_4",
+       "text": "planuje rozwój usług RKB;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_5/pkt_5",
+       "text": "uzgadnia z operatorem sieci rządowej potrzeby w zakresie wykorzystania łączy teletransmisyjnych do wymiany danych w ramach Rządowej Chmury Obliczeniowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_5/pkt_6",
+       "text": "planuje rozwój i wykorzystanie zabezpieczonych punktów styku z publiczną siecią Internet dla usług świadczonych w Rządowej Chmurze Obliczeniowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "Minister właściwy do spraw informatyzacji może powierzyć realizację we własnym imieniu zadań, o których mowa w ust. 5, jednostce przez niego nadzorowanej lub innemu wybranemu podmiotowi, z zachowaniem procedur przewidzianych przepisami prawa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji zapewnia funkcjonowanie Systemu Zapewnienia Usług Chmurowych będącego systemem teleinformatycznym wspomagającym zamawianie oraz zarządzanie usługami przetwarzania w Rządowej Chmurze Obliczeniowej i w publicznych chmurach obliczeniowych świadczonymi dla podmiotów, o których mowa w § 6 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "W Systemie Zapewnienia Usług Chmurowych udostępnia się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_2/pkt_1",
+       "text": "katalog usług przetwarzania w Rządowej Chmurze Obliczeniowej, regularnie aktualizowany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_2/pkt_2",
+       "text": "katalog usług przetwarzania w publicznych chmurach obliczeniowych, aktualizowany po przeprowadzeniu postępowania o udzielenie zamówienia publicznego na zakup usług przetwarzania w publicznych chmurach obliczeniowych zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2018 r. poz. 1986 i 2215 oraz z 2019 r. poz. 53, 730 i 1655).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Usługi przetwarzania w publicznych chmurach obliczeniowych będą umieszczane w katalogu, o którym mowa w ust. 2 pkt 2, niezwłocznie po zawarciu umów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Prowadzenie postępowań o udzielenie zamówienia publicznego oraz zawieranie umów w sprawie zamówień publicznych, o których mowa w ust. 3, realizowane będzie w zamówieniu wspólnym lub przez centralnego zamawiającego wskazanego przez Prezesa Rady Ministrów, zgodnie z przepisami ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "Zamawiający wyznaczony do przeprowadzenia wspólnego zamówienia lub centralny zamawiający, w celu zapewnienia podmiotom, o których mowa w § 6 ust. 1, nabywania wysoce skalowalnych i niezawodnych usług przetwarzania w publicznych chmurach obliczeniowych, będzie ogłaszał postępowania o udzielenie zamówienia publicznego na świadczenie usług przetwarzania w publicznych chmurach obliczeniowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Źródłem finansowania Inicjatywy WIIP będą środki budżetu państwa w ramach rezerwy celowej pod nazwą „Finansowanie Inicjatywy Wspólna Infrastruktura Informatyczna Państwa”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Podział rezerwy dokonywany jest zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, przy czym minister właściwy do spraw informatyzacji dokonuje weryfikacji i akceptacji przedłożonych wniosków o podział rezerwy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Środki na rezerwę celową, o której mowa w ust. 1, będą pochodziły ze środków finansowych, które dotychczas były przeznaczone, a także były lub będą planowane na zapewnienie usług przetwarzania pozwalających na rozwój i utrzymanie systemów teleinformatycznych przenoszonych na Rządową Chmurę Obliczeniową.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Podmioty, o których mowa w § 6 ust. 1, zamierzające korzystać z usług przetwarzania w Rządowej Chmurze Obliczeniowej, projektując systemy teleinformatyczne po wejściu w życie uchwały, przeprowadzają klasyfikację, o której mowa w § 6 ust. 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Minister właściwy do spraw informatyzacji w terminie do końca lutego danego roku występuje do podmiotów, o których mowa w § 6 ust. 1, o wskazanie wstępnego zapotrzebowania na usługi przetwarzania w Rządowej Chmurze Obliczeniowej, w roku następnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Podmioty, o których mowa w § 6 ust. 1, w terminie do końca marca danego roku przekazują ministrowi właściwemu do spraw informatyzacji wstępne zapotrzebowanie, o którym mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Minister właściwy do spraw informatyzacji w terminie do końca kwietnia danego roku ustala na podstawie zapotrzebowania, o którym mowa w ust. 2, wykaz usług przetwarzania w Rządowej Chmurze Obliczeniowej na rok następny oraz prognozowany wykaz kosztów poszczególnych usług przetwarzania w Rządowej Chmurze Obliczeniowej i przekazuje je podmiotom, o których mowa w § 6 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Minister właściwy do spraw informatyzacji przekaże Kolegium do Spraw Cyberbezpieczeństwa Standardy Cyberbezpieczeństwa Chmur Obliczeniowych, o których mowa w § 3, w terminie dwóch miesięcy od dnia wejścia w życie uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem § 11, który wchodzi w życie z dniem 1 stycznia 2021 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały nr 97 Rady Ministrów z dnia 11 września 2019 r. (poz. 862) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "nimalne wymagania organizacyjne i techniczne dla posiada zy CPD oraz CPD MINIMALNe WyMAgANIA ORgANIZACyjNe I teChNICZNe DLA POSIADACZy CPD ORAZ CPD PRZyłąCZONyCh DO RZąDOWej ChMURy OBLICZeNIOWej"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Posiadacz CPD w zakresie świadczenia usług przetwarzania w Rządowej Chmurze Obliczeniowej spełnia wymagania zapewnienia zgodności swojego działania określone w Krajowych Ramach Interoperacyjności i ustawie z dnia 10 maja 2018 r. o ochronie danych osobowych, w tym minimum poniższych standardów lub ich odpowiedników w polskim lub europejskim układzie normalizacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "PN-EN ISO/IEC 27001 dotyczące zarządzania bezpieczeństwem informacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "PN-EN ISO 22301 dotyczące zarządzania ciągłością działania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "PN-ISO/IEC 27005 dotyczące zarządzania ryzykiem w bezpieczeństwie informacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "CPD spełnia wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "CPD jest własnością Skarbu Państwa albo państwowych osób prawnych lub udział w prawie własności tych podmiotów wynosi co najmniej 51%;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "klasa CPD wynosi minimum 3 według PN-EN 50600 w kategoriach: dostępność, zabezpieczenie przed nieuprawnionym dostępem, zabezpieczenie przed zagrożeniami środowiskowymi, potwierdzona oświadczeniem posiadacza obiektu albo odpowiednim certyfikatem zgodności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "w CPD istnieje węzeł sieci rządowej lub występuje możliwość jego zbudowania w ciągu 1 roku od dnia podjęcia decyzji o przyłączeniu CPD do Rządowej Chmury Obliczeniowej, potwierdzona przez ministra właściwego do spraw wewnętrznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "istnieje techniczna możliwość wydzielenia w CPD komory lub klatki w komorze przeznaczonej wyłącznie na potrzeby infrastruktury Rządowej Chmury Obliczeniowej oraz zabezpieczenie rezerwy mocy nie mniej niż 2,5 kW/m² wydzielonej powierzchni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "w CPD jest zapewniona ochrona fizyczna obiektu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "CPD posiada system monitorowania pomieszczeń oraz nadzorowania ruchu osób umożliwiający generowanie raportów pozwalających na weryfikację dostępu fizycznego osób do urządzeń infrastruktury Rządowej Chmury Obliczeniowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Infrastruktura sieci łączności CPD spełnia wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "posiada dostęp do przeznaczonej do tego celu sieci rządowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "posiada dostęp do sieci publicznej przez co najmniej 2 niezależne łącza różnych operatorów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "posiada możliwość zarządzania przez usługi RKB potwierdzoną przez operatora RKB.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Infrastruktura Rządowej Chmury Obliczeniowej umieszczona w CPD spełnia wymagania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "w zakresie wsparcia dla infrastruktury:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_1/lit_a",
+         "text": "używana infrastruktura (w szczególności: serwery, macierze, urządzenia sieciowe) posiada aktywną gwarancję wsparcia producenta; w przypadku gdy gwarancja wsparcia nie jest odnawiana, posiadacz CPD musi o tym poinformować odbiorców usług,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_1/lit_b",
+         "text": "używana infrastruktura korzysta z oprogramowania instalowanego z autoryzowanych źródeł przez przeszkolony i autoryzowany personel,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_1/lit_c",
+         "text": "uszkodzone elementy wyposażenia, które zawierają lub mogą zawierać dane odbiorców usług lub dane konfiguracji środowiska infrastruktury przetwarzania lub infrastruktury sieciowej, nie opuszczają pomieszczenia lub wydzielonej strefy CPD: w przypadku uszkodzonych nośników danych muszą one zostać trwale zniszczone pod nadzorem autoryzowanego personelu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "w zakresie wsparcia dla oprogramowania:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_4/pkt_2/lit_a",
+         "text": "używane oprogramowanie pochodzi z autoryzowanych źródeł i jest przygotowywane do instalacji oraz instalowane przez przeszkolony i autoryzowany personel,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_2/lit_b",
+         "text": "używane oprogramowanie zawiera wymagane poprawki bezpieczeństwa, a w szczególności te, które producent opisał jako krytyczne; posiadacz CPD zapewnia weryfikowalny i powtarzalny proces aktualizacji źródeł oprogramowania używanego do świadczenia usług,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_2/lit_c",
+         "text": "używane oprogramowanie posiada wsparcie producenta w zakresie aktualizacji i poprawek bezpieczeństwa, a w przypadku oprogramowania używanego do świadczenia usług (np. oprogramowanie systemów operacyjnych, oprogramowanie do wirtualizacji) także hot-line w trybie 24/7/365,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_4/pkt_2/lit_d",
+         "text": "posiadacz CPD zapewnia, że usługę realizuje wyłącznie wyszkolony i autoryzowany personel,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_4/pkt_2/lit_e",
+         "text": "w przypadku używania oprogramowania open source wymagania, o których mowa w lit. a–d, stosuje się odpowiednio, przy czym rolę producenta oprogramowania przejmuje posiadacz CPD.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Posiadacz CPD, który nie udostępnia infrastruktury przetwarzania, spełnia wyłącznie wymagania, o których mowa w ust. 1–3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Potwierdzenie wymagań określonych w ust. 1–3 odbywa się po spełnieniu jednego z następujących warunków:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "przejściu pozytywnej weryfikacji zgodności z SCCO prowadzonej przez instytucję wskazaną przez operatora RKB;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "sprawdzeniu przez operatora RKB systemu bezpieczeństwa w zakresie dotyczącym aktywów Rządowej Chmury Obliczeniowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "uzyskaniu certyfikacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Posiadacz CPD, który nie spełnia wymagań, o których mowa w ust. 1–3, może rozpocząć korzystanie z Rządowej Chmury Obliczeniowej po spełnieniu następujących warunków:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "złożeniu deklaracji zgodności z wymaganiami norm, o których mowa w ust. 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "przejściu pozytywnej weryfikacji zgodności z SCCO prowadzonej przez instytucję wskazaną przez operatora RKB;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "podpisaniu stosownego porozumienia dającego operatorowi RKB możliwość sprawdzania systemu bezpieczeństwa w zakresie dotyczącym aktywów Rządowej Chmury Obliczeniowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Koszty czynności związanych z deklaracją zgodności ponosi posiadacz CPD.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "które mogą korzystać z usług przetwarzania w Rządowej Chmurze Obliczeniowej lub KRyteRIA KLASyFIKACjI SySteMóW teLeINFORMAtyCZNyCh, KtóRe MOgą KORZyStAć Z USłUg PRZetWARZANIA W RZąDOWej ChMURZe OBLICZeNIOWej LUB W PUBLICZNyCh ChMURACh OBLICZeNIOWyCh"
+    },
+    {
+     "type": "text",
+     "text": "Kryteria obejmują:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Kategorie systemów teleinformatycznych, które mogą korzystać z usług przetwarzania",
+     "children": [
+      {
+       "type": "text",
+       "text": "w Rządowej Chmurze Obliczeniowej lub w publicznych chmurach obliczeniowych"
+      },
+      {
+       "type": "text",
+       "text": "wraz z oznaczeniem możliwości utrzymania w Rządowej Chmurze Obliczeniowej lub"
+      },
+      {
+       "type": "text",
+       "text": "w publicznych chmurach obliczeniowych;"
+      },
+      {
+       "type": "text",
+       "text": "Objaśnienie ogólne:"
+      },
+      {
+       "type": "text",
+       "text": "Kategorie systemów teleinformatycznych przedstawione w tabeli mają charakter, co do zasady, rozłączny. Kryterium rozróżnienia kategorii uwzględnia główne rodzaje systemów teleinformatycznych działających w organach publicznych oraz ich główne, z punktu widzenia bezpieczeństwa przetwarzania w chmurze, cechy i przeznaczenie. W praktyce może się okazać, że system można zakwalifikować do dwóch lub więcej kategorii. Jeżeli z objaśnień dla poszczególnych kategorii nie wynika pierwszeństwo dla danej kategorii, o możliwości przetwarzania w określonym typie chmury obliczeniowej decyduje analiza poszczególnego systemu. Brak oznaczenia w postaci X w kolumnie „Brak możliwości skorzystania z usług chmurowych określonych w uchwale” oznacza, że system powinien być utrzymywany przy wykorzystaniu usług chmurowych (zasada pierwszeństwa chmury), a rodzaj dopuszczalnych usług chmurowych zależy od oznaczenia w tabeli. Oznaczenie X w kolumnie „Brak możliwości skorzystania z usług chmurowych określonych w uchwale” i kolumnie „Rządowa Chmura Obliczeniowa” oznacza możliwość utrzymywania systemu w ramach Dedykowanej Infrastruktury Teleinformatycznej (DIT) lub w Rządowej Chmurze Obliczeniowej w zależności od wyniku przeprowadzonej analizy. Analogicznie zasady mają zastosowanie w przypadku pozostałych klasyfikacji."
+      },
+      {
+       "type": "text",
+       "text": "Lp. Kategoria systemów Brak możliwości Rządowa Publiczna Publiczna Objaśnienia dla poszczególnych skorzystania Chmura Chmura Chmura kategorii z usług Obliczeniowa Obliczeniowa Obliczeniowa chmurowych w jurysdykcji w jurysdykcji określonych krajowej państwa UE w uchwale[^1] (konieczność korzystania z Dedykowanej Infrastruktury Teleinformatycznej – DIT) 1 Systemy teleinformatyczne, X Dotyczy to systemów, które w których są przetwarzane wprost w przepisach ustaw są informacje niejawne określone jako systemy niejawne lub w stosunku do których uprawnione organy wskazały, iż są w nich przetwarzane informacje niejawne. 2 Systemy teleinformatyczne X Dotyczy wszystkich systemów służb specjalnych służb specjalnych (niezależnie od w rozumieniu art. 11 ustawy tego, czy są w nich przetwarzane z dnia 24 maja 2002 r. informacje niejawne), nawet o Agencji Bezpieczeństwa jeżeli te systemy spełniają Wewnętrznego oraz Agencji kryteria kwalifikujące do innej Wywiadu kategorii systemów. Kategoria ta nie obejmuje systemów, o których mowa w pkt 6. 3 Systemy teleinformatyczne X X X X W zależności od dokonanej wykorzystywane do analizy przez podmiot prowadzenia rejestrów[^2], odpowiedzialny za system ewidencji[^3] oraz innych baz teleinformatyczny. danych[^4] przez organy publiczne na podstawie przepisów prawa Unii Europejskiej lub na podstawie zawartych umów międzynarodowych 4 Systemy teleinformatyczne X X W zależności od dokonanej wykorzystywane do analizy przez podmiot prowadzenia rejestrów, odpowiedzialny za system ewidencji oraz innych baz teleinformatyczny. danych przez organy wymiaru sprawiedliwości, służby lub formacje umundurowane oraz służby odpowiedzialne za zapewnienie porządku i bezpieczeństwa publicznego, z wyłączeniem służb wskazanych w pkt 5 5 Systemy teleinformatyczne X X X O możliwości przetwarzania wykorzystywane do w danej możliwej chmurze prowadzenia rejestrów, obliczeniowej decyduje wynik ewidencji oraz innych baz analizy. danych, prowadzone przez straże gminne, straże leśne 6 Systemy teleinformatyczne X X W zależności od dokonanej wykorzystywane do analizy przez podmiot prowadzenia rejestrów, odpowiedzialny za system ewidencji oraz innych baz teleinformatyczny. Analiza danych przez organy powinna uwzględniać możliwość publiczne, w których rozdzielenia komponentów przetwarzane są dane systemów teleinformatycznych, referencyjne, wykorzystywane w których realizowane są w funkcjonalnościach funkcjonalności ABW i AW. przewidzianych w art. 35 Nie obejmuje systemów ustawy z dnia 24 maja 2002 r. teleinformatycznych, które nie o Agencji Bezpieczeństwa wchodzą w zakres podmiotowy Wewnętrznego oraz Agencji uchwały oraz systemów Wywiadu[^5] podmiotów prywatnych, np. systemów teleinformatycznych, przy użyciu których wydawane są środki identyfikacji elektronicznej. 7 Systemy teleinformatyczne X X O możliwości przetwarzania wykorzystywane do w danej możliwej chmurze prowadzenia rejestrów, obliczeniowej decyduje wynik ewidencji oraz innych baz analizy. danych, zawierające dane referencyjne inne niż wskazane w pkt 6 8 Systemy teleinformatyczne X X X O możliwości przetwarzania wykorzystywane do w danej możliwej chmurze prowadzenia rejestrów, obliczeniowej decyduje wynik ewidencji oraz innych baz analizy. danych, w których są O ile systemy mieszczą się przetwarzane szczególne w kategoriach 3–6, klasyfikacja kategorie danych osobowych powinna być dokonana w oparciu w rozumieniu art. 9 i art. 10 o kryteria z pkt 3–6. r ozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) 9 Systemy teleinformatyczne X X O możliwości przetwarzania wykorzystywane do w danej możliwej chmurze prowadzenia rejestrów, obliczeniowej decyduje wynik ewidencji oraz innych baz analizy. Skutek prawny systemu danych innych niż w pkt 3–7, rozumiany jest zarówno jako jeżeli prowadzone są one na skutek konstytutywny, jak podstawie przepisów i deklaratoryjny. powszechnie obowiązujących, a w szczególności wpisy do tych rejestrów, ewidencji i baz danych mają skutek prawny 10 Systemy teleinformatyczne X X X O możliwości przetwarzania wykorzystywane do w danej możliwej chmurze prowadzenia rejestrów, obliczeniowej decyduje wynik ewidencji oraz innych baz analizy. danych innych niż w pkt 1–7, Kategoria obejmuje systemy do jeżeli prowadzone są one przez prowadzenia rejestrów, ewidencji podmioty na własny użytek oraz innych baz danych, których i mają charakter wspomagający nie reguluje prawo powszechnie obowiązujące, a organ stworzył je w celu ulepszenia realizacji zadań publicznych, np. spisy, wewnętrzne ewidencje lub bazy danych, na podstawie których na bieżąco realizuje określone prawem zadania publiczne."
+      },
+      {
+       "type": "text",
+       "text": "11 Systemy teleinformatyczne X X X Kategoria obejmuje samodzielne wykorzystywane do systemy teleinformatyczne udostępniania informacji niebędące częścią systemów publicznej lub udostępniania należących do kategorii 4–9. informacji sektora publicznego Pod warunkiem do ponownego wykorzystania zakwalifikowania podmiotu (otwarte dane) odpowiedzialnego za system do zakresu podmiotowego uchwały. 12 Systemy teleinformatyczne, X X X O możliwości przetwarzania w ramach których świadczone w danej możliwej chmurze są usługi elektroniczne obliczeniowej decyduje wynik organów administracji analizy. publicznej Kategoria obejmuje systemy teleinformatyczne: – przeznaczone do udostępniania danych z rejestrów, ewidencji lub innych baz danych w drodze zapytań jednostkowych, – transakcyjne, wykorzystujące dane pochodzące z rejestrów, ewidencji lub innych baz danych, – pozwalające na wnoszenie do organów administracji publicznej oraz doręczanie przez te organy dokumentów stanowiących elementy postępowań administracyjnych oraz innych, przewidzianych w przepisach prawa, czynności realizowanych przez te organy."
+      },
+      {
+       "type": "text",
+       "text": "13 Systemy teleinformatyczne X X X O możliwości przetwarzania służące do prowadzenia w danej możliwej chmurze wewnętrznego elektronicznego decyduje wynik analizy. obiegu dokumentacji/ elektronicznego zarządzania dokumentacją 14 Systemy teleinformatyczne X X X O możliwości przetwarzania klasy ERP i CRM itp. w danej możliwej chmurze decyduje wynik analizy. 15 Pozostałe systemy X X X Kategoria obejmuje inne systemy teleinformatyczne świadczące usługi obsługowe na wewnętrzny użytek, zapewniające komunikację, np. systemy ekstranetowe, intranetowe lub poczty elektronicznej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kryteria analizy możliwości korzystania przez dany system z usług przetwarzania w Rządowej Chmurze Obliczeniowej lub w określonej publicznej chmurze obliczeniowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Analiza podmiotu odpowiedzialnego za system teleinformatyczny wykorzystywany do prowadzenia rejestrów, ewidencji oraz innych baz danych oraz pozostałych systemów służy dokonaniu oceny optymalnego i bezpiecznego wykorzystania usług chmurowych ww. kategorii. Analizy należy dokonywać w ramach dostępnych chmur obliczeniowych określonych w tabeli: „Kategorie systemów teleinformatycznych, które mogą korzystać z usług przetwarzania w Rządowej Chmurze Obliczeniowej lub w publicznych chmurach obliczeniowych wraz z oznaczeniem możliwości utrzymania w Rządowej Chmurze Obliczeniowej lub w publicznych chmurach obliczeniowych”. W przypadku gdy w wyniku analizy stwierdzona zostanie dopuszczalność utrzymania danego systemu w Rządowej Chmurze Obliczeniowej lub w określonej publicznej chmurze obliczeniowej, system powinien zostać ulokowany w odpowiedniej chmurze. Niekorzystanie w powyższym przypadku z usług chmurowych wymaga uzasadnienia. Do przeprowadzenia analizy zobowiązany jest podmiot odpowiedzialny za system teleinformatyczny."
+      },
+      {
+       "type": "text",
+       "text": "W przypadku systemów teleinformatycznych, które mogą korzystać z usług przetwarzania w Rządowej Chmurze Obliczeniowej lub w publicznych chmurach obliczeniowych, analiza powinna uwzględniać w szczególności, czy:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/lit_a",
+       "text": "system jest wykorzystywany w obszarach o szczególnym znaczeniu dla realizacji zadań państwa związanych z ewidencją ludności, sprawami karnymi lub karnoskarbowymi, prawami majątkowymi obywateli, ewidencją nieruchomości, praw do nieruchomości oraz pojazdów i kierowców,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "system teleinformatyczny zasila danymi systemy referencyjne państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "system korzysta z systemów referencyjnych państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "skutki prawne wpisów i danych zawartych w systemach teleinformatycznych mają wpływ na sytuację prawną (w tym prawno-majątkową) osób lub podmiotów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Analiza powinna zostać przeprowadzona w oparciu o analizę ryzyka."
+        },
+        {
+         "type": "text",
+         "text": "Kryteria do przeprowadzenia szacowania ryzyka obejmują co najmniej następujące atrybuty:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "poufność informacji, w zakresie której należy przeanalizować co najmniej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. czy naruszenie poufności (np. nieautoryzowane ujawnienie) danych będzie uniemożliwiało lub będzie powodowało istotne zagrożenie dla realizacji szczególnych zadań państwa;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "integralność informacji, w zakresie której należy przeanalizować co najmniej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. czy naruszenie integralności (np. nieautoryzowane zmodyfikowanie) danych będzie uniemożliwiało lub będzie powodowało istotne zagrożenie dla realizacji szczególnych zadań państwa;"
+      },
+      {
+       "type": "text",
+       "text": "2.2. czy system jest systemem referencyjnym dla innych systemów, w tym czy modyfikacja danych w systemie może spowodować / ma wpływ na dane przetwarzane w innym systemie o szczególnym znaczeniu dla realizacji zadań państwa;"
+      },
+      {
+       "type": "text",
+       "text": "2.3. czy wpis lub zmiana wpisów w systemie powoduje bezpośrednie skutki prawne;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "dostępność informacji, w zakresie której należy przeanalizować co najmniej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1. czy naruszenie dostępności danych (np. brak dostępu do danych) będzie uniemożliwiało lub będzie powodowało istotne zagrożenie dla realizacji szczególnych zadań państwa;"
+      },
+      {
+       "type": "text",
+       "text": "3.2. czy w celu realizacji szczególnych zadań państwa system powinien funkcjonować również w przypadku braku świadczenia usług przez dostawców komercyjnych (np. w przypadku upadłości lub zaprzestania świadczenia usług);"
+      },
+      {
+       "type": "text",
+       "text": "3.3. czy system powinien funkcjonować prawidłowo niezależnie od funkcjonowania na rynku dostawców komercyjnych."
+      },
+      {
+       "type": "text",
+       "text": "Decyzja o wykorzystaniu usług chmury obliczeniowej wskazanej w wyniku klasyfikacji należy do właściciela klasyfikowanego systemu teleinformatycznego."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Oznaczenie w rubryce: „Brak możliwości skorzystania z usług chmurowych określonych w uchwale” nie oznacza, iż system ten nie może być przetwarzany w innych zamkniętych środowiskach chmurowych, których działania regulują inne przepisy, pragmatyki lub które utworzone zostały przez uprawnione do tego organy. Dedykowana Infrastruktura Teleinformatyczna to środowisko informatyczne pozostające pod kontrolą jednostki administracji publicznej, realizowane poza Rządową Chmurą Obliczeniową.",
+  "2": "W przypadku gdy przepisy materialne posługują się pojęciem rejestru.",
+  "3": "W przypadku gdy przepisy materialne posługują się pojęciem ewidencja.",
+  "4": "W przypadku gdy przepisy materialne posługują się dla oznaczenia systemu teleinformatycznego innymi pojęciami niż rejestr lub ewidencja.",
+  "5": "Zgodnie z art. 35 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu w związku z wykonywaniem swoich zadań Agencje zapewniają ochronę środków, form i metod realizacji zadań, zgromadzonych informacji oraz własnych obiektów i danych identyfikujących funkcjonariuszy tych Agencji."
+ }
+}

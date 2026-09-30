@@ -1,0 +1,1204 @@
+{
+ "eli": "MP/2018/858",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 13 sierpnia 2018 r. w sprawie warunków oraz sposobu pomocniczego wykorzystania techniki elektronicznej w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/858/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 sierpnia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków oraz sposobu pomocniczego wykorzystania techniki elektronicznej w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 162 § 1 pkt 1 i 2 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) oraz w związku z art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2015 r. poz. 1438 oraz z 2018 r. poz. 130) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ustala się warunki oraz sposób pomocniczego wykorzystania techniki elektronicznej jako narzędzia wspomagającego prace: obwodowych komisji wyborczych, terytorialnych komisji wyborczych, gmin, powiatów, województw, komisarzy wyborczych oraz Państwowej Komisji Wyborczej, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Wykorzystanie techniki elektronicznej nie zastępuje tradycyjnego, dotychczasowego ręcznego liczenia głosów przez obwodowe komisje wyborcze oraz konieczności porównania przez terytorialne komisje wyborcze i komisarzy wyborczych danych zawartych w systemie informatycznym z dostarczonymi protokołami głosowania w obwodzie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Przepisy uchwały stosuje się odpowiednio w ponownym głosowaniu w wyborach wójtów, burmistrzów i prezydentów miast.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Przepisy uchwały stosuje się odpowiednio w wyborach organów jednostek samorządu terytorialnego przeprowadzanych w toku kadencji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunkiem korzystania przez podmioty, o których mowa w § 1 ust. 1, z techniki elektronicznej jest używanie wyłącznie oprogramowania zaakceptowanego i zapewnionego przez Państwową Komisję Wyborczą – systemu informatycznego Wsparcie Organów Wyborczych (WOW), zwanego dalej „systemem informatycznym”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "System informatyczny umożliwia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "wprowadzenie i przechowywanie danych o terytorialnym zasięgu działania komisarzy wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wprowadzenie i przechowywanie danych o urzędnikach wyborczych powołanych w poszczególnych gminach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "wprowadzenie, przechowywanie i aktualizację danych o komitetach wyborczych, listach kandydatów i kandydatach na radnych oraz o kandydatach na wójtów, burmistrzów i prezydentów miast;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "weryfikację danych, o których mowa w pkt 3, w szczególności w zakresie naruszenia zakazu kandydowania przez członków komisji wyborczych, zakazu wielokrotnego kandydowania, jak i posiadania praw wyborczych na obszarze danej gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "pomoc w nadawaniu numerów listom kandydatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "wprowadzenie i przechowywanie danych o okręgach wyborczych i obwodach głosowania oraz o składach terytorialnych i obwodowych komisji wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "wprowadzenie i przechowywanie danych o liczbie mieszkańców, o liczbie wyborców, o liczbie udzielonych pełnomocnictw do głosowania oraz o liczbie wysłanych pakietów wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_1/pkt_8",
+       "text": "przygotowanie danych do składu obwieszczeń o zarejestrowanych listach kandydatów na radnych i o zarejestrowanych kandydatach na wójtów, burmistrzów i prezydentów miast oraz danych niezbędnych do sporządzenia kart do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_1/pkt_9",
+       "text": "przekazanie, w trakcie głosowania, danych o liczbie osób uprawnionych do głosowania ujętych w spisach wyborców oraz o liczbie wydanych wyborcom kart do głosowania w stałych obwodach głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/ust_1/pkt_10",
+       "text": "druk formularzy protokołów głosowania dla właściwej obwodowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_3/ust_1/pkt_11",
+       "text": "wprowadzenie wszystkich danych oraz umożliwienie wydruku projektu protokołu przekazania dokumentów obwodowej komisji wyborczej ds. ustalenia wyników głosowania przez obwodową komisję ds. przeprowadzenia głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_3/ust_1/pkt_12",
+       "text": "wprowadzenie wszystkich danych zawartych w projektach protokołów głosowania w obwodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_3/ust_1/pkt_13",
+       "text": "umożliwienie wydruku projektów protokołów głosowania w obwodzie z ewentualnym zestawieniem błędów oraz raportem ostrzeżeń, ułatwiającymi sprawdzenie zgodności arytmetycznej poprawności ustalenia wyników głosowania w obwodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_3/ust_1/pkt_14",
+       "text": "wprowadzenie danych z podpisanych protokołów głosowania do sieci elektronicznego przekazywania danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_3/ust_1/pkt_15",
+       "text": "zapisanie danych z protokołów głosowania w postaci pliku na elektronicznym nośniku danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_3/ust_1/pkt_16",
+       "text": "potwierdzenie przez pełnomocnika do spraw informatyki TKW zgodności danych elektronicznych otrzymanych z obwodowej komisji wyborczej ds. ustalenia wyników głosowania z protokołami głosowania przekazanymi przez tę obwodową komisję wyborczą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_3/ust_1/pkt_17",
+       "text": "weryfikację i zatwierdzenie danych z protokołów głosowania na poziomie właściwego komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_3/ust_1/pkt_18",
+       "text": "sporządzenie, w formie wydruków, projektów zestawień wyników głosowania i projektów protokołów z wyborów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_3/ust_1/pkt_19",
+       "text": "zatwierdzenie danych z protokołów z wyborów na poziomie właściwego komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_3/ust_1/pkt_20",
+       "text": "sporządzenie przez komisarza wyborczego o charakterze ogólnowojewódzkim projektu obwieszczenia o wynikach wyborów do rad oraz o wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze województwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_3/ust_1/pkt_21",
+       "text": "sporządzenie wyciągów, o których mowa w art. 169 Kodeksu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_3/ust_1/pkt_22",
+       "text": "sporządzenie projektów obwieszczeń Państwowej Komisji Wyborczej o wynikach wyborów do rad na obszarze kraju oraz o zbiorczych wynikach wyborów wójtów na obszarze kraju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "par_3/ust_1/pkt_23",
+       "text": "przygotowanie zaświadczeń o wyborze dla radnych oraz wójtów, burmistrzów i prezydentów miast;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "par_3/ust_1/pkt_24",
+       "text": "przechowywanie danych zawartych w protokołach głosowania w obwodach, w okręgach wyborczych, na poziomie jednostki samorządu terytorialnego i w skali kraju.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "System informatyczny umożliwia komisarzowi wyborczemu nadzór nad poprawnością ustalenia wyników głosowania i wyników wyborów przez komisje wyborcze z obszaru jego właściwości terytorialnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "System informatyczny zapewnia Państwowej Komisji Wyborczej wgląd we wszystkie wprowadzone do niego dane z protokołów głosowania w obwodzie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "System informatyczny zapewnia wprowadzenie danych do sieci elektronicznego przekazywania danych oraz ich przesyłanie przez internet, z zapewnieniem bezpieczeństwa komunikacji i autoryzacji oraz poprawności i integralności przekazanych danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "System informatyczny prowadzi ewidencję osób posiadających do niego dostęp oraz ich uprawnień.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Obsługę informatyczną Państwowej Komisji Wyborczej zapewnia Szef Krajowego Biura Wyborczego przy pomocy Zespołu Informatyki Krajowego Biura Wyborczego i powołanego przez Szefa Krajowego Biura Wyborczego Zespołu ds. sytemu Wsparcie Organów Wyborczych (WOW).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Obsługę informatyczną komisarza wyborczego zapewnia dyrektor właściwej delegatury Krajowego Biura Wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Dyrektor delegatury Krajowego Biura Wyborczego powołuje pełnomocnika do spraw informatyki, który nadzoruje pracę zespołu informatycznego delegatury Krajowego Biura Wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Zadania zespołu informatycznego delegatury Krajowego Biura Wyborczego określa załącznik nr 1 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Obsługę informatyczną właściwej TKW (gminnej/miejskiej/dzielnicowej, powiatowej, wojewódzkiej komisji wyborczej) zapewnia odpowiednio wójt (burmistrz, prezydent miasta), starosta i marszałek województwa, w ramach zadań zleconych, wskazując właściwej TKW spośród swoich pracowników osobę gwarantującą właściwe wykonanie zadań informatycznych. TKW powołuje wskazaną osobę na swojego pełnomocnika do spraw informatyki. Pełnomocnik do spraw informatyki TKW może też stać na czele zespołu informatycznego gwarantującego obsługę komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zadania pełnomocnika do spraw informatyki wojewódzkiej komisji wyborczej bądź zespołu informatycznego gwarantującego obsługę wojewódzkiej komisji wyborczej określa załącznik nr 2 do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Zadania pełnomocnika do spraw informatyki powiatowej komisji wyborczej bądź zespołu informatycznego gwarantującego obsługę powiatowej komisji wyborczej określa załącznik nr 3 do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Zadania pełnomocnika do spraw informatyki gminnej/miejskiej/dzielnicowej komisji wyborczej bądź zespołu informatycznego gwarantującego obsługę tych komisji wyborczych określa załącznik nr 4 do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa zapewnia właściwej TKW niezbędne urządzenia techniczne oraz dostęp do internetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Obsługę informatyczną obwodowej komisji wyborczej zapewnia wójt (burmistrz, prezydent miasta) w ramach zadań zleconych gminie, powołując w tym celu operatorów informatycznej obsługi obwodowych komisji wyborczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Zadania operatora informatycznej obsługi obwodowej komisji wyborczej określa załącznik nr 5 do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Przepis § 6 ust. 5 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Za wsparcie techniczne obsługi informatycznej obwodowych komisji wyborczych, w tym za szkolenie operatorów odpowiada pełnomocnik do spraw informatyki TKW bądź zespół informatyczny, o których mowa w § 6 ust. 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Prawa majątkowe do urządzeń technicznych, które zapewnia wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa, winny przysługiwać wyłącznie Skarbowi Państwa, jednostkom samorządu terytorialnego lub podmiotom im podległym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 13 sierpnia 2018 r. (poz. 858) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZADANIA ZESPOŁU INFORMATYCZNEGO DELEGATURY KRAJOWEGO BIURA WYBORCZEGO"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zadania merytoryczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "nadzór nad wprowadzaniem i aktualizowaniem w systemie informatycznym danych dotyczących podziału gmin na okręgi wyborcze (opis granic, liczba mandatów, krosy);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "wprowadzanie i aktualizowanie w systemie informatycznym danych dotyczących podziału powiatów i województw (delegatury ogólnowojewódzkie) na okręgi wyborcze (opis granic, liczba mandatów, krosy);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "nadzór nad wprowadzaniem i aktualizowaniem w systemie informatycznym danych dotyczących obwodów głosowania i ich granic oraz liczby uprawnionych do głosowania, liczby pełnomocnictw do głosowania i liczby wysłanych pakietów wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "przygotowanie i przeprowadzenie szkolenia dla gminnych, powiatowych i wojewódzkich użytkowników systemu informatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "przygotowanie i przeprowadzenie w określonym terminie testów ogólnokrajowych, przekazanie wniosków i spostrzeżeń w formie raportu podsumowującego przebieg testów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "rejestracja i nadanie uprawnień, a także generowanie i dystrybucja oraz zmiana loginów i haseł dla użytkowników gminnych, powiatowych i wojewódzkich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "prowadzenie ewidencji użytkowników systemu informatycznego na obszarze właściwości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "nadzór nad informatyczną obsługą TKW na obszarze właściwości terytorialnej delegatury oraz pomoc użytkownikom w zakresie wprowadzania danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "wprowadzanie i aktualizowanie danych dotyczących komitetów wyborczych i kontrola tych danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "nadzór nad wprowadzaniem i aktualizowaniem przez obsługę TKW list kandydatów na radnych i kandydatów na wójta, burmistrza, prezydenta oraz kontrola tych danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "wprowadzenie do systemu informatycznego numerów list kandydatów przyznanych przez komisarza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "nadzór nad wprowadzaniem do systemu informatycznego przez użytkowników gminnych numerów list kandydatów nadanych przez gminne/miejskie komisje wyborcze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_1/pkt_13",
+       "text": "wprowadzanie do systemu informatycznego oraz aktualizacja składów TKW;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_1/pkt_14",
+       "text": "nadzór nad wprowadzaniem do systemu informatycznego oraz aktualizacją przez użytkowników gminnych składów obwodowych komisji wyborczych i kontrola tych danych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_1/pkt_15",
+       "text": "wspomaganie komisarza wyborczego w zakresie kontroli poprawności dokumentów rejestracyjnych, obwieszczeń o zarejestrowanych listach kandydatów do rad, obwieszczeń o zarejestrowanych kandydatach na wójta (burmistrza, prezydenta) oraz kart do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_1/pkt_16",
+       "text": "zgłaszanie uwag dotyczących działania systemu informatycznego na wyznaczonym serwisie internetowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_1/pkt_17",
+       "text": "nadzór nad dystrybucją oprogramowania i plików definicyjnych z danymi wyborczymi dla obwodów offline;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_1/pkt_18",
+       "text": "przyjmowanie meldunków od pełnomocników do spraw informatyki TKW o gotowości do wyborów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "ust_1/pkt_19",
+       "text": "nadzór nad wprowadzaniem do systemu informatycznego danych o liczbie osób ujętych w spisie wyborców oraz o liczbie wydanych kart do głosowania (frekwencji), danych z protokołów przekazania dokumentów między komisjami obwodowymi oraz danych z protokołów głosowania w obwodzie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_1/pkt_20",
+       "text": "weryfikacja oraz zatwierdzanie protokołów obwodowych oraz zestawień i protokołów TKW w systemie informatycznym na podstawie dostarczonych oryginałów dokumentów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "ust_1/pkt_21",
+       "text": "w sytuacji awaryjnej – zapewnienie możliwości wprowadzania danych do systemu informatycznego za obwody/gminy/powiaty, które z różnych przyczyn nie mogły tego dokonać;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "ust_1/pkt_22",
+       "text": "przygotowanie projektów obwieszczeń o wynikach wyborów do rad oraz wyborów wójta (burmistrza, prezydenta miasta) na obszarze województwa (dotyczy delegatur ogólnowojewódzkich);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "ust_1/pkt_23",
+       "text": "przygotowanie wyciągów z obwieszczeń, o których mowa w pkt 22 (dotyczy delegatur ogólnowojewódzkich);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "ust_1/pkt_24",
+       "text": "współpraca z innymi zespołami informatycznymi delegatur na obszarze województwa (nie dotyczy województw opolskiego i świętokrzyskiego);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "ust_1/pkt_25",
+       "text": "wykonywanie innych zadań zleconych przez dyrektora delegatury i komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "ust_1/pkt_26",
+       "text": "w przypadku ponownego głosowania w wyborach wójta (burmistrza, prezydenta miasta) – ponowienie niezbędnych czynności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zadania organizacyjne i techniczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "zapewnienie sprawnego przygotowania dostępu użytkowników do systemu informatycznego, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_1/lit_a",
+         "text": "zapewnienie odpowiedniej liczby połączonych siecią komputerową stacji roboczych i drukarek, z dostępem do publicznej sieci przekazywania danych przez dwa niezależne łącza,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_1/lit_b",
+         "text": "sprawdzenie poprawności działania sprzętu komputerowego i telekomunikacyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_1/lit_c",
+         "text": "rozwiązywanie problemów z funkcjonowaniem oprogramowania;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "nadzór nad przygotowaniem technicznym pomieszczeń, w których będzie umiejscowiony i eksploatowany sprzęt komputerowy i telekomunikacyjny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "zapewnienie zasilania energetycznego o odpowiedniej mocy dla używanego sprzętu teleinformatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "nadzór nad instalacją i sprzętem w zakresie usuwania ewentualnych usterek i awarii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "skompletowanie niezbędnych materiałów eksploatacyjnych i nośników informacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "znajomość instrukcji obsługi systemu informatycznego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZADANIA PEŁNOMOCNIKA DO SPRAW INFORMATYKI WOJEWÓDZKIEJ KOMISJI WYBORCZEJ BĄDŹ ZESPOŁU INFORMATYCZNEGO GWARANTUJĄCEGO OBSŁUGĘ WOJEWÓDZKIEJ KOMISJI WYBORCZEJ"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "udział w szkoleniu organizowanym przez zespół informatyczny delegatury KBW;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wykonanie zadań przewidzianych w harmonogramie testu ogólnokrajowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przygotowanie instalacji sprzętu i oprogramowania oraz łącza do sieci publicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "zabezpieczenie systemu informatycznego przed nieuprawnionym dostępem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "znajomość instrukcji obsługi systemu informatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "rejestracja w systemie informatycznym list i kandydatów na radnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "sporządzanie projektów dokumentów rejestracyjnych, obwieszczeń oraz kart do głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "zgłaszanie uwag dotyczących działania systemu informatycznego oraz meldunków o gotowości do wyborów zespołowi informatycznemu delegatury KBW;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "ustalenie, najpóźniej w przeddzień głosowania, z przewodniczącym wojewódzkiej komisji wyborczej harmonogramu pracy w dniu głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "weryfikacja poprawności cząstkowych wyników głosowania ustalonych przez powiatowe (miejskie) komisje wyborcze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "sygnalizowanie przewodniczącemu wojewódzkiej komisji wyborczej istotnych ostrzeżeń oraz niezgodności liczby uprawnionych w protokołach wyników głosowania w obwodzie w wyborach do sejmiku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "przygotowanie, wydrukowanie i przekazanie niezbędnej liczby egzemplarzy projektów zestawień wyników głosowania w okręgach wyborczych oraz projektu protokołu z wyborów do sejmiku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "ustalenie wyników wyborów do sejmiku w systemie informatycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZADANIA PEŁNOMOCNIKA DO SPRAW INFORMATYKI POWIATOWEJ KOMISJI WYBORCZEJ BĄDŹ ZESPOŁU INFORMATYCZNEGO GWARANTUJĄCEGO OBSŁUGĘ POWIATOWEJ KOMISJI WYBORCZEJ"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "udział w szkoleniu organizowanym przez zespół informatyczny delegatury KBW;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wykonanie zadań przewidzianych w harmonogramie testu ogólnokrajowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przygotowanie instalacji sprzętu i oprogramowania oraz łącza do sieci publicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "zabezpieczenie systemu informatycznego przed nieuprawnionym dostępem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "znajomość instrukcji obsługi systemu informatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "rejestracja w systemie informatycznym list i kandydatów na radnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "sporządzanie projektów dokumentów rejestracyjnych, obwieszczeń oraz kart do głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "zgłaszanie uwag dotyczących działania systemu informatycznego oraz meldunków o gotowości do wyborów zespołowi informatycznemu delegatury KBW;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "ustalenie, najpóźniej w przeddzień głosowania, z przewodniczącym powiatowej komisji wyborczej harmonogramu pracy w dniu głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "potwierdzenie wprowadzonych do systemu informatycznego danych o wynikach głosowania w obwodach w wyborach do rady powiatu i sejmiku województwa z danymi z protokołów głosowania w obwodach przekazanych przez przewodniczących obwodowych komisji wyborczych ds. ustalenia wyników głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "w sytuacji awaryjnej – zapewnienie możliwości wprowadzania danych do systemu informatycznego za obwody, które z różnych przyczyn nie mogły tego dokonać;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "sygnalizowanie przewodniczącemu powiatowej komisji wyborczej istotnych ostrzeżeń oraz niezgodności liczby uprawnionych w protokołach wyników głosowania w obwodzie w wyborach do rady powiatu i do sejmiku województwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "przygotowanie, wydrukowanie i przekazanie niezbędnej liczby egzemplarzy projektów zestawień wyników głosowania w okręgach wyborczych oraz projektu protokołu z wyborów do rady powiatu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "pkt_14",
+     "text": "przygotowanie, wydrukowanie i przekazanie niezbędnej liczby egzemplarzy projektu protokołu zbiorczego wyników głosowania na obszarze powiatu w wyborach do sejmiku województwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "pkt_15",
+     "text": "ustalenie wyników wyborów do rady powiatu w systemie informatycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZADANIA PEŁNOMOCNIKA DO SPRAW INFORMATYKI GMINNEJ/MIEJSKIEJ/DZIELNICOWEJ KOMISJI WYBORCZEJ BĄDŹ ZESPOŁU INFORMATYCZNEGO GWARANTUJĄCEGO OBSŁUGĘ TYCH KOMISJI WYBORCZYCH"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "udział w szkoleniu organizowanym przez zespół informatyczny delegatury KBW;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wykonanie zadań przewidzianych w harmonogramie testu ogólnokrajowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przygotowanie instalacji sprzętu i oprogramowania oraz łącza do sieci publicznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "zabezpieczenie systemu informatycznego przed nieuprawnionym dostępem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "znajomość instrukcji obsługi systemu informatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "wsparcie wprowadzania i aktualizacji w systemie informatycznym przez właściwe komórki organizacyjne urzędu gminy danych dotyczących podziału gminy na okręgi wyborcze (opis granic, liczba mandatów, krosy);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "wsparcie wprowadzania i aktualizacji w systemie informatycznym przez właściwe komórki organizacyjne urzędu gminy danych dotyczących obwodów głosowania i ich granic, liczby uprawnionych do głosowania na obszarze gminy oraz danych o liczbie udzielonych pełnomocnictw i liczbie wysłanych pakietów wyborczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "rejestracja w systemie informatycznym list i kandydatów na radnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "rejestracja w systemie informatycznym kandydatów na wójta (burmistrza, prezydenta miasta) – nie dotyczy dzielnic m.st. Warszawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "sporządzanie projektów dokumentów rejestracyjnych, obwieszczeń oraz kart do głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "wprowadzenie do systemu informatycznego numerów list kandydatów nadanych przez gminne/miejskie/dzielnicowe komisje wyborcze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "wprowadzanie do systemu informatycznego danych członków (kandydatów na członków) obwodowych komisji wyborczych i aktualizacją składów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "nadzór nad operatorami informatycznej obsługi obwodowych komisji wyborczych – prowadzenie ewidencji, dystrybucja loginów i haseł oraz szkolenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "pkt_14",
+     "text": "dystrybucja oprogramowania i plików definicyjnych z danymi wyborczymi dla obwodów offline;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "pkt_15",
+     "text": "zgłaszanie uwag dotyczących działania systemu informatycznego oraz meldunków o gotowości do wyborów zespołowi informatycznemu delegatury KBW;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "pkt_16",
+     "text": "ustalenie, najpóźniej w przeddzień głosowania, z przewodniczącym gminnej/miejskiej/dzielnicowej komisji wyborczej harmonogramu pracy w dniu głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "pkt_17",
+     "text": "przygotowanie szablonów formularzy protokołów głosowania w obwodzie (wykorzystywanych jako projekty protokołów głosowania bądź jako protokoły w sytuacji problemów z systemem informatycznym);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "pkt_18",
+     "text": "przekazanie operatorom informatycznej obsługi obwodowych komisji wyborczych nośników informatycznych, na których powinny zostać zapisane pliki z protokołami głosowania w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "pkt_19",
+     "text": "nadzór nad wprowadzaniem do systemu informatycznego danych o liczbie osób ujętych w spisie wyborców oraz o liczbie wydanych kart do głosowania (frekwencji), danych z protokołów przekazania dokumentów między komisjami obwodowymi oraz danych z protokołów głosowania w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "pkt_20",
+     "text": "potwierdzenie wprowadzonych do systemu informatycznego danych o wynikach głosowania w obwodach w wyborach do rady gminy z danymi z protokołów głosowania w obwodach przekazanych przez przewodniczących obwodowych komisji wyborczych ds. ustalenia wyników głosowania (w przypadku miast na prawach powiatu – również danych dotyczących wyborów do sejmiku województwa);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "pkt_21",
+     "text": "potwierdzenie wprowadzonych do systemu informatycznego danych o wynikach głosowania w obwodach w wyborach bezpośrednich wójtów, burmistrzów i prezydentów miast z danymi z protokołów głosowania w obwodach przekazanych przez przewodniczących obwodowych komisji wyborczych ds. ustalenia wyników głosowania (nie dotyczy dzielnic m.st. Warszawy);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "pkt_22",
+     "text": "w sytuacji awaryjnej – zapewnienie możliwości wprowadzania danych do systemu informatycznego za obwody, które z różnych przyczyn nie mogły tego dokonać;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "pkt_23",
+     "text": "sygnalizowanie przewodniczącemu właściwej komisji wyborczej istotnych ostrzeżeń oraz niezgodności liczby uprawnionych w protokołach głosowania w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "pkt_24",
+     "text": "przygotowanie, wydrukowanie i przekazanie niezbędnej liczby egzemplarzy projektów zestawień wyników głosowania w okręgach wyborczych oraz projektu protokołu z wyborów do rady;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "pkt_25",
+     "text": "przygotowanie, wydrukowanie i przekazanie niezbędnej liczby egzemplarzy projektu protokołu wyników głosowania i wyników wyborów wójta (burmistrza, prezydenta miasta) – nie dotyczy dzielnic m.st. Warszawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "pkt_26",
+     "text": "w przypadku miejskiej komisji wyborczej w mieście na prawach powiatu – sporządzenie projektu protokołu wyników głosowania na obszarze miasta (okręgu wyborczego) w wyborach do sejmiku województwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "pkt_27",
+     "text": "ustalenie wyników wyborów do rady gminy/miasta/dzielnicy oraz wyników wyborów wójta/burmistrza/prezydenta miasta (nie dotyczy dzielnic m.st. Warszawy) w systemie informatycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "pkt_28",
+     "text": "w przypadku głosowania ponownego w wyborach wójta (burmistrza, prezydenta miasta) – ponowienie niezbędnych czynności (nie dotyczy dzielnic m.st. Warszawy).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZADANIA OPERATORA INFORMATYCZNEJ OBSŁUGI OBWODOWEJ KOMISJI WYBORCZEJ"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "udział w szkoleniu z zakresu obsługi systemu informatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "wykonanie zadań przewidzianych w harmonogramie testu ogólnokrajowego – jeśli będzie on zakładał udział wyznaczonych operatorów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "odbiór loginu i hasła służącego do logowania się do systemu informatycznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "przygotowanie i sprawdzenie stanowiska komputerowego w zakresie konfiguracji dostępu do sieci publicznej i zainstalowanego oprogramowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "ustalenie z przewodniczącymi obwodowej komisji wyborczej ds. przeprowadzenia głosowania oraz obwodowej komisji wyborczej ds. ustalenia wyników głosowania harmonogramu pracy w dniu głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "przekazanie, w trakcie głosowania, danych o liczbie osób ujętych w spisie wyborców oraz o liczbie wydanych kart do głosowania (frekwencji), zgodnie z wytycznymi wskazanymi w odrębnej uchwale Państwowej Komisji Wyborczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "wprowadzenie wszystkich danych oraz umożliwienie wydruku projektu protokołu przekazania dokumentów obwodowej komisji wyborczej ds. ustalenia wyników głosowania przez obwodową komisję ds. przeprowadzenia głosowania;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "wprowadzenie wszystkich danych zawartych w projektach protokołów głosowania w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "umożliwienie wydruku projektów protokołów głosowania w obwodzie z ewentualnym zestawieniem błędów oraz raportem ostrzeżeń, ułatwiającymi sprawdzenie zgodności arytmetycznej poprawności ustalenia wyników głosowania w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "wprowadzenie danych z podpisanych protokołów głosowania do sieci elektronicznego przekazywania danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "zapisanie danych z protokołów głosowania w postaci pliku na elektronicznym nośniku danych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "w przypadku ponownego głosowania w wyborach wójta (burmistrza, prezydenta miasta) – ponowienie niezbędnych czynności.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Niniejsza uchwała była poprzedzona uchwałą Państwowej Komisji Wyborczej z dnia 22 września 2014 r. w sprawie określenia warunków i sposobu wykorzystania techniki elektronicznej w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast (M.P. poz. 903), która utraciła moc z dniem 31 stycznia 2018 r. na podstawie art. 5 pkt 65 ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130)."
+ }
+}

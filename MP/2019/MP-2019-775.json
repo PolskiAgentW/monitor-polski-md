@@ -1,0 +1,212 @@
+{
+ "eli": "MP/2019/775",
+ "title": "Obwieszczenie Ministra Energii z dnia 28 sierpnia 2019 r. w sprawie pozostałych kosztów jednostkowych oraz stawki dofinansowania",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/775/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ENERGII[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 sierpnia 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie pozostałych kosztów jednostkowych oraz stawki dofinansowania"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 5 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538 oraz z 2019 r. poz. 412, 1210, 1495 i 1532) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "pozostałe koszty jednostkowe, o których mowa w art. 7 ust. 4 pkt 1 ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, w postaci:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "kosztów własnych prowadzenia działalności gospodarczej, które określone zostały w załączniku nr 1 do obwieszczenia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "kosztów bilansowania charakterystyki zapotrzebowania na energię elektryczną, które określone zostały w załączniku nr 2 do obwieszczenia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "marży uzależnionej od łącznego wolumenu sprzedaży energii elektrycznej odbiorcom końcowym, które określone zostały w załączniku nr 3 do obwieszczenia;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stawkę dofinansowania, o której mowa w art. 7 ust. 4c ustawy z dnia 28 grudnia 2018 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw, wynoszącą 15,00 zł/MWh.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Energii: wz. A. Gawęda"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do obwieszczenia Ministra Energii z dnia 28 sierpnia 2019 r. (poz. 775) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "Koszty własne prowadzenia działalności gospodarczej (K ) w odniesieniu do grup napięć określonych w § 10 ust. 2 rozporządzenia Ministra Energii z dnia 19 lipca 2019 r. w sprawie w sposobu obliczenia kwoty różnicy ceny i rekompensaty finansowej oraz sposobu wyznaczania cen odniesienia (Dz. U. poz. 1369)"
+    },
+    {
+     "type": "text",
+     "text": "Grupa Jednostka Kw"
+    },
+    {
+     "type": "text",
+     "text": "Grupa G zł/MWh 20,70"
+    },
+    {
+     "type": "text",
+     "text": "Grupa C zł/MWh 17,43"
+    },
+    {
+     "type": "text",
+     "text": "Grupa B zł/MWh 7,89"
+    },
+    {
+     "type": "text",
+     "text": "Grupa A zł/MWh 7,71"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "Koszty bilansowania charakterystyki zapotrzebowania na energię elektryczną (K ) w odniesieniu do grup napięć określonych w § 10 ust. 2 rozporządzenia Ministra Energii z dnia 19 lipca 2019 r. w sprawie B sposobu obliczenia kwoty różnicy ceny i rekompensaty finansowej oraz sposobu wyznaczania cen odniesienia"
+    },
+    {
+     "type": "text",
+     "text": "Grupa Jednostka K B"
+    },
+    {
+     "type": "text",
+     "text": "Grupa G zł/MWh 1,66"
+    },
+    {
+     "type": "text",
+     "text": "Grupa C zł/MWh 1,11"
+    },
+    {
+     "type": "text",
+     "text": "Grupa B zł/MWh 0,87"
+    },
+    {
+     "type": "text",
+     "text": "Grupa A zł/MWh 0,20"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "Marża (M) w odniesieniu do grup napięć, określonych w § 10 ust. 2 rozporządzenia Ministra Energii z dnia 19 lipca 2019 r. w sprawie sposobu obliczenia kwoty różnicy ceny i rekompensaty finansowej oraz sposobu wyznaczania cen odniesienia, uzależniona od łącznego wolumenu sprzedaży energii elektrycznej odbiorcom końcowym w 2018 r. przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu energią elektryczną"
+    },
+    {
+     "type": "text",
+     "text": "Wolumen sprzedaży M energii elektrycznej odbiorcom końcowym w 2018 r. Lp. przez przedsiębiorstwo Jednostka energetyczne wykonujące Grupa Grupa Grupa Grupa działalność gospodarczą G C B A w zakresie obrotu energią elektryczną"
+    },
+    {
+     "type": "text",
+     "text": "1 powyżej 35 000 000 MWh zł/MWh 1,00 4,00 1,20 0,50"
+    },
+    {
+     "type": "text",
+     "text": "2 nie więcej niż 35 000 000 MWh 1,10 4,42 1,33 0,55 oraz powyżej 25 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "3 nie więcej niż 25 000 000 MWh 1,22 4,88 1,46 0,61 oraz powyżej 15 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "4 nie więcej niż 25 000 000 MWh 1,28 5,13 1,54 0,64 oraz powyżej 10 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "5 nie więcej niż 10 000 000 MWh 1,41 5,64 1,92 0,71 oraz powyżej 9 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "6 nie więcej niż 9 000 000 MWh 1,55 6,21 2,40 0,78 oraz powyżej 8 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "7 nie więcej niż 8 000 000 MWh 1,71 6,83 3,01 0,85 oraz powyżej 7 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "8 nie więcej niż 7 000 000 MWh 1,88 7,51 3,76 0,94 oraz powyżej 6 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "9 nie więcej niż 6 000 000 MWh 2,07 8,26 4,70 1,03 oraz powyżej 5 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "10 nie więcej niż 5 000 000 MWh 2,27 9,09 5,87 1,14 oraz powyżej 4 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "11 nie więcej niż 4 000 000 MWh 2,50 10,00 7,34 1,25 oraz powyżej 3 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "12 nie więcej niż 3 000 000 MWh 2,75 11,00 9,17 1,37 oraz powyżej 2 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "13 nie więcej niż 2 000 000 MWh 3,02 12,10 11,47 1,51 oraz powyżej 1 000 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "14 nie więcej niż 1 000 000 MWh 3,33 13,31 14,33 1,66 oraz powyżej 500 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "15 nie więcej niż 500 000 MWh 3,66 14,64 17,92 1,83 oraz powyżej 200 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "16 nie więcej niż 200 000 MWh 4,02 16,10 22,39 2,01 oraz powyżej 100 000 MWh zł/MWh"
+    },
+    {
+     "type": "text",
+     "text": "17 nie więcej niż 100 000 MWh zł/MWh 4,43 17,71 27,99 2,21"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2314)."
+ }
+}

@@ -1,0 +1,259 @@
+{
+ "eli": "MP/2018/452",
+ "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 27 kwietnia 2018 r. zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/452/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 kwietnia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 143 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W statucie Kancelarii Prezydenta Rzeczypospolitej Polskiej, stanowiącym załącznik do zarządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 7 sierpnia 2015 r. w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej (M.P. poz. 762 oraz z 2017 r. poz. 438 i 611) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Kancelaria zapewnia obsługę merytoryczną, organizacyjną, prawną i techniczną Prezydenta, Szefa Kancelarii Prezydenta Rzeczypospolitej Polskiej, zwanego dalej „Szefem Kancelarii”, Zastępcy Szefa Kancelarii Prezydenta Rzeczypospolitej Polskiej, zwanego dalej „Zastępcą Szefa Kancelarii”, Sekretarza Stanu – Szefa Gabinetu Prezydenta oraz sekretarzy i podsekretarzy stanu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 2 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Zastępca Szefa Kancelarii, Sekretarz Stanu – Szef Gabinetu Prezydenta, sekretarze i podsekretarze stanu oraz Dyrektor Generalny kierują pracami Kancelarii w zakresie powierzonym przez Szefa Kancelarii.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Prezydent powołuje i odwołuje Szefa Kancelarii, Zastępcę Szefa Kancelarii, Sekretarza Stanu – Szefa Gabinetu Prezydenta oraz sekretarzy i podsekretarzy stanu.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "ust. 2 i 3 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Szefa Kancelarii zastępuje w czasie nieobecności Zastępca Szefa Kancelarii, a w przypadku nieobecności Zastępcy Szefa Kancelarii, wskazany przez Szefa Kancelarii sekretarz lub podsekretarz stanu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Szef Kancelarii, za zgodą Prezydenta, określa szczegółowy zakres zadań Zastępcy Szefa Kancelarii, Sekretarza Stanu – Szefa Gabinetu Prezydenta, sekretarzy i podsekretarzy stanu oraz Dyrektora Generalnego w Kancelarii, w tym zakres nadzoru merytorycznego nad komórkami organizacyjnymi Kancelarii.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "§ 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 5. W skład Kancelarii wchodzą następujące komórki organizacyjne:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Biuro Szefa Kancelarii;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Biuro Gabinetu Prezydenta;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Biuro Dialogu i Korespondencji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Biuro Interwencyjnej Pomocy Prawnej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Biuro Kultury i Dziedzictwa Narodowego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Biuro Narodowej Rady Rozwoju, Samorządu i Inicjatyw Obywatelskich;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Biuro Obsługi Organizacyjnej Prezydenta;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Biuro Obywatelstw i Prawa Łaski;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Biuro Odznaczeń i Nominacji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Biuro Prasowe;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Biuro Prawa i Ustroju;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Biuro Spraw Zagranicznych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Biuro Współpracy z Polonią i Polakami za Granicą;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) Biuro Wydarzeń Krajowych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) Biuro Wystąpień i Patronatów Prezydenta;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) Biuro Administracyjne;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17) Biuro Finansowe;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18) Archiwum Prezydenta Rzeczypospolitej Polskiej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "§ 6 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Organizację wewnętrzną Kancelarii, zakres zadań oraz tryb pracy komórek organizacyjnych określa regulamin organizacyjny Kancelarii nadany przez Szefa Kancelarii.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kierujący komórką organizacyjną określa, w wewnętrznym regulaminie komórki organizacyjnej, strukturę oraz podział zadań wewnątrz komórki organizacyjnej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wewnętrzny regulamin komórki organizacyjnej zatwierdza Szef Kancelarii po zaopiniowaniu przez Dyrektora Generalnego oraz zaakceptowaniu przez osobę sprawującą nadzór merytoryczny nad komórką organizacyjną.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej przeprowadzi reorganizację Kancelarii związaną z nową strukturą jej komórek organizacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Kierujący komórkami organizacyjnymi Kancelarii Prezydenta Rzeczypospolitej Polskiej opracują wewnętrzne regulaminy kierowanych przez siebie komórek organizacyjnych i przedłożą do zaopiniowania Dyrektorowi Generalnemu w terminie 21 dni od dnia wejścia w życie zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: A. Duda"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,109 @@
+{
+ "eli": "MP/2012/382",
+ "title": "Zarządzenie Nr 52 Prezesa Rady Ministrów z dnia 8 czerwca 2012 r. zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Finansów",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/382/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 52"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 czerwca 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Ministerstwu Finansów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 68 Prezesa Rady Ministrów z dnia 24 czerwca 2008 r. w sprawie nadania statutu Ministerstwu Finansów (M. P. Nr 48, poz. 431) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "pkt 18 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„18) Departament Podatku Akcyzowego i Gier;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "po pkt 38 dodaje się pkt 39 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„39) Samodzielne Stanowisko do Spraw Finansów – Główny Ekonomista Ministerstwa Finansów.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 3 w pkt 2 lit. i otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„i) Departament Podatku Akcyzowego i Gier,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "§ 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 4. Bezpośredni nadzór nad Gabinetem Politycznym Ministra oraz Samodzielnym Stanowiskiem do Spraw Finansów – Głównym Ekonomistą Ministerstwa Finansów sprawuje Minister Finansów.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

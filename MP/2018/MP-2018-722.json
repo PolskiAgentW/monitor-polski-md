@@ -1,0 +1,538 @@
+{
+ "eli": "MP/2018/722",
+ "title": "Zarządzenie nr 127 Prezesa Rady Ministrów z dnia 24 lipca 2018 r. w sprawie Komitetu Sterującego do spraw Elektronicznego Systemu Poboru Opłat",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/722/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 127"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 lipca 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Komitetu Sterującego do spraw Elektronicznego Systemu Poboru Opłat"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 2 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Komitet Sterujący do spraw Elektronicznego Systemu Poboru Opłat, zwany dalej „Komitetem”, którego celem jest koordynacja działań podmiotów, w szczególności Głównego Inspektora Transportu Drogowego, Naukowej i Akademickiej Sieci Komputerowej – Państwowego Instytutu Badawczego i Instytutu Łączności – Państwowego Instytutu Badawczego, zaangażowanych w proces przygotowania, wdrożenia, budowy i eksploatacji Elektronicznego Systemu Poboru Opłat oraz przejęcia Krajowego Systemu Poboru Opłat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Komitet jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Komitetu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "określanie kierunku prowadzonych prac mających na celu przygotowanie, wdrożenie, budowę i eksploatację Elektronicznego Systemu Poboru Opłat oraz przejęcie Krajowego Systemu Poboru Opłat;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "koordynowanie i monitorowanie prac projektowych i koncepcyjnych mających na celu przygotowanie, wdrożenie, budowę i eksploatację Elektronicznego Systemu Poboru Opłat oraz przejęcie Krajowego Systemu Poboru Opłat;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "opracowywanie propozycji działań w zakresie przygotowania, wdrożenia, budowy i eksploatacji Elektronicznego Systemu Poboru Opłat oraz przejęcia Krajowego Systemu Poboru Opłat;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "wydawanie wytycznych i przedstawianie założeń niezbędnych dla przygotowania, wdrożenia, budowy i eksploatacji Elektronicznego Systemu Poboru Opłat oraz przejęcia Krajowego Systemu Poboru Opłat;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "monitorowanie postępów w realizacji przygotowania, wdrożenia, budowy i eksploatacji Elektronicznego Systemu Poboru Opłat oraz przejęcia Krajowego Systemu Poboru Opłat;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "monitorowanie prac nad przygotowaniem projektów rozwiązań technicznych i organizacyjnych w celu przejęcia Krajowego Systemu Poboru Opłat przez Głównego Inspektora Transportu Drogowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "wspieranie współpracy oraz przekazywania informacji między wykonawcą Krajowego Systemu Poboru Opłat a wykonawcą Elektronicznego Systemu Poboru Opłat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Komitetu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący Komitetu – Minister Infrastruktury, właściwy w szczególności w zakresie określonym w § 2 pkt 1–5;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zastępca przewodniczącego Komitetu – Minister Cyfryzacji, właściwy w szczególności w zakresie określonym w § 2 pkt 1–5;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "Główny Inspektor Transportu Drogowego albo jego zastępca – organ odpowiedzialny za przygotowanie, wdrożenie, budowę i eksploatację Elektronicznego Systemu Poboru Opłat oraz przejęcie Krajowego Systemu Poboru Opłat, właściwy w zakresie określonym w § 2 pkt 1–7;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "pozostali członkowie Komitetu, właściwi w szczególności w zakresie określonym w § 2 pkt 3 i 4 oraz zapewniający wsparcie niezbędne dla realizacji celu utworzenia Komitetu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_4/lit_a",
+         "text": "Minister Spraw Wewnętrznych i Administracji albo wskazana przez niego osoba w randze sekretarza stanu albo podsekretarza stanu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_4/lit_b",
+         "text": "Generalny Dyrektor Dróg Krajowych i Autostrad albo jego zastępca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_4/lit_c",
+         "text": "Dyrektor Instytutu Łączności – Państwowego Instytutu Badawczego albo jego zastępca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_4/lit_d",
+         "text": "Dyrektor Naukowej i Akademickiej Sieci Komputerowej – Państwowego Instytutu Badawczego albo jego zastępca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_4/lit_e",
+         "text": "Dyrektor Instytutu Badawczego Dróg i Mostów albo jego zastępca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_4/lit_f",
+         "text": "Szef Centralnego Biura Antykorupcyjnego albo jego zastępca,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_4/lit_g",
+         "text": "Pełnomocnik Prezesa Rady Ministrów do spraw utworzenia i funkcjonowania Centrum Analiz Strategicznych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W przypadku nieobecności przewodniczącego Komitetu jego zadania wykonuje zastępca przewodniczącego Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Do zadań przewodniczącego Komitetu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "powoływanie sekretarza Komitetu, a także przewodniczących grup roboczych, o ile takie zostaną powołane;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "zwoływanie posiedzeń Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "kierowanie pracami Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_3/pkt_4",
+       "text": "przedstawianie Radzie Ministrów sprawozdania z prac Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Przewodniczący Komitetu oraz zastępca przewodniczącego Komitetu mogą być zastępowani w pracach Komitetu przez upoważnione osoby w randze sekretarza stanu albo podsekretarza stanu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Członkowie Komitetu, o których mowa w ust. 1 pkt 3 i 4, biorą udział w pracach Komitetu osobiście, a w uzasadnionych przypadkach, za zgodą przewodniczącego Komitetu, mogą być zastępowani przez upoważnione osoby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_3/ust_6",
+     "text": "Posiedzenia Komitetu odbywają się raz w tygodniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_3/ust_7",
+     "text": "W uzasadnionych przypadkach przewodniczący Komitetu, za zgodą Prezesa Rady Ministrów, może określić inną częstotliwość posiedzeń Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Obsługę organizacyjno-techniczną prac Komitetu zapewnia Ministerstwo Infrastruktury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Posiedzenia Komitetu przygotowuje i obsługuje sekretarz Komitetu będący pracownikiem Ministerstwa Infrastruktury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Do zadań sekretarza Komitetu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "zapewnianie właściwego przygotowania i sprawnej obsługi posiedzeń Komitetu, w tym:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_3/pkt_1/lit_a",
+         "text": "przygotowanie projektu porządku obrad oraz koordynacja przygotowania oraz dostarczenia materiałów i projektów dokumentów przeznaczonych do rozpatrzenia, w szczególności projektów uchwał,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_4/ust_3/pkt_1/lit_b",
+         "text": "sporządzenie listy obecności na posiedzeniu Komitetu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/ust_3/pkt_1/lit_c",
+         "text": "sporządzenie protokołu z posiedzenia Komitetu, zawierającego w szczególności:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_1",
+           "text": "porządek posiedzenia,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_2",
+           "text": "imiona i nazwiska osób biorących udział w posiedzeniu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_3",
+           "text": "wnioski osób biorących udział w posiedzeniu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_4",
+           "text": "odpisy uchwał Komitetu podjętych podczas posiedzenia,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_4/ust_3/pkt_1/lit_c/tir_5",
+           "text": "inne ustalenia Komitetu i przewodniczącego Komitetu;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "uczestniczenie w posiedzeniach Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "gromadzenie i przechowywanie dokumentacji dotyczącej prac Komitetu, w szczególności uchwał i protokołów posiedzeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_3/pkt_4",
+       "text": "wykonywanie innych zadań zleconych przez przewodniczącego Komitetu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przewodniczący Komitetu może z własnej inicjatywy lub na wniosek członka Komitetu powoływać grupy robocze oraz korzystać z pomocy doradców i ekspertów, których wiedza i doświadczenie mogą być przydatne do realizacji działań mających na celu przygotowanie, wdrożenie, budowę i eksploatację Elektronicznego Systemu Poboru Opłat oraz przejęcia Krajowego Systemu Poboru Opłat, w imieniu Głównego Inspektora Transportu Drogowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Do udziału w pracach Komitetu mogą być zapraszane, z inicjatywy przewodniczącego Komitetu, również inne osoby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Osoby, o których mowa w ust. 1 i 2, są zapraszane na posiedzenia Komitetu przez przewodniczącego Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Komitet podejmuje rozstrzygnięcia w drodze uzgodnienia stanowiska. W przypadku braku uzgodnienia stanowiska rozstrzyga przewodniczący Komitetu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wydatki związane z obsługą organizacyjno-techniczną Komitetu są pokrywane z budżetu państwa z części, której dysponentem jest Minister Infrastruktury.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Udział w pracach Komitetu jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Sprawozdanie z realizacji zadań Komitetu przedstawia się Radzie Ministrów raz w miesiącu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "dane identyfikacyjne (osobę sporządzającą i zatwierdzającą dokument, podstawę prawną utworzenia Komitetu, okres objęty sprawozdaniem);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "wskazanie liczby i terminów odbytych posiedzeń Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "określenie postępów w pracach Komitetu w odniesieniu do zadań Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_2/pkt_4",
+       "text": "wnioski i rekomendacje wynikające z prac Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_2/pkt_5",
+       "text": "informacje dotyczące celowości dalszego działania Komitetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_2/pkt_6",
+       "text": "inne niezbędne informacje o funkcjonowaniu Komitetu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Pierwsze sprawozdanie z realizacji zadań Komitetu w 2018 r. przewodniczący Komitetu przedstawi Radzie Ministrów w terminie miesiąca od dnia pierwszego posiedzenia Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "W okresie od dnia 1 września 2018 r. do dnia 30 listopada 2018 r. sprawozdanie z realizacji zadań Komitetu przewodniczący Komitetu przedstawia Radzie Ministrów nie rzadziej niż raz na dwa tygodnie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

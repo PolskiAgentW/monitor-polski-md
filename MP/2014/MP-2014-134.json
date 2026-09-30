@@ -1,0 +1,78 @@
+{
+ "eli": "MP/2014/134",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 27 stycznia 2014 r. zmieniająca uchwałę w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/134/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 stycznia 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 61g § 6 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 1 sierpnia 2011 r. w sprawie określenia wzoru i rozmiaru koperty na pakiet wyborczy, koperty zwrotnej, koperty na kartę do głosowania, oświadczenia o osobistym i tajnym oddaniu głosu oraz instrukcji głosowania, stosowanych w głosowaniu korespondencyjnym w obwodach głosowania utworzonych w kraju (M.P. Nr 75, poz. 741) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Przepis ust. 2 zdanie drugie nie dotyczy pieczęci i adnotacji operatora wyznaczonego, o którym mowa w art. 61f § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy, zwanej dalej „Kodeksem wyborczym”, przyjmującego i doręczającego przesyłkę.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 2 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Przepis ust. 2 zdanie drugie nie dotyczy pieczęci i adnotacji operatora wyznaczonego, o którym mowa w § 1 ust. 4.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179 i 180."
+ }
+}

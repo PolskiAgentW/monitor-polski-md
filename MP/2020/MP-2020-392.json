@@ -1,0 +1,486 @@
+{
+ "eli": "MP/2020/392",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 4 maja 2020 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Prokuratorii Generalnej Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/392/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 maja 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Prokuratorii Generalnej Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 3 Prezesa Rady Ministrów z dnia 17 stycznia 2017 r. w sprawie nadania statutu Prokuratorii Generalnej Rzeczypospolitej Polskiej (M.P. poz. 38), z uwzględnieniem zmian wprowadzonych zarządzeniem nr 45 Prezesa Rady Ministrów z dnia 19 kwietnia 2019 r. zmieniającym zarządzenie w sprawie nadania statutu Prokuratorii Generalnej Rzeczypospolitej Polskiej (M.P. poz. 397).",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje § 2 zarządzenia nr 45 Prezesa Rady Ministrów z dnia 19 kwietnia 2019 r. zmieniającego zarządzenie w sprawie nadania statutu Prokuratorii Generalnej Rzeczypospolitej Polskiej (M.P. poz. 397), który stanowi:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 4 maja 2020 r. (poz. 392)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 3"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 17 stycznia 2017 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie nadania statutu Prokuratorii Generalnej Rzeczypospolitej Polskiej"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 48 ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 762) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Prokuratorii Generalnej Rzeczypospolitej Polskiej nadaje się statut, stanowiący załącznik do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[^1], z mocą od dnia 1 stycznia 2017 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do zarządzenia nr 3 Prezesa Rady Ministrów z dnia 17 stycznia 2017 r.",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT PROKURATORII GENERALNEJ RZECZYPOSPOLITEJ POLSKIEJ"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Postanowienia ogólne"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Prokuratoria Generalna Rzeczypospolitej Polskiej, zwana dalej „Prokuratorią Generalną”, działa na podstawie ustawy z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 762), zwanej dalej „ustawą”.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Organizacja wewnętrzna"
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Urząd Prokuratorii Generalnej Rzeczypospolitej Polskiej zapewnia obsługę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Prokuratorii Generalnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Prezesa Prokuratorii Generalnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "wiceprezesów Prokuratorii Generalnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Kolegium Prokuratorii Generalnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "Sądu Polubownego przy Prokuratorii Generalnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "W skład Urzędu Prokuratorii Generalnej Rzeczypospolitej Polskiej wchodzą następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "Departament Nieruchomości;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "Departament Opinii Prawnych, Negocjacji i Mediacji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "Departament Prawa Deliktowego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_3/ust_1/pkt_4",
+         "text": "Departament Prawa Finansowego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4a",
+         "path": "par_3/ust_1/pkt_4a",
+         "text": "[^2] Departament Legislacji i Dobrych Praktyk Kontraktowych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_3/ust_1/pkt_5",
+         "text": "Departament Prawa Międzynarodowego i Europejskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_3/ust_1/pkt_6",
+         "text": "Departament Prawa Umów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_3/ust_1/pkt_7",
+         "text": "[^3] Departament Studiów i Analiz;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "par_3/ust_1/pkt_8",
+         "text": "Departament Osób Prawnych I;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "9",
+         "path": "par_3/ust_1/pkt_9",
+         "text": "Departament Osób Prawnych II;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "10",
+         "path": "par_3/ust_1/pkt_10",
+         "text": "Departament Osób Prawnych III;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11",
+         "path": "par_3/ust_1/pkt_11",
+         "text": "Departament Mienia Skarbu Państwa;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "12",
+         "path": "par_3/ust_1/pkt_12",
+         "text": "Biuro Budżetowo-Administracyjne;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "13",
+         "path": "par_3/ust_1/pkt_13",
+         "text": "[^4] Biuro Pełnomocnika do spraw Ochrony Informacji Niejawnych.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "W skład komórek organizacyjnych, o których mowa w ust. 1, mogą wchodzić wydziały oraz samodzielne stanowiska pracy, tworzone przez Prezesa Prokuratorii Generalnej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "W skład Urzędu Prokuratorii Generalnej Rzeczypospolitej Polskiej mogą wchodzić również samodzielne wydziały oraz jednoosobowe i wieloosobowe samodzielne stanowiska pracy, tworzone przez Prezesa Prokuratorii Generalnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "[^5] W Prokuratorii Generalnej pełnione są funkcje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/pkt_1",
+       "text": "dyrektora generalnego, o którym mowa w § 7a;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/pkt_2",
+       "text": "dyrektorów i wicedyrektorów departamentów oraz biur, o których mowa w § 3 ust. 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/pkt_3",
+       "text": "naczelników wydziałów w departamentach, o których mowa w § 3 ust. 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/pkt_4",
+       "text": "naczelników samodzielnych wydziałów, o których mowa w § 3 ust. 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/pkt_5",
+       "text": "wizytatorów, o których mowa w § 9;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/pkt_6",
+       "text": "członków Komisji Dyscyplinarnej Prokuratorii Generalnej i Odwoławczej Komisji Dyscyplinarnej Prokuratorii Generalnej, o których mowa w art. 88 ust. 2 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/pkt_7",
+       "text": "rzecznika dyscyplinarnego Prokuratorii Generalnej, o którym mowa w art. 89 ust. 1 ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/pkt_8",
+       "text": "rzecznika prasowego, o którym mowa w § 10.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Spory o właściwość między komórkami organizacyjnymi lub samodzielnymi stanowiskami pracy w Urzędzie Prokuratorii Generalnej Rzeczypospolitej Polskiej rozstrzyga Prezes Prokuratorii Generalnej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Prezes Prokuratorii Generalnej może tworzyć i znosić stałe lub doraźne zespoły o charakterze opiniodawczym lub doradczym, określając ich nazwę, skład, zakres zadań, tryb pracy oraz sposób ich obsługi.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 3",
+     "text": "Szczegółowe zasady funkcjonowania"
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "W przypadku powołania więcej niż jednego wiceprezesa Prokuratorii Generalnej, Prezes Prokuratorii Generalnej wyznacza spośród nich swojego pierwszego zastępcę.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Pierwszy zastępca Prezesa Prokuratorii Generalnej zastępuje Prezesa Prokuratorii Generalnej we wszystkich sprawach należących do jego zakresu czynności w razie jego nieobecności lub odwołania Prezesa Prokuratorii Generalnej ze stanowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7a",
+     "path": "par_7a",
+     "text": "[^6] Dyrektor generalny zapewnia, w imieniu Prezesa Prokuratorii Generalnej, funkcjonowanie i warunki działania Urzędu Prokuratorii Generalnej Rzeczypospolitej Polskiej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "Komórkami organizacyjnymi, o których mowa w § 3 ust. 1, kierują dyrektorzy przy pomocy wicedyrektorów, jeżeli stanowiska wicedyrektorów zostały utworzone.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Wydziałami i samodzielnymi wydziałami, o których mowa w § 3 ust. 2 i 3, kierują naczelnicy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_8/ust_3",
+       "text": "[^7] Prezes Prokuratorii Generalnej:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_8/ust_3/pkt_1",
+         "text": "może pisemnie upoważnić wiceprezesów, dyrektora generalnego, dyrektorów departamentów i biur, o których mowa w § 3 ust. 1, oraz innych radców zatrudnionych w Urzędzie Prokuratorii Generalnej Rzeczypospolitej Polskiej do podejmowania rozstrzygnięć w jego imieniu w określonych przez niego sprawach;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_8/ust_3/pkt_2",
+         "text": "ustala zakresy czynności dyrektora generalnego, osób, o których mowa w ust. 1 i 2, oraz pracowników zatrudnionych na samodzielnych stanowiskach pracy, o których mowa w § 3 ust. 3.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_8/ust_4",
+       "text": "Dyrektorzy komórek organizacyjnych, o których mowa w § 3 ust. 1, oraz naczelnicy samodzielnych wydziałów, o których mowa w § 3 ust. 3, ustalają zakresy czynności pracowników zatrudnionych w podległych im komórkach organizacyjnych, z zastrzeżeniem ust. 3 pkt 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "Funkcję wizytatora powierza się radcy Prokuratorii Generalnej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "Funkcję rzecznika prasowego powierza się pracownikowi Prokuratorii Generalnej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "W departamentach, o których mowa w § 3 ust. 1 pkt 1–10, funkcję dyrektora i wicedyrektora departamentu oraz naczelnika wydziału powierza się radcy Prokuratorii Generalnej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "Funkcje, o których mowa w § 8–10, powierza Prezes Prokuratorii Generalnej. Prezes Prokuratorii Generalnej może zwolnić z tych funkcji w każdym czasie.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zarządzenie zostało ogłoszone w dniu 17 stycznia 2017 r.",
+  "2": "Dodany przez § 1 pkt 1 lit. a zarządzenia nr 45 Prezesa Rady Ministrów z dnia 19 kwietnia 2019 r. zmieniającego zarządzenie w sprawie nadania statutu Prokuratorii Generalnej Rzeczypospolitej Polskiej (M.P. poz. 397), które weszło w życie z dniem 26 kwietnia 2019 r.",
+  "3": "W brzmieniu ustalonym przez § 1 pkt 1 lit. b zarządzenia, o którym mowa w odnośniku 2.",
+  "4": "Dodany przez § 1 pkt 1 lit. c zarządzenia, o którym mowa w odnośniku 2.",
+  "5": "W brzmieniu ustalonym przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 2.",
+  "6": "Dodany przez § 1 pkt 3 zarządzenia, o którym mowa w odnośniku 2.",
+  "7": "W brzmieniu ustalonym przez § 1 pkt 4 zarządzenia, o którym mowa w odnośniku 2."
+ }
+}

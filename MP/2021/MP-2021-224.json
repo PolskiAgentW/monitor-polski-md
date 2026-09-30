@@ -1,0 +1,399 @@
+{
+ "eli": "MP/2021/224",
+ "title": "Zarządzenie nr 17 Prezesa Rady Ministrów z dnia 26 lutego 2021 r. w sprawie nadania statutu Ministerstwu Kultury, Dziedzictwa Narodowego i Sportu",
+ "converter": "eli2md 0.6.16",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/224/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 17"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 lutego 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Kultury, Dziedzictwa Narodowego i Sportu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2021 r. poz. 178) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Kultury, Dziedzictwa Narodowego i Sportu nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Tracą moc:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "zarządzenie nr 93 Prezesa Rady Ministrów z dnia 13 lipca 2016 r. w sprawie nadania statutu Ministerstwu Kultury i Dziedzictwa Narodowego (M.P. z 2018 r. poz. 461);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "zarządzenie nr 34 Prezesa Rady Ministrów z dnia 9 marca 2020 r. w sprawie nadania statutu Ministerstwu Sportu (M.P. poz. 258).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 marca 2021 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 17 Prezesa Rady Ministrów z dnia 26 lutego 2021 r. (poz. 224)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA KULTURY, DZIEDZICTWA NARODOWEGO I SPORTU"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Kultury, Dziedzictwa Narodowego i Sportu, zwane dalej „Ministerstwem”, zapewnia obsługę Ministra Kultury, Dziedzictwa Narodowego i Sportu, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Kultury, Dziedzictwa Narodowego i Sportu (Dz. U. poz. 1717 oraz z 2021 r. poz. 361), do spraw objętych działami administracji rządowej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/pkt_1",
+       "text": "kultura i ochrona dziedzictwa narodowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/pkt_2",
+       "text": "kultura fizyczna.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa wchodzą Gabinet Polityczny Ministra oraz następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Departament Dziedzictwa Kulturowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Departament Dziedzictwa Kulturowego Za Granicą i Strat Wojennych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "Departament Finansowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Departament Funduszy i Spraw Europejskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "Departament Infrastruktury Sportu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "Departament Legislacyjny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "Departament Mecenatu Państwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "Departament Nadzoru Właścicielskiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "Departament Nadzoru w Sporcie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/pkt_10",
+       "text": "Departament Narodowych Instytucji Kultury;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/pkt_11",
+       "text": "Departament Ochrony Zabytków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/pkt_12",
+       "text": "Departament Sportu dla Wszystkich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/pkt_13",
+       "text": "Departament Sportu Wyczynowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/pkt_14",
+       "text": "Departament Szkolnictwa Artystycznego i Edukacji Kulturalnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/pkt_15",
+       "text": "Departament Własności Intelektualnej i Mediów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_2/pkt_16",
+       "text": "Departament Współpracy z Zagranicą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_2/pkt_17",
+       "text": "Biuro Audytu Wewnętrznego i Kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_2/pkt_18",
+       "text": "Biuro Dyrektora Generalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_2/pkt_19",
+       "text": "Biuro Finansów i Księgowości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_2/pkt_20",
+       "text": "Biuro Kadr i Szkolenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_2/pkt_21",
+       "text": "Biuro Ministra;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_2/pkt_22",
+       "text": "Centrum Informacyjne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra w zakresie działu administracji rządowej – kultura i ochrona dziedzictwa narodowego zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "Departament Dziedzictwa Kulturowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "Departament Dziedzictwa Kulturowego Za Granicą i Strat Wojennych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "Departament Finansowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "Departament Funduszy i Spraw Europejskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/pkt_5",
+       "text": "Departament Legislacyjny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/pkt_6",
+       "text": "Departament Mecenatu Państwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/pkt_7",
+       "text": "Departament Nadzoru Właścicielskiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/pkt_8",
+       "text": "Departament Narodowych Instytucji Kultury;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/pkt_9",
+       "text": "Departament Ochrony Zabytków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/pkt_10",
+       "text": "Departament Szkolnictwa Artystycznego i Edukacji Kulturalnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_3/pkt_11",
+       "text": "Departament Własności Intelektualnej i Mediów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_3/pkt_12",
+       "text": "Departament Współpracy z Zagranicą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Obsługę zadań Ministra w zakresie działu administracji rządowej – kultura fizyczna zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/pkt_1",
+       "text": "Departament Infrastruktury Sportu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/pkt_2",
+       "text": "Departament Nadzoru w Sporcie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/pkt_3",
+       "text": "Departament Sportu dla Wszystkich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/pkt_4",
+       "text": "Departament Sportu Wyczynowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Bezpośredni nadzór nad Gabinetem Politycznym Ministra sprawuje Minister.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

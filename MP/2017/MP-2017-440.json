@@ -1,0 +1,80 @@
+{
+ "eli": "MP/2017/440",
+ "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 kwietnia 2017 r. w sprawie wysokości wykorzystanego krajowego limitu skumulowanej kwoty pomocy de minimis w rolnictwie lub rybołówstwie",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/440/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ROLNICTWA I ROZWOJU WSI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 kwietnia 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości wykorzystanego krajowego limitu skumulowanej kwoty pomocy de minimis w rolnictwie lub rybołówstwie"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 31a ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2016 r. poz. 1808 i 1948) ogłasza się, że wysokość:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "trzyletniego krajowego limitu skumulowanej kwoty pomocy de minimis wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "w rolnictwie – 225 700 000,00 euro,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "w rybołówstwie – 41 330 000,00 euro;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "wykorzystanego krajowego limitu skumulowanej kwoty pomocy de minimis na dzień 31 marca 2017 r. wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "w rolnictwie – 134 672 387,58 euro,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "w rybołówstwie – 3 390 439,08 euro.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: K. Jurgiel"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1906)."
+ }
+}

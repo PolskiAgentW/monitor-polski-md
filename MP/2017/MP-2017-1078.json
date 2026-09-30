@@ -1,0 +1,101 @@
+{
+ "eli": "MP/2017/1078",
+ "title": "Obwieszczenie Ministra Rozwoju i Finansów z dnia 21 listopada 2017 r. w sprawie stawek akcyzy na paliwa silnikowe w roku 2018",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/1078/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ROZWOJU I FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 listopada 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek akcyzy na paliwa silnikowe w roku 2018"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 89 ust. 1b pkt 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2017 r. poz. 43, 60 i 937) ogłasza się, że w roku 2018 stawki akcyzy na paliwa silnikowe wynoszą dla:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "benzyn silnikowych o kodach CN 2710 11 45 lub 2710 11 49 oraz wyrobów powstałych ze zmieszania tych benzyn z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1540,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "olejów napędowych o kodzie CN 2710 19 41 oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1171,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "biokomponentów stanowiących samoistne paliwa, spełniających wymagania jakościowe określone w odrębnych przepisach, przeznaczonych do napędu silników spalinowych, bez względu na kod CN – 1171,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "gazów przeznaczonych do napędu silników spalinowych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "gazu ziemnego (mokrego) i pozostałych węglowodorów gazowych objętych pozycją CN 2711 oraz gazowych węglowodorów alifatycznych objętych pozycją CN 2901:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_4/lit_a/tir_1",
+       "text": "skroplonych – 670,00 zł/1000 kilogramów,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_4/lit_a/tir_2",
+       "text": "w stanie gazowym – 10,54 zł/1 gigadżul (GJ),",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "pozostałych – 14,22 zł/1 GJ;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "pozostałych paliw silnikowych – 1797,00 zł/1000 litrów.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rozwoju i Finansów: wz. W. Janczyk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Rozwoju i Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Finansów (Dz. U. poz. 1595)."
+ }
+}

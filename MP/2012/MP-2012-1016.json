@@ -1,0 +1,206 @@
+{
+ "eli": "MP/2012/1016",
+ "title": "Ogłoszenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia 20 grudnia 2012 r. o możliwości uzyskania koncesji na rozpowszechnianie programu telewizyjnego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/1016/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OGŁOSZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PRZEWODNICZĄCEGO KRAJOWEJ RADY RADIOFONII I TELEWIZJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 grudnia 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "o możliwości uzyskania koncesji na rozpowszechnianie programu telewizyjnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 34 ust. 1 oraz ust. 1a ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2011 r. Nr 43, poz. 226, z późn. zm.[^1]) w związku z art. 7 ust. 3 i 4 ustawy z dnia 30 czerwca 2011 r. o wdrożeniu naziemnej telewizji cyfrowej (Dz. U. Nr 153, poz. 903 oraz z 2012 r. poz. 1456), ogłaszam informację o możliwości uzyskania koncesji na rozpowszechnianie programu telewizyjnego."
+  },
+  {
+   "type": "text",
+   "text": "I. Ogłoszenie stanowi podstawę do składania wniosków o:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "udzielenie jednej koncesji, na okres 10 lat, na rozpowszechnianie drogą rozsiewczą naziemną w sposób cyfrowy w multipleksie pierwszym programu telewizyjnego o charakterze wyspecjalizowanym filmowym. Specjalizacja będzie realizowana poprzez udział w programie głównie polskich lub różnorodnych filmów kina światowego: fabularnych, dokumentalnych, animowanych. Program zawierać będzie także inne audycje poświęcone współczesnej kinematografii oraz historii kina polskiego i światowego (sylwetki twórców, relacje z festiwali i inne), a także audycje z zakresu edukacji filmowej i medialnej,",
+   "children": []
+  },
+  {
+   "type": "text",
+   "text": "bądź"
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "dokonanie zmiany, w trybie art. 155 Kodeksu postępowania administracyjnego, jednej koncesji na rozpowszechnianie programu telewizyjnego. Zmiana będzie polegała na rozszerzeniu koncesji na rozpowszechnianie programu w sposób rozsiewczy satelitarny, poprzez przyznanie prawa do rozpowszechniania programu drogą rozsiewczą naziemną w sposób cyfrowy w multipleksie pierwszym, w okresie do daty wygaśnięcia obecnie obowiązującej koncesji. Zmiana będzie dotyczyła koncesji na program telewizyjny o charakterze wyspecjalizowanym, określonym w udzielonej koncesji, realizujący specjalizację w sposób zbieżny z treścią pkt I lit. a niniejszego ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Program będzie rozpowszechniany z zachowaniem poniższych warunków:"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Dla potrzeb udzielenia bądź dokonania zmiany koncesji użyte zostaną kanały telewizyjne przeznaczone do wykorzystania dla telewizji cyfrowej w standardzie DVB-T (standard EN 300 744 V1.6.1 2009 Europejskiego Instytutu Standardów Telekomunikacyjnych – ETSI), w pierwszym ogólnopolskim multipleksie, wymienione i szczegółowo określone w załączniku do zarządzenia nr 21 Prezesa Urzędu Komunikacji Elektronicznej z dnia 17 września 2007 r. w sprawie planu zagospodarowania częstotliwości dla zakresu 470–862 MHz (Dz. Urz. UKE Nr 27, poz. 139), zmienionego zarządzeniem nr 11 Prezesa Urzędu Komunikacji Elektronicznej z dnia 4 maja 2010 r. (Dz. Urz. UKE Nr 10, poz. 22).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Stacje nadawcze przeznaczone do rozpowszechniania programu będą zlokalizowane na poszczególnych obszarach wykorzystania częstotliwości wskazanych w powyższym planie zagospodarowania częstotliwości lub poza tymi obszarami w odległości nie większej niż 50 km od granicy obszarów. Wartości parametrów technicznych stacji nadawczych, w tym mocy promieniowanej, będą zawierały się w takich granicach, aby dopuszczalny sumaryczny poziom natężenia pola sygnałów zakłócających, wyznaczony zgodnie z obowiązującymi zaleceniami Sektora Radiokomunikacji Międzynarodowego Związku Telekomunikacyjnego – ITU-R (Porozumienie Regionalne w sprawie planowania naziemnej radiodyfuzji cyfrowej w Regionie 1 (w części Regionu 1 położonej na zachód od południka 170°E i na północ od równoleżnika 40°S, z wyłączeniem terytorium Mongolii) oraz Islamskiej Republice Iranu, w pasmach częstotliwości 174–230 MHz oraz 470–862 MHz – Genewa 2006), tzn. obliczony metodą ITU R.P1546 dla 1% czasu, 50% miejsc, na wysokości 10 m n.p.t. nie przekraczał na granicy wspólnokanałowego obszaru wykorzystania częstotliwości wartości 46 dBµV/m."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Multipleks pierwszy tworzyć będzie nie więcej niż 8 programów telewizyjnych, przy czym składowa wizji sygnału telewizyjnego nadawana będzie z wykorzystaniem algorytmu kompresji H264/AVC.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Multipleks pierwszy, poza programem, którego nadawca, w wyniku rozstrzygnięcia niniejszego postępowania, uzyska prawo do umieszczenia go w multipleksie pierwszym, będą tworzyć następujące programy:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "ust_3/tir_1",
+     "text": "programy: ESKA TV, TTV, POLO TV i ATM Rozrywka TV, rozpowszechniane na podstawie decyzji Przewodniczącego KRRiT nr DK-137/2011 z dnia 29 lipca 2011 r. oraz decyzji rezerwacyjnej Prezesa UKE nr DZC-WTV-5157-17/11 (20) z dnia 19 grudnia 2011 r. wydanej dla ESKA S.A., STAVKA Sp. z o.o., Lemon Records Sp. z o.o. i ATM Grupa S.A.;",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "ust_3/tir_2",
+     "text": "3 programy o charakterze wyspecjalizowanym, rozpowszechniane na podstawie decyzji wydanych przez Przewodniczącego KRRiT w wyniku przeprowadzonych postępowań, o których mowa w art. 34 ust. 1 ustawy o radiofonii i telewizji, przyznających prawo do umieszczenia programu w multipleksie pierwszym.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wyspecjalizowany charakter programów będzie stanowić uzupełnienie bezpłatnej oferty programowej w naziemnej telewizji cyfrowej. Postępowanie, o którym mowa powyżej, będzie przeprowadzone w terminie zapewniającym nieprzerwane wykorzystanie całkowitej przepływności multipleksu pierwszego z uwzględnieniem konieczności zawarcia umów dotyczących świadczenia usługi telekomunikacyjnej polegającej na rozsiewie naziemnym sygnału multipleksu."
+      },
+      {
+       "type": "text",
+       "text": "Uporządkowanie audiowizualnych składników multipleksu pierwszego będzie następujące:"
+      }
+     ]
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "ust_3/tir_3",
+     "text": "programy rozpowszechniane przez podmioty, które uzyskały prawo do umieszczenia programu w multipleksie pierwszym, w wyniku decyzji Przewodniczącego KRRiT nr DK-137/2011 w następującej kolejności: ESKA TV, TTV, POLO TV i ATM Rozrywka TV;",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "ust_3/tir_4",
+     "text": "pozostałe 4 programy w kolejności odpowiadającej dacie wydania koncesji (począwszy od najwcześniej wydanej koncesji).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "W wyniku rozstrzygnięcia postępowania prowadzonego wobec wniosków złożonych w związku z niniejszym ogłoszeniem podmiot, dla którego zostanie udzielona bądź zmieniona koncesja, uzyska możliwość wykorzystania nie więcej niż jednej ósmej całkowitej przepływności multipleksu pierwszego.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Program rozpowszechniany na podstawie decyzji wydanej w wyniku rozstrzygnięcia postępowania prowadzonego wobec wniosków złożonych w związku z niniejszym ogłoszeniem będzie niekodowany i udostępniany odbiorcom bezpłatnie.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Rozpoczęcie rozpowszechniania programu w sposób naziemny cyfrowy przez podmiot, który uzyskał w wyniku rozstrzygnięcia niniejszego postępowania prawo do umieszczenia programu w multipleksie pierwszym, nastąpi po wydaniu przez Prezesa UKE decyzji w sprawie dokonania rezerwacji częstotliwości w trybie art. 37 ust. 3a ustawy o radiofonii i telewizji.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Usługę telekomunikacyjną polegającą na transmisji sygnału multipleksu drogą rozsiewczą naziemną świadczyć będzie podmiot, z którym uprzednio zawarli umowy nadawcy programów: ESKA TV, TTV, POLO TV i ATM Rozrywka TV.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "Rozpoczęcie wykorzystania częstotliwości określonych w pkt I ogłoszenia w multipleksie pierwszym nastąpi w terminie, o którym mowa w art. 7 ust. 2 ustawy o wdrożeniu naziemnej telewizji cyfrowej, jednak nie później niż od dnia 28 kwietnia 2014 r. do końca ważności koncesji.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "Program będzie rozpowszechniany w sygnale ogólnopolskiego multipleksu pierwszego w standardzie DVB-T w systemie standardowej rozdzielczości.",
+   "children": [
+    {
+     "type": "text",
+     "text": "II. 1. Elementem decyzji koncesyjnej w zakresie określenia warunków programowych będzie odesłanie do zadeklarowanych przez wnioskodawcę, we wniosku o udzielenie, bądź o zmianę polegającą na rozszerzeniu koncesji, informacji programowych i związanych z tym załączników, do których przestrzegania po uzyskaniu koncesji wnioskodawca się zobowiąże. Rażące odstąpienie od zadeklarowanych warunków programowych po udzieleniu koncesji będzie stanowić przesłankę cofnięcia koncesji w trybie art. 38 ust. 1 pkt 2 ustawy o radiofonii i telewizji."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Elementem decyzji koncesyjnej w zakresie określenia warunków technicznych będzie ustalenie parametrów sygnalizacyjnych – identyfikatorów ID.",
+   "children": [
+    {
+     "type": "text",
+     "text": "III. W postępowaniu stosuje się formularze wniosków, które można uzyskać w siedzibie Krajowej Rady Radiofonii i Telewizji w Warszawie przy Skwerze Kardynała Wyszyńskiego 9, w dni robocze w godzinach 10⁰⁰–15⁰⁰. Formularze dostępne są także na stronie internetowej www.krrit.gov.pl."
+    },
+    {
+     "type": "text",
+     "text": "Wnioski można nadsyłać pocztą lub składać w kancelarii Krajowej Rady Radiofonii i Telewizji – pokój 11. Kancelaria przyjmuje wnioski w dni robocze w godz. 10⁰⁰–15⁰⁰. Wnioski należy składać w dwóch egzemplarzach."
+    },
+    {
+     "type": "text",
+     "text": "Informacje dotyczące postępowania można uzyskać pod numerem telefonu (+48) 22-597-30-89, a w sprawie parametrów technicznych stacji pod numerem telefonu (+48) 22-597-31-49."
+    },
+    {
+     "type": "text",
+     "text": "IV. Termin do składania wniosków na podstawie niniejszego ogłoszenia upływa z dniem 25 lutego 2013 r."
+    },
+    {
+     "type": "text",
+     "text": "V. Wnioski niezgodne z warunkami określonymi w pkt I w zakresie: przedmiotu postępowania, określenia charakteru programu lub warunków technicznych, a także wnioski złożone po terminie określonym w pkt IV, będą pozostawiane bez rozpoznania."
+    },
+    {
+     "type": "text",
+     "text": "VI. Niezwłocznie po wszczęciu postępowania lista wnioskodawców uczestniczących w postępowaniu opublikowana zostanie w internecie na stronie www.krrit.gov.pl oraz wywieszona w siedzibie Biura Krajowej Rady Radiofonii i Telewizji."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: J. Dworak"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 85, poz. 459, Nr 112, poz. 654, Nr 153, poz. 903 i Nr 160, poz. 963 oraz z 2012 r. poz. 1209 i 1315."
+ }
+}

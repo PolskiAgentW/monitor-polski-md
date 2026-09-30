@@ -1,0 +1,81 @@
+{
+ "eli": "MP/2021/814",
+ "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 30 sierpnia 2021 r. w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2022",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/814/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA KLIMATU I ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 sierpnia 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2022"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 291 ust. 2 oraz art. 312 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219, z późn. zm.[^2]) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "górną jednostkową stawkę kary za przekroczenie dopuszczalnego poziomu hałasu przenikającego do środowiska, za jeden dB przekroczenia, wynoszącą 71,67 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "jednostkowe stawki kar za przekroczenie dopuszczalnego poziomu hałasu, zawarte w załączniku do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Klimatu i Środowiska: M. Kurtyka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Klimatu i Środowiska z dnia 30 sierpnia 2021 r. (poz. 814)",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KAR ZA PRZEKROCZENIE DOPUSZCZALNEGO POZIOMU HAŁASU"
+    },
+    {
+     "type": "text",
+     "text": "w zł za każdy dB przekroczenia Wielkość przekroczenia w porze dnia w porze nocy"
+    },
+    {
+     "type": "text",
+     "text": "od 1 do 5 dB 12,47 15,60"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 5 do 10 dB 21,82 26,52"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 10 do 15 dB 31,21 37,45"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 15 dB 46,79 56,20"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Klimatu i Środowiska kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu i Środowiska (Dz. U. z 2021 r. poz. 941).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 1378, 1565, 2127 i 2338 oraz z 2021 r. poz. 802, 868, 1047, 1162, 1535, 1642 i 1648."
+ }
+}

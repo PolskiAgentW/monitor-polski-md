@@ -1,0 +1,187 @@
+{
+ "eli": "MP/2015/908",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 16 września 2015 r. w sprawie ustalenia wzorów informacji o sposobie głosowania stosowanej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/908/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 września 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzorów informacji o sposobie głosowania stosowanej w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 48 § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ustala się wzór:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "informacji o sposobie głosowania stosowanej w wyborach do Sejmu Rzeczypospolitej Polskiej i w wyborach do Senatu Rzeczypospolitej Polskiej w okręgu wyborczym, w którym zarejestrowano więcej niż jednego kandydata na senatora, określony w załączniku nr 1 do uchwały;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "informacji o sposobie głosowania stosowanej w wyborach do Sejmu Rzeczypospolitej Polskiej i w wyborach do Senatu Rzeczypospolitej Polskiej w okręgu wyborczym, w którym zarejestrowano tylko jednego kandydata na senatora, określony w załączniku nr 2 do uchwały.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Informacje, o których mowa w ust. 1, mogą zostać sporządzone w druku czarno-białym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 16 września 2015 r. (poz. 908) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "r WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA O SPOSOBIE GŁOSOWANIA W WYBORACH:"
+    },
+    {
+     "type": "text",
+     "text": "DO SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+    },
+    {
+     "type": "text",
+     "text": "Głosy ważne"
+    },
+    {
+     "type": "text",
+     "text": "Głosować można tylko na jedną listę kandydatów „x”"
+    },
+    {
+     "type": "text",
+     "text": ", stawiając na karcie do głosowania znak (dwie linie przecinające się w obrębie kratki) w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje się jego pierwszeństwo do otrzymania mandatu."
+    },
+    {
+     "type": "text",
+     "text": "Głosy nieważne"
+    },
+    {
+     "type": "text",
+     "text": "Przyczyną nieważności głosu jest: •"
+    },
+    {
+     "type": "text",
+     "text": "• oddanie głosu na więcej niż jedną listę, czyli postawienie znaku „x” w kratkach z lewej strony obok nazwisk • kandydatów umieszczonych na więcej niż jednej liście, nieoddanie głosu na którąkolwiek z list, czyli niepostawienie znaku „x” w żadnej kratce, postawienie w kratce przeznaczonej na oddanie głosu innego znaku niż znak „x”. DO SENATU RZECZYPOSPOLITEJ POLSKIEJ (w okręgach wyborczych, w których zarejestrowano więcej niż jednego kandydata)"
+    },
+    {
+     "type": "text",
+     "text": "Głosować można tylko na jednego kandydata „x”"
+    },
+    {
+     "type": "text",
+     "text": ", stawiając na karcie do głosowania znak (dwie linie przecinające się w obrębie kratki) z lewej strony obok nazwiska tego kandydata, na którego wyborca głosuje."
+    },
+    {
+     "type": "text",
+     "text": "Przyczyną nieważności głosu jest: •"
+    },
+    {
+     "type": "text",
+     "text": "• oddanie głosu na więcej niż jednego kandydata, czyli postawienie znaku „x” w kratkach z lewej strony obok • nazwiska więcej niż jednego kandydata, nieoddanie głosu na żadnego kandydata, czyli niepostawienie znaku „x” w żadnej kratce, postawienie w kratce przeznaczonej na oddanie głosu innego znaku niż znak „x”."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR r"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA O SPOSOBIE GŁOSOWANIA W WYBORACH:"
+    },
+    {
+     "type": "text",
+     "text": "DO SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+    },
+    {
+     "type": "text",
+     "text": "Głosy ważne"
+    },
+    {
+     "type": "text",
+     "text": "Głosować można tylko na jedną listę kandydatów „x”"
+    },
+    {
+     "type": "text",
+     "text": ", stawiając na karcie do głosowania znak (dwie linie przecinające się w obrębie kratki) w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje się jego pierwszeństwo do otrzymania mandatu."
+    },
+    {
+     "type": "text",
+     "text": "Głosy nieważne"
+    },
+    {
+     "type": "text",
+     "text": "Przyczyną nieważności głosu jest: •"
+    },
+    {
+     "type": "text",
+     "text": "• oddanie głosu na więcej niż jedną listę, czyli postawienie znaku „x” w kratkach z lewej strony obok nazwisk • kandydatów umieszczonych na więcej niż jednej liście, nieoddanie głosu na którąkolwiek z list, czyli niepostawienie znaku „x” w żadnej kratce, postawienie w kratce przeznaczonej na oddanie głosu innego znaku niż znak „x”. DO SENATU RZECZYPOSPOLITEJ POLSKIEJ (w okręgach wyborczych, w których zarejestrowano tylko jednego kandydata)"
+    },
+    {
+     "type": "text",
+     "text": "Głosując za wyborem kandydata, stawia się znak „x” (dwie linie przecinające się w obrębie kratki) w kratce oznaczonej słowem „TAK” z lewej strony obok nazwiska kandydata. Głosując przeciwko wyborowi kandydata, stawia się znak „x” w kratce oznaczonej słowem „NIE” z lewej strony obok nazwiska kandydata."
+    },
+    {
+     "type": "text",
+     "text": "Przyczyną nieważności głosu jest: • • • postawienie znaku „x” w obu kratkach, niepostawienie znaku „x” w żadnej kratce, postawienie w kratce przeznaczonej na oddanie głosu innego znaku niż znak „x”."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072 oraz z 2015 r. poz. 1043, 1044 i 1045. Głosy ważne Głosy nieważne Głosy ważne Głosy nieważne"
+ }
+}

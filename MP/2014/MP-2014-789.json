@@ -1,0 +1,868 @@
+{
+ "eli": "MP/2014/789",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 25 sierpnia 2014 r. w sprawie regulaminów terytorialnych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/789/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 sierpnia 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie regulaminów terytorialnych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 160 § 4 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się regulaminy terytorialnych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborów wójtów, burmistrzów i prezydentów miast, stanowiące załączniki nr 1 i 2 do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 25 sierpnia 2014 r. (poz. 789) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "REGULAMIN TERYTORIALNYCH KOMISJI WYBORCZYCH"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Terytorialna komisja wyborcza: wojewódzka, powiatowa, gminna (miejska) dzielnicowa, zwana dalej „komisją”, wykonuje swoje zadania określone w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.), zwanej dalej „Kodeksem wyborczym”, stosując się do wytycznych i innych uchwał oraz wyjaśnień Państwowej Komisji Wyborczej, a także wyjaśnień komisarza wyborczego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Pracami komisji kieruje przewodniczący, który w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_1/pkt_1",
+         "text": "czuwa nad wykonywaniem zadań komisji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_1/pkt_2",
+         "text": "reprezentuje komisję na zewnątrz;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_1/pkt_3",
+         "text": "ustala projekt porządku obrad komisji, zwołuje jej posiedzenia i im przewodniczy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_1/pkt_4",
+         "text": "podpisuje w imieniu komisji uchwały podjęte na posiedzeniach, w których uczestniczył, oraz pisma i inne dokumenty związane z działalnością komisji, z zastrzeżeniem spraw wymienionych w § 10.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "W razie nieobecności przewodniczącego jego obowiązki pełni zastępca przewodniczącego komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Komisja niezwłocznie po jej powołaniu zbiera się na pierwszym posiedzeniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Na pierwszym posiedzeniu komisja:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_2/pkt_1",
+         "text": "wybiera ze swego składu przewodniczącego komisji, z zastrzeżeniem art. 178 § 6 Kodeksu wyborczego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_2/pkt_2",
+         "text": "wybiera zastępcę przewodniczącego komisji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_2/pkt_3",
+         "text": "omawia zadania i ustala tryb swojej pracy oraz obowiązki i uprawnienia osób wchodzących w jej skład;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_3/ust_2/pkt_4",
+         "text": "ustala sposób niezwłocznego podania do publicznej wiadomości informacji o swoim składzie oraz o siedzibie i pełnionych dyżurach;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_3/ust_2/pkt_5",
+         "text": "ustala działania związane z przyjmowaniem do zarejestrowania zgłoszeń list kandydatów na radnych, a w przypadku gminnych (miejskich) komisji również kandydatów na wójta (burmistrza, prezydenta miasta).",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Wybory przewodniczącego komisji i oddzielnie jego zastępcy odbywają się w głosowaniu jawnym, chyba że członek komisji zażąda przeprowadzenia głosowania tajnego. W razie równej liczby głosów ponawia się głosowanie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_3/ust_4",
+       "text": "Do czasu wyboru przewodniczącego pierwszemu posiedzeniu przewodniczy najstarszy wiekiem członek komisji, z wyłączeniem komisji, w których funkcję przewodniczącego pełni sędzia wskazany przez prezesa właściwego miejscowo sądu okręgowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Komisja zapoznaje się z wytycznymi i innymi uchwałami oraz wyjaśnieniami Państwowej Komisji Wyborczej dotyczącymi wykonywania jej zadań oraz na tej podstawie sporządza plan pracy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Komisja podejmuje rozstrzygnięcia w obecności co najmniej połowy swego składu, w tym przewodniczącego lub jego zastępcy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Komisja podejmuje rozstrzygnięcia większością głosów. W razie równej liczby głosów rozstrzyga głos przewodniczącego posiedzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_5/ust_3",
+       "text": "Rozstrzygnięcia komisji mogą mieć formę odrębnych uchwał bądź wpisów do protokołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Komisja może przydzielić do wykonania określone czynności, wynikające z jej zadań, przewodniczącemu, zastępcy przewodniczącego, członkom komisji lub zespołom powoływanym w tym celu z jej składu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Członkowie komisji uczestniczą w posiedzeniach i innych pracach komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "W razie niemożności wzięcia udziału w pracach komisji jej członek jest obowiązany powiadomić o tym, w miarę możliwości jeszcze przed posiedzeniem, przewodniczącego lub jego zastępcę.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "W posiedzeniach może uczestniczyć komisarz wyborczy, dyrektor delegatury Krajowego Biura Wyborczego bądź upoważniony przez niego pracownik, a także osoby zaproszone przez przewodniczącego komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Na wniosek członka komisji posiedzenie lub jego część odbywa się wyłącznie z udziałem członków komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "Z posiedzenia komisji sporządza się protokół, w którym podaje się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_1/pkt_1",
+         "text": "porządek obrad;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_1/pkt_2",
+         "text": "imiona i nazwiska uczestników;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_1/pkt_3",
+         "text": "zwięzłą treść wystąpień;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_9/ust_1/pkt_4",
+         "text": "podjęte rozstrzygnięcia i ustalenia.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "Do protokołu dołącza się podjęte uchwały oraz inne dokumenty.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_9/ust_3",
+       "text": "Protokół podpisuje przewodniczący posiedzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_10/ust_1",
+       "text": "Wszyscy członkowie komisji obecni na posiedzeniu podpisują:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_10/ust_1/pkt_1",
+         "text": "uchwały komisji podjęte w sprawach:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_10/ust_1/pkt_1/lit_a",
+           "text": "odmowy przyjęcia zgłoszenia listy kandydatów na radnych oraz odmowy rejestracji zgłoszenia listy z powodu nieuzyskania ustawowo wymaganego poparcia wyborców (art. 430 w związku z art. 450 i art. 459 § 1 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_10/ust_1/pkt_1/lit_b",
+           "text": "wady zgłoszenia i odmowy rejestracji zgłoszenia listy kandydatów na radnych z powodu nieusunięcia wady zgłoszenia (art. 431 w związku z art. 450 i art. 459 § 1 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_10/ust_1/pkt_1/lit_c",
+           "text": "skreślenia kandydata z zarejestrowanej listy, uzupełnienia listy oraz unieważnienia rejestracji listy (art. 436 § 1–3 w związku z art. 450 i art. 459 § 1 Kodeksu wyborczego);",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_10/ust_1/pkt_2",
+         "text": "inne dokumenty:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_10/ust_1/pkt_2/lit_a",
+           "text": "protokoły rejestracji list kandydatów na radnych (art. 433 § 1 w związku z art. 450 i art. 459 § 1 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_10/ust_1/pkt_2/lit_b",
+           "text": "zestawienia wyników głosowania w okręgu wyborczym na poszczególne listy kandydatów na radnych oraz dokonany na ich podstawie podział mandatów w okręgach wyborczych (art. 442 § 1, art. 444 § 1 w związku z art. 450 i art. 459 § 1 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_10/ust_1/pkt_2/lit_c",
+           "text": "protokoły z wyborów do sejmików województw na obszarze powiatu (art. 468 § 1 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_10/ust_1/pkt_2/lit_d",
+           "text": "protokoły z wyborów do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy (art. 445 § 1 w związku z art. 450 i art. 459 § 1 Kodeksu wyborczego).",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_10/ust_2",
+       "text": "Członkowie gminnej (miejskiej) komisji obecni na posiedzeniu ponadto podpisują:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_10/ust_2/pkt_1",
+         "text": "uchwały komisji podjęte w sprawach:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_10/ust_2/pkt_1/lit_a",
+           "text": "przyznania numerów zarejestrowanym listom kandydatów (art. 410 § 7 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_10/ust_2/pkt_1/lit_b",
+           "text": "odmowy przyjęcia zgłoszenia kandydata na wójta, burmistrza, prezydenta miasta oraz odmowy rejestracji kandydata na wójta, burmistrza, prezydenta miasta z powodu nieuzyskania ustawowo wymaganego poparcia wyborców, w przypadku wyborów przedterminowych, w których wybiera się tylko wójta, burmistrza lub prezydenta miasta (art. 430 w związku z art. 470 i art. 478 § 4 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_10/ust_2/pkt_1/lit_c",
+           "text": "wady zgłoszenia i odmowy rejestracji zgłoszenia kandydata na wójta, burmistrza, prezydenta miasta z powodu nieusunięcia wady zgłoszenia (art. 431 w związku z art. 470 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_10/ust_2/pkt_1/lit_d",
+           "text": "skreślenia kandydata z listy kandydatów na wójta, burmistrza, prezydenta miasta oraz uzupełnienia listy kandydatów (art. 483 Kodeksu wyborczego);",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_10/ust_2/pkt_2",
+         "text": "inne dokumenty:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_10/ust_2/pkt_2/lit_a",
+           "text": "protokoły rejestracji kandydatów na wójta, burmistrza, prezydenta miasta (art. 480 § 2 Kodeksu wyborczego),",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_10/ust_2/pkt_2/lit_b",
+           "text": "protokoły wyników głosowania i wyniku wyborów wójta, burmistrza, prezydenta miasta (art. 488 § 2 Kodeksu wyborczego).",
+           "children": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "Uchwały komisji i dokumenty, o których mowa w § 10, oraz – stosownie do decyzji przewodniczącego komisji – inne wydawane przez komisję dokumenty opatrywane są pieczęcią komisji.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "Komisja niezwłocznie bada każdą skargę na działalność obwodowej komisji wyborczej, występuje o usunięcie stwierdzonych uchybień oraz zawiadamia pisemnie skarżącego, i w miarę potrzeby komisarza wyborczego, o rozstrzygnięciu i czynnościach podjętych w związku ze skargą.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_13/ust_1",
+       "text": "Komisja współdziała z komisarzem wyborczym oraz dyrektorem delegatury Krajowego Biura Wyborczego przy ustalaniu zasad i sposobu wykonywania zadań wyborczych oraz zapewnieniu obsługi administracyjnej komisji odpowiednio przez marszałka województwa, starostę, wójta, burmistrza, prezydenta miasta.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_13/ust_2",
+       "text": "Komisja współdziała w wykonywaniu zadań wyborczych odpowiednio z marszałkiem województwa, starostą, wójtem, burmistrzem, prezydentem miasta, w szczególności w zakresie:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_13/ust_2/pkt_1",
+         "text": "druku i podania do wiadomości publicznej urzędowych obwieszczeń wyborczych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_13/ust_2/pkt_2",
+         "text": "druku kart do głosowania oraz dostarczenia ich obwodowym komisjom wyborczym.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_13/ust_3",
+       "text": "Gminna (miejska) komisja wyborcza współdziała z wójtem, burmistrzem, prezydentem miasta również w zakresie wykonywania zadań związanych z powołaniem obwodowych komisji wyborczych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_14/ust_1",
+       "text": "Na żądanie Państwowej Komisji Wyborczej lub komisarza wyborczego oraz osób upoważnionych przez te organy wyborcze komisja udziela informacji o wykonywaniu swoich zadań i udostępnia dokumenty oraz materiały w tym zakresie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_14/ust_2",
+       "text": "Komisja może zwracać się do komisarza wyborczego lub, za jego pośrednictwem, do Państwowej Komisji Wyborczej o udzielenie wyjaśnień.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "Komisarz wyborczy wydaje członkom komisji dokument potwierdzający członkostwo i pełnioną w komisji funkcję.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "W przypadku konieczności zmiany w składzie komisji jej przewodniczący niezwłocznie powiadamia o tym komisarza wyborczego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "REGULAMIN OBWODOWYCH KOMISJI WYBORCZYCH"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Obwodowa komisja wyborcza, zwana dalej „komisją”, wykonuje swoje zadania określone w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.), zwanej dalej „Kodeksem wyborczym”, stosując się do wytycznych i innych uchwał oraz wyjaśnień Państwowej Komisji Wyborczej, a także wyjaśnień komisarza wyborczego. W razie wątpliwości komisja może się zwracać o dodatkowe wyjaśnienia do komisarza wyborczego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Pracami komisji kieruje, zwołuje jej posiedzenia i im przewodniczy przewodniczący komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "W razie nieobecności przewodniczącego jego obowiązki pełni zastępca przewodniczącego komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Komisja niezwłocznie po jej powołaniu zbiera się na pierwszym posiedzeniu, które organizuje odpowiednio wójt (burmistrz, prezydent miasta).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Na pierwszym posiedzeniu komisja:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_2/pkt_1",
+         "text": "wybiera ze swego składu przewodniczącego komisji oraz jego zastępcę, w głosowaniu jawnym, chyba że członek komisji zażąda przeprowadzenia głosowania tajnego; w razie równej liczby głosów ponawia się głosowanie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_2/pkt_2",
+         "text": "omawia swoje zadania i tryb pracy, a także obowiązki i uprawnienia osób wchodzących w jej skład;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_2/pkt_3",
+         "text": "ustala zadania do dnia wyborów, w tym związane z przygotowaniem lokalu wyborczego, odbiorem i zabezpieczeniem kart do głosowania i nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, formularzy protokołu, spisu wyborców, pieczęci komisji, obwieszczeń i innych materiałów.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Do czasu wyboru przewodniczącego pierwszemu posiedzeniu komisji przewodniczy najstarszy wiekiem członek komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_3/ust_4",
+       "text": "Komisja zapoznaje się z wytycznymi i innymi uchwałami oraz wyjaśnieniami Państwowej Komisji Wyborczej dotyczącymi przeprowadzenia głosowania i ustalenia jego wyników oraz na tej podstawie sporządza plan pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Komisja podejmuje rozstrzygnięcia w obecności co najmniej połowy swego składu, w tym przewodniczącego lub jego zastępcy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Rozstrzygnięcia komisji mogą mieć formę odrębnych uchwał bądź wpisów do protokołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Uchwały podpisuje przewodniczący posiedzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Komisja podejmuje rozstrzygnięcia większością głosów. W razie równej liczby głosów decyduje głos przewodniczącego posiedzenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Z posiedzenia komisji sporządza się protokół, w którym podaje się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_6/ust_1/pkt_1",
+         "text": "porządek obrad;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_6/ust_1/pkt_2",
+         "text": "imiona i nazwiska uczestników;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_6/ust_1/pkt_3",
+         "text": "podjęte rozstrzygnięcia i ustalenia.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Do protokołu dołącza się podjęte uchwały.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_6/ust_3",
+       "text": "Protokół podpisuje przewodniczący posiedzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Protokół głosowania w obwodzie oraz kopie protokołu głosowania w obwodzie podpisują wszystkie osoby wchodzące w skład komisji, obecne przy ich sporządzaniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Uchwały komisji lub zarządzenia jej przewodniczącego, dotyczące przebiegu głosowania bądź ustalenia jego wyników, wpisuje się do protokołu głosowania w obwodzie. W razie braku miejsca na formularzu protokołu, dołącza się je jako załączniki do protokołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Uchwały, protokoły głosowania i inne dokumenty komisji oraz wydawane karty do głosowania opatrywane są pieczęcią komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "Komisja udziela informacji o wykonywaniu swoich zadań i udostępnia dokumentację członkom Państwowej Komisji Wyborczej oraz komisarzowi wyborczemu, a także osobom przez nie upoważnionym.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "Członkowie komisji mają obowiązek uczestniczenia w szkoleniach oraz posiedzeniach i innych pracach komisji, w szczególności w przeprowadzeniu głosowania i ustaleniu jego wyników.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "W razie niemożności wzięcia udziału w pracach komisji, zwłaszcza w dniu wyborów, członek komisji powinien jak najwcześniej zawiadomić o tym przewodniczącego komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "Komisja współdziała w wykonywaniu swoich zadań odpowiednio z wójtem (burmistrzem, prezydentem miasta) w zakresie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/pkt_1",
+       "text": "przygotowania i wyposażenia lokalu wyborczego do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/pkt_2",
+       "text": "odbioru i zabezpieczenia kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a, formularzy protokołu, spisu wyborców, pieczęci komisji, obwieszczeń i innych materiałów wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/pkt_3",
+       "text": "przekazania protokołu głosowania w obwodzie do właściwej terytorialnej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/pkt_4",
+       "text": "zapewnienia środków łączności i transportu oraz pomocy niezbędnej do pracy komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "Przewodniczący wydaje członkom komisji dokument potwierdzający członkostwo i pełnioną w komisji funkcję. Dokument potwierdzający pełnienie funkcji przewodniczącego komisji wydaje zastępca przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "W przypadku konieczności dokonania zmiany w składzie komisji, jej przewodniczący niezwłocznie powiadamia o tym gminną (miejską) komisję wyborczą za pośrednictwem wójta (burmistrza, prezydenta miasta).",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072."
+ }
+}

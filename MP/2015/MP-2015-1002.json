@@ -1,0 +1,241 @@
+{
+ "eli": "MP/2015/1002",
+ "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 września 2015 r. w sprawie wykazu państw trzecich lub obszarów tych państw uznanych przez Komisję Europejską za wolne od określonych organizmów szkodliwych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1002/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ROLNICTWA I ROZWOJU WSI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 września 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu państw trzecich lub obszarów tych państw uznanych przez Komisję Europejską za wolne od określonych organizmów szkodliwych[^2]"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 4 ustawy z dnia 18 grudnia 2003 r. o ochronie roślin (Dz. U. z 2014 r. poz. 621, z późn. zm.[^3]) ogłasza się, że Komisja Europejska uznała:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "za wolny od Erwinia amylovora (Burr.) Winsl. et al. – Związek Australijski;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "za wolne od wszystkich szczepów Xanthomonas campestris patogenicznych dla roślin rodzaju Citrus:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "następujące państwa trzecie:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_2/lit_a/tir_1",
+       "text": "w Europie i w basenie Morza Śródziemnego: wszystkie uprawiające owoce cytrusowe europejskie państwa trzecie oraz Algierską Republikę Ludowo-Demokratyczną, Arabską Republikę Egiptu, Państwo Izrael, Państwo Libia, Królestwo Marokańskie, Republikę Tunezyjską i Republikę Turcji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_2/lit_a/tir_2",
+       "text": "w Afryce: Republikę Południowej Afryki, Republikę Gambii, Republikę Ghany, Republikę Gwinei, Republikę Kenii, Republikę Sudanu, Republikę Sudanu Południowego, Królestwo Suazi i Republikę Zimbabwe,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_2/lit_a/tir_3",
+       "text": "w Ameryce Środkowej, w Ameryce Południowej oraz w Regionie Karaibskim: Wspólnotę Bahamów, Belize, Republikę Chile, Republikę Kolumbii, Republikę Kostaryki, Republikę Kuby, Republikę Ekwadoru, Republikę Hondurasu, Jamajkę, Meksykańskie Stany Zjednoczone, Republikę Nikaragui, Republikę Peru, Republikę Dominikańską, Saint Lucia, Republikę Salwadoru, Republikę Surinamu i Boliwariańską Republikę Wenezueli,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "pkt_2/lit_a/tir_4",
+       "text": "w Oceanii – Nową Zelandię,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "następujące obszary państw trzecich:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_2/lit_b/tir_1",
+       "text": "w Związku Australijskim stany: Nowa Południowa Walia, Terytorium Północne, Queensland, Australia Południowa, Wiktoria oraz Australia Zachodnia,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_2/lit_b/tir_2",
+       "text": "obszar Federacyjnej Republiki Brazylii, z wyjątkiem stanów: Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Parana, Rio Grande do Sul, Roraima, Santa Catarina i São Paulo,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_2/lit_b/tir_3",
+       "text": "w Stanach Zjednoczonych Ameryki: stany Arizona, Hawaje, Kalifornia, Luizjana i Teksas, terytoria zależne Stanów Zjednoczonych: Guam, Mariany Północne, Samoa Amerykańskie i Wyspy Dziewicze Stanów Zjednoczonych oraz Portoryko,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "pkt_2/lit_b/tir_4",
+       "text": "obszar Wschodniej Republiki Urugwaju, z wyjątkiem departamentów: Salto, Rivera i terytorium departamentu Paysandú – na północ od rzeki Chapicuy;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "za wolne od Cercospora angolensis Carv. et. Mendes następujące państwa trzecie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "wszystkie uprawiające owoce cytrusowe państwa trzecie w Ameryce Północnej, w Ameryce Środkowej, w Ameryce Południowej, w Regionie Karaibskim, w Azji (z wyjątkiem Ludowej Republiki Bangladeszu i Republiki Jemeńskiej), w Europie i w Oceanii,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "wszystkie uprawiające owoce cytrusowe państwa trzecie w Afryce, z wyjątkiem: Republiki Angoli, Republiki Kamerunu, Republiki Środkowoafrykańskiej, Demokratycznej Republiki Konga, Republiki Gabońskiej, Republiki Ghany, Republiki Gwinei, Republiki Kenii, Republiki Mozambiku, Federalnej Republiki Nigerii, Republiki Ugandy, Republiki Zambii i Republiki Zimbabwe;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "za wolne od wszystkich szczepów Guignardia citricarpa Kiely patogenicznych dla roślin rodzaju Citrus:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "następujące państwa trzecie:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_4/lit_a/tir_1",
+       "text": "wszystkie uprawiające owoce cytrusowe państwa trzecie w Ameryce Północnej, z wyjątkiem Stanów Zjednoczonych Ameryki, w Ameryce Środkowej, w Ameryce Południowej, z wyjątkiem Republiki Argentyńskiej oraz Federacyjnej Republiki Brazylii, w Regionie Karaibskim i w Europie,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_4/lit_a/tir_2",
+       "text": "wszystkie uprawiające owoce cytrusowe państwa trzecie w Azji, z wyjątkiem: Ludowej Republiki Bangladeszu, Królestwa Bhutanu, Chińskiej Republiki Ludowej (również Tajwanu), Republiki Indonezji i Republiki Filipin,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_4/lit_a/tir_3",
+       "text": "wszystkie uprawiające owoce cytrusowe państwa trzecie w Afryce, z wyjątkiem: Republiki Południowej Afryki, Republiki Ghany, Republiki Kenii, Republiki Mozambiku, Królestwa Suazi, Republiki Zambii i Republiki Zimbabwe,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "pkt_4/lit_a/tir_4",
+       "text": "wszystkie uprawiające owoce cytrusowe państwa trzecie w Oceanii, z wyjątkiem: Związku Australijskiego i Republiki Vanuatu,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "następujące obszary państw trzecich:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_4/lit_b/tir_1",
+       "text": "w Republice Południowej Afryki prowincje: Prowincja Przylądkowa Zachodnia i Prowincja Przylądkowa Północna (okręgi Hartswater i Warrenton),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_4/lit_b/tir_2",
+       "text": "w Związku Australijskim stany: Australia Południowa, Australia Zachodnia i Terytorium Północne,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "pkt_4/lit_b/tir_3",
+       "text": "obszar Chińskiej Republiki Ludowej, z wyjątkiem prowincji: Syczuan, Junnan, Guangdong, Fujian i Zhejiang,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "pkt_4/lit_b/tir_4",
+       "text": "obszar Federacyjnej Republiki Brazylii, z wyjątkiem stanów: Amazonas, Bahia, Espírito Santo, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio de Janeiro, Rio Grande do Sul, Santa Catarina i Săo Paulo,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "pkt_4/lit_b/tir_5",
+       "text": "obszar Stanów Zjednoczonych Ameryki, z wyjątkiem hrabstw w stanie Floryda: Collier, Hendry oraz Polk;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "za wolne od Clavibacter michiganensis ssp. sepedonicus (Spieckerman i Kotthoff) Davis et al. – Serbię oraz Bośnię i Hercegowinę.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: T. Nalewajk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1261).",
+  "2": "Obwieszczenie:\n\n1) wdraża postanowienia następujących decyzji: a) decyzji Komisji 91/261/EWG z dnia 2 maja 1991 r. uznającej Australię za państwo wolne od Erwinia amylovora (Burr.) Winsl. et al. (Dz. Urz. WE L 126 z 22.05.1991, str. 22; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 11, str. 265), b) decyzji Komisji 2006/473/WE z dnia 5 lipca 2006 r. uznającej niektóre państwa trzecie i niektóre obszary państw trzecich za wolne od Xanthomonas campestris (wszystkie szczepy patogenetyczne dla owoców cytrusowych), Cercospora angolensis Carv. et Mendes i Guignardia citricarpa Kiely (wszystkie szczepy patogenetyczne dla owoców cytrusowych) (Dz. Urz. UE L 187 z 08.07.2006, str. 35, z późn. zm.), c) decyzji wykonawczej Komisji 2012/219/UE z dnia 24 kwietnia 2012 r. uznającej Serbię za państwo wolne od Clavibacter michiganensis ssp. sepedonicus (Spieckerman i Kotthoff) Davis et al. (Dz. Urz. UE L 114 z 26.04.2012, str. 28), d) decyzji wykonawczej Komisji (UE) 2015/1199 z dnia 17 lipca 2015 r. uznającej Bośnię i Hercegowinę za państwo wolne od Clavibacter michiganensis ssp. sepedonicus (Spieckerman i Kotthoff) Davis et al. (Dz. Urz. UE L 194 z 22.07.2015, str. 42);\n\n2) b yło poprzedzone obwieszczeniem Ministra Rolnictwa i Rozwoju Wsi z dnia 9 października 2013 r. w sprawie wykazu państw trzecich lub obszarów tych państw uznanych przez Komisję Europejską za wolne od określonych organizmów szkodliwych (M.P. poz. 888).",
+  "3": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 822, 907 i 1662 oraz z 2015 r. poz. 211."
+ }
+}

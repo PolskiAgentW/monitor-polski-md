@@ -1,0 +1,54 @@
+{
+ "eli": "MP/2018/826",
+ "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 13 sierpnia 2018 r. o wolnych stanowiskach sędziowskich",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/826/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 sierpnia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "o wolnych stanowiskach sędziowskich"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20a § 4 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2018 r. poz. 23, z późn. zm.[^1]) obwieszcza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "W sądach powszechnych zostały zwolnione:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "cztery stanowiska sędziego sądu okręgowego w Sądzie Okręgowym w Krakowie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stanowisko sędziego sądu rejonowego w Sądzie Rejonowym w Kaliszu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: Z. Ziobro"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 3, 5, 106, 138, 771, 848, 1000, 1045, 1443 i 1544."
+ }
+}

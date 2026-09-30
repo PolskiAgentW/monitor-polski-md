@@ -1,0 +1,529 @@
+{
+ "eli": "MP/2022/384",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 29 marca 2022 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie utworzenia Instytutu De Republica",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/384/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 marca 2022 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie utworzenia Instytutu De Republica"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 12 Prezesa Rady Ministrów z dnia 16 lutego 2021 r. w sprawie utworzenia Instytutu De Republica (M.P. poz. 194), z uwzględnieniem zmian wprowadzonych zarządzeniem nr 25 Prezesa Rady Ministrów z dnia 19 marca 2021 r. zmieniającym zarządzenie w sprawie utworzenia Instytutu De Republica (M.P. poz. 286).",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje § 2 zarządzenia nr 25 Prezesa Rady Ministrów z dnia 19 marca 2021 r. zmieniającego zarządzenie w sprawie utworzenia Instytutu De Republica (M.P. poz. 286), który stanowi:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 29 marca 2022 r. (poz. 384)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 12"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 16 lutego 2021 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie utworzenia Instytutu De Republica"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 13 ust. 1 i 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, z późn. zm.[^1]) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "Tworzy się jednostkę budżetową – Instytut De Republica, zwany dalej „Instytutem”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Instytut rozpocznie funkcjonowanie z dniem 22 lutego 2021 r.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Instytut jest państwową jednostką budżetową podległą Prezesowi Rady Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Szczegółowy zakres działania Instytutu określa statut, stanowiący załącznik do zarządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Dyrektor Instytutu jest dysponentem środków budżetu państwa trzeciego stopnia podległym bezpośrednio dysponentowi części 16 – Kancelaria Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[^2].",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do zarządzenia nr 12 Prezesa Rady Ministrów z dnia 16 lutego 2021 r.",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT INSTYTUTU DE REPUBLICA"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Instytut De Republica, zwany dalej „Instytutem”, jest państwową jednostką budżetową podległą Prezesowi Rady Ministrów, prowadzącą działalność wydawniczą, naukową oraz popularyzatorską.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Siedzibą Instytutu jest Warszawa.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Przedmiotem działalności Instytutu jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "prowadzenie działalności wydawniczej i dokumentacyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "współpraca ze środowiskiem naukowym, w tym szkołami wyższymi oraz instytucjami działającymi na rzecz rozwoju polskiej książki naukowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "promowanie w Polsce i za granicą polskich publikacji naukowych, w tym we współpracy z organami władzy publicznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "prowadzenie badań i analiz na tematy zlecone przez Prezesa Rady Ministrów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/pkt_5",
+       "text": "organizowanie i prowadzenie krajowych i międzynarodowych konferencji, seminariów oraz zespołów roboczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/pkt_6",
+       "text": "organizowanie projektów edukacyjnych i szkoleniowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/pkt_7",
+       "text": "prowadzenie i rozwijanie baz danych związanych z przedmiotem działalności Instytutu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Instytutem kieruje dyrektor przy pomocy nie więcej niż dwóch zastępców dyrektora oraz koordynatorów komórek organizacyjnych, o których mowa w § 9.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Dyrektor ustala zakres czynności osób, o których mowa w ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Dyrektor może upoważnić osoby, o których mowa w ust. 1, a także innych pracowników Instytutu do prowadzenia spraw w jego imieniu w ustalonym zakresie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Dyrektora i zastępców dyrektora powołuje i odwołuje Prezes Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Do zadań dyrektora należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/pkt_1",
+       "text": "kierowanie Instytutem, organizowanie i koordynowanie wykonywania zadań przez komórki organizacyjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/pkt_2",
+       "text": "reprezentowanie Instytutu na zewnątrz w sprawach dotyczących zakresu jego działania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/pkt_3",
+       "text": "zarządzanie mieniem Instytutu w sposób zapewniający realizację jego zadań statutowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/pkt_4",
+       "text": "sporządzanie planów wydawniczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/pkt_5",
+       "text": "sporządzanie i przedstawianie Prezesowi Rady Ministrów rocznych sprawozdań z wykonania zadań Instytutu i wykonania planu finansowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/pkt_6",
+       "text": "sporządzanie projektu kierunków działalności wydawniczej, naukowej i popularyzatorskiej realizowanych przez Instytut;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/pkt_7",
+       "text": "ustalenie regulaminu organizacyjnego Instytutu określającego jego wewnętrzną strukturę oraz szczegółowy zakres zadań komórek organizacyjnych oraz samodzielnych stanowisk;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_6/pkt_8",
+       "text": "[^3] ustalenie regulaminu pracy oraz innych regulaminów wewnętrznych, których wydanie przewidują odrębne przepisy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_6/pkt_9",
+       "text": "zatwierdzanie, po zaopiniowaniu przez radę naukową, regulaminu zarządzania prawami autorskimi i prawami pokrewnymi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "W Instytucie działa rada naukowa pełniąca funkcje opiniodawcze i doradcze.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Do zadań rady naukowej należy w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_7/ust_2/pkt_1",
+         "text": "opiniowanie propozycji wydawniczych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_7/ust_2/pkt_2",
+         "text": "opiniowanie wniosków w sprawie stałej współpracy Instytutu z innymi podmiotami;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_7/ust_2/pkt_3",
+         "text": "zatwierdzanie kierunków działalności naukowej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_7/ust_2/pkt_4",
+         "text": "opiniowanie regulaminu zarządzania prawami autorskimi i prawami pokrewnymi;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_7/ust_2/pkt_5",
+         "text": "opiniowanie projektu rocznego planu finansowego oraz sprawozdania z wykonania rocznego planu finansowego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_7/ust_2/pkt_6",
+         "text": "uchwalanie regulaminu rady naukowej.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Rada naukowa podejmuje decyzję zwykłą większością głosów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_7/ust_4",
+       "text": "Posiedzenia rady naukowej zwołuje dyrektor, a w przypadku jego nieobecności przewodniczący rady naukowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "W skład rady naukowej wchodzi od 10 do 30 członków.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Członków rady naukowej powołuje i odwołuje Prezes Rady Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_8/ust_3",
+       "text": "Przewodniczącego rady naukowej powołuje i odwołuje, spośród członków rady, Prezes Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "W skład Instytutu wchodzą następujące komórki organizacyjne:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_1/pkt_1",
+         "text": "Zespół Badawczy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_1/pkt_2",
+         "text": "Zespół Popularyzatorski;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_1/pkt_3",
+         "text": "Zespół Wydawniczy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_9/ust_1/pkt_4",
+         "text": "Biuro Administracyjno-Finansowe.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "W skład Instytutu wchodzi Samodzielne Stanowisko do spraw Audytu Wewnętrznego podległe bezpośrednio dyrektorowi Instytutu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "Członkom rady naukowej, za udział w pracach rady, przysługują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/pkt_1",
+       "text": "[^4] miesięczne wynagrodzenie ryczałtowe w wysokości ustalonej przez Prezesa Rady Ministrów oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/pkt_2",
+       "text": "zwrot kosztów podróży i zakwaterowania przyznawanych na zasadach określonych w przepisach dotyczących wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju, wydanych na podstawie art. 77⁵ § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z 2021 r. poz. 1162 oraz z 2022 r. poz. 655).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_11/ust_1",
+       "text": "Do osób zatrudnionych w Instytucie stosuje się przepisy dotyczące pracowników zatrudnionych w państwowych jednostkach sfery budżetowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_11/ust_2",
+       "text": "Zasady wynagradzania pracowników Instytutu regulują przepisy dotyczące wynagradzania za pracę i przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w niektórych państwowych jednostkach budżetowych wydane na podstawie art. 77³ § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1236, 1535, 1773, 1927, 1981, 2054 i 2270 oraz z 2022 r. poz. 583 i 655.",
+  "2": "Zarządzenie zostało ogłoszone w dniu 18 lutego 2021 r.",
+  "3": "W brzmieniu ustalonym przez § 1 pkt 1 zarządzenia nr 25 Prezesa Rady Ministrów z dnia 19 marca 2021 r. zmieniającego zarządzenie w sprawie utworzenia Instytutu De Republica (M.P. poz. 286), które weszło w życie z dniem 20 marca 2021 r.",
+  "4": "W brzmieniu ustalonym przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 3."
+ }
+}

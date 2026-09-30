@@ -1,0 +1,202 @@
+{
+ "eli": "MP/2022/1288",
+ "title": "Uchwała nr 273 Rady Ministrów z dnia 29 grudnia 2022 r. zmieniająca uchwałę w sprawie ustanowienia programu wieloletniego pod nazwą \"Budowa Polskiego Ośrodka Szkoleniowego Ratownictwa Morskiego w Szczecinie\"",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/1288/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 273"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 grudnia 2022 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustanowienia programu wieloletniego pod nazwą „Budowa Polskiego Ośrodka Szkoleniowego Ratownictwa Morskiego w Szczecinie”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 136 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm.[^1]) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 76 Rady Ministrów z dnia 6 kwietnia 2022 r. w sprawie ustanowienia programu wieloletniego pod nazwą „Budowa Polskiego Ośrodka Szkoleniowego Ratownictwa Morskiego w Szczecinie” (M.P. poz. 441) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 3. Wykonawcą Programu jest Politechnika Morska w Szczecinie jako inwestor.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wartość kosztorysowa Programu wynosi 73 434 tys. zł, w tym nakłady z budżetu państwa wynoszą 72 934 tys. zł, natomiast wkład własny Politechniki Morskiej w Szczecinie wynosi 500 tys. zł.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Nakłady z budżetu państwa, o których mowa w ust. 1, w poszczególnych latach wynoszą:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) 2022 r. – 2 000 tys. zł;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) 2023 r. – 14 185 tys. zł;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) 2024 r. – 28 870 tys. zł;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) 2025 r. – 27 879 tys. zł.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "użyte w różnym przypadku wyrazy „Akademia Morska” zastępuje się użytymi w odpowiednim przypadku wyrazami „Politechnika Morska”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "wyrazy „Akademii Morskich” oraz „akademii morskich” zastępuje się wyrazami „uczelni morskich”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "użyty w różnym przypadku bez bliższego określenia wyraz „Akademia” zastępuje się użytym w odpowiednim przypadku wyrazem „Politechnika”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_3/lit_d",
+       "text": "wyraz „AMS” zastępuje się wyrazem „PMS”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_3/lit_e",
+       "text": "wyraz „AM” zastępuje się wyrazem „PM”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_3/lit_f",
+       "text": "w rozdziale 7.3 tabela nr 1. Harmonogram rzeczowej i finansowej realizacji Programu w latach 2022–2025 (w tys. zł) otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Lp. Rodzaje prac 2022 2023 2024 2025 RAZEM"
+        },
+        {
+         "type": "text",
+         "text": "1 Prace przygotowawcze, projektowe, obsługa inwestor- 150 800 470 679 2 099 ska, nadzory autorskie, rozruchy"
+        },
+        {
+         "type": "text",
+         "text": "2 Roboty budowlane, w tym: 1 907 5 590 17 603 17 300 42 400"
+        },
+        {
+         "type": "text",
+         "text": "2a Budynki ośrodka – nowe i modernizowane 0 0 11 500 11 100 22 600 2b Nabrzeża 1 907 5 290 1 303 4 500 13 000 2c Poligon i stanowiska szkoleniowo-treningowe 0 300 4 800 1 700 6 800 3 Zagospodarowanie terenu, sieci i przyłącza, instalacje 443 4 795 777 1 900 7 915 zewnętrzne 4 Wyposażenie ośrodka 0 3 000 10 020 8 000 21 020"
+        },
+        {
+         "type": "text",
+         "text": "RAZEM 2 500 14 185 28 870 27 879 73 434"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_3/lit_g",
+       "text": "w rozdziale 9.2 tabela nr 3. Źródła finansowania inwestycji, zapewniające inwestorowi terminowe regulowanie zobowiązań finansowych i terminowe zakończenie inwestycji otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Szacunkowy łączny Planowane do poniesienia nakłady w tys. zł Lp. Wyszczególnienie koszt 2022 r. 2023 r. 2024 r. 2025 r."
+        },
+        {
+         "type": "text",
+         "text": "Środki z budżetu państwa 1 przekazywane przez 72 934 2 000 14 185 28 870 27 879 dysponenta części budżetowej"
+        },
+        {
+         "type": "text",
+         "text": "2 Środki z innych źródeł 500 500 0 0 0 (środki własne)"
+        },
+        {
+         "type": "text",
+         "text": "RAZEM 73 434 2 500 14 185 28 870 27 879"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem 31 grudnia 2022 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1692, 1725, 1747, 1768, 1964 i 2414."
+ }
+}

@@ -1,0 +1,297 @@
+{
+ "eli": "MP/2018/526",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 19 lutego 2018 r. w sprawie określenia liczby, trybu i warunków powoływania urzędników wyborczych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/526/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 lutego 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia liczby, trybu i warunków powoływania urzędników wyborczych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 191c § 4 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2017 r. poz. 15 i 1089 oraz z 2018 r. poz. 4, 130 i 138) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Urzędników wyborczych powołuje się w liczbie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "dwóch w gminach do 20 000 mieszkańców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "trzech w gminach do 50 000 mieszkańców",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "i po jednym na każde kolejne rozpoczęte 50 000 mieszkańców, lecz nie więcej niż 7."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W miastach będących siedzibą władz samorządu województwa lub siedzibą władz powiatu powołuje się dodatkowo jednego urzędnika wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "W m.st. Warszawie liczbę urzędników wyborczych ustala się odrębnie dla każdej z dzielnic, stosując odpowiednio przepis ust. 1. Ponadto powołuje się dwóch urzędników wyborczych wykonujących zadania o charakterze ponaddzielnicowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Dyrektor delegatury Krajowego Biura Wyborczego, zwany dalej „dyrektorem delegatury”, podaje na stronie internetowej delegatury informację o liczbie urzędników wyborczych w poszczególnych gminach na obszarze właściwości delegatury oraz o zasadach dokonywania zgłoszeń kandydatów na funkcję urzędnika wyborczego, w terminie 3 dni od dnia wejścia w życie niniejszej uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Kandydaci na urzędnika wyborczego składają zgłoszenia do dyrektora delegatury właściwej dla gminy, w której mają wykonywać funkcję.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W zgłoszeniu podaje się: imię (imiona) i nazwisko, numer ewidencyjny PESEL, adres zamieszkania (ujęcia w stałym rejestrze wyborców), wykształcenie, miejsce pracy, nazwę gminy, w której kandydat ma wykonywać funkcję, oraz informacje o ewentualnym doświadczeniu w organizacji wyborów oraz wykonywaniu innych zadań, w których niezbędna była znajomość przepisów Kodeksu wyborczego. Do zgłoszenia dołącza się kopię dyplomu potwierdzającego posiadanie wykształcenia wyższego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Pracodawca potwierdza na zgłoszeniu fakt zatrudnienia kandydata w urzędzie obsługującym: organy administracji rządowej, samorządowej lub jednostce im podległej lub przez nie nadzorowanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Dyrektor delegatury przyjmuje zgłoszenia, które otrzymał najpóźniej 21 dnia od ogłoszenia informacji, o której mowa w § 2. Zgłoszenia otrzymane po terminie pozostają w delegaturze bez rozpatrzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Wzór zgłoszenia stanowi załącznik do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Dyrektor delegatury sprawdza, czy zgłoszeni kandydaci spełniają wymogi Kodeksu wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Dyrektor delegatury niezwłocznie po dokonaniu sprawdzenia, o którym mowa w ust. 1, przekazuje Szefowi Krajowego Biura Wyborczego zgłoszenia kandydatów spełniających wymogi, wraz z załączonymi do nich dokumentami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W przypadku stwierdzenia, że liczba prawidłowo zgłoszonych kandydatów na urzędnika wyborczego w danej jednostce samorządu terytorialnego jest niewystarczająca, dyrektor delegatury występuje do wojewody, marszałka województwa, starostów i wójtów (burmistrzów, prezydentów miast) o zgłoszenie, w terminie 7 dni, brakujących kandydatów. Do zgłoszenia tych kandydatów dołącza się ich pisemną zgodę na kandydowanie. Zgłoszenie obejmuje dane, o których mowa w § 3 ust. 2 zdanie pierwsze. Do zgłoszeń tych § 3 ust. 2 zdanie drugie i § 4 stosuje się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Jeżeli mimo upływu terminu, o którym mowa w ust. 1, liczba kandydatów wciąż jest niewystarczająca, Szef Krajowego Biura Wyborczego występuje do ministra właściwego do spraw administracji o podjęcie działań umożliwiających powołanie właściwej liczby urzędników wyborczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Przy powoływaniu urzędników wyborczych Szef Krajowego Biura Wyborczego bierze pod uwagę doświadczenie kandydata w organizacji wyborów oraz wykonywanie innych zadań, w których niezbędna była znajomość przepisów Kodeksu wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Kandydat zgłoszony do pełnienia funkcji urzędnika wyborczego w danej gminie może zostać powołany, za jego zgodą, do pełnienia tej funkcji w innej gminie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Na 60 dni przed zakończeniem kadencji urzędnika wyborczego oraz w przypadku wygaśnięcia funkcji urzędnika wyborczego dyrektor delegatury ogłasza na stronie internetowej delegatury informację o możliwości zgłaszania kandydatur na urzędnika wyborczego. Do powoływania urzędników wyborczych w takim przypadku przepisy § 3–6 stosuje się odpowiednio.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W przypadku gdy zakończenie kadencji urzędnika wyborczego przypada w wynikającym z ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy okresie, w którym mają zostać zarządzone wybory, lub funkcja urzędnika wyborczego wygaśnie po zarządzeniu wyborów, § 2 i § 3 nie stosuje się, a zgłoszenie kandydatów, o którym mowa w § 5 ust. 1, powinno nastąpić w terminie 2 dni.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 19 lutego 2018 r. (poz. 526)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZór ZgłoSZENia KaNDyData Na UrZęDNiKa WyBorcZEgo"
+    },
+    {
+     "type": "text",
+     "text": "Ja, niżej podpisany(-na):"
+    },
+    {
+     "type": "text",
+     "text": "Imię Drugie imię Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "Adres zamieszkania Województwo Powiat Gmina (ujęcia wyborców) w stałym rejestrze"
+    },
+    {
+     "type": "text",
+     "text": "Miejscowość Kod - Ulica pocztowy"
+    },
+    {
+     "type": "text",
+     "text": "Nr domu Nr lokalu Poczta Numer ewidencyjny PESEL*"
+    },
+    {
+     "type": "text",
+     "text": "Wykształcenie Miejsce pracy"
+    },
+    {
+     "type": "text",
+     "text": "zgłaszam swoją kandydaturę na funkcję urzędnika wyborczego w:"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa gminy (miasta)"
+    },
+    {
+     "type": "text",
+     "text": "Informuję o doświadczeniu w organizacji wyborów oraz wykonywaniu innych zadań, w których niezbędna była znajomość przepisów Kodeksu wyborczego:"
+    },
+    {
+     "type": "text",
+     "text": "..........................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "..........................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "..........................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "..........................................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "Jednocześnie oświadczam, że spełniam wymogi określone w art. 191b ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2017 r. poz. 15, z późn. zm.)"
+    },
+    {
+     "type": "text",
+     "text": "..........................................., dnia .............................. ...................................................."
+    },
+    {
+     "type": "text",
+     "text": "Potwierdzam zatrudnienie kandydata w urzędzie obsługującym: organy administracji rządowej, samorządowej lub jednostce im podległej lub przez nie nadzorowanej."
+    },
+    {
+     "type": "text",
+     "text": "(miejscowość) (podpis kandydata) (pieczęć nagłówkowa) (pieczęć i podpis pracodawcy)"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,319 @@
+{
+ "eli": "MP/2020/1121",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 16 listopada 2020 r. w sprawie włączenia kwalifikacji rynkowej \"Audytowanie dokumentów cyfrowych w oparciu o standard WCAG (Web Content Accessibility Guidelines)\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.13",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1121/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 listopada 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji rynkowej „Audytowanie dokumentów cyfrowych w oparciu o standard WCAG (Web Content Accessibility Guidelines)” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji rynkowej „Audytowanie dokumentów cyfrowych w oparciu o standard WCAG (Web Content Accessibility Guidelines)” do Zintegro­ wanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: wz. M. Zagórski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji zdnia 16 listopada 2020r. (poz.1121)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „AUDYTOWANIE DOKUMENTÓW CYFROWYCH W OPARCIU O STANDARD WCAG (WEB CONTENT ACCESSIBILITY GUIDELINES)” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Audytowanie dokumentów cyfrowych w oparciu o standard WCAG (Web Content Accessibility Guidelines)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nazwa dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okres ważności dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Okres ważności dokumentu: 5 lat. W sytuacji przedłużania ważności certyfikatu stosuje się metodę analizy dowodów i deklaracji połączoną z rozmową z komisją. Przedłużenie ważności certyfikatu wymaga przedstawienia dowodów na samodzielne przeprowadzenie audytu minimum 10 dokumentów cyfrowych w oparciu o standard WCAG w ciągu 5 lat od czasu uzyskania certyfikatu. Przeprowadzana jest również rozmowa z komisją walidacyjną dotycząca przedstawionych dowodów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację w zakresie „Audytowanie dokumentów cyfrowych w oparciu o standard WCAG (Web Content Accessibility Guidelines)” samodzielnie posłu­ guje się automatycznymi walidatorami dostępności dokumentów cyfrowych i programami asystującymi oraz przeprowadza proces audytowania dokumentów cyfrowych. Wyko­ rzystuje znajomość standardu WCAG, weryfikując dostępność dokumentów wygenerowanych z programów źródłowych i dokumentów PDF. W badaniu dokumentów stosuje zasady i przepisy w zakresie dostępności. Na tej podstawie sporządza raport końcowy, w którym zawarte są m.in. rozwiązania dotyczące usuwania problemów z dostępnością cyfrową. Przetwarza informacje. Realizuje zadania na samodzielnym stanowisku, w tym układa plan audytu dokumentu cyfrowego i przygotowuje raport końcowy. Osoba sprawdzająca dokumenty przekazuje innym osobom z zespołu lub instytucji (w której pełni swoją funkcję) zalecenia dotyczące koniecznych zmian w opracowywanych doku­ mentach. Wykazuje się umiejętnością analizy potrzeb i oczekiwań osób, do których kierowane są dokumenty cyfrowe."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Omawianie zagadnień związanych ze standardem WCAG oraz przepisami i dobrymi praktykami w obszarze audytowania dokumentów cyfrowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "01",
+     "path": "ust_01",
+     "text": "Omawia specyfikę – charakteryzuje potrzeby użytkowników w zakresie dostępności cyfrowej (m.in. osób z niepełnosprawnością wzroku, słuchu, intelektualną oraz dostępności dokumentów osób starszych), cyfrowych – wymienia narzędzia wspierające dostęp użytkowników o indywidualnych potrzebach do dokumentów cyfrowych,",
+     "children": [
+      {
+       "type": "text",
+       "text": "– wymienia i definiuje różne formy dostępności treści (m.in. audiodeskrypcja, język migowy, napisy, audionapisy, audiowstęp),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia skutki błędów z dostępem do dokumentu wśród osób z niepełnosprawnościami."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "02",
+     "path": "ust_02",
+     "text": "Omawia standard – przytacza kryteria sukcesu standardu WCAG w zakresie percepcji, funkcjonalności, zrozumiałości i rzetelności, dostępności WCAG – wskazuje kryteria sukcesu WCAG odnoszące się do dokumentów cyfrowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "03",
+     "path": "ust_03",
+     "text": "Omawia przepisy – wymienia przepisy w zakresie dostępnych dokumentów cyfrowych uwzględniających specyfikę instytucji, w której prowadzony jest audyt, w zakresie dostępności – wskazuje dobre praktyki i zalecenia dla poszczególnych rynków objętych regulacjami związanymi z obowiązkiem zapewnienia dostępności do­ dokumentów cyfrowych kumentów cyfrowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zestaw 2. Rozróżnianie edytorów tekstu i programów DTP oraz posługiwanie się programami asystującymi, automatycznymi walidatorami dostępności dokumentów cyfrowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "01",
+     "path": "ust_01",
+     "text": "Rozróżnia edytory – charakteryzuje edytory tekstowe i programy DTP pozwalające na tworzenie dostępnych dokumentów cyfrowych, tekstowe i programy DTP – charakteryzuje narzędzia edytorów tekstowych i programów DTP pozwalających na tworzenie elementów strukturalnych dokumentów cyfrowych,",
+     "children": [
+      {
+       "type": "text",
+       "text": "– charakteryzuje narzędzia do dodawania treści alternatywnych do elementów graficznych w edytorach tekstowych i programach DTP."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "02",
+     "path": "ust_02",
+     "text": "Stosuje programy – posługuje się programami asystującymi wykorzystywanymi w różnych systemach operacyjnych desktopowych i mobilnych, asystujące – posługuje się skrótami klawiaturowymi programów czytających pozwalającymi na sprawniejszą nawigację w dokumencie cyfrowym,",
+     "children": [
+      {
+       "type": "text",
+       "text": "– stosuje gesty nawigacyjne aplikacji czytających ekran na urządzeniach mobilnych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "03",
+     "path": "ust_03",
+     "text": "Używa programów – wymienia przykłady automatycznych narzędzi walidujących dostępność dokumentów cyfrowych, umożliwiających – używa automatycznych narzędzi walidujących dostępność dokumentów cyfrowych, zbadanie dostępności – interpretuje błędy wskazywane przez automatyczne narzędzia sprawdzające dostępność, dokumentu cyfrowego – kontroluje poprawność kontrastu treści i tła, korzystając z manualnych programów sprawdzających minimalny współczynnik kontrastu zgodny ze standardem WCAG.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zestaw 3. Sprawdzanie zgodności dokumentów cyfrowych ze standardem WCAG"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "01",
+     "path": "ust_01",
+     "text": "Weryfikuje – sprawdza obecność elementów strukturalnych dokumentów, dostępność dokumentów – sprawdza poprawność elementów strukturalnych dokumentów, w edytorach tekstowych – sprawdza obecność treści alternatywnych dla wszystkich elementów graficznych przenoszących znaczenie w warstwie semantycznej, tj. ilustracji, i programach DTP zdjęć, map, wykresów lub schematów,",
+     "children": [
+      {
+       "type": "text",
+       "text": "– potwierdza jednoznaczność treści odnośników,"
+      },
+      {
+       "type": "text",
+       "text": "– stwierdza adekwatność użycia typografii oraz czytelność informacji,"
+      },
+      {
+       "type": "text",
+       "text": "– stwierdza poprawność wykorzystania elementów formularzy osadzonych w dokumencie cyfrowym,"
+      },
+      {
+       "type": "text",
+       "text": "– sprawdza poprawność wyróżnienia treści,"
+      },
+      {
+       "type": "text",
+       "text": "– określa poziom zrozumienia treści w programach do mierzenia mglistości tekstu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "02",
+     "path": "ust_02",
+     "text": "Weryfikuje – sprawdza poprawność i istnienie struktury znaczników oraz ich zawartość, dostępność dokumentów – sprawdza poprawność ustawienia języka dokumentu i treści, w edytorach plików PDF – potwierdza poprawność tytułu w metadanych dokumentu,",
+     "children": [
+      {
+       "type": "text",
+       "text": "– sprawdza elementy strukturalne, ich integralność oraz zasadność użycia,"
+      },
+      {
+       "type": "text",
+       "text": "– sprawdza zgodność odczytu treści przez program czytający z treścią widoczną na ekranie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "03",
+     "path": "ust_03",
+     "text": "Przygotowuje raport – wskazuje błędy i proponuje sposoby ich poprawy w edytorach tekstowych, zgodności dokumentu – wskazuje błędy i proponuje sposoby ich poprawy w programach DTP, cyfrowego ze standardem WCAG – wskazuje błędy i proponuje sposoby ich poprawy w edytorach plików PDF.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dotyczące walidacji i podmiotów przeprowadzających walidację",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1.Metody"
+      },
+      {
+       "type": "text",
+       "text": "Do weryfikacji efektów uczenia się stosuje się wyłącznie metody: test teoretyczny, zadanie praktyczne (studium przypadku) uzupełnione rozmową z komisją."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Zasoby kadrowe"
+      },
+      {
+       "type": "text",
+       "text": "Komisja walidacyjna składa się z minimum 2 członków, którzy spełniają następujące wymagania:"
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący komisji: – posiada minimum pięcioletnie doświadczenie na stanowisku specjalisty ds. dostępności cyfrowej lub równoważnym związanym z dostępnością do­ kumentów cyfrowych, – przeprowadził minimum 40 audytów dostępności dokumentów cyfrowych."
+      },
+      {
+       "type": "text",
+       "text": "Wszyscy członkowie komisji walidacyjnej muszą: – posiadać udokumentowane trzyletnie doświadczenie (minimum 100 godzin szkoleniowych) w prowadzeniu szkoleń z zakre­ su dostępności cyfrowej, – posiadać udokumentowane doświadczenie w zakresie tworzenia dostępnych dokumentów cyfrowych w ostatnich 3 latach przed powołaniem na człon­ ka komisji."
+      },
+      {
+       "type": "text",
+       "text": "1.3. Warunki organizacyjne i materialne niezbędne do prawidłowego prowadzenia walidacji"
+      },
+      {
+       "type": "text",
+       "text": "Weryfikacja efektów uczenia się składa się z dwóch części: teoretycznej i praktycznej. Część teoretyczna obejmuje test teoretyczny. Może być przeprowadzana elektronicznie (np. na platformie internetowej wyposażonej w moduł egzaminacyjny) lub w wersji papierowej. Każda wersja testu teoretycznego musi spełniać standardy dostępności. Warun­ kiem przystąpienia do części praktycznej jest pozytywna weryfikacja części teoretycznej walidacji. Praktyczną część walidacji przeprowadza się w pomieszczeniu wyposażonym w stanowisko komputerowe z systemem operacyjnym (np. Windows) i co najmniej dwie przeglądarki internetowe (np. Firefox i Chrome) oraz dostęp do połączenia internetowe­ go i słuchawki. Niezbędny jest również dostęp do edytorów tekstu (m.in. Word, Writer), programów DTP (m.in. Adobe InDesign), programów do edycji PDF (m.in. Adobe Acrobat Pro) oraz czytnika ekranu (program, z którego korzystają osoby niewidome i niedowidzące). Praktyczna część walidacji obejmuje wykonanie zadań praktycznych. Roz­ mowa z komisją walidacyjną odbywa się tuż po wykonaniu zadań praktycznych i je uzupełnia. Pomieszczenie egzaminacyjne powinno być dostępne dla osób niepełnospraw­ nych, a platforma internetowa spełniać obowiązujący standard WCAG na poziomie AA."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etapy identyfikowania i dokumentowania.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymagań dotyczących etapów identyfikowania i dokumentowania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716)."
+ }
+}

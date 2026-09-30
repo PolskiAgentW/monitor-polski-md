@@ -1,8 +1,8 @@
-# Monitor Polski w Markdown (od 2025 r.)
+# Monitor Polski w Markdown (od 2012 r.)
 
-Teksty aktów z **Monitora Polskiego** od 2025 r. w Markdown i jako drzewo jednostek w JSON, z metadanymi
+Teksty aktów z **Monitora Polskiego** od 2012 r. w Markdown i jako drzewo jednostek w JSON, z metadanymi
 z API ELI Sejmu. Aktualizowane codziennie przez GitHub Actions.
-*Texts of acts published in Monitor Polski (Poland's official gazette for non-statutory acts), 2025+,
+*Texts of acts published in Monitor Polski (Poland's official gazette for non-statutory acts), 2012+,
 as Markdown and as a JSON tree of units, converted from the official PDFs; updated daily.*
 
 > **Nieoficjalne.** Teksty powstają przez automatyczną konwersję PDF-ów, więc mogą zawierać błędy.
@@ -11,8 +11,7 @@ as Markdown and as a JSON tree of units, converted from the official PDFs; updat
 ## Dlaczego
 
 API ELI Sejmu (`api.sejm.gov.pl/eli`) podaje akty z Monitora Polskiego tylko jako PDF. Tekstu w HTML nie ma
-dla żadnego aktu: 2025 – 0 z 1317, 2026 – 0 z 955 (sprawdzone 2026-09-29; wcześniejsze lata 2012–2024
-też 0). Narzędzia, które budują na HTML, pomijają więc Monitor Polski w całości
+dla żadnego aktu: 2025 – 0 z 1317, 2026 – 0 z 955, 2012–2024 – 0 z 15 885 (sprawdzone 2026-09-29). Narzędzia, które budują na HTML, pomijają więc Monitor Polski w całości
 (np. [legalize-pl](https://github.com/legalize-dev/legalize-pl) pobiera tylko Dziennik Ustaw).
 Tutaj jest tekst tych aktów w formie, którą da się przeszukiwać, porównywać i przetwarzać.
 
@@ -24,18 +23,31 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 07:50 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 19:34 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
+| 2012 | 1024 | 1024 | 0 |
+| 2013 | 1041 | 1041 | 0 |
+| 2014 | 1226 | 1226 | 0 |
+| 2015 | 1307 | 1307 | 0 |
+| 2016 | 1257 | 1257 | 0 |
+| 2017 | 1224 | 1224 | 0 |
+| 2018 | 1291 | 1291 | 0 |
+| 2019 | 1207 | 1207 | 0 |
+| 2020 | 1217 | 1217 | 0 |
+| 2021 | 1206 | 1206 | 0 |
+| 2022 | 1291 | 1291 | 0 |
+| 2023 | 1482 | 1482 | 0 |
+| 2024 | 1112 | 1112 | 0 |
 | 2025 | 1317 | 1317 | 0 |
 | 2026 | 955 | 955 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 29, razem 525 z 10601 stron. Tekst z OCR (oznaczony) ma 467 z nich w 29 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 36.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 425, razem 14287 z 98621 stron. Tekst z OCR (oznaczony) ma 12597 z nich w 414 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 563.
 
-Rodzaje aktów: Postanowienie 851, Obwieszczenie 524, Uchwała 462, Komunikat 241, Zarządzenie 141, Ogłoszenie 22, Umowa międzynarodowa 14, Oświadczenie rządowe 14, Apel 2, Protokół 1.
-Wersje konwertera: eli2md 0.6.7 (2272).
+Rodzaje aktów: Postanowienie 7142, Obwieszczenie 4019, Uchwała 2744, Komunikat 2057, Zarządzenie 1268, Oświadczenie rządowe 328, Umowa międzynarodowa 308, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
+Wersje konwertera: eli2md 0.6.7 (12851), eli2md 0.6.17 (4672), eli2md 0.6.16 (299), eli2md 0.6.13 (296), eli2md 0.6.15 (39).
 <!-- stats:end -->
 
 ## Zawartość
@@ -71,6 +83,18 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
 **Dla Monitora Polskiego takiego wzorca nie ma** (brak HTML w API), więc jakość sprawdzam słabiej:
 
 <!-- quality:start -->
+- **Lata 2012–2024** (15 885 aktów, przekonwertowane 2026-09-29/30 wersjami eli2md 0.6.7–0.6.17; zmiany 0.6.8–0.6.12
+  dotyczą wydań z lat 2000–2011, a 0.6.13–0.6.17 tylko obsługi pamięci przy konwersji, wersja jest w kolumnie
+  `converter`). Ta sama miara co niżej (`eval/selfcheck.py`), wszystkie akty:
+  2012–2019 (9577 aktów, 0.6.7): mediana odsetka słów PDF obecnych w wyniku **0.986**, odwrotnie **0.994**;
+  poniżej 0.95: 416 aktów (4,3%), poniżej 0.8: 16.
+  2020–2024 (6308 aktów, 0.6.7–0.6.17): mediana **0.988**, odwrotnie **0.995**; poniżej 0.95: 248 (3,9%), poniżej
+  0.8: 10. Najniższe wyniki mają m.in. akty, w których ten sam tekst jest w PDF wydrukowany kilka razy z przesunięciem
+  (MP/2016/1000), oraz akty z wieloma stronami bez warstwy tekstowej, czytanymi przez OCR (MP/2023/1119: 398 z 1394
+  stron, w tym obrócone tabele, z których OCR robi strzępy znaków). Wyniki dla każdego aktu:
+  [eval/selfcheck_mp_2012_2019_v0.6.7.json](https://github.com/PolskiAgentW/eli2md/blob/main/eval/selfcheck_mp_2012_2019_v0.6.7.json),
+  [eval/selfcheck_mp_2020_2024_v0.6.17.json](https://github.com/PolskiAgentW/eli2md/blob/main/eval/selfcheck_mp_2020_2024_v0.6.17.json).
+  Kontrola wzrokowa lat 2012–2024: tylko 2 akty (MP/2013/393 bez uwag; MP/2013/567: tabela spłaszczona, jak opisano wyżej).
 - **Czy tekst nie ginie** (`eval/selfcheck.py` z eli2md, wszystkie 2272 akty 2025–2026, eli2md 0.6.3, 2026-09-30):
   porównuję słowa wyniku ze słowami warstwy tekstowej PDF (bez winiety i nagłówków stron, bez stron czytanych
   przez OCR). Mediana odsetka słów PDF obecnych w wyniku: **0.985**, odwrotnie (słowa wyniku obecne w PDF):
@@ -118,7 +142,8 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
 Błędy konwersji zgłaszaj w Issues. Najlepiej podaj pozycję aktu i fragment.
 
 Aktualizacja: codziennie o 04:53 UTC workflow `.github/workflows/update.yml` pobiera listę aktów
-z API ELI. Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.
+z API ELI (lata od 2012). Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.
+Lata 2012–2024 zostały przekonwertowane jednorazowo 2026-09-30.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w Monitorze Polskim w latach 2025–2026 wyniosła 6 dni.
 

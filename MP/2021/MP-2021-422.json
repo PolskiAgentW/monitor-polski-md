@@ -1,0 +1,94 @@
+{
+ "eli": "MP/2021/422",
+ "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 30 kwietnia 2021 r. w sprawie ośrodka szkoleniowego upoważnionego do prowadzenia szkoleń w zakresie oceny polowej materiału siewnego, oceny cech zewnętrznych, pobierania prób materiału siewnego oraz oceny laboratoryjnej materiału siewnego",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/422/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ROLNICTWA I ROZWOJU WSI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 kwietnia 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ośrodka szkoleniowego upoważnionego do prowadzenia szkoleń w zakresie oceny polowej materiału siewnego, oceny cech zewnętrznych, pobierania prób materiału siewnego oraz oceny laboratoryjnej materiału siewnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 83 ust. 2 ustawy z dnia 9 listopada 2012 r. o nasiennictwie (Dz. U. z 2021 r. poz. 129) ogłasza się, że:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Polska Izba Nasienna, ul. Kochanowskiego 7/603, 60-845 Poznań, została upoważniona do prowadzenia szkoleń podstawowych i doskonalących w zakresie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "pobierania prób materiału siewnego (z wyjątkiem sadzeniaków ziemniaka),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "oceny polowej materiału siewnego (z wyłączeniem sadzeniaków ziemniaka) roślin rolniczych i warzywnych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "oceny laboratoryjnej materiału siewnego roślin: zbożowych, bobowatych grubonasiennych, bobowatych drobnonasiennych, wiechlinowatych i innych gatunków w grupie roślin pastewnych;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Instytut Hodowli i Aklimatyzacji Roślin – Państwowy Instytutu Badawczy, 05-870 Błonie, Radzików, Oddział w Boninie, 76-009 Bonin, Bonin 3, został upoważniony do prowadzenia szkoleń w zakresie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "oceny polowej materiału siewnego ziemniaka,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "pobierania prób sadzeniaków ziemniaka do oceny laboratoryjnej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "oceny cech zewnętrznych sadzeniaków ziemniaka.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: wz. S. Giżyński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928)."
+ }
+}

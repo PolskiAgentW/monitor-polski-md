@@ -1,0 +1,496 @@
+{
+ "eli": "MP/2015/293",
+ "title": "Informacja Państwowej Komisji Wyborczej z dnia 17 marca 2015 r. o utworzonych komitetach wyborczych w związku z wyborami Prezydenta Rzeczypospolitej Polskiej, zarządzonymi na dzień 10 maja 2015 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/293/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "INFORMACJA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 marca 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "o utworzonych komitetach wyborczych w związku z wyborami Prezydenta Rzeczypospolitej Polskiej, zarządzonymi na dzień 10 maja 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "Państwowa Komisja Wyborcza, na podstawie art. 302 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]), informuje, iż w związku z wyborami Prezydenta Rzeczypospolitej Polskiej, zarządzonymi na dzień 10 maja 2015 r., przyjęła zawiadomienia o utworzeniu następujących komitetów wyborczych:"
+  },
+  {
+   "type": "tir",
+   "num": "1",
+   "path": "tir_1",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Janusza Korwin-Mikke",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Łukasz Wróbel"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Damian Mikołajczewski"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Jeziorowa 48 lok. 14, 03-991 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "2",
+   "path": "tir_2",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Janusza Palikota",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Łukasz Piłasiewicz"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Bogusława Maria Życińska"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Archidiakońska 9, 20-113 Lublin;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "3",
+   "path": "tir_3",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Andrzeja Dudy",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Krzysztof Sobolewski"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Teresa Schubert"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Nowogrodzka 84/86, 02-018 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "4",
+   "path": "tir_4",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Pawła Kukiza",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Tomasz Dominik Ochocki"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Piotr Tomasz Midziak"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Tysiąclecia 2, 59-300 Lubin;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "5",
+   "path": "tir_5",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Bronisława Komorowskiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Sławomir Piotr Rybicki"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Łukasz Pawełek"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Żurawia 2, 00-503 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "6",
+   "path": "tir_6",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Mariana Janusza Kowalskiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Witold Sławomir Tumanowicz"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Michał Jan Wawer"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Noakowskiego 10 lok. 12, 00-666 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "7",
+   "path": "tir_7",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Magdaleny Ogórek",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Katarzyna Bernadetta Olszewska"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Ewa Popowska"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: Aleje Ujazdowskie 20 lok. 6, 00-478 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "8",
+   "path": "tir_8",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Adama Jarubasa",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Mariusz Władysław Miętus"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Elżbieta Kurowska"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Wiertnicza 138, 02-952 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "9",
+   "path": "tir_9",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Jacka Wilka",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Tomasz Zbigniew Dalecki"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Janusz Leszek Żurek"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Wilcza 29A lok. 4A, 00-544 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "10",
+   "path": "tir_10",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Grzegorza Michała Brauna",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Rafał Tomasz Mossakowski"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Katarzyna Jolanta Wróblewska"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Krzywe Koło 30 lok. 3, 00-270 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "11",
+   "path": "tir_11",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Anny Grodzkiej",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Marek Matczak"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Michał Ryszard Wszołek"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Marszałkowska 1 lok. 160, 00-624 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "12",
+   "path": "tir_12",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Adama Słomki",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Zygmunt Marian Miernik"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Włodzimierz Antoni Raszewski"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Mieszka I 15 lok. 75, 40-877 Katowice;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "13",
+   "path": "tir_13",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Dariusza Tomasza Łaska",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Przemysław Piotr Jóźwiak"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Aneta Izabela Jabłońska"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Limanowskiego 59 lok. 33a/34, 91-329 Łódź;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "14",
+   "path": "tir_14",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Iwony Piątek",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Małgorzata Janina Seroka"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Magdalena Joanna Konus"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Noakowskiego 16 lok. 39, 00-666 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "15",
+   "path": "tir_15",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Zenona Ryszarda Nowaka",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Zbigniew Marek Sadocha"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Lidia Albina Gmiter"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Mickiewicza 20, 05-816 Michałowice;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "16",
+   "path": "tir_16",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Włodzimierza Juliana Korab-Karpowicza",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Witold Włodzimierz Adamczyk"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Wojciech Edward Leszczyński"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Olszówka 72B, 43-300 Bielsko-Biała;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "17",
+   "path": "tir_17",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Wandy Nowickiej",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Marek Bogdan Poniatowski"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Dariusz Roman Nowak"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Żurawia 47 lok. 122, 00-680 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "18",
+   "path": "tir_18",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Pawła Tanajno",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Adam Maria Kotucha"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Janusz Karol Lewandowski"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Nowolipki 14 lok. 130, 01-019 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "19",
+   "path": "tir_19",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Kornela Andrzeja Morawieckiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Aleksander Zbigniew Zioło"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Andrzej Sebastian Banach"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Barlickiego 28, 50-324 Wrocław;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "20",
+   "path": "tir_20",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Zdzisława Kazimierza Jankowskiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Włodzimierz Rynkowski"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Agnieszka Rynkowska"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Jaworzyńska 8 lok. 10, 00-634 Warszawa;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "21",
+   "path": "tir_21",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Stanisława Majdańskiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Zdzisław Kazimierz Leśniak"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Małgorzata Kawecka"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Piłsudskiego 8 lok. 10, 35-074 Rzeszów;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "22",
+   "path": "tir_22",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Balli Marzec",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Alojzy Marzec"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Dominik Marzec"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Klonowa 2, 05-077 Warszawa-Wesoła;"
+    }
+   ]
+  },
+  {
+   "type": "tir",
+   "num": "23",
+   "path": "tir_23",
+   "text": "Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej Artura Głowackiego",
+   "children": [
+    {
+     "type": "text",
+     "text": "Pełnomocnik wyborczy: Kazimierz Franciszek Wojciechowski"
+    },
+    {
+     "type": "text",
+     "text": "Pełnomocnik finansowy: Magdalena Teresa Robecka"
+    },
+    {
+     "type": "text",
+     "text": "Siedziba komitetu: ul. Wojska Polskiego 69 lok. 1, 78-600 Wałcz."
+    },
+    {
+     "type": "text",
+     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072."
+ }
+}

@@ -1,0 +1,552 @@
+{
+ "eli": "MP/2013/1038",
+ "title": "Zarządzenie Nr 96 Prezesa Rady Ministrów z dnia 23 grudnia 2013 r. w sprawie nadania statutu Ministerstwu Infrastruktury i Rozwoju",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/1038/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 96"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 grudnia 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Infrastruktury i Rozwoju"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Infrastruktury i Rozwoju nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 stycznia 2014 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do zarządzenia nr 96 Prezesa Rady Ministrów z dnia 23 grudnia 2013 r. (poz. 1038)"
+  },
+  {
+   "type": "text",
+   "text": "STATUT MINISTERSTWA INFRASTRUKTURY I ROZWOJU"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwo Infrastruktury i Rozwoju, zwane dalej „Ministerstwem”, zapewnia obsługę Ministra Infrastruktury i Rozwoju, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 27 listopada 2013 r. w sprawie szczegółowego zakresu działania Ministra Infrastruktury i Rozwoju (Dz. U. poz. 1391), do spraw:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "budownictwa, lokalnego planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "gospodarki morskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "rozwoju regionalnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "transportu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W skład Ministerstwa wchodzi Gabinet Polityczny Ministra oraz następujące komórki organizacyjne:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Departament Budownictwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Departament Budżetu Infrastruktury;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "Departament Budżetu Rozwoju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "Departament Certyfikacji i Desygnacji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "Departament Dróg i Autostrad;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "Departament Europejskiego Funduszu Społecznego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "Departament Gospodarki Nieruchomościami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "Departament Informacji i Promocji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "Departament Informatyki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "Departament Konkurencyjności i Innowacyjności;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "Departament Kontroli;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "Departament Koordynacji Strategii i Polityk Rozwoju;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "Departament Koordynacji Wdrażania Funduszy Unii Europejskiej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "Departament Lotnictwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_2/pkt_15",
+     "text": "Departament Mieszkalnictwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_2/pkt_16",
+     "text": "Departament Orzecznictwa I;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_2/pkt_17",
+     "text": "Departament Orzecznictwa II;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_2/pkt_18",
+     "text": "Departament Polityki Przestrzennej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_2/pkt_19",
+     "text": "Departament Prawny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_2/pkt_20",
+     "text": "Departament Programów Infrastrukturalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_2/pkt_21",
+     "text": "Departament Programów Pomocowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_2/pkt_22",
+     "text": "Departament Programów Ponadregionalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "par_2/pkt_23",
+     "text": "Departament Rozwoju Cyfrowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "par_2/pkt_24",
+     "text": "Departament Systemu Wdrażania Programów Infrastrukturalnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "par_2/pkt_25",
+     "text": "Departament Transportu Drogowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "par_2/pkt_26",
+     "text": "Departament Transportu Kolejowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "par_2/pkt_27",
+     "text": "Departament Transportu Morskiego i Bezpieczeństwa Żeglugi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "par_2/pkt_28",
+     "text": "Departament Wsparcia Projektów Partnerstwa Publiczno-Prywatnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "29",
+     "path": "par_2/pkt_29",
+     "text": "Departament Współpracy Międzynarodowej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "30",
+     "path": "par_2/pkt_30",
+     "text": "Departament Współpracy Terytorialnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "31",
+     "path": "par_2/pkt_31",
+     "text": "Biuro Administracyjne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "32",
+     "path": "par_2/pkt_32",
+     "text": "Biuro Dyrektora Generalnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "33",
+     "path": "par_2/pkt_33",
+     "text": "Biuro Ministra;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "34",
+     "path": "par_2/pkt_34",
+     "text": "Biuro Zarządzania Kryzysowego i Ochrony Informacji Niejawnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "35",
+     "path": "par_2/pkt_35",
+     "text": "Biuro Zarządzania Zasobami Ludzkimi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "36",
+     "path": "par_2/pkt_36",
+     "text": "Sekretariat Krajowej Rady Bezpieczeństwa Ruchu Drogowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Bezpośredni nadzór nad Gabinetem Politycznym Ministra sprawuje Minister.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Obsługę zadań Ministra zapewniają w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "w zakresie działu administracji rządowej budownictwo, lokalne planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_1/lit_a",
+       "text": "Departament Budownictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_1/lit_b",
+       "text": "Departament Gospodarki Nieruchomościami,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_4/pkt_1/lit_c",
+       "text": "Departament Mieszkalnictwa;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "w zakresie działu administracji rządowej gospodarka morska – Departament Transportu Morskiego i Bezpieczeństwa Żeglugi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "w zakresie działu administracji rządowej rozwój regionalny:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_3/lit_a",
+       "text": "Departament Certyfikacji i Desygnacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_3/lit_b",
+       "text": "Departament Europejskiego Funduszu Społecznego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_4/pkt_3/lit_c",
+       "text": "Departament Informacji i Promocji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_4/pkt_3/lit_d",
+       "text": "Departament Konkurencyjności i Innowacyjności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_4/pkt_3/lit_e",
+       "text": "Departament Koordynacji Strategii i Polityki Rozwoju,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_4/pkt_3/lit_f",
+       "text": "Departament Koordynacji Wdrażania Funduszy Unii Europejskiej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_4/pkt_3/lit_g",
+       "text": "Departament Polityki Przestrzennej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_4/pkt_3/lit_h",
+       "text": "Departament Programów Infrastrukturalnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_4/pkt_3/lit_i",
+       "text": "Departament Programów Pomocowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_4/pkt_3/lit_j",
+       "text": "Departament Programów Ponadregionalnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_4/pkt_3/lit_k",
+       "text": "Departament Rozwoju Cyfrowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "l",
+       "path": "par_4/pkt_3/lit_l",
+       "text": "Departament Systemu Wdrażania Programów Infrastrukturalnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "par_4/pkt_3/lit_m",
+       "text": "Departament Wsparcia Projektów Partnerstwa Publiczno-Prywatnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "n",
+       "path": "par_4/pkt_3/lit_n",
+       "text": "Departament Współpracy Międzynarodowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "o",
+       "path": "par_4/pkt_3/lit_o",
+       "text": "Departament Współpracy Terytorialnej;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "w zakresie działu administracji rządowej transport:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_4/lit_a",
+       "text": "Departament Dróg i Autostrad,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_4/lit_b",
+       "text": "Departament Lotnictwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_4/pkt_4/lit_c",
+       "text": "Departament Transportu Drogowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_4/pkt_4/lit_d",
+       "text": "Departament Transportu Kolejowego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,93 @@
+{
+ "eli": "MP/2017/84",
+ "title": "Obwieszczenie Ministra Zdrowia z dnia 23 stycznia 2017 r. w sprawie wykazu dokumentów potwierdzających znajomość języka polskiego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/84/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ZDROWIA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 stycznia 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu dokumentów potwierdzających znajomość języka polskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ust. 2b ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2017 r. poz. 125) ogłasza się wykaz dokumentów potwierdzających znajomość języka polskiego przez osobę, która posiada obywatelstwo polskie albo obywatelstwo państwa członkowskiego Unii Europejskiej, stanowiący załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: K. Radziwiłł"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Zdrowia z dnia 23 stycznia 2017 r. (poz. 84)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ DOKUMENTÓW POTWIERDZAJĄCYCH ZNAJOMOŚĆ JĘZYKA POLSKIEGO PRZEZ OSOBĘ, KTÓRA POSIADA OBYWATELSTWO POLSKIE ALBO OBYWATELSTWO PAŃSTWA CZŁONKOWSKIEGO UNII EUROPEJSKIEJ:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "świadectwo dojrzałości uzyskane po złożeniu egzaminu w języku polskim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "świadectwo złożenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "Lekarskiego Egzaminu Państwowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "Lekarskiego Egzaminu Końcowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "Lekarsko-Dentystycznego Egzaminu Państwowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_2/lit_d",
+       "text": "Lekarsko-Dentystycznego Egzaminu Końcowego",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– uzyskane po złożeniu, z wynikiem pozytywnym, egzaminu w języku polskim."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. poz. 1908)."
+ }
+}

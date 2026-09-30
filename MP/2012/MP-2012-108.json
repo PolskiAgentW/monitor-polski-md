@@ -1,0 +1,1666 @@
+{
+ "eli": "MP/2012/108",
+ "title": "Obwieszczenie Ministra Gospodarki z dnia 16 lutego 2012 r. w sprawie raportu oceniającego postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/108/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA GOSPODARKI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 lutego 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie raportu oceniającego postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9n ust. 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z późn. zm.[^2]) ogłasza się raport oceniający postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej, stanowiący załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki: W. Pawlak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Gospodarki z dnia 16 lutego 2012 r. (poz. 108)",
+   "body": [
+    {
+     "type": "text",
+     "text": "RAPORT OCENIAJĄCY POSTĘP OSIĄGNIĘTY W ZWIĘKSZANIU UDZIAŁU ENERGII ELEKTRYCZNEJ WYTWARZANEJ W WYSOKOSPRAWNEJ KOGENERACJI W CAŁKOWITEJ KRAJOWEJ PRODUKCJI ENERGII ELEKTRYCZNEJ Spis Treści"
+    },
+    {
+     "type": "text",
+     "text": "Wstęp .......................................................................................................................................... 4"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rozwój wysokosprawnej kogeneracji w Polsce ................................................................. 5",
+     "children": [
+      {
+       "type": "text",
+       "text": "Moc zainstalowana elektryczna i produkcja energii elektrycznej w wysokosprawnej kogeneracji ............................................................................................................................. 5"
+      },
+      {
+       "type": "text",
+       "text": "Moc cieplna osiągalna i produkcja ciepła .............................................................................. 6"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Transpozycja Dyrektywy 2004/8/WE ................................................................................ 8",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Potencjał państwa w zakresie zwiększania udziału wysokosprawnej kogeneracji ............ 9",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prognoza zapotrzebowania na ciepło ..................................................................................... 9"
+      },
+      {
+       "type": "text",
+       "text": "Prognoza zapotrzebowania na energię elektryczną .............................................................. 11"
+      },
+      {
+       "type": "text",
+       "text": "Potencjał techniczny kogeneracji ......................................................................................... 12"
+      },
+      {
+       "type": "text",
+       "text": "Potencjał ekonomiczny wysokosprawnej kogeneracji ......................................................... 13"
+      },
+      {
+       "type": "text",
+       "text": "Oszczędności energii pierwotnej .......................................................................................... 16"
+      },
+      {
+       "type": "text",
+       "text": "Redukcja emisji CO₂ ............................................................................................................ 17"
+      },
+      {
+       "type": "text",
+       "text": "Paliwa dla wysokosprawnej kogeneracji .............................................................................. 18"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Identyfikacja barier rozwoju wysokosprawnej kogeneracji ............................................. 21",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bariery ekonomiczne ............................................................................................................ 22"
+      },
+      {
+       "type": "text",
+       "text": "Bariery związane z emisjami ................................................................................................ 22"
+      },
+      {
+       "type": "text",
+       "text": "Bariery rozwoju systemów ciepłowniczych ......................................................................... 23"
+      },
+      {
+       "type": "text",
+       "text": "Bariery społeczne ................................................................................................................. 23"
+      },
+      {
+       "type": "text",
+       "text": "Ograniczenia zasobów paliwowych ..................................................................................... 23"
+      },
+      {
+       "type": "text",
+       "text": "Procedury administracyjne ................................................................................................... 23"
+      },
+      {
+       "type": "text",
+       "text": "Środki mające na celu likwidację przeszkód ........................................................................ 24"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Gwarancje pochodzenia i systemy wsparcia .................................................................... 25",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wsparcie nowych inwestycji ................................................................................................ 25"
+      },
+      {
+       "type": "text",
+       "text": "Mechanizm wsparcia przedsiębiorców wytwarzających energię elektryczną w wysokosprawnej kogeneracji ............................................................................................... 25"
+      },
+      {
+       "type": "text",
+       "text": "System świadectw pochodzenia ........................................................................................... 26"
+      },
+      {
+       "type": "text",
+       "text": "Ilość umorzonych świadectw ............................................................................................... 27"
+      },
+      {
+       "type": "text",
+       "text": "Wysokość opłat zastępczych ................................................................................................ 28"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Konkluzje i Wnioski ......................................................................................................... 30",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Arkusze danych ................................................................................................................ 31 Wstęp",
+     "children": [
+      {
+       "type": "text",
+       "text": "Raport oceniający postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej, zwany dalej „Raportem”, jest sporządzany na podstawie art. 9n ust. 1 ustawy z dnia 10 kwietnia 1997 r. — Prawo energetyczne (Dz. U. z 2006 r. Nr 89, poz. 625, z poźn. zm.), zwanej dalej „ustawą - Prawo energetyczne”, w związku z art. 9 ustawy z dnia 12 stycznia 2007 r. o zmianie ustawy — Prawo energetyczne, ustawy — Prawo ochrony środowiska oraz ustawy o systemie oceny zgodności (Dz. U. Nr 21, poz. 124), zwanej dalej „ustawą z 2007 r.”."
+      },
+      {
+       "type": "text",
+       "text": "Raport wykonano zgodnie z wytycznymi zawartymi w art. 6 ust. 3 i art. 10 ust. 2 dyrektywy 2004/8/WE Parlamentu Europejskiego i Rady z dnia 11 lutego 2004 r. w sprawie promowania kogeneracji w oparciu o zapotrzebowanie na ciepło użytkowe na rynku wewnętrznym oraz zmieniającej dyrektywę 92/42/EWG (Dz. Urz. UE L 52 z 21.02.2004, str. 50, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 12, t. 3, str. 3), zwanej dalej „Dyrektywą 2004/8/WE”, oraz w oparciu o wzór sprawozdania załączony do Wniosku Komisji Europejskiej z dnia 11 kwietnia 2011 r. (ENER/PL/jma/pc/S-309427) o sprawozdanie zgodnie z art. 6 ust. 3 i art. 10 ust. 2 Dyrektywy 2004/8/WE."
+      },
+      {
+       "type": "text",
+       "text": "Struktura Raportu wynika z ww. wzoru sprawozdania, określającego główne rozdziały Raportu oraz pytania pomocnicze, na które państwa członkowskie powinny odpowiedzieć w krajowych raportach."
+      },
+      {
+       "type": "text",
+       "text": "Z uwagi na fakt, iż wraz z wejściem systemu wsparcia dla wysokosprawnej kogeneracji w 2007 r. zaczęto w statystyce rozróżniać wysokosprawną kogenerację od wytwarzania w skojarzeniu, dane dotyczące wysokosprawnej kogeneracji obejmują lata 2007 – 2010."
+      },
+      {
+       "type": "text",
+       "text": "Prognozy zawarte w Raporcie zostały opracowane na podstawie modelu prognostycznego MARKAL."
+      },
+      {
+       "type": "text",
+       "text": "Do sporządzenia Raportu wykorzystano m.in.:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "opracowanie p.n. Analiza danych na potrzeby „Raportu oceniającego postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej” wykonane na zlecenie Ministerstwa Gospodarki przez Konsorcjum, pod przewodnictwem spółki EU-Consult sp. z o.o. (Gdańsk, wrzesień 2011 r.);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "opracowania statystyczne Agencji Rynku Energii SA, zwanej dalej „ARE”, oraz Głównego Urzędu Statystycznego, zwanego dalej „GUS”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "„Program rozwoju w Polsce kogeneracji” wykonany przez Uczelniane Centrum Badawcze Energetyki i Ochrony Środowiska Politechniki Warszawskiej (Warszawa, listopad 2010 r.);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_7/pkt_4",
+       "text": "„Sprawozdanie roczne z działalności Prezesa Urzędu Regulacji Energetyki w 2010 r.” - Urząd Regulacji Energetyki, zwany dalej „URE”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_7/pkt_5",
+       "text": "raporty krajowe Prezesa Urzędu Regulacji Energetyki – URE;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_7/pkt_6",
+       "text": "„Bilans Zasobów Kopalin i Wód Podziemnych w Polsce (wg stanu na 31 XII 2010 r.)” - Państwowy Instytut Geologiczny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rozwój wysokosprawnej kogeneracji w Polsce",
+     "children": [
+      {
+       "type": "text",
+       "text": "Moc zainstalowana elektryczna i produkcja energii elektrycznej w wysokosprawnej kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "Całkowita moc zainstalowana w krajowym systemie elektroenergetycznym, zwanym dalej „KSE”, na koniec 2010 r. wyniosła 35 949 MW. Zdecydowana większość mocy (91 %) zainstalowana jest w elektrowniach i elektrociepłowniach, zwanych dalej „EC”, zawodowych (w 2010 r. – 32 757 MW). Zarówno wielkości mocy zainstalowanych, jak i udziały poszczególnych typów elektrowni nie zmieniły się znacząco w ostatnich 15 latach. Od 1995 r. całkowita moc zainstalowana zmieniła się o 2 789 MW (czyli niespełna o 8 %). Niewielkie przyrosty mocy związane z oddaniem nowych bloków energetycznych zostały skompensowane przez wycofywanie przestarzałych jednostek. Moc zainstalowana w elektrociepłowniach zawodowych na koniec 2006 r. wyniosła 5 810 MW, a na koniec 2010 r. – 6 163 MW."
+      },
+      {
+       "type": "text",
+       "text": "Całkowita produkcja energii elektrycznej w Polsce w 2010 r. wyniosła 15 7658 GWh, co oznacza zmianę spadkowego trendu zapoczątkowanego w 2008 r., a wynikającego ze światowego kryzysu gospodarczego. Proporcje udziałów poszczególnych typów elektrowni są podobne jak dla mocy zainstalowanej. Jeszcze bardziej widoczna jest dominacja elektrowni cieplnych w grupie elektrowni zawodowych, wynikająca z niskiej wartości czasu wykorzystania mocy zainstalowanej w pozostałych elektrowniach zawodowych, głównie elektrowniach wodnych."
+      },
+      {
+       "type": "text",
+       "text": "Produkcja energii elektrycznej w kogeneracji w elektrowniach i elektrociepłowniach zawodowych i przemysłowych w 2005 r. wyniosła 21 702 GWh (13,8 % całkowitej produkcji energii elektrycznej brutto). W 2010 r. produkcja ta osiągnęła wielkość 26 377 GWh (16,7 % całkowitej produkcji energii elektrycznej brutto), co oznacza wzrost o 21,5 % w stosunku do wartości z 2005 r. Natomiast biorąc pod uwagę okres 2007-2010 należy zauważyć, że dopiero 2010 r., przyniósł zauważalny wzrost w zakresie wytwarzania energii elektrycznej w kogeneracji w grupie elektrowni cieplnych, EC zawodowych i EC przemysłowych."
+      },
+      {
+       "type": "text",
+       "text": "Produkcja energii elektrycznej w kogeneracji w Polsce realizowana jest w znaczącym udziale w elektrociepłowniach zawodowych (w roku 2010 – 18 832 GWh, 71,4 % produkcji ogółem w kogeneracji). Elektrociepłownie przemysłowe (o mocy powyżej 0,5 MW) w 2010 r. w kogeneracji wytworzyły 5 753 GWh energii elektrycznej (21,8 % produkcji ogółem w kogeneracji). Nieznaczny udział (6,8 % w 2010 r.) w produkcji w kogeneracji mają elektrownie zawodowe."
+      },
+      {
+       "type": "text",
+       "text": "Dane o produkcji energii elektrycznej w wysokosprawnej kogeneracji obejmują nie tylko grupę wytwórców zawodowych i przemysłowych, ale również jednostki niezależne, których produkcja została zakwalifikowana do wysokosprawnej kogeneracji. Całkowita produkcja energii elektrycznej w wysokosprawnej kogeneracji w 2010 r. wyniosła 26 892 GWh. Oznacza to wzrost rocznej produkcji w stosunku do 2007 r. o 1 961 GWh (7,9 %). Jednocześnie udział energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w całkowitej ilości energii elektrycznej brutto wyprodukowanej w Polsce wzrósł z 15,6 % w 2007 r. do 17,1 % w 2010 r."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Moce i produkcja energii elektrycznej w jednostkach wysokosprawnej kogeneracji [Dane ARE]"
+      },
+      {
+       "type": "text",
+       "text": "Moce i produkcja energii elektrycznej w jednostki 2007 r. 2008 r. 2009 r. 2010 r. jednostkach wysokosprawnej kogeneracji miary"
+      },
+      {
+       "type": "text",
+       "text": "Moc osiągalna elektryczna MW 27 453,0 28 865,5 27 758,5 30 007,5 Produkcja energii elektrycznej, w tym: GWh 24 931,0 25 012,7 24 775,2 26 891,8"
+      },
+      {
+       "type": "text",
+       "text": "jednostek o mocy poniżej 1 MW GWh 4,5 7,6 14,2 9,7"
+      },
+      {
+       "type": "text",
+       "text": "jednostek opalanych gazem GWh 2 513,9 2 892,2 2 875,7 2 990,8"
+      },
+      {
+       "type": "text",
+       "text": "pozostałych jednostek GWh 22 412,6 22 112,9 21 885,3 23 891,3"
+      },
+      {
+       "type": "text",
+       "text": "Produkcja energii elektrycznej ogółem GWh 159 348,0 155 494,0 151 720,0 157 658,0"
+      },
+      {
+       "type": "text",
+       "text": "Udział energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej % 15,6 % 16,1 % 16,3 % 17,1 %"
+      },
+      {
+       "type": "text",
+       "text": "Podobne udziały mają poszczególne typy źródeł w produkcji energii elektrycznej w wysokosprawnej kogeneracji. Elektrociepłownie zawodowe w 2010 r. wytworzyły 18 608 GWh, co stanowi 69,2 % całkowitej produkcji w wysokosprawnej kogeneracji. W 2007 r. produkcja w EC zawodowych zakwalifikowana jako energia elektryczna z wysokosprawnej kogeneracji wyniosła 17 580 GWh, co oznacza, że w 2010 r. była o 5,8 % wyższa w porównaniu z 2007 r. Wielkości produkcji energii elektrycznej w wysokosprawnej kogeneracji w Polsce przedstawiono w tabeli poniżej. Z uwagi na brak danych dla wysokosprawnej kogeneracji w latach 1995-2006, nie zostały one ujęte w analizie."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Produkcja energii elektrycznej w wysokosprawnej kogeneracji w Polsce w latach 2007-2010 [GWh], [Dane ARE]"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 2007 r. 2008 r. 2009 r. 2010 r."
+      },
+      {
+       "type": "text",
+       "text": "ogółem produkcja w wysokosprawnej kogeneracji, w tym 24 931 25 013 24 775 26 892"
+      },
+      {
+       "type": "text",
+       "text": "Udział energii elektrycznej wytworzonej w kogeneracji opalanej gazem lub o mocy elektrycznej źródła poniżej 1 MW w całkowitej ilości energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji wynosił 12 % w latach 2008-2010. Pozostałe 88 % wytworzyły inne jednostki kogeneracyjne, głównie oparte na węglu kamiennym. Udział kogeneracji wykorzystującej metan z kopalni i gaz uzyskany z biomasy nie przekroczył 1 % w 2010 r., uzyskując zaledwie 101,1 GWh."
+      },
+      {
+       "type": "text",
+       "text": "Moc cieplna osiągalna i produkcja ciepła"
+      },
+      {
+       "type": "text",
+       "text": "Sumaryczna moc cieplna osiągalna w ciepłowniach przedsiębiorstw dystrybucyjnoprodukcyjnych oraz elektrowniach i elektrociepłowniach zawodowych w 2006 r. wynosiła 50 712 MW, z czego 25 656 MW zainstalowane było w ciepłowniach, natomiast 25 056 MW w elektrowniach i EC. W 2009 r. moc cieplna osiągalna wynosiła 43 673 MW (ciepłownie – 15 205 MW, elektrownie i EC – 28 467 MW). Struktura ta pokazuje, że udział mocy cieplnej elektrowni i elektrociepłowni znacząco się zwiększa, przy dość wyraźnych ubytkach mocy w ciepłowniach przedsiębiorstw dystrybucyjno-produkcyjnych."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Moce i produkcja ciepła w jednostkach wysokosprawnej kogeneracji [Dane ARE]"
+      },
+      {
+       "type": "text",
+       "text": "Moce i produkcja ciepła w jednostkach jednostki 2007 r. 2008 r. 2009 r. 2010 r. wysokosprawnej kogeneracji miary"
+      },
+      {
+       "type": "text",
+       "text": "Moc osiągalna cieplna MW 21 375,9 20 808,2 20 477,5 25 340,8"
+      },
+      {
+       "type": "text",
+       "text": "Produkcja ciepła TJ 224 297,7 223 960,9 224 802,5 251 960,5"
+      },
+      {
+       "type": "text",
+       "text": "W 2010 r. z wysokosprawnej kogeneracji uzyskano 251 960,5 TJ ciepła. W latach 2007- 2009 produkcja ciepła w wysokosprawnej kogeneracji oscylowała w granicach 224 000 TJ, co stanowiło 43-44 % całkowitej produkcji, podczas gdy w 2010 r. udział ten osiągnął wartość 48,5 %. Znaczący udział (w 2010 r. – 68,6 %) w produkcji ciepła w wysokosprawnej kogeneracji mają elektrociepłownie zawodowe, które razem z elektrowniami w 2010 r. wytworzyły w kogeneracji 172 857 TJ (dla porównania – w 2009 r. – 166 424 TJ)."
+      },
+      {
+       "type": "text",
+       "text": "Produkcja ciepła poza układami wysokosprawnej kogeneracji (w elektrowniach cieplnych zawodowych, elektrociepłowniach zawodowych i elektrociepłowniach przemysłowych) wynosiła w 2010 r. 47 556 TJ, a dla porównania jeszcze w 2007 r. produkcja ciepła poza wysokosprawną kogeneracją wynosiła 83 093 TJ. Zmniejszenie produkcji ciepła poza układami wysokosprawnej kogeneracji spowodowane jest modernizacjami starzejących się układów ciepłowniczych w kierunku wysokosprawnej kogeneracji lub ich wyłączeniami."
+      },
+      {
+       "type": "text",
+       "text": "Prognoza produkcji ciepła w poprzednim Raporcie dla EC systemowych, obejmujących elektrownie i elektrociepłownie zawodowe, przewidywała produkcję w 2010 r. w tych jednostkach na poziomie 209 000 TJ. W 2010 r. produkcja ta wyniosła 232 880 TJ. Prognoza produkcji ciepła w Raporcie dla EC przemysłowych przewidywała wzrost produkcji ze 125 000 TJ w 2005 r. do 147 000 TJ w 2010 r.. Produkcja ciepła w EC przemysłowych w 2006 r. wyniosła 145 867 TJ, a do 2010 r. zanotowała znaczący spadek do wartości 126 659 TJ. Trzeba jednak podkreślić, że po 2008 r. część EC przemysłowych została zaliczona do EC zawodowych i niezależnych, powiększając produkcję w tej drugiej grupie. Należy uznać, że prognozowano zbliżoną do rzeczywistej łączną produkcję ciepła w EC systemowych i EC przemysłowych."
+      },
+      {
+       "type": "text",
+       "text": "Ciepłownie niezawodowe 95 359 96 624 117 989 109 060 77 997"
+      },
+      {
+       "type": "text",
+       "text": "Ciepłownie zawodowe 97 713 91 863 77 907 76 069 81 806"
+      },
+      {
+       "type": "text",
+       "text": "Ciepło wyprodukowane w wysokosprawnej kogeneracji przeznaczane jest głównie (w ok. 60 %) do ogrzewania budynków i przygotowania ciepłej wody użytkowej, zwanej dalej „CWU”. Resztę ciepła wykorzystuje się w przemysłowych procesach technologicznych (ok. 40 %). Pozostałe sposoby wykorzystania ciepła z wysokosprawnej kogeneracji można uznać za pomijalnie małe. Poniższa tabela przedstawia sposób wykorzystania ciepła użytkowego z jednostek wysokosprawnej kogeneracji objętych świadectwami pochodzenia z kogeneracji."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 5. Sposoby wykorzystania ciepła z wysokosprawnej kogeneracji w latach 2007-2010 [Dane URE]"
+      },
+      {
+       "type": "text",
+       "text": "Ogrzewanie W przemysłowych W obiektach Wtórne budynków i procesach wykorzystujących wytwarzanie Inne Łącznie Rok przygotowanie ciepłej ciepło do produkcji wytworzenia wody użytkowej technologicznych rolnej i zwierzęcej chłodu"
+      },
+      {
+       "type": "text",
+       "text": "[GJ] II połowa 2007 r. 68 694 082,15 41 133 118,07 153 434,72 57 774,00 0,00 110 038 408,95"
+      },
+      {
+       "type": "text",
+       "text": "2008 r. 75 688 539,52 48 268 114,98 480 377,54 b.d. 0,00 124 437 032,04"
+      },
+      {
+       "type": "text",
+       "text": "2009 r. 142 148 348,34 105 535 738,92 1 000 057,24 72 676,00 29,00 248 756 849,50"
+      },
+      {
+       "type": "text",
+       "text": "2010 r. 145 911 101,20 94 117 893,45 723 547,29 63 567,67 b.d. 240 816 109,61"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Transpozycja Dyrektywy 2004/8/WE",
+     "children": [
+      {
+       "type": "text",
+       "text": "Aktualny stan prawny w zakresie wspierania i promowania kogeneracji jest wynikiem implementacji Dyrektywy 2004/8/WE, która zobowiązuje państwa członkowskie do wprowadzenia w życie przepisów ustawowych, wykonawczych i administracyjnych, niezbędnych do jej implementacji najpóźniej do 21 lutego 2006 r."
+      },
+      {
+       "type": "text",
+       "text": "Dyrektywa 2004/8/WE została wdrożona ustawą z 2007 r., która weszła w życie w dniu 24 lutego 2007 r. Przepisy wdrażające nowy mechanizm promowania energii pozyskanej w wysokosprawnej kogeneracji oraz sprzyjające rozwojowi produkcji energii elektrycznej w wysokosprawnej kogeneracji zaczęły obowiązywać w dniu 1 lipca 2007 r."
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z wytycznymi Dyrektywy 2004/8/WE wprowadzono i usankcjonowano system certyfikacji energii elektrycznej pozyskiwanej w procesie wysokosprawnej kogeneracji oraz ustalono obowiązkowy charakter tej certyfikacji względem podmiotów ubiegających się o system wsparcia. Nałożony został również obowiązek zakupu świadectw lub wniesienia opłaty zastępczej na podmioty sprzedające energię elektryczną odbiorcom końcowym, proporcjonalnie do ilości dostarczanej przez nich tej energii."
+      },
+      {
+       "type": "text",
+       "text": "Postanowienia ustawy z 2007 r. zostały rozwinięte w rozporządzeniu Ministra Gospodarki z dnia 26 września 2007 r. w sprawie sposobu obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowego zakresu obowiązku uzyskania i przedstawienia do umorzenia tych świadectw, uiszczania opłaty zastępczej i obowiązku potwierdzania danych dotyczących ilości energii elektrycznej wytworzonej w wysokosprawnej kogeneracji (Dz. U. Nr 185, poz. 1314), zwanym dalej „rozporządzeniem z 2007 r.”. Przepisy rozporządzenia z 2007 r., oprócz implementacji Dyrektywy 2004/8/WE, wdrażały decyzję Komisji 2007/74/WE z dnia 21 grudnia 2006 r., ustanawiającą zharmonizowane wartości referencyjne wydajności dla rozdzielonej produkcji energii elektrycznej i ciepła zgodnie z dyrektywą 2004/8/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 32 z 6.02.2007, str. 183)"
+      },
+      {
+       "type": "text",
+       "text": "Rozporządzenie z 2007 r. zostało zastąpione rozporządzeniem Ministra Gospodarki z dnia 26 lipca 2011 r. w sprawie sposobu obliczania danych podanych we wniosku o wydanie świadectwa pochodzenia z kogeneracji oraz szczegółowego obowiązku uzyskania i przedstawienia do umorzenia tych świadectw, uiszczania opłaty zastępczej i obowiązku potwierdzania danych dotyczących ilości energii elektrycznej (Dz. U. Nr 176, poz. 1052), zwanym dalej „rozporządzeniem z 2011 r.”, które implementuje decyzję Komisji 2008/952/UE z dnia 19 listopada 2008 r. w sprawie określenia szczegółowych wytycznych dotyczących wykonania i stosowania przepisów załącznika II do dyrektywy 2004/8/WE Parlamentu Europejskiego i Rady (Dz. Urz. UE L 338 z 17.12.2008, str. 55)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Potencjał państwa w zakresie zwiększania udziału wysokosprawnej kogeneracji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prognoza zapotrzebowania na ciepło"
+      },
+      {
+       "type": "text",
+       "text": "Poniżej przedstawiono prognozę zapotrzebowania na ciepło w sektorze gospodarstw domowych opartą na prognozach liczby ludności, powierzchni użytkowej mieszkań oraz wskaźników zużycia ciepła do przygotowania CWU i wskaźnika standardu cieplnego. Założono, że wskaźnik liczby osób w jednym mieszkaniu będzie spadał od wartości 2,87 (w 2009 r.) do 2,54 w 2020 r. Ponadto przyjęto, że wskaźnik przeciętnej powierzchni użytkowej jednego mieszkania wzrośnie z 70,5 m² w 2009 r. do 73,2 m² w 2020 r. Średni wskaźnik standardu cieplnego dla 2005 r. w gospodarstwach domowych wynosi 120 kWh/m². Założono, że do 2020 r. wskaźnik ten będzie ulegał poprawie (redukcji) o 1 % r/r."
+      },
+      {
+       "type": "text",
+       "text": "Wskaźnik zużycia ciepła do przygotowania CWU w 2005 r. oszacowano na 2 090 kJ/osobę. Wskaźnik ten nie będzie ulegał znaczącym zmianom do 2020 r. Należy przypuszczać, że zwiększona efektywność wykorzystania CWU może być kompensowana większym zużyciem ciepłej wody na osobę."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 6. Prognoza zapotrzebowania na ciepło użytkowe w sektorze „gospodarstwa domowe”"
+      },
+      {
+       "type": "text",
+       "text": "W kolejnej tabeli przedstawiono prognozę zapotrzebowania na ciepło użytkowe w przemyśle i usługach. Prognozę tą opracowano na podstawie zmian PKB przy uwzględnieniu trendu zmian energochłonności pierwotnej PKB."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 7. Prognoza zapotrzebowania na ciepło użytkowe w przemyśle i usługach [na podstawie danych ARE i GUS]"
+      },
+      {
+       "type": "text",
+       "text": "Jednostka L.p. Wyszczególnienie miary 2010 r. 2015 r. * 2020 r. *"
+      },
+      {
+       "type": "text",
+       "text": "1 Zapotrzebowanie na ciepło PJ 281,7 313,2 358,7 użytkowe w przemyśle"
+      },
+      {
+       "type": "text",
+       "text": "2 Zapotrzebowanie na ciepło PJ 160,6 178,6 204,5 użytkowe w usługach"
+      },
+      {
+       "type": "text",
+       "text": "* wartości prognozowane"
+      },
+      {
+       "type": "text",
+       "text": "Na poniższym wykresie przedstawiono prognozę zapotrzebowania na ciepło użytkowe. Prognoza przewiduje wzrost zapotrzebowania na ciepło użytkowe do wartości 1 043 PJ w 2020 r. (14 % w stosunku do 2010 r.)."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 1. Prognoza zapotrzebowania na ciepło użytkowe [PJ] [na podstawie danych ARE i GUS]"
+      },
+      {
+       "type": "text",
+       "text": "1200"
+      },
+      {
+       "type": "text",
+       "text": "o ł p e i 1000 c a n 800"
+      },
+      {
+       "type": "text",
+       "text": "e i n a ] J 600 w P [ ob e z r t 400 op a Z 200"
+      },
+      {
+       "type": "text",
+       "text": "0"
+      },
+      {
+       "type": "text",
+       "text": "2010 r. 2015 r. 2020 r."
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 2010 r. 2015 r. * 2020 r.*"
+      },
+      {
+       "type": "text",
+       "text": "Przemysł, budownictwo i rolnictwo [PJ] 281,7 313,2 358,7"
+      },
+      {
+       "type": "text",
+       "text": "Gospodarstwa domowe [PJ] 468,9 474,3 478,2"
+      },
+      {
+       "type": "text",
+       "text": "Usługi [PJ] 160,6 178,6 204,5"
+      },
+      {
+       "type": "text",
+       "text": "Wytwarzanie chłodu [PJ] 0,50 1,00 2,00"
+      },
+      {
+       "type": "text",
+       "text": "Ogółem [PJ] 911,7 967,0 1043,4"
+      },
+      {
+       "type": "text",
+       "text": "* wartości prognozowane Prognoza zapotrzebowania na energię elektryczną"
+      },
+      {
+       "type": "text",
+       "text": "Prognozę krajowego zapotrzebowania na energię elektryczną opracowano na podstawie danych o zużyciu energii elektrycznej w sektorach krajowej gospodarki. Trendy zmian zostały wyznaczone w oparciu o dane historyczne i na ich podstawie zostały skorygowane założenia Polityki energetycznej Polski do 2030 roku, która stanowi załącznik do obwieszczenia Ministra Gospodarki z dnia 21 grudnia 2009 r. w sprawie polityki energetycznej państwa do 2030 r. (M. P. z 2010 r. Nr 2, poz. 11), zwana dalej „Polityką energetyczną Polski do 2030 r.”. Przewiduje się, że zużycie energii elektrycznej w przemyśle i transporcie będzie nieznacznie spadać, wzrośnie natomiast zapotrzebowanie na energię elektryczną w sektorze usług i w gospodarstwach domowych. Prognoza zakłada, że w latach 2010-2020 nastąpi wzrost całkowitego zapotrzebowania na energię elektryczną o 14,5 %."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 2. Prognoza krajowego zapotrzebowania na energię elektryczną [TWh] [na podstawie danych ARE]"
+      },
+      {
+       "type": "text",
+       "text": "W ] h 180 T [ ą n 160 153,5 164,1 z c y r t 140 136,7 144,5 34,3 38,3 ke l e 120 27,5 30,7"
+      },
+      {
+       "type": "text",
+       "text": "ę i g 100 46,9 r e 34,8 40,4 54,5 n e 80 a 5,3 4,8 4,3 3,9 n e i 60 n a 40 ob w 68,7 68,1 67,5 66,9 e z r 20 t op 0 a Z 2006 r. 2010 r. 2015 r. 2020 r."
+      },
+      {
+       "type": "text",
+       "text": "Potencjał techniczny kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "Potencjał techniczny wysokosprawnej kogeneracji wynika w głównej mierze z ilości produkcji ciepła użytkowego. Przy prognozowanym zapotrzebowaniu na ciepło użytkowe obliczono produkcję ciepła ogółem. W 2010 r. produkcja ciepła w wysokosprawnej kogeneracji wynosiła 252,0 PJ. Produkcja ciepła przy założonym zapotrzebowaniu na ciepło użytkowe w 2010 r. wynosi 995,9 PJ. Zatem pozostała część wyprodukowanego ciepła stanowi teoretyczny potencjał wysokosprawnej kogeneracji. Część tego ciepła jest wytwarzania w kogeneracji, lecz nie spełnia kryteriów w zakresie oszczędności energii pierwotnej i sprawności całkowitej produkcji energii elektrycznej i ciepła. Może stanowić jednak potencjał dla wysokosprawnej kogeneracji. W tabeli poniżej, przedstawiono teoretyczny potencjał kogeneracji."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 8. Teoretyczny potencjał kogeneracji [PJ]"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 2010 r. 2015 r. * 2020 r. *"
+      },
+      {
+       "type": "text",
+       "text": "Całkowita produkcja ciepła [PJ] 995,9 1046,7 1120,1"
+      },
+      {
+       "type": "text",
+       "text": "Aktualna produkcja w wysokosprawnej kogeneracji [PJ] 252,0 252,0 252,0"
+      },
+      {
+       "type": "text",
+       "text": "Teoretyczny potencjał wysokosprawnej kogeneracji [PJ] 743,9 794,7 868,1"
+      },
+      {
+       "type": "text",
+       "text": "* wartości prognozowane"
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z przyjętymi założeniami potencjał techniczny wysokosprawnej kogeneracji stanowi ta cześć zapotrzebowania na ciepło użytkowe, która może być pokrywana z jednostek pracujących w wysokosprawnej kogeneracji, spełniających kryteria oszczędności energii pierwotnej. Projekcję potencjału technicznego wysokosprawnej kogeneracji przedstawiono na poniższym wykresie."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 3. Projekcja potencjału technicznego wysokosprawnej kogeneracji [PJ]"
+      },
+      {
+       "type": "text",
+       "text": "800"
+      },
+      {
+       "type": "text",
+       "text": "] J 700 Wyszczególnienie 2010 r. 2015 r. * 2020 r. *"
+      },
+      {
+       "type": "text",
+       "text": "Aktualna produkcja w wysokosprawnej kogeneracji [PJ] 252,0 252,0 252,0"
+      },
+      {
+       "type": "text",
+       "text": "Ciepła woda użytkowa [PJ] 19,8 21,2 23,4"
+      },
+      {
+       "type": "text",
+       "text": "Ciepło do ogrzewania budynków [PJ] 126,6 160,8 211,7"
+      },
+      {
+       "type": "text",
+       "text": "Ciepło dla celów przemysłowych [PJ] 138,0 156,6 186,5"
+      },
+      {
+       "type": "text",
+       "text": "Budynki wielkokubaturowe [PJ] 13,6 16,1 20,5"
+      },
+      {
+       "type": "text",
+       "text": "Produkcja chłodu [PJ] 0,5 1,0 2,0"
+      },
+      {
+       "type": "text",
+       "text": "RAZEM [PJ] 550,5 607,6 696,0"
+      },
+      {
+       "type": "text",
+       "text": "* wartości prognozowane"
+      },
+      {
+       "type": "text",
+       "text": "Potencjał ekonomiczny wysokosprawnej kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "Do określenia potencjału ekonomicznego wzięto pod uwagę zróżnicowane technologie wytwarzania energii elektrycznej i ciepła w wysokosprawnej kogeneracji. Podstawowym kryterium ekonomicznym jest koszt krańcowy energii elektrycznej i ciepła. Analiza uwzględnia przychody związane ze sprzedażą praw majątkowych do świadectw pochodzenia energii elektrycznej z kogeneracji i wytworzonej w odnawialnych źródłach energii."
+      },
+      {
+       "type": "text",
+       "text": "Potencjał ekonomiczny wysokosprawnej kogeneracji (wykres poniżej) obejmuje aktualną na 2010 r. produkcję ciepła w wysokosprawnej kogeneracji oraz przyrosty produkcji ciepła w wysokosprawnej kogeneracji w istniejących elektrociepłowniach. Ponadto do potencjału ekonomicznego kogeneracji, można zaliczyć:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "ciepło wytwarzane na potrzeby CWU;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "20% ciepła do ogrzewania pomieszczeń w systemach ciepłowniczych zasilanych z ciepłowni;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "ciepło wytwarzane na potrzeby budynków wielkokubaturowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "80% ciepła wytwarzanego dla celów przemysłowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "ciepło wytworzone dla potrzeb produkcji chłodu w sezonie letnim.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wykres 4. Potencjał ekonomiczny wysokosprawnej kogeneracji [PJ]"
+        },
+        {
+         "type": "text",
+         "text": "500"
+        },
+        {
+         "type": "text",
+         "text": "J ] P [ y P [ ij 400 y n z ij ca n z c ca r e c m i r e n m i n e 300 ono ono e go go k ke k e j ke a ł e j n a ł c n a w j 200 c j e n a w p r e n o t p r o s t P s k P k 100 o o o o sy sy w 0 w"
+        },
+        {
+         "type": "text",
+         "text": "2010 r. 2015 r. 2020 r."
+        },
+        {
+         "type": "text",
+         "text": "Aktualna produkcja w skojarzeniu Przyrost produkcji w istniejących EC Ciepła woda użytkowa"
+        },
+        {
+         "type": "text",
+         "text": "Ciepło do ogrzewania budynków Uciepłownienie elektrowni Ciepło dla celów przemysłowych"
+        },
+        {
+         "type": "text",
+         "text": "Budynki wielkokubaturowe Produkcja chłodu Ogółem potencjał ekonomiczny"
+        },
+        {
+         "type": "text",
+         "text": "Wyszczególnienie 2010 r. 2015 r. * 2020 r. *"
+        },
+        {
+         "type": "text",
+         "text": "Aktualna produkcja w skojarzeniu [PJ] 224,3 224,3 224,3"
+        },
+        {
+         "type": "text",
+         "text": "Przyrost produkcji w istniejących EC [PJ] 27,7 27,7 27,7"
+        },
+        {
+         "type": "text",
+         "text": "Ciepła woda użytkowa [PJ] 18,3 19,8 21,2"
+        },
+        {
+         "type": "text",
+         "text": "Ciepło do ogrzewania budynków [PJ] 24,2 25,3 32,2"
+        },
+        {
+         "type": "text",
+         "text": "Uciepłownienie elektrowni [PJ] 9,7 9,7 9,7"
+        },
+        {
+         "type": "text",
+         "text": "Przedstawione prognozy uwzględniają mechanizmy wspierania kogeneracji oraz źródeł odnawialnych. Założono również konieczność ponoszenia kosztów związanych z wydaniem uprawnień do emisji CO₂ od 2015 r. Systemem tym objęte są obiekty spalające paliwa, o mocy cieplnej dostarczanej w paliwie powyżej 20 MJ/s."
+        },
+        {
+         "type": "text",
+         "text": "Mechanizm wspierania wysokosprawnej kogeneracji został odwzorowany w modelu na podstawie zapotrzebowania na energię elektryczną oraz określonego w rozporządzeniu z 2007 r., obowiązkowego udziału energii elektrycznej w wysokosprawnej kogeneracji."
+        },
+        {
+         "type": "text",
+         "text": "Do prognozy przewidziano stopniowy wzrost wartości jednostkowej opłaty zastępczej do 2020 r."
+        },
+        {
+         "type": "text",
+         "text": "Wykres 5. Prognoza produkcji ciepła przy wykorzystaniu potencjału technicznego wysokosprawnej kogeneracji [PJ]"
+        },
+        {
+         "type": "text",
+         "text": "1200"
+        },
+        {
+         "type": "text",
+         "text": "1000"
+        },
+        {
+         "type": "text",
+         "text": "a ł p 800 e i c a j e i c ] J P 600 ck a [ udo r 400 P"
+        },
+        {
+         "type": "text",
+         "text": "200"
+        },
+        {
+         "type": "text",
+         "text": "0"
+        },
+        {
+         "type": "text",
+         "text": "2010 r. 2015 r. 2020 r."
+        },
+        {
+         "type": "text",
+         "text": "Źródła lokalne Elektrownie i EC zawodowe EC przemysłowe EC lokalne"
+        },
+        {
+         "type": "text",
+         "text": "Ciepłownie zawodowe Ciepłownie niezawodowe Ogółem produkcja ciepła"
+        },
+        {
+         "type": "text",
+         "text": "Wyszczególnienie 2010 r. 2015 r. * 2020 r. *"
+        },
+        {
+         "type": "text",
+         "text": "Źródła lokalne [PJ] 501,0 375,8 250,5"
+        },
+        {
+         "type": "text",
+         "text": "Elektrownie i EC zawodowe [PJ] 194,4 307,8 285,6"
+        },
+        {
+         "type": "text",
+         "text": "EC przemysłowe [PJ] 115,3 100,9 91,6"
+        },
+        {
+         "type": "text",
+         "text": "EC lokalne [PJ] 0,0 104,9 362,8"
+        },
+        {
+         "type": "text",
+         "text": "Ciepłownie zawodowe [PJ] 76,1 64,7 53,3"
+        },
+        {
+         "type": "text",
+         "text": "Ciepłownie niezawodowe [PJ] 109,1 92,7 76,3"
+        },
+        {
+         "type": "text",
+         "text": "Ogółem produkcja ciepła [PJ] 995,9 1046,7 1120,1"
+        },
+        {
+         "type": "text",
+         "text": "* wartości prognozowane Wykres 6. Prognoza produkcji energii elektrycznej przy wykorzystaniu potencjału technicznego wysokosprawnej kogeneracji [TWh]"
+        },
+        {
+         "type": "text",
+         "text": "250"
+        },
+        {
+         "type": "text",
+         "text": "W ] h T [ 200"
+        },
+        {
+         "type": "text",
+         "text": "j e n z cy r t 150 ke l e W h ii g r T 100 e n e"
+        },
+        {
+         "type": "text",
+         "text": "a j ck 50 udo r P 0"
+        },
+        {
+         "type": "text",
+         "text": "2010 r. 2015 r. 2020 r. Elektrownie cieplne systemowe EC zawodowe EC przemysłowe"
+        },
+        {
+         "type": "text",
+         "text": "EC lokalne Pozostałe Ogółem produkcja energii elektrycznej"
+        },
+        {
+         "type": "text",
+         "text": "Wyszczególnienie 2010 r. 2015 r. * 2020 r. *"
+        },
+        {
+         "type": "text",
+         "text": "Elektrownie cieplne systemowe [PJ] 121,6 143,6 144,5"
+        },
+        {
+         "type": "text",
+         "text": "EC zawodowe [PJ] 22,9 37,9 35,6"
+        },
+        {
+         "type": "text",
+         "text": "EC przemysłowe [PJ] 7,5 6,7 6,0"
+        },
+        {
+         "type": "text",
+         "text": "EC lokalne [PJ] 0,0 13,1 45,4"
+        },
+        {
+         "type": "text",
+         "text": "Oszczędności energii pierwotnej"
+        },
+        {
+         "type": "text",
+         "text": "Oszczędność energii pierwotnej (węgla kamiennego) wynikającą z zastosowaniu kogeneracji przedstawiono na poniższym wykresie. Do obliczenia jej przyjęto wartości referencyjne sprawności rozdzielonego wytwarzania energii elektrycznej i ciepła oraz sprawności rozpatrywanych technologii kogeneracyjnych. Obliczony wskaźnik oszczędności energii pierwotnej wynikającej z zastosowania technologii wysokosprawnej kogeneracji jest na poziomie 19-20 %. Przyjęto, że rozwój wysokosprawnej kogeneracji przyniesie 20 % oszczędności energii pierwotnej."
+        },
+        {
+         "type": "text",
+         "text": "Wykres 7. Oszczędność energii pierwotnej wynikająca z zastosowania wysokosprawnej kogeneracji"
+        },
+        {
+         "type": "text",
+         "text": ") 14,0 g k / j J 12,0 t o e n 52 M 10,0 11,8 w r e = g i p ii og W ( 8,0 8,3 e n r e nn e e 6,0 ćś i m 5,3 ak ond a l 4,0 ę z c g ę z s w g 2,0 O M n l m 0,0 2010 r. 2015 r.* 2020 r.*"
+        },
+        {
+         "type": "text",
+         "text": "* wartości prognozowane"
+        },
+        {
+         "type": "text",
+         "text": "Redukcja emisji CO 2"
+        },
+        {
+         "type": "text",
+         "text": "Możliwą do osiągnięcia redukcję emisji CO₂ wynikającą z wykorzystania instalacji wysokosprawnej kogeneracji przedstawiono na poniższym wykresie. Przedstawiona wielkość emisji CO₂, jest to ilość emitowanego CO₂, którego można uniknąć przy wykorzystaniu jednostek wysokosprawnej kogeneracji opartej na węglu kamiennym w stosunku do produkcji rozdzielonej w elektrowniach i ciepłowniach węglowych."
+        },
+        {
+         "type": "text",
+         "text": "Wykres 8. Redukcja emisji CO₂ wynikająca z zastosowania wysokosprawnej kogeneracji"
+        },
+        {
+         "type": "text",
+         "text": "³⁵"
+        },
+        {
+         "type": "text",
+         "text": "₃₀ 32,5"
+        },
+        {
+         "type": "text",
+         "text": "] g M n₂₅ Paliwa dla wysokosprawnej kogeneracji"
+        },
+        {
+         "type": "text",
+         "text": "Dostępne technologie wytwarzania energii elektrycznej i ciepła w wysokosprawnej kogeneracji, mogą jako paliwo wykorzystywać węgiel, gaz ziemny, odpady komunalne i wybrane palne odpady przemysłowe oraz biopaliwa. Teoretycznie w kogeneracji możliwe jest także wykorzystanie jako źródła energii paliwa jądrowego, ciepła geotermalnego czy energii słonecznej, jednak przy obecnym rozwoju technologii energetycznych i krajowych uwarunkowaniach są one praktycznie niemożliwe do wykorzystania."
+        },
+        {
+         "type": "text",
+         "text": "W polskich warunkach węgiel i gaz ziemny stanowią podstawowy potencjał paliwowy wysokosprawnej kogeneracji. Aktualnie produkcja energii elektrycznej w wysokosprawnej kogeneracji z węgla jest dziesięciokrotnie większa niż z gazu ziemnego. Jednakże wprowadzenie systemu odpłatnych uprawnień do emisji oraz zwiększonych wymagań środowiskowych spowoduje relatywny wzrost ekonomicznej opłacalności instalacji zasilanych gazem. Poniżej przedstawiono zużycie paliw w wysokosprawnej kogeneracji."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 9. Zużycie paliw w wysokosprawnej kogeneracji w latach 2007-2010 [Dane URE]"
+        },
+        {
+         "type": "text",
+         "text": "II połowa Rodzaj paliwa Jedn. Grupa 2007 r. 2008 r. 2009 r. 2010 r."
+        },
+        {
+         "type": "text",
+         "text": "Węgiel kamienny Mg 13 874 761,55 18 065 100,06 33 797 353,52 40 168 474,66"
+        },
+        {
+         "type": "text",
+         "text": "Węgiel brunatny Mg 39 871 594,00 30 912 336,50 46 684 578,70 47 678 667,50 Drewno opałowe oraz odpady drzewne Mg 1 127 535,34 1 853 242,62 3 839 055,42 3 050 444,48 Biomasa pochodzenia Stałe rolniczego Mg 44 060,25 130 107,65 1 174 560,65 1 756 810,14 Odpady komunalne ulegające biodegradacji Mg 32 542,47 36 397,14 137 859,46 77 410,38 Nieodnawialne odpady komunalne i przemysłowe Mg 24,76 b.d. 572,08 262,48"
+        },
+        {
+         "type": "text",
+         "text": "Olej napędowy Mg 221,00 197,10 4 827,19 2 912,49"
+        },
+        {
+         "type": "text",
+         "text": "Olej opałowy Mg 506 041,87 754 050,88 1 118 053,38 1 198 501,01"
+        },
+        {
+         "type": "text",
+         "text": "Biopaliwa Mg Ciekłe 832,12 Odpady ulegające"
+        },
+        {
+         "type": "text",
+         "text": "Perspektywę możliwości wykorzystania obu tych paliw określają m.in. ich cena i dostępność. W perspektywie najbliższych kilkudziesięciu lat nie pojawią się ograniczenia w dostępie do węgla kamiennego. Natomiast pewne ograniczenia mogą wystąpić w przypadku dostępu do gazu ziemnego. O ile prowadzone inwestycje i zawarte kontrakty zabezpieczą ilościowo zwiększone zużycie, to w wielu przypadkach ograniczeniem możliwości wykorzystania gazu w kogeneracji jest słabo rozwinięta sieć gazowa. Dotyczy to przede wszystkim obszarów Polski północno-wschodniej, środkowego wybrzeża oraz częściowo województw świętokrzyskiego i łódzkiego."
+        },
+        {
+         "type": "text",
+         "text": "Węgiel kamienny i brunatny"
+        },
+        {
+         "type": "text",
+         "text": "Krajowe zasoby węgla kamiennego wynoszą około 40 mld ton przy krajowej rocznej produkcji około 75 mln ton i zużyciu w energetyce zawodowej około 40 mln ton. Przy stanie obecnego rozpoznania złóż można stwierdzić, iż zasoby węgla są wystarczające wperspektywie do 2050 r."
+        },
+        {
+         "type": "text",
+         "text": "Krajowe zasoby węgla brunatnego wynoszą około 20 mld ton, z czego 1,3 mld ton to zasoby złóż zagospodarowanych, co przy krajowym wydobyciu około 56 mln ton rocznie zapewnia dostawy węgla do energetyki na około 20 lat przy zbliżonym poziomie zużycia. Należy jednak zwrócić uwagę na intensyfikację wydobycia i zużycia węgla brunatnego, choćby na nowy blok833 MW elektrowni Bełchatów II."
+        },
+        {
+         "type": "text",
+         "text": "Gaz ziemny"
+        },
+        {
+         "type": "text",
+         "text": "W 2010 r. stan wydobywanych zasobów gazu ziemnego wynosił około 147 mldm³ (w tym około 65mldm³ w zasobach przemysłowych). Roczne wydobycie gazu wynosi około 4,2mldm³ (wprzeliczeniu na gaz ziemny wysokometanowy) i pokrywa około 30% krajowego zapotrzebowania. Znaczne zwiększenie wielkości wydobycia krajowego może wystąpić wprzypadku rozpoczęcia eksploatacji gazu ze złóż niekonwencjonalnych (głównie shale gas). W przyszłości gaz z łupków może odgrywać istotną rolę w pokryciu zapotrzebowania o ile koszty jego wydobycia będą konkurencyjne w porównaniu do kosztów importu."
+        },
+        {
+         "type": "text",
+         "text": "Obecnie należy jednak przyjąć, że głównym zabezpieczeniem pokrycia zapotrzebowania na gaz jest jego import gazociągami przesyłowymi, w szczególności gazociągiem jamalskim przez Białoruś oraz gazociągami przesyłowymi przez terytorium Ukrainy. Wybudowany Gazociąg Północny także może odegrać rolę w zapewnieniu bezpieczeństwa dostaw gazu do Polski na drodze reimportu gazu zNiemiec w sytuacji sporów ekonomiczno-politycznych między Rosją a Ukrainą i Białorusią."
+        },
+        {
+         "type": "text",
+         "text": "Gazoport LNG – najważniejszy projekt w zakresie dywersyfikacji źródeł dostaw gazu ziemnego do Polski - jest na etapie realizacji. Zakończenie budowy zaplanowano na połowę 2014 r. Terminal LNG pozwoli na odbiór do 5 mld m³ gazu ziemnego rocznie, z możliwością rozbudowy do 7,5 mld m³, będzie więc strategicznym źródłem gazu ziemnego dla energetyki i innych sektorów gospodarki."
+        },
+        {
+         "type": "text",
+         "text": "Biogaz i Biopaliwa"
+        },
+        {
+         "type": "text",
+         "text": "Rodzaje paliw gazowych (biogazu) to głównie:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "produkt fermentacji metanowej: gnojowicy, obornika i odpadów roślinnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "metan ze składowisk odpadów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "zgazowanie biomasy (drewna).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Potencjał dwóch pierwszych źródeł oceniany jest na kilkadziesiąt PJ rocznie."
+        },
+        {
+         "type": "text",
+         "text": "W warunkach klimatycznych Polski obecnie najlepsze efekty przynosi zgazowanie odpadów niecelulozowych. Przykładem mogą być średniej wielkości biogazownie funkcjonujące wPolsce wyposażone w agregaty i produkujące nie tylko energię elektryczną, ale i ciepło na potrzeby własne i pobliskich mieszkańców."
+        },
+        {
+         "type": "text",
+         "text": "Efektywne zgazowanie odpadów celulozowych mogłoby być prowadzone za pomocą sieci zawodowych biogazowni, wyposażonych w instalacje wzbogacania i oczyszczania biogazu, i pracujących na potrzeby sieci gazu ziemnego."
+        },
+        {
+         "type": "text",
+         "text": "Metody energetycznego wykorzystania zasobów niecelulozowych biomasy osiągnęły poziom opłacalności rynkowej i to nie tylko dzięki mechanizmom wsparcia, ale także z powodu rozwiązywania w ten sposób problemów składowania i utylizacji tych odpadów."
+        },
+        {
+         "type": "text",
+         "text": "Potencjał dostępnych w Polsce biopaliw wyznaczony został w ramach prac nad Polityką energetyczną Polski do 2030 r. Po pominięciu biopaliw przeznaczonych dla silników spalinowych (bioetanol, biodiesel), potencjał ekonomiczny i rynkowy zestawiono w poniższej tabeli. W ocenie wzięto pod uwagę także zapotrzebowanie na energię odnawialną, przy założeniu, że Polska zrealizuje swoje zobowiązania na 2020 r. w postaci 15 % udziału energii wytwarzanej z odnawialnych źródeł energii, zwanych dalej „OZE” w całkowitym zużyciu energii."
+        },
+        {
+         "type": "text",
+         "text": "Porównanie zapotrzebowania i obecnego potencjału pozwala jednoznacznie stwierdzić, że w świetle wspomnianych już zobowiązań w perspektywie do 2020 r. potencjał rynkowy biomasy można uznać za wystarczający."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 10. Potencjał ekonomiczny oraz możliwości jego wykorzystania – potencjał rynkowy biopaliw"
+        },
+        {
+         "type": "text",
+         "text": "Biopaliwo Potencjał Potencjał rynkowy ekonomiczny do 2030 r."
+        },
+        {
+         "type": "text",
+         "text": "- drewno opałowe 24 452 TJ 24 452 TJ 1 540 MW t"
+        },
+        {
+         "type": "text",
+         "text": "-odpadystałesuche 165931 TJ 150000 TJ 16 000 MW t"
+        },
+        {
+         "type": "text",
+         "text": "- odpady mokre – biogaz *) 123 066 TJ 80 000 TJ"
+        },
+        {
+         "type": "text",
+         "text": "(kogeneracja) 9 TWh e 1 640 MW e"
+        },
+        {
+         "type": "text",
+         "text": "47 060 TJ 2 340 MW t"
+        },
+        {
+         "type": "text",
+         "text": "- uprawy energetyczne 286719 TJ 286719 TJ"
+        },
+        {
+         "type": "text",
+         "text": "- celulozowe – kogeneracja *) 145 600 TJ 120 600 TJ"
+        },
+        {
+         "type": "text",
+         "text": "Odpady komunalne"
+        },
+        {
+         "type": "text",
+         "text": "W Polsce wytwarzanych jest około 10 milionów ton odpadów komunalnych rocznie. Zasadniczy wpływ na możliwość wykorzystania odpadów komunalnych na cele energetyczne ma obszar, z jakiego zostały zebrane (miejski czy wiejski). Z punktu widzenia możliwości wykorzystania odpadów jako paliwa dla kogeneracji, szczególne znaczenie mają odpady gromadzone w dużych aglomeracjach miejskich, o liczbie mieszkańców powyżej 100 tysięcy. W Polsce aglomeracji takich jest 39 i zamieszkuje w nich łącznie około 11 milionów mieszkańców, którzy produkują w sumie 3,3 miliona ton odpadów rocznie."
+        },
+        {
+         "type": "text",
+         "text": "O wykorzystaniu odpadów jako paliwa decyduje ich wilgotność oraz wartość opałowa. Obecnie wilgotność odpadów komunalnych utrzymuje się w przedziale 40 % do 50 %, a wartość opałowa zależy od składu frakcyjnego (średnia wartość opałowa to 8,11 MJ/kg)."
+        },
+        {
+         "type": "text",
+         "text": "Bilans energetyczny odpadów w skali kraju i dużych aglomeracji zestawiono w tabeli poniżej. W tabeli podano także możliwą do uzyskania z tych odpadów produkcję energii elektrycznej i ciepła przy wykorzystaniu wysokosprawnej kogeneracji."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 11. Potencjał energetyczny odpadów"
+        },
+        {
+         "type": "text",
+         "text": "Potencjał energetyczny Potencjalna produkcja Potencjalna produkcja"
+        },
+        {
+         "type": "text",
+         "text": "[TJ/rok] ciepła w kogeneracji energii elektrycznej w"
+        },
+        {
+         "type": "text",
+         "text": "[TJ/rok] kogeneracji [GWh/rok]"
+        },
+        {
+         "type": "text",
+         "text": "Odpady krajowe 59 300 4 118 1 716"
+        },
+        {
+         "type": "text",
+         "text": "Odpady z dużych miast 31 637 2 197 915"
+        },
+        {
+         "type": "text",
+         "text": "Należy zwrócić uwagę, że odpady z dużych miast, stanowiące 33 % odpadów krajowych, zawierają w sobie ponad połowę potencjału energetycznego wszystkich odpadów. Stosunkowo wysoka wartość opałowa sprawia, że odpady z dużych miast mogą być spalane w instalacjach energetycznych samodzielnie. Natomiast niska wartość opałowa odpadów spoza obszarów wielkomiejskich może utrudniać spalanie bez stosowania paliw wspomagających."
+        },
+        {
+         "type": "text",
+         "text": "W perspektywie kolejnych lat spodziewać się należy zarówno wzrostu ilości odpadów, jak i ich wartości opałowej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Identyfikacja barier rozwoju wysokosprawnej kogeneracji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wśród przyczyn niedostatecznego rozwoju kogeneracji możemy wyróżnić bariery o charakterze ekonomicznym (finansowym), środowiskowym, infrastrukturalnym, prawnym, administracyjnym i społecznym. Przy aktualnym poziomie rozwoju technologii energetycznych nie występują bariery o charakterze technicznym. Znaczna część ww. barier została zidentyfikowana, a poprawę sytuacji oraz działania mające na celu zniesienie większości spośród zidentyfikowanych niedogodności, zapowiada Polityka energetyczna Polski do 2030 r."
+      },
+      {
+       "type": "text",
+       "text": "Znaczące zmiany, likwidujące dwie istotne bariery, zostały wprowadzone w ostatniej nowelizacji ustawy - Prawo energetyczne. Dotyczą one zaniechania obowiązku zatwierdzania taryf na ciepło oraz możliwości łączenia praw majątkowych związanych z wytwarzaniem w wysokosprawnej kogeneracji przy wykorzystaniu energii odnawialnej."
+      },
+      {
+       "type": "text",
+       "text": "W ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. Nr 94, poz. 551) wprowadzono zapisy promujące wytwarzanie energii elektrycznej i ciepła w wysokosprawnej kogeneracji mające na celu obligatoryjne przyłączanie do sieci ciepłowniczej nowopowstałych budynków."
+      },
+      {
+       "type": "text",
+       "text": "Bariery ekonomiczne"
+      },
+      {
+       "type": "text",
+       "text": "Na bariery ekonomiczne składają się w głównej mierze czynniki kształtujące kondycję całej gospodarki krajowej, w szczególności wysokie koszty kredytów inwestycyjnych, wahania cen na rynku paliw, brak stabilności kursów walut oraz wysokie koszty z tytułu ochrony środowiska."
+      },
+      {
+       "type": "text",
+       "text": "Według obowiązujących przepisów prawa system wsparcia oparty na świadectwach pochodzenia, poprzez który inwestorzy często bilansują swoje koszty będzie obowiązywał do 31 marca 2013 r. Brak regulacji określających dalsze funkcjonowanie systemu wsparcia dla wysokosprawnej kogeneracji, może stanowić dodatkową barierę przy podejmowaniu decyzji dotyczących nowych inwestycji czy prowadzenia działań modernizujących istniejące bloki."
+      },
+      {
+       "type": "text",
+       "text": "Istotną barierą ekonomiczną są także wysokie koszty budowy sieci ciepłowniczych, co utrudnia powiększanie zasięgu systemu ciepłowniczego, a tym samym rozbudowę rynku ciepła poprzez podłączanie nowych odbiorców."
+      },
+      {
+       "type": "text",
+       "text": "Rozwoju kogeneracji nie ułatwiają także występujące problemy związane z przyłączeniem instalacji kogeneracyjnej do sieci elektroenergetycznej. W wielu przypadkach koszty przyłączenia, jakie ponieść musi inwestor, stanowią znaczący udział kosztów całej inwestycji."
+      },
+      {
+       "type": "text",
+       "text": "Bariery związane z emisjami"
+      },
+      {
+       "type": "text",
+       "text": "Emisyjne bariery rozwoju kogeneracji związane są przede wszystkim z wymaganiami określonymi w dwóch dyrektywach:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "2003/87/WE Parlamentu Europejskiego i Rady z dnia 13 października 2003 r. ustanawiająca system handlu przydziałami emisji gazów cieplarnianych we Wspólnocie oraz zmieniająca dyrektywę Rady 96/61/WE zrewidowana dyrektywą 2009/29/WE, (Dz. Urz. UE L 275 z 25.10.2003, str. 32, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 7, str. 631), zwana dalej „Dyrektywą ETS”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "2010/75/UE Parlamentu Europejskiego i Rady z dnia 24 listopada 2010 r. w sprawie emisji przemysłowych (zintegrowane zapobieganie zanieczyszczeniom i ich kontrola), (Dz. Urz. UE L 334 z 17.12.2010, str. 17), zwana dalej „Dyrektywą IED”.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Główną barierą związaną z emisjami jest przyznawany limit emisji dwutlenku węgla. Według danych Krajowego Ośrodka Bilansowania i Zarządzania Emisjami (KOBiZE), elektrociepłownie zawodowe w 2010 r. przekroczyły limit przyznanych uprawnień do emisji o około 0,3 mln ton CO₂ (tzn. 0,1% całej emisji Polski). Znamienne jest to, że na okres rozliczeniowy 2008–2012 nie przewidziano przydziału dla instalacji dodatkowych. Jeżeli zakłada się, że rozwój kogeneracji ma w znacznej mierze być wynikiem rozwoju systemów ciepłowniczych zasilanych z dużych elektrociepłowni zawodowych, to należy przewidzieć zwiększenie limitu emisji CO₂ na poszczególne lata kolejnego okresu rozliczeniowego. Oznaczałoby to ograniczenie limitu emisji dla innych sektorów, w tym elektrowni systemowych."
+        },
+        {
+         "type": "text",
+         "text": "Dyrektywa ETS wprowadza docelowy obowiązek zakupu uprawnień na otwartych wspólnotowych aukcjach. Wprowadzenie w pełni odpłatnego nabywania uprawnień jest korzystne dla elektrociepłowni w relacji do ciepłowni i elektrowni, bo efekt oszczędności paliwa jest tutaj powiększony o odpowiadające mu zmniejszenie zapotrzebowania na uprawnienia. Niestety obowiązek zakupu uprawnień nie będzie dotyczył małych źródeł, a tym samym spowoduje, że wytwarzanie ciepła w systemach kogeneracyjnych stanie się niekonkurencyjne w stosunku do lokalnego wytwarzania ciepła, co może doprowadzić do znacznego zmniejszenia się rynku ciepła systemowego."
+        },
+        {
+         "type": "text",
+         "text": "Bariery rozwoju systemów ciepłowniczych"
+        },
+        {
+         "type": "text",
+         "text": "Racjonalizacja zużycia ciepła oraz procesy termomodernizacyjne obiektów budowlanych w najbliższych latach w znaczący sposób ograniczą zapotrzebowanie na ciepło. Jest to zjawisko pod każdym względem pozytywne, aczkolwiek obniża to możliwości produkcji energii w wysokosprawnej kogeneracji."
+        },
+        {
+         "type": "text",
+         "text": "Kolejną barierą rozwoju systemów ciepłowniczych może być znaczący wzrost ceny ciepła spowodowany koniecznością modernizacji układów oczyszczania gazów odlotowych, aby spełnić rosnące wymagania dotyczące ochrony środowiska oraz koniecznością zakupu uprawnień do emisji CO₂ przez producentów ciepła sieciowego w źródłach o mocach zainstalowanych przekraczających 20 MW. Wzrost ceny ciepła może powodować odłączanie się jego odbiorców od sieci ciepłowniczych co wpłynie na dalsze obniżanie zapotrzebowania na ciepło sieciowe (wyprodukowane w wysokosprawnej kogeneracji)."
+        },
+        {
+         "type": "text",
+         "text": "Inną barierą, o której już wspomniano, są wysokie koszty budowy sieci ciepłowniczych oraz wysokie koszty jednostkowe instalacji małej mocy."
+        },
+        {
+         "type": "text",
+         "text": "Bariery społeczne"
+        },
+        {
+         "type": "text",
+         "text": "Bariery społeczne możemy podzielić na dwie grupy. Pierwsza z nich wywodzi się z niechęci właścicieli budynków do przyłączania się do sieci ciepłowniczej, a spowodowana jest procedurami i kosztami przyłączenia budynku do centralnej sieci ciepłowniczej."
+        },
+        {
+         "type": "text",
+         "text": "Drugą barierą społeczną jest niewielka liczba nowych inwestycji związanych z rozwojem mikrokogeneracji. Sytuacja ta spowodowana jest głównie wysokim kosztem, jak również brakiem informacji o sposobie eksploatacji i efektywności (energetycznej i ekonomicznej) mikrokogeneracji, zachęcających do jej stosowania. Przykładowe wdrożenia tych rozwiązań i upowszechnienie wyników eksploatacyjnych, jak również preferencyjne warunki kredytowania inwestycji, mogłyby przyczynić się do zmiany tej sytuacji, choć nie zniosłyby jej zupełnie."
+        },
+        {
+         "type": "text",
+         "text": "Ograniczenia zasobów paliwowych"
+        },
+        {
+         "type": "text",
+         "text": "Na rynku biomasy (produkowanej na cele energetyczne), występuje silna konkurencja spowodowana obowiązkiem procentowego udziału energii odnawialnej, w wolumenie energii elektrycznej. Z mniejszymi odbiorcami biomasy energetycznej konkurują elektrownie i duże elektrociepłownie zawodowe. Użytkują one biomasę głównie na drodze współspalania z węglem. Wprawdzie dzięki temu kreują polski rynek biomasy, ale jednocześnie przyczyniają się do zahamowania rozwoju źródeł energii odnawialnej małej skali."
+        },
+        {
+         "type": "text",
+         "text": "Zauważyć można również konkurencję w przeznaczeniu areału upraw, między plantacjami biomasy celulozowej a biomasy na cele produkcji paliw płynnych. Tu z kolei silniejszy wydaje się sektor paliw płynnych. Areał plantacji celulozowych roślin energetycznych, w porównaniu na przykład z areałem upraw rzepaku jest znacznie mniejszy."
+        },
+        {
+         "type": "text",
+         "text": "W przypadku paliw węglowych i gazowych poza ograniczeniami związanymi z emisją zanieczyszczeń do powietrza oraz wzrostem cen tych paliw, nie występują inne bariery."
+        },
+        {
+         "type": "text",
+         "text": "Procedury administracyjne"
+        },
+        {
+         "type": "text",
+         "text": "Zmiany wprowadzone w ustawie – Prawo energetyczne znoszą obowiązek koncesjonowania wytwarzania energii w kogeneracji w źródłach małej i średniej mocy, za wyjątkiem źródeł biogazowych. W ten sposób znika jedna z barier administracyjnych. Decyzja wydaje się słuszna w sytuacji, kiedy właściciele obiektów budowlanych o zapotrzebowaniu na moc cieplną 50 kW i więcej, zostaną zobligowani do zastosowania własnego źródła kogeneracyjnego."
+        },
+        {
+         "type": "text",
+         "text": "Aktualne uregulowania prawne przesuwają odpowiedzialność za bezpieczeństwo energetyczne w zakresie zaopatrzenia w ciepło z administracji centralnej na gminy. Podstawą działań gminy w tym zakresie są tzw. „Założenia do planu zaopatrzenia w ciepło, energię elektryczną i paliwa gazowe”. Prawo nakłada na gminy obowiązek opracowania „Założeń…”, ale nie przewiduje sankcji za ich brak. W efekcie większość gmin w Polsce nie ma opracowanych „Założeń…”. Ponadto w gminach, gdzie one są, nikt nie kontroluje, czy działania w zakresie objętym założeniami są realizowane. Stan taki wynika nie tylko ze wspomnianego wcześniej braku formalnych rygorów, ale także z braku kompetencji gmin w zakresie energetyki. W urzędach gminnych brakuje wyspecjalizowanej kadry w zakresie energetyki. Zmiana tej sytuacji jest zapowiadana w „Polityce energetycznej Polski do roku 2030”."
+        },
+        {
+         "type": "text",
+         "text": "Środki mające na celu likwidację przeszkód"
+        },
+        {
+         "type": "text",
+         "text": "Aby zwiększyć wolumen sprzedaży, wytwórcy i dystrybutorzy ciepła prowadzą intensywne działania marketingowe, w szczególności wśród potencjalnych nowych odbiorców."
+        },
+        {
+         "type": "text",
+         "text": "Mając na celu ułatwienie przedsiębiorcom rozpoczęcie działalności gospodarczej w ww. zakresie, na stronie internetowej URE, zostały opublikowane informacje dotyczące procedury ubiegania się o wydanie koncesji na wytwarzanie energii elektrycznej w kogeneracji, które znajdują się w tzw. „Pakietach Informacyjnych”."
+        },
+        {
+         "type": "text",
+         "text": "Na stronie internetowej URE publikowane są również liczne opinie i komunikaty mające na celu przypomnienie przedsiębiorstwom energetycznym o ciążących na nich obowiązkach oraz wyjaśniające wątpliwości co do sposobu ich realizacji. Zostały zamieszczone także wzory wniosków o wydanie świadectw pochodzenia z kogeneracji, a także wskazania jakie niezbędne załączniki należy dołączyć do wniosku, aby uzyskać świadectwa pochodzenia z kogeneracji."
+        },
+        {
+         "type": "text",
+         "text": "W pełni rozumiejąc sytuację podmiotów planujących inwestycję w instalacje wysokosprawnej kogeneracji, Ministerstwo Gospodarki podjęło współpracę z Polskim Towarzystwem Elektrociepłowni Zawodowych oraz Izbą Gospodarczą Ciepłownictwo Polskie w celu wypracowania założeń do programu rozwoju kogeneracji w Polsce do roku 2030. W programie tym przewidziane jest m.in. ustalenie dalszego mechanizmu wsparcia dla wysokosprawnej kogeneracji. Finalna wersja programu będzie poddana konsultacjom społecznym i międzyresortowym."
+        },
+        {
+         "type": "text",
+         "text": "Obligatoryjne przyłączanie do sieci ciepłowniczej nowych budynków powstających na terenie działania systemu dystrybucji ciepła sieciowego, które do ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2010 r. Nr 243, poz. 1623, z późn. zm.) wprowadza ustawa z dnia 15 kwietnia 2011 r. o efektywności energetycznej, stwarza dodatkowe możliwości pozyskiwania nowych odbiorców. Powyższy obowiązek nie występuje, gdy przedsiębiorstwo energetyczne zajmujące się przesyłaniem lub dystrybucją ciepła odmówiło wydania warunków przyłączenia do sieci albo dostarczanie ciepła do obiektu z sieci ciepłowniczej zapewnia mniejszą efektywność energetyczną, aniżeli z innego indywidualnego źródła ciepła, które może być wykorzystane do dostarczania ciepła do tego obiektu."
+        },
+        {
+         "type": "text",
+         "text": "Do prawidłowego funkcjonowania przepisów ww. ustawy konieczne zapewne okażą się doprecyzowujące jej postanowienia rozporządzenia, które mają ukazać się w 2012 r."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Gwarancje pochodzenia i systemy wsparcia",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wsparcie nowych inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "W Polsce nie występują obecnie sformalizowane mechanizmy wsparcia budowy nowych mocy wytwórczych, które sprzyjałyby podejmowaniu decyzji inwestycyjnych. Wyjątek stanowią preferencyjne zasady przyłączania odnawialnych źródeł energii o mocy elektrycznej zainstalowanej poniżej 5 MW oraz jednostek kogeneracji o mocy elektrycznej zainstalowanej poniżej 1 MW − za przyłączenie pobiera się połowę opłaty ustalonej na podstawie rzeczywistych nakładów − polegające na partycypacji w nakładach na przyłączenie w 50 % przez operatora systemu dystrybucyjnego lub operatora systemu przesyłowego. Pozostali wytwórcy ponoszą opłatę kalkulowaną na podstawie 100 % nakładów inwestycyjnych ponoszonych na realizację przyłączeń."
+      },
+      {
+       "type": "text",
+       "text": "Inwestorzy mogą starać się o wsparcie finansowe z Narodowego Funduszu Środowiska i Gospodarki Wodnej, zwanego dalej „NFOŚiGW”, w ramach Programu dla przedsięwzięć w zakresie odnawialnych źródeł energii i obiektów wysokosprawnej kogeneracji, którego celem jest zwiększenie produkcji energii z odnawialnych źródeł energii i obiektów wysokosprawnej kogeneracji. Budżet programu wynosi 1 400 mln zł. Program wdrażany jest w latach 2009-2015. Formą dofinansowania przedsięwzięć jest pożyczka, w wysokości od 4 mln zł do 50 mln zł. Beneficjenci, wyłaniani na zasadzie konkursu, są zobowiązani wykazać m.in. iż minimalny koszt całkowity przedsięwzięcia wynosi 10 mln zł."
+      },
+      {
+       "type": "text",
+       "text": "W ramach Programu Operacyjnego Infrastruktura i Środowisko działanie 9.2 Wysokosprawne wytwarzanie wspierane są inwestycje w zakresie przebudowy i budowy jednostek wytwarzania energii elektrycznej oraz ciepła w skojarzeniu spełniające wymogi wysokosprawnej kogeneracji. Nabór projektów w ramach działania odbywa się w trybie konkursowym. I konkurs został ogłoszony 27 lutego 2009 r. a II - 25 sierpnia 2010 r."
+      },
+      {
+       "type": "text",
+       "text": "Mechanizm wsparcia przedsiębiorców wytwarzających energię elektryczną w wysokosprawnej kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "Mechanizm wsparcia przedsiębiorców wytwarzających energię elektryczną w wysokosprawnej kogeneracji polega na obowiązkowym odbiorze, przesyle lub dystrybucji tej energii przez operatora systemu dystrybucyjnego, z zachowaniem niezawodności i bezpieczeństwa KSE oraz wydawaniu przez Prezesa URE świadectw pochodzenia z kogeneracji, które mogą być przedmiotem obrotu na Towarowej Giełdzie Energii S.A."
+      },
+      {
+       "type": "text",
+       "text": "Powyższy mechanizm wsparcia został uzupełniony o preferencyjne warunki przyłączania źródeł kogeneracji, które, jak wyżej wspomniano korzystają z obniżonej opłaty za przyłączenie. Zgodnie z art. 7 ust. 8 ustawy – Prawo energetyczne za przyłączenie do sieci elektroenergetycznej jednostek kogeneracji o mocy elektrycznej zainstalowanej poniżej 1 MW, pobiera się połowę opłaty ustalonej na podstawie rzeczywistych nakładów. Ponadto w myśl art. 5 ustawy z 2007 r., do 31 grudnia 2011 r. opłatę za przyłączenie do sieci elektroenergetycznej jednostek kogeneracji o mocy elektrycznej zainstalowanej nie wyższej niż 5 MW, pobiera się w wysokości połowy obliczonej opłaty."
+      },
+      {
+       "type": "text",
+       "text": "System świadectw pochodzenia"
+      },
+      {
+       "type": "text",
+       "text": "Fakt pochodzenia energii elektrycznej z kogeneracji jest potwierdzany przez Prezesa URE poprzez przyznanie świadectwa pochodzenia z kogeneracji. Świadectwa pochodzenia wydawane są na podstawie wniosku wytwórcy (posiadacza koncesji), potwierdzonego przez operatora systemu elektroenergetycznego w zakresie wielkości produkcji za dany okres."
+      },
+      {
+       "type": "text",
+       "text": "W systemie polskim funkcjonują trzy rodzaje świadectw pochodzenia poświadczające wytworzenie energii elektrycznej w kogeneracji:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "świadectwa pochodzenia energii wytworzonej w jednostkach opalanych paliwami gazowymi lub o mocy zainstalowanej poniżej 1 MW;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "świadectwa energii wytworzonej w pozostałych źródłach kogeneracyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "świadectwa pochodzenia dla jednostek kogeneracji opalanych metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wytwórcy, którzy uzyskali świadectwa pochodzenia z kogeneracji mogą odsprzedać je za pośrednictwem Towarowej Giełdy Energii S.A. podmiotom zobowiązanym do ich zakupu, zyskując w ten sposób dodatkowy przychód z działalności polegającej na wytwarzaniu energii. System wsparcia kogeneracji jest „domknięty” przez zapisy ustawy – Prawo energetyczne umożliwiające wymierzenie kary pieniężnej przedsiębiorstwom, które nie wypełniły obowiązku umorzenia odpowiedniej ilości świadectw pochodzenia z kogeneracji lub uiszczenia opłaty zastępczej."
+        },
+        {
+         "type": "text",
+         "text": "Obowiązek uzyskania i przedstawienia do umorzenia świadectw pochodzenia z kogeneracji lub wniesienia opłaty zastępczej został nałożony na przedsiębiorstwa zajmujące się wytwarzaniem lub obrotem energią elektryczną i sprzedające tę energię do odbiorców końcowych."
+        },
+        {
+         "type": "text",
+         "text": "W celu wypełnienia powyższego obowiązku przedsiębiorstwa zobowiązane mogą:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "umorzyć odpowiednie świadectwa pochodzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "uiścić opłatę zastępczą na konto NFOŚiGW, która przeznaczona powinna być na wspieranie odnawialnych źródeł energii i źródeł kogeneracyjnych znajdujących się na terytorium Polski.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zgodnie z ustawą – Prawo energetyczne, do zadań Prezesa URE należy kontrola przestrzegania przez przedsiębiorstwa energetyczne ww. obowiązków. Jest ona przeprowadzana po zakończeniu każdego roku kalendarzowego (po dniu 31 marca)."
+        },
+        {
+         "type": "text",
+         "text": "Zgodnie z zapisami obowiązującego prawa opisany powyżej system wsparcia będzie funkcjonował do dnia 31 marca 2012 r."
+        },
+        {
+         "type": "text",
+         "text": "Wspomnianą wcześniej ustawą z 2007 r., w 2010 r. zostały wprowadzone znaczące zmiany w zakresie systemu wsparcia energii wytwarzanej w źródłach odnawialnych oraz w wysokosprawnej kogeneracji. W myśl dodanego art. 9e ust. 1a ustawy – Prawo energetyczne, przedsiębiorcy wytwarzający energię elektryczną i ciepło w OZE, spełniającym jednocześnie warunki wysokosprawnej kogeneracji, od 11 marca 2010 r. mogą ubiegać się o wydanie, dla tej samej ilości wytworzonej energii elektrycznej, świadectwa pochodzenia OZE i jednocześnie świadectwa pochodzenia z kogeneracji. Zostały tym samym rozwiane dotychczasowe wątpliwości interpretacyjne dotyczące możliwości otrzymania dwóch rodzajów świadectw pochodzenia dla tej samej ilości wytworzonej energii elektrycznej w źródle odnawialnym, spełniającym jednocześnie warunki wysokosprawnej kogeneracji."
+        },
+        {
+         "type": "text",
+         "text": "Ustawą z 2007 r., od dnia 11 marca 2010 r. został rozszerzony system wsparcia dla energii wytwarzanej w wysokosprawnej kogeneracji poprzez wprowadzenie mechanizmu wsparcia w postaci świadectw pochodzenia dla źródeł opalanych metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych (Dz. U. Nr 169, poz. 1199, z późn. zm.). Wprowadzono również możliwość wydawania różnych rodzajów świadectw pochodzenia z kogeneracji dla jednej jednostki wytwórczej opalanej różnymi paliwami (tzw. „współspalanie w kogeneracji” art. 9l ust. 1a i 1b ustawy – Prawo energetyczne)."
+        },
+        {
+         "type": "text",
+         "text": "W poniższej tabeli przedstawiono produkcję energii elektrycznej w wysokosprawnej kogeneracji, potwierdzoną wydanymi świadectwami pochodzenia z kogeneracji, za lata 2007- 2010."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 12. Produkcja energii elektrycznej w kogeneracji, w latach 2007-2010, wg stanu na 6 maja 2011 r. [Dane URE]"
+        },
+        {
+         "type": "text",
+         "text": "II połowa"
+        },
+        {
+         "type": "text",
+         "text": "2007 r. 2008 r. 2009 r. 2010 r."
+        },
+        {
+         "type": "text",
+         "text": "Ilość energii Ilość energii Ilość energii Ilość energii Rodzaj jednostki kogeneracji [MWh] [MWh] [MWh] [MWh]*"
+        },
+        {
+         "type": "text",
+         "text": "Opalane paliwami gazowymi lub o 1 122 692,206 2 977 398,975 3 067 284,567 3 027 677,956 mocy zainstalowanej poniżej 1 MW, O łącznej mocy elektrycznej zainstalowanej powyżej1 MW, nieopalone paliwami gazowymi 9 404 012,861 21 215 354,097 21 829 489,134 22 929 512,881 (w tym z przetwarzania biomasy i metanem z kopalń) Opalane metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych,"
+        },
+        {
+         "type": "text",
+         "text": "W 2010 r. Prezes URE wydał pierwsze cztery świadectwa pochodzenia z kogeneracji, dla jednostek kogeneracji opalanych metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego, na łączną ilość 33 334,76 MWh."
+        },
+        {
+         "type": "text",
+         "text": "Ilość umorzonych świadectw"
+        },
+        {
+         "type": "text",
+         "text": "Zgodnie z ustawą - Prawo energetyczne, przedsiębiorstwa energetyczne prowadzące działalność gospodarczą polegającą na wytwarzaniu lub obrocie energią elektryczną i sprzedające tę energię odbiorcom końcowym, wcelu wywiązania się z ustawowego obowiązku, występują doPrezesa URE z wnioskami oumorzenie świadectw pochodzenia z kogeneracji."
+        },
+        {
+         "type": "text",
+         "text": "Poniższa tabela przedstawia wolumen energii wynikający z umorzonych świadectw pochodzenia z kogeneracji w latach 2008-2010 (w danym roku mogą być umarzane świadectwa wydane w bieżącym roku oraz w latach poprzednich)."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 13. Wolumen energii wynikający z umorzonych świadectw pochodzenia z kogeneracji [MWh], [Dane URE]"
+        },
+        {
+         "type": "text",
+         "text": "Rok umorzenia (obejmujący umorzenia świadectw wydanych w 2008r. 2009r. 2010r. danymrokuoraz w roku poprzednim do danego)"
+        },
+        {
+         "type": "text",
+         "text": "Wolumen energii wynikający z umorzonych 16 147 735,05 21 471 058,95 14 761 411,37 świadectw pochodzenia z kogeneracji [MWh]"
+        },
+        {
+         "type": "text",
+         "text": "Wysokość opłat zastępczych"
+        },
+        {
+         "type": "text",
+         "text": "Prezes URE oblicza i publikuje jednostkowe opłaty zastępcze na podstawie średniej ceny sprzedaży energii elektrycznej na rynkukonkurencyjnym. Przy ich ustalaniu Prezes UREuwzględnia:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "ilość energii elektrycznej z wysokosprawnej kogeneracji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "różnicę pomiędzy kosztami wytwarzania energii elektrycznej wwysokosprawnej kogeneracji i cenami sprzedażyenergii elektrycznej narynkukonkurencyjnym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "poziom cenenergii elektrycznej dlaodbiorcówkońcowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "poziom zagospodarowania dostępnych ilości metanu uwalnianego i ujmowanego przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węglakamiennego oraz gazu uzyskiwanego z przetwarzania biomasy.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Tabela 14. Wysokość opłat zastępczych obowiązującychw latach 2007-2011[Dane URE] Ozg - jednostkowa opłata zastępcza, nie niższa niż 15 % i nie wyższa niż 110 % średniej ceny sprzedaży na rynku konkurencyjnym, energii elektrycznej wytworzonej w jednostkach opalanych paliwami gazowymi lub o łącznej mocy zainstalowanej elektrycznej źródła poniżej 1 MW, Ozk - jednostkowa opłata zastępcza, nie niższa niż 15 % i nie wyższa niż 40 % średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym wytworzonej w jednostkach o łącznej mocy elektrycznej zainstalowanej powyżej1 MW, nieopalone paliwami gazowymi (w tym z przetwarzania biomasy i metanem z kopalń) Ozm - jednostkowa opłata zastępcza, nie niższa niż 30 % i nie wyższa niż 120 % średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym, wytworzonej w jednostkach opalanych metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy."
+        },
+        {
+         "type": "text",
+         "text": "Tabela 15. Średnie ceny sprzedaży energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w latach 2007-2010 [Dane URE]"
+        },
+        {
+         "type": "text",
+         "text": "średnia cena sprzedaży energii elektrycznej wytworzonej w wysokosprawnej kogeneracji Rok 2007 2008 2009 2010 w jednostkach kogeneracji:"
+        },
+        {
+         "type": "text",
+         "text": "opalanych paliwami gazowymi lub o łącznej mocy zainstalowanej elektrycznej źródła 133,79 150,51 191,03 187,74 poniżej 1 MW"
+        },
+        {
+         "type": "text",
+         "text": "o łącznej mocy elektrycznej zainstalowanej powyżej1 MW, nieopalone paliwami 126,79 152,11 199,89 190,47 gazowymi (w tym z przetwarzania biomasy [zł/MWh] i metanem z kopalń)"
+        },
+        {
+         "type": "text",
+         "text": "opalanych metanem uwalnianym i"
+        },
+        {
+         "type": "text",
+         "text": "Informacje o wysokościach opłat zastępczych oraz średnich cen sprzedaży energii elektrycznej wytworzonej w wysokosprawnej kogeneracji zamieszczane są na stronie internetowej URE."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Konkluzje i Wnioski",
+     "children": [
+      {
+       "type": "text",
+       "text": "Analizując przedstawione w Raporcie dane i wyniki dotyczące rozwoju kogeneracji stwierdzono, iż w badanym okresie czasu w Polsce wystąpił postęp w zwiększaniu produkcji energii elektrycznej w wysokosprawnej kogeneracji – z poziomu około 15,6 % w 2007 r. do poziomu około 17 % w 2010 r."
+      },
+      {
+       "type": "text",
+       "text": "Wzrost produkcji energii elektrycznej w wysokosprawnej kogeneracji potwierdza również fakt, iż od 2007 r. systematycznie wzrasta ilość wydawanych przez Prezesa URE świadectw pochodzenia z kogeneracji."
+      },
+      {
+       "type": "text",
+       "text": "Jednakże, aby utrzymać oraz zwiększyć rosnący trend udziału wysokosprawnej kogeneracji, należy rozważyć możliwość wprowadzenia dodatkowego finansowego mechanizmu wsparcia, zachęcającego do modernizacji istniejących jednostek w kierunku wysokosprawnej kogeneracji oraz dla inwestorów angażujących środki w nowe inwestycje."
+      },
+      {
+       "type": "text",
+       "text": "Wdrożone w Polsce prawne systemy prokogeneracyjne zakładają podporządkowanie tego aspektu energetyki mechanizmom administracyjnym. Zaletą tego procesu jest uregulowanie większości aspektów kogeneracji. Jednak prawna normalizacja w zakresie promocji kogeneracji sięga końca 2012 r. Zasadne jest, aby mechanizmy legislacyjnej regulacji obowiązywały w dłuższym horyzoncie czasowym, tak, aby inwestorzy posiadali stabilną sytuację administracyjno-prawną."
+      },
+      {
+       "type": "text",
+       "text": "Reasumując sytuację na rynku dostawców paliw, można stwierdzić, że w perspektywie 10 lat struktura zaopatrzenia w gaz może ulec istotnym zmianom (perspektywa wykorzystania gazu łupkowego), przy czym zmiany te pozytywnie wpłyną na bezpieczeństwo dostaw gazu i jego cenę. Również dostępność paliw węglowych nie będzie barierą rozwoju kogeneracji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Arkusze danych",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela 16. Dane ogólne dotyczące wytwarzania energii elektrycznej i ciepła w wysokosprawnej kogeneracji [Dane ARE]"
+      },
+      {
+       "type": "text",
+       "text": "dot. energii elektrycznej dot. ciepła"
+      },
+      {
+       "type": "text",
+       "text": "Wytwarzanie Wytwarzanie Wytwarzanie"
+      },
+      {
+       "type": "text",
+       "text": "energii energii przez energii przez Udział CHP Wytwarzanie Producenci, Udział elektrycznej producentów, dla producentów w produkcji energii dla których Producenci CHP w w których jest to na potrzeby energii cieplnej w jest to wytwarzający produkcji Dane ogólne kogeneracji¹, podstawowa własne, elektrycznej ramach podstawowa na potrzeby energii moc, działalność, moc, ogółem kogeneracji działalność własne cieplnej wsad paliwa moc, wsad paliwa ogółem wsad paliwa"
+      },
+      {
+       "type": "text",
+       "text": "moc [GW] 6,3 4,1 2,1"
+      },
+      {
+       "type": "text",
+       "text": "energia 85,0"
+      },
+      {
+       "type": "text",
+       "text": "elektryczna energia [TWh] 23,0 15,4 7,6"
+      },
+      {
+       "type": "text",
+       "text": "wytworzona"
+      },
+      {
+       "type": "text",
+       "text": "moc [GW] 24,8 11,2 13,6 energia 51,3 cieplna energia [TWh] 85,4 38,3 47,2 wytworzona"
+      },
+      {
+       "type": "text",
+       "text": "paliwo ogółem [PJ] 111,4 57,7 53,7 413,7 214,3 199,4 moc [GW] 8,2 6,3 1,9"
+      },
+      {
+       "type": "text",
+       "text": "energia 21,2"
+      },
+      {
+       "type": "text",
+       "text": "elektryczna energia [TWh] 26,2 20,1 6,1"
+      },
+      {
+       "type": "text",
+       "text": "wytworzona"
+      },
+      {
+       "type": "text",
+       "text": "moc [GW] 27,2 15,4 11,8 energia 49,0 cieplna energia [TWh] 77,9 48,1 29,9 wytworzona"
+      },
+      {
+       "type": "text",
+       "text": "paliwo ogółem [PJ] 354,6 308,6 46,0 1055,1 918,3 136,8 moc [GW] 8,3 6,4 1,9"
+      },
+      {
+       "type": "text",
+       "text": "energia 19,7"
+      },
+      {
+       "type": "text",
+       "text": "elektryczna energia [TWh] 26,3 20,4 5,9"
+      },
+      {
+       "type": "text",
+       "text": "wytworzona"
+      },
+      {
+       "type": "text",
+       "text": "moc [GW] 26,8 15,3 11,5 energia 51,3 cieplna energia [TWh] 76,5 47,2 29,4 wytworzona"
+      },
+      {
+       "type": "text",
+       "text": "paliwo ogółem [PJ] 381,1 332,4 48,7 1108,7 966,9 141,8 2005 r. 2004 r. 2002 r."
+      },
+      {
+       "type": "text",
+       "text": "moc [GW] 8,5 6,8 1,7 energia 18,9 elektryczna energia [TWh] 26,0 20,1 5,9 wytworzona moc [GW] 26,5 15,7 10,8 energia 50,0 cieplna energia [TWh] 73,5 44,5 29,0 wytworzona paliwo ogółem [PJ] 397,9 348,4 49,6 1126,7 986,4 140,3 moc [GW] 9,0 7,2 1,8 energia 20,3 elektryczna energia [TWh] 27,6 21,7 5,9 wytworzona moc [GW] 26,3 16,2 10,1 energia 50,8 cieplna energia [TWh] 72,5 44,6 27,9 wytworzona paliwo ogółem [PJ] 415,5 367,3 48,2 1092,9 966,0 126,8 moc [GW] 8,8 7,1 1,7 energia 18,8 elektryczna energia [TWh] 26,4 20,2 6,2 wytworzona moc [GW] 25,3 15,4 10,0 energia 49,3 cieplna energia [TWh] 72,1 42,1 30,0 wytworzona paliwo ogółem [PJ] 413,9 364,8 49,1 1130,7 996,6 134,1 moc [GW] 8,6 7,2 1,4 energia 19,4 elektryczna energia [TWh] 26,1 20,5 5,5 wytworzona moc [GW] 24,8 16,7 8,1 energia 50,4 cieplna energia [TWh] 71,8 45,6 26,2 wytworzona paliwo ogółem [PJ] 398,3 357,5 40,7 1096,1 983,9 112,1 moc [GW] 8,7 7,2 1,5 energia 19,8 elektryczna energia [TWh] 27,7 21,4 6,4 wytworzona moc [GW] 24,8 16,2 8,7 energia 49,5 cieplna energia [TWh] 77,0 47,8 29,2 wytworzona paliwo ogółem [PJ] 121,6 80,7 40,9 337,8 224,3 113,5 2010 r. 2009 r. 2008 r. 2007 r. 2006 r."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 17. Technologie wytwarzania energii elektrycznej i ciepła w wysokosprawnej kogeneracji [Dane ARE]"
+      },
+      {
+       "type": "text",
+       "text": "Turbina turbina turbina turbina OGÓŁEM CCGT z parowa parowa gazowa z silnik pozostałe Technologie odzyskiem przeciwprężna upustowo- odzyskiem spalinowy ciepła kondensacyjna ciepła"
+      },
+      {
+       "type": "text",
+       "text": "moc [GW] 6,3 0,3 1,9 4,0 0,1 0,0 0,0 energia elektryczna energia [TWh] 0,7 7,8 14,2 0,3 0,0 0,0 wytworzona 23,0 2002 r. moc [GW] 24,8 0,7 8,3 15,7 0,2 0,0 0,0 energia cieplna energia wytworzona [TWh] 85,4 0,7 30,4 53,6 0,8 0,0 0,0"
+      },
+      {
+       "type": "text",
+       "text": "paliwo wsad [PJ] 525,1 14,2 166,2 338,4 6,3 0,0 0,0 moc [GW] 8,2 0,6 2,9 4,7 0,0 0,0 0,0 energia elektryczna energia [TWh] 2,2 10,5 13,2 0,2 0,1 0,0 wytworzona 26,2 2004 r. moc [GW] 27,2 0,5 12,1 14,5 0,1 0,0 0,0 energia cieplna energia wytworzona [TWh] 77,9 1,7 38,2 37,6 0,3 0,1 0,0"
+      },
+      {
+       "type": "text",
+       "text": "paliwo wsad [PJ] 1409,7 28,6 225,5 1151,8 2,5 1,3 0,0 moc [GW] 8,3 0,6 2,7 4,9 0,1 0,0 0,0 energia elektryczna energia [TWh] 2,3 9,7 13,9 0,3 0,1 0,0 wytworzona 26,3 2005 r. moc [GW] 26,8 0,5 11,5 14,6 0,1 0,0 0,0 energiacieplna energia wytworzona [TWh] 76,5 1,8 34,7 39,4 0,5 0,1 0,0"
+      },
+      {
+       "type": "text",
+       "text": "paliwo wsad [PJ] 1489,8 35,6 207,5 1241,6 3,5 1,6 0,0 moc [GW] 8,5 0,6 2,2 5,6 0,1 0,0 0,0 energia elektryczna energia [TWh] 2,1 7,9 15,6 0,2 0,1 0,0 wytworzona 26,0 2006 r. moc [GW] 26,5 0,5 9,5 16,3 0,1 0,0 0,0 energia cieplna energia wytworzona [TWh] 73,5 1,6 27,5 43,9 0,3 0,1 0,0"
+      },
+      {
+       "type": "text",
+       "text": "paliwo wsad [PJ] 1524,7 31,9 162,1 1326,2 2,8 1,6 0,0 moc [GW] 9,0 0,6 2,7 5,7 0,0 0,0 0,0 energia elektryczna energia [TWh] 2,5 6,3 31,4 0,1 0,1 0,0 wytworzona 40,4 2007 r. moc [GW] 24,9 0,6 8,5 15,6 0,1 0,1 0,0 energia cieplna energia wytworzona [TWh] 161,8 2,4 20,5 138,5 0,2 0,2 0,0"
+      },
+      {
+       "type": "text",
+       "text": "paliwo wsad [PJ] 1472,3 33,9 106,9 1327,7 1,7 2,0 0,0 moc [GW] 8,8 0,6 1,9 6,2 0,0 0,0 0,0 energia elektryczna energia [TWh] 2,7 6,4 33,5 0,2 0,1 0,0 wytworzona 42,9 2008 r. moc [GW] 22,3 0,6 7,4 14,1 0,1 0,1 0,0 energia cieplna energia wytworzona [TWh] 166,8 2,5 21,6 142,1 0,4 0,2 0,0"
+      },
+      {
+       "type": "text",
+       "text": "paliwo wsad [PJ] 1527,6 34,0 118,7 1370,3 2,6 2,0 0,2 moc [GW] 8,6 0,6 2,0 5,9 0,0 0,0 0,0 energia elektryczna energia [TWh] 2,7 6,7 16,3 0,2 0,1 0,0 wytworzona 26,1 2009 r. moc [GW] 24,8 0,7 8,2 15,8 0,1 0,0 0,0 energia cieplna energia wytworzona [TWh] 71,8 2,6 24,4 44,3 0,3 0,2 0,1"
+      },
+      {
+       "type": "text",
+       "text": "paliwo wsad [PJ] 1494,3 35,1 136,4 1317,9 2,4 2,2 0,3 moc [GW] 8,7 0,6 2,1 5,9 0,0 0,0 0,0 energia elektryczna energia [TWh] 2,6 7,3 17,4 0,2 0,2 0,0 wytworzona 27,7 2010 r. moc [GW] 24,8 0,7 8,4 15,6 0,1 0,0 0,0 energia cieplna energia wytworzona [TWh] 77,0 2,5 26,3 47,5 0,4 0,2 0,1"
+      },
+      {
+       "type": "text",
+       "text": "paliwo wsad [PJ] 459,4 22,7 146,5 285,0 2,8 1,8 0,6"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Gospodarki kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki (Dz. U. Nr 248, poz. 1478).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 104, poz. 708, Nr 158, poz. 1123 i Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 124, Nr 52, poz. 343, Nr 115, poz. 790 i Nr 130, poz. 905, z 2008 r. Nr 180, poz. 1112 i Nr 227, poz. 1505, z 2009 r. Nr 3, poz. 11, Nr 69, poz. 586, Nr 165, poz. 1316 i Nr 215, poz. 1664, z 2010 r. Nr 21, poz. 104 i Nr 81, poz. 530 oraz z 2011 r. Nr 94, poz. 551, Nr 135, poz. 789, Nr 205, poz. 1208, Nr 233, poz. 1381 i Nr 234, poz. 1392. Warszawa,luty2012r. elektrownie i elektrociepłownie zawodowe, w tym 19 753 20 327 20 123 20 862 elektrociepłownie zawodowe 17 580 18 194 18 218 18 608 EC przemysłowe o mocy powyżej 0,5 MW 4 641 4 686 4 645 5 690 Tabela 4. Produkcja ciepła w elektrowniach, elektrociepłowniach i ciepłowniach (zawodowych i niezawodowych) w Polsce w latach 2006-2010 [TJ] [Dane ARE] 2006 r. 2007 r. 2008 r. 2009 r. 2010 r. Wyszczególnienie [TJ] Ogółem produkcja ciepła 528 877 513 947 526 702 513 039 519 343 Elektrownie, EC i ciepłownie zawodowe 287 651 281 206 289 882 288 673 314 686 Wysokosprawna kogeneracja b.d. 224 298 223 961 224 802 251 961 Elektrownie i EC zawodowe 189 939 189 342 211 976 212 604 232 880 Elektrownie i EC zawodowe w skojarzeniu 171 180 171 274 159 970 166 424 172 857 EC przemysłowe 145 867 136 118 118 832 115 306 126 659 Wyszczególnienie 2010 r. 2015 r. * 2020 r. * Mieszkania [tys. ] 13 412,7 14 132,4 14 893,7 Powierzchnia użytkowa mieszkań, [tys m²] 949 616 1 017 530 1 090 216 Ludność [tys.] 38 092,0 38 016,1 37 829,9 Zapotrzebowanie na ciepło do przygotowania CWU 79,2 78,7 77,9 [PJ] Zapotrzebowanie na ciepło do ogrzewania 389,7 395,6 400,3 pomieszczeń [PJ] Łączne zapotrzebowanie na ciepło w gospodarstwach 468,9 474,3 478,2 domowych [PJ] * wartości prognozowane Przemysł, budownictwo i rolnictwo Gospodarstwa domowe Usługi Wytwarzanie chłodu Przemysł Rolnictwo Transport Usługi Gospodarstwa domowe OGÓŁEM Wyszczególnienie 2006 r. 2010 r. 2015 r. * 2020 r. * OGÓŁEM [TWh] 136,7 144,5 153,5 164,1 Przemysł [TWh] 68,7 68,1 67,5 66,9 Rolnictwo [TWh] 0,4 0,5 0,5 0,5 Transport [TWh] 5,3 4,8 4,3 3,9 Usługi [TWh] 34,8 40,4 46,9 54,5 Gospodarstwa domowe [TWh] 27,5 30,7 34,3 38,3 * wartości prognozowane P [ ij 600 y n ca z c i r e n 500 nh e go 400 ce t ł a j k j e n 300 c n e t w a r p 200 o P s o k 100 o sy 0 w 2010 r. 2015 r. 2020 r. Aktualna produkcja w wysokosprawnerj kogeneracji Ciepła woda użytkowa Ciepło dla celów przemysłowych Budynki wielkokubaturowe Produkcja RAZEM chłodu Ciepło do ogrzewania budynków Ciepło dla celów przemysłowych [PJ] 108,8 110,4 125,3 Budynki wielkokubaturowe [PJ] 13,6 13,6 16,1 Produkcja chłodu [PJ] 0,5 1,0 2,0 Ogółem potencjał ekonomiczny [PJ] 427,1 431,9 458,4 * wartości prognozowane Pozostałe [PJ] 5,4 14,2 14,9 Ogółem produkcja energii elektrycznej [PJ] 157,4 215,5 246,4 Ogółem produkcja w wysokosprawnej kogeneracji [PJ] 16,8 22,3 25,4 * wartości prognozowane l M [ O²₂₀ 22,9 C ij s i₁₅ m e 14,5 a j₁₀ ck ud R e⁵ ⁰ 2010 r. 2015 r.* 2020 r.* * wartości prognozowane biodegradacji Mg 297 828,00 309 880,00 1 944 431,44 1 000 094,83 Nieodnawialne odpady Mg 2 726,70 Gaz ziemny tys.m³ 556 845,61 848 563,32 1 050 486,92 1 279 744,02 Gaz rafineryjny tys.m³ 105 962,34 95 483,45 160 304,13 185 631,28 Biogaz tys.m³ 1 881,46 6 467,08 Gaz koksowniczy tys.m³ Gazowe 186 688,82 201 661,90 469 794,13 411 540,52 Gaz wielkopiecowy tys.m³ 1 728 503,73 2 450 224,00 Inne gazy odlotowe tys.m³ 7 336,47 10 081,32 Inne tys.m³ 1 443 254,32 62 889,69 2 324 127,72 2 244 989,33 Metan tys.m³ 32 025,71 7,7 TWh e 1180 MW e 92 768 TJ 3 940 MW t - kiszonki kukurydzy – biogaz 81 638 TJ 81 638 TJ (kogeneracja) *) 9,3 TWh e 1 690 MW e 48022 TJ 2 410 MW t Razem 827406 TJ 743409 TJ *) Zakładane współczynniki skojarzenia (stosunek wytworzonej energii elektrycznej do ciepła): dla systemów kogeneracyjnych na paliwa stałe – 0,3, dla systemów kogeneracyjnych na biogaz – 0,7 likwidowanych lub zlikwidowanych - - - 101 083,135 kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy, Suma 10 526 705,07 24 192 753,07 24 896 773,70 26 058 273,97 * Wydane za okres wytworzenia od dnia 11 marca 2010 r. Ilość energii elektrycznej po uwzględnieniu umorzeń korekcyjnych; Rok 2007 2008 2009 2010 2011 Wysokość opłaty zastępczej [zł/MWh] 117,00 117,00 128,80 128,80 127,15 Ozg % średniej ceny sprzedaży energii elektrycznej na rynku 97,7% 97,7% 100% 82,9% 64,5% konkurencyjnym; Wysokość opłaty zastępczej [zł/MWh] 17,96 17,96 19,32 23,32 29,58 Ozk % średniej ceny sprzedażyenergii elektrycznej na rynku 15% 15% 15% 15% 15% konkurencyjnym; Wysokość opłaty zastępczej [zł/MWh] - - - 59,16 59,16 Ozm % średniej ceny sprzedażyenergii elektrycznej na rynku - - - 30% 30% konkurencyjnym; ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub - - 249,65 243,59 zlikwidowanych kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy Średnia cena sprzedaży energii elektrycznej [zł/MWh] 128,80 155,44 197,21 195,32 na rynku konkurencyjnym"
+ }
+}

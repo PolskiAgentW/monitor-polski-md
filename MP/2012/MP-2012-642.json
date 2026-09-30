@@ -1,0 +1,1352 @@
+{
+ "eli": "MP/2012/642",
+ "title": "Uchwała Nr 137 Rady Ministrów z dnia 24 sierpnia 2012 r. w sprawie ustanowienia Rządowego Programu na rzecz Aktywności Społecznej Osób Starszych na lata 2012-2013",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/642/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 137"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 sierpnia 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustanowienia Rządowego Programu na rzecz Aktywności Społecznej Osób Starszych na lata 2012–2013"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5c ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.[^1]) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustanawia się Rządowy Program na rzecz Aktywności Społecznej Osób Starszych na lata 2012–2013, zwany dalej „Programem”, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Program ustanawia się w celu realizacji Strategii Rozwoju Kraju 2007–2015.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Program realizuje minister właściwy do spraw zabezpieczenia społecznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 137 Rady Ministrów z dnia 24 sierpnia 2012 r. (poz. 642)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Rządowy Program na rzecz Aktywności Społecznej Osób Starszych na lata 2012–2013 Spis treści WSTĘP .................................................................................................................................................... 4"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "DIAGNOZA ....................................................................................................................................... 5",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. DEMOGRAFIA ......................................................................................................................... 5"
+      },
+      {
+       "type": "text",
+       "text": "1.2. DZIAŁALNOŚĆ SPOŁECZNA OSÓB STARSZYCH ..................................................................... 10"
+      },
+      {
+       "type": "text",
+       "text": "1.3. SYTUACJA DOCHODOWA GOSPODARSTW DOMOWYCH EMERYTÓW ................................ 11"
+      },
+      {
+       "type": "text",
+       "text": "1.4. FORMY EDUKACJI DLA OSÓB STARSZYCH ............................................................................ 12"
+      },
+      {
+       "type": "text",
+       "text": "1.5. BUDŻET CZASU WOLNEGO OSÓB STARSZYCH ..................................................................... 16"
+      },
+      {
+       "type": "text",
+       "text": "1.6. ZDROWIE I USŁUGI KIEROWANE DO OSÓB STARSZYCH ...................................................... 17"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "PODSTAWA PRAWNA PROGRAMU ............................................................................................... 19",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "CELE PROGRAMU ........................................................................................................................... 20",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "DZIAŁANIA NA RZECZ OSÓB STARSZYCH W DOKUMENTACH STRATEGICZNYCH .......................... 22",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "GŁÓWNE ZAŁOŻENIA PROGRAMU ................................................................................................ 25",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "PRIORYTETY I KIERUNKI INTERWENCJI .......................................................................................... 25",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "FINANSOWANIE PROGRAMU ............................................................................................................ 28",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "BENEFICJENCI PROGRAMU ................................................................................................................ 28",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "PODMIOTY UCZESTNICZĄCE W REALIZACJI PROGRAMU I ICH ZADANIA .......................................... 30",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "WARUNKI I ZASADY SKŁADANIA OFERT I REALIZACJI PROGRAMU ................................................. 30",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "ZASADY FINANSOWANIA ................................................................................................................. 31",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "NADZÓR NAD REALIZACJĄ PROGRAMU .......................................................................................... 31",
+     "children": [
+      {
+       "type": "text",
+       "text": "Spis tabel ............................................................................................................................................... 32"
+      },
+      {
+       "type": "text",
+       "text": "Spis wykresów ....................................................................................................................................... 32 WSTĘP"
+      },
+      {
+       "type": "text",
+       "text": "Inspiracją do stworzenia Rządowego Programu na rzecz Aktywności Społecznej Osób Starszych na lata 2012–2013, zwanego dalej „Programem”, była obywatelska, publiczna identyfikacja problemów osób starszych, wynikająca z pogłębionej analizy i debaty dotyczącej procesów społecznych i demograficznych zachodzących w naszym kraju, na tle długofalowych wyzwań rozwojowych. Walorem sposobu tworzenia tego dokumentu jest zastosowanie w praktyce zasady partnerstwa publiczno-społecznego, integrującej w działaniu instytucje reprezentujące środowiska osób starszych i administrację publiczną. Szczególnie ważnym wyrazem nowego podejścia do problematyki osób starszych jest podmiotowe ujęcie tej kwestii społecznej. W konsekwencji dało to podstawy do przyjęcia zintegrowanej, horyzontalnej formuły Programu, odnoszącej się do różnorodnych potrzeb oraz interesów istotnych dla tak wrażliwej społecznie fazy życia człowieka. Program jest przedsięwzięciem kompleksowym, uwzględniającym obszary i kierunki wsparcia umożliwiające osiągnięcie celu głównego, jakim jest poprawa jakości i poziomu życia osób starszych dla godnego starzenia się poprzez aktywność społeczną. Program zakłada praktyczne włączenie sektora organizacji pozarządowych do działań służących zaangażowaniu seniorów."
+      },
+      {
+       "type": "text",
+       "text": "Wyodrębnienie priorytetów obejmujących sferę edukacji osób starszych, integrację wewnątrzi międzypokoleniową, partycypację obywatelską osób starszych oraz szeroko rozumiane usługi społeczne, z akcentem na aktywność, daje podstawy do działań o charakterze komplementarnym, będących podstawą do działań systemowych. W tym kontekście fundamentalne znaczenie dla przyszłości polityki publicznej na rzecz osób starszych będzie miało stworzenie strategicznych podstaw do jej realizacji. Przewiduje to drugi komponent tego przedsięwzięcia. Racjonalna koncepcja długofalowej polityki w tym zakresie, w najbliższej przyszłości, może powstać jedynie w formule partycypacyjnej, z udziałem wszystkich interesariuszy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "DIAGNOZA",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. DEMOGRAFIA"
+      },
+      {
+       "type": "text",
+       "text": "W Polsce od kilkunastu lat obserwowany jest proces zmiany struktury demograficznej, którego cechą jest rosnący udział osób starszych w populacji ogółem. Na koniec 2010 r. liczba ludności Polski wynosiła 38,2 mln osób. W podziale na ekonomiczne grupy ludności (0–17, 18–59/64, 60+/65+) populacja w wieku przedprodukcyjnym stanowiła 19%, produkcyjnym – 64%, poprodukcyjnym – 17%."
+      },
+      {
+       "type": "text",
+       "text": "Jednocześnie na skutek poprawy warunków życia wydłuża się średnia długość życia Polaków¹, która dla mężczyzn urodzonych w 2010 r. wynosiła 72,1 roku, a dla kobiet – 80,6 roku. W przeciągu 10 lat, od 2000 r., przeciętne dalsze trwanie życia mężczyzn wzrosło o 2,4 roku, a kobiet o 2,6 roku. Według prognozy demograficznej Głównego Urzędu Statystycznego (GUS) do 2035 r. przeciętne trwanie życia wzrośnie odpowiednio o około 8 lat dla mężczyzn oraz o około 3 lata dla kobiet. Szczegółowo kształtowanie się trwania życia przedstawiono na Wykresie 1, na którym zaznaczono również prognozowane dalsze trwanie życia do 2035 r. Zaprezentowano najbardziej optymistyczny wariant prognozy (wariant II), w którym przeciętne trwanie życia jest najdłuższe."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 1. Trwanie życia w podziale na płeć w latach 1985–2035"
+      },
+      {
+       "type": "text",
+       "text": "⁸⁵"
+      },
+      {
+       "type": "text",
+       "text": "⁸³"
+      },
+      {
+       "type": "text",
+       "text": "⁸¹"
+      },
+      {
+       "type": "text",
+       "text": "⁷⁹"
+      },
+      {
+       "type": "text",
+       "text": "⁷⁷"
+      },
+      {
+       "type": "text",
+       "text": "⁷⁵"
+      },
+      {
+       "type": "text",
+       "text": "⁷³"
+      },
+      {
+       "type": "text",
+       "text": "⁷¹"
+      },
+      {
+       "type": "text",
+       "text": "⁶⁹"
+      },
+      {
+       "type": "text",
+       "text": "⁶⁷"
+      },
+      {
+       "type": "text",
+       "text": "⁶⁵"
+      },
+      {
+       "type": "text",
+       "text": "mężczyźni mężczyźni prognoza (wariant II)"
+      },
+      {
+       "type": "text",
+       "text": "kobiety kobiety prognoza (wariant II)"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: opracowanie własne na podstawie danych GUS."
+      },
+      {
+       "type": "text",
+       "text": "Wydłużająca się przeciętna długość życia sprawia, że w perspektywie najbliższych dwudziestu kilku lat nastąpi gwałtowny proces starzenia się ludności. Tempo starzenia się społeczeństwa obrazuje mediana wieku², która w 2010 r. dla ogółu populacji Polski wynosiła 38 lat, a w 2035 r., według prognozy GUS, może wynieść 47,9 roku (w ciągu 25 lat wzrost o 26%)."
+      },
+      {
+       "type": "text",
+       "text": "Na skutek niskiego wskaźnika urodzeń³ w kolejnych latach odsetek ludności w wieku przedprodukcyjnym będzie malał – do 2035 r. o 1,5 mln osób (3 pkt. proc.). Ponadto GUS przewiduje znaczący ubytek ludności w wieku produkcyjnym. Począwszy od 2010 r., w ciągu 15 lat liczebność tej grupy zmniejszy się o 3 mln, a największy ubytek – 1,2 mln osób nastąpi pomiędzy latami 2015 i 2020. Do 2035 r. zmniejszenie się populacji osób w wieku produkcyjnym prognozowane jest na poziomie 3,9 mln osób (spadek o 7 pkt. proc.). Znacząco wzrośnie liczba osób w wieku poprodukcyjnym – o 3,2 mln osób, co spowoduje, że udział tej grupy w całej populacji wzrośnie o 10 pkt. proc."
+      },
+      {
+       "type": "text",
+       "text": "Relację pomiędzy liczbą osób w wieku poprodukcyjnym a liczbą osób w wieku produkcyjnym określa się współczynnikiem obciążenia demograficznego ludnością w wieku poprodukcyjnym. Według prognozy GUS współczynnik ten wzrośnie z 26 osób w wieku poprodukcyjnym przypadających na 100 osób w wieku produkcyjnym w 2010 r. do 46 osób w 2035 r."
+      },
+      {
+       "type": "text",
+       "text": "W latach 2010–2035 wzrośnie udział osób w wieku nieprodukcyjnym (wiek przedprodukcyjny oraz poprodukcyjny). Ludność w wieku produkcyjnym zostanie w większym niż obecnie stopniu obciążona pracą na rzecz pokolenia w wieku przedprodukcyjnym i poprodukcyjnym. Prognozowane kształtowanie się struktury demograficznej przedstawiono na Wykresie 2."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 2. Struktura demograficzna ludności Polski w latach 2010–2035 w podziale na ekonomiczne grupy wieku*"
+      },
+      {
+       "type": "text",
+       "text": "⁷⁰"
+      },
+      {
+       "type": "text",
+       "text": "64,4"
+      },
+      {
+       "type": "text",
+       "text": "⁶⁵ 62,4"
+      },
+      {
+       "type": "text",
+       "text": "60 59,5 57,8 57,8 57,6"
+      },
+      {
+       "type": "text",
+       "text": "⁵⁵"
+      },
+      {
+       "type": "text",
+       "text": "⁵⁰"
+      },
+      {
+       "type": "text",
+       "text": "45 42,2 42,2 42,4 40,5"
+      },
+      {
+       "type": "text",
+       "text": "⁴⁰ 37,6"
+      },
+      {
+       "type": "text",
+       "text": "35,6"
+      },
+      {
+       "type": "text",
+       "text": "³⁵"
+      },
+      {
+       "type": "text",
+       "text": "³⁰ 2010 2015 2020 2025 2030 2035"
+      },
+      {
+       "type": "text",
+       "text": "produkcyjny nieprodukcyjny"
+      },
+      {
+       "type": "text",
+       "text": "* Wiek produkcyjny: dla kobiet 18–59 lat i mężczyzn 18–64 lat, wiek nieprodukcyjny: 0–14 i 60+/65+ lat."
+      },
+      {
+       "type": "text",
+       "text": "Źródło: opracowanie własne na podstawie danych GUS."
+      },
+      {
+       "type": "text",
+       "text": "Na Wykresie 3 przedstawiono, jak zmieni się struktura wiekowa w Polsce do 2035 r. Osoby z wyżu demograficznego z lat 50. w znacznej mierze zasilą grupę 75+, natomiast osoby z wyżu z lat 80. wejdą w wiek niemobilny. Warto zwrócić uwagę, że po tych dwóch najliczniejszych grupach nie ma kolejnych (młodszych), które byłyby zbliżone pod względem liczebności. Gdy kohorta osób z lat 80. wejdzie w wiek poprodukcyjny, można się spodziewać znacznego obciążenia systemu ubezpieczeń społecznych oraz systemu opieki zdrowotnej."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 3. Liczba osób w 5-letnich grupach wieku w latach 2010, 2035, 2060*"
+      },
+      {
+       "type": "text",
+       "text": ".³⁵⁰⁰ w sy t 3 000"
+      },
+      {
+       "type": "text",
+       "text": "²⁵⁰⁰"
+      },
+      {
+       "type": "text",
+       "text": "²⁰⁰⁰"
+      },
+      {
+       "type": "text",
+       "text": "¹⁵⁰⁰"
+      },
+      {
+       "type": "text",
+       "text": "¹⁰⁰⁰"
+      },
+      {
+       "type": "text",
+       "text": "⁵⁰⁰"
+      },
+      {
+       "type": "text",
+       "text": "⁰"
+      },
+      {
+       "type": "text",
+       "text": "2010 2035 2060*"
+      },
+      {
+       "type": "text",
+       "text": "* Uwaga: dane z 2060 r. pochodzą z prognoz Komisji Europejskiej, dane z 2010 r. i 2035 r. pochodzą z prognozy demograficznej GUS na lata 2008–2035 (prognozy nie są w pełni porównywalne). Zastosowano takie zestawienie, aby zobrazować sytuację demograficzną w dłuższym horyzoncie czasowym."
+      },
+      {
+       "type": "text",
+       "text": "Źródło: opracowanie własne na podstawie danych GUS oraz Komisji Europejskiej."
+      },
+      {
+       "type": "text",
+       "text": "Na koniec 2010 r.⁴ liczba osób w wieku poprodukcyjnym (60+/65+) wyniosła 6,44 mln⁵. GUS prognozuje, że liczba ta wyniesie 9,62 mln w 2035 r. (wzrost o 49%), a największy wzrost będzie obserwowany pomiędzy latami 2015 i 2020 (1,0 mln osób). Należy jednak pamiętać, że prognoza GUS nie uwzględnia nowego wieku emerytalnego dla kobiet i mężczyzn. W związku z tym wzrost liczby osób w wieku poprodukcyjnym będzie nieznacznie odłożony w czasie."
+      },
+      {
+       "type": "text",
+       "text": "Wraz ze zmieniającą się strukturą populacji Polski zmieni się również struktura osób w wieku poprodukcyjnym. Do 2035 r., w porównaniu z 2010 r., wzrośnie udział osób w przedziałach wieku 60/65–74, 75–79, 80–84, 85–89, 90+, a największą dynamikę wzrostu zaobserwować będzie można wśród osób będących w wieku 90+ (ok. 2,5-krotny wzrost), 85–89 (2-krotny wzrost). Liczba osób w wieku 75+ wyniesie ok. 4,5 mln w 2035 r. (w 2010 r. ta liczba wynosiła 2,4 mln). Szczegółową strukturę osób w wieku 60/65 przedstawiono na Wykresie 4."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 4. Liczba osób w wybranych grupach wieku w latach 2010, 2020, 2030, 2035"
+      },
+      {
+       "type": "text",
+       "text": "n l⁶ 5,81 m 5,38 w 5,13"
+      },
+      {
+       "type": "text",
+       "text": "⁵"
+      },
+      {
+       "type": "text",
+       "text": "3,96 ⁴"
+      },
+      {
+       "type": "text",
+       "text": "³"
+      },
+      {
+       "type": "text",
+       "text": "₂ 1,90 1,92"
+      },
+      {
+       "type": "text",
+       "text": "1,47 1 1,13 0,79 0,99 0,82 1,22 0,79 0,39 0,49 0,47 0,12 0,26 0,31 0,32"
+      },
+      {
+       "type": "text",
+       "text": "⁰ 2010 2020 2030 2035"
+      },
+      {
+       "type": "text",
+       "text": "60/65 - 74 75-79 80-84 85-89 90+"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: opracowanie własne na podstawie danych GUS."
+      },
+      {
+       "type": "text",
+       "text": "Istotną konsekwencją demograficznego starzenia się społeczeństwa jest coraz częstsze samotne zamieszkiwanie osób starszych. Wzrost liczby jednoosobowych gospodarstw domowych będzie się utrzymywał. Według prognoz GUS w 2030 r. ogółem 53,3% gospodarstw jednoosobowych będzie prowadzonych przez osoby w wieku co najmniej 65 lat, w tym 17,3% przez osoby w wieku 80 lat i więcej. W liczbach bezwzględnych wynosi to 2740 tys. jednoosobowych gospodarstw domowych prowadzonych przez osoby w wieku 65 lat i więcej, w tym 887 tys. gospodarstw, w których pozostawać będą samotnie osoby w wieku 80 lat i więcej. Należy podkreślić, że znacznie częściej w jednoosobowych gospodarstwach pozostają kobiety.⁶"
+      },
+      {
+       "type": "text",
+       "text": "Zjawiska o charakterze demograficznym powodują, że Polska stoi przed wyzwaniami w obszarze aktywności społecznej osób starszych."
+      },
+      {
+       "type": "text",
+       "text": "1.2. DZIAŁALNOŚĆ SPOŁECZNA OSÓB STARSZYCH"
+      },
+      {
+       "type": "text",
+       "text": "Koncepcja aktywnego starzenia się zakłada zapewnienie jednostce możliwości bycia jak najdłużej społecznie produktywną. Społeczna produktywność definiowana jest jako każda aktywność, która wytwarza dobra i usługi, niezależnie, czy opłacana czy nie, włączając taką aktywność jak praca domowa, opieka nad dziećmi, wolontariat, pomoc rodzinie i przyjaciołom.⁷"
+      },
+      {
+       "type": "text",
+       "text": "Działalność społeczna osób starszych może przyjmować różne formy. Wymienić wśród nich można zaangażowanie w ramach organizacji pożytku publicznego, Uniwersytetów Trzeciego Wieku, rad seniora, klubów seniora, wspólnot lokalnych (w tym działających przy kościołach i związkach wyznaniowych), organizacji branżowych, działań samopomocowych, różnorodnych towarzystw społeczno-kulturalnych czy kół gospodyń wiejskich. W Polsce osoby powyżej 50. roku życia⁸ należą do grupy wieku, która jest najmniej aktywna na polu społecznym. Także w porównaniu z osobami w podobnym wieku zamieszkującymi inne kraje europejskie ich aktywność społeczna jest niewielka. Ze względu na rosnącą liczbę osób w wieku 50+ w kolejnych latach w tej grupie można upatrywać zwiększania się potencjalnych zasobów aktywności społecznej."
+      },
+      {
+       "type": "text",
+       "text": "Badania Stowarzyszenia Klon/Jawor wskazują, że w 2010 r. zaangażowanie w wolontariat, jako jedną z form aktywności osób starszych, na rzecz organizacji lub grup zadeklarowało 10% Polaków powyżej 55. roku życia (wśród osób młodych poniżej 25 lat odsetek ten wyniósł 22%)⁹. Zbliżone wyniki przynosi poświęcony aktywnemu starzeniu się sondaż Eurobarometru z 2011 r. Według tego sondażu zaangażowanie w nieodpłatne i dobrowolne działania na rzecz organizacji charytatywnych i zajmujących się wolontariatem deklaruje 12% Polaków powyżej 55. roku życia, gdy średnia europejska wynosi 27%.¹⁰"
+      },
+      {
+       "type": "text",
+       "text": "Należy pamiętać o istnieniu szeregu uwarunkowań, które mogą mieć wpływ na małe zainteresowanie osób starszych działalnością społeczną, w tym wolontariacką. Należą do nich m.in.:"
+      },
+      {
+       "type": "text",
+       "text": "− pogarszanie się stanu zdrowia wraz z upływem lat, − sytuacja materialna skutkująca zmniejszeniem oczekiwań i potrzeb co do jakości życia, − poczucie osamotnienia i marginalizacji, − ogólna niechęć do aktywności społecznej związana z postawami we wcześniejszych fazach życia i doświadczeniami życiowymi, − duże zaangażowanie w życie rodzinne (m.in. opieka nad wnukami), − słabo rozwinięty w Polsce wolontariat kompetencji, tzn. sytuacja, w której odchodząca z rynku pracy osoba ma możliwość podzielenia się swoją wiedzą i doświadczeniem z młodymi pracownikami swojej branży, − niewystarczające kompetencje cyfrowe."
+      },
+      {
+       "type": "text",
+       "text": "Te uwarunkowania determinują działania wobec osób starszych oraz powinny stanowić główne kierunki interwencji, stanowiąc podstawę zagospodarowania potencjału osób starszych w społeczeństwie."
+      },
+      {
+       "type": "text",
+       "text": "1.3. SYTUACJA DOCHODOWA GOSPODARSTW DOMOWYCH EMERYTÓW"
+      },
+      {
+       "type": "text",
+       "text": "W 2011 r. przeciętny miesięczny dochód rozporządzalny gospodarstw domowych emerytów wyniósł 1298 zł na osobę (wzrósł w porównaniu z 2010 rokiem o 4,3%), wobec średniej 1227 zł w Polsce. Wyższy dochód niż emeryci osiągają jedynie gospodarstwa pracujących na własny rachunek – 1497 zł. Gospodarstwa domowe emerytów są również tymi, w których przeciętne miesięczne wydatki ogółem, z wyjątkiem gospodarstw pracujących na własny rachunek (1222 zł), są najwyższe – 1125 zł, podczas gdy średnio w Polsce kształtują się na poziomie 1015 zł. Relacja wydatków do dochodów w gospodarstwach emerytów wynosi 86,7%. Wyższa jest tylko w gospodarstwach domowych rencistów (92,7%). Dane przedstawiono w Tabeli 1."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Przeciętne miesięczne dochody i wydatki gospodarstw domowych na osobę w 2011 r."
+      },
+      {
+       "type": "text",
+       "text": "Gospodarstwa domowe"
+      },
+      {
+       "type": "text",
+       "text": "pracują- emerytów i rencistów Ogółem pracowni- cych na rolników ków własny razem emerytów rencistów rachunek"
+      },
+      {
+       "type": "text",
+       "text": "w złotych na osobę"
+      },
+      {
+       "type": "text",
+       "text": "Dochody 1226,95 1243,84 983,88 1497,43 1233,08 1297,96 968,98"
+      },
+      {
+       "type": "text",
+       "text": "Wydatki 1015,12 1006,05 736,02 1221,52 1080,14 1124,91 897,86"
+      },
+      {
+       "type": "text",
+       "text": "Relacja 82,7% 80,9% 74,8% 81,6% 87,6% 86,7% 92,7% wydatków do dochodów Gospodarstwa domowe emerytów, podobnie jak innych grup społeczno-ekonomicznych, największą część domowego budżetu przeznaczają na żywność i napoje bezalkoholowe (27,4% wydatków ogółem) oraz użytkowanie mieszkania lub domu i nośniki energii (24,5%). Kolejnymi największymi grupami wydatków gospodarstw domowych emerytów są te związane ze zdrowiem (8,1%), transportem (6,2%) oraz rekreacją i kulturą (6,1%). Warto zauważyć, że wydatki na zdrowie są najwyższe spośród wszystkich grup społeczno-ekonomicznych (por. Wykres 5)."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 5. Przeciętne miesięczne wydatki na 1 osobę w gospodarstwach domowych według grup społeczno-ekonomicznych w 2011 r."
+      },
+      {
+       "type": "text",
+       "text": "emerytów"
+      },
+      {
+       "type": "text",
+       "text": "e w rencistów o m od a w t pracujących na własny s r rachunek adop s o G rolników"
+      },
+      {
+       "type": "text",
+       "text": "pracowników"
+      },
+      {
+       "type": "text",
+       "text": "m e ł óg O"
+      },
+      {
+       "type": "text",
+       "text": "1.4. FORMY EDUKACJI DLA OSÓB STARSZYCH"
+      },
+      {
+       "type": "text",
+       "text": "Edukacja osób starszych przybiera formy edukacji formalnej, pozaformalnej i nieformalnej. Z danych Eurostatu wynika, że w Polsce w 2011 r. kształcenie i szkolenie dotyczyło 0,9% populacji osób w wieku 50–74 lat, podczas gdy przeciętnie w krajach UE 27 – 4,2%. Obserwując dane od 2005 r., można stwierdzić, że odsetek ten jest prawie niezmienny zarówno dla krajów UE (od 4,5 do 4,2), jak i dla Polski (od 1,2 do 0,9) (por. Tabela 2). W populacji kobiet w wieku 50–74 lat, podobnie jak w całej Unii Europejskiej, odsetek kształcących się był wyższy niż w populacji mężczyzn w tej samej grupie wieku."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Kształcenie i szkolenie populacji w wieku 50–74 lat w %"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 2005 2006 2007 2008 2009 2010 2011"
+      },
+      {
+       "type": "text",
+       "text": "ogółem"
+      },
+      {
+       "type": "text",
+       "text": "UE 27 4,2 4,3 4,4 4,5 4,5 4,4 4,2"
+      },
+      {
+       "type": "text",
+       "text": "Polska 1,1 1,1 1,1 1,1 1,1 1,2 0,9"
+      },
+      {
+       "type": "text",
+       "text": "mężczyźni"
+      },
+      {
+       "type": "text",
+       "text": "UE 27 3,7 3,7 3,7 3,8 3,7 3,6 3,6"
+      },
+      {
+       "type": "text",
+       "text": "Polska 1,0 1,1 1,0 0,9 1,0 1,0 0,8"
+      },
+      {
+       "type": "text",
+       "text": "kobiety"
+      },
+      {
+       "type": "text",
+       "text": "UE 27 4,6 4,8 5,0 5,2 5,2 5,1 4,8"
+      },
+      {
+       "type": "text",
+       "text": "Polska 1,1 1,2 1,2 1,2 1,2 1,3 1,0"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: Eurostat."
+      },
+      {
+       "type": "text",
+       "text": "Z danych Eurostat wynika również, że uczestnictwo osób dorosłych w Polsce w kształceniu i szkoleniu jest silnie uzależnione od ich wieku, poziomu wykształcenia i formy edukacji (edukacji formalnej lub pozaformalnej). Pomiędzy najmłodszymi osobami dorosłymi (grupa wieku 18–24 lat) i najstarszymi (50+ i 60+) oraz najniżej i najwyżej wykształconymi istnieje w Polsce wybijająca się na tle UE różnica. Nakłada się na to duża różnica w uczestnictwie w edukacji formalnej i pozaformalnej."
+      },
+      {
+       "type": "text",
+       "text": "Na przykład według danych z 2011 r. uczestnictwo najmłodszych osób dorosłych (do 24. roku życia) w Polsce w edukacji formalnej jest na poziomie wyraźnie wyższym od średniej w UE (w UE 50,3%, w Polsce 61,1%, co daje miejsce w czołówce krajów UE). Niewiele od średniej w UE odbiega uczestnictwo w edukacji formalnej kolejnych kategorii wieku (25–34 i 34–44 lat). Natomiast uczestnictwo osób dorosłych z najstarszej kategorii wieku poddawanej badaniom w UE (55–74 lat), zarówno w edukacji formalnej, jak i pozaformalnej, wyraźnie odstaje od średniej w UE (w Polsce 0,6%, w UE 3,5%), co daje jedno z ostatnich miejsc wśród krajów UE. Podobne, wyraźne różnice dzielą osoby lepiej i gorzej wykształcone, na korzyść tej pierwszej grupy."
+      },
+      {
+       "type": "text",
+       "text": "Zatem wyzwaniem w Polsce znacznie bardziej widocznym niż w większości krajów UE jest edukacja (kształcenie i szkolenie) osób starszych, nisko wykształconych i, co pozostaje z tym w ścisłym związku, nieaktywnych ekonomicznie i społecznie. Dotyczy to różnych grup osób dorosłych pozostających w niekorzystnej sytuacji, w tym zagrożonych ubóstwem, chorych, samotnych, niepełnosprawnych, o ograniczonej sprawności itp."
+      },
+      {
+       "type": "text",
+       "text": "Przykłady dobrej praktyki w zakresie edukacji dorosłych w obszarze UE wskazują, że skuteczna oferta edukacyjna, kierowana zwłaszcza do osób pozostających w niekorzystnej sytuacji, nie może być powieleniem tradycyjnej edukacji typu szkolnego."
+      },
+      {
+       "type": "text",
+       "text": "Uniwersytety Trzeciego Wieku (UTW)¹¹"
+      },
+      {
+       "type": "text",
+       "text": "UTW są instytucjami, których głównym celem jest edukacja osób starszych. Jest to formuła działalności edukacyjnej, która przyczynia się do zaspokajania takich potrzeb seniorów, jak: samokształcenie, poznawanie środowiska, poszerzanie wiedzy i umiejętności, wykonywanie społecznie użytecznych działań, wypełnienie wolnego czasu, utrzymywanie więzi towarzyskich, stymulacja psychiczna i fizyczna, a czasem nawet możliwość realizacji młodzieńczych marzeń."
+      },
+      {
+       "type": "text",
+       "text": "Innymi celami UTW są: rozwój intelektualny, społeczny, aktywność fizyczna osób starszych, wspieranie poszerzania wiedzy i umiejętności seniorów, ułatwianie kontaktów z instytucjami, takimi jak: służba zdrowia, ośrodki kultury, ośrodki rehabilitacyjne, angażowanie słuchaczy w aktywność sportową i turystyczną oraz w aktywność na rzecz otaczającego ich środowiska. Ponadto pełnią istotną rolę na rzecz podtrzymywania więzi społecznych i komunikacji międzyludzkiej wśród seniorów."
+      },
+      {
+       "type": "text",
+       "text": "UTW, podobnie jak wolontariat, wspomagają budowanie kapitału społecznego. Kontakt z innymi osobami oraz budowanie relacji ma pozytywny wpływ na poczucie bycia potrzebnym, kondycję zdrowotną itp. Dlatego tak ważne jest włączenie osób starszych do społeczeństwa, m.in. poprzez zaangażowanie społeczności lokalnych."
+      },
+      {
+       "type": "text",
+       "text": "UTW w Polsce funkcjonują w zróżnicowanej strukturze organizacyjnej. Wyróżnia się te, które działają w strukturach i pod patronatem uczelni, kierowane najczęściej przez pełnomocnika rektora danej uczelni, powołane przez stowarzyszenia prowadzące działalność popularnonaukową, oraz pozostałe, działające jako jednostki samorządu terytorialnego np. przy domach kultury, bibliotekach, domach dziennego pobytu, ośrodkach pomocy społecznej."
+      },
+      {
+       "type": "text",
+       "text": "Z danych Ogólnopolskiej Federacji Stowarzyszeń Uniwersytetów Trzeciego Wieku oraz Ogólnopolskiego Porozumienia Uniwersytetów Trzeciego Wieku wynika, że w Polsce działa ok. 400 Uniwersytetów Trzeciego Wieku, które prowadzą zajęcia i wykłady dla około 70 tys. słuchaczy¹². Porównując rozkład UTW w województwach z medianą wieku, można dojść do wniosku, że UTW nie powstają w tych województwach, w których mediana wieku jest najwyższa (czyli tam, gdzie wzrasta liczba potencjalnych słuchaczy)."
+      },
+      {
+       "type": "text",
+       "text": "Przeciętnie w Polsce na 10 000 osób przypada 17 uczestników UTW. Największy odsetek słuchaczy obserwuje się w województwach: lubuskim (27 na 10 000 osób w województwie), warmińsko-mazurskim (26), pomorskim (24), kujawsko-pomorskim (22). Liczby uczestników powyżej średniej w Polsce obserwuje się również w województwach: mazowieckim (21), śląskim (20), podkarpackim (19), zachodniopomorskim i łódzkim (18). Najmniej słuchaczy uczestniczy w zajęciach w województwach: świętokrzyskim (6), małopolskim (9), podlaskim (11), opolskim i lubelskim (12). Szczegółowe kształtowanie się liczby słuchaczy UTW przedstawiono na Wykresie 6."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 6. Liczba słuchaczy UTW na 10 000 osób w podziale na województwa w 2011 r."
+      },
+      {
+       "type": "text",
+       "text": "30₂₇"
+      },
+      {
+       "type": "text",
+       "text": "25²²²⁴²⁶"
+      },
+      {
+       "type": "text",
+       "text": "20₁₆¹⁷¹⁸¹⁸¹⁹²⁰²¹"
+      },
+      {
+       "type": "text",
+       "text": "15₁₁¹²¹²¹⁴"
+      },
+      {
+       "type": "text",
+       "text": "10⁹"
+      },
+      {
+       "type": "text",
+       "text": "5⁶"
+      },
+      {
+       "type": "text",
+       "text": "0"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: opracowanie własne na podstawie danych GUS, Ogólnopolskiej Federacji Stowarzyszeń UTW, Ogólnopolskiego Porozumienia UTW (dane prowizoryczne)."
+      },
+      {
+       "type": "text",
+       "text": "Oferta edukacyjna dla osób starszych obejmuje różne dziedziny (zdrowie, prawo, gospodarka) oraz zajęcia ruchowe. Jednak edukacja w sferze nowych technologii (obsługa komputera, korzystanie z sieci Internet) stanowi często początek procesu edukacji oferowanej osobom starszym. Rozwój umiejętności i kompetencji osób starszych w tym zakresie zwiększa znacząco zakres uczestnictwa osób starszych w życiu społecznym."
+      },
+      {
+       "type": "text",
+       "text": "Kompetencje cyfrowe osób starszych"
+      },
+      {
+       "type": "text",
+       "text": "Jednym z wyzwań dla szerszego włączenia osób starszych w sferę aktywności obywatelskiej jest wzmocnienie ich kompetencji cyfrowych i zmniejszanie poziomu e-wykluczenia. W tym celu konieczna jest zarówno reforma edukacji, transformacja sytemu uczenia się przez całe życie, budowanie kompetencji cyfrowych osób starszych w ramach edukacji formalnej i nieformalnej, jak i zmiana przyzwyczajeń i przezwyciężenie obaw osób starszych."
+      },
+      {
+       "type": "text",
+       "text": "Jedną z barier korzystania z technologii cyfrowych dla osób starszych mogą stanowić koszty dostępu do tych usług (w stosunku do wysokości świadczeń emerytalnych i rentowych)."
+      },
+      {
+       "type": "text",
+       "text": "Charakterystyczne dla Polski jest istnienie dużego rozwarstwienia w poziomie rozwoju społeczeństwa cyfrowego. Jedynie nieco ponad połowa Polaków korzysta z Internetu. W społeczeństwie cyfrowym uczestniczą przede wszystkim osoby młodsze, natomiast wykluczone z niego są osoby starsze. Żyją one w dużej mierze nadal w rzeczywistości analogowej, czego dowodzi fakt, że z Internetu korzysta w tej grupie wieku jedynie około 20% osób¹³. W wielu przypadkach nie czują one nawet potrzeby korzystania z Internetu i w mniejszym stopniu korzystają także z innych technologii cyfrowych."
+      },
+      {
+       "type": "text",
+       "text": "Powszechne wykorzystanie technologii cyfrowych jest niezbędnym warunkiem odpowiedniej jakości indywidualnego życia oraz stworzenia wystarczającego potencjału rozwojowego dla całego społeczeństwa. Poprawa kompetencji cyfrowych osób starszych jest także istotna ze względu na wyzwanie związane z polepszaniem jakości życia na wsi."
+      },
+      {
+       "type": "text",
+       "text": "1.5. BUDŻET CZASU WOLNEGO OSÓB STARSZYCH¹⁴"
+      },
+      {
+       "type": "text",
+       "text": "Osoby w wieku 65+ najwięcej czasu dobowego (51,3%, tj. 12 godz. 18 min.) poświęcają na zaspokajanie potrzeb fizjologicznych, do których należą m.in. sen, jedzenie, mycie i ubieranie się. Najwięcej czasu przeznaczają na sen – 39,9%, tj. 9 godz. 34 min. Potrzeby fizjologiczne zajmują tej grupie najwięcej czasu wśród wszystkich grup wieku. Kolejnymi czynnościami, które zabierały najwięcej czasu, były zajęcia i prace domowe, które wypełniały przeciętnie 15,9% czasu dobowego, tj. 3 godz. 49 min. Mniej czasu na tego typu prace poświęcały jedynie osoby w wieku poniżej 24 lat. Osoby w wieku 65 lat i więcej, częściej niż osoby w innych grupach wieku, spędzały czas na korzystaniu ze środków masowego przekazu – 15,7% dobowego czasu, tj. 3 godz. 46 min., z czego 2 godz. 55 min. poświęcały na oglądanie telewizji i filmów. Życie towarzyskie i rozrywki były najbardziej popularne wśród najmłodszych w wieku 15–24 lat (6,5% czasu dobowego, tj. 1 godz. 34 min.) oraz najstarszych – 65 lat i więcej (5,9%, tj. 1 godz. 25 min.). Osoby w wieku 65+ wskazywały, podobnie jak osoby w wieku 55–64 lat, że na dobrowolną pracę w organizacjach i poza nimi przeznaczają 3,1% (45 min.) swojego dobowego czasu (ponad 2 razy więcej niż osoby w wieku 15–44 lat). Najmniej czasu, również w porównaniu z innymi grupami wieku, osoby starsze poświęcały swoim zamiłowaniom, hobby – 0,5%, tj. 8 min."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Struktura dobowego budżetu czasu według wieku w latach 2003–2004 (w % czasu dobowego ogółem)¹⁵"
+      },
+      {
+       "type": "text",
+       "text": "Wiek (w latach)"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 65 15–19 20–24 25–34 35–44 45–54 55–64 i więcej"
+      },
+      {
+       "type": "text",
+       "text": "Czas trwania czynności w ciągu doby ogółem .............. 100,0 100,0 100,0 100,0 100,0 100,0 100,0 Potrzeby fizjologiczne¹⁶ ..... 47,1 46,3 43,8 43,4 44,7 47,5 51,3"
+      },
+      {
+       "type": "text",
+       "text": "Praca zawodowa ..................... 2,1 9,3 16,3 17,1 14,8 6,3 2,0"
+      },
+      {
+       "type": "text",
+       "text": "Nauka ...................................... 14,4 6,2 0,9 0,3 0,1 – –"
+      },
+      {
+       "type": "text",
+       "text": "Zajęcia i prace domowe .......... 5,4 9,3 15,3 15,6 14,8 17,2 15,9"
+      },
+      {
+       "type": "text",
+       "text": "Dobrowolna praca w organizacjach i poza nimi ..................................... 1,3 1,3 1,3 1,4 2,0 3,1 3,1"
+      },
+      {
+       "type": "text",
+       "text": "Życie towarzyskie i rozrywki ............................................. 6,6 6,4 4,2 3,8 4,0 4,6 5,9"
+      },
+      {
+       "type": "text",
+       "text": "Uczestnictwo w sporcie i rekreacji ............................ 2,9 1,9 1,2 1,1 1,3 1,7 1,7"
+      },
+      {
+       "type": "text",
+       "text": "Zamiłowania osobiste, hobby i gry ..................................... 3,1 2,2 1,0 0,6 0,6 0,8 0,5"
+      },
+      {
+       "type": "text",
+       "text": "Korzystanie ze środków masowego przekazu ............ 10,3 10,3 9,7 10,8 12,0 13,9 15,7"
+      },
+      {
+       "type": "text",
+       "text": "Dojazdy, dojścia oraz inne niewymienione czynności ............................................. 6,8 6,8 6,3 5,9 5,7 4,9 3,9"
+      },
+      {
+       "type": "text",
+       "text": "w tym dojazdy i dojścia ...... 6,3 6,5 6,0 5,6 5,3 4,5 3,6"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: Budżet czasu ludności 1.VI 2003–31.V 2004, GUS, 2005."
+      },
+      {
+       "type": "text",
+       "text": "Często przytaczaną motywacją dla aktywności osób starszych jest chęć zagospodarowania wolnego czasu. Istotne jest zatem kierowanie właściwej oferty do osób starszych przy uwzględnieniu oczekiwania oraz motywacji tych osób do podejmowania działalności społecznej.¹⁷"
+      },
+      {
+       "type": "text",
+       "text": "1.6. ZDROWIE I USŁUGI KIEROWANE DO OSÓB STARSZYCH"
+      },
+      {
+       "type": "text",
+       "text": "W kontekście starzejącego się społeczeństwa kluczowa jest kwestia opieki zdrowotnej. Wydatki na opiekę zdrowotną w Polsce w 2009 r. wyniosły według danych Eurostat 6,9% PKB (ok. 92 mld zł¹⁸). Na wydatki na opiekę nad osobami starszymi w 2008 r. przeznaczono 0,22% PKB."
+      },
+      {
+       "type": "text",
+       "text": "Z danych Eurostatu¹⁹ wynika, że kobiety urodzone w 2010 r. będą żyły w zdrowiu przeciętnie 62,2 lata, co stanowi 77,1% całej oczekiwanej długości życia (80,7 lat). Mężczyźni przeciętnie w zdrowiu będą żyli krócej niż kobiety – 58,5 lat, tj. 81,2% oczekiwanej długości życia (72,1 lat). Przewidywana długość życia w zdrowiu kobiet, które w 2010 r. miały 65 lat, to 7,5 lat (38,7% dalszego przewidywanego trwania życia, które wynosi 19,5 lat). W przypadku mężczyzn, którzy w 2010 r. mieli 65 lat, przewidywana długość życia w zdrowiu wynosi 6,7 lat (44,7% dalszego przewidywanego życia, które wynosi 15,1 lat)."
+      },
+      {
+       "type": "text",
+       "text": "Analizując dane z 2010 (por. Wykres 7), obserwuje się znaczną dysproporcję życia oraz życia „w zdrowiu” kobiet i mężczyzn. Kobiety nie tylko żyją dłużej niż mężczyźni, ale także żyją dłużej „w zdrowiu”."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 7. Oczekiwana średnia długość życia kobiet i mężczyzn w wieku 65 lat w 2010 roku w Polsce"
+      },
+      {
+       "type": "text",
+       "text": "25,0"
+      },
+      {
+       "type": "text",
+       "text": "19,5 20,0"
+      },
+      {
+       "type": "text",
+       "text": "15,1 15,0"
+      },
+      {
+       "type": "text",
+       "text": "10,0 7,5 6,7"
+      },
+      {
+       "type": "text",
+       "text": "5,0"
+      },
+      {
+       "type": "text",
+       "text": "0,0 oczekiwana długość liczba lat \"w zdrowiu\" oczekiwana długość liczba lat \"w zdrowiu\" życia w latach życia w latach"
+      },
+      {
+       "type": "text",
+       "text": "kobiety w wieku 65 lat mężczyźni w wieku 65 lat"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: opracowanie własne na podstawie danych Eurostatu."
+      },
+      {
+       "type": "text",
+       "text": "Osoby w starszym wieku są w bardzo dużym stopniu konsumentami świadczeń zdrowotnych, co wynika z występujących u nich chorób przewlekłych, takich jak: choroby serca, nadciśnienie tętnicze, cukrzyca, a także utrata słuchu lub wzroku, przebytego udaru oraz zmian w stanie funkcjonalnym. Istotnym zagadnieniem staje się zatem jakość życia w okresie starości oraz wydolność czynnościowa, której wymiernym wskaźnikiem jest samodzielność w codziennym funkcjonowaniu, bez pomocy osób drugich. Wyniki badania Polsenior wskazują, że odsetek osób niezależnych pod względem funkcjonalnym w grupie 65–69 kształtował się na poziomie 99,9%, ale malał z wiekiem i w grupie 85+ wynosił 79,1%."
+      },
+      {
+       "type": "text",
+       "text": "Korzystanie z komunikacji publicznej, samodzielne zakupy, wykonywanie prac domowych i pranie były czynnościami najczęściej wskazywanymi przez osoby starsze jako niemożliwe do wykonania przez nie lub wymagające pomocy osób drugich. Większą utratę samodzielności odnotowano w grupie kobiet, a także wśród mieszkańców wsi.²⁰"
+      },
+      {
+       "type": "text",
+       "text": "Przedstawiona w zarysie sytuacja stanu zdrowia oraz budżetu czasu wolnego osób starszych dowodzi, iż wymagane są działania, które obejmują obszar usług zdrowotnych w zakresie profilaktyki zdrowotnej oraz leczenia. Konieczne są zatem działania na rzecz rozwoju usług społecznych, bezpośrednio i pośrednio związanych ze zdrowiem, takich jak: sport, turystyka, rekreacja. Wzmocnienia wymagają również działania na rzecz profilaktyki zdrowia oraz profilaktyki społecznej. Takie działania realizowane są w różnych formach edukacji osób starszych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "PODSTAWA PRAWNA PROGRAMU",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podstawą prawną Programu jest art. 5c ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.)."
+      },
+      {
+       "type": "text",
+       "text": "Art. 5c ustawy przewiduje możliwość opracowywania przez ministra właściwego do spraw zabezpieczenia społecznego, po zasięgnięciu opinii Rady Działalności Pożytku Publicznego, resortowych oraz rządowych programów wspierania rozwoju organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 ustawy oraz finansowego wspierania tych programów, w szczególności w trybie otwartego konkursu ofert."
+      },
+      {
+       "type": "text",
+       "text": "Ustawa jest aktem prawnym o charakterze ustrojowym, który posiada fundamentalne znaczenie na urzeczywistniania idei społeczeństwa obywatelskiego. Określa ona zasady (pomocniczości, suwerenności stron, partnerstwa, efektywności, uczciwej konkurencji i jawności) oraz formy współpracy organów administracji publicznej z organizacjami pozarządowymi oraz innymi podmiotami społeczeństwa obywatelskiego. Definiuje także sfery aktywności społecznej i ekonomicznej organizacji pozarządowych, warunki dla powstania i funkcjonowania szczególnej kategorii podmiotów pozarządowych – organizacji pożytku publicznego, tworzy podstawy prawne i instytucjonalne dialogu obywatelskiego, reguluje status wolontariatów, poprzez określenie praw oraz obowiązków zarówno wolontariuszy, jak i podmiotów korzystających z ich świadczeń."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "CELE PROGRAMU",
+     "children": [
+      {
+       "type": "text",
+       "text": "Program uwzględnia wewnętrzne zróżnicowanie populacji osób starszych i promuje działania mające na celu podtrzymanie aktywności osób starszych i zapewnienie ich udziału w życiu społecznym oraz działania ukierunkowane na osoby o ograniczonej samodzielności."
+      },
+      {
+       "type": "text",
+       "text": "Celem Programu jest poprawa jakości i poziomu życia osób starszych²¹ dla godnego starzenia się poprzez aktywność społeczną. Program ma przyczyniać się do pełniejszego korzystania z potencjału społeczno-zawodowego osób starszych, aby mogły one pełnić różne role społeczne w życiu publicznym. Ważne jest również uwzględnienie w działaniach ograniczeń wynikających z barier funkcjonalnych, na które mogą być narażone osoby starsze."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 4. Mierniki celu głównego i celów szczegółowych"
+      },
+      {
+       "type": "text",
+       "text": "Wskaźniki/mierniki Wartość Szacunkowa Źródło danych celów bazowa wartość wskaźnika docelowa"
+      },
+      {
+       "type": "text",
+       "text": "Cel główny:"
+      },
+      {
+       "type": "text",
+       "text": "Poprawa jakości Respondenci 29% 31% Aktywność społeczna i poziomu życia pracujący społecznie (2012)** (2014)** w organizacjach osób starszych dla w organizacjach obywatelskich, CBOS godnego starzenia obywatelskich się poprzez w wieku powyżej aktywność 60 lat* społeczną Dobrowolna praca 3% 3,5% Badanie budżetu czasu w organizacjach (2003)** (2013)** (GUS, realizowane i poza nimi w wieku w 2013 r., pierwsze powyżej 60 lat* wyniki dostępne najwcześniej w 2014 r.) Cele szczegółowe:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Zwiększenie Liczba nowych 0 1960 Sprawozdania z realizacji różnorodności słuchaczy Programu i poprawa jakości Liczba nowo 0 84 Sprawozdania z realizacji oferty edukacyjnej utworzonych zajęć Programu dla osób starszych Przeciętna miesięczna 0 1680 Sprawozdania z realizacji liczba godzin nowo Programu utworzonych zajęć, z których korzystają osoby starsze",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Tworzenie Odsetek osób 11%*** 14%*** Społeczeństwo warunków dla w wieku powyżej (2011) (2013) informacyjne w Polsce. integracji 60 lat* regularnie Wyniki badań wewnątrz- korzystających statystycznych z lat i międzypokolenio- z komputera 2007–2011 wej osób starszych Liczba beneficjentów 0 1400 Sprawozdania z realizacji przy wykorzystaniu uczestniczących Programu istniejącej w nowo utworzonych infrastruktury projektach społecznej 3. Rozwój Liczba projektów 0 50 Sprawozdania z realizacji zróżnicowanych składanych Programu form aktywności w obszarze społecznej, w tym partycypacji osób upowszechnianie starszych w życiu wolontariatu, publicznym partycypacji Liczba nowo 0 4 Sprawozdania z realizacji w procesach utworzonych Programu decyzyjnych, sieci/ośrodków w życiu pomocowospołecznym, w tym -informacyjnych udział osób starszych w kształtowaniu polityki publicznej 4. Zwiększenie Liczba beneficjentów 0 350 Sprawozdania z realizacji dostępności, nowych usług Programu podniesienie jakości społecznych usług społecznych Liczba beneficjentów 0 350 Sprawozdania z realizacji oraz wspieranie nowych form Programu działań na rzecz samopomocy samopomocy i samoorganizacji *Wartości szacunkowe, ze względu na ograniczoną reprezentatywność danych dla grupy 60–69. **Dane odnoszą się do osób wieku 65+. ***Dane odnoszą się do osób wieku 64–75.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Cel główny Programu będzie realizowany poprzez cele szczegółowe: Cel szczegółowy 1. Zwiększenie różnorodności i poprawa jakości oferty edukacyjnej dla osób starszych: • tworzenie ofert odpowiadających problemom osób pozostających w niekorzystnej sytuacji²²; • promowanie nowych rozwiązań na rzecz motywowania osób starszych do uczenia się dla zachowania aktywności, w tym szczególnie osób starszych pozostających w niekorzystnej sytuacji; • tworzenie warunków dla rozwoju oferty edukacyjno-kulturalnej."
+      },
+      {
+       "type": "text",
+       "text": "Cel szczegółowy 2. Tworzenie warunków dla integracji wewnątrz- i międzypokoleniowej osób starszych przy wykorzystaniu istniejącej infrastruktury społecznej, m.in. pogłębianie wiedzy na temat zmian biologicznych, zdrowotnych, społecznych zachodzących wraz z wiekiem w ramach przygotowywania społeczeństwa do starości."
+      },
+      {
+       "type": "text",
+       "text": "Cel szczegółowy 3. Rozwój zróżnicowanych form aktywności społecznej, w tym upowszechnianie wolontariatu, partycypacji w procesach decyzyjnych, w życiu społecznym, w tym udział osób starszych w kształtowaniu polityki publicznej."
+      },
+      {
+       "type": "text",
+       "text": "Cel szczegółowy 4. Zwiększenie dostępności, podniesienie jakości usług społecznych oraz wspieranie działań na rzecz samopomocy i samoorganizacji: • rozwój systemów wsparcia umożliwiających zaspokojenie specyficznych dla wieku podeszłego potrzeb w szczególności osobom starszym o ograniczonej samodzielności; • rozwój usług społecznych w sferze sportu, turystyki, rekreacji i kultury."
+      },
+      {
+       "type": "text",
+       "text": "W okresie realizacji Programu (lata 2012–2013) zakłada się: • dofinansowanie rozwoju oraz powstania nowej oferty edukacyjnej dla osób starszych, zwiększenie dostępu do zajęć edukacyjnych w ramach już istniejących oraz nowo utworzonych organizacji m.in. na terenach defaworyzowanych, przy wykorzystaniu istniejącej infrastruktury oświatowo-kulturalnej dla osób starszych; • wspieranie różnych form edukacji i uczenia się na rzecz poprawy umiejętności osób starszych, w tym zwłaszcza umiejętności cyfrowych oraz szczególnie w odniesieniu do osób pozostających w niekorzystnej sytuacji; • podnoszenie jakości personelu zajmującego się zawodowo i ochotniczo aktywizacją społeczną osób starszych; • dofinansowanie innych form aktywności społecznej osób starszych; • zwiększenie oferty oraz podniesienie jakości usług społecznych dla osób starszych, w tym dostosowanie tej oferty odpowiednio do potrzeb i możliwości starszych osób niepełnosprawnych lub o ograniczonej sprawności ruchowej."
+      },
+      {
+       "type": "text",
+       "text": "Program jest integralnym elementem działań na rzecz realizacji Strategii Rozwoju Kraju, Strategii Polityki Społecznej oraz Strategii Wspierania Rozwoju Społeczeństwa Obywatelskiego."
+      },
+      {
+       "type": "text",
+       "text": "Strategia Rozwoju Kraju 2007–2015"
+      },
+      {
+       "type": "text",
+       "text": "Strategia Rozwoju Kraju 2007–2015 (SRK) została przyjęta przez Radę Ministrów w dniu 29 listopada 2006 r. SRK jest „dokumentem planistycznym określającym podstawowe uwarunkowania, cele i kierunki rozwoju kraju w wymiarze społecznym, gospodarczym i terytorialnym”. Spaja ona wszelkie działania rozwojowe podejmowane na rzecz poprawy warunków społeczno-gospodarczych. Jej zadaniem jest zaprogramowanie rozwoju i modernizacji kraju. Celem głównym SRK jest podniesienie poziomu i jakości życia mieszkańców Polski – poszczególnych obywateli i rodzin. W ramach SRK wyodrębnione są następujące priorytety: − wzrost konkurencyjności i innowacyjności gospodarki, − poprawa stanu infrastruktury technicznej i społecznej, − wzrost zatrudnienia i podniesienie jego jakości, − budowa zintegrowanej wspólnoty społecznej i jej bezpieczeństwa, − rozwój obszarów wiejskich, − rozwój regionalny i podniesienie spójności terytorialnej."
+      },
+      {
+       "type": "text",
+       "text": "SRK zakłada zwiększenie dostępności usług społecznych, rozwój uczenia się przez całe życie/kształcenia ustawicznego oraz zbudowanie kompleksowego systemu opiekuńczego, aktywizującego i integrującego osoby starsze w środowiskach lokalnych."
+      },
+      {
+       "type": "text",
+       "text": "Strategia Polityki Społecznej na lata 2007–2013"
+      },
+      {
+       "type": "text",
+       "text": "Strategia Polityki Społecznej (SPS) została przyjęta przez Radę Ministrów w dniu 13 września 2005 r. Celem SPS jest zbudowanie zintegrowanego systemu polityki państwa prowadzącej do ułatwienia wszystkim obywatelom równego dostępu do praw społecznych, poprawy warunków powstawania i funkcjonowania rodzin oraz wsparcia grup i osób zagrożonych wykluczeniem społecznym przy zapewnieniu demokratycznego współuczestnictwa obywateli."
+      },
+      {
+       "type": "text",
+       "text": "SPS zawiera priorytety, które pośrednio bądź bezpośrednio realizowane będą przez działania w ramach Programu. Zaliczyć do nich można: − wdrożenie aktywnej polityki społecznej, − kompleksową rehabilitację i aktywizację osób niepełnosprawnych, − budowę systemu wsparcia dla osób w wieku poprodukcyjnym, − aktywizację i mobilizację partnerów lokalnych, − partnerstwo publiczno-społeczne jako podstawę rozwoju usług społecznych."
+      },
+      {
+       "type": "text",
+       "text": "Kluczowymi kierunkami działania wpisującymi się w założenia Programu są m.in. wspieranie rozwoju różnych form aktywizacji edukacyjnej oraz społecznej klientów pomocy społecznej, w tym wolontariatu; rozwój systemu informacji obywatelskiej opartego na społecznościach lokalnych; zwiększenie dostępu do usług opiekuńczych; wspieranie rozwiązań służących pełniejszej integracji społecznej osób w wieku poprodukcyjnym; wspieranie i wzmacnianie lokalnych społeczności sąsiedzkich osób starszych (w ramach samopomocy), wspieranie różnych form samoorganizacji i uczestnictwa w życiu społecznym; rozwój działań wspierających więzi międzypokoleniowe i wzmacniające poczucie odpowiedzialności młodszych pokoleń za opiekę nad osobami starszymi; uwzględnienie potrzeby aktywizacji osób starszych w systemie kształcenia ustawicznego; zwiększenie udziału organizacji pozarządowych w realizacji programów dla osób starszych oraz tworzenie warunków uczestnictwa osób w podeszłym wieku w kulturze i wypoczynku."
+      },
+      {
+       "type": "text",
+       "text": "Strategia Wspierania Rozwoju Społeczeństwa Obywatelskiego na lata 2009–2015"
+      },
+      {
+       "type": "text",
+       "text": "Strategia Wspierania Rozwoju Społeczeństwa Obywatelskiego na lata 2009–2015 (SWRSO) to długofalowy dokument mający na celu kształtowanie procesu rozwoju społeczeństwa obywatelskiego. SWRSO stanowi instrument realizacji polityki rozwoju w zakresie rozwoju zachowań prospołecznych wspólnot lokalnych oraz budowy i umacniania struktur społeczeństwa obywatelskiego. Celem SWRSO jest wzmocnienie podmiotowości obywateli i ich wspólnot oraz stworzenie warunków dla rozwoju instytucji społeczeństwa obywatelskiego. SWRSO zakłada realizację czterech priorytetowych kierunków: − aktywni, świadomi obywatele, aktywne wspólnoty lokalne, − silne organizacje pozarządowe w dobrym państwie, − rozwój organizacji pozarządowych na rzecz integracji społecznej, − rozwój przedsiębiorczości społecznej."
+      },
+      {
+       "type": "text",
+       "text": "Wśród głównych kierunków działania, które są zbieżne z założeniami Programu, można wymienić: tworzenie infrastruktury dla lokalnej aktywności obywatelskiej, edukację obywatelską, aktywizację obywateli w sprawach publicznych, zapewnienie dostępu do usług społecznych grupom wykluczonym i zagrożonym wykluczeniem społecznym (w tym osobom starszym), zapewnienie tworzenia i funkcjonowania mechanizmów kompleksowego wsparcia integracji społecznej itd."
+      },
+      {
+       "type": "text",
+       "text": "Dokument strategiczny „Perspektywa uczenia się przez całe życie”"
+      },
+      {
+       "type": "text",
+       "text": "Dokument ten nie ma statusu strategii rozwoju. Zgodnie z „Planem uporządkowania strategii rozwoju” ma on status tzw. dodatkowego dokumentu strategicznego. Został on przygotowany przez Międzyresortowy Zespół do spraw uczenia się przez całe życie, w tym Krajowych Ram Kwalifikacji na podstawie zobowiązań międzynarodowych, w szczególności na podstawie zobowiązań wynikających z ustanowienia Europejskiej przestrzeni uczenia się przez całe życie (European Area of Lifelong Learning) oraz zaleceń Rady UE w sprawie Krajowego Programu Reform Polski."
+      },
+      {
+       "type": "text",
+       "text": "Europa 2020 – Strategia na rzecz inteligentnego i zrównoważonego rozwoju sprzyjającego włączeniu społecznemu"
+      },
+      {
+       "type": "text",
+       "text": "Strategia Europa 2020 stanowi strategię wzrostu Unii Europejskiej w kolejnych latach. Zakłada ona potrzebę stworzenia inteligentnej i zrównoważonej gospodarki, która sprzyja włączeniu społecznemu. Do sytuacji osób starszych w szczególności odnosi się uwzględniony w tym dokumencie priorytet Rozwój sprzyjający włączeniu społecznemu oraz inicjatywa flagowa Przeciwdziałanie ubóstwu i wykluczeniu społecznemu, w ramach których podejmowane są zarówno działania zmierzające do zapobiegania dezintegracji społecznej, jak i promowania idei aktywnego starzenia się."
+      },
+      {
+       "type": "text",
+       "text": "Rezolucja Rady UE w sprawie odnowionej europejskiej agendy na rzecz uczenia się dorosłych"
+      },
+      {
+       "type": "text",
+       "text": "Rezolucja została przyjęta w listopadzie 2011 r. podczas polskiej prezydencji w Radzie UE. Zgodnie ze wspólną intencją polskiej prezydencji, Rady UE i Komisji Europejskiej agenda ta ma uzupełniać uzgodnienia wspólnych celów europejskich i działania podejmowane w ramach dwóch dużych procesów – Procesu Kopenhaskiego dotyczącego rozwoju kształcenia i szkolenia zawodowego oraz Procesu Bolońskiego dotyczącego rozwoju szkolnictwa wyższego. W związku z tym, że oba wymienione procesy współpracy europejskiej w edukacji dotyczą w znacznej mierze osób dorosłych, specyfiką agendy ma być stawianie wspólnych celów i rozwijanie działań na rzecz osób dorosłych z niskimi umiejętnościami i pozostających w niekorzystnej sytuacji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "GŁÓWNE ZAŁOŻENIA PROGRAMU",
+     "children": [
+      {
+       "type": "text",
+       "text": "Aktywność społeczna osób starszych często skupia się wokół inicjatyw lokalnych. Ważne jest zwiększanie wymiaru zaangażowania społecznego osób starszych, w tym niepełnosprawnych lub o ograniczonej sprawności ruchowej, poprzez włączenie w różne formy edukacji oraz współpracy międzypokoleniowej. Problem stanowi finansowanie tych działań, bowiem brak ścisłego obowiązku kierowania ofert, np. edukacyjno-kulturalnych, do osób starszych przez samorządy w praktyce powoduje, iż ich dostępność zależy od oferty generowanej przez lokalne instytucje i organizacje pozarządowe."
+      },
+      {
+       "type": "text",
+       "text": "Program służy wsparciu ofert organizacji, instytucji działających na rzecz osób starszych, w tym niepełnosprawnych lub o ograniczonej sprawności ruchowej, przy wykorzystaniu istniejącej infrastruktury społecznej oraz ścisłej współpracy z jednostkami samorządowymi (placówki oświatowo-kulturalne). Współpraca międzysektorowa na poziomie lokalnym może istotnie zwiększyć efektywność podejmowanych działań na rzecz aktywności społecznej osób starszych."
+      },
+      {
+       "type": "text",
+       "text": "W Programie przewidziano komponent długookresowy (systemowy) oraz komponent krótkookresowy (konkursowy), realizowany cyklicznie w latach 2012–2013."
+      },
+      {
+       "type": "text",
+       "text": "I. Komponent systemowy"
+      },
+      {
+       "type": "text",
+       "text": "Komponent długookresowy będzie polegał na wypracowaniu założeń długofalowej polityki senioralnej. Będzie on realizowany w urzędzie obsługującym ministra właściwego do spraw zabezpieczenia społecznego, we współpracy z innymi resortami, organizacjami obywatelskimi oraz środowiskami naukowymi i eksperckimi."
+      },
+      {
+       "type": "text",
+       "text": "W ramach komponentu systemowego podjęte zostaną kompleksowe działania zmierzające do stworzenia strategicznych podstaw realizacji polityki senioralnej. Będzie ona ściśle odnosiła się do istniejących dokumentów o charakterze strategicznym, stanowiąc ich uzupełnienie i rozszerzenie w zakresie działań skierowanych do osób starszych. Założenia długofalowej polityki senioralnej wypracowane w otwartej formule i w ścisłej współpracy z zainteresowanymi podmiotami będą stanowiły odpowiedź nie tylko na wyzwania społeczne związane ze starzeniem się społeczeństwa, ale będą również podstawą stymulacji polityki publicznej (szczególnie w obszarze aktywności społecznej osób starszych)."
+      },
+      {
+       "type": "text",
+       "text": "II. Komponent konkursowy"
+      },
+      {
+       "type": "text",
+       "text": "Priorytet I. Edukacja osób starszych Priorytet II. Aktywność społeczna promująca integrację wewnątrz- i międzypokoleniową Priorytet III. Partycypacja społeczna osób starszych Priorytet IV. Usługi społeczne dla osób starszych (usługi zewnętrzne)"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 5. Priorytety i kierunki działań"
+      },
+      {
+       "type": "text",
+       "text": "Priorytety Kierunki działań*"
+      },
+      {
+       "type": "text",
+       "text": "Priorytet I 1. Zajęcia edukacyjne z zakresu różnych dziedzin (m.in. Edukacja osób starszych prawo, gospodarka, zdrowie, w tym profilaktyka zdrowotna, sport, turystyka, nowe technologie), programy edukacyjne o starzeniu się, osobach starszych i aktywnym starzeniu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zajęcia przygotowujące do usług wolontariackich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Kształcenie opiekunów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Promowanie wolontariatu kompetencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Promocja oferty edukacyjnej wśród osób starszych. Priorytet II 1. Aktywność społeczna, w tym wolontariat osób Aktywność społeczna starszych. promująca integrację wewnątrz- 2. Aktywność fizyczna osób starszych, aktywność i międzypokoleniową turystyczno-rekreacyjna osób starszych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zajęcia w obszarze kultury, w tym angażujące różne pokolenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Budowanie sieci społecznych, w tym wolontariat wewnątrz- i międzypokoleniowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Przeciwdziałanie e-wykluczeniu. Priorytet III 1. Formy aktywności osób starszych wobec społeczności Partycypacja społeczna osób lokalnych (rozwój społeczeństwa obywatelskiego). starszych 2. Aktywność wspierająca uczestnictwo w życiu społecznym/publicznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Sieć pomocowo-informacyjna (budowanie pozytywnego wizerunku starości).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Priorytet IV 1. Szkolenia dla wolontariuszy i opiekunów (z zakresu Usługi społeczne dla osób pomocy osobom starszym). starszych (usługi zewnętrzne) 2. Wspieranie różnych form samopomocy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wspieranie rodzin w opiece nad osobą starszą poprzez rozwój usług opartych o działalność wolontariuszy. 4. Rozszerzanie dostępności do usług społecznych m.in. opiekuńczych, kulturalnych, edukacyjnych, sportowych i turystycznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Wszelkie działania podejmowane w ramach Programu powinny uwzględniać potrzeby osób, które narażone są na tzw. bariery funkcjonalne."
+      },
+      {
+       "type": "text",
+       "text": "Program ma przyczynić się do zwiększenia aktywności społecznej osób starszych, które poprzez włączenie w aktywność społeczną mogą wykorzystać swoje doświadczenie i wiedzę, stając się aktywnymi uczestnikami życia społeczności lokalnych. Oferta działań w ramach różnych priorytetów powinna uwzględniać potrzeby potencjalnych uczestników, którzy narażeni są na tzw. bariery funkcjonalne."
+      },
+      {
+       "type": "text",
+       "text": "Priorytet I. Edukacja osób starszych – działania na rzecz poprawy aktywności społecznej osób starszych poprzez różne formy edukacji formalnej i pozaformalnej, które pozwalają na aktywne włączenie się w życie społeczności lokalnych. Działania te zwiększają integrację wewnątrzpokoleniową osób starszych."
+      },
+      {
+       "type": "text",
+       "text": "Priorytet II. Aktywność społeczna promująca integrację wewnątrzi międzypokoleniową – zakłada rozwój różnych form aktywności dla osób starszych przy wykorzystaniu istniejącej infrastruktury społecznej, w tym samorządowych instytucji kultury (takich jak: m.in. biblioteki publiczne, domy kultury, świetlice, teatry, muzea). Ponadto poprzez współpracę międzypokoleniową, działania te sprzyjają wzajemnemu rozwojowi umiejętności społecznych również wśród młodszego pokolenia."
+      },
+      {
+       "type": "text",
+       "text": "Priorytet III. Partycypacja społeczna osób starszych – działania na rzecz zwiększenia udziału osób starszych w życiu społecznym, który będzie sprzyjał rozwojowi społeczeństwa obywatelskiego. Ważna jest tu rola organizacji reprezentujących interesy i potrzeby osób starszych, zwłaszcza takich, które sprzyjają zaangażowaniu seniorów w życie społeczności lokalnych."
+      },
+      {
+       "type": "text",
+       "text": "Priorytet IV. Usługi społeczne dla osób starszych (usługi zewnętrzne) – działania służące rozwojowi różnych form wsparcia (w formule partnerstwa publiczno-społecznego, w tym realizowane przez organizacje pozarządowe działające w sferze pożytku publicznego), poprzez zwiększanie dostępności oraz podniesienie jakości usług społecznych dla osób starszych, poprzez zwiększenie zaangażowania opiekunów-wolontariuszy, tworzenie środowiska samopomocy oraz zwiększenie sieci wyszkolonych wolontariuszy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "FINANSOWANIE PROGRAMU",
+     "children": [
+      {
+       "type": "text",
+       "text": "Koszt Programu w latach 2012–2013 wyniesie 60 mln zł. Program w 2012 r. finansowany będzie ze środków budżetu państwa w wysokości 20 mln zł ujętych w ustawie budżetowej na rok 2012. W 2012 r. środki na cele Programu będą pochodziły z przekwalifikowania części rezerwy celowej zaplanowanej w ustawie budżetowej na rok 2012 w części 83 – Rezerwy celowe, w poz. 71 pn. Finansowanie lokalnych centrów rozwoju kapitału społecznego, tzw. „Świetlików”."
+      },
+      {
+       "type": "text",
+       "text": "W 2013 r. planuje się finansowanie Programu ze środków budżetu państwa do wysokości 40 mln zł."
+      },
+      {
+       "type": "text",
+       "text": "15 mln zł zostanie ujęte w części 44 – Zabezpieczenie Społeczne, dział 853 – pozostałe zadania w zakresie polityki społecznej, rozdział 85395 – pozostała działalność, poprzez zwiększenie limitu tej części przez ministra właściwego do spraw finansów publicznych, w ustawie budżetowej na 2013 r. Dodatkowo 25 mln zł (pozostała część budżetu Programu w 2013 r.) będzie finansowana ze środków budżetu państwa ujętych w ustawie budżetowej na rok 2013. Te wydatki w ramach Programu będą realizowane z rezerwy celowej ustanowionej na cel Programu."
+      },
+      {
+       "type": "text",
+       "text": "Dysponentem środków jest minister właściwy do spraw zabezpieczenia społecznego, który przekazuje dotacje beneficjentom Programu, na podstawie umów z podmiotami, o których mowa w punkcie 8 BENEFICJENCI PROGRAMU. Program zostanie sfinansowany ze środków budżetu państwa będących w dyspozycji ministra właściwego do spraw zabezpieczenia społecznego w roku 2012 na zadania ujęte w Priorytetach I–IV Programu. W roku 2013 zadania będą realizowane cyklicznie w obszarze wszystkich Priorytetów."
+      },
+      {
+       "type": "text",
+       "text": "Budżet składa się z dwóch części – dotacje i środki techniczne. W latach 2012–2013: I część dotacji: 95% budżetu rocznego, II część dotacji – środki techniczne: do 5% budżetu rocznego."
+      },
+      {
+       "type": "text",
+       "text": "Środki techniczne zostaną przeznaczone na obsługę Programu (komponent konkursowy), wymianę dobrych praktyk oraz monitoring i ewaluację działania Programu w roku 2012. Ponadto będą wykorzystane do wsparcia eksperckiego – analiz, raportów oraz realizacji wstępnych założeń długofalowej polityki wobec osób starszych (I komponent Programu)."
+      },
+      {
+       "type": "text",
+       "text": "Podmiotami uprawnionymi do korzystania ze środków finansowych przeznaczonych na realizację Programu są:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Organizacje pozarządowe, o których mowa w art. 3 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i wolontariacie (Dz. U. z 2010 r. Nr 234, poz. 1536, z późn. zm.);",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Podmioty określone w art. 3 ust. 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i wolontariacie – w tym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "osoby prawne i jednostki organizacyjne działające na podstawie przepisów o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej, o stosunku Państwa do innych kościołów i związków wyznaniowych oraz o gwarancjach wolności sumienia i wyznania, jeżeli ich cele statutowe obejmują prowadzenie działalności pożytku publicznego, o których mowa w art. 3 ust. 3 pkt 1 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "spółdzielnie socjalne, o których mowa w ustawie z dnia 27 kwietnia 2006 r. o spółdzielniach socjalnych (Dz. U. Nr 94, poz. 651, z późn. zm.) (w zakresie działalności społecznie użytecznej w sferze zadań publicznych),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "stowarzyszenia jednostek samorządu terytorialnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "spółki akcyjne i spółki z ograniczoną odpowiedzialnością oraz kluby sportowe będące spółkami działającymi na podstawie przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857, z późn. zm.), które nie działają w celu osiągnięcia zysku oraz przeznaczają całość dochodu na realizację celów statutowych oraz nie przeznaczają zysku do podziału między swoich udziałowców, akcjonariuszy i pracowników.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Partnerstwo:"
+        },
+        {
+         "type": "text",
+         "text": "Jednostkom organizacyjnym, które nie mogą brać udziału w otwartym konkursie ofert w ramach Programu, możliwość korzystania z dotacji w pośredni sposób stwarza partnerstwo z oferentem na zasadach opisanych poniżej."
+        },
+        {
+         "type": "text",
+         "text": "Partnerstwo dotyczy jednostek samorządu terytorialnego, uczelni i innych podmiotów, przede wszystkim publicznoprawnych, ale nie może dotyczyć spółek prawa handlowego (działających dla zysku)."
+        },
+        {
+         "type": "text",
+         "text": "Za pośrednie korzystanie z dotacji uznaje się działania w partnerstwie, polegające na tym, że podmiot uprawniony do korzystania z dotacji (beneficjent) współpracuje na zasadzie partnerstwa (podział zadań i odpowiedzialności określony w umowie o partnerstwo) z partnerem – organizacją, która samodzielnie nie jest uprawniona do złożenia oferty w ramach Programu. Należy zaznaczyć, że formuła partnerstwa w przypadku tego Programu dotyczy zwłaszcza jednostek samorządu terytorialnego (w tym jednostek organizacyjnych samorządu terytorialnego) oraz uczelni. Funkcję partnerów mogą pełnić jednostki organizacyjne nieposiadające osobowości prawnej ani zdolności prawnej, które nie działają w celu osiągnięcia zysku (partnerzy), a więc organizacje inne niż podmioty uprawnione, wymienione powyżej w pkt 1 i 2, mogą w sposób pośredni korzystać z dotacji, pod warunkiem zawarcia wcześniej umowy o partnerstwo z podmiotem uprawnionym, którego oferta została wybrana do realizacji."
+        },
+        {
+         "type": "text",
+         "text": "Umowa powinna przewidywać, że partnerzy będą głównym adresatem działań realizowanych w ramach Programu oraz będą w nich aktywnie uczestniczyć. Umowa określi prawa i obowiązki stron w związku z realizacją zadania publicznego zleconego przez urząd obsługujący ministra właściwego do spraw zabezpieczenia społecznego. Umowa musi być podpisana przez właściwe organy osób prawnych, w których strukturze działają partnerzy (w przypadku jednostek organizacyjnych działających w strukturze organizacyjnej osób prawnych)."
+        },
+        {
+         "type": "text",
+         "text": "Partnerami mogą być w szczególności jednostki organizacyjne wchodzące w skład jednostek samorządu terytorialnego (w tym jednostki organizacyjne samorządu terytorialnego), uczelni (w tym uczelni artystycznych) oraz państwowych instytucji kultury, szkół artystycznych i archiwów państwowych."
+        },
+        {
+         "type": "text",
+         "text": "Partnerami nie mogą być jednostki organizacyjne przedsiębiorców działających w formie spółek prawa handlowego."
+        },
+        {
+         "type": "text",
+         "text": "Program ten umożliwia zatem współpracę międzysektorową organizacji pozarządowych, które wspólnie z jednostkami samorządu terytorialnego oraz uczelniami przyczyniają się do rozwoju społecznego w wymiarze lokalnym. Ma to służyć utrwalaniu modelu współpracy międzysektorowej, która jest kluczowym elementem działań długofalowych podejmowanych w związku ze starzeniem się społeczeństwa."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "PODMIOTY UCZESTNICZĄCE W REALIZACJI PROGRAMU I ICH ZADANIA",
+     "children": [
+      {
+       "type": "text",
+       "text": "Urząd obsługujący ministra właściwego do spraw zabezpieczenia społecznego zapewni obsługę części dotacyjnej konkursu poprzez: − ogłoszenie konkursu/ów, − akceptację przesłanych wniosków (ocena formalna i merytoryczna), − przygotowanie umów z beneficjentami, − kontrolę sprawozdań, − sprawozdanie zbiorcze z realizacji Programu."
+      },
+      {
+       "type": "text",
+       "text": "W ramach komponentu konkursowego Programu: − oferta składana jest do urzędu obsługującego ministra właściwego do spraw zabezpieczenia społecznego, − przyznawanie dotacji odbywać się będzie w trybie otwartego konkursu ofert, − postępowanie konkursowe odbywać się będzie przy uwzględnieniu zasad określonych w ogłoszeniu o konkursie, − oferta jest składana zgodnie z wzorem oferty, stanowiącym załącznik do ogłoszenia, oraz warunkami zawartymi w ogłoszeniu, − po zakończeniu realizacji zadania finansowanego z Programu podmiot przedstawia ministrowi właściwemu do spraw zabezpieczenia społecznego sprawozdanie w ujęciu merytorycznym i finansowym, zgodne z wzorem stanowiącym załącznik do umowy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "ZASADY FINANSOWANIA",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wsparcie w ramach Programu ma charakter prefinansowy, co jest szczególnie ważne dla małych podmiotów aplikujących o środki w ramach Programu. Wartość dotacji w komponencie konkursowym (w ramach ogłaszanych edycji otwartego konkursu w latach 2012–2013) wyniesie od 20 000 zł do 200 000 zł."
+      },
+      {
+       "type": "text",
+       "text": "Wkład własny – podmioty składające ofertę współfinansowaną w ramach Programu są zobowiązane do przedstawienia minimum 10% wartości projektu. Za wkład własny uznaje się wkład pieniężny oraz wkład osobowy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "NADZÓR NAD REALIZACJĄ PROGRAMU",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister właściwy do spraw zabezpieczenia społecznego decyduje w drodze konkursowej o podziale środków w ramach Programu. Minister właściwy do spraw zabezpieczenia społecznego składa Prezesowi Rady Ministrów sprawozdania z realizacji Programu do dnia 30 września 2013 r. za rok 2012 oraz do dnia 30 września 2014 r. za rok 2013. W uzasadnionych przypadkach minister właściwy do spraw zabezpieczenia społecznego może, w trakcie i po realizacji Programu, przeprowadzić jego kontrolę. Ponadto monitoring realizacji Programu będzie wykonywany przez Radę Działalności Pożytku Publicznego – organ opiniodawczo-doradczy ministra właściwego do spraw zabezpieczenia społecznego."
+      },
+      {
+       "type": "text",
+       "text": "Spis tabel"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Przeciętne miesięczne dochody i wydatki gospodarstw domowych na osobę w 2011 r. ..... 11"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Kształcenie i szkolenie populacji w wieku 50–74 lat w % ...................................................... 13"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Struktura dobowego budżetu czasu według wieku w latach 2003–2004 (w % czasu dobowego ogółem) ............................................................................................................................... 16"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 4. Mierniki celu głównego i celów szczegółowych .................................................................... 20"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 5. Priorytety i kierunki działań ................................................................................................... 26"
+      },
+      {
+       "type": "text",
+       "text": "Spis wykresów"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 1. Trwanie życia w podziale na płeć w latach 1985–2035 .......................................................... 5"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 2. Struktura demograficzna ludności Polski w latach 2010–2035 w podziale na ekonomiczne grupy wieku ............................................................................................................................................. 7"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 3. Liczba osób w 5-letnich grupach wieku w latach 2010, 2035, 2060 ...................................... 8"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 4. Liczba osób w wybranych grupach wieku w latach 2010, 2020, 2030, 2035 ......................... 9"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 5. Przeciętne miesięczne wydatki na 1 osobę w gospodarstwach domowych według grup społeczno-ekonomicznych w 2011 r. .................................................................................................... 12"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 6. Liczba słuchaczy UTW na 10 000 osób w podziale na województwa w 2011 r. ................... 15"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 7. Oczekiwana średnia długość życia kobiet i mężczyzn w wieku 65 lat w 2010 roku w Polsce.. 18"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 149, poz. 887, Nr 205, poz. 1211, Nr 208, poz. 1241, Nr 209, poz. 1244 i Nr 232, poz. 1378. Warszawa, sierpień 2012 r. ¹ Trwanie życia w 2010 roku, GUS, Warszawa 2011. ² Parametr wyznaczający granicę wieku, którą połowa ludności już przekroczyła, a druga połowa jeszcze nie osiągnęła. ³ W 2010 roku wskaźnik urodzeń wynosił 1,38. ⁴ Stan i struktura ludności oraz ruch naturalny w przekroju terytorialnym. Stan na 31.12.2010 r., GUS. ⁵ Na podstawie danych GUS około 38% tej populacji stanowią osoby niepełnosprawne. ⁶ P. Błędowski: Starzenie się jako problem społeczny. Perspektywy demograficznego starzenia się ludności Polski do roku 2035 w: P. Błędowski, M. Mossakowska, A. Więcek: Aspekty medyczne, psychologiczne, socjologiczne i ekonomiczne starzenia się ludzi w Polsce (PolSenior), Termedia Wydawnictwa Medyczne, Poznań 2012. ⁷ P. Szukalski: Aktywność zawodowa w: P. Błędowski, M. Mossakowska, A. Więcek: Aspekty medyczne, psychologiczne, socjologiczne i ekonomiczne starzenia się ludzi w Polsce (PolSenior), Termedia Wydawnictwa Medyczne, Poznań 2012. ⁸ Przytaczane badania różnie definiują wiek, od którego daną osobę zalicza się do przedziału osób starszych. Z tego względu trudno jest odnieść dane bezpośrednio do osób, które zakończyły swoją aktywność na rynku pracy i są adresatami programu. ⁹ Zob. J. Przewłocka, Zaangażowanie społeczne Polaków w roku 2010: Wolontariat, filantropia, 1%. Raport z badań, Stowarzyszenie Klon/Jawor, Warszawa 2011. ¹⁰ http://ec.europa.eu/public_opinion/archives/ebs/ebs_378_fact_pl_en.pdf Źródło: Sytuacja gospodarstw domowych w 2011 r. w świetle wyników badań budżetów gospodarstw domowych, GUS, 2011. restauracje i hotele⁰⁵¹⁰¹⁵odzież i obuwie²⁰²⁵³⁰³⁵ łączność rekreacja i kultura transport zdrowie użytkowanie mieszkania i nośniki energii żywność i napoje bezalkoholowe Źródło: opracowanie własne na podstawie danych GUS. ¹¹ Na podstawie: www.utw.pl ¹² Liczba słuchaczy może być większa, ponieważ nie wszystkie UTW udostępniły informacje nt. liczby swoich uczestników. ¹³ Za: Projekt dokumentu: Polska 2030. Trzecia fala nowoczesności. Długookresowa Strategia Rozwoju Kraju. Część II, Warszawa, 2012, s. 108. ¹⁴ Rozdział na podstawie raportu GUS, Budżet czasu ludności 1.VI 2003–31.V 2004, Warszawa, 2005 (rozdział 3.3 Budżet czasu a wiek, s. 37 oraz tabl. 2 s. 132). ¹⁵ Obliczany na podstawie przeciętnego czasu trwania czynności przypadającego na 1 osobę bez względu na to, czy wykonywała daną czynność czy nie. ¹⁶ Zaliczają się tu takie potrzeby jak: sen, jedzenie i picie, mycie i ubieranie się oraz pozostałe. ¹⁷ Akademia Rozwoju Filantropii w Polsce we współpracy z Regionalnym Centrum Wolontariatu przeprowadziły w Elblągu sondaż postaw wobec wolontariatu 50+. Jego wyniki wskazują, że najważniejsze zachęty dla osób starszych do angażowania się w wolontariat to: niesienie pomocy potrzebującym (72%), poznanie nowych ludzi (61%) oraz własna satysfakcja (47%). Publikacja w ramach projektu „Same plusy. Wolontariat 50+”: Same Plusy. Wolontariat 50+. Prezentacja doświadczeń projektu, Stowarzyszenie Centrum Wolontariatu w Elblągu, 2007, s. 43–44. ¹⁸ Przeliczone wg stałego kursu ustalonego dla strefy euro. ¹⁹ Źródłem danych zaprezentowanej statystyki jest Eurostat, korzystający ze statystyk krajowych oraz badania EU-SILC. Przy wyliczaniu wskaźników dotyczących długości życia dane mogą nieznacznie różnić się od statystyk prezentowanych przez GUS ze względu na stosowanie innej metodologii. ²⁰ B. Wizner, A. Skalska, A. Klich-Rączka, K. Piotrowicz: Ocena stanu funkcjonalnego u osób w starszym wieku w: Aspekty medyczne, psychologiczne, socjologiczne i ekonomiczne starzenia się ludzi w Polsce (PolSenior), Termedia Wydawnictwa Medyczne, Poznań 2012. ²¹ Na potrzeby Programu osobę starszą definiuje się jako osobę w wieku powyżej 60. roku życia. ²² Np. zagrożonych wykluczeniem/izolacją społeczną. 4. DZIAŁANIA NA RZECZ OSÓB STARSZYCH W DOKUMENTACH STRATEGICZNYCH 6. PRIORYTETY I KIERUNKI INTERWENCJI 8. BENEFICJENCI PROGRAMU 10. WARUNKI I ZASADY SKŁADANIA OFERT I REALIZACJI PROGRAMU"
+ }
+}

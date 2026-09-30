@@ -1,0 +1,54 @@
+{
+ "eli": "MP/2015/1284",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 10 grudnia 2015 r. w sprawie wyboru członków Krajowej Rady Prokuratury",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1284/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 grudnia 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wyboru członków Krajowej Rady Prokuratury"
+  },
+  {
+   "type": "text",
+   "text": "Senat Rzeczypospolitej Polskiej, na podstawie art. 23 ust. 5 ustawy z dnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2011 r. Nr 270, poz. 1599, ze zm.[^1]), wybiera senatorów:"
+  },
+  {
+   "type": "tir",
+   "num": "1",
+   "path": "tir_1",
+   "text": "Aleksandra SZWEDA",
+   "children": []
+  },
+  {
+   "type": "tir",
+   "num": "2",
+   "path": "tir_2",
+   "text": "Marka PĘKA",
+   "children": []
+  },
+  {
+   "type": "text",
+   "text": "do składu Krajowej Rady Prokuratury."
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: S. Karczewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 240, poz. 1430, z 2012 r. poz. 637, z 2013 r. poz. 1247 i 1623, z 2014 r. poz. 504 oraz z 2015 r. poz. 694, 1045, 1066, 1224, 1309, 1311 i 1890."
+ }
+}

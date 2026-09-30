@@ -1,0 +1,1308 @@
+{
+ "eli": "MP/2013/1011",
+ "title": "Uchwała Zarządu Narodowego Banku Polskiego z dnia 5 grudnia 2013 r. w sprawie warunków i zasad sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/1011/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "Uchwała"
+  },
+  {
+   "type": "text",
+   "text": "ZarZądU Narodowego BaNkU Polskiego"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 grudnia 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie warunków i zasad sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 36 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2013 r. poz. 908 i 1036) uchwala się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Uchwała określa warunki i zasady sprzedaży monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele, zwanych dalej „wartościami kolekcjonerskimi”, niezależnie od daty ich wyemitowania przez Narodowy Bank Polski, zwany dalej „NBP”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Do wartości kolekcjonerskich zalicza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "złote i srebrne monety kolekcjonerskie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "banknoty kolekcjonerskie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "numizmaty:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_3/lit_a",
+         "text": "banknoty i monety, które nie zostały wprowadzone do obiegu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_2/pkt_3/lit_b",
+         "text": "banknoty i monety wycofane z obiegu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "zestawy kolekcjonerskie – połączone w jedno opakowanie, według określonych kryteriów, wartości kolekcjonerskie, o których mowa w pkt 1–3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_2/pkt_5",
+       "text": "złote monety uncjowe.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "definicje"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w uchwale określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "odbiorca instytucjonalny – osobę prawną, osobę fizyczną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, nabywającą wartości kolekcjonerskie w ramach prowadzonej działalności gospodarczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Dystrybutor – odbiorcę instytucjonalnego, który ma podpisaną z NBP umowę sprzedaży i którego przedmiotem działania jest obrót wartościami kolekcjonerskimi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "odbiorca indywidualny – osobę fizyczną nabywającą wartości kolekcjonerskie poza prowadzoną przez nią działalnością gospodarczą oraz osobę fizyczną nieprowadzącą działalności gospodarczej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "Techniczny plan emisji wartości kolekcjonerskich – plan emisji wartości kolekcjonerskich, ogłoszony przez NBP w roku poprzedzającym rok emisji wartości kolekcjonerskich, nieokreślający dat dziennych emisji tych wartości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "zamówienie roczne – zamówienie na wartości kolekcjonerskie, składane przez Dystrybutorów w roku poprzedzającym rok planowanej emisji, dotyczące wartości kolekcjonerskich ujętych w Technicznym planie emisji wartości kolekcjonerskich;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "umowa sprzedaży – umowę zawartą pomiędzy NBP a Dystrybutorami, dotyczącą sprzedaży przez NBP wartości kolekcjonerskich, z uwzględnieniem opustów cenowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "dni – dni kalendarzowe;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "dni robocze – dni od poniedziałku do piątku, poza dniami ustawowo wolnymi od pracy oraz dniami wolnymi od pracy, określonymi na podstawie odrębnych przepisów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "Katalog cech produkcyjnych – specyfikację dopuszczalnych i niedopuszczalnych cech produkcyjnych monet kolekcjonerskich. Katalog dostępny jest do wglądu w oddziałach okręgowych NBP i na stronie sklepu internetowego NBP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "sprzedaż złotych i srebrnych monet kolekcjonerskich, banknotów kolekcjonerskich oraz zestawów kolekcjonerskich"
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "NBP prowadzi sprzedaż wartości kolekcjonerskich, o których mowa w § 1 ust. 2 pkt 1, 2 i 4, w oddziałach okręgowych NBP i Departamencie Emisyjno-Skarbcowym NBP, zwanym dalej „DES”, oraz w sklepie internetowym, obsługiwanym przez Narodowy Bank Polski, zgodnie z „Regulaminem sprzedaży wartości kolekcjonerskich, prowadzonej poprzez sklep internetowy”, stanowiącym załącznik do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Oddziały okręgowe NBP i DES prowadzą sprzedaż wartości kolekcjonerskich, o których mowa w ust. 1, odbiorcom instytucjonalnym i indywidualnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Sprzedaż wartości kolekcjonerskich, o których mowa w § 1 ust. 2 pkt 1, 2 i 4, odbiorcom instytucjonalnym dokonywana jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "na podstawie złożonego zamówienia, potwierdzonego odpowiednio przez Oddział Okręgowy NBP lub DES;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "w kasach oddziałów okręgowych NBP, przez przyjęcie zapłaty i bezpośrednie ich wydanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Sprzedaż wartości kolekcjonerskich, o których mowa w § 1 ust. 2 pkt 1, 2 i 4, odbiorcom indywidualnym prowadzona jest wyłącznie w oddziałach okręgowych NBP, w wyznaczonych kasach, przez przyjęcie zapłaty i bezpośrednie ich wydanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Stosownie do sprawowanego nadzoru nad DES, Prezes NBP, wiceprezes NBP albo upoważniony przez Prezesa NBP członek Zarządu NBP podejmuje decyzję w sprawie sprzedaży części wartości kolekcjonerskich:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_5/pkt_1",
+       "text": "z przeznaczeniem na:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_5/pkt_1/lit_a",
+         "text": "cele reprezentacyjne organów władzy publicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_5/pkt_1/lit_b",
+         "text": "potrzeby własne instytucji, których zakres działania związany jest z tematyką danej emisji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_5/pkt_2",
+       "text": "w innych szczególnie uzasadnionych przypadkach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_3/ust_6",
+     "text": "Z każdej emisji NBP może przeznaczyć do 5% jej nakładu na własne potrzeby.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Sprzedaż wartości kolekcjonerskich, o których mowa w § 1 ust. 2 pkt 1 i 2, następuje po cenie sprzedaży ustalonej w NBP, zgodnie z ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Stosownie do sprawowanego nadzoru nad DES Prezes NBP, wiceprezes NBP albo upoważniony przez Prezesa NBP członek Zarządu NBP akceptuje określoną przez DES cenę sprzedaży, o której mowa w ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Cena sprzedaży złotych i srebrnych monet kolekcjonerskich oraz banknotów kolekcjonerskich określana jest z uwzględnieniem kosztów bezpośrednio i pośrednio związanych z ich produkcją i sprzedażą, kosztów ich przygotowania do sprzedaży, a w przypadku banknotów – również ich wartości nominalnej, oraz marży NBP. Cena ta zawiera także należny podatek VAT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Cena sprzedaży zestawu kolekcjonerskiego stanowi sumę cen sprzedaży netto wartości kolekcjonerskich wchodzących w jego skład, ustalonych w sposób określony w ust. 3 lub w § 12 ust. 2, powiększoną o koszt opakowania. Cena sprzedaży zestawu kolekcjonerskiego zawiera również należny podatek VAT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "NBP może ponownie ustalić cenę sprzedaży złotych monet kolekcjonerskich udostępnionych do sprzedaży, w przypadku gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_5/pkt_1",
+       "text": "na skutek wzrostu cen kruszcu iloraz wartości ceny sprzedaży monety, ustalonej zgodnie z ust. 3, i wartości złota w monecie, ustalonej według ceny określonej na podstawie średniego, miesięcznego notowania złota na giełdzie londyńskiej, spadnie poniżej wartości 1,05 lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_5/pkt_2",
+       "text": "na skutek spadku cen złota iloraz wartości ceny sprzedaży monety, ustalonej zgodnie z ust. 3, i wartości złota w monecie, ustalonej według ceny określonej na podstawie średniego, miesięcznego notowania złota na giełdzie londyńskiej, przekroczy wartość 1,25, przy czym nowa cena sprzedaży monety nie może być niższa niż wartość złota użytego do jej produkcji, określona w kalkulacji ceny emisyjnej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Oddziały okręgowe NBP i DES prowadzą sprzedaż wartości kolekcjonerskich, wymienionych w § 1 ust. 2 pkt 1 i 2, z zastosowaniem opustów cenowych, o których mowa w ust. 2 pkt 4–7, wyłącznie Dystrybutorom, na podstawie zawartych z nimi umów sprzedaży.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przy zawieraniu umów sprzedaży z Dystrybutorami uwzględnia się następujące założenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "Dystrybutorzy składają zamówienia roczne na wartości kolekcjonerskie, wymienione w § 1 ust. 2 pkt 1 i 2, ujęte w „Technicznym planie emisji wartości kolekcjonerskich”, podanym do publicznej wiadomości do dnia 31 lipca roku poprzedzającego rok planowanej emisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "zamówienie na wartości kolekcjonerskie, o których mowa w pkt 1, składa się do dnia 31 października roku poprzedzającego rok emisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "w przypadku wprowadzenia do „Technicznego planu emisji wartości kolekcjonerskich” dodatkowego rodzaju wartości kolekcjonerskich, zamówienia na te wartości przyjmowane są do realizacji w terminie jednego miesiąca od dnia podania do publicznej wiadomości o jego aktualizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "przy sprzedaży poszczególnych rodzajów monet złotych, wyemitowanych w roku dotyczącym zamówienia, Dystrybutorom, którzy złożyli zamówienie roczne do dnia 31 października roku poprzedzającego emisję, udziela się opustów cenowych w wysokości:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_4/lit_a",
+         "text": "5,0% ceny sprzedaży netto danego rodzaju złotych monet – przy zakupie od 1% do 2,99% wielkości ich nakładu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_4/lit_b",
+         "text": "10,0% ceny sprzedaży netto danego rodzaju złotych monet – przy zakupie co najmniej 3% wielkości ich nakładu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_2/pkt_5",
+       "text": "przy sprzedaży poszczególnych rodzajów srebrnych monet i banknotów kolekcjonerskich, wyemitowanych w roku dotyczącym zamówienia, Dystrybutorom, którzy złożyli zamówienie roczne do dnia 31 października roku poprzedzającego emisję, udziela się opustów cenowych w wysokości:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_5/lit_a",
+         "text": "5,0% ceny sprzedaży netto danego rodzaju monet lub banknotów – przy zakupie od 3% do 7,49% wielkości ich nakładu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_5/lit_b",
+         "text": "10,0% ceny sprzedaży netto danego rodzaju monet lub banknotów – przy zakupie od 7,5% do 9,99% wielkości ich nakładu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_2/pkt_5/lit_c",
+         "text": "15,0% ceny sprzedaży netto danego rodzaju monet lub banknotów – przy zakupie co najmniej 10% wielkości ich nakładu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_2/pkt_6",
+       "text": "Dystrybutorom, którzy złożą zamówienie na wartości ujęte w „Technicznym planie emisji wartości kolekcjonerskich”, o którym mowa w pkt 1, po dniu 31 października roku poprzedzającego emisję, udziela się opustów cenowych, o których mowa w pkt 4 i 5, pomniejszonych o 30%. Zamówienia będą realizowane zgodnie z kolejnością ich składania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_5/ust_2/pkt_7",
+       "text": "przy sprzedaży monet i banknotów kolekcjonerskich, pozostających w zapasie NBP, dla których w dniu składania zamówienia minął co najmniej jeden miesiąc od dnia ich wprowadzenia do obiegu, udziela się opustów cenowych w wysokości:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_2/pkt_7/lit_a",
+         "text": "2% ceny sprzedaży netto danego rodzaju złotych monet kolekcjonerskich – przy łącznym zakupie co najmniej 50 szt. poszczególnych tematów monet złotych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_2/pkt_7/lit_b",
+         "text": "5% ceny sprzedaży netto danego rodzaju srebrnych monet lub banknotów kolekcjonerskich – przy łącznym zakupie co najmniej 100 szt. poszczególnych tematów pozostałych monet srebrnych lub banknotów kolekcjonerskich;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_5/ust_2/pkt_8",
+       "text": "w przypadku gdy popyt na wartości ujęte w „Technicznym planie emisji wartości kolekcjonerskich” przekroczy dostępną dla Dystrybutorów liczbę monet lub banknotów kolekcjonerskich, zamówienia roczne będą podlegały redukcji zgodnie z następującym algorytmem:",
+       "children": [
+        {
+         "type": "text",
+         "text": "n L = i × N i i = H i ∑ n i = 1 i"
+        },
+        {
+         "type": "text",
+         "text": "gdzie:"
+        },
+        {
+         "type": "text",
+         "text": "L – oznacza liczbę danych monet lub banknotów kolekcjonerskich przyznanych i-temu Dystrybutorowi po i redukcji, z zaokrągleniem w dół do części całkowitych,"
+        },
+        {
+         "type": "text",
+         "text": "n – oznacza liczbę danych monet lub banknotów kolekcjonerskich, na które i-ty Dystrybutor złożył zamói wienie,"
+        },
+        {
+         "type": "text",
+         "text": "H – oznacza liczbę Dystrybutorów, którzy złożyli zamówienia na zakup danych monet lub banknotów kolekcjonerskich,"
+        },
+        {
+         "type": "text",
+         "text": "i = H ∑ n – oznacza sumaryczną liczbę danych monet lub banknotów kolekcjonerskich, na które wszyscy Dystrybui = 1 i torzy złożyli zamówienia,"
+        },
+        {
+         "type": "text",
+         "text": "N – oznacza transzę danych monet lub banknotów kolekcjonerskich, przeznaczoną do sprzedaży dla Dystryi butorów;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_5/ust_2/pkt_9",
+       "text": "umowy sprzedaży będą zawierały odpowiednie postanowienia, zabezpieczające NBP na wypadek naruszenia zobowiązań przez Dystrybutorów, w szczególności braku zapłaty za monety i banknoty kolekcjonerskie, ujęte w zamówieniu rocznym.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W stosunku do wszystkich monet i banknotów kolekcjonerskich, emitowanych przez NBP, wprowadza się 24-miesięczny okres sprzedaży, począwszy od dnia ich emisji. Po tym terminie wartości kolekcjonerskie, o których mowa w § 1 ust. 2 pkt 1 i 2, będą wycofane ze sprzedaży.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Dopuszcza się zachowanie w zapasie do 1% z nakładu każdej monety kolekcjonerskiej i każdego banknotu kolekcjonerskiego po upływie 24-miesięcznego okresu sprzedaży, z przeznaczeniem na cele promocyjne, wystawiennicze, edukacyjne i reprezentacyjne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wydanie monet i banknotów kolekcjonerskich odbiorcom instytucjonalnym i indywidualnym następuje od dnia wprowadzenia ich do obiegu.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "sprzedaż złotych monet uncjowych"
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Sprzedaż złotych monet uncjowych, o których mowa w § 1 ust. 2 pkt 5, prowadzona jest w oddziałach okręgowych NBP, w wyznaczonych do tego celu kasach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Odbiorcy instytucjonalni mogą nabywać złote monety uncjowe w oddziałach okręgowych NBP, na podstawie złożonych i potwierdzonych przez oddział okręgowy NBP zamówień, lub bezpośrednio w wyznaczonych kasach. Termin płatności pełnej kwoty należności za zamówienie wynosi 7 dni od dnia otrzymania potwierdzenia zamówienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Sprzedaż złotych monet uncjowych odbiorcom indywidualnym odbywa się w oddziałach okręgowych NBP, wyłącznie w wyznaczonych kasach, przez przyjęcie zapłaty i bezpośrednie ich wydanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Ceną sprzedaży złotych monet uncjowych jest cena obowiązująca w dniu złożenia zamówienia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Ceny netto złotych monet uncjowych ustalane są z uwzględnieniem:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "wartości zawartego w nich kruszcu, wyliczonej na podstawie codziennego popołudniowego notowania złota na giełdzie londyńskiej w dniu poprzedzającym sprzedaż tych monet w NBP, oraz kursu średniego USD według tabeli kursów NBP, wyliczonych w dniu poprzedzającym sprzedaż tych wartości, a w przypadku braku kursu z dnia poprzedniego – ostatniego kursu ustalonego przed tym dniem, powiększonej odpowiednio o:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_1/lit_a",
+         "text": "5 5% tej wartości – dla monet o nominale 50 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_1/lit_b",
+         "text": "30% tej wartości – dla monet o nominale 100 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_10/ust_1/pkt_1/lit_c",
+         "text": "20% tej wartości – dla monet o nominale 200 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_10/ust_1/pkt_1/lit_d",
+         "text": "15% tej wartości – dla monet o nominale 500 zł;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "kosztów bezpośrednio i pośrednio związanych z ich produkcją oraz kosztów przygotowania tych monet do sprzedaży.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Ceny, o których mowa w ust. 1, określane są przez NBP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Wydanie złotych monet uncjowych odbiorcom instytucjonalnym i Dystrybutorom następuje po dokonaniu wpłaty należnej kwoty, wynikającej z potwierdzonego zamówienia, na wskazany rachunek bankowy NBP.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "sprzedaż numizmatów"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Do sprzedaży numizmatów, o których mowa w § 1 ust. 2 pkt 3, stosuje się odpowiednio przepisy § 3 i 4 oraz § 5 ust. 2 pkt 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Ceny sprzedaży numizmatów określa NBP.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "reklamacje"
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "W przypadku stwierdzenia przez klienta, że nabyte przez niego wartości kolekcjonerskie posiadają wady jakościowe (w przypadku monet kolekcjonerskich – niedopuszczalne cechy produkcyjne, wymienione w Katalogu cech produkcyjnych), reklamacja powinna być złożona w terminie 12 miesięcy od daty zakupu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "W przypadku stwierdzenia przez odbiorcę instytucjonalnego lub odbiorcę indywidualnego, zwanych dalej „klientami”, niedopuszczalnych cech produkcyjnych monet kolekcjonerskich, wymienionych w Katalogu cech produkcyjnych lub wad jakościowych banknotów kolekcjonerskich, reklamacja powinna być złożona w ciągu 12 miesięcy od daty zakupu, w miejscu ich zakupu, wraz z reklamowanymi wartościami kolekcjonerskimi będącymi przedmiotem reklamacji, z paragonem fiskalnym albo fakturą VAT, stanowiącymi dowód zakupu, pisemnym, szczegółowym uzasadnieniem reklamacji oraz z informacją zawierającą dane do korespondencji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Rozpatrzenie przez DES zasadności reklamacji nastąpi nie później niż w ciągu 30 dni od dnia jej wpływu do NBP.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "W przypadku uznania reklamacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_4/pkt_1",
+       "text": "NBP wymieni wartości kolekcjonerskie będące przedmiotem reklamacji na taką samą liczbę wartości kolekcjonerskich tego samego rodzaju, wolnych od wad lub niedopuszczalnych cech produkcyjnych, w terminie i miejscu określonych w zawiadomieniu o uznaniu reklamacji, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_4/pkt_2",
+       "text": "NBP przekaże należność za reklamowane wartości kolekcjonerskie na wskazany przez klienta rachunek bankowy, w terminie 14 dni od dnia uznania reklamacji, w przypadku braku możliwości przekazania określonych wartości kolekcjonerskich wolnych od wad.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Reklamacje wartości kolekcjonerskich noszących ślady fizycznych uszkodzeń, powstałych w wyniku niewłaściwego obchodzenia się z nimi przez klientów, nie będą uwzględniane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_13/ust_6",
+     "text": "W celu rozpatrzenia reklamacji wartości kolekcjonerskich, zakupionych wysyłkowo poprzez sklep internetowy, dostarcza się je na adres: Narodowy Bank Polski, Departament Emisyjno-Skarbcowy, ul. Świętokrzyska 11/21, 00-919 Warszawa, z dopiskiem „Sklep internetowy/reklamacja”. W przypadku uznania reklamacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_6/pkt_1",
+       "text": "NBP wymieni wartości kolekcjonerskie będące przedmiotem reklamacji na taką samą liczbę wartości kolekcjonerskich tego samego rodzaju, wolnych od wad, przy czym ich ponowne doręczenie nastąpi na koszt NBP, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_6/pkt_2",
+       "text": "klient otrzyma równowartość zapłaconej ceny, wraz z ewentualnymi kosztami wysyłki; należność zostanie przekazana na wskazany przez klienta rachunek bankowy, w terminie 14 dni roboczych od dnia uznania reklamacji za uzasadnioną.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Przepisy ust. 2 i 4 stosuje się odpowiednio."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_13/ust_7",
+     "text": "Przepisy ust. 2–5 nie naruszają uprawnień klientów wynikających z przepisów powszechnie obowiązujących, jeżeli przewidują one korzystniejsze warunki ochrony, z zastrzeżeniem ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Do dnia 31 grudnia 2014 r. NBP będzie wycofywał ze sprzedaży monety kolekcjonerskie wyemitowane przed dniem 1 stycznia 2013 r., dla których upłynął 24-miesięczny okres sprzedaży, począwszy od dnia ich emisji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "W związku ze zmianą systemu sprzedaży w 2014 r., termin złożenia zamówienia rocznego przez Dystrybutorów na rok 2014 ustala się do dnia 20 grudnia 2013 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Traci moc uchwała Zarządu Narodowego Banku Polskiego z dnia 26 października 2009 r. w sprawie warunków i zasad sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele (M.P. Nr 70, poz. 897, z późn. zm.[^1]), z wyjątkiem:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "w załączniku nr 1 do uchwały – § 8 ust. 5, 7–7b i 10 oraz § 9 ust. 6 i 7,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "w załączniku nr 2 do uchwały – § 5 ust. 7 pkt 2",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– które tracą moc z dniem 30 kwietnia 2014 r."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Uchwała wchodzi w życie z dniem 1 marca 2014 r., z wyjątkiem § 5 ust. 2 i § 15, które wchodzą w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: wz. P. Wiesiołek"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Zarządu Narodowego Banku Polskiego z dnia 5 grudnia 2013 r. (poz. 1011)",
+   "body": [
+    {
+     "type": "text",
+     "text": "REGULAMIN SPRZEDAŻY WARTOŚCI KOLEKCJONERSKICH, PROWADZONEJ POPRZEZ SKLEP INTERNETOWY"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Postanowienia ogólne",
+     "children": [
+      {
+       "type": "text",
+       "text": "Regulamin określa zasady postępowania oraz prawa i obowiązki uczestników transakcji zawieranych w sklepie internetowym, działającym pod adresem http://www.kolekcjoner.nbp.pl/sklep, w ramach systemu Kolekcjoner."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "definicje",
+     "children": [
+      {
+       "type": "text",
+       "text": "Określenia użyte w regulaminie oznaczają:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "NBP – Narodowy Bank Polski z siedzibą w Warszawie przy ul. Świętokrzyskiej 11/21;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Kolekcjoner – system informatyczny umożliwiający zakup wartości kolekcjonerskich w sklepie internetowym, działającym w ramach tego systemu, zwany dalej „systemem Kolekcjoner”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "sklep internetowy NBP – system informatyczny, będący modułem systemu Kolekcjoner, służący do zawierania umów sprzedaży pomiędzy NBP a klientami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "konto – zbiór zasobów i uprawnień w ramach systemu Kolekcjoner, przypisanych konkretnemu uczestnikowi, posiadający unikalną nazwę (login) i hasło, pozwalający na dokonywanie transakcji zawieranych w sklepie internetowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "rejestracja – procedurę zakładania konta;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "klient – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, posiadającą zdolność do czynności prawnych, która dokonała rejestracji i za pomocą utworzonego konta uzyskała dostęp do sklepu internetowego, działającego w systemie Kolekcjoner;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "odbiorca indywidualny – osobę fizyczną nabywającą wartości kolekcjonerskie poza prowadzoną przez nią działalnością gospodarczą oraz osobę fizyczną nieprowadzącą działalności gospodarczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "odbiorca instytucjonalny – osobę prawną, osobę fizyczną lub jednostkę organizacyjną nieposiadającą osobowości prawnej nabywającą wartości kolekcjonerskie w ramach prowadzonej działalności gospodarczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "zagraniczny odbiorca instytucjonalny – odbiorcę instytucjonalnego, posiadającego siedzibę poza terytorium Rzeczypospolitej Polskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/pkt_10",
+       "text": "cena sprzedaży – cenę, po której wartości kolekcjonerskie oferowane są do sprzedaży w sklepie internetowym, zawierającą należny podatek VAT;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/pkt_11",
+       "text": "opakowanie bezpieczne – kopertę bezpieczną, umożliwiającą obejrzenie zakupionej wartości kolekcjonerskiej bez konieczności jej otwierania, wyposażoną w taśmę zawierającą indykator mechaniczny, termiczny i wilgotnościowy, uniemożliwiający utratę pierwotnych cech wartości kolekcjonerskich, emitowanych przez NBP, oraz zawierającą informację ostrzegawczą dla kupujących, w brzmieniu: „UWAGA: Otwarcie koperty bezpiecznej jest jednoznaczne z utratą cech pierwotnych wartości kolekcjonerskiej i pozbawia kupującego uprawnienia do jej zwrotu do NBP jako wartości w stanie niezmienionym”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/pkt_12",
+       "text": "DES – Departament Emisyjno-Skarbcowy w NBP;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/pkt_13",
+       "text": "strona internetowa sklepu – stronę http://www.kolekcjoner.nbp.pl/sklep, obsługiwaną przez Narodowy Bank Polski w systemie Kolekcjoner;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/pkt_14",
+       "text": "dni robocze – dni od poniedziałku do soboty, poza dniami ustawowo wolnymi od pracy oraz dniami wolnymi od pracy, określonymi na podstawie odrębnych przepisów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/pkt_15",
+       "text": "dni – dni kalendarzowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_2/pkt_16",
+       "text": "dokument tożsamości – dokument ze zdjęciem, potwierdzający tożsamość właściciela, w przypadku uczestnika krajowego zawierający też numer PESEL;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_2/pkt_17",
+       "text": "płatność w oddziale okręgowym NBP – płatność gotówkową i/lub płatność kartą płatniczą za odbierane w Oddziale Okręgowym NBP w Warszawie wartości kolekcjonerskie, zamówione w sklepie internetowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_2/pkt_18",
+       "text": "karta – kartę płatniczą, wydawaną w ramach systemów płatniczych obsługiwanych przez Operatora, z którym NBP podpisał umowę na świadczenie usług związanych z obsługą płatności kartami. Są to obecnie systemy płatnicze: Visa, MasterCard oraz Dinners Club;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_2/pkt_19",
+       "text": "transakcja – jednorazową płatność kartą przez Internet, stanowiącą zapłatę pełnej kwoty za jedno zamówienie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_2/pkt_20",
+       "text": "płatność kartą przez Internet – realizację transakcji przez Internet; przy wyborze płatności kartą nie można dzielić kwoty zapłaty za dane zamówienie na transakcje o mniejszej wartości oraz jedną transakcją realizować płatności za więcej niż jedno zamówienie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_2/pkt_21",
+       "text": "link do systemu Kolekcjoner – unikalne przekierowanie do systemu Kolekcjoner, dzięki któremu po zalogowaniu się użytkownika wyświetlone zostaną szczegóły zamówienia, którego link dotyczył, po czym następuje przekierowanie do strony internetowej operatora płatności kartą, pośredniczącego w wyborze systemu płatniczego (Visa, Visa Electron, MasterCard, MasterCard Electronic, Maestro, Dinners Club) i w płatności przy użyciu wybranej karty;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_2/pkt_22",
+       "text": "Katalog cech produkcyjnych – specyfikację dopuszczalnych i niedopuszczalnych cech produkcyjnych monet kolekcjonerskich, która jest dostępna do wglądu w oddziałach okręgowych NBP i na stronie sklepu internetowego NBP.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "rejestracja",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "Warunkiem dokonywania zakupów w sklepie internetowym NBP jest dokonanie rejestracji, w wyniku której nastąpi aktywacja konta.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Klienci dokonują rejestracji poprzez wypełnienie formularza rejestracyjnego, znajdującego się na stronie internetowej sklepu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Korzystanie ze sklepu wymaga złożenia oświadczenia o akceptacji regulaminu sprzedaży wartości kolekcjonerskich, prowadzonej poprzez sklep internetowy NBP, dostępnego na stronie internetowej sklepu, oraz o wyrażeniu zgody na przetwarzanie danych osobowych, wprowadzonych do systemu Kolekcjoner przy rejestracji, w celu obsługi transakcji zawieranych w sklepie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_3/ust_4",
+       "text": "Klient dokonujący rejestracji może wyrazić zgodę na przesyłanie mu materiałów informacyjnych i promocyjnych na adres e-mail, podany w trakcie rejestracji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "konto klienta",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Klient uzyskuje dostęp do swojego konta w sklepie internetowym NBP po wprowadzeniu loginu i hasła.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Konto zawiera dane wprowadzone przez klienta podczas rejestracji. W przypadku wystąpienia jakichkolwiek zmian w zakresie tych danych, klient zobowiązany jest do ich aktualizacji poprzez modyfikację i ponowne zatwierdzenie formularza rejestracyjnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "W przypadku utraty hasła, klient może je odzyskać, korzystając z opcji „zapomniałeś hasła?”, dostępnej na stronie internetowej sklepu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_4/ust_4",
+       "text": "Dane osobowe klienta przetwarzane są przez NBP (administrator danych) w celu realizacji zamówień oraz w celach archiwizacyjnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_4/ust_5",
+       "text": "Klient ma prawo wglądu do treści swoich danych osobowych oraz do ich poprawiania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Składanie i realizacja zamówień",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "NBP gwarantuje, że wszystkie wartości kolekcjonerskie, oferowane w sklepie internetowym, są fabrycznie nowe oraz wolne od nieakceptowalnych wad fizycznych i prawnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "W przypadku dostarczenia klientowi wartości kolekcjonerskich przesyłką kurierską, do ceny sprzedaży doliczany jest koszt wysyłki, obejmujący jej ubezpieczenie. Aktualny koszt wysyłki dostępny jest na stronie internetowej sklepu. Pocztą kurierską dostarczane są wartości kolekcjonerskie objęte zamówieniami, których wartość nie przekracza 5 000 zł brutto.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_5/ust_3",
+       "text": "Zamówienie złożone przez klienta poprzez wypełnienie i zatwierdzenie formularza zamówienia stanowi ofertę w rozumieniu przepisów Kodeksu cywilnego. Składając zamówienie, klient wybiera sposób płatności (płatność kartą przez Internet/przelew/płatność w Oddziale Okręgowym NBP w Warszawie) i odbioru (przesyłka kurierska/odbiór w Oddziale Okręgowym NBP w Warszawie) oraz formę udokumentowania zakupu (paragon fiskalny/faktura VAT). W przypadku odbioru w Oddziale Okręgowym NBP w Warszawie informacja o terminie odbioru zostanie wysłana nie później niż w ciągu 10 dni od dnia złożenia zamówienia lub od dnia wpływu należności za zamówione wartości na rachunek NBP.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_5/ust_4",
+       "text": "Przyjęcie zamówienia do realizacji następuje w momencie wysłania do klienta potwierdzenia złożenia tego zamówienia. Potwierdzenie wysyłane jest automatycznie w ciągu 24 godzin i zawiera informacje dotyczące numeru zamówienia, wartości zamówienia oraz sposobu płatności i odbioru przedmiotu zamówienia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_5/ust_5",
+       "text": "Klient wybierający formę dostarczenia wartości kolekcjonerskich przesyłką kurierską zobowiązany jest dokonać płatności kartą przez Internet lub dokonać wpłaty przelewem pełnej kwoty należności za zamówienie, wraz z kosztami wysyłki, w ciągu 7 dni od dnia otrzymania potwierdzenia zamówienia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_5/ust_6",
+       "text": "Do każdego zamówienia wystawiany jest paragon fiskalny albo faktura VAT. Dokument ten NBP dołącza do sprzedawanych wartości kolekcjonerskich.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_5/ust_7",
+       "text": "Zamówione wartości kolekcjonerskie wydawane są:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_7/pkt_1",
+         "text": "w drodze przesyłki kurierskiej, w przeźroczystym opakowaniu bezpiecznym, na adres podany przez klienta w formularzu zamówienia, w terminie 7 dni roboczych od dnia otrzymania wpłaty. Przesyłka doręczana jest wyłącznie na terytorium Polski;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_7/pkt_2",
+         "text": "w kasie kolekcjonerskiej Oddziału Okręgowego NBP w Warszawie, we wskazanym terminie, po podaniu numeru zamówienia i okazaniu dokumentu tożsamości;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_7/pkt_3",
+         "text": "w DES – w przypadku sprzedaży zagranicznemu odbiorcy instytucjonalnemu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "par_5/ust_8",
+       "text": "W przypadku gdy po przyjęciu zamówienia, z przyczyn niezależnych od NBP realizacja zamówienia w całości lub w części nie będzie możliwa, NBP zastrzega sobie prawo odmowy realizacji zamówienia, niezwłocznie przekazując klientowi informację o zaistnieniu takiej sytuacji. W przypadku wpłacenia należności, NBP zwraca klientowi należną kwotę.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "9",
+       "path": "par_5/ust_9",
+       "text": "Brak wpływu należności za zamówione wartości kolekcjonerskie, w terminie 7 dni od daty potwierdzenia zamówienia, skutkuje anulowaniem zamówienia. Nieodebranie wartości kolekcjonerskich w Oddziale Okręgowym NBP w Warszawie, w terminie 7 dni roboczych od daty potwierdzenia dostępności tych wartości w Oddziale, spowoduje anulowanie zamówienia i zwrot wpłaconych przez klienta środków pieniężnych na rachunek, z którego płatność została dokonana, lub na rachunek karty, którą dokonano płatności; zwrot nastąpi w ciągu 14 dni od dnia upływu terminu odbioru.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "10",
+       "path": "par_5/ust_10",
+       "text": "NBP zastrzega sobie prawo odmowy przyjęcia zamówienia do realizacji w przypadku, gdy dane podane przez klienta będą niepełne, nieprawidłowe lub okażą się nieprawdziwe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "11",
+       "path": "par_5/ust_11",
+       "text": "Wszelkie uwagi i pytania, dotyczące funkcjonowania sklepu internetowego lub dotyczące realizacji składanych zamówień, powinny być kierowane drogą elektroniczną, faksem lub telefonicznie na adres lub numer podany na stronie internetowej sklepu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Zwrot zamówionych wartości kolekcjonerskich",
+     "children": [
+      {
+       "type": "text",
+       "text": "Odbiorca indywidualny może zrezygnować z zakupu wartości kolekcjonerskich, zakupionych w sklepie internetowym, w ciągu 10 dni od dnia ich dostarczenia przesyłką kurierską. Zwrot wartości kolekcjonerskich następuje na koszt klienta, na adres: Narodowy Bank Polski, ul. Świętokrzyska 11/21, 00-919 Warszawa, z dopiskiem „Sklep internetowy”, w nienaruszonych, oryginalnych opakowaniach bezpiecznych, wraz z paragonem fiskalnym albo fakturą VAT. NBP, w terminie 14 dni roboczych, licząc od dnia dostarczenia wartości kolekcjonerskich na podany adres, zwróci równowartość należnej kwoty, bez kosztów przesyłki, przelewem bankowym na rachunek bankowy, z którego wpłynęła zapłata, lub na rachunek karty, którą dokonano płatności."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "reklamacje",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "W przypadku stwierdzenia przez klienta, że nabyte przez niego wartości kolekcjonerskie posiadają wady jakościowe (w przypadku monet kolekcjonerskich – niedopuszczalne cechy produkcyjne, wymienione w Katalogu cech produkcyjnych), reklamacja powinna być złożona w terminie 12 miesięcy od daty zakupu. 2. W celu rozpatrzenia reklamacji wartości kolekcjonerskich, zakupionych wysyłkowo poprzez sklep internetowy, dostarcza się je na adres: Narodowy Bank Polski, Departament Emisyjno-Skarbcowy, ul. Świętokrzyska 11/21, 00-919 Warszawa, z dopiskiem „Sklep internetowy/reklamacja” lub w przypadku zakupu tych wartości w Oddziale Okręgowym w Warszawie, dostarcza się je bezpośrednio do Oddziału Okręgowego w Warszawie. W obu przypadkach do reklamowanych wartości kolekcjonerskich należy dołączyć dowód zakupu (paragon fiskalny albo fakturę VAT), pisemne, szczegółowe uzasadnienie reklamacji oraz informację zawierającą dane do korespondencji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Rozpatrzenie przez DES zasadności reklamacji nastąpi nie później niż w terminie 30 dni od dnia jej wpływu do NBP.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_7/ust_4",
+       "text": "W przypadku uznania reklamacji:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_7/ust_4/pkt_1",
+         "text": "NBP wymieni wartości kolekcjonerskie, będące przedmiotem reklamacji, na taką samą liczbę wartości kolekcjonerskich tego samego rodzaju, wolne od wad, przy czym w przypadku skorzystania z wysyłkowej formy zakupu ich ponowne doręczenie nastąpi na koszt NBP, albo",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_7/ust_4/pkt_2",
+         "text": "klient otrzyma równowartość zapłaconej ceny, wraz z ewentualnymi kosztami wysyłki; należność zostanie przekazana na wskazany przez klienta rachunek bankowy, w terminie 14 dni roboczych od dnia uznania reklamacji za uzasadnioną.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_7/ust_5",
+       "text": "Reklamacje wartości kolekcjonerskich noszących ślady fizycznych uszkodzeń, powstałych w wyniku niewłaściwego obchodzenia się z nimi przez klientów, nie będą uwzględniane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "Postanowienia końcowe",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "Zmiana regulaminu sklepu internetowego NBP może być dokonana jednostronnie przez NBP w każdym czasie. Klient zostanie powiadomiony o tych zmianach przy pierwszym logowaniu po ich wprowadzeniu. Brak akceptacji zmienionego regulaminu skutkuje niemożnością dokonania zakupu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Zmiana regulaminu staje się skuteczna w terminie wskazanym przez NBP. Transakcje dokonane przed wejściem w życie zmian prowadzone są na zasadach dotychczasowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_8/ust_3",
+       "text": "Autorskie prawa majątkowe do systemu „Kolekcjoner” oraz do wszelkich utworów zawartych w systemie, do logo sklepu internetowego oraz do znaków towarowych przysługują NBP.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_8/ust_4",
+       "text": "W sprawach nieuregulowanych niniejszym regulaminem stosuje się przepisy prawa powszechnie obowiązujące.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej uchwały zostały ogłoszone w M.P. z 2010 r. Nr 52, poz. 713 i Nr 81, poz. 980, z 2011 r. Nr 23, poz. 254 i Nr 57, poz. 571, z 2012 r. poz. 36 i 457 oraz z 2013 r. poz. 544."
+ }
+}

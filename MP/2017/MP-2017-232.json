@@ -1,0 +1,453 @@
+{
+ "eli": "MP/2017/232",
+ "title": "Zarządzenie nr 12 Prezesa Rady Ministrów z dnia 27 lutego 2017 r. w sprawie Międzyresortowego Zespołu do spraw systemu CEPiK 2.0",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/232/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 12"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 lutego 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Międzyresortowego Zespołu do spraw systemu CEPiK 2.0"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Międzyresortowy Zespół do spraw systemu CEPiK 2.0, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Zespołu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "przygotowanie propozycji działań w celu wdrożenia systemu CEPiK 2.0;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "przygotowanie projektów rozwiązań prawnych i organizacyjnych w celu uruchomienia systemu CEPiK 2.0;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "identyfikacja i wsparcie usuwania barier, w szczególności prawnych lub organizacyjnych utrudniających uruchomienie systemu CEPiK 2.0;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "analiza przygotowywanych rozwiązań teleinformatycznych na potrzeby uruchomienia systemu CEPiK 2.0.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący – przedstawiciel ministra właściwego do spraw informatyzacji w randze sekretarza stanu albo podsekretarza stanu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zastępca przewodniczącego – przedstawiciel ministra właściwego do spraw transportu w randze sekretarza stanu albo podsekretarza stanu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "pozostali członkowie, po jednym przedstawicielu wyznaczonym przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "ministra właściwego do spraw finansów publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "ministra właściwego do spraw informatyzacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_3/lit_c",
+         "text": "ministra właściwego do spraw środowiska,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_3/lit_d",
+         "text": "ministra właściwego do spraw transportu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_3/lit_e",
+         "text": "ministra właściwego do spraw wewnętrznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_3/lit_f",
+         "text": "ministra właściwego do spraw zabezpieczenia społecznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_3/lit_g",
+         "text": "Ministra Obrony Narodowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_3/lit_h",
+         "text": "Ministra Sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_3/lit_i",
+         "text": "Szefa Agencji Bezpieczeństwa Wewnętrznego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "sekretarz – osoba wyznaczona przez przewodniczącego spośród pracowników urzędu obsługującego ministra właściwego do spraw informatyzacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Członkowie Zespołu, o których mowa w ust. 1 pkt 2 i 3, mogą być zastępowani w pracach Zespołu przez upoważnionych przedstawicieli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W celu realizacji zadań Zespołu przewodniczący może z własnej inicjatywy lub na wniosek członka Zespołu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "tworzyć zespoły i grupy robocze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "korzystać z pomocy doradców i ekspertów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W skład zespołów i grup roboczych wchodzą wyznaczeni przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "przewodniczącego członkowie Zespołu lub osoby niebędące członkami Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "członków Zespołu pracownicy ich urzędów właściwi ze względu na rodzaj zadania, które będzie realizował zespół lub grupa robocza.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Pracami zespołu lub grupy roboczej kieruje osoba wyznaczona przez przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Przewodniczący może zapraszać do udziału w pracach Zespołu, z głosem doradczym, osoby niebędące członkami Zespołu, w szczególności ekspertów reprezentujących Centralny Ośrodek Informatyki lub przedstawicieli Polskiej Wytwórni Papierów Wartościowych S.A.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Pracami Zespołu kieruje przewodniczący, a w przypadku jego nieobecności zastępca przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Do zadań przewodniczącego należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "zwoływanie posiedzeń Zespołu z własnej inicjatywy lub na wniosek członka Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "przewodniczenie posiedzeniom Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "ustalanie terminów i porządku kolejnych posiedzeń Zespołu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zespół podejmuje rozstrzygnięcia w formie uchwał na posiedzeniach. Uchwały są podejmowane zwykłą większością głosów w obecności co najmniej połowy członków Zespołu lub ich upoważnionych przedstawicieli. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Protokół z posiedzenia Zespołu sporządza sekretarz. Protokół podpisują przewodniczący oraz sekretarz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Sekretarz opracowuje projekt porządku obrad Zespołu oraz wprowadza w nim zmiany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Porządek obrad Zespołu sekretarz doręcza osobom uczestniczącym w pracach Zespołu nie później niż na 5 dni przed terminem posiedzenia Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Porządek obrad Zespołu może zostać zmieniony lub uzupełniony przez przewodniczącego z własnej inicjatywy lub na umotywowany wniosek osoby wchodzącej w skład Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Przewodniczący albo działający z jego upoważnienia sekretarz może zarządzić podjęcie uchwały w drodze korespondencyjnego uzgodnienia stanowisk (tryb obiegowy).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Kierując projekt uchwały do rozpatrzenia w trybie obiegowym, przewodniczący albo działający z jego upoważnienia sekretarz wyznacza termin do zajęcia stanowiska nie krótszy niż 5 dni roboczych. Termin ten może ulec skróceniu w szczególnie uzasadnionych przypadkach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Projekt uchwały skierowany do rozpatrzenia w trybie obiegowym uważa się za przyjęty, jeżeli w wyznaczonym terminie nie zgłoszono do niego uwag. W razie zgłoszenia uwag, które nie zostaną uwzględnione lub wyjaśnione, projekt uchwały wymaga rozpatrzenia przez Zespół na posiedzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Na najbliższym posiedzeniu Zespołu sekretarz informuje osoby uczestniczące w pracach Zespołu o przyjęciu przez Zespół projektu uchwały w trybie obiegowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Organy administracji rządowej oraz jednostki organizacyjne im podległe lub przez nie nadzorowane, na wniosek przewodniczącego, udzielają Zespołowi, w ramach swoich kompetencji, pomocy przy wykonywaniu zadań, o których mowa w § 2, w szczególności przedstawiają niezbędne informacje i dokumenty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Obsługę techniczno-organizacyjną Zespołu zapewnia urząd obsługujący ministra właściwego do spraw informatyzacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Wydatki związane z działalnością Zespołu pokrywane są z budżetu państwa z części, której dysponentem jest minister właściwy do spraw informatyzacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Udział w pracach Zespołu jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Przewodniczący przedstawi Radzie Ministrów końcowe sprawozdanie z realizacji zadań Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Zespół tworzy się na okres wykonywania zadań, o których mowa w § 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: B. Szydło"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

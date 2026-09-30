@@ -1,0 +1,122 @@
+{
+ "eli": "MP/2014/1128",
+ "title": "Obwieszczenie Prezesa Zakładu Ubezpieczeń Społecznych z dnia 19 listopada 2014 r. w sprawie granicznych kwot przychodu dla 2014 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/1128/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 listopada 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie granicznych kwot przychodu dla 2014 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.[^1]) ogłasza się, że kwoty graniczne przychodu dla 2014 r. wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "31 822,80 zł – co stanowi sumę kwot przychodu odpowiadających 70% przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_1/tir_1",
+     "text": "2556,20 zł – od 1 stycznia 2014 r. do 28 lutego 2014 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_1/tir_2",
+     "text": "2676,40 zł – od 1 marca 2014 r. do 31 maja 2014 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_1/tir_3",
+     "text": "2726,80 zł – od 1 czerwca 2014 r. do 31 sierpnia 2014 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_1/tir_4",
+     "text": "2618,00 zł – od 1 września 2014 r. do 30 listopada 2014 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_1/tir_5",
+     "text": "2646,80 zł – od 1 grudnia 2014 r. do 31 grudnia 2014 r.;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "59 099,00 zł – co stanowi sumę kwot przychodu odpowiadających 130% przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_2/tir_1",
+     "text": "4747,30 zł – od 1 stycznia 2014 r. do 28 lutego 2014 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_2/tir_2",
+     "text": "4970,40 zł – od 1 marca 2014 r. do 31 maja 2014 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_2/tir_3",
+     "text": "5063,90 zł – od 1 czerwca 2014 r. do 31 sierpnia 2014 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_2/tir_4",
+     "text": "4862,00 zł – od 1 września 2014 r. do 30 listopada 2014 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_2/tir_5",
+     "text": "4915,50 zł – od 1 grudnia 2014 r. do 31 grudnia 2014 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: Z. Derdziuk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683 i 684."
+ }
+}

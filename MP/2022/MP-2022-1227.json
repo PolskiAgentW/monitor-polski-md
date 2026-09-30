@@ -1,0 +1,302 @@
+{
+ "eli": "MP/2022/1227",
+ "title": "Obwieszczenie Ministra Rozwoju i Technologii z dnia 7 grudnia 2022 r. w sprawie włączenia kwalifikacji rynkowej \"Modelowanie i analizowanie procesów biznesowych zgodnie z Business Process Model and Notation\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/1227/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ROZWOJU I TECHNOLOGII[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 grudnia 2022 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji rynkowej „Modelowanie i analizowanie procesów biznesowych zgodnie z Business Process Model and Notation” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji rynkowej „Modelowanie i analizowanie procesów biznesowych zgodnie z Business Process Model and Notation” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rozwoju i Technologii: W. Buda"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Rozwoju i Technologii z dnia 7 grudnia 2022 r. (M.P. poz. 1227)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „MODELOWANIE I ANALIZOWANIE PROCESÓW BIZNESOWYCH ZGODNIE Z BUSINESS PROCESS MODEL AND NOTATION” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Modelowanie i analizowanie procesów biznesowych zgodnie z Business Process Model and Notation"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nazwa dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Certyfikat podstawowych kompetencji BPMN (Certificate of Basic BPMN Competence)”",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okres ważności dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat jest ważny 5 lat od daty wystawienia."
+      },
+      {
+       "type": "text",
+       "text": "Warunkiem jego przedłużenia jest:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_3/tir_1",
+       "text": "przedstawienie dokumentów poświadczających uczestnictwo w modelowaniu procesów biznesowych zgodnie z Business Process Model and Notation (zwane dalej „BPMN”) w liczbie nie mniejszej niż 50 dni roboczych łącznie, licząc od daty otrzymania kwalifikacji, przy czym w ostatnim roku obowiązywania nie mniej niż 10 dni roboczych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_3/tir_2",
+       "text": "przedstawienie dokumentów poświadczających uczestnictwo w zajęciach edukacyjnych dotyczących zagadnień opisanych w kwalifikacji rynkowej w ostatnich dwóch latach obowiązywania Certyfikatu, w liczbie nie mniejszej niż 16 godzin zegarowych łącznie, poświęconych na aktualizację wiedzy w formie m.in. konferencji, warsztatów, szkoleń, studiów, pracy naukowej czy wykładów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "7 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację rynkową „Modelowanie i analizowanie procesów biznesowych zgodnie z Business Process Model and Notation” posiada wiedzę i umiejętności umożliwiające zarówno interpretację oraz analizę informacji zawartych w diagramach procesów biznesowych przygotowanych w BPMN, jak i przygotowanie lub aktualizację czy adaptację do kontekstu konkretnych organizacji diagramów rzeczywistych procesów biznesowych zgodnie z BPMN."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Przygotowanie diagramu procesu biznesowego zgodnie z BPMN"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Identyfikuje procesy – definiuje termin „proces biznesowy”, biznesowe – samodzielnie ocenia charakter procesów biznesowych,"
+      },
+      {
+       "type": "text",
+       "text": "– interpretuje cele i identyfikuje strukturę procesów biznesowych,"
+      },
+      {
+       "type": "text",
+       "text": "– dobiera typ diagramu procesu biznesowego w BPMN, zgodnie z celem i kontekstem modelowania procesu biznesowego,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia architekturę procesów z uwzględnieniem strategii i struktury organizacji,"
+      },
+      {
+       "type": "text",
+       "text": "– określa zakres odpowiedzialności poszczególnych ról procesowych."
+      },
+      {
+       "type": "text",
+       "text": "Modeluje przebieg – planuje układ graficzny diagramu procesu biznesowego, procesów biznesowych – dzieli przestrzeń diagramu na baseny i tory zgodnie z wybranym typem procesu i stosowazgodnie z BPMN nym diagramem oraz kontekstem modelowania,"
+      },
+      {
+       "type": "text",
+       "text": "– posługując się BPMN, przygotowuje diagram procesu biznesowego na podstawie opisu procesu w formie tekstowej lub tabelarycznej,"
+      },
+      {
+       "type": "text",
+       "text": "– opisuje kluczowe elementy występujące w procesie biznesowym opisanym BPMN."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Samodzielne analizowanie diagramu procesu biznesowego przygotowanego w BPMN"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Samodzielnie – interpretuje logikę procesu biznesowego przygotowanego w formie diagramu procesu bizinterpretuje diagramy nesowego w BPMN, procesów biznesowych – interpretuje znaczenie obiektów na diagramie procesu biznesowego w BPMN w kontekprzygotowane ście konkretnego procesu biznesowego. w BPMN"
+      },
+      {
+       "type": "text",
+       "text": "Analizuje diagram – analizuje przepływ realizowanego procesu biznesowego, procesów biznesowych – o mawia podstawowe zasady testowania semantycznej i syntaktycznej poprawności modeli, przygotowanych – identyfikuje podproces reprezentujący samodzielną zamkniętą logikę biznesową w opisie w BPMN procesu, np. w formie tekstowej, tabelarycznej lub w formie diagramu,"
+      },
+      {
+       "type": "text",
+       "text": "– interpretuje elementy opisu procesów biznesowych,"
+      },
+      {
+       "type": "text",
+       "text": "– analizuje zgodność diagramu procesu biznesowego z BPMN."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Usprawnienie procesu biznesowego zgodnie z BPMN"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Identyfikuje – formułuje rekomendacje dotyczące miejsc usprawnień procesu biznesowego na podstawie potencjalne analizy i oceny diagramu tego procesu, usprawnienia – ocenia skutki proponowanych usprawnień procesu biznesowego. w procesie biznesowym przygotowanym w BPMN"
+      },
+      {
+       "type": "text",
+       "text": "Adaptuje i aktualizuje – wykorzystuje konstrukcje BPMN odwzorowujące konkretne zachowania biznesowe do diagram procesu podniesienia czytelności i jednoznaczności diagramu procesowego, biznesowego w BPMN – adaptuje model do konkretnego kontekstu wykonania procesu biznesowego, do kontekstu jego – aktualizuje model w związku ze zmianą kontekstu realizacji procesu biznesowego. wykonania"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dotyczące walidacji i podmiotów przeprowadzających walidację",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Metody walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do weryfikacji efektów uczenia się stosuje się metodę testu teoretycznego. Dopuszcza się także stosowanie metody analizy dowodów i deklaracji w przypadku osób o udokumentowanym doświadczeniu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zasoby kadrowe",
+     "children": [
+      {
+       "type": "text",
+       "text": "Instytucja certyfikująca, o której mowa w art. 2 pkt 6 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji, zwana dalej „instytucją certyfikującą”, powołuje komisję walidacyjną, która projektuje i odpowiada za proces walidacji, w tym przygotowanie tematów, oraz podejmuje decyzję kończącą walidację. Komisja walidacyjna składa się z 3 członków. Funkcję członka komisji walidacyjnej może pełnić osoba, która posiada udokumentowane:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_2/tir_1",
+       "text": "wykształcenie wyższe magisterskie;",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_2/tir_2",
+       "text": "co najmniej 5-letnie doświadczenie w prowadzeniu zajęć dydaktycznych lub egzaminowaniu z zakresu zarządzania procesami (lub o zbliżonym charakterze) lub co najmniej 5-letnie doświadczenie zawodowe z zakresu zarządzania procesami (lub o zbliżonym charakterze). Komisja walidacyjna wyznacza zespół egzaminacyjny, który odpowiada za weryfikację efektów uczenia się przez osoby przystępujące do walidacji. Członkowie zespołu egzaminacyjnego nie muszą być członkami komisji walidacyjnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Sposób organizacji walidacji oraz warunki organizacyjne i materialne.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Instytucja certyfikująca zapewnia osobom, które przystąpiły do walidacji, pomieszczenie umożliwiające samodzielną pracę."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Instytucja certyfikująca może zapewnić osobie przystępującej do walidacji wsparcie w zakresie identyfikowania posiadanych efektów uczenia się. Wsparcie takie może być udzielone przez doradcę walidacyjnego i może być prowadzone dowolnymi metodami. Funkcję doradcy walidacyjnego pełni osoba, która posiada: – doświadczenie w weryfikowaniu efektów uczenia się lub ocenie kompetencji, – umiejętność stosowania metod i narzędzi wykorzystywanych przy identyfikowaniu i dokumentowaniu kompetencji, – wiedzę dotyczącą niniejszej kwalifikacji rynkowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kwalifikacja pełna na IV poziomie Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 15 kwietnia 2022 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 838)."
+ }
+}

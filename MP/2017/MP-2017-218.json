@@ -1,0 +1,402 @@
+{
+ "eli": "MP/2017/218",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 20 lutego 2017 r. w sprawie kwoty dodatku za tajne nauczanie, dodatku kombatanckiego, dodatku pielęgnacyjnego i dodatku dla sierot zupełnych, kwoty świadczenia pieniężnego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, kwoty świadczenia pieniężnego przysługującego osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich oraz kwot maksymalnych zmniejszeń emerytury lub renty oraz świadczenia pieniężnego przysługującego działaczom opozycji antykomunistycznej lub osobom represjonowanym z powodów politycznych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/218/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lutego 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kwoty dodatku za tajne nauczanie, dodatku kombatanckiego, dodatku pielęgnacyjnego i dodatku dla sierot zupełnych, kwoty świadczenia pieniężnego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, kwoty świadczenia pieniężnego przysługującego osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich oraz kwot maksymalnych zmniejszeń emerytury lub renty oraz świadczenia pieniężnego przysługującego działaczom opozycji antykomunistycznej lub osobom represjonowanym z powodów politycznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 1 ustawy z dnia 2 grudnia 2016 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. z 2017 r. poz. 2) ogłasza się, że od dnia 1 marca 2017 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kwoty dodatków do emerytury lub renty wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "209,59 zł – dla dodatku za tajne nauczanie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "209,59 zł – dla dodatku kombatanckiego",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "209,59 zł – dla dodatku pielęgnacyjnego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "393,93 zł – dla dodatku dla sierot zupełnych;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "kwota świadczenia pieniężnego przysługującego żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych, w zależności od liczby pełnych miesięcy trwania pracy, wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "za 1 miesiąc – 10,51 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "za 2 miesiące – 20,91 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "za 3 miesiące – 31,48 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "za 4 miesiące – 41,88 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "za 5 miesięcy – 52,41 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_2/lit_f",
+     "text": "za 6 miesięcy – 62,83 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_2/lit_g",
+     "text": "za 7 miesięcy – 73,36 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_2/lit_h",
+     "text": "za 8 miesięcy – 83,85 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "pkt_2/lit_i",
+     "text": "za 9 miesięcy – 94,34 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "pkt_2/lit_j",
+     "text": "za 10 miesięcy – 104,80 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "pkt_2/lit_k",
+     "text": "za 11 miesięcy – 115,21 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "l",
+     "path": "pkt_2/lit_l",
+     "text": "za 12 miesięcy – 125,79 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "pkt_2/lit_m",
+     "text": "za 13 miesięcy – 136,24 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "n",
+     "path": "pkt_2/lit_n",
+     "text": "za 14 miesięcy – 146,72 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "o",
+     "path": "pkt_2/lit_o",
+     "text": "za 15 miesięcy – 157,18 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "p",
+     "path": "pkt_2/lit_p",
+     "text": "za 16 miesięcy – 167,64 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "q",
+     "path": "pkt_2/lit_q",
+     "text": "za 17 miesięcy – 178,19 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "r",
+     "path": "pkt_2/lit_r",
+     "text": "za 18 miesięcy – 188,63 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "s",
+     "path": "pkt_2/lit_s",
+     "text": "za 19 miesięcy – 199,14 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "t",
+     "path": "pkt_2/lit_t",
+     "text": "za 20 miesięcy – 209,59 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "kwota świadczenia pieniężnego przysługującego osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich, w zależności od liczby pełnych miesięcy trwania pracy, wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "za 1 miesiąc – 10,51 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "za 2 miesiące – 20,91 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "za 3 miesiące – 31,48 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_3/lit_d",
+     "text": "za 4 miesiące – 41,88 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_3/lit_e",
+     "text": "za 5 miesięcy – 52,41 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_3/lit_f",
+     "text": "za 6 miesięcy – 62,83 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_3/lit_g",
+     "text": "za 7 miesięcy – 73,36 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_3/lit_h",
+     "text": "za 8 miesięcy – 83,85 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "pkt_3/lit_i",
+     "text": "za 9 miesięcy – 94,34 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "pkt_3/lit_j",
+     "text": "za 10 miesięcy – 104,80 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "pkt_3/lit_k",
+     "text": "za 11 miesięcy – 115,21 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "l",
+     "path": "pkt_3/lit_l",
+     "text": "za 12 miesięcy – 125,79 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "pkt_3/lit_m",
+     "text": "za 13 miesięcy – 136,24 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "n",
+     "path": "pkt_3/lit_n",
+     "text": "za 14 miesięcy – 146,72 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "o",
+     "path": "pkt_3/lit_o",
+     "text": "za 15 miesięcy – 157,18 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "p",
+     "path": "pkt_3/lit_p",
+     "text": "za 16 miesięcy – 167,64 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "q",
+     "path": "pkt_3/lit_q",
+     "text": "za 17 miesięcy – 178,19 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "r",
+     "path": "pkt_3/lit_r",
+     "text": "za 18 miesięcy – 188,63 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "s",
+     "path": "pkt_3/lit_s",
+     "text": "za 19 miesięcy – 199,14 zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "t",
+     "path": "pkt_3/lit_t",
+     "text": "za 20 miesięcy – 209,59 zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "kwoty maksymalnych zmniejszeń emerytury lub renty w razie osiągania przychodu w kwocie przekraczającej 70% przeciętnego miesięcznego wynagrodzenia za kwartał kalendarzowy, ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, nie wyższej jednak niż 130% tego wynagrodzenia, wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "565,53 zł – dla emerytury lub renty z tytułu całkowitej niezdolności do pracy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "424,18 zł – dla renty z tytułu częściowej niezdolności do pracy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_4/lit_c",
+     "text": "480,73 zł – dla renty rodzinnej, do której uprawniona jest jedna osoba;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "kwota świadczenia pieniężnego przysługującego działaczom opozycji antykomunistycznej lub osobom represjonowanym z powodów politycznych wynosi: 402,72 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: G. Uścińska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

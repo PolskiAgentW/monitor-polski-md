@@ -1,0 +1,836 @@
+{
+ "eli": "MP/2016/350",
+ "title": "Obwieszczenie Ministra Energii z dnia 5 kwietnia 2016 r. w sprawie raportu oceniającego postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/350/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ENERGII[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 kwietnia 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie raportu oceniającego postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9n ust. 2 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.[^2]) ogłasza się raport oceniający postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej, stanowiący załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Energii: K. Tchórzewski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Energii z dnia 5 kwietnia 2016 r. (poz. 350)",
+   "body": [
+    {
+     "type": "text",
+     "text": "RAPORT OCENIAJĄCY POSTĘP OSIĄGNIĘTY W ZWIĘKSZANIU UDZIAŁU ENERGII ELEKTRYCZNEJ WYTWARZANEJ W WYSOKOSPRAWNEJ KOGENERACJI W CAŁKOWITEJ KRAJOWEJ PRODUKCJI ENERGII ELEKTRYCZNEJ"
+    },
+    {
+     "type": "text",
+     "text": "S PIS TREŚCI"
+    },
+    {
+     "type": "text",
+     "text": "Wstęp ............................................................................................................................................ 3"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Produkcja energii elektrycznej z wysokosprawnej kogeneracji w Polsce w latach 2007–2014 ..... 4",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Produkcja ciepła w wysokosprawnej kogeneracji w latach 2007–2014 w Polsce ................... 8",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Oszczędność energii pierwotnej w jednostkach wysokosprawnej kogeneracji ....................... 9",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Oszczędność energii pierwotnej w jednostkach wysokosprawnej kogeneracji w przeliczeniu",
+     "children": [
+      {
+       "type": "text",
+       "text": "na unikniętą/zredukowaną emisję CO₂ .................................................................................... 11"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Programy i systemy wsparcia dedykowane wysokosprawnej kogeneracji ............................ 12",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Konkluzje i wnioski ............................................................................................................... 17 W",
+     "children": [
+      {
+       "type": "text",
+       "text": "STĘP"
+      },
+      {
+       "type": "text",
+       "text": "Niniejszy raport jest trzecim raportem oceniającym postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej, zwanym dalej „Raportem”. Podstawę do sporządzenia Raportu stanowi art. 9n ust. 1 ustawy z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.), zwanej dalej „ustawą – Prawo energetyczne”."
+      },
+      {
+       "type": "text",
+       "text": "Obwieszczeniem z dnia 12 grudnia 2007 r. Minister Gospodarki ogłosił pierwszy raport oceniający postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej (M.P. z 2008 r. poz. 12)."
+      },
+      {
+       "type": "text",
+       "text": "Natomiast w dniu 16 lutego 2012 r. Minister Gospodarki obwieszczeniem ogłosił drugi raport oceniający postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej (M.P. poz. 108)."
+      },
+      {
+       "type": "text",
+       "text": "Do sporządzenia niniejszego Raportu wykorzystano m.in.:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "opracowania statystyczne Agencji Rynku Energii SA, zwanej dalej „ARE”, oraz Głównego Urzędu Statystycznego, zwanego dalej „GUS”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "sprawozdania roczne z działalności Prezesa Urzędu Regulacji Energetyki, zwanego dalej „Prezesem URE”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "raporty krajowe Prezesa URE;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_6/pkt_4",
+       "text": "„Analizę krajowego potencjału ciepłownictwa i chłodnictwa”, sporządzoną przez Instytut Badań Stosowanych Politechniki Warszawskiej Sp. z o.o., zwany dalej „PW”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_6/pkt_5",
+       "text": "Informacje Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej dotyczące wykorzystania środków z funduszy i programów w zakresie wysokosprawnej kogeneracji. Ze względu na specyfikę prowadzenia badań statystycznych niniejszy raport zawiera dane statystyczne do 2014 r. Dane dotyczące systemu wsparcia w dużej mierze publikowane są na bieżąco, dlatego też w tym zakresie raport zawiera informacje za lata 2007–2015. Dane dotyczące oszczędności energii pierwotnej, a także unikniętej emisji CO₂ pochodzą z „Raportu o stanie kogeneracji w Polsce w latach 2007–2014”, przygotowanego przez ARE.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "P",
+     "children": [
+      {
+       "type": "text",
+       "text": "RODUKCJA ENERGII ELEKTRYCZNEJ Z WYSOKOSPRAWNEJ KOGENERACJI P 2007–2014"
+      },
+      {
+       "type": "text",
+       "text": "W OLSCE W LATACH"
+      },
+      {
+       "type": "text",
+       "text": "Na wykresie 1 oraz 2 przedstawiono odpowiednio produkcję energii elektrycznej w wysokosprawnej kogeneracji oraz udział wysokosprawnej kogeneracji w całkowitej produkcji energii elektrycznej. Całkowita produkcja energii elektrycznej w Polsce nie uległa znacznej zmianie w latach 2007–2014. Na koniec 2007 r. produkcja wyniosła 159 348 GWh, natomiast na koniec 2014 r. – 159 058 GWh."
+      },
+      {
+       "type": "text",
+       "text": "Produkcja energii elektrycznej w wysokosprawnej kogeneracji na koniec 2007 r. wyniosła 24 931 GWh (15,65% całkowitej produkcji energii elektrycznej). W 2014 r. produkcja w wysokosprawnej kogeneracji zmalała do 22 791 GWh (14,33 % całkowitej produkcji energii elektrycznej brutto). Oznacza to spadek o 1,32 punktu procentowego w stosunku do 2007 r. Należy jednak pamiętać, że produkcja energii elektrycznej w wysokosprawnej kogeneracji w dużej mierze zależna jest od sezonowości i warunków pogodowych w danym roku kalendarzowym. Lata, w których zauważalny jest znaczny wzrost produkcji energii elektrycznej w wysokosprawnej kogeneracji, przeważnie charakteryzowały się długim okresem występowania niskich temperatur powietrza."
+      },
+      {
+       "type": "text",
+       "text": "Na spadek wytwarzania energii elektrycznej w technologii wysokosprawnej kogeneracji miało wpływ zawieszenie systemu wsparcia dla wytwórców energii elektrycznej w wysokosprawnej kogeneracji w 2013 r. i przez pierwsze miesiące 2014 r."
+      },
+      {
+       "type": "text",
+       "text": "W tabeli 1 oraz na wykresie 3 i 4 przedstawiono udział energii elektrycznej z wysokosprawnej kogeneracji w produkcji krajowej energii elektrycznej z podziałem na różne jednostki wytwórcze."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 1. Produkcja energii elektrycznej w wysokosprawnej kogeneracji w latach 2007–2014 (na podstawie danych ARE)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 2. Udział energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej (na podstawie danych ARE)"
+      },
+      {
+       "type": "text",
+       "text": "180 000"
+      },
+      {
+       "type": "text",
+       "text": "100 160 000 j e n 140 000 zc y r t 80 k e l % ] 120 000 e ii"
+      },
+      {
+       "type": "text",
+       "text": "60 100 000 n h"
+      },
+      {
+       "type": "text",
+       "text": "i 80 000 k G [ U 60 000 do r p 40 000 a ti 20 w ok"
+      },
+      {
+       "type": "text",
+       "text": "0 0 Tabela 1. Udział energii elektrycznej z wysokosprawnej kogeneracji w produkcji krajowej (na podstawie danych ARE)"
+      },
+      {
+       "type": "text",
+       "text": "Moce i produkcja energii elektrycznej w jednostkach 2007 r. 2008 r. 2009 r. 2010 r. 2011 r. 2012 r. 2013 r. 2014 r. wysokosprawnej kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "GWh"
+      },
+      {
+       "type": "text",
+       "text": "Produkcja energii elektrycznej ogółem 159 348 155 494 151 720 157 658 163 548 162 139 164 580 159 058 Produkcja energii elektrycznej w wysokosprawnej kogeneracji (chp) 24 931 25 013 24 775 26 892 26 366 26 334 24 744 22 791 Produkcja energii elektrycznej w jednostkach chp o mocy < 1 MW 4,5 7,6 14,2 9,7 16,4 32,6 19,8 28,6 Produkcja energii elektrycznej w jednostkach chp opalanych gazem 2 513,9 2 892,2 2 875,7 2 990,8 3 029,9 4 153,7 3 127,9 2 492,4 Produkcja energii elektrycznej w jednostkach chp opalanych metanem lub gazem z biomasy - - - - 420,1 256,5 311,5 376,7 Produkcja energii elektrycznej w pozostałych jednostkach chp 22 412,6 22 112,9 21 885,3 23 891,3 22 899,5 21 891,0 21 284,3 19 893,6 MW"
+      },
+      {
+       "type": "text",
+       "text": "Moc osiągalna elektryczna jednostek wysokosprawnej kogeneracji 27 453,0 28 865,5 27 758,5 30 007,5 30 038,8 28 927,3 28 588,4 28 604,7 Moc zaangażowana w kogenerację[^1_2] - - - - - 8 332,0 8 285,0 8 553,0"
+      },
+      {
+       "type": "text",
+       "text": "% Udział energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji 15,65 16,09 16,33 17,06 16,12 16,24 15,03 14,33 w całkowitej krajowej produkcji energii elektrycznej Udział w produkcji krajowej – jednostki chp o mocy < 1 MW i opalane gazem 1,58 1,86 1,90 1,90 1,86 2,58 1,91 1,58 Udział w produkcji krajowej – jednostki chp opalane metanem lub biogazem - - - - 0,26 0,16 0,19 0,24 Udział w produkcji krajowej – pozostałe jednostki chp 14,07 14,22 14,42 15,15 14,00 13,50 12,93 12,51 Wykres 3. Udział w krajowej produkcji energii elektrycznej brutto – jednostki o mocy < 1 MW i opalane gazem (na podstawie danych ARE)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 4. Udział w krajowej produkcji energii elektrycznej brutto – jednostki opalane metanem lub biogazem (na podstawie danych ARE)"
+      },
+      {
+       "type": "text",
+       "text": "0,28"
+      },
+      {
+       "type": "text",
+       "text": "0,26 0,26"
+      },
+      {
+       "type": "text",
+       "text": "0,24"
+      },
+      {
+       "type": "text",
+       "text": "0,22 0,24"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "P",
+     "children": [
+      {
+       "type": "text",
+       "text": "RODUKCJA CIEPŁA W WYSOKOSPRAWNEJ KOGENERACJI W LATACH"
+      },
+      {
+       "type": "text",
+       "text": "2007–2014 P"
+      },
+      {
+       "type": "text",
+       "text": "W OLSCE"
+      },
+      {
+       "type": "text",
+       "text": "Produkcja ciepła ogółem w elektrowniach i elektrociepłowniach obniżyła się"
+      },
+      {
+       "type": "text",
+       "text": "z 311 390 TJ w 2007 r. do wartości 291 260 TJ w 2014 r., co oznacza spadek o ponad 6%."
+      },
+      {
+       "type": "text",
+       "text": "Natomiast produkcja ciepła w wysokosprawnej kogeneracji w elektrowniach"
+      },
+      {
+       "type": "text",
+       "text": "i elektrociepłowniach obniżyła się z 219 777 TJ w 2007 r. do 213 194 TJ w 2014 r.,"
+      },
+      {
+       "type": "text",
+       "text": "co oznacza spadek o prawie 3%. Szczegółowe zestawienie wartości produkcji ciepła"
+      },
+      {
+       "type": "text",
+       "text": "w wysokosprawnej kogeneracji w elektrowniach i elektrociepłowniach z podziałem na różne"
+      },
+      {
+       "type": "text",
+       "text": "jednostki wytwórcze przedstawiono w tabeli 2."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Produkcja ciepła w wysokosprawnej kogeneracji (na podstawie danych ARE)"
+      },
+      {
+       "type": "text",
+       "text": "Rok"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 2007 2008 2009 2010 2011 2012 2013 2014 TJ"
+      },
+      {
+       "type": "text",
+       "text": "Ogółem kraj 219 777 224 582 226 381 251 654 236 837 241 156 229 238 213 194 Elektrownie zawodowe"
+      },
+      {
+       "type": "text",
+       "text": "17 722 17 412 15 526 18 594 16 500 16 287 15 493 13 390 kondensacyjne"
+      },
+      {
+       "type": "text",
+       "text": "Elektrociepłownie zawodowe 117 679 117 961 121 319 124 359 115 732 116 384 115 164 102 863 węgiel kamienny 110 337 110 454 113 739 118 023 107 888 108 324 108 213 93 507 gaz ziemny 7 342 7 507 7 580 6 336 7 844 8 060 5 470 4 366 w tym gaz inny - - - - - - - - paliwo odnawialne (100%) - - - - - - 1 481 4 989 inne - - - - - - - - Elektrociepłownie niezależne 8 165 5 671 12 153 10 145 10 157 9 025 9 744 9 026 węgiel kamienny 7 829 5 371 11 785 9 777 9 833 8 534 9 066 8 283 gaz ziemny 336 300 368 368 324 490 678 743 w tym gaz inny - - - - - - - - paliwo odnawialne (100%) - - - - - - - - inne - - - - - - - - Elektrociepłownie przedsiębiorstw"
+      },
+      {
+       "type": "text",
+       "text": "434 917 1 888 2 734 2 564 3 928 3 712 3 791 ciepłowniczych"
+      },
+      {
+       "type": "text",
+       "text": "węgiel kamienny * * 431 1 003 995 2 229 3 047 2 926 gaz ziemny * * 1 457 1 731 1 569 1 699 665 865 w tym gaz inny - - - - - - - - paliwo odnawialne (100%) - - - - - - - - inne - - - - - - - - Elektrociepłownie przemysłowe 75 777 82 621 75 495 95 822 91 884 95 533 85 125 84 125 węgiel kamienny 22 837 31 161 25 728 48 792 47 134 48 619 36 498 39 373 gaz ziemny 2 245 630 2 067 2 150 2 235 2 528 5 765 6 070 w tym gaz inny 5 233 2 178 2 701 3 204 2 824 2 939 2 733 2 296 paliwo odnawialne (100%) 8 691 8 183 9 115 12 472 14 331 13 418 15 803 12 687 inne 36 771 40 469 35 884 29 204 25 360 28 029 24 326 23 700"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "O",
+     "children": [
+      {
+       "type": "text",
+       "text": "SZCZĘDNOŚĆ ENERGII PIERWOTNEJ W JEDNOSTKACH WYSOKOSPRAWNEJ KOGENERACJI"
+      },
+      {
+       "type": "text",
+       "text": "Oszczędność energii pierwotnej w jednostkach wysokosprawnej kogeneracji (PES) wyrażona w procentach, obliczona zgodnie z dyrektywą Parlamentu Europejskiego i Rady 2012/27/UE z dnia 25 października 2012 r. w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE została przeliczona na energię chemiczną paliwa wyrażoną w TJ według następującego wzoru:"
+      },
+      {
+       "type": "text",
+       "text": "gdzie poszczególne symbole oznaczają:"
+      },
+      {
+       "type": "text",
+       "text": "Q bq – energię chemiczną paliwa zużytą w procesie kogeneracji [TJ],"
+      },
+      {
+       "type": "text",
+       "text": "PES – oszczędność energii pierwotnej uzyskaną przez jednostki kogeneracji [%],"
+      },
+      {
+       "type": "text",
+       "text": "– oszczędność energii pierwotnej [TJ]."
+      },
+      {
+       "type": "text",
+       "text": "Współczynniki „PES” uzyskane zostały indywidulanie od przedsiębiorstw energetycznych, w których skład wchodzi dana jednostka kogeneracji. Wielkość oszczędności energii pierwotnej przedstawia tabela 3 oraz wykres 5."
+      },
+      {
+       "type": "text",
+       "text": "Wykres 5. Oszczędności energii pierwotnej w jednostkach wysokosprawnej kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "(na podstawie danych PW/ARE)"
+      },
+      {
+       "type": "text",
+       "text": "105"
+      },
+      {
+       "type": "text",
+       "text": "100,83"
+      },
+      {
+       "type": "text",
+       "text": "100 102,06 Tabela 3. Oszczędności energii pierwotnej w jednostkach wysokosprawnej kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "(na podstawie danych PW/ARE)"
+      },
+      {
+       "type": "text",
+       "text": "Rok"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 2007 2008 2009 2010 2011 2012 2013 2014 PJ"
+      },
+      {
+       "type": "text",
+       "text": "Ogółem kraj 93,91 94,24 98,46 102,06 97,99 100,83 93,13 89,00 Elektrownie zawodowe"
+      },
+      {
+       "type": "text",
+       "text": "6,89 7,98 7,00 8,05 6,98 6,93 6,21 5,36 kondensacyjne"
+      },
+      {
+       "type": "text",
+       "text": "Elektrociepłownie zawodowe 60,59 60,53 60,97 61,88 58,13 59,58 57,14 50,99 Elektrociepłownie niezależne 2,64 1,85 3,36 3,41 3,85 3,66 4,19 4,23 Elektrociepłownie przedsiębiorstw"
+      },
+      {
+       "type": "text",
+       "text": "0,16 0,34 0,75 1,13 1,07 1,32 1,42 1,70 ciepłowniczych"
+      },
+      {
+       "type": "text",
+       "text": "Elektrociepłownie przemysłowe 23,64 23,54 26,40 27,60 27,95 29,34 24,17 26,72 jednostki o mocy"
+      },
+      {
+       "type": "text",
+       "text": "0,037 0,054 0,028 0,040 0,059 0,147 0,110 0,681 < 1 MW"
+      },
+      {
+       "type": "text",
+       "text": "w tym opalane gazem 5,44 6,06 6,53 6,98 7,11 10,99 9,85 7,81 z Ogółem"
+      },
+      {
+       "type": "text",
+       "text": "opalane metanem"
+      },
+      {
+       "type": "text",
+       "text": "kraj - - - 0,76 1,64 2,70 2,52 2,92 lub biogazem"
+      },
+      {
+       "type": "text",
+       "text": "pozostałe jednostki 88,43 88,12 91,91 94,29 89,18 87,00 80,65 77,59"
+      },
+      {
+       "type": "text",
+       "text": "Oszczędności energii pierwotnej w kolejnych latach zależą od ilości wyprodukowanego"
+      },
+      {
+       "type": "text",
+       "text": "ciepła. Największą oszczędność energii pierwotnej uzyskano w 2010 r. – 102,06 PJ (4,5 mln ton"
+      },
+      {
+       "type": "text",
+       "text": "węgla o kaloryczności ok. 22 100 kJ/kg), a najmniejszą w 2014 r. – 89 PJ (4,2 mln ton węgla"
+      },
+      {
+       "type": "text",
+       "text": "o kaloryczności ok. 22 100 kJ/kg). Sumarycznie w latach 2007–2014 oszczędność energii"
+      },
+      {
+       "type": "text",
+       "text": "pierwotnej wyniosła 769,62 PJ, z czego prawie 70% przypada na energetykę zawodową, a 27%"
+      },
+      {
+       "type": "text",
+       "text": "na elektrociepłownie pracujące w zakładach przemysłowych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "O",
+     "children": [
+      {
+       "type": "text",
+       "text": "SZCZĘDNOŚĆ ENERGII PIERWOTNEJ W JEDNOSTKACH WYSOKOSPRAWNEJ / CO KOGENERACJI W PRZELICZENIU NA UNIKNIĘTĄ ZREDUKOWANĄ EMISJĘ 2"
+      },
+      {
+       "type": "text",
+       "text": "Osiągniętą redukcję emisji CO wynikającą z wykorzystania instalacji wysokosprawnej 2"
+      },
+      {
+       "type": "text",
+       "text": "kogeneracji przedstawiono w poniższej tabeli 4. Największą wartość redukcji odnotowano"
+      },
+      {
+       "type": "text",
+       "text": "w roku 2010 (8,34 mln ton CO ), a najmniejszą w 2014 (6,96 mln ton CO ). Łączna redukcja 2 2"
+      },
+      {
+       "type": "text",
+       "text": "CO w latach 2007–2014 wyniosła 62,03 mln ton CO , z czego 75% przypada na energetykę 2 2"
+      },
+      {
+       "type": "text",
+       "text": "zawodową, a 21% na elektrociepłownie przemysłowe."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 4. Oszczędność energii pierwotnej w jednostkach wysokosprawnej kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "w przeliczeniu na redukcję CO (uniknięta) (na podstawie danych PW/ARE)"
+      },
+      {
+       "type": "text",
+       "text": "2"
+      },
+      {
+       "type": "text",
+       "text": "Rok"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie 2007 2008 2009 2010 2011 2012 2013 2014 mln t"
+      },
+      {
+       "type": "text",
+       "text": "Ogółem kraj 8,08 7,98 7,73 8,34 7,73 7,69 7,52 6,96 Elektrownie zawodowe kondensacyjne 0,79 0,74 0,65 0,74 0,63 0,62 0,60 0,52"
+      },
+      {
+       "type": "text",
+       "text": "Elektrociepłownie zawodowe 5,54 5,44 5,33 5,41 4,93 4,94 4,90 4,42 Elektrociepłownie niezależne 0,22 0,15 0,33 0,35 0,36 0,27 0,30 0,30 Elektrociepłownie przedsiębiorstw"
+      },
+      {
+       "type": "text",
+       "text": "0,01 0,02 0,05 0,08 0,07 0,09 0,11 0,13 ciepłowniczych"
+      },
+      {
+       "type": "text",
+       "text": "Elektrociepłownie przemysłowe 1,53 1,63 1,37 1,77 1,73 1,76 1,61 1,60 jednostki o mocy"
+      },
+      {
+       "type": "text",
+       "text": "0,001 0,003 0,001 0,002 0,003 0,009 0,005 0,033 < 1 MW"
+      },
+      {
+       "type": "text",
+       "text": "opalane gazem 0,32 0,36 0,36 0,46 0,44 0,71 0,67 0,52 w tym z Ogółem kraj"
+      },
+      {
+       "type": "text",
+       "text": "opalane metanem lub"
+      },
+      {
+       "type": "text",
+       "text": "- - - 0,05 0,10 0,09 0,18 0,20 biogazem"
+      },
+      {
+       "type": "text",
+       "text": "pozostałe jednostki 7,76 7,62 7,36 7,83 7,19 6,88 6,66 6,20"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "P",
+     "children": [
+      {
+       "type": "text",
+       "text": "ROGRAMY I SYSTEMY WSPARCIA DEDYKOWANE WYSOKOSPRAWNEJ KOGENERACJI"
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie nowych inwestycji"
+      },
+      {
+       "type": "text",
+       "text": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW) dysponując m.in. środkami z opłaty zastępczej oraz środkami Programu Operacyjnego Infrastruktura i Środowisko, udzielając pożyczek i dotacji, wspiera nowe inwestycje wysokosprawnej kogeneracji oraz modernizacje istniejących instalacji w celu zwiększenia ich sprawności wytwarzania. Poniżej przedstawiono dane przekazane przez NFOŚiGW."
+      },
+      {
+       "type": "text",
+       "text": "W ramach Programu Operacyjnego Infrastruktura i Środowisko (PO IiŚ) na lata 2007–2013, działanie 9.1 Wysokosprawne wytwarzanie energii, dofinansowano inwestycje w zakresie przebudowy i budowy jednostek wytwarzania energii elektrycznej oraz ciepła w skojarzeniu, spełniające wymogi wysokosprawnej kogeneracji."
+      },
+      {
+       "type": "text",
+       "text": "Uprawnionymi do składania wniosków w ramach ww. programu były podmioty wskazane w punkcie 17.a Szczegółowego opisu priorytetów Programu Operacyjnego Infrastruktura i Środowisko, tzn. przedsiębiorcy, jednostki samorządu terytorialnego oraz ich grupy – związki, stowarzyszenia i porozumienia JST, podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego."
+      },
+      {
+       "type": "text",
+       "text": "Alokacja finansowa na powyższe działanie wynosi ogółem 233,32 mln EUR, w tym wkład ze środków unijnych na działanie wynosi 46,66 mln EUR."
+      },
+      {
+       "type": "text",
+       "text": "Nabór projektów w ramach działania 9.1 PO IiŚ 2007–2013 odbywał się w trybie konkursowym. Do tej pory dofinansowanie otrzymało 14 inwestycji na łączną kwotę 185 697 718 zł, co stanowi ok. 45% łącznych wydatków kwalifikowanych tych projektów."
+      },
+      {
+       "type": "text",
+       "text": "Jednocześnie, w ramach Programu Operacyjnego Infrastruktura i Środowisko na lata 2014–2020 na wsparcie inwestycji w jednostki wytwarzania energii elektrycznej oraz ciepła w skojarzeniu, spełniające wymogi wysokosprawnej kogeneracji, zarezerwowano 150 mln euro. W ramach Programu Green Investments Scheme (GIS), który jest pochodną mechanizmu handlu uprawnieniami do emisji, wsparcie w postaci dotacji do pożyczki otrzymały dwie instalacje pracujące w oparciu o biomasę oraz 14 nowych biogazowni rolniczych (o mocy < 1 MWe) na łączną kwotę 73 191 255,19 zł. Łączna kwota pożyczki wynosiła 109 211 953,70 zł. Z programu p.n. Wspieranie rozproszonych odnawialnych źródeł energii. Część 2) Program dla przedsięwzięć dla odnawialnych źródeł energii i obiektów wysokosprawnej kogeneracji cztery przedsięwzięcia związane z budową nowych instalacji wysokosprawnej kogeneracji (o łącznej mocy 22 MWe) otrzymały pożyczki na łączną kwotę 52 013 215,76 zł. W ramach programu BOCIAN – rozproszone odnawialne źródła energii czterech beneficjentów otrzymało pożyczkę na inwestycje związane z wysokosprawną kogeneracją (o łącznej mocy 7 MWe) na łączną kwotę 45 238 275,00 zł."
+      },
+      {
+       "type": "text",
+       "text": "Mechanizm wsparcia przedsiębiorców wytwarzających energię elektryczną w wysokosprawnej kogeneracji (mechanizm wsparcia operacyjny)"
+      },
+      {
+       "type": "text",
+       "text": "Mechanizm wsparcia przedsiębiorców wytwarzających energię elektryczną w wysokosprawnej kogeneracji polega na obowiązkowym odbiorze, przesyle lub dystrybucji tej energii przez operatora systemu dystrybucyjnego, z zachowaniem niezawodności i bezpieczeństwa krajowego systemu elektroenergetycznego oraz wydawaniu przez Prezesa URE świadectw pochodzenia z kogeneracji, które mogą być przedmiotem obrotu na Towarowej Giełdzie Energii S.A. (Mechanizm ten został szerzej opisany w załączniku do obwieszczenia Ministra Gospodarki z dnia 16 lutego 2012 r. w sprawie raportu oceniającego postęp osiągnięty w zwiększaniu udziału energii elektrycznej wytwarzanej w wysokosprawnej kogeneracji w całkowitej krajowej produkcji energii elektrycznej (M.P. poz. 108).)"
+      },
+      {
+       "type": "text",
+       "text": "System świadectw pochodzenia"
+      },
+      {
+       "type": "text",
+       "text": "Pochodzenie energii elektrycznej z wysokosprawnej kogeneracji jest potwierdzane przez Prezesa URE przyznanymi świadectwami pochodzenia z kogeneracji. Świadectwa pochodzenia wydawane są na wniosek wytwórcy (posiadacza koncesji), potwierdzony przez operatora systemu elektroenergetycznego w zakresie wielkości produkcji energii elektrycznej brutto za dany okres."
+      },
+      {
+       "type": "text",
+       "text": "W systemie polskim funkcjonują trzy rodzaje świadectw pochodzenia z kogeneracji:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "świadectwa pochodzenia energii elektrycznej wytworzonej w jednostkach kogeneracji opalanych paliwami gazowymi lub o mocy zainstalowanej poniżej 1 MW;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "świadectwa pochodzenia energii elektrycznej wytworzonej w pozostałych jednostkach kogeneracyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "świadectwa pochodzenia energii elektrycznej wytworzonej w jednostkach kogeneracji opalanych metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wytwórcy, którzy uzyskali świadectwa pochodzenia z kogeneracji, mogą odsprzedać je za pośrednictwem Towarowej Giełdy Energii S.A. podmiotom zobowiązanym do ich zakupu, zyskując w ten sposób dodatkowy przychód z działalności polegającej na wytwarzaniu energii elektrycznej. System wsparcia kogeneracji jest „domknięty”, gdyż zgodnie z przepisami ustawy – Prawo energetyczne na przedsiębiorstwa, które nie wypełniły obowiązku umorzenia odpowiedniej ilości świadectw pochodzenia z kogeneracji lub nie uiściły opłaty zastępczej, Prezes URE nakłada karę pieniężną."
+        },
+        {
+         "type": "text",
+         "text": "Obowiązek uzyskania i przedstawienia do umorzenia świadectw pochodzenia z kogeneracji lub wniesienia opłaty zastępczej został nałożony w głównej mierze na przedsiębiorstwa zajmujące się wytwarzaniem lub obrotem energią elektryczną i sprzedające tę energię odbiorcom końcowym (art. 9a ustawy – Prawo energetyczne)."
+        },
+        {
+         "type": "text",
+         "text": "W celu wypełnienia powyższego obowiązku przedsiębiorstwa zobowiązane mogą:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "umorzyć odpowiednią ilość świadectw pochodzenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "uiścić opłatę zastępczą na konto NFOŚiGW, która powinna być przeznaczona na wspieranie odnawialnych źródeł energii i źródeł kogeneracyjnych znajdujących się na terytorium Polski. Poniższa tabela przedstawia wolumen energii wynikający z umorzonych świadectw pochodzenia z kogeneracji w latach 2008–2014 (w latach 2008–2012 na poczet obowiązku mogły być umarzane świadectwa wydane w bieżącym roku oraz w latach poprzednich. Począwszy od 30 kwietnia 2014 r., obowiązek może być wypełniony poprzez umorzenie świadectw pochodzenia wydanych dla energii elektrycznej wytworzonej w tym samym roku, którego dotyczy obowiązek).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Tabela 5. Wolumen energii wynikający z umorzonych świadectw pochodzenia z kogeneracji [MWh] (na podstawie danych ARE) 1 2"
+        },
+        {
+         "type": "text",
+         "text": "2010 r. 14 761 411,37"
+        },
+        {
+         "type": "text",
+         "text": "2011 r. 19 205 013,06 2012 r. 28 263 829,84 2013 r. 27 451 516,90 2014 r. 648 043,33"
+        },
+        {
+         "type": "text",
+         "text": "Wysokość opłat zastępczych"
+        },
+        {
+         "type": "text",
+         "text": "Prezes URE oblicza i publikuje jednostkowe opłaty zastępcze na podstawie średniej ceny"
+        },
+        {
+         "type": "text",
+         "text": "sprzedaży energii elektrycznej na rynku konkurencyjnym. Przy ich ustalaniu Prezes URE"
+        },
+        {
+         "type": "text",
+         "text": "uwzględnia:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "ilość energii elektrycznej z wysokosprawnej kogeneracji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "różnicę pomiędzy kosztami wytwarzania energii elektrycznej w wysokosprawnej kogeneracji",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "i cenami sprzedaży energii elektrycznej na rynku konkurencyjnym;"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "poziom cen energii elektrycznej dla odbiorców końcowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "poziom zagospodarowania dostępnych ilości metanu uwalnianego i ujmowanego przy",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach"
+      },
+      {
+       "type": "text",
+       "text": "węgla kamiennego oraz gazu uzyskiwanego z przetwarzania biomasy."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 6. Wysokość opłat zastępczych obowiązujących w latach 2011–2016 (na podstawie danych URE)"
+      },
+      {
+       "type": "text",
+       "text": "2011 r. 2012 r. 2013 r. 2014 r. 2015 r. 2016 r."
+      },
+      {
+       "type": "text",
+       "text": "Ozg Wysokość opłaty zastępczej [zł/MWh] 127,15 128,80 149,30 110,00 121,63 125,00"
+      },
+      {
+       "type": "text",
+       "text": "Ozg – jednostkowa opłata zastępcza nie niższa niż 15% i nie wyższa niż 110% średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym, wytworzonej w jednostkach opalanych paliwami gazowymi lub o łącznej mocy zainstalowanej elektrycznej źródła poniżej 1 MW, Ozk – jednostkowa opłata zastępcza nie niższa niż 5% i nie wyższa niż 40% średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym, wytworzonej w jednostkach o łącznej mocy elektrycznej zainstalowanej powyżej 1 MW, nieopalonych paliwami gazowymi (w tym z przetwarzania biomasy i metanem z kopalń), Ozm – jednostkowa opłata zastępcza nie niższa niż 30% i nie wyższa niż 120% średniej ceny sprzedaży energii elektrycznej na rynku konkurencyjnym, wytworzonej w jednostkach opalanych metanem uwalnianym i ujmowanym przy dołowych robotach górniczych w czynnych, likwidowanych lub zlikwidowanych kopalniach węgla kamiennego lub gazem uzyskiwanym z przetwarzania biomasy."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 7. Średnie ceny sprzedaży energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w latach 2007–2014 (na podstawie danych URE)"
+      },
+      {
+       "type": "text",
+       "text": "Średnia cena sprzedaży energii elektrycznej wytworzonej w wysokosprawnej kogeneracji w jednostkach kogeneracji"
+      },
+      {
+       "type": "text",
+       "text": "opalanych metanem uwalnianym o łącznej mocy i ujmowanym przy elektrycznej Średnia cena sprzedaży opalanych paliwami dołowych robotach zainstalowanej > 1 MW, energii elektrycznej na gazowymi lub o łącznej górniczych w czynnych, nieopalonych paliwami rynku konkurencyjnym mocy zainstalowanej likwidowanych lub gazowymi elektrycznej źródła zlikwidowanych (w tym z przetwarzania < 1 MW kopalniach węgla biomasy i metanem kamiennego lub gazem z kopalń) uzyskiwanym z przetwarzania biomasy"
+      },
+      {
+       "type": "text",
+       "text": "rok [zł/MWh]"
+      },
+      {
+       "type": "text",
+       "text": "2007 133,79 126,79 - 128,80"
+      },
+      {
+       "type": "text",
+       "text": "2008 150,51 152,11 - 155,44"
+      },
+      {
+       "type": "text",
+       "text": "2009 191,03 199,89 249,65 197,21"
+      },
+      {
+       "type": "text",
+       "text": "2010 187,74 190,47 243,59 195,32"
+      },
+      {
+       "type": "text",
+       "text": "2011 194,44 198,02 244,95 198,90"
+      },
+      {
+       "type": "text",
+       "text": "2012 201,32 201,47 244,60 201,36"
+      },
+      {
+       "type": "text",
+       "text": "2013 193,86 190,45 194,29 181,55"
+      },
+      {
+       "type": "text",
+       "text": "2014 164,89 163,25 173,64 163,58 Informacje o wysokościach opłat zastępczych oraz średnich cenach sprzedaży energii elektrycznej wytworzonej w wysokosprawnej kogeneracji zamieszczane są na stronie internetowej URE."
+      },
+      {
+       "type": "text",
+       "text": "Należy również nadmienić, że system wsparcia dla jednostek opalanych paliwami gazowymi lub o łącznej mocy zainstalowanej elektrycznej źródła < 1 MW i dla jednostek o łącznej mocy elektrycznej zainstalowanej > 1 MW, nieopalanych paliwami gazowymi (w tym z przetwarzania biomasy i metanem z kopalń) funkcjonował do dnia 31 grudnia 2012 r. i został ponownie wznowiony w kwietniu 2014 r., stąd niski wolumen energii wynikający z umorzonych świadectw pochodzenia z kogeneracji w tym okresie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "K",
+     "children": [
+      {
+       "type": "text",
+       "text": "ONKLUZJE I WNIOSKI"
+      },
+      {
+       "type": "text",
+       "text": "Analizując przedstawione w powyższym raporcie dane, możemy zauważyć w ostatnich latach nieznaczne zahamowanie trendu wzrostowego w zwiększaniu potencjału wysokosprawnej kogeneracji w Polsce. Przypuszczalnie może być to spowodowane brakiem wsparcia w 2013 r. i części 2014 r."
+      },
+      {
+       "type": "text",
+       "text": "Aby zwiększyć zainteresowanie przedsiębiorców działających na krajowym rynku energii inwestycjami w technologię wysokosprawnej kogeneracji, trzeba wprowadzić stabilne wsparcie operacyjne oraz należy rozważyć możliwość wprowadzenia dodatkowego finansowego mechanizmu wsparcia – wsparcia inwestycyjnego. Wymagane jest, aby tego typu mechanizmy były zgodne z wytycznymi Komisji Europejskiej w zakresie pomocy publicznej udzielanej przez państwo członkowskie."
+      },
+      {
+       "type": "text",
+       "text": "Wysokosprawna kogeneracja nadal pozostaje najbardziej efektywną i przyjazną środowisku technologią wytwarzania energii elektrycznej i ciepła ze źródeł kopalnych, a rozwój jej jednostek przyczynia się w dużym stopniu do zmniejszenia tzw. niskiej emisji zanieczyszczeń do atmosfery i efektywnego wykorzystania paliw."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Energii kieruje działem administracji rządowej – energia, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 9 grudnia 2015 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 2087).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 984 i 1238, z 2014 r. poz. 457, 490, 900, 942, 1101 i 1662, z 2015 r. poz. 151, 478, 942, 1618, 1893, 1960 i 2365 oraz z 2016 r. poz. 266. P [ e g r ] H e a W ł a C c j z d 40 u 17,06 16,24 20 000 ł a 15,65 16,09 16,33 16,12 15,03 14,33 C 2007 r. 2008 r. 2009 r. 2010 r. 2011 r. 2012 r. 2013 r. 2014 r.",
+  "1_2": "W 2014 r. ARE wprowadziło dodatkowy wskaźnik „Moc zaangażowana w kogenerację”, ponieważ we wskaźniku „Moc osiągalna elektryczna jednostek wysokosprawnej kogeneracji” ujmowane są również całkowite moce elektrowni, które de facto nie są mocami produkującymi energię w wysokosprawnej kogeneracji. 0,20 % ] [ 0,18 0,19 0,16 0,16 0,14 0,12 0,10 2011 r. 2012 r. 2013 r. 2014 r. Udział w produkcji krajowej - jednostki chp opalane metanem lub biogazem 98,46 97,99 ] 95 J P 93,91 94,24 [ 90 93,13 89 85 80 2007 r. 2008 r. 2009 r. 2010 r. 2011 r. 2012 r. 2013 r. 2014 r. Oszczędności energii w pierwotnej w jednostkach wysokosprawnej kogeneracji Rok umorzenia (obejmujący umorzenia Wolumen energii wynikający świadectw wydanych w danym roku z umorzonych świadectw pochodzenia oraz w roku poprzednim do danego) z kogeneracji [MWh] 1 2 2008 r. 16 147 735,05 2009 r. 21 471 058,95 % średniej ceny sprzedaży energii elektrycznej na 64,5% 65,94% 75,06% 60,59% 67,00% 76,42% rynku konkurencyjnym Ozk Wysokość opłaty zastępczej [zł/MWh] 29,58 29,30 29,84 11,00 11,00 11,00 % średniej ceny sprzedaży energii elektrycznej na 15% 15% 15% 6,06% 6,06% 6,72% rynku konkurencyjnym Ozm Wysokość opłaty zastępczej [zł/MWh] 59,16 60,00 60,00 63,26 63,26 63,00 % średniej ceny sprzedaży energii elektrycznej na 30% 30,72% 30,17% 34,84% 34,84% 38,51% rynku konkurencyjnym"
+ }
+}

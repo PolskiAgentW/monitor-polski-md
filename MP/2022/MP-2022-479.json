@@ -1,0 +1,82 @@
+{
+ "eli": "MP/2022/479",
+ "title": "Obwieszczenie Ministra Zdrowia z dnia 13 maja 2022 r. w sprawie wykazu państw, w których posiadanie prawa wykonywania zawodu lekarza lub lekarza dentysty uprawnia do wykonywania zawodu na podstawie art. 63 ust. 3 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/479/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ZDROWIA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 maja 2022 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu państw, w których posiadanie prawa wykonywania zawodu lekarza lub lekarza dentysty uprawnia do wykonywania zawodu na podstawie art. 63 ust. 3 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 63 ust. 4 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 583, z późn. zm.[^2]) ogłasza się wykaz państw, w których posiadanie prawa wykonywania zawodu lekarza lub lekarza dentysty uprawnia do wykonywania zawodu na terytorium Rzeczypospolitej Polskiej na podstawie art. 63 ust. 3 tej ustawy, stanowiący załącznik do obwieszczenia."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: A. Niedzielski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Zdrowia z dnia 13 maja 2022 r. (poz. 479)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ PAŃSTW, W KTÓRYCH POSIADANIE PRAWA WYKONYWANIA ZAWODU LEKARZA LUB LEKARZA DENTYSTY UPRAWNIA DO WYKONYWANIA ZAWODU NA TERYTORIUM RZECZYPOSPOLITEJ POLSKIEJ NA PODSTAWIE ART. 63 UST. 3 USTAWY Z DNIA 12 MARCA 2022 R. O POMOCY OBYWATELOM UKRAINY W ZWIĄZKU Z KONFLIKTEM ZBROJNYM NA TERYTORIUM TEGO PAŃSTWA"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Stany Zjednoczone Ameryki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Kanada;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Państwo Izrael;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Japonia.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932).",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 682, 683, 684, 830, 930 i 1002."
+ }
+}

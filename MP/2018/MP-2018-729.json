@@ -1,0 +1,111 @@
+{
+ "eli": "MP/2018/729",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 20 lipca 2018 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/729/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lipca 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 10 w ust. 1 pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1) stoi na straży praw, godności i powagi Sejmu;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "po art. 22 dodaje się art. 22a i art. 22b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 22a. Marszałek Sejmu może stwierdzić, że poseł swoim zachowaniem na posiedzeniu organów Sejmu naruszył powagę Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 22b. Marszałek Sejmu może stwierdzić, że poseł na terenie pozostającym w zarządzie Kancelarii Sejmu w rażący sposób naruszył spokój lub porządek.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 23 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. W przypadku:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) uniemożliwiania przez posła pracy Sejmu lub jego organów, w szczególności zaistnienia sytuacji, o której mowa w art. 175 ust. 4,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) naruszenia przez posła na posiedzeniu Sejmu lub posiedzeniu organów Sejmu powagi Sejmu, w szczególności stwierdzonego przez Marszałka Sejmu na podstawie art. 22a lub art. 175 ust. 2a,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) naruszenia przez posła na terenie pozostającym w zarządzie Kancelarii Sejmu w rażący sposób spokoju lub porządku, w szczególności stwierdzonego przez Marszałka Sejmu na podstawie art. 22b",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– Prezydium Sejmu może podjąć uchwałę o obniżeniu uposażenia lub diety parlamentarnej posła, w wysokości nieprzekraczającej 1/2 uposażenia poselskiego lub pełnej diety parlamentarnej miesięcznie na okres nie dłuższy niż 3 miesiące.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem wejścia w życie ustawy z dnia 15 czerwca 2018 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora (Dz. U. poz. 1416).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079, z 2015 r. poz. 31, 550, 1130, 1136 i 1212, z 2016 r. poz. 349, 512, 616, 634 i 1178, z 2017 r. poz. 262 i 420 oraz z 2018 r. poz. 146, 267 i 544."
+ }
+}

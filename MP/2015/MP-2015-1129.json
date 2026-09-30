@@ -1,0 +1,160 @@
+{
+ "eli": "MP/2015/1129",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 13 listopada 2015 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1129/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 listopada 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2015 r. poz. 805) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 15 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "pkt 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2) Gospodarki Narodowej i Innowacyjności,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "po pkt 2 dodaje się pkt 2a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2a) Infrastruktury,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "uchyla się pkt 12,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_1/lit_d",
+       "text": "pkt 13 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„13) Spraw Zagranicznych i Unii Europejskiej,”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "użyte w art. 34 w ust. 2a, w art. 54 w ust. 4a, w art. 68 w ust. 1a, w art. 75a w ust. 1–3, w art. 75b w ust. 1 i 2, w art. 75c w ust. 2, w art. 75d w ust. 2, w art. 75e w ust. 2 oraz w art. 75f w ust. 1, w różnym przypadku, wyrazy „Komisja Spraw Unii Europejskiej” zastępuje się użytymi w odpowiednim przypadku wyrazami „Komisja Spraw Zagranicznych i Unii Europejskiej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_3/lit_a",
+       "text": "pkt 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2) Komisji Gospodarki Narodowej i Innowacyjności – bieżąca i perspektywiczna polityka gospodarcza państwa, zasady kształtowania stosunków własnościowych i przekształcenia własnościowe, restrukturyzacja gospodarki, rozwój i wspieranie innowacyjnej gospodarki, wpływ nowych technologii i zmian technologicznych na szanse rozwojowe Polski, sprawy Skarbu Państwa, działalność przedsiębiorstw państwowych, działania antymonopolistyczne, górnictwo i energetyka, turystyka, stosunki gospodarcze z zagranicą;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "po pkt 2 dodaje się pkt 2a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2a) Komisji Infrastruktury – gospodarka przestrzenna i mieszkaniowa, budownictwo, transport, łączność, informatyzacja oraz gospodarka morska;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_3/lit_c",
+       "text": "uchyla się pkt 12,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_3/lit_d",
+       "text": "pkt 13 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„13) K omisji Spraw Zagranicznych i Unii Europejskiej – polityka zagraniczna państwa, kontakty międzyparlamentarne i międzynarodowe stosunki gospodarcze, funkcjonowanie Unii Europejskiej oraz członkostwo w niej Rzeczypospolitej Polskiej, opiniowanie dokumentów przedkładanych Marszałkowi Senatu w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, rozpatrywanie inicjatyw uchwałodawczych Senatu w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, zajmowanie stanowisk i wyrażanie opinii na temat projektów umów międzynarodowych, których stroną mają być Unia Europejska, Europejska Wspólnota Energii Atomowej lub ich państwa członkowskie, oraz planów pracy Rady Unii Europejskiej, rocznych planów legislacyjnych Komisji Europejskiej, rozpatrywanie informacji i innych dokumentów przedkładanych przez Radę Ministrów oraz organy Unii Europejskiej;”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: S. Karczewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

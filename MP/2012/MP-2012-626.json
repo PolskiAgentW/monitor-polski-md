@@ -1,0 +1,50 @@
+{
+ "eli": "MP/2012/626",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 21 sierpnia 2012 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2012 r. stosowanych przy zmniejszaniu albo zawieszaniu emerytur i rent",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/626/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 sierpnia 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2012 r. stosowanych przy zmniejszaniu albo zawieszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.[^1]) ogłasza się, że od dnia 1 września 2012 r. kwota przychodu odpowiadająca:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "70% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2012 r. wynosi 2447,80 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2012 r. wynosi 4545,90 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: wz. M. Boryczka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203 oraz z 2012 r. poz. 118, 251, 637 i 664."
+ }
+}

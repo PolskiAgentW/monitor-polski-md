@@ -1,0 +1,63 @@
+{
+ "eli": "MP/2020/626",
+ "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 14 lipca 2020 r. w sprawie wysokości odsetek ustawowych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/626/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 lipca 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości odsetek ustawowych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 359 § 4 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 i 1495 oraz z 2020 r. poz. 875) ogłasza się, co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "poczynając od:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "dnia 9 kwietnia 2020 r. do dnia 28 maja 2020 r. wysokość odsetek ustawowych wynosiła 4% w stosunku rocznym,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "dnia 18 marca 2020 r. do dnia 8 kwietnia 2020 r. wysokość odsetek ustawowych wynosiła 4,5% w stosunku rocznym;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "poczynając od dnia 29 maja 2020 r. wysokość odsetek ustawowych wynosi 3,6% w stosunku rocznym.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: Z. Ziobro"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

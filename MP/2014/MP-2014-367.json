@@ -1,0 +1,66 @@
+{
+ "eli": "MP/2014/367",
+ "title": "Obwieszczenie Ministra Pracy i Polityki Społecznej z dnia 16 maja 2014 r. w sprawie wysokości zasiłku dla bezrobotnych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/367/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA PRACY I POLITYKI SPOŁECZNEJ[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 maja 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości zasiłku dla bezrobotnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 72 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2013 r. poz. 674, z późn. zm.[^2]) ogłasza się, że od dnia 1 czerwca 2014 r. wysokość zasiłku dla bezrobotnych, o którym mowa w art. 72 ust. 1 powołanej ustawy, przyznanego:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "po dniu 31 grudnia 2009 r., wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "831,10 zł – w okresie pierwszych trzech miesięcy posiadania prawa do zasiłku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "652,60 zł – w okresie kolejnych miesięcy posiadania prawa do zasiłku;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "do dnia 31 grudnia 2009 r., wynosi 666,60 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Pracy i Polityki Społecznej: wz. J. Duda"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Pracy i Polityki Społecznej kieruje działem administracji rządowej – praca, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Pracy i Polityki Społecznej (Dz. U. Nr 248, poz. 1485).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 829, 1291, 1623, 1645 i 1650 oraz z 2014 r. poz. 567 i 598."
+ }
+}

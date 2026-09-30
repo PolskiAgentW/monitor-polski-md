@@ -1,0 +1,432 @@
+{
+ "eli": "MP/2020/751",
+ "title": "Zarządzenie nr 111 Prezesa Rady Ministrów z dnia 18 sierpnia 2020 r. w sprawie Międzyresortowego Zespołu do spraw gospodarki wodorowej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/751/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 111"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 sierpnia 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Międzyresortowego Zespołu do spraw gospodarki wodorowej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Międzyresortowy Zespół do spraw gospodarki wodorowej, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Do zadań Zespołu należy zapewnienie wsparcia i obsługi merytorycznej Pełnomocnika Rządu do spraw gospodarki wodorowej, zwanego dalej „Pełnomocnikiem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zadania, o których mowa w ust. 1, są realizowane w szczególności przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "przygotowywanie dla Pełnomocnika opracowań, analiz, raportów lub ekspertyz w obszarze technologii wodorowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "pozyskiwanie od organów administracji rządowej i samorządowej, państwowych osób prawnych oraz osób prawnych z udziałem Skarbu Państwa informacji i dokumentów niezbędnych do realizacji zadań przez Pełnomocnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "opracowywanie projektów aktów prawnych oraz projektów innych dokumentów rządowych dotyczących zakresu działania Pełnomocnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "zapewnienie spójności projektów dokumentów rządowych, w szczególności strategii i programów, przewidujących wykorzystanie poszczególnych technologii wodorowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "wykonywanie innych zadań powierzonych przez Pełnomocnika.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący Zespołu – Pełnomocnik;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "członkowie Zespołu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "Minister Aktywów Państwowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "Minister Infrastruktury,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "Minister Klimatu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_2/lit_d",
+         "text": "Minister Nauki i Szkolnictwa Wyższego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_2/lit_e",
+         "text": "Minister Rozwoju;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "sekretarz Zespołu – osoba wyznaczona przez przewodniczącego Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Członkowie Zespołu mogą być zastępowani w pracach Zespołu przez upoważnionych przedstawicieli w randze sekretarza stanu albo podsekretarza stanu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przewodniczący Zespołu może, z własnej inicjatywy lub na wniosek członka Zespołu, zapraszać do uczestnictwa w pracach Zespołu, z głosem doradczym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "przedstawicieli organów administracji rządowej innych niż wymienieni w ust. 1 pkt 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "specjalistów i ekspertów, których wiedza i doświadczenie mogą być wykorzystane w realizacji zadań Zespołu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przewodniczący Zespołu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "zwołuje posiedzenia Zespołu z własnej inicjatywy albo na umotywowany wniosek członka Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "przewodniczy posiedzeniom Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "ustala terminy i program kolejnych posiedzeń Zespołu, z uwzględnieniem wniosków zgłaszanych przez członków Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "wskazuje członka Zespołu, który w razie jego nieobecności wykonuje zadania przewodniczącego Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W celu realizacji zadań Zespołu przewodniczący Zespołu może, z własnej inicjatywy albo na wniosek członka Zespołu, tworzyć grupy robocze złożone z członków Zespołu oraz z osób zaproszonych do udziału w pracach Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Członkowie Zespołu mogą wyznaczać do udziału w grupach roboczych pracowników urzędów ich obsługujących.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przewodniczący Zespołu może zlecać wykonywanie opracowań, analiz, raportów lub ekspertyz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Przewodniczący Zespołu może powierzyć członkom Zespołu wykonanie określonych czynności służących realizacji zadań Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zespół podejmuje rozstrzygnięcia w formie uchwał na posiedzeniach albo w trybie obiegowym. Uchwały są podejmowane zwykłą większością głosów w obecności co najmniej połowy liczby członków Zespołu lub ich upoważnionych przedstawicieli. W przypadku równej liczby głosów decyduje głos przewodniczącego Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Sekretarzowi Zespołu oraz osobom zaproszonym do udziału w pracach Zespołu, o których mowa w § 3 ust. 3, nie przysługuje prawo głosu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Protokół z posiedzenia Zespołu sporządza sekretarz Zespołu. Protokół podpisuje osoba przewodnicząca posiedzeniu Zespołu oraz sekretarz Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Organy administracji rządowej oraz jednostki organizacyjne im podległe lub przez nie nadzorowane, w zakresie swoich kompetencji, współdziałają z Zespołem oraz udzielają mu wsparcia przy realizacji zadań, w szczególności przedstawiają niezbędne informacje i dokumenty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Obsługę organizacyjną, techniczną i kancelaryjno-biurową Zespołu zapewnia Kancelaria Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Obsługę merytoryczną Zespołu zapewniają urzędy obsługujące poszczególnych członków Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Wydatki związane z obsługą, o której mowa w ust. 1, są pokrywane z budżetu państwa z części, której dysponentem jest Szef Kancelarii Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Wydatki związane z obsługą, o której mowa w ust. 2, są pokrywane z budżetów właściwych urzędów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Udział w pracach Zespołu jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Pierwsze posiedzenie Zespołu przewodniczący Zespołu zwołuje w terminie 14 dni od dnia utworzenia Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Przewodniczący Zespołu przedstawia Radzie Ministrów coroczne sprawozdanie z realizacji zadań Zespołu, w terminie do dnia 15 marca każdego roku kalendarzowego za rok poprzedni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "wnioski i rekomendacje dla Rady Ministrów co do dalszych działań związanych z gospodarką wodorową;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "wskazanie podmiotów odpowiedzialnych za ich wykonanie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "wskazanie szacunkowych kosztów rekomendowanych działań;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_2/pkt_4",
+       "text": "koszty funkcjonowania Zespołu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

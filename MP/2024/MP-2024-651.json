@@ -1,0 +1,469 @@
+{
+ "eli": "MP/2024/651",
+ "title": "Obwieszczenie Ministra Rozwoju i Technologii z dnia 25 czerwca 2024 r. w sprawie włączenia kwalifikacji wolnorynkowej \"Projektowanie automatyzacji procesów biznesowych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/651/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ROZWOJU I TECHNOLOGII[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 czerwca 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji wolnorynkowej „Projektowanie automatyzacji procesów biznesowych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226 oraz z 2023 r. poz. 2005) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji wolnorynkowej „Projektowanie automatyzacji procesów biznesowych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rozwoju i Technologii: K. Paszyk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Rozwoju i Technologii z dnia 25 czerwca 2024 r. (M.P. poz. 651)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI WOLNORYNKOWEJ „PROJEKTOWANIE AUTOMATYZACJI PROCESÓW BIZNESOWYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Projektowanie automatyzacji procesów biznesowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację „Projektowanie automatyzacji procesów biznesowych” w oparciu o przeprowadzone przez siebie rozpoznanie obszaru biznesowego organizacji samodzielnie identyfikuje i projektuje automatyzację procesów biznesowych w organizacji. Posługuje się narzędziami z zakresu ICT służącymi do modelowania procesów biznesowych. Zarządza portfelem procesów biznesowych. Na podstawie dokumentacji i rozmów z interesariuszami identyfikuje procesy biznesowe, wskazuje procesy możliwe do automatyzacji, ustala kolejność automatyzacji procesów, optymalizuje proces w zależności od potrzeb biznesowych organizacji. Potrafi scharakteryzować wpływ zmian wynikających z wdrożenia automatyzacji na obecnie działające procesy. Przygotowuje rekomendację wdrożenia automatyzacji w organizacji oraz prezentuje ją właścicielom procesów. Przeprowadza przegląd dostępnych na rynku narzędzi automatyzujących z uwzględnieniem możliwości oraz strategii organizacji. Przygotowuje rekomendację i uzasadnia wybór narzędzi automatyzujących. Prezentuje przygotowaną rekomendację kluczowym osobom z obszaru zarządzania infrastrukturą, procesami czy rozwojem oprogramowania."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Rozpoznanie obszaru biznesowego organizacji"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje − omawia profil wskazanej organizacji, strategię i profil − wskazuje główne plany rozwojowe organizacji w ujęciu biznesowym, organizacji − wskazuje główne plany rozwojowe organizacji w ujęciu architektury korporacyjnej, − wskazuje główne plany rozwojowe organizacji w ujęciu architektury IT (systemowej, integracyjnej, infrastrukturalnej, bezpieczeństwa)."
+      },
+      {
+       "type": "text",
+       "text": "Organizuje i prowadzi − na podstawie przedstawionego profilu organizacji przygotowuje listę osób (ról w organizaspotkanie mające cji), które będą pomocne w zebraniu informacji o organizacji, na celu rozpoznanie − na podstawie przedstawionego profilu organizacji przygotowuje agendę spotkania mająceobszaru biznesowego go na celu rozpoznanie obszaru biznesowego organizacji, organizacji − prezentuje zakres swoich prac w kontekście prowadzonych działań z zakresu projektowania automatyzacji procesów biznesowych."
+      },
+      {
+       "type": "text",
+       "text": "Przeprowadza rozmowę − dobiera pytania adekwatne do pełnionej przez rozmówcę roli w organizacji, z osobami na różnych − na podstawie odpowiedzi rozmówcy zadaje pytania pogłębiające. szczeblach organizacji (członek zarządu, dyrektor IT, kierownik obszaru biznesowego)"
+      },
+      {
+       "type": "text",
+       "text": "Tworzy dokument − zapisuje zebrane informacje w dokumencie analizy, analizy − prezentuje zebrane informacje z wykorzystaniem diagramu motywacji (ArchiMate)."
+      },
+      {
+       "type": "text",
+       "text": "Zarządza zmianą − wersjonuje dokumenty, w dokumentacji − wprowadza kontrolę zmian w dokumencie."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Identyfikacja procesów podlegających automatyzacji"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje procesy − wskazuje procesy: główne, pomocnicze, ogólne, systemowe, organizacji − kategoryzuje zebrane procesy na podstawie ich przeznaczenia."
+      },
+      {
+       "type": "text",
+       "text": "Modeluje przepływy − modeluje 2 wybrane procesy przy użyciu dowolnego oprogramowania, procesów − wskazuje interakcje pomiędzy różnymi komponentami procesu,"
+      },
+      {
+       "type": "text",
+       "text": "− uwzględnia różne role odpowiedzialne za wykonanie danego kroku w procesie."
+      },
+      {
+       "type": "text",
+       "text": "Pozyskuje informacje − identyfikuje głównych interesariuszy, na temat procesów − tworzy listę dokumentów niezbędnych do pozyskania informacji na temat procesów w orw organizacji z rozmów ganizacji, z głównymi interesariuszami oraz − formułuje pytania mające na celu pozyskanie informacji o procesach, z dokumentacji − wskazuje: role w procesie, osoby lub zespoły odpowiedzialne za procesy, kroki w procesie, przepływy pomiędzy krokami, rozgałęzienia, warunki, zaangażowane systemy, punkty integracyjne, kroki automatyczne i manualne,"
+      },
+      {
+       "type": "text",
+       "text": "− zebrane informacje umieszcza w dokumencie analizy w postaci dowolnej notacji."
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystuje jedną − opisuje przepływy w 2 procesach za pomocą wybranej notacji, z notacji do opisu − opisuje zależności pomiędzy 2 procesami i 2 podprocesami za pomocą wybranej notacji. przepływów w organizacji"
+      },
+      {
+       "type": "text",
+       "text": "Zarządza portfelem − omawia sposoby archiwizowania procesów w organizacji na przykładzie dowolnego doprocesów w organizacji stępnego narzędzia,"
+      },
+      {
+       "type": "text",
+       "text": "− przechowuje informacje o procesach w organizacji w wybranym narzędziu,"
+      },
+      {
+       "type": "text",
+       "text": "− omawia wybrane procesy w organizacji (pod kątem: obecnego stanu procesów, przyszłego stanu (po zmianach))."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Ocena możliwości automatyzacji danego procesu"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje wpływ − wskazuje wpływ (bezpośredni lub pośredni) zmian na inne procesy w wymiarze kosztoautomatyzacji na wym, osobowym, zasobowym lub czasowym, obecnie działające − wskazuje wpływ zmian w jednym wymiarze na inne. procesy"
+      },
+      {
+       "type": "text",
+       "text": "Optymalizuje proces − na podstawie pozyskanych informacji wskazuje punkty optymalizujące czas wykonania uzależniając zadań w 3 procesach, np.: zmniejszenie liczby kroków, skrócenie czasu wykonania przez konieczność dodanie elementów automatyzujących, przebudowę procesu, przeprowadzenia zmian − na podstawie pozyskanych informacji wskazuje punkty optymalizujące koszty w 3 proceod potrzeb sach, np.: zmniejszenie liczby kroków, skrócenie czasu wykonania przez dodanie elemenbiznesowych tów automatyzujących, przebudowę procesu,"
+      },
+      {
+       "type": "text",
+       "text": "− na podstawie pozyskanych informacji wskazuje punkty optymalizujące ilość zasobów w 3 procesach, np.: zmniejszenie liczby kroków, skrócenie czasu wykonania przez dodanie elementów automatyzujących, przebudowę procesu."
+      },
+      {
+       "type": "text",
+       "text": "Wskazuje całe procesy − na podstawie zebranych informacji wskazuje 4 wybrane procesy, które mogą zostać zautolub części procesów, matyzowane w pierwszej kolejności, które mogą być − na podstawie zebranych informacji wskazuje 2 wybrane części procesów lub 2 podprocesy, automatyzowane które mogą zostać zautomatyzowane w pierwszej kolejności."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 4. Przygotowanie rekomendacji automatyzacji procesów"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Definiuje cele − podaje definicję SMART, z użyciem metody − podaje minimum 1 przykład użycia SMART, SMART − formułuje cele automatyzacji zgodnie z metodą SMART."
+      },
+      {
+       "type": "text",
+       "text": "Definiuje priorytety − podaje definicję MoSCoW, przy użyciu metody − podaje minimum 1 przykład użycia MoSCoW, MoSCoW − priorytetyzuje zadania zgodnie z metodą MoSCoW."
+      },
+      {
+       "type": "text",
+       "text": "Przedstawia − przygotowuje prezentację podsumowującą rekomendowane zmiany w zakresie automatyrekomendację zacji procesów, automatyzacji − prezentuje podsumowanie rekomendacji, właścicielom procesów − odpowiada na pytania związane z przygotowaną rekomendacją. oraz wybranym odbiorcom (np. zespół projektowy, osoby zainteresowane zmianami w procesach, interesariusze)"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowuje − przygotowuje dokument opisujący rekomendacje zmian w procesach zawierający: cele rekomendację zmian zmian, wpływ zmian na organizację, szczegóły dotyczące procesów stan AS-IS i TO-BE, w przepływie procesów ryzyka, koszty, potrzebne zasoby, czas realizacji,"
+      },
+      {
+       "type": "text",
+       "text": "− uzasadnia rekomendację wspierając się wybranymi wskaźnikami."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 5. Przygotowanie rekomendacji wdrożenia narzędzi automatyzujących"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Przygotowuje − opracowuje rekomendację zawierającą perspektywę: realizacji wymagań strategicznych, i prezentuje kosztów zakupu oraz utrzymania, dopasowania do obecnej architektury informatycznej rekomendację narzędzi organizacji, automatyzujących − przygotowuje prezentację rekomendacji, − przedstawia przygotowaną prezentację wybranym osobom z obszaru zarządzania infrastrukturą, zarządzania procesami, zarządzania rozwojem oprogramowania."
+      },
+      {
+       "type": "text",
+       "text": "Przygotowuje przegląd − na podstawie przykładowego „magicznego kwadratu Gartnera” przeprowadza analizę rynrynku narzędzi ku pod kątem narzędzi automatyzujących z uwzględnieniem wymagań, możliwości (np. automatyzujących infrastrukturalnych) i strategii organizacji, w oparciu o raporty − na podstawie przykładowego raportu Forrester’a wskazuje listę 5 najwyżej sklasyfikowanych narzędzi automatyzujących."
+      },
+      {
+       "type": "text",
+       "text": "Dobiera narzędzia − przygotowuje rekomendację 3 narzędzi, które spełniają wymagania organizacji: kosztowe, do automatyzacji utrzymaniowe, operacyjne, funkcjonalne, procesów − uzasadnia wybór wskazanych 3 narzędzi."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "W weryfikacji efektów uczenia się możliwe do zastosowania są następujące metody:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "test teoretyczny,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "obserwacja w warunkach symulowanych (symulacja),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "wywiad swobodny lub ustrukturyzowany (rozmowa z komisją),",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "analiza dowodów i deklaracji (próbka pracy).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Weryfikacja składa się z dwóch części: teoretycznej oraz praktycznej."
+        },
+        {
+         "type": "text",
+         "text": "W części teoretycznej wykorzystuje się metodę testu teoretycznego."
+        },
+        {
+         "type": "text",
+         "text": "W części praktycznej wykorzystuje się metody: obserwacji w warunkach symulowanych, wywiad swobodny lub ustrukturyzowany (rozmowa z komisją) lub analizę dowodów i deklaracji (próbka pracy)."
+        },
+        {
+         "type": "text",
+         "text": "1.2. Zasoby kadrowe"
+        },
+        {
+         "type": "text",
+         "text": "W procesie weryfikacji biorą udział:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "operator systemu egzaminacyjnego, który nadzoruje przebieg testu przeprowadzanego w systemie elektronicznym,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_1/tir_6",
+       "text": "komisja walidacyjna, składająca się z co najmniej 2 asesorów, która przeprowadza część praktyczną.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Osoba będąca asesorem może być jednocześnie operatorem systemu egzaminacyjnego i osobą nadzorującą przebieg testu teoretycznego prowadzonego poza systemem elektronicznym."
+        },
+        {
+         "type": "text",
+         "text": "Operator systemu egzaminacyjnego musi posiadać:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_1/tir_7",
+       "text": "wykształcenie minimum średnie,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_1/tir_8",
+       "text": "znajomość obsługi komputera w zakresie uruchamiania oraz podstawowej obsługi systemu i zainstalowanych aplikacji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_1/tir_9",
+       "text": "umiejętność rozwiązywania problemów w sytuacji trudności z nawiązaniem lub zanikiem połączenia internetowego lub obsługą przeglądarki w zakresie kompatybilności z platformą egzaminacyjną.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Weryfikację efektów uczenia się w części praktycznej prowadzi komisja walidacyjna, składająca się minimum z 2 osób."
+        },
+        {
+         "type": "text",
+         "text": "Każdy członek komisji walidacyjnej musi:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "10",
+       "path": "ust_1/tir_10",
+       "text": "posiadać minimum wykształcenie wyższe,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "11",
+       "path": "ust_1/tir_11",
+       "text": "posiadać udokumentowany staż pracy minimum 5 lat na stanowiskach związanych z analizą lub zarządzaniem procesami biznesowymi lub automatyzacją procesów biznesowych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Do zadań członków komisji należy m.in.:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "12",
+       "path": "ust_1/tir_12",
+       "text": "stosowanie kryteriów weryfikacji przypisanych do efektów uczenia się dla opisywanej kwalifikacji oraz kryteriów oceny formalnej i merytorycznej dowodów na posiadanie efektów uczenia się właściwych dla opisywanej kwalifikacji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "13",
+       "path": "ust_1/tir_13",
+       "text": "stosowanie zasad prowadzenia weryfikacji, a także różnych metod weryfikacji efektów uczenia się, zgodnie z celami walidacji i zasadami Zintegrowanego Systemu Kwalifikacji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jeżeli instytucja certyfikująca prowadzi kształcenie w obszarze wnioskowanej kwalifikacji to musi stosować rozwiązania zapewniające rozdzielenie procesów kształcenia od walidacji. W szczególności istotne jest zapewnienie bezstronności osób przeprowadzających walidację m.in poprzez rozdział osobowy mający na celu zapobieganie konfliktowi interesów osób przeprowadzających walidację. Osoby te nie mogą weryfikować efektów uczenia się osób, które były przez nie przygotowywane do uzyskania kwalifikacji „Projektowanie automatyzacji procesów biznesowych”."
+        },
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne"
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca musi zapewnić stanowisko komputerowe dla kandydata ubiegającego się o uzyskanie kwalifikacji (jedno stanowisko dla jednego kandydata), wyposażone w przeglądarkę internetową z dostępem do Internetu oraz stolik i krzesła."
+        },
+        {
+         "type": "text",
+         "text": "Do przeprowadzania praktycznej części walidacji należy zapewnić pracownię wyposażoną w oddzielne stanowisko komputerowe dla każdego uczestnika wyposażone co najmniej w komputer z dostępem do Internetu, pakietem programów biurowych i systemem do modelowania procesów według notacji BPMN lub UML posiadającym funkcje umożliwiające przeprowadzenie walidacji wszystkich efektów uczenia się określonych dla kwalifikacji."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca udostępnia informacje o systemie do modelowania procesów wykorzystywanym w procesie walidacji. Instytucja certyfikująca musi zapewnić bezstronną i niezależną procedurę odwoławczą. Walidacja może być w całości lub w części prowadzona zdalnie (online), pod warunkiem stosowania przez instytucję certyfikującą narzędzi online zapewniających wiarygodne sprawdzenie, czy osoba ubiegająca się o nadanie kwalifikacji wolnorynkowej osiągnęła wyodrębnioną część lub całość efektów uczenia się. Narzędzia i metody stosowane w walidacji zdalnej powinny w szczególności umożliwiać identyfikację osoby przystępującej do walidacji, samodzielność pracy tej osoby i zabezpieczenie przebiegu walidacji przed ingerencją osób trzecich."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etapy identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymagań."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie dotyczy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak innych, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji wolnorynkowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu potwierdzającego nadanie kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bezterminowo."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Rozwoju i Technologii kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju i Technologii (Dz. U. poz. 739)."
+ }
+}

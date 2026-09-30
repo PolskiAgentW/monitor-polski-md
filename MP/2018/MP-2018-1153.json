@@ -1,0 +1,120 @@
+{
+ "eli": "MP/2018/1153",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 19 listopada 2018 r. w sprawie granicznych kwot przychodu dla 2018 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/1153/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 listopada 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie granicznych kwot przychodu dla 2018 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r. poz. 1270) ogłasza się, że kwoty graniczne przychodu dla 2018 r. wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "37 851,70 zł – co stanowi sumę kwot przychodu odpowiadających 70% przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_1/tir_1",
+     "text": "2979,00 zł – od 1 stycznia 2018 r. do 28 lutego 2018 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_1/tir_2",
+     "text": "3161,70 zł – od 1 marca 2018 r. do 31 maja 2018 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_1/tir_3",
+     "text": "3236,00 zł – od 1 czerwca 2018 r. do 31 sierpnia 2018 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_1/tir_4",
+     "text": "3164,80 zł – od 1 września 2018 r. do 30 listopada 2018 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_1/tir_5",
+     "text": "3206,20 zł – od 1 grudnia 2018 r. do 31 grudnia 2018 r.;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "70 295,30 zł – co stanowi sumę kwot przychodu odpowiadających 130% przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_2/tir_1",
+     "text": "5532,30 zł – od 1 stycznia 2018 r. do 28 lutego 2018 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_2/tir_2",
+     "text": "5871,70 zł – od 1 marca 2018 r. do 31 maja 2018 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_2/tir_3",
+     "text": "6009,70 zł – od 1 czerwca 2018 r. do 31 sierpnia 2018 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_2/tir_4",
+     "text": "5877,40 zł – od 1 września 2018 r. do 30 listopada 2018 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_2/tir_5",
+     "text": "5954,30 zł – od 1 grudnia 2018 r. do 31 grudnia 2018 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: G. Uścińska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

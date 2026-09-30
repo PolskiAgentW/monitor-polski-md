@@ -1,0 +1,545 @@
+{
+ "eli": "MP/2018/567",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 12 marca 2018 r. w sprawie określenia szczegółowego zakresu zadań urzędników wyborczych, sposobu ich realizacji oraz zasad wynagradzania za ich realizację, a także zasad zwolnienia od pracy zawodowej na czas wykonywania obowiązków urzędnika wyborczego w wyborach organów jednostek samorządu terytorialnego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/567/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 marca 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia szczegółowego zakresu zadań urzędników wyborczych, sposobu ich realizacji oraz zasad wynagradzania za ich realizację, a także zasad zwolnienia od pracy zawodowej na czas wykonywania obowiązków urzędnika wyborczego w wyborach organów jednostek samorządu terytorialnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 191f ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2017 r. poz. 15 i 1089 oraz z 2018 r. poz. 4, 130 i 138) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Określa się szczegółowy zakres zadań urzędników wyborczych, sposób ich realizacji oraz zasady wynagradzania za ich realizację, a także zasady zwolnienia od pracy zawodowej na czas wykonywania obowiązków urzędnika wyborczego w wyborach organów jednostek samorządu terytorialnego, w brzmieniu załącznika do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 12 marca 2018 r. (poz. 567)",
+   "body": [
+    {
+     "type": "text",
+     "text": "SZCZEGÓŁOWY ZAKRES ZADAŃ URZĘDNIKÓW WYBORCZYCH, SPOSÓB ICH REALIZACJI ORAZ ZASADY WYNAGRADZANIA ZA ICH REALIZACJĘ, A TAKŻE ZASADY ZWOLNIENIA OD PRACY ZAWODOWEJ NA CZAS WYKONYWANIA OBOWIĄZKÓW URZĘDNIKA WYBORCZEGO W WYBORACH ORGANÓW JEDNOSTEK SAMORZĄDU TERYTORIALNEGO"
+    },
+    {
+     "type": "text",
+     "text": "Ilekroć poniżej jest mowa o:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Kodeksie wyborczym – należy przez to rozumieć ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2017 r. poz. 15 i 1089 oraz z 2018 r. poz. 4, 130 i 138);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "terytorialnych komisjach wyborczych – należy przez to rozumieć wojewódzkie, powiatowe, gminne (miejskie) komisje wyborcze oraz dzielnicowe komisje wyborcze w m.st. Warszawie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "wójcie – należy przez to rozumieć także burmistrza i prezydenta miasta;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "gminach – należy przez to rozumieć także dzielnice m.st. Warszawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "obwodowej komisji wyborczej – należy przez to rozumieć obwodową komisję wyborczą ds. przeprowadzenia głosowania w obwodzie oraz obwodową komisję wyborczą ds. ustalenia wyników wyborów w obwodzie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "komisarzu wyborczym – należy przez to rozumieć właściwego terytorialnie komisarza wyborczego, według właściwości terytorialnej określonej w załączniku nr 1 do uchwały Państwowej Komisji Wyborczej z dnia 5 lutego 2018 r. w sprawie określenia właściwości terytorialnej i rzeczowej komisarzy wyborczych oraz ich siedzib, a także trybu pracy komisarzy wyborczych (M.P. poz. 246);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "dyrektorze delegatury – należy przez to rozumieć dyrektora delegatury Krajowego Biura Wyborczego obsługującego właściwego terytorialnie komisarza wyborczego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "I. Szczegółowy zakres zadań urzędników wyborczych i sposób ich realizacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Urzędnicy wyborczy, po powołaniu przez Szefa Krajowego Biura Wyborczego, mają obowiązek doskonalenia zawodowego poprzez uczestnictwo w szkoleniach dotyczących organizacji wyborów oraz prawa wyborczego, organizowanych zgodnie z wymogami ustalonymi przez komisarza wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Urzędnicy wyborczy wykonują swoje zadania od dnia zarządzenia właściwych wyborów do dnia rozstrzygnięcia protestów wyborczych oraz w innych sytuacjach, gdy jest to konieczne, a w szczególności w sprawach dotyczących udostępniania depozytu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Podziału zadań pomiędzy urzędników wyborczych w danej gminie dokonuje komisarz wyborczy. Komisarz wyborczy może wyznaczyć w danej gminie, spośród powołanych w niej urzędników wyborczych, urzędnika wyborczego, który będzie koordynował wykonanie zadań przez urzędników wyborczych w tej gminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Urzędnicy wyborczy wykonują swoje obowiązki na podstawie przepisów Kodeksu wyborczego oraz wiążących wytycznych Państwowej Komisji Wyborczej, a także zgodnie z wyjaśnieniami udzielanymi przez komisarza wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Do zadań urzędników wyborczych należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "współdziałanie w wykonywaniu ustawowych zadań z Państwową Komisją Wyborczą, komisarzem wyborczym, dyrektorem delegatury, okręgowymi, rejonowymi, terytorialnymi i obwodowymi komisjami wyborczymi, organami gminy, w której zostali powołani do pełnienia funkcji, a także z pozostałymi urzędnikami wyborczymi powołanymi na obszarze danej gminy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "wykonywanie czynności związanych z powoływaniem obwodowych komisji wyborczych, w zakresie określonym odrębną uchwałą Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "organizacja pierwszych posiedzeń obwodowych komisji wyborczych, zwoływanych przez komisarza wyborczego w trybie art. 182 § 9 Kodeksu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "udzielanie pomocy obwodowym komisjom wyborczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_5/pkt_5",
+       "text": "współdziałanie z przewodniczącymi obwodowych komisji wyborczych w sprawach dotyczących zmian w składach tych komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_5/pkt_6",
+       "text": "przekazywanie obwodowym komisjom wyborczym wyjaśnień i wiążących wytycznych Państwowej Komisji Wyborczej oraz wyjaśnień komisarza wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_5/pkt_7",
+       "text": "wykonywanie zadań związanych z głosowaniem korespondencyjnym, tj.:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_7/lit_a",
+         "text": "przyjmowanie od komisarza wyborczego przekazanych mu przez wyborców niepełnosprawnych zgłoszeń zamiaru głosowania korespondencyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_7/lit_b",
+         "text": "w przypadku, gdy zgłoszenie nie spełnia ustawowych wymogów:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "ust_5/pkt_7/lit_b/tir_1",
+           "text": "wezwanie wyborcy do uzupełnienia zgłoszenia w terminie 1 dnia od dnia doręczenia wezwania,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "ust_5/pkt_7/lit_b/tir_2",
+           "text": "lub wpłynęło po terminie albo nie zostało uzupełnione po wezwaniu – pozostawienie zgłoszenia bez rozpoznania i poinformowanie o tym wyborcy,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_7/lit_c",
+         "text": "niezwłoczne poinformowanie wójta o otrzymaniu zgłoszenia zamiaru głosowania korespondencyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_5/pkt_7/lit_d",
+         "text": "udział w czynnościach związanych z przygotowaniem pakietów wyborczych, tj. m.in.:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "ust_5/pkt_7/lit_d/tir_1",
+           "text": "przygotowanie odpowiedniej liczby kart do głosowania,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "ust_5/pkt_7/lit_d/tir_2",
+           "text": "zapewnienie odpowiedniej liczby kopert na pakiet wyborczy, kopert zwrotnych oraz kopert na karty do głosowania, stosowanych w pakietach do głosowania korespondencyjnego, formularzy oświadczeń o osobistym i tajnym oddaniu głosu na karcie do głosowania, a także pieczęci właściwej obwodowej komisji wyborczej ds. przeprowadzenia głosowania w obwodzie,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "ust_5/pkt_7/lit_d/tir_3",
+           "text": "udział w czynnościach obwodowej komisji wyborczej ds. przeprowadzenia głosowania w obwodzie związanych z opieczętowaniem kart do głosowania, zamieszczeniu adresów na kopertach zwrotnych, przygotowaniu druków oświadczeń o osobistym i tajnym oddaniu głosu,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_5/pkt_7/lit_e",
+         "text": "przekazanie operatorowi wyznaczonemu w rozumieniu ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106 i 138), tj. Poczcie Polskiej, pakietów wyborczych, celem wysłania ich wyborcom niepełnosprawnym, którzy zgłosili zamiar głosowania korespondencyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_5/pkt_7/lit_f",
+         "text": "poinformowanie wójta o wysłanych pakietach wyborczych, celem zamieszczenia stosownej adnotacji w spisie wyborców,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_5/pkt_7/lit_g",
+         "text": "prowadzenie wykazu pakietów wyborczych, w którym odnotowuje się fakt przygotowania oraz wysłania danego pakietu wyborczego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_5/pkt_8",
+       "text": "zapewnienie wykonania kart do głosowania oraz dostarczenie kart do głosowania właściwym obwodowym komisjom wyborczym ds. przeprowadzenia głosowania w obwodzie, w sposób ustalony odrębną uchwałą Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_5/pkt_9",
+       "text": "pełnienie dyżurów w okresie przed wyborami, w tym w przeddzień głosowania i w dniu głosowania, w terminach uzgodnionych z komisarzem wyborczym oraz poinformowanie o nich wójta, a także właściwych terytorialnych i obwodowych komisji wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_5/pkt_10",
+       "text": "zapewnienie sprawnego funkcjonowania obwodowych komisji wyborczych, tj. w szczególności:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_5/pkt_10/lit_a",
+         "text": "przygotowanie i nadzór pod kierownictwem komisarza wyborczego nad przebiegiem wyborów w obwodowych komisjach wyborczych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_5/pkt_10/lit_b",
+         "text": "tworzenie i aktualizowanie, w porozumieniu z komisarzem wyborczym, systemu szkoleń dla członków obwodowych komisji wyborczych, przy uwzględnieniu liczby tych komisji w danej gminie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_5/pkt_10/lit_c",
+         "text": "organizowanie i prowadzenie szkoleń dla członków obwodowych komisji wyborczych, po wcześniejszym ustaleniu z komisarzem wyborczym ich zakresu, tematu i planu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_5/pkt_10/lit_d",
+         "text": "sprawowanie nadzoru nad zapewnieniem warunków pracy obwodowych komisji wyborczych, w szczególności w zakresie spełnienia wymogów dotyczących:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "ust_5/pkt_10/lit_d/tir_1",
+           "text": "przezroczystych urn wyborczych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "ust_5/pkt_10/lit_d/tir_2",
+           "text": "transmisji z lokalu wyborczego za pośrednictwem publicznie dostępnej sieci elektronicznego przekazywania danych, albo, w przypadku gdy transmisja ta nie jest możliwa z przyczyn technicznych, rejestrowania czynności podejmowanych przez komisję za pomocą urządzeń rejestrujących obraz i dźwięk, a następnie udostępniania tych materiałów na stronie internetowej Państwowej Komisji Wyborczej,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "ust_5/pkt_10/lit_d/tir_3",
+           "text": "dostosowania wyznaczonych przez wójta lokali wyborczych do potrzeb wyborców niepełnosprawnych w zakresie, o którym mowa w rozporządzeniu Ministra Infrastruktury z dnia 29 lipca 2011 r. w sprawie lokali obwodowych komisji wyborczych dostosowanych do potrzeb wyborców niepełnosprawnych (Dz. U. poz. 938 oraz z 2017 r. poz. 2468),",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "ust_5/pkt_10/lit_d/tir_4",
+           "text": "wyposażenia lokalu wyborczego, w tym w szczególności zapewnienia godła państwowego oraz odpowiedniej liczby łatwo dostępnych miejsc umożliwiających każdemu wyborcy nieskrępowane zapoznanie się z kartą do głosowania oraz jej wypełnienie w sposób niewidoczny dla innych osób;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_5/pkt_11",
+       "text": "przyjęcie od przewodniczącego obwodowej komisji wyborczej ds. ustalenia wyników głosowania w obwodzie w depozyt dokumentów z głosowania, opakowań zbiorczych zawierających karty do głosowania oraz pieczęci komisji z obwodów utworzonych w kraju, w sposób określony odrębną uchwałą Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_5/pkt_12",
+       "text": "przyjęcie od przewodniczącego terytorialnej komisji wyborczej w depozyt dokumentów z wyborów oraz pieczęci tej komisji, w sposób określony odrębną uchwałą Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_5/pkt_13",
+       "text": "należyte przechowanie depozytu, gwarantujące jego właściwe zabezpieczenie, w sposób określony odrębną uchwałą Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_5/pkt_14",
+       "text": "udostępnianie dokumentów z głosowania znajdujących się w depozycie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_5/pkt_15",
+       "text": "wykonywanie innych zadań wynikających z uchwał Państwowej Komisji Wyborczej oraz innych czynności zleconych przez Państwową Komisję Wyborczą i komisarzy wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_5/pkt_16",
+       "text": "wykonywanie zadań wskazanych przez urzędnika wyborczego, który będzie koordynował wykonanie zadań przez pozostałych urzędników wyborczych w danej gminie, w przypadku jego wyznaczenia przez komisarza wyborczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W razie niemożności czasowego wykonywania obowiązków urzędnika wyborczego, osoba pełniąca tę funkcję powinna niezwłocznie zawiadomić o tym komisarza wyborczego, za pośrednictwem dyrektora delegatury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "W razie niemożności stałego wykonywania obowiązków urzędnika wyborczego, osoba pełniąca tę funkcję powinna niezwłocznie zawiadomić o tym Szefa Krajowego Biura Wyborczego, za pośrednictwem dyrektora delegatury.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W przypadku niewykonywania lub nienależytego wykonywania obowiązków, Szef Krajowego Biura Wyborczego odwołuje urzędnika wyborczego przed upływem jego kadencji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "II. Zasady wynagradzania za realizację zadań urzędników wyborczych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wydatki związane z zadaniami urzędników wyborczych pokrywane są z budżetu państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Urzędnikom wyborczym za realizację ustawowych zadań przysługuje wynagrodzenie proporcjonalne do czasu ich realizacji, przy założeniu, że wysokość wynagrodzenia za miesiąc pracy ustalana jest na podstawie kwoty bazowej przyjmowanej do ustalenia wynagrodzenia osób zajmujących kierownicze stanowiska państwowe, z zastosowaniem mnożnika 2,5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wynagrodzenie przysługuje urzędnikowi wyborczemu za dzień, w którym wykonywał swoje zadania, w wysokości 1/20 kwoty ustalonej zgodnie z pkt 2, z zastrzeżeniem, że kwota wynagrodzenia nie może być większa niż ustalona zgodnie z pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "W uzasadnionych przypadkach, ze względu na zakres wykonywanego zadania, komisarz wyborczy może podjąć decyzję o zwiększeniu lub zmniejszeniu kwoty wynagrodzenia ustalonej zgodnie z pkt 3, z zastrzeżeniem, że kwota wynagrodzenia nie może być większa niż ustalona zgodnie z pkt 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Urzędnik wyborczy sporządza zestawienie wykonanych czynności i okresów ich wykonywania, zwane dalej „zestawieniem”. Zestawienie sporządzane jest w dwóch egzemplarzach, z których jeden przeznaczony jest dla komisarza wyborczego, a drugi dla urzędnika wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Urzędnik wyborczy przy wykonywaniu zadań powinien dążyć do tego, aby zaplanowane zadania możliwe do wykonania w ciągu jednego dnia nie były rozkładane na następne dni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Czynności, w zależności od ich charakteru, urzędnik wyborczy może wykonywać poza siedzibą i godzinami pracy urzędów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Ze względu na zakres prac ustawowo określonych dla urzędnika wyborczego, które należy wykonywać od 30 dnia przed dniem wyborów do dnia przyjęcia depozytu od właściwych komisji wyborczych, urzędnikowi w tym okresie przysługuje wynagrodzenie w kwocie ustalonej zgodnie z pkt 2. Przepis pkt 5 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Warunkiem wypłacenia należności urzędnikowi wyborczemu jest zatwierdzenie przez komisarza wyborczego zestawienia. Komisarz wyborczy może odmówić zatwierdzenia zestawienia w przypadku niewłaściwego wykonywania zadań lub w przypadku stwierdzenia zawyżenia przez urzędnika wyborczego czasu ich wykonywania, wydając stosowne polecenie w tym zakresie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Płatność wynagrodzenia urzędnika wyborczego następuje raz w miesiącu, do 10 dnia miesiąca następującego po miesiącu, za który przysługuje wynagrodzenie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "III. Zasady zwolnienia od pracy zawodowej na czas wykonywania obowiązków urzędnika wyborczego"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Pracodawca obowiązany jest zwolnić urzędnika wyborczego od pracy zawodowej w celu umożliwienia mu wykonywania zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Urzędnik wyborczy, w razie zamiaru skorzystania ze zwolnienia od pracy, o którym mowa w art. 191e § 3 Kodeksu wyborczego, jest obowiązany, co najmniej na 3 dni przed przewidywanym terminem nieobecności w pracy, uprzedzić, w formie pisemnej, pracodawcę o przyczynie i przewidywanym okresie nieobecności w pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "W sytuacjach nagłych urzędnik wyborczy może poinformować pracodawcę o konieczności wykonywania zadań urzędnika wyborczego i przewidywanym okresie nieobecności w pracy po upływie terminu określonego w pkt 2. Zawiadomienie to może zostać dokonane np. telefonicznie lub za pośrednictwem poczty elektronicznej (e-mail).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Nie później niż następnego dnia po upływie okresu nieobecności w pracy, urzędnik wyborczy zobowiązany jest dostarczyć pracodawcy zaświadczenie usprawiedliwiające nieobecność w pracy w związku z wykonywaniem zadań urzędnika wyborczego. Zaświadczenie powinno zawierać co najmniej imię i nazwisko urzędnika wyborczego oraz czas nieobecności w pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Zaświadczenie wystawia komisarz wyborczy. Zaświadczenie jest sporządzane w dwóch egzemplarzach, z których jeden otrzymuje urzędnik wyborczy w celu przedstawienia pracodawcy, a drugi pozostaje w dokumentacji delegatury Krajowego Biura Wyborczego.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

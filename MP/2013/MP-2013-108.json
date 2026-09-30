@@ -1,0 +1,81 @@
+{
+ "eli": "MP/2013/108",
+ "title": "Komunikat Państwowej Komisji Wyborczej z dnia 18 lutego 2013 r. zmieniający komunikat o przyjętych i odrzuconych sprawozdaniach partii politycznych o źródłach pozyskania środków finansowych w 2011 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/108/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KomuniKat"
+  },
+  {
+   "type": "text",
+   "text": "Państwowej Komisji wyborczej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 lutego 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniający komunikat o przyjętych i odrzuconych sprawozdaniach partii politycznych o źródłach pozyskania środków finansowych w 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 38 ust. 4 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2011 r. Nr 155, poz. 924), w związku z postanowieniem Sądu Najwyższego z dnia 19 grudnia 2012 r. (sygn. akt III SW 8/12), w komunikacie Państwowej Komisji Wyborczej z dnia 5 listopada 2012 r. o przyjętych i odrzuconych sprawozdaniach partii politycznych o źródłach pozyskania środków finansowych w 2011 r. (M.P. poz. 881) wprowadza się następujące zmiany:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "pkt 1 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„1) przyjąć bez zastrzeżeń sprawozdania 37 partii politycznych, wymienionych w załączniku nr 1 do komunikatu;”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "pkt 3 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„3) odrzucić sprawozdania 9 partii politycznych, wymienionych w załączniku nr 3 do komunikatu.”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w załączniku nr 1 do komunikatu po pkt 15 dodaje się pkt 15a w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„15a. Polska Partia Narodowa (EwP 180)”;",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "w załączniku nr 3 do komunikatu skreśla się pkt 5.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

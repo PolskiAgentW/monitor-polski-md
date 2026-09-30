@@ -1,0 +1,1667 @@
+{
+ "eli": "MP/2024/334",
+ "title": "Uchwała nr 38 Rady Ministrów z dnia 30 kwietnia 2024 r. w sprawie Wieloletniego Planu Finansowego Państwa na lata 2024-2027",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/334/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 38"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 kwietnia 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Wieloletniego Planu Finansowego Państwa na lata 2024–2027"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 106 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.[^1]) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uchwala się Wieloletni Plan Finansowy Państwa na lata 2024–2027, stanowiący załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 38 Rady Ministrów z dnia 30 kwietnia 2024 r. (M.P. poz. 334)",
+   "body": [
+    {
+     "type": "text",
+     "text": "RZECZPOSPOLITA POLSKA"
+    },
+    {
+     "type": "text",
+     "text": "WIELOLETNI PLAN FINANSOWY PAŃSTWA NA LATA 2024–2027"
+    },
+    {
+     "type": "text",
+     "text": "Warszawa, kwiecień 2024 roku Wstęp"
+    },
+    {
+     "type": "text",
+     "text": "„Wieloletni Plan Finansowy Państwa na lata 2024-2027” (WPFP) został opracowany na podstawie ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.). Zgodnie z nią WPFP przedstawia wstępną prognozę podstawowych wielkości makroekonomicznych i stanowi podstawę przygotowania projektu ustawy budżetowej na kolejny rok budżetowy. Ponadto WPFP m.in. określa cele głównych funkcji państwa wraz z miernikami stopnia ich realizacji.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "WPFP nie zawiera już aktualizacji Programu konwergencji, ponieważ odpowiednie przepisy UE stanowiące podstawę do jego opracowania przestały obowiązywać w kwietniu br."
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ I",
+     "text": ""
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "2 Spis treści"
+    },
+    {
+     "type": "text",
+     "text": "Strona"
+    },
+    {
+     "type": "text",
+     "text": "Podsumowanie 4"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Ocena bieżącej sytuacji gospodarczej i prognoza 5"
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Wynik i dług sektora instytucji rządowych i samorządowych 8"
+    },
+    {
+     "type": "text",
+     "text": "II.1. Zmiany zarządzania gospodarczego w UE 8"
+    },
+    {
+     "type": "text",
+     "text": "II.2. Wynik nominalny sektora instytucji rządowych i samorządowych 10"
+    },
+    {
+     "type": "text",
+     "text": "II.3. Dług sektora instytucji rządowych i samorządowych 13"
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Krajowe ramy budżetowe – planowane zmiany 15"
+    },
+    {
+     "type": "text",
+     "text": "Aneks tabelaryczny 18"
+    },
+    {
+     "type": "text",
+     "text": "Spis wykresów"
+    },
+    {
+     "type": "text",
+     "text": "Strona"
+    },
+    {
+     "type": "text",
+     "text": "Wykres 1. Luka VAT (w %) oraz tzw. compliance effect (w mld zł) 13"
+    },
+    {
+     "type": "text",
+     "text": "Spis tabel"
+    },
+    {
+     "type": "text",
+     "text": "Strona"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 1. Wzrost gospodarczy – kluczowe elementy prognozy 7"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 2. Rządowe wsparcie osłonowe w związku ze wzrostem cen energii (według metodyki unijnej) 11"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 3. Sektor instytucji rządowych i samorządowych – kluczowe elementy prognozy 12"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 4. Dług sektora instytucji rządowych i samorządowych (koniec roku) 13"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 5. Wzrost gospodarczy 18"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 6. Procesy inflacyjne 18"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 7. Rynek pracy 19"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 8. Sektor instytucji rządowych i samorządowych 19"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 9. Instrument na rzecz Odbudowy i Zwiększania Odporności 20"
+    },
+    {
+     "type": "text",
+     "text": "Spis ramek"
+    },
+    {
+     "type": "text",
+     "text": "Strona"
+    },
+    {
+     "type": "text",
+     "text": "Ramka 1. Zarządzanie gospodarcze w UE – postanowienia kluczowe dla Polski 8 Podsumowanie"
+    },
+    {
+     "type": "text",
+     "text": "Część pierwsza WPFP przedstawia średniookresową prognozę sytuacji gospodarczej Polski i jej finansów publicznych do 2027 r. Scenariusz makrofiskalny na lata 2024-2027 wykorzystuje dane dostępne do dnia 22 kwietnia br."
+    },
+    {
+     "type": "text",
+     "text": "Z końcem kwietnia br. zaczęły obowiązywać przepisy UE uchylające obowiązek opracowywania programów stabilności lub konwergencji. Wszystkie państwa członkowskie zostały natomiast zobowiązane do opracowania jeszcze w tym roku średniookresowych planów budżetowych i strukturalnych, które będą mieć zasadnicze znaczenie dla koordynacji polityk gospodarczych państw UE."
+    },
+    {
+     "type": "text",
+     "text": "W 2024 r. oczekiwane jest przyspieszenie wzrostu realnego PKB do 3,1 % (wobec 0,2 % rok wcześniej). W kolejnych latach, m.in. dzięki stale malejącej inflacji oraz inwestycjom podejmowanym w ramach Krajowego Planu Odbudowy i Zwiększania Odporności, wzrost gospodarczy w Polsce utrzyma się na poziomie średnio ponad 3 %."
+    },
+    {
+     "type": "text",
+     "text": "Deficyt sektora instytucji rządowych i samorządowych wzrósł w 2023 r. do 5,1 % PKB. Przyczyniły się do tego zwiększone wydatki obronne, środki zastosowane w celu złagodzenia skutków wysokich cen energii oraz pomoc dla osób uciekających z Ukrainy po inwazji Rosji. W roku bieżącym oczekuje się utrzymania się deficytu powyżej 3 % PKB. Od 2025 r. zakładane jest jego stopniowe zmniejszanie, średnio o 0,5 % PKB w ujęciu strukturalnym rocznie. Mimo to, z powodu wydatków militarnych, bez dodatkowych działań konsolidacyjnych dług sektora przekroczyłby w 2026 r. 60 % PKB. Aby zapobiec tej sytuacji, rząd przedstawi na jesieni tego roku strategię konsolidacji w ramach planu budżetowo-strukturalnego wymaganego nowymi zasadami zarządzania gospodarczego UE. W efekcie jej realizacji dług sektora nie przekroczy 60 % PKB."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Ocena bieżącej sytuacji gospodarczej i prognoza"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Ocena bieżącej sytuacji gospodarczej i prognoza"
+    },
+    {
+     "type": "text",
+     "text": "Otoczenie zewnętrzne"
+    },
+    {
+     "type": "text",
+     "text": "Po wyraźnym pogorszeniu dynamiki aktywności gospodarczej na polskich głównych rynkach eksportowych przewidywana jest jej stopniowa poprawa w 2024 r. Według prognozy Komisji Europejskiej z lutego br. (European Economic Forecast, Winter 2024), wzrost PKB w Unii Europejskiej (UE) w 2024 r. przyspieszy do 0,9 % wobec 0,5 % w roku ubiegłym. Spodziewane ożywienie aktywności w UE to w dużej mierze efekt prognozowanej wyższej dynamiki konsumpcji prywatnej, w warunkach dobrej sytuacji na rynku pracy i wyraźnie niższej inflacji."
+    },
+    {
+     "type": "text",
+     "text": "Produkt Krajowy Brutto"
+    },
+    {
+     "type": "text",
+     "text": "W 2023 r. tempo wzrostu realnego PKB wyniosło 0,2 %. Główną przyczyną spowolnienia gospodarczego było znaczne osłabienie dynamiki spożycia prywatnego wywołane inflacją i związanymi z nią konsekwencjami, czyli czasowym spadkiem płac realnych i zaostrzeniem polityki pieniężnej. Drugim czynnikiem był wyraźnie ujemny wkład zmiany zapasów do PKB. Natomiast w 2024 r. przewidujemy, że nastąpi ożywienie gospodarcze – wzrost PKB przyspieszy do 3,1 %. Wpływ na to będzie miała spadająca inflacja (w ujęciu całorocznym), powrót do wyraźnie dodatniej dynamiki płac realnych wspieranej przez podwyżki płacy minimalnej oraz wynagrodzeń w sektorze publicznym. Czynnikami dodatkowo pobudzającymi wzrost PKB będą rozpoczęte realizacje inwestycji w ramach Krajowego Planu Odbudowy i Zwiększania Odporności (KPO). Inwestycje te będą znacząco stymulować gospodarkę również w 2025 r. Oczekuje się, że PKB zwiększy się wtedy o 3,7 % i będzie to rok najszybszego tempa wzrostu w horyzoncie prognozy."
+    },
+    {
+     "type": "text",
+     "text": "Analiza podstawowych składników zagregowanego popytu"
+    },
+    {
+     "type": "text",
+     "text": "Po spadku konsumpcji prywatnej w 2023 r. o 1 % w bieżącym roku spodziewamy się wyraźnego wzrostu jej dynamiki. W efekcie przewiduje się, że spożycie prywatne wzrośnie w 2024 r. o 3,5 %, natomiast spożycie ogółem, uwzględniające także wzrost spożycia publicznego, zwiększy się o 3,9 %."
+    },
+    {
+     "type": "text",
+     "text": "Planowany wyraźny wzrost wydatków na obronność oraz rozpoczęcie realizacji projektów z KPO wpłyną na wzrost inwestycji w najbliższych latach. Inwestycjom sprzyjać będzie również mniejszy koszt kapitału i korzystniejsze niż w roku ubiegłym warunki finansowania. Prognozuje się, że inwestycje ogółem zwiększą się o 2,9 % w 2024 r., głównie za sprawą inwestycji publicznych, gdyż tempo wzrostu inwestycji prywatnych znacząco osłabnie w stosunku do wysokich wzrostów odnotowanych w zeszłym roku. Natomiast od 2025 r. spodziewamy się wysokich wzrostów zarówno inwestycji prywatnych, które będą stymulowane poprzez spadający koszt kapitału, utrzymywanie się korzystnej sytuacji gospodarczej i kumulację środków z KPO oraz publicznych, łącznie przekładających się na spodziewany wzrost inwestycji ogółem o 10,2 %. W scenariuszu założono także, że wkład zmiany zapasów we wzrost PKB w br., jak również w kolejnych latach, będzie neutralny."
+    },
+    {
+     "type": "text",
+     "text": "2023 r. charakteryzował się słabą koniunkturą zarówno w Polsce, jak i u jej głównych partnerów handlowych, co przełożyło się na niski wzrost eksportu i spadek importu (odpowiednio o 3,4 % i -2,0 %). Jednak w bieżącym roku spodziewane jest odbicie w handlu zagranicznym. Prognozowany wzrost eksportu wyniesie w 2024 r. 3,7 %, a importu 4,8 %. Ujemny wkład eksportu netto we wzrost PKB będzie wynikał przede wszystkim z wysokiej dynamiki popytu krajowego w Polsce przy umiarkowanym odbiciu dynamiki PKB w strefie euro, której poprawa w kolejnym roku powinna przełożyć się na wzrost eksportu do 5,6 %. Wzrost importu w 2025 r. będzie jednak jeszcze wyraźniejszy (o 7,5 %), co przełoży się na ujemny wkład eksportu netto we wzrost PKB, wynoszący - 0,6 pkt. proc."
+    },
+    {
+     "type": "text",
+     "text": "Rynek pracy"
+    },
+    {
+     "type": "text",
+     "text": "W 2023 r. zharmonizowana stopa bezrobocia BAEL w Polsce utrzymywała się na niskim poziomie 2,8 %. W wyniku procesów demograficznych oraz ujemnego salda migracji podaż pracy spadnie o 0,3 % w 2024 r. oraz o 0,1 % w 2025 r. Liczba pracujących ogółem spadnie natomiast o 0,2 % w 2024 r. oraz wzrośnie o 0,1 % w 2025 r. W efekcie stopa bezrobocia BAEL wyniesie średnio w 2024 r. nieznacznie więcej niż w roku ubiegłym, tj. 2,9 %, a w 2025 r. obniży się do 2,7 %."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Ocena bieżącej sytuacji gospodarczej i prognoza"
+    },
+    {
+     "type": "text",
+     "text": "Oczekuje się, że, podobnie jak w roku ubiegłym, przeciętne zatrudnienie w gospodarce narodowej w 2024 r. wzrośnie o 0,5 % oraz o 0,7 % w 2025 r. W br. oczekiwany jest spadek stopy bezrobocia rejestrowanego do 5,0 % na koniec roku, a w 2025 r. do 4,9 %."
+    },
+    {
+     "type": "text",
+     "text": "Wynagrodzenia"
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z prognozą, wzrost przeciętnego wynagrodzenia w gospodarce narodowej w 2024 r. wyniesie 11,9 %. W ujęciu realnym przeciętne wynagrodzenia wzrosną o 6,4 %, w porównaniu do 0,9 % wzrostu w roku ubiegłym. Wpływ na tak znaczący wzrost mają przede wszystkim podwyżki płacy minimalnej oraz wzrost wynagrodzeń w sektorze publicznym. W 2025 r. wynagrodzenia wzrosną o 7,1 % czyli o 3 pkt. proc. powyżej prognozowanej inflacji."
+    },
+    {
+     "type": "text",
+     "text": "Inflacja"
+    },
+    {
+     "type": "text",
+     "text": "Według prezentowanego scenariusza, w 2024 r. inflacja konsumencka wyniesie 5,2 %, a w 2025 r. 4,1 %. W pierwszej połowie bieżącego roku inflacja pozostanie na niskim poziomie, a następnie spodziewany jest jej wzrost wynikający z odmrożenia cen prądu i gazu dla gospodarstw domowych. W przedstawionej prognozie założono odmrożenie cen, bez uwzględnienia ewentualnych działań osłonowych w tym zakresie."
+    },
+    {
+     "type": "text",
+     "text": "Stopy procentowe i kurs walutowy"
+    },
+    {
+     "type": "text",
+     "text": "W odniesieniu do stóp procentowych NBP prezentowany scenariusz opiera się na oczekiwaniach rynkowych dostępnych w momencie przygotowania prognozy. Według nich na koniec 2024 r. główna stopa procentowa NBP (stopa referencyjna) wyniesie 5,25 %, a na koniec 2027 r. 4,0 %"
+    },
+    {
+     "type": "text",
+     "text": "Na potrzeby prognozy przyjęto założenie techniczne o zamrożeniu kursów walutowych w horyzoncie prognozy – kurs euro w złotych (EUR/PLN) na poziomie 4,34, a kurs dolara amerykańskiego w złotych (USD/PLN) na poziomie 4,02."
+    },
+    {
+     "type": "text",
+     "text": "Lata 2026-2027"
+    },
+    {
+     "type": "text",
+     "text": "W latach 2026-2027 przewidywane tempo wzrostu PKB wyniesie odpowiednio 3,4 % i 3,0 %. Wpływ na to będzie miał popyt krajowy, wspierany przez dalsze wykorzystywanie środków z KPO i wysoką dynamikę inwestycji oraz prognozowane stopniowe wycofywanie się z restrykcyjnej polityki pieniężnej przy wyraźnie niższej inflacji. W horyzoncie prognozy przewiduje się utrzymanie stopniowego spadku inflacji w kierunku celu inflacyjnego NBP. W 2026 r. średnioroczna inflacja wyniesie 3,3 %, a w 2027 r. 2,5 %. Popyt krajowy będzie wspierany przez dalsze wykorzystywanie środków z KPO i wysoką dynamikę inwestycji. Zgodnie z prezentowanym scenariuszem, dynamika PKB pozostanie powyżej dynamiki PKB potencjalnego, co, na końcu horyzontu prognozy, pozwoli na zmniejszenie ujemnej luki PKB. W kontekście rynku pracy lata 2026-2027 powinny przynieść dalszą stabilizację stopy bezrobocia rejestrowanego poniżej 5,0 % i kontynuacji wzrostu przeciętnego zatrudnienia na poziomie 0,7 % i 0,5 % w skali roku."
+    },
+    {
+     "type": "text",
+     "text": "Czynniki ryzyka dla przyjętego scenariusza makroekonomicznego"
+    },
+    {
+     "type": "text",
+     "text": "Głównym czynnikiem ryzyka dla przyjętego scenariusza makroekonomicznego jest koniunktura w otoczeniu zewnętrznym polskiej gospodarki. Prezentowana prognoza zakłada, że wzrost gospodarczy w UE, która jest największym partnerem handlowym Polski, będzie zgodny ze scenariuszem makroekonomicznym opublikowanym przez Komisję Europejską w lutym 2024 r. Komisja Europejska podkreśla jednak, że przedłużające się napięcia geopolityczne przechylają bilans czynników ryzyka w kierunku bardziej niekorzystnych wyników, a utrzymywanie się restrykcyjnych warunków monetarnych może jeszcze bardziej opóźnić ożywienie aktywności gospodarczej, ograniczając inflację."
+    },
+    {
+     "type": "text",
+     "text": "Kolejnym czynnikiem ryzyka dla prognozy jest dalszy przebieg wojny w Ukrainie oraz rozwój sytuacji na Bliskim Wschodzie i ich wpływ na krajową i światową gospodarkę. Pomimo że sytuacja na rynkach surowcowych ustabilizowała się w 2023 r., nadal istnieje ryzyko, że w przypadku intensyfikacji konfliktów wpłynie ona ponownie na wzrost cen krajowych. Dodatkowo, w sytuacji nagłego zakończenia wojny część uchodźców i migrantów przedwojennych z Ukrainy pracujących w Polsce i łagodzących spadek podaży pracy wynikający z przyczyn demograficznych może w krótkim czasie zdecydować się na powrót do kraju pochodzenia. Nie pozostałoby to bez wpływu na polski rynek pracy."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Ocena bieżącej sytuacji gospodarczej i prognoza"
+    },
+    {
+     "type": "text",
+     "text": "Czynnikiem ryzyka dla scenariusza bazowego jest też termin i stopień realizacji projektów z KPO, który przewiduje wykorzystanie środków z unijnego Instrumentu na rzecz Odbudowy i Zwiększania Odporności w wysokości 59,8 mld euro."
+    },
+    {
+     "type": "text",
+     "text": "Wpływ Krajowego Planu Odbudowy i Zwiększania Odporności"
+    },
+    {
+     "type": "text",
+     "text": "Prezentowany scenariusz makroekonomiczny uwzględnia realizację projektów z KPO, który przewiduje wykorzystanie środków z części grantowej oraz pożyczkowej unijnego Instrumentu na rzecz Odbudowy i Zwiększania Odporności. Beneficjentami środków będą sektor rządowy i prywatny, a środki te zostaną wykorzystane na wydatki bieżące i majątkowe. W zależności od typu sektora oraz wydatków zakładamy wpływ środków z KPO na inwestycje publiczne oraz prywatne, zużycie pośrednie sektora instytucji rządowych i samorządowych oraz dochód mieszany."
+    },
+    {
+     "type": "text",
+     "text": "W 2026 r., czyli ostatnim planowym roku wydatkowania środków z KPO, PKB Polski będzie wyższy o 1,6 % (szacunki Komisji Europejskiej, porównanie do scenariusza bez KPO). W hipotetycznej sytuacji braku realizacji KPO dynamika PKB w kolejnych latach stopniowo rosłaby (m.in. dzięki poprawie nastrojów konsumenckich i dochodu do dyspozycji gospodarstw domowych, spadającemu kosztowi kapitału), jednak w wyraźnie niższym tempie niż w przypadku wzrostu wspieranego przez realizację inwestycji z KPO."
+    },
+    {
+     "type": "text",
+     "text": "Tabela 1. Wzrost gospodarczy – kluczowe elementy prognozy"
+    },
+    {
+     "type": "text",
+     "text": "2023 2024 2025 2026 2027"
+    },
+    {
+     "type": "text",
+     "text": "PKB w ujęciu realnym, wzrost w % 0,2 3,1 3,7 3,4 3,0"
+    },
+    {
+     "type": "text",
+     "text": "Nakłady brutto na środki trwałe, wzrost w % 13,1 2,9 10,2 6,7 4,6"
+    },
+    {
+     "type": "text",
+     "text": "Stopa bezrobocia, w % 5,1 5,0 4,9 4,9 4,9"
+    },
+    {
+     "type": "text",
+     "text": "Średnioroczny wzrost cen towarów i usług 11,4 5,2 4,1 3,3 2,5 konsumpcyjnych, w %"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: Ministerstwo Finansów."
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Wynik i dług sektora instytucji rządowych i samorządowych"
+    },
+    {
+     "type": "text",
+     "text": "II. Wynik i dług sektora instytucji rządowych i samorządowych"
+    },
+    {
+     "type": "text",
+     "text": "II.1. Zmiany zarządzania gospodarczego w UE"
+    },
+    {
+     "type": "text",
+     "text": "Od 2024 r., po kilkuletniej przerwie wywołanej pandemią i przedłużonej wskutek ataku Rosji na Ukrainę, ponownie obowiązują unijne reguły budżetowe. Z końcem kwietnia weszła jednak w życie reforma zarządzania gospodarczego (tj. nadzoru finansów publicznych państw członkowskich i koordynacji ich polityk gospodarczych). Ma ona wesprzeć państwa członkowskie we wzmocnieniu stabilności finansów publicznych, tworzeniu warunków sprzyjających wysokiemu i zrównoważonemu wzrostowi gospodarczemu i zwiększeniu odporności gospodarki UE."
+    },
+    {
+     "type": "text",
+     "text": "Najbardziej znane z reguł (próg 3 % PKB dla deficytu oraz 60 % PKB dla długu) pozostały bez zmian, lecz prawo UE nie przewiduje już np. przygotowania przez państwa członkowskie programów stabilności i konwergencji. W efekcie w Polsce konieczna będzie zmiana przepisów dotyczących Wieloletniego Planu Finansowego Państwa (nowelizacja ustawy o finansach publicznych), usuwająca odwołania do Programu konwergencji."
+    },
+    {
+     "type": "text",
+     "text": "Wszystkie państwa członkowskie zostały natomiast zobowiązane opracować na jesieni tego roku średniookresowe plany budżetowo-strukturalne. Najważniejszy element planów stanowić będą ścieżki wydatków, wiążące na okres co najmniej 4 lat (por. ramka 1). Niektóre elementy reformy nie zostały doprecyzowane w przepisach UE i będą w najbliższych tygodniach podlegać dalszym pracom państw UE i Komisji Europejskiej."
+    },
+    {
+     "type": "text",
+     "text": "Ramka 1. Zarządzanie gospodarcze w UE – postanowienia kluczowe dla Polski"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Do 20 września br. kraje UE prześlą do instytucji UE nowe średniookresowe plany budżetowo-strukturalne. Przepisy przejściowe UE dopuszczają przesunięcie tego terminu o „rozsądny okres” i Polska planuje przekazać swój plan w uzgodnionym z Komisją Europejską terminie, który pozwoli zapewnić spójność między planem a projektem ustawy budżetowej na rok 2025. Plany zastąpią programy stabilności i konwergencji oraz Krajowe Programy Reform.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Komisja Europejska do 21 czerwca br. przekaże państwom członkowskim z deficytem lub długiem powyżej wartości referencyjnych trajektorie wydatków sektora instytucji rządowych i samorządowych na 4 (i 7) następne lata. Zostaną one oszacowane z wykorzystaniem analizy stabilności zadłużenia w średnim okresie (Debt Sustainability Analysis, DSA)¹, co ma zagwarantować różnicowanie wymogów wobec poszczególnych krajów. Referencyjne trajektorie spełnią następujące warunki:",
+     "children": [
+      {
+       "type": "text",
+       "text": "- prognozowany przez Komisję Europejską dług pozostanie, dzięki przestrzeganiu tej trajektorii, poniżej 60 % PKB albo znajdzie się w tendencji spadkowej w horyzoncie 10 lat po okresie dostosowania"
+      },
+      {
+       "type": "text",
+       "text": "- prognozowany przez Komisję Europejską deficyt nominalny na koniec okresu dostosowania będzie, dzięki przestrzeganiu tej trajektorii i bez zmian polityki budżetowej, niższy niż 3 % PKB i utrzyma się poniżej tego progu w horyzoncie 10 lat po tym okresie"
+      },
+      {
+       "type": "text",
+       "text": "- wysiłek fiskalny w całym planie będzie proporcjonalny"
+      },
+      {
+       "type": "text",
+       "text": "- coroczny średni spadek długu w okresie planu wyniesie minimum 1 % PKB w państwach z długiem ponad 90 % PKB albo 0,5 % PKB w krajach z długiem ponad 60 % PKB, lecz nieprzekraczającym 90 % PKB (w przypadku krajów w procedurze nadmiernego deficytu – warunek stosuje się po wyjściu z procedury) II. Wynik i dług sektora instytucji rządowych i samorządowych"
+      },
+      {
+       "type": "text",
+       "text": "- minimalny wysiłek strukturalny wyniesie 0,5 % PKB do momentu zakończenia procedury nadmiernego deficytu"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Państwa członkowskie zaprezentują w nowych planach swoje szacunki wydatków – jeśli będą odbiegać od trajektorii referencyjnych Komisji Europejskiej, należy to uzasadnić. Rada Ecofin po ocenie planów dokonanej przez Komisję Europejskiej zarekomenduje państwom członkowskim ścieżki wydatków wiążące dla co najmniej 4 kolejnych ustaw budżetowych.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Rekomendowane przez Radę Ecofin ścieżki wydatków netto będą obejmować wszystkie wydatki sektora z wyłączeniem takich samych kategorii jak dotychczas (tj. bez kosztów obsługi długu, skutku działań dyskrecjonalnych po stronie dochodowej, części cyklicznej zasiłków dla bezrobotnych, działań jednorazowych i tymczasowych, wydatków na programy UE całkowicie równoważonych dochodami z funduszy UE) oraz krajowego współfinansowania funduszy UE .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Nadzór finansów publicznych państw UE bazować będzie wyłącznie na ocenie przestrzegania ścieżki wydatków. Ścieżka korygująca deficyt zalecana przez Radę podczas procedury nadmiernego deficytu nie powinna być mniej ambitna niż ścieżka wydatków rekomendowana przez nią po ocenie planów średniookresowych. W konsekwencji redukcja nadmiernego deficytu będzie mogła być rozłożona na co najmniej 4 lata . Wysiłek fiskalny nie powinien być jednak odkładany na koniec planu, chyba że dany kraj realizuje projekty Krajowego Planu Odbudowy i Zwiększania Odporności finansowane pożyczkami lub ponosi ciężar współfinansowania funduszy UE w okresie 2025-26.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Wzrost inwestycji w obronność będzie jednym z istotnych czynników w procedurze nadmiernego deficytu, czyli będzie uwzględniany w ocenie sytuacji budżetowej danego państwa. Oznacza to, że przy inicjowaniu procedury nadmiernego deficytu Komisja Europejska będzie analizować wpływ wzrostu inwestycji publicznych w obronę narodową w danym kraju na przekroczenie przez deficyt sektora instytucji rządowych i samorządowych progu 3 % PKB. Jeśli przekroczenie tego progu wynikałoby tylko ze wzrostu inwestycji w obronność, dane państwo nie musiałoby korygować deficytu do poniżej 3 % PKB. Przepisy UE dotyczące roli wydatków obronnych w procedurze nadmiernego deficytu mówią o wzroście inwestycji publicznych powyżej „średniej UE” oraz „trendów średniookresowych”. Ponieważ jest to nowe rozwiązanie, nie ma interpretacji tych pojęć ze strony Komisji Europejskiej.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Zarówno dotychczasowe, jak i nowe przepisy UE dopuszczają specjalne traktowanie wszystkich wydatków na obronę w procedurze nadmiernego deficytu. Wymagają one bowiem zwrócenia przez UE „szczególnej uwagi\" na „ wkład finansowy we wspieranie solidarności międzynarodowej i osiąganie celów polityki UE\". W ocenie Polski wydatki obronne w krajach członkowskich to przejaw odpowiedzialności tych państw za bezpieczeństwo całej UE, czyli właśnie „wkład finansowy we wspieranie solidarności międzynarodowej i osiąganie celów polityki UE”.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Państwo członkowskie może zaproponować w planie średniookresowym wydłużenie okresu dostosowawczego (tj. okresu redukcji deficytu lub długu) z 4 do 7 lat pod warunkiem zobowiązania się do realizacji reform i inwestycji wspierających zrównoważony wzrost, stabilność długu i realizację priorytetów UE. Opis reform i inwestycji musi zawierać wskaźniki umożliwiające ocenę ich realizacji. Reformy muszą zostać zakończone w ciągu 4 lat obowiązywania planu, a znaczny postęp w realizacji inwestycji musi zostać osiągnięty w wydłużonym (maksymalnie 7-letnim) okresie dostosowawczym. Pakiet reform i inwestycji powinien być spójny ze zobowiązaniami zawartymi w KPO oraz w Umowie Partnerstwa na podstawie Wieloletnich Ram Finansowych. Jednocześnie działania podjęte w związku z KPO powinny być kontynuowane w okresie obowiązywania planu. Wydłużenie okresu dostosowawczego wiąże się też z obowiązkiem realizacji wszystkich istotnych zaleceń UE wydanych wobec danego kraju.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "Rada Ecofin może się zgodzić na nieprzestrzeganie przez dany kraj zaleconej ścieżki wydatków, jeśli wskaże on wyjątkowe i niezależne od niego okoliczności pogarszające stan finansów publicznych.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "Po zakończeniu procedury nadmiernego deficytu państwa powinny co roku redukować deficyt strukturalny w tempie 0,25-0,4 % PKB rocznie, aż osiągnie on 1,5 % PKB. Dane państwo może przed opracowaniem średniookresowego planu uzyskać od Komisji Europejskiej informacje techniczne dotyczące strukturalnego wyniku pierwotnego, który jest niezbędny do utrzymania deficytu II. Wynik i dług sektora instytucji rządowych i samorządowych",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "nominalnego poniżej 3 % PKB, jak również spójne ze wspomnianym wymogiem obniżania deficytu strukturalnego. Ścieżka wydatków w planie średniookresowym będzie oceniana pod kątem zgodności z informacją techniczną tylko pod warunkiem zwrócenia się o nią do Komisji."
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "pkt_11",
+     "text": "Państwa członkowskie będą co roku do 30 kwietnia przedkładać Komisji Europejskiej sprawozdania z wdrażania planów średniookresowych. Obejmą one realizację ścieżki wydatków netto, reform i inwestycji oraz, w stosownych przypadkach, zestawu reform i inwestycji stanowiących podstawę wydłużenia okresu dostosowawczego. Jeżeli państwo korzystało z wydłużenia okresu dostosowawczego, ale nie wywiązało się w zadowalający sposób ze zobowiązań do reform i inwestycji, Rada Ecofin będzie mogła zalecić skorygowaną ścieżkę wydatków netto z krótszym okresem dostosowawczym.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "Wszystkie państwa członkowskie powinny ustanowić niezależną radę fiskalną do końca 2025 r . Jej główne zadania to przygotowanie, opiniowanie lub akceptowanie prognoz makroekonomicznych oraz analiza przestrzegania krajowych reguł budżetowych spójnych z regułami UE. Polska jest jedynym krajem UE bez takiej instytucji, obecnie we współpracy z Bankiem Światowym przygotowuje się do jej utworzenia (por. rozdział III).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Źródło: Ministerstwo Finansów na podstawie projektu rozporządzenia Rady i Parlamentu Europejskiego w sprawie skutecznej koordynacji polityk gospodarczych i wielostronnego nadzoru budżetowego (wersja kompromisowa z 20 lutego br., opublikowana w Bazie aktów prawnych UE, projektu rozporządzenia Rady nowelizującego rozporządzenie 1467/97 (wersja z 20 grudnia ub.r., opublikowana na stronie Rady UE i projektu dyrektywy Rady zmieniającej dyrektywę 2011/85/UE o wymogach dla ram budżetowych państw członkowskich (wersja z 20 grudnia ub.r., opublikowana na stronie Rady UE."
+      },
+      {
+       "type": "text",
+       "text": "II.2. Wynik nominalny sektora instytucji rządowych i samorządowych"
+      },
+      {
+       "type": "text",
+       "text": "Komisja Europejska zapowiedziała publikację 19 czerwca raportów otwierających procedurę nadmiernego deficytu wobec państw członkowskich w oparciu o dane o deficycie w 2023 r. Komisja zaprezentuje prognozy, dane historyczne i oceni charakter przekroczenia przez deficyt nominalny progu 3 % PKB - czy było ono wyjątkowe i tymczasowe (a jeśli w obu przypadkach tak, czy deficyt pozostał bliski 3 % PKB). Oceni też, czy przekroczenie wartości referencyjnej wynikało z innych istotnych czynników."
+      },
+      {
+       "type": "text",
+       "text": "Deficyt sektora instytucji rządowych i samorządowych (zgodnie z metodyką unijną ESA2010) wyniósł w 2023 r. 5,1 % PKB, co oznacza pogorszenie wyniku sektora o 1,7 pkt. proc. PKB r/r (w 2022 r. deficyt ukształtował się na poziomie 3,4 % PKB). Zwiększenie deficytu w 2023 r. w porównaniu do 2022 r. było skutkiem m.in. znaczącego zwiększenia nakładów na modernizację sił zbrojnych (ustawa o obronie Ojczyzny) oraz działań osłonowych łagodzących skutki wzrostu cen energii, wspierających gospodarstwa domowe, podmioty wrażliwe i przedsiębiorstwa w ramach Tarcz: antyinflacyjnej, energetycznej i solidarnościowej."
+      },
+      {
+       "type": "text",
+       "text": "W ubiegłym roku kontynuowane były działania nakierowane na pomoc i wsparcie obywatelom Ukrainy, finansowane przede wszystkim przez Fundusz Pomocy utworzony na mocy ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa. Ze środków Funduszu finansowane były przede wszystkim zadania realizowane i koordynowane przez ministra właściwego do spraw wewnętrznych, świadczenia społeczne przyznane obywatelom Ukrainy przebywającym legalnie na terenie RP czy środki na sfinansowanie świadczeń opieki zdrowotnej (do Narodowego Funduszu Zdrowia) oraz środki wspierające jednostki samorządu terytorialnego w sferze wychowania przedszkolnego, szkół i placówek oraz dowożenia uczniów."
+      },
+      {
+       "type": "text",
+       "text": "W 2023 r. przekroczenie przez deficyt progu 3 % PKB miało więc w Polsce charakter wyjątkowy: przyczyniły się do niego wysokie wydatki obronne, środki zastosowane w celu złagodzenia gospodarczych i społecznych skutków wysokich cen energii oraz zapewnienia pomocy humanitarnej dla osób uciekających z Ukrainy po inwazji Rosji."
+      },
+      {
+       "type": "text",
+       "text": "Równocześnie w 2023 r. nastąpiło znaczne przyspieszenie dynamiki inwestycji publicznych (wzrost nominalny o 45,6 % r/r), które w relacji do PKB osiągnęły poziom 5,0 %. Na wzrost inwestycji główny wpływ miał znaczący wzrost wydatków militarnych, efekt realizacji programów nakierowanych na II. Wynik i dług sektora instytucji rządowych i samorządowych"
+      },
+      {
+       "type": "text",
+       "text": "modernizację sił zbrojnych oraz dwucyfrowy wzrost inwestycji w podsektorze samorządowym (nominalnie o ok. 42 % r/r), wynikający m.in. z cyklu wyborczego."
+      },
+      {
+       "type": "text",
+       "text": "Lata 2024-2027"
+      },
+      {
+       "type": "text",
+       "text": "W roku bieżącym oczekuje się utrzymania się deficytu nominalnego na poziomie z roku ubiegłego. Istotnym czynnikiem, który będzie oddziaływać na deficyt, będą działania osłonowe ograniczające skutki wzrostu cen nośników energii dla gospodarstw domowych i firm wprowadzone w latach 2022 i 2023, a zgodnie z ustawą z dnia 7 grudnia 2023 r. o zmianie ustawy o wsparciu odbiorców energii elektrycznej, paliw gazowych i ciepła przedłużone do końca czerwca 2024 r. (por. tabela 2). W kolejnych latach oczekiwane jest wygaszanie działań osłonowych."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Rządowe wsparcie osłonowe w związku ze wzrostem cen energii (według metodyki unijnej)"
+      },
+      {
+       "type": "text",
+       "text": "2023 2024 Działanie % PKB % PKB"
+      },
+      {
+       "type": "text",
+       "text": "Dochody 0,9 0,4"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wpływy z odpisu gazowego i elektrycznego 0,9 0,0",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Składka solidarnościowa 0,0 0,0",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Składka gazowa 0,0 0,4",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wydatki związane z działaniami osłonowymi 1,5 0,8"
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie osłonowe łącznie (efekt netto) -0,6 -0,4"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: Ministerstwo Finansów na podstawie informacji pozyskanych z BGK i Zarządcy Rozliczeń SA."
+      },
+      {
+       "type": "text",
+       "text": "W prognozie uwzględniono kontynuowanie polityki prorodzinnej, senioralnej, a także zwiększenie środków na finansowanie tych programów socjalnych, np. podwyższenie wysokości świadczenia wychowawczego wynikającego z ustawy o pomocy państwa w wychowywaniu dzieci (program Rodzina 500 plus) z kwoty 500 zł na 800 zł, wypłatę 14. emerytury (od 2023 r. świadczenie to ma charakter stały, w stosunku do 2023 r. przewidziano standardową wysokość świadczenia w porównaniu do przedwyborczej, jednorazowo wyższej). Prognoza uwzględnia również wydatki przewidziane w ustawie budżetowej na 2024 r. m.in. na podwyżki wynagrodzeń dla nauczycieli (30 %) i wzrost wynagrodzeń dla pozostałej sfery budżetowej (20 %), finansowanie programu „Aktywny rodzic”, tj. finansowego wsparcia rodziców wracających na rynek pracy po urodzeniu dziecka, a także procedury in vitro."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto zgodnie z ustawą o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych wskaźnik minimalnych nakładów na finansowanie ochrony zdrowia (% PKB) będzie stopniowo ulegał podwyższeniu z 6,0 % w 2023 r. do 6,2 % w 2024 r. 6,5 % w 2025 r., 6,8 % w 2026 r., aż do osiągnięcia poziomu 7 % PKB w 2027 r."
+      },
+      {
+       "type": "text",
+       "text": "Bardzo ważnym czynnikiem wpływającym na ścieżkę fiskalną będą wydatki na obronność. Utrzymująca się napięta sytuacja geopolityczna związana z wojną na Ukrainie powoduje, że w kolejnych latach zakładane jest utrzymanie się wysokiego poziomu tych wydatków,. Przewiduje się, że w 2024 r. i latach kolejnych kontynuowany będzie wzrost inwestycji sektora instytucji rządowych i samorządowych , które w 2027 r. osiągną poziom ok. 5,6 % PKB. Poziom inwestycji sektora będzie kształtowany nie tylko przez programy mające na celu modernizację sił zbrojnych, ale i wieloletnie programy rządowe z obszaru infrastruktury finansowane m.in. z unijnych wieloletnich ram finansowych na lata 2021-2027 oraz unijnego Instrumentu na rzecz Odbudowy i Zwiększania Odporności."
+      },
+      {
+       "type": "text",
+       "text": "W odniesieniu do dochodów sektora instytucji rządowych i samorządowych założono utrzymanie aktualnych przepisów determinujących kształt systemu podatkowego oraz obciążeń wynikających z systemu ubezpieczeń społecznych i ubezpieczenia zdrowotnego."
+      },
+      {
+       "type": "text",
+       "text": "Prognoza deficytu nominalnego od 2025 r. (por. tabela 3) została opracowana przy założeniu redukcji deficytu strukturalnego średnio o 0,5 % PKB rocznie."
+      },
+      {
+       "type": "text",
+       "text": "II. Wynik i dług sektora instytucji rządowych i samorządowych"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Sektor instytucji rządowych i samorządowych – kluczowe elementy prognozy"
+      },
+      {
+       "type": "text",
+       "text": "% PKB 2023 2024 2025 2026 2027"
+      },
+      {
+       "type": "text",
+       "text": "Wynik nominalny -5,1 -5,1 -4,4 -3,8 -3,3"
+      },
+      {
+       "type": "text",
+       "text": "- dochody 41,6 43,7 43,3 43,0 42,7"
+      },
+      {
+       "type": "text",
+       "text": "- wydatki 46,7 48,9 47,7 46,8 46,0"
+      },
+      {
+       "type": "text",
+       "text": "Dług brutto 49,6 53,4 57,3 60,5 61,3"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: GUS, Ministerstwo Finansów."
+      },
+      {
+       "type": "text",
+       "text": "Poziom dochodów i wydatków sektora w 2023 r. oraz prognoza na lata 2024-2027 według głównych transakcji (w relacji do PKB) zostały zaprezentowane w aneksie tabelarycznym."
+      },
+      {
+       "type": "text",
+       "text": "Luka VAT"
+      },
+      {
+       "type": "text",
+       "text": "Najnowsze szacunki dotyczące luki VAT w Polsce wskazują na jej powiększenie w latach 2022-2023. Dla oszacowania luki zastosowano metodę odgórną (ang. top down), która wykorzystuje dane makroekonomiczne na temat bazy podatku VAT (konsumpcję prywatną, zużycie pośrednie, inwestycje sektora instytucji rządowych i samorządowych). Według wstępnych szacunków Ministerstwa Finansów² luka VAT uległa w 2023 r. zwiększeniu (o 8,5 pkt. proc.) i wynosiła około 15,8 % potencjalnych wpływów (por. wykres 1)."
+      },
+      {
+       "type": "text",
+       "text": "Dotychczasowe szacunki luki VAT w krajach UE (ostatnie dostępne za 2021 r.) wskazywały, że luka VAT w Polsce była znacznie poniżej średniej unijnej. Jednak wstępny szacunek luki VAT za 2023 r. wskazuje na wyraźny wzrost luki VAT w Polsce."
+      },
+      {
+       "type": "text",
+       "text": "Przy ocenie zmian szacunków luki VAT dla lat 2022–2023 należy uwzględnić szereg czynników, które mogły w sposób negatywny wpłynąć na sam szacunek luki i jego dokładność. Szacunek luki VAT uwzględnia wprowadzenie Tarczy antyinflacyjnej, tj. czasowego obniżenia stawek VAT oraz akcyzy na wybrane towary i jej wpływ na wielkość teoretycznych wpływów z VAT (VTTL). Jednak wydarzenia z lat 2020-2022, tj. pandemia, wojna w Ukrainie i związany z nią napływ ludności, a także sama Tarcza antyinflacyjna mogły spowodować zmiany w strukturze spożycia prywatnego. Na kształt prognozowanej na lata 2022-2023 bazy VAT może w istotny sposób wpływać wykorzystanie danych GUS o strukturze spożycia sprzed 2022 r."
+      },
+      {
+       "type": "text",
+       "text": "Wskazane wyżej czynniki mogą spowodować potencjalnie istotne różnice w szacunkach luki VAT dla okresu 2021-2023, które będą dokonywane w latach następnych, z wykorzystaniem ciągle aktualizowanych danych GUS."
+      },
+      {
+       "type": "text",
+       "text": "II. Wynik i dług sektora instytucji rządowych i samorządowych"
+      },
+      {
+       "type": "text",
+       "text": "Wykres 1. Luka VAT (w %) oraz tzw. compliance effect (w mld zł)"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 15 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Źródło: oszacowania Ministerstwa Finansów (luka VAT i compliance effect). Dane nt. średniej luki w UE - raport CASE dla Komisji Europejskiej VAT Gap in the EU. Report 2023."
+      },
+      {
+       "type": "text",
+       "text": "W związku z pojawieniem się nowszych danych makroekonomicznych zaktualizowano szacunki luki VAT dotyczące lat 2020-2022. Obecny szacunek luki VAT w 2022 r. jest wyższy niż przedstawiony w roku ubiegłym w Programie konwergencji. Jest to głównie spowodowane aktualizacją danych na podstawie szczegółowych danych GUS dotyczących bazy VAT za rok 2020. W ubiegłorocznych szacunkach najnowsze dostępne GUS dane dotyczyły 2019 r."
+      },
+      {
+       "type": "text",
+       "text": "II.3. Dług sektora instytucji rządowych i samorządowych Dług sektora instytucji rządowych i samorządowych w relacji do PKB wyniósł w 2023 r. 49,6 % wobec 49,2 % w 2022 r., tj. wzrósł o 0,4 pkt. proc. Wzrost relacji wynikał głównie z przyrostu długu Skarbu Państwa i funduszy umiejscowionych w BGK oraz kształtowania się PKB."
+      },
+      {
+       "type": "text",
+       "text": "Zarządzanie długiem w kolejnych latach będzie ukierunkowane na realizację celu określonego w Strategii zarządzania długiem sektora finansów publicznych, tj. na minimalizację kosztów obsługi długu w długim horyzoncie przy przyjętych ograniczeniach dotyczących ryzyka. Zarządzanie długiem będzie odbywało się w warunkach występowania deficytu pierwotnego sektora instytucji rządowych i samorządowych oraz przy założeniu redukcji od 2025 r. deficytu strukturalnego średnio o 0,5 % PKB rocznie."
+      },
+      {
+       "type": "text",
+       "text": "Zmiany relacji długu do PKB będą przede wszystkim konsekwencją kształtowania się potrzeb pożyczkowych budżetu państwa i funduszy powołanych w Banku Gospodarstwa Krajowego, przede wszystkim Funduszu Wsparcia Sił Zbrojnych, oraz tempa wzrostu nominalnego PKB."
+      },
+      {
+       "type": "text",
+       "text": "Przewiduje się, że w przypadku niepodjęcia dodatkowych działań konsolidacyjnych relacja długu publicznego do PKB według definicji UE wzrośnie - głównie za sprawą skokowo zwiększonych nakładów na obronność - do 53,4 % w 2024 r., a następnie dalej będzie rosnąć, osiągając poziom 61,3 % na koniec 2027 r. Wartość referencyjna długu na poziomie 60 % PKB określona w Traktacie o funkcjonowaniu UE zostanie przekroczona w 2026 r. Aby zapobiec tej sytuacji, rząd przedstawi na jesieni tego roku strategię konsolidacji w ramach planu budżetowo-strukturalnego wymaganego nowymi zasadami zarządzania gospodarczego UE. W efekcie jej realizacji dług sektora nie przekroczy 60 % PKB."
+      },
+      {
+       "type": "text",
+       "text": "II. Wynik i dług sektora instytucji rządowych i samorządowych"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 4. Dług sektora instytucji rządowych i samorządowych (koniec roku)"
+      },
+      {
+       "type": "text",
+       "text": "% PKB Kod 2023 2024 2025 2026 2027 ESA"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dług brutto 49,6 53,4 57,3 60,5 61,3",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zmiana relacji długu brutto 0,4 3,8 3,9 3,2 0,8",
+     "children": [
+      {
+       "type": "text",
+       "text": "Składniki wzrostu długu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wynik pierwotny* 3,0 2,9 2,0 1,3 0,9",
+     "children": [
+      {
+       "type": "text",
+       "text": "EDP 2,1 2,2 2,4 2,4 2,5 4. Odsetki D.41"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Dostosowania stanów -4,7 -1,3 -0,5 -0,5 -2,6 i przepływów",
+     "children": [
+      {
+       "type": "text",
+       "text": "Źródło: Ministerstwo Finansów. * Wpływ wyniku pierwotnego na dług: (-) oznacza nadwyżkę pierwotną."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "14 III. Krajowe ramy budżetowe – planowane zmiany"
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Krajowe ramy budżetowe – planowane zmiany"
+    },
+    {
+     "type": "text",
+     "text": "Krajowe ramy budżetowe przechodzą proces dostosowywania do zobowiązań zawartych w KPO, a tym samym zwiększania transparentności i efektywności zarządzania finansami publicznymi. W związku z KPO Polska realizuje dwa kamienie milowe dotyczące Stabilizującej Reguły Wydatkowej (SRW)."
+    },
+    {
+     "type": "text",
+     "text": "Kamień milowy A3G - Wejście w życie nowelizacji ustawy o finansach publicznych rozszerzającej zakres stabilizującej reguły wydatkowej (SRW) o państwowe fundusze celowe – został zrealizowany ustawą z dnia 11 sierpnia 2021 r., która rozszerzyła zakres jednostek objętych SRW o pozostałe państwowe fundusze celowe³. Nowelizacja ta miała charakter uniwersalny, tzn. reguła zaczęła wpływać na większą liczbę jednostek o określonej formie organizacyjno-prawnej (a nie imiennie wskazane jednostki). Jednocześnie nowe przepisy zapewniły automatyczne objęcie SRW nowo powstałych państwowych funduszy celowych w przyszłości. Rozszerzony o pozostałe państwowe fundusze celowe zakres SRW miał zastosowanie po raz pierwszy do projektu ustawy budżetowej na rok 2022."
+    },
+    {
+     "type": "text",
+     "text": "W 2024 r. trwa realizacja kamienia milowego A4G - Przegląd funkcjonowania stabilizującej reguły wydatkowej w latach 2019-2023. Analizy są prowadzone we współpracy z Międzynarodowym Funduszem Walutowym. Prace stanowią cykliczny przegląd stosowania SRW (przeglądy dokonywane są w cyklach 5-letnich, ostatni w 2018 r.). Realizowany przegląd uwzględnia w szczególności analizę zakresu SRW oraz stosowania klauzuli wyjścia, a następnie klauzuli powrotu oraz wpływu zmian unijnych reguł budżetowych na jej formułę. Planuje się, że wnioski i rekomendacje z przeglądu zostaną opublikowane w II kwartale br., tj. przed terminem wymaganym w KPO."
+    },
+    {
+     "type": "text",
+     "text": "Równocześnie, w II kwartale br. planowane jest przedstawienie propozycji dostosowania SRW do zmian w unijnych regułach fiskalnych, uwzględniającego również wnioski z przeglądu reguły. Zmiany te wpłyną w pewnym zakresie na kwotę wydatków SRW, której poziom zgodnie z obecnie obowiązującymi regulacjami (art. 112aa oraz art. 112d ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych) szacuje się na 1 775 872 722 tys. zł w 2025 r., 1 875 912 101 tys. zł w 2026 r. i 1 964 935 300 tys. zł w 2027 r."
+    },
+    {
+     "type": "text",
+     "text": "Jednym z następstw reformy zarządzania gospodarczego jest zwiększenie znaczenia niezależnych instytucji fiskalnych (ang. IFI) w systemie finansów publicznych wszystkich państw UE. Zgodnie ze znowelizowaną dyrektywą Rady UE dotyczącą minimalnych wymogów dla ram budżetowych państw członkowskich, IFI mają pełnić rolę doradczą w kwestiach dotyczących finansów publicznych. Zarazem Polska pozostaje jedynym krajem UE nieposiadającym IFI⁴."
+    },
+    {
+     "type": "text",
+     "text": "W Ministerstwie Finansów trwają w związku z tym prace nad przepisami ustanawiającymi Radę Fiskalną. Projekt ten jest realizowany we współpracy z ekspertami Banku Światowego, a jego zakończenie planowane jest w pierwszej połowie br. Zgodnie z wymogami dyrektywy UE, Rada będzie organem doradczym, niezależnym od Ministerstwa Finansów. Będzie się skupiać na wydawaniu opinii dotyczących zagadnień budżetowych, do których Ministerstwo Finansów będzie musiało się odnieść, zgodnie ze stosowaną w unijnym zarządzaniu gospodarczym zasadą „zastosuj się lub wytłumacz” (ang. „comply or explain”)."
+    },
+    {
+     "type": "text",
+     "text": "Mandat Rady Fiskalnej musi być zgodny z zapisami znowelizowanej dyrektywy UE dotyczącej minimalnych wymogów dla ram budżetowych państw członkowskich, konkretnie z jej art. 8 pkt 4. Oznacza to, że do przyszłych obowiązków Rady Fiskalnej należeć będą:"
+    },
+    {
+     "type": "text",
+     "text": "• opiniowanie prognoz i założeń makroekonomicznych;"
+    },
+    {
+     "type": "text",
+     "text": "• monitorowanie przestrzegania krajowych reguł fiskalnych;"
+    },
+    {
+     "type": "text",
+     "text": "III. Krajowe ramy budżetowe – planowane zmiany"
+    },
+    {
+     "type": "text",
+     "text": "• opiniowanie efektywności krajowych ram budżetowych;"
+    },
+    {
+     "type": "text",
+     "text": "• na stosowne zaproszenie, udział w regularnych wysłuchaniach i dyskusjach w parlamencie."
+    },
+    {
+     "type": "text",
+     "text": "Ponadto, zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady w sprawie skutecznej koordynacji polityk gospodarczych i wielostronnego nadzoru budżetowego, które uchyla rozporządzenie Rady (WE) nr 1466/97, a także rozporządzeniem zmieniającym rozporządzenie Rady (WE) nr 1467/97 w sprawie przyspieszenia i wyjaśnienia procedury nadmiernego deficytu, Rada na prośbę rządu będzie mogła przedstawiać opinię dotyczącą:"
+    },
+    {
+     "type": "text",
+     "text": "• wyników budżetu przedstawionych w rocznym sprawozdaniu z postępów we wdrażaniu średniookresowego planu budżetowo-strukturalnego;"
+    },
+    {
+     "type": "text",
+     "text": "• czynników leżących u podstaw odchylenia od ścieżki wydatków rekomendowanej przez Radę UE;"
+    },
+    {
+     "type": "text",
+     "text": "• działań podjętych w związku z zaleceniami Rady UE w ramach procedury nadmiernego deficytu"
+    },
+    {
+     "type": "text",
+     "text": "oraz uczestniczyć w dialogu z Komisją Europejską mającym na celu ocenę sytuacji ekonomicznej danego państwa."
+    },
+    {
+     "type": "text",
+     "text": "Rozwiązania krajowe mogą wychodzić poza minimum określone w dyrektywie. Dlatego też zakłada się powierzenie Radzie dodatkowych zadań dotyczących stosowania stabilizującej reguły wydatkowej, takich jak opiniowanie przez Radę wpływu zastosowania tzw. klauzuli wyjścia na długookresową stabilność finansów publicznych oraz sytuację makroekonomiczną. Rada będzie mogła też samodzielnie podjąć decyzję o poszerzeniu zakresu swoich analiz. Początkowy zakres jej kompetencji będzie rezultatem wyważenia kwestii związanych z zapewnieniem Radzie wpływu na kluczowe zagadnienia budżetowe i jednoczesnym zagwarantowaniem jej wystarczającej autonomii do budowania wiarygodności i efektywności działania. Można oczekiwać, że tak jak w innych krajach zakres zadań Rady będzie w przyszłości podlegał ewolucji."
+    },
+    {
+     "type": "text",
+     "text": "Wspomniana dyrektywa określa również rolę, jaką Rada Fiskalna powinna pełnić w kreowaniu opinii publicznej. Zgodnie z jej zapisami, Rada musi posiadać wszystkie niezbędne zasoby do tego, aby informować społeczeństwo o swoich ocenach oraz opiniach, zapewniając obywatelom ekspercki, niezależny głos w kwestiach związanych z finansami publicznymi. W krajach UE posiadających Rady Fiskalne powszechnymi są wystąpienia członków IFI w mediach lub organizacja różnego rodzaju wydarzeń. Powszechną praktyką jest publikowanie przez Rady Fiskalne swoich raportów oraz analiz na własnej stronie internetowej."
+    },
+    {
+     "type": "text",
+     "text": "Ze względu na opisane zadania i rolę Rady Fiskalnej w dyrektywie został zawarty wymóg, aby członkowie Rady byli ekspertami posiadającymi wiedzę oraz doświadczenie w zakresie finansów publicznych, makroekonomii lub zarządzania budżetem. Sama zaś Rada powinna mieć charakter niezależny. Oznacza to, że jej członkowie nie mogą przyjmować instrukcji od żadnej innej instytucji publicznej lub prywatnej."
+    },
+    {
+     "type": "text",
+     "text": "Zakłada się, że Rada będzie składać się z osób nominowanych przez instytucje reprezentujące szerokie grono interesariuszy. Kandydaci na członków Rady będą wyłaniani w otwartym konkursie, który potwierdzić spełnianie przez kandydatów wymogów dot. kompetencji oraz niezależności. Minimalne kompetencje kandydatów zawierają wykształcenie wyższe drugiego stopnia oraz przynajmniej 10 letnie doświadczenie w co najmniej dwóch dziedzinach: finanse publiczne, makroekonomia lub zarządzanie budżetem. Wybierani będą oni co do zasady na 6-letnią kadencję, tak aby rotacja członków Rady następowała stopniowo. Rozwiązanie to zapewni ciągłość pracy Rady poprzez sprawne wdrażanie nowych członków w jej zadania. Projektując ustawę ustanawiającą Radę fiskalną, szczególna uwaga będzie poświęcona wymogom dot. niezależności Rady oraz apolityczności jej członków, tak aby zapewnić jej bezstronny i ekspercki charakter."
+    },
+    {
+     "type": "text",
+     "text": "Ponadto, do realizacji zadań Rady niezbędne jest zapewnienie jej dostępu do danych. Przepisy o Radzie Fiskalnej będą zawierać zapisy gwarantujące jej dostęp do potrzebnych informacji. Znacząca będzie tutaj rola Ministerstwa Finansów, które będzie zaopatrywać Radę w najbardziej potrzebne dane."
+    },
+    {
+     "type": "text",
+     "text": "III. Krajowe ramy budżetowe – planowane zmiany"
+    },
+    {
+     "type": "text",
+     "text": "Transparentność Rady, w szczególności publikacja jej raportów i ocen oraz sprawozdań z podjętych działań będzie bardzo ważna w budowaniu jej pozycji i wizerunku. Dlatego też planuje się, że raz w roku Rada będzie składać Sejmowi raport z jej czynności w danym roku kalendarzowym, razem ze sprawozdaniem finansowym. Na stronie internetowej Rady powinny również znaleźć się informacje dotyczące jej wewnętrznych reguł funkcjonowania, informacji o osobach będących członkami Rady, metodologiach stosowanych przez Radę oraz protokoły z jej posiedzeń."
+    },
+    {
+     "type": "text",
+     "text": "Wsparciem Rady będzie jej biuro, powołane w celu przygotowywania analiz oraz wsparcia technicznego. Osoby wchodzące w skład biura powinny być poddawane procedurze rekrutacyjnej opartej na zasadzie konkurencji. Liczba pracowników biura zostanie zawarta w przepisach o Radzie Fiskalnej i zgodnie z założeniami nie powinna wynosić więcej niż 15 osób. Jednocześnie to Rada, jako niezależna instytucja, będzie odpowiedzialna za zatrudnienie członków biura. Siedzibą Rady będzie Warszawa. Rozwiązania prawne zapewnią odpowiednie środki na funkcjonowanie Rady i Biura w sposób niezależny."
+    },
+    {
+     "type": "text",
+     "text": "Aneks tabelaryczny"
+    },
+    {
+     "type": "text",
+     "text": "Aneks tabelaryczny"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 5. Wzrost gospodarczy"
+    },
+    {
+     "type": "text",
+     "text": "2023 2023 2024 2025 2026 2027 Kod ESA Poziom Tempo Tempo Tempo Tempo Tempo wzrostu wzrostu wzrostu wzrostu wzrostu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Realny PKB (mld PLN) B1*g 3 079,7 0,2 3,1 3,7 3,4 3,0",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nominalny PKB (mld PLN) B1*g 3 410,1 10,9 8,3 7,9 6,7 5,6",
+     "children": [
+      {
+       "type": "text",
+       "text": "Składowe realnego PKB"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Spożycie prywatne P.3 1951,5 -1,0 3,5 3,6 3,3 3,2",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Spożycie publiczne P.3 635,1 2,8 5,1 2,1 2,0 2,0",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Nakłady brutto na środki trwałe P.51 605,7 13,1 2,9 10,2 6,7 4,6",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Przyrost rzeczowych środków P.52 obrotowych oraz nabycie netto + - 0,3 0,3 0,4 0,4 0,5 aktywów wyjątkowej wartości P.53 (% PKB)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Eksport towarów i usług P.6 1971,5 3,4 3,7 5,6 5,5 5,5",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Import towarów i usług P.7 1763,8 -2,0 4,8 7,5 6,4 6,3",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wkład we wzrost PKB"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Finalny popyt krajowy - - -3,1 3,5 4,4 3,6 3,2",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Przyrost rzeczowych środków P.52 obrotowych oraz nabycie netto + - -5,3 0 0 0 0 aktywów wyjątkowej wartości P.53",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Saldo handlu zagranicznego B.11 - 3,3 -0,3 -0,6 -0,2 -0,2",
+     "children": [
+      {
+       "type": "text",
+       "text": "Uwaga: poziomy realnych wolumenów wyrażone są w cenach stałych z 2022 r."
+      },
+      {
+       "type": "text",
+       "text": "Źródło: Ministerstwo Finansów."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 6. Procesy inflacyjne"
+      },
+      {
+       "type": "text",
+       "text": "2023 2023 2024 2025 2026 2027 Kod ESA Poziom Tempo Tempo Tempo Tempo Tempo wzrostu wzrostu wzrostu wzrostu wzrostu"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Deflator PKB - 10,7 5,0 4,0 3,2 2,5",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Deflator spożycia - 10,6 5,1 4,1 3,3 2,5 prywatnego",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "HICP - 10,9 5,0 4,1 3,3 2,5",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3a",
+     "path": "ust_3a",
+     "text": "CPI - 11,4 5,2 4,1 3,3 2,5",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Deflator eksportu towarów - -1,3 3,0 2,9 2,9 2,5 i usług",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Deflator importu towarów - -4,2 3,0 2,9 2,9 2,5 i usług",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "18 Aneks tabelaryczny"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 7. Rynek pracy"
+    },
+    {
+     "type": "text",
+     "text": "2023 2023 2024 2025 2026 2027 Kod ESA Poziom Tempo Tempo Tempo Tempo Tempo wzrostu wzrostu wzrostu wzrostu wzrostu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Pracujący (tys. osób)* 17 307 0,3 -0,2 0,1 -0,1 -0,2",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Stopa bezrobocia (poziom, - 2,8 2,9 2,7 2,6 2,6 %)**",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wydajność pracy (tys. 183,3 -0,4 3,5 3,7 3,4 3,3 PLN)*** 4. Koszty pracy (mld PLN) D.1 1 329,4 13,0 7,4 6,7 6,5 5,1",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Koszty pracy na jednego 99,0 12,8 7,8 6,7 6,5 5,4 zatrudnionego (tys. PLN)",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Dane średnioroczne według BAEL (15-89 lat). *** Zharmonizowana stopa bezrobocia, zgodna z definicją Eurostatu, poziomy. *** Realny PKB na jednego pracującego. Źródło: Główny Urząd Statystyczny, Ministerstwo Finansów."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 8. Sektor instytucji rządowych i samorządowych"
+      },
+      {
+       "type": "text",
+       "text": "Kod 2023 2023 2024 2025 2026 2027 ESA mln PLN % PKB % PKB % PKB % PKB % PKB"
+      },
+      {
+       "type": "text",
+       "text": "Sektor instytucji rządowych i samorządowych"
+      },
+      {
+       "type": "text",
+       "text": "Dochody ogółem TR 1 420 301 41,6 43,7 43,3 43,0 42,7"
+      },
+      {
+       "type": "text",
+       "text": "Wydatki ogółem TE 1 594 133 46,7 48,9 47,7 46,8 46,0"
+      },
+      {
+       "type": "text",
+       "text": "EDPB. -173 832 -5,1 -5,1 -4,4 -3,8 -3,3 Wynik 9"
+      },
+      {
+       "type": "text",
+       "text": "EDPD. 71 355 2,1 2,2 2,4 2,4 2,5 Odsetki 41"
+      },
+      {
+       "type": "text",
+       "text": "Wynik pierwotny -102 477 -3,0 -2,9 -2,0 -1,3 -0,9"
+      },
+      {
+       "type": "text",
+       "text": "Wybrane kategorie dochodów sektora instytucji rządowych i samorządowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Podatki ogółem 735 756 21,6 23,4 22,8 23,0 23,1",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Składki na D.61 485 795 14,2 14,7 14,7 14,8 14,8 ubezpieczenie społeczne",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wybrane kategorie wydatków sektora instytucji rządowych i samorządowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Transfery socjalne D.62_ 601 999 17,7 19,2 19,3 19,2 19,2 D.63",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Odsetki EDP 71 355 2,1 2,2 2,4 2,4 2,5 D.41",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Nakłady brutto na P.51 169 579 5,0 5,0 5,3 5,4 5,6 środki trwałe",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "19 Aneks tabelaryczny"
+    },
+    {
+     "type": "text",
+     "text": "Tabela 9. Instrument na rzecz Odbudowy i Zwiększania Odporności"
+    },
+    {
+     "type": "text",
+     "text": "Wydatki finansowane dotacjami (% PKB)"
+    },
+    {
+     "type": "text",
+     "text": "2020 2021 2022 2023 2024 2025 2026"
+    },
+    {
+     "type": "text",
+     "text": "Wydatki bieżące - - 0,1 0,4 0,6 0,2 Wydatki kapitałowe - - 0,0 0,6 0,7 0,3"
+    },
+    {
+     "type": "text",
+     "text": "Wydatki finansowane pożyczkami (% PKB)"
+    },
+    {
+     "type": "text",
+     "text": "2020 2021 2022 2023 2024 2025 2026"
+    },
+    {
+     "type": "text",
+     "text": "Wydatki ogółem - - - 0,0 0,8 1,2 1,7"
+    },
+    {
+     "type": "text",
+     "text": "Źródło: obliczenia Ministerstwo Finansów na podstawie danych pozyskanych z Ministerstwa Funduszy i Polityki Regionalnej."
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "20 CZĘŚĆ II. Cele głównych funkcji państwa wraz z miernikami stopnia ich realizacji"
+    },
+    {
+     "type": "text",
+     "text": "Zgodnie z art. 104 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, Wieloletni Plan Finansowy Państwa na lata 2024-2027 (dalej jako „WPFP 2024-2027”) określa cele wraz z miernikami stopnia ich realizacji, w układzie obejmującym główne funkcje państwa⁵."
+    },
+    {
+     "type": "text",
+     "text": "Funkcje państwa obejmują podstawowe obszary działań właściwych dla poszczególnych polityk państwa. Wyznaczone dla poszczególnych funkcji cele dotyczą perspektywy przewidzianej dla WPFP, tj. lat 2024-2027 i wpisują się w sposób spójny w priorytety rozwojowe oraz kluczowe kierunki polityki społeczno-gospodarczej, które zostały zdefiniowane w najważniejszych krajowych oraz unijnych dokumentach strategiczno-programowych. Cele wraz z miernikami dla poszczególnych funkcji zostały określone przez ministrów wiodących w ich realizacji⁶."
+    },
+    {
+     "type": "text",
+     "text": "Odniesienie dla celów WPFP 2024-2027 stanowi przede wszystkim główna strategia rozwoju, określająca podstawowe ramy programowe dla polityki rozwoju, tj. uwarunkowania, cele i kierunki rozwoju kraju w wymiarze społecznym, gospodarczym, regionalnym oraz przestrzennym, którą jest Strategia na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.)⁷ (dalej jako: „Strategia”)⁸."
+    },
+    {
+     "type": "text",
+     "text": "Aktualnie finalizowane są prace nad Koncepcją Rozwoju Kraju 2050 (dalej jako „KRK”), która będzie stanowiła punkt wyjścia do prac nad innymi dokumentami strategicznymi. KRK ma przede wszystkim identyfikować trendy i wyzwania rozwojowe, z jakimi będzie zmagało się państwo w perspektywie najbliższych 30 lat w wymiarze społecznym, gospodarczym, technologicznym, środowiskowym i przestrzennym. Rozpoczynają się również prace związane z przygotowaniem założeń średniookresowej strategii rozwoju kraju, która będzie bazować na zidentyfikowanych w KRK trendach i wyzwaniach, a także uwzględniać m.in. nowe kierunki rozwoju wynikające z dokumentów strategicznych Unii Europejskiej."
+    },
+    {
+     "type": "text",
+     "text": "Transformację gospodarki polskiej realizowaną w ramach Strategii wspiera, przyjęty przez Radę UE w dniu 17 czerwca 2022 r., a także zmieniony decyzją Rady UE w dniu 8 grudnia 2023 r., Krajowy Plan Odbudowy i Zwiększania Odporności (dalej jako „KPO”). Stanowi on kompleksowy program określający cele do osiągnięcia w latach 2021-2026 związane z odbudową i tworzeniem odporności społeczno-gospodarczej Polski po kryzysie wywołanym pandemią COVID-19 oraz realizuje służące temu reformy i inwestycje. Realizacja KPO posłuży promowaniu spójności gospodarczej, społecznej i terytorialnej poprzez zwiększenie odporności, gotowości na wypadek sytuacji kryzysowych, zdolności dostosowawczych i potencjału wzrostu gospodarczego, łagodzeniu społecznych i gospodarczych skutków kryzysu, wspieraniu zielonej transformacji, przyczynianiu się do realizacji unijnych celów w zakresie klimatu oraz transformacji cyfrowej. Obecnie prowadzone są prace nad kolejną rewizją KPO."
+    },
+    {
+     "type": "text",
+     "text": "Cele poszczególnych funkcji państwa oraz towarzyszące im mierniki stopnia ich realizacji zaprezentowano w odniesieniu do struktury celów szczegółowych i przyporządkowanych im obszarów Strategii."
+    },
+    {
+     "type": "text",
+     "text": "Głównym celem Strategii jest: Tworzenie warunków dla wzrostu dochodów mieszkańców Polski przy jednoczesnym wzroście spójności w wymiarze społecznym, ekonomicznym, środowiskowym i terytorialnym, natomiast celami szczegółowymi i przyporządkowanymi im obszarami są:"
+    },
+    {
+     "type": "text",
+     "text": "Cel szczegółowy I: Trwały wzrost gospodarczy oparty coraz silniej o wiedzę, dane i doskonałość organizacyjną"
+    },
+    {
+     "type": "text",
+     "text": "(obszary: Reindustrializacja, Rozwój innowacyjnych firm, Małe i średnie przedsiębiorstwa, Kapitał dla rozwoju, Ekspansja zagraniczna)"
+    },
+    {
+     "type": "text",
+     "text": "Cel szczegółowy II: Rozwój społecznie wrażliwy i terytorialnie zrównoważony"
+    },
+    {
+     "type": "text",
+     "text": "(obszary: Spójność społeczna, Rozwój zrównoważony terytorialnie)"
+    },
+    {
+     "type": "text",
+     "text": "Cel szczegółowy III: Skuteczne państwo i instytucje służące wzrostowi oraz włączeniu społecznemu i gospodarczemu"
+    },
+    {
+     "type": "text",
+     "text": "(obszary: Prawo w służbie obywatelom i gospodarce, Instytucje prorozwojowe i strategiczne zarządzanie rozwojem, E-państwo, Finanse publiczne, Efektywność wykorzystania środków UE)."
+    },
+    {
+     "type": "text",
+     "text": "Strategia wyszczególnia ponadto 6 obszarów wpływających na osiągnięcie celów określonych w jej ramach, którymi są: Kapitał ludzki i społeczny, Cyfryzacja, Transport, Energia, Środowisko, Bezpieczeństwo narodowe."
+    },
+    {
+     "type": "text",
+     "text": "Zawarta w Strategii wizja rozwojowa proponuje model oparty na rozwoju zrównoważonym. Wskazuje, iż polska gospodarka potrzebuje nowych impulsów rozwojowych, które zapewnią stabilny wzrost konkurencyjności w oparciu o inne niż dotychczas czynniki rozwojowe. Niezbędne jest m.in. zwiększenie roli wiedzy i technologii wytwarzanej w kraju, rozwój i dalsza ekspansja polskich podmiotów gospodarczych, budowa systemu oszczędności oraz podwyższenie jakości funkcjonowania instytucji i ich interakcji ze społeczeństwem⁹."
+    },
+    {
+     "type": "text",
+     "text": "Funkcja 6. Polityka gospodarcza kraju obejmuje zadania, których realizacja zapewnia osiągnięcie celów: stabilny i zrównoważony rozwój polskiej gospodarki oraz zwiększenie stopnia zaawansowania technologicznego polskiej gospodarki. Zadania państwa w tym obszarze są zorientowane przede wszystkim na wsparcie wzrostu konkurencyjności, wydajności i innowacyjności gospodarki – dąży się do tworzenia optymalnych warunków prawnych i organizacyjnych dla jej rozwoju, w tym dla funkcjonowania przedsiębiorstw (m.in. MSP). Wdrażane są inicjatywy, których celem jest m.in. zwiększenie dostępu przedsiębiorców do kapitału, pobudzanie innowacyjności, konkurencyjności i przedsiębiorczości, jak też zapewnienie warunków do tworzenia nowych miejsc pracy. W ramach funkcji podejmowane są również czynności mające na celu wzmocnienie pozytywnego wizerunku Polski za granicą oraz polskich interesów gospodarczych, zrównoważenie wymiany oraz wzrost polskiego eksportu."
+    },
+    {
+     "type": "text",
+     "text": "Dla pomiaru stopnia osiągania pierwszego z ww. celów funkcji 6. przyjęto miernik: PKB per capita (w relacji do UE-27) (w %), dla którego w latach 2024-2027 przewiduje się wzrost z poziomu nie mniej niż 80 % w 2024 r. do poziomu nie mniej niż 83 % w 2027 r. (w 2025 r. i 2026 r. odpowiednio – nie mniej niż 81 % i nie mniej niż 82 %). Miernik określony dla drugiego celu funkcji: udział eksportu wyrobów wysokiej techniki w eksporcie ogółem (w %) powinien kształtować się na poziomie nie mniej niż 9 % w 2024 r. oraz na poziomie nie mniejszym niż 10 % w latach 2025-2027."
+    },
+    {
+     "type": "text",
+     "text": "Wzmacnianiu konkurencyjności polskiej gospodarki, między innymi w kontekście jej potencjału innowacyjnego, ma służyć także realizacja zadań ujętych w funkcji 10. Szkolnictwo wyższe i nauka, w ramach której realizowane są przedsięwzięcia z zakresu polityki naukowej, naukowo-technicznej oraz innowacyjnej państwa. Celem określonym dla funkcji jest podniesienie poziomu wyników badań naukowych. W ramach tej funkcji wspierane są działania mające na celu utrzymanie potencjału naukowego polskich jednostek naukowych oraz efektywne prowadzenie badań naukowych i prac rozwojowych. Finansowane są projekty mające na celu unowocześnienie infrastruktury badawczej nauki polskiej, w tym inwestycje związane z utrzymaniem i rozwojem infrastruktury informacyjnej i informatycznej nauki polskiej oraz inwestycje budowlane i zakupy aparatury naukowo-badawczej. Funkcja obejmuje swym zakresem działania badawczo-rozwojowe (B+R) oraz stwarzanie warunków dla lepszej współpracy nauki z biznesem, sprzyjającej rozwojowi innowacyjnych firm i komercjalizacji badań naukowych."
+    },
+    {
+     "type": "text",
+     "text": "Ważny element wsparcia stanowią także inicjatywy mające za przedmiot współpracę naukową z zagranicą. Realizowane są działania służące efektywności i jakości kształcenia oraz dostępności międzynarodowych programów kształcenia, rozwijania kompetencji naukowych w dziedzinach kluczowych dla gospodarki przyszłości."
+    },
+    {
+     "type": "text",
+     "text": "Stopień osiągnięcia celu zostanie zmierzony miernikami:"
+    },
+    {
+     "type": "text",
+     "text": "⎯ liczba publikacji z Polski w czasopismach objętych bazą SCOPUS (w szt.). Na rok 2024 przewiduje się osiągnięcie wartości tego miernika na poziomie 54 500 szt. i jego stopniowy wzrost aż do 57 500 szt. w roku 2027 (w 2025 r. i 2026 r. uzyskane zostaną odpowiednio wartości: 55 500 szt. oraz 56 500 szt.),"
+    },
+    {
+     "type": "text",
+     "text": "⎯ liczba patentów międzynarodowych uzyskanych przez polskich rezydentów w Europejskim Urzędzie Patentowym (EPO) i w Urzędzie Patentów i Znaków Towarowych Stanów Zjednoczonych (USPTO) oraz liczba patentów krajowych uzyskanych przez polskich rezydentów w Urzędzie Patentowym RP (w szt.) przewiduje się zwiększanie wartości tego miernika w latach 2024-2027 (w roku 2024: 220 EPO i 400 USPTO oraz 2 300 UPRP, w roku 2025: 240 EPO i 420 USPTO oraz 2 400 UPRP, w roku 2026: 260 EPO i 440 USPTO oraz 2 500 UPRP, a w roku 2027: 280 EPO, 460 USPTO, 2 600 UPRP)."
+    },
+    {
+     "type": "text",
+     "text": "Dla funkcji 15. Polityka zagraniczna określono dwa cele: wzmocnienie wizerunku Polski na arenie międzynarodowej w obszarach priorytetowych między innymi z zakresu dyplomacji publicznej i kulturalnej oraz dyplomacja w służbie RP¹⁰. Głównym zadaniem tej funkcji są działania związane z prowadzeniem skutecznej polityki zagranicznej w wymiarze dwustronnym i wielostronnym realizujące i zabezpieczające interesy Polski w sferze międzynarodowej, zadania z zakresu polityki bezpieczeństwa, w tym realizowane na forum organizacji międzynarodowych, tworzących system bezpieczeństwa europejskiego, euroatlantyckiego i globalnego, zadania związane z aktywnością wspomagającą rozwój gospodarki, innowacji i technologii, współpracą rozwojową i wspieraniem demokracji i praw człowieka, a także działania ukierunkowane na właściwe reprezentowanie i ochronę interesów Polski i Polaków za granicą oraz obsługę cudzoziemców przez urzędy konsularne, a także reprezentowanie i ochronę interesów Polski przed sądami i trybunałami międzynarodowymi. W ramach funkcji realizowane są również działania na rzecz wspierania Polonii i Polaków oraz osób prawnych za granicą. Działania dyplomacji służą również kreowaniu pozytywnego wizerunku i wzmocnieniu konkurencyjności Polski na arenie międzynarodowej. W tym obszarze realizowane są przedsięwzięcia o charakterze promocyjnym i informacyjnym, w tym - wspieranie promocji polskiej gospodarki, promocja kultury i dziedzictwa narodowego, promocja polskich kandydatów na ważne stanowiska w międzynarodowych instytucjach, rozwój współpracy z partnerami zagranicznymi w zakresie kształcenia dyplomatów, a także działania nakierowane na budowę wizerunku Polski jako atrakcyjnego, bezpiecznego i otwartego kierunku turystycznego oraz jako skutecznego kraju – donatora pomocy rozwojowej i humanitarnej. Podejmowane są starania na rzecz zagwarantowania istotnej roli i wpływu Polski na funkcjonowanie i plany działania Unii Europejskiej i organizacji międzynarodowych – związane w szczególności z rolą Polski jako kraju sprawującego prezydencję w Radzie UE w I poł."
+    },
+    {
+     "type": "text",
+     "text": "2025 r."
+    },
+    {
+     "type": "text",
+     "text": "Stopień osiągnięcia celu funkcji 15. zostanie zmierzony miernikami:"
+    },
+    {
+     "type": "text",
+     "text": "⎯ ocena wizerunku Polski w mediach zagranicznych (ocena w skali: zdecydowanie negatywny, raczej negatywny, neutralny, raczej pozytywny, zdecydowanie pozytywny), która w latach 2024-2027 ukształtuje się na poziomie „neutralny”,"
+    },
+    {
+     "type": "text",
+     "text": "⎯ ocena realizacji Założeń Polskiej Polityki Zagranicznej (ZPPZ) (ocena w skali: 5 – bardzo dobra, 4 – dobra, 3 – dostateczna, 2 – niedostateczna). Przewiduje się, iż wynik w latach 2024-2027 ukształtuje się na poziomie oceny 4 – dobra."
+    },
+    {
+     "type": "text",
+     "text": "Konkurencyjność kraju oparta na stabilnych i trwałych podstawach wymaga włączenia w procesy rozwojowe wszystkich grup społecznych i wszystkich terytoriów¹¹ . Obszar dotyczący poprawy spójności społecznej i terytorialnej kraju, w zakresie funkcji 17. Kształtowanie rozwoju regionalnego kraju, obejmuje tworzenie odpowiednich warunków wspierających procesy rozwojowe, ukierunkowane na efektywne wykorzystanie specyficznych regionalnych i innych terytorialnych potencjałów rozwojowych dla osiągania celów rozwoju kraju w horyzoncie długookresowym (przy jednoczesnym włączaniu w te procesy również podmiotów o słabszych potencjałach oraz niwelowaniu rozwarstwienia towarzyszącego tym procesom, będącego wynikiem zidentyfikowanych barier rozwojowych). Celem określonym dla funkcji jest efektywne wykorzystanie przez Polskę środków bezzwrotnej pomocy zagranicznej w ramach programów zarządzanych lub koordynowanych przez ministra właściwego do spraw rozwoju regionalnego. Stopień realizacji tego celu zostanie odzwierciedlony w postaci pomiaru:"
+    },
+    {
+     "type": "text",
+     "text": "⎯ wartości środków certyfikowanych w ramach perspektywy finansowej 2014-2020 do wartości alokacji wkładu pomocy zagranicznej na program (w %), która powinna wynieść 99,6 % w 2024 r.¹²,"
+    },
+    {
+     "type": "text",
+     "text": "⎯ wartości środków zakontraktowanych w ramach perspektywy finansowej 2021-2027 do wartości alokacji wkładu pomocy zagranicznej na program (w %), która w 2024 r. powinna wynieść 26 % i wzrastać w latach kolejnych do wartości: 43 % (w 2025 r.), 59 % (w 2026 r.) oraz 68 % (w 2027 r.)."
+    },
+    {
+     "type": "text",
+     "text": "Działania służące wzmacnianiu konkurencyjności gospodarczej i zrównoważonego terytorialnie rozwoju realizowane są również w ramach funkcji 21. Polityka rolna i rybacka, której celem jest poprawa warunków ekonomicznych rolnictwa, rozwój obszarów wiejskich, zwiększenie konkurencyjności gospodarki rolno-żywnościowej oraz poprawa stanu środowiska naturalnego."
+    },
+    {
+     "type": "text",
+     "text": "W ramach funkcji realizowane są zadania dotyczące: wspierania gospodarstw rolnych za pomocą odpowiednio zaprojektowanych instrumentów w ramach systemu płatności bezpośrednich oraz postępu biologicznego w produkcji roślinnej i zwierzęcej, ochrony roślin uprawnych, nasiennictwa, kontroli upraw na obecność roślin genetycznie zmodyfikowanych, agrochemicznej obsługi rolnictwa, hodowli i produkcji zwierzęcej, ochrony zdrowia zwierząt, weterynaryjnej ochrony zdrowia publicznego, nadzoru nad jakością handlową artykułów rolno-spożywczych, stabilizacji rynków rolnych i żywnościowych oraz rozwoju obszarów wiejskich. Ponadto wspierane są: działania z zakresu kształtowania ustroju rolnego i gospodarki żywnościowej oraz infrastruktura wsi w kierunku rozwoju gospodarstw rodzinnych."
+    },
+    {
+     "type": "text",
+     "text": "Monitorowanie tego obszaru dokonywać się będzie w oparciu o obserwację stopnia wykorzystania limitów środków na WPR w ramach perspektywy 2014-2020 i 2021-2027 (narastająco) (w %), który w 2024 r. wyniesie 94,0 %, a w następnych latach będzie kształtował się na poziomie 97,7 % (w 2025 r.) do 100 % (w 2026 r. i 2027 r.). Stopień realizacji celu będzie ponadto mierzony liczbą projektów realizowanych z udziałem środków PROW 2014-2020 i PS WPR 2023-2027 w danym roku (w szt.), która w poszczególnych latach 2024-2027 wyniesie odpowiednio: 276 000 szt., 315 000 szt., 85 000 szt."
+    },
+    {
+     "type": "text",
+     "text": "oraz 122 000 szt."
+    },
+    {
+     "type": "text",
+     "text": "W ramach funkcji realizowane są także zadania dotyczące rybactwa związane z tworzeniem odpowiednich warunków dla rozwoju rybactwa śródlądowego, rybołówstwa morskiego (w tym także racjonalne gospodarowanie żywymi zasobami), przetwórstwa rybnego, ochrony środowiska, przestrzegania przepisów Wspólnej Polityki Rybackiej. Celem funkcji jest tworzenie i utrzymanie konkurencyjnego, nowoczesnego i dynamicznego sektora rybackiego. Dla monitorowania tego celu działalności państwa określono wskaźnik wielkość produkcji akwakultury (w tonach), który w latach 2024-2027 będzie wzrastać z 44 500 ton w 2024 r. do 50 000 ton w 2027 r. (w latach 2025 i 2026 osiągnie wartość odpowiednio: 46 000 ton i 48 000 ton)."
+    },
+    {
+     "type": "text",
+     "text": "W tworzenie warunków dla wzrostu dochodów mieszkańców Polski przy jednoczesnym wzroście spójności w wymiarze społecznym wpisują się także odpowiednie działania przeciwdziałające ubóstwu i wykluczeniu społecznemu Polaków oraz wyrównujące szanse różnych grup społecznych."
+    },
+    {
+     "type": "text",
+     "text": "Zadania władz publicznych podejmowane na rzecz umacniania kapitału ludzkiego dotyczą realizacji działań w ramach polityki prorodzinnej oraz ochrony m.in. macierzyństwa i rodzicielstwa – w zakresie funkcji 13. Zabezpieczenie społeczne i wspieranie rodziny, której celami są m.in. systemowe wsparcie rodzin oraz osób będących w trudnej sytuacji życiowej, a także systemowe wsparcie rodzin w realizacji funkcji wychowawczej i edukacyjnej. W tym zakresie – wychodząc naprzeciw wyzwaniom wynikającym z trendów demograficznych – szczególne wsparcie i opieka państwa będzie zapewniona osobom i rodzinom wychowującym dzieci. Podstawowym i najważniejszym narzędziem polityki rodzinnej jest Program Rodzina 800+¹³, którego celem jest częściowe pokrycie wydatków rodzin związanych z wychowywaniem dzieci poprzez wypłatę miesięcznego świadczenia wychowawczego w kwocie 800 zł na każde dziecko. Świadczenie w takiej samej wysokości przysługuje również na dzieci umieszczone w rodzinnych formach pieczy zastępczej oraz w placówkach opiekuńczo-wychowawczych. Programem objętych zostało w 2023 r. 6,9 mln dzieci co wynika m.in. z napływu dzieci z terenów objętych konfliktem zbrojnym na Ukrainie, jak też pełniejszym korzystaniem ze świadczenia przez dzieci obywateli polskich."
+    },
+    {
+     "type": "text",
+     "text": "Obok działań realizowanych w ramach Programu Rodzina 800+ funkcjonuje również system świadczeń rodzinnych. Kwoty świadczeń rodzinnych (z wyłączeniem kwoty świadczenia pielęgnacyjnego) oraz wysokości kryteriów dochodowych uprawniających do tych świadczeń podlegają weryfikacji co 3 lata. Ostatnia weryfikacja miała miejsce w 2021 r. Kolejna weryfikacja planowana jest na 2024 r. Kwota świadczenia pielęgnacyjnego podlega corocznej waloryzacji o wskaźnik wzrostu minimalnego wynagrodzenia za pracę (w 2024 r. kwota świadczenia wynosi 2 988 zł). 1 stycznia 2024 r. weszła w życie ustawa z dnia 7 lipca 2023 r. o świadczeniu wspierającym, która wprowadziła istotne zmiany w systemie świadczeń dla osób z niepełnosprawnościami oraz ich opiekunów poprzez wprowadzenie nowego świadczenia – świadczenia wspierającego. Jest to rozwiązanie skierowane bezpośrednio do osób z niepełnosprawnościami w wieku od ukończenia 18. roku życia, przysługuje bez względu na dochody osiągane przez osobę z niepełnosprawnościami lub członków jej rodziny (brak kryterium dochodowego) i niezależne od innych form wsparcia otrzymywanych przez osoby niepełnosprawne jak również przez ich opiekunów. Od 2018 r. funkcjonuje rządowy program „Dobry Start”, który przewiduje wsparcie w formie jednorazowego świadczenia pieniężnego w wysokości 300 zł na uczące się dziecko i ma wspomóc rodziny w ponoszeniu wydatków związanych z rozpoczęciem roku szkolnego."
+    },
+    {
+     "type": "text",
+     "text": "Pomoc dla rodzin wykraczająca poza wskazany wyżej wymiar finansowy – zakłada również rozwój usług opieki nad małymi dziećmi, sprzyjających godzeniu życia zawodowego i rodzinnego. Podejmowane działania służą wzrostowi dostępności miejsc opieki nad dziećmi w wieku do 3 lat poprzez tworzenie nowych miejsc opieki lub obniżenie kosztów funkcjonowania miejsc już istniejących, przekładających się na obniżenie opłat ponoszonych przez rodziców (Resortowy program rozwoju instytucji opieki nad dziećmi w wieku do lat 3 „MALUCH+”)¹⁴ . Od kwietnia 2022 r. obowiązuje dofinansowanie do opłaty za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna w wysokości maksymalnie 400 zł miesięcznie na dziecko, które nie jest objęte rodzinnym kapitałem opiekuńczym. Ponadto, od 2022 r. wprowadzono nowe świadczenie (rodzinny kapitał opiekuńczy) dla rodziców, drugich i kolejnych dzieci w wieku 12-36 miesięcy wynoszące łącznie 12 tys. zł wypłacane w kwotach po 1 000 lub 500 zł miesięcznie. W 2024 r. rząd przyjął program „Aktywny Rodzic”, który z jednaj strony zastępuje RKO, ale jednocześnie wprowadza 1 500 zł miesięcznie dla rodziców dzieci w wieku 12-36 miesięcy, którzy są aktywni zawodowo. Możliwe jest również wybranie świadczenia w wysokości 1 500 zł miesięcznie na pobyt dziecka w żłobku, klubie dziecięcym lub na opiekuna dziennego. Dla osób, które nie korzystają z dwóch poprzednich świadczeń wprowadza się możliwość pobierania 500 zł miesięcznie na wszystkie dzieci w wieku 12-36 miesięcy. Inną formą wsparcia rodzin z dziećmi na utrzymaniu, adresowaną wyłącznie do rodzin wielodzietnych, jest Karta Dużej Rodziny. Jest to dokument uprawniający rodziny wielodzietne do zniżek (ulg) w dostępie do dóbr i usług oferowanych przez podmioty, które przystąpiły do uczestnictwa w tym programie."
+    },
+    {
+     "type": "text",
+     "text": "Stopień osiągnięcia poszczególnych celów funkcji będzie monitorowany za pomocą mierników (odpowiednio dla pierwszego i drugiego celu funkcji):"
+    },
+    {
+     "type": "text",
+     "text": "⎯ wysokość wydatków budżetu państwa na dziecko w wieku do ukończenia 24. roku życia (w zł), która w latach 2024-2027 wyniesie odpowiednio: 1 673 zł (w 2024 r.), 1 623 zł (w 2025 r.), 1 532 zł (w 2026 r.) oraz 1 354 zł (w 2027 r.),"
+    },
+    {
+     "type": "text",
+     "text": "⎯ wysokość wydatków budżetu państwa na świadczenie wychowawcze, świadczenie \"Dobry Start\", dofinansowanie obniżenia opłaty za pobyt dziecka w żłobku, klubie dziecięcym lub u dziennego opiekuna oraz rodzinny kapitał opiekuńczy w przeliczeniu na dziecko w wieku do 18. roku życia (w zł), który w latach 2024-2025 kształtować się będzie na poziomie: 9 906 zł, a następnie 9 911 zł w 2026 r. oraz 9 912 zł w 2027 r."
+    },
+    {
+     "type": "text",
+     "text": "Ważny wymiar polityki publicznej w zakresie tej funkcji dotyczy wspierania osób potrzebujących, w tym osób niepełnosprawnych i ich integracji społecznej, a także kobiet w ciąży i rodzin w zakresie dostępu do instrumentów polityki na rzecz rodziny, które realizowane jest poprzez Program kompleksowego wsparcia dla rodzin „Za życiem”."
+    },
+    {
+     "type": "text",
+     "text": "W ramach ww. działań realizowany będzie także rządowy program wspierania rodziny „Asystent rodziny w 2024 r.”, na który w roku 2024 przewidziano kwotę nieprzekraczającą 70 mln zł. Państwo będzie również kontynuować zadania w sferze inwestycji w kapitał ludzki i społeczny oraz aktywnych form integracji społecznej, w szczególności poprzez wspieranie działalności podmiotów ekonomii społecznej w zakresie reintegracji społecznej i zawodowej osób zagrożonych wykluczeniem społecznym oraz zwiększenie udziału podmiotów ekonomii społecznej w świadczeniu usług użyteczności publicznej i rozwoju lokalnym."
+    },
+    {
+     "type": "text",
+     "text": "Dodatkowo w ramach wzmocnienia systemu pieczy zastępczej, w roku 2024 ogłoszony został rządowy program wsparcia powiatu w organizacji i tworzeniu rodzinnych form pieczy zastępczej. Na finansowanie tego programu przeznacza się kwotę nieprzekraczającą 40 mln zł."
+    },
+    {
+     "type": "text",
+     "text": "Ponadto, w ramach funkcji państwa 13., państwo będzie podejmowało działania w celu ochrony aktywnych zawodowo obywateli przed skutkami różnego rodzaju ryzyka związanego z aktywnością zawodową. Skalę tej ochrony będzie odzwierciedlał miernik – stosunek liczby osób objętych ubezpieczeniem emerytalnym i rentowym w systemie powszechnym do liczby osób w wieku produkcyjnym, który ukształtuje się w latach 2024-2025 odpowiednio na poziomie 0,74, natomiast w latach 2026-2027 na poziomie 0,75."
+    },
+    {
+     "type": "text",
+     "text": "Działalność państwa w zakresie wspierania mieszkalnictwa ujęta została w funkcji 7. Gospodarka przestrzenna, budownictwo i mieszkalnictwo. Polityka państwa w ramach funkcji obejmuje realizację rządowych programów polityki mieszkaniowej umożliwiających wsparcie nowych inwestycji w budownictwie mieszkaniowym oraz inwestycji zapobiegających degradacji fizycznej istniejącego zasobu, jak również innych ustawowo określonych zobowiązań w zakresie finansowania mieszkalnictwa. Realizowane są również działania zmierzające do poprawy stanu technicznego istniejących zasobów, ze szczególnym uwzględnieniem przedsięwzięć mających na celu poprawę efektywności energetycznej. W zakres funkcji wchodzą ponadto zadania związane z zagospodarowaniem przestrzennym, geodezją i kartografią, systemem informacji przestrzennej, polityką miejską i rewitalizacją, gospodarką nieruchomościami oraz nadzorem architektoniczno-budowlanym. Celem określonym dla tej funkcji jest poprawa stanu zaspokojenia potrzeb mieszkaniowych¹⁵, natomiast pomiar jego realizacji odbywa się za pomocą miernika: liczba mieszkań przypadająca na 1 000 mieszkańców (w szt.). Planuje się, że wartość miernika będzie wzrastać i wyniesie w latach 2024-2027 odpowiednio: 423,9 szt., 429,3 szt., 434,1 szt. i 438,6 szt."
+    },
+    {
+     "type": "text",
+     "text": "Dążenie do osiągnięcia najlepszych światowych poziomów w zakresie konkurencyjności gospodarki w oparciu o wydajność i innowacyjność wymaga odpowiedniego rozwoju kapitału ludzkiego i społecznego na rzecz zwiększenia zatrudnienia i zapewnienia wysokiej jakości miejsc pracy. Działania służące poprawie sytuacji na rynku pracy (a tym samym warunków bytowych Polaków), również poprzez pełniejsze wykorzystanie potencjału zasobów ludzkich prowadzone są w ramach funkcji 14. Rynek pracy, której pierwszym z celów jest: zwiększanie zatrudnienia. Miernikiem określonym dla tego obszaru jest wskaźnik zatrudnienia w wieku 20–64 lata (w %), dla którego założono wielkość 77,6 % w 2024 r., 77,8 % w 2025 r., 78,0 % w 2026 r. oraz 78,1 % w 2027 r."
+    },
+    {
+     "type": "text",
+     "text": "Władze publiczne będą ponadto podejmować działania na rzecz poprawy bezpieczeństwa i warunków pracy, zmierzające do rozwoju kultury bezpieczeństwa i związanego z tym podniesienia poziomu bezpieczeństwa i higieny pracy oraz do znaczącego ograniczenia liczby osób zatrudnionych w warunkach narażenia na czynniki niebezpieczne, szkodliwe i uciążliwe. Działania te mają przyczyniać się do systematycznego obniżenia liczby wypadków przy pracy i chorób zawodowych oraz wynikających z tego strat ekonomicznych i społecznych. Zdefiniowano dla tego celu miernik: wskaźnik wypadkowości (liczba niemianowana), który będzie się sukcesywnie obniżać z wartości 5,41 w 2024 r.¹⁶, do 5,03 w latach 2025-2027."
+    },
+    {
+     "type": "text",
+     "text": "Jednym z kluczowych czynników konkurencyjności, a jednocześnie podstawowym wyznacznikiem możliwości korzystania w pełni ze swobód demokratycznych i praw obywatelskich, jest jakość funkcjonowania państwa¹⁷. Istotnym wymogiem dla zapewnienia nowoczesnego państwa jest sprawnie działająca administracja, rozumiana jako sieć instytucji powiązanych systemem informacyjnym państwa, realizująca ideę otwartej administracji publicznej, wspierająca obywateli (w tym przedsiębiorców) i świadcząca wysokiej jakości usługi, z wykorzystaniem nowoczesnych technologii informacyjnych¹⁸."
+    },
+    {
+     "type": "text",
+     "text": "Sprawy z zakresu administracji publicznej i informatyzacji objęte są funkcją 16. Sprawy obywatelskie, której celem m.in. jest: zapewnienie przysługujących praw obywatelskich przez organy administracji publicznej oraz poprawa obsługi administracyjnej obywatela."
+    },
+    {
+     "type": "text",
+     "text": "W zakresie realizacji ww. celu dla funkcji przewiduje się – wpisujący się w budowę społeczeństwa informacyjnego – stopniowy wzrost odsetka osób korzystających ze stron internetowych lub aplikacji jednostek administracji publicznej w ciągu ostatnich 12 miesięcy (w %) z 59,5 % w roku 2024 do 62,5 % w roku 2027 (w 2025 r. i 2026 r. będzie to wartość odpowiednio 60,5 % i 61,5 %)."
+    },
+    {
+     "type": "text",
+     "text": "W ramach funkcji prowadzone są działania służące: stałemu podnoszeniu poziomu dostępności informacji i e-usług w ramach Portalu RP jako bramy do informacji i e-usług publicznych, aplikacji mObywatel i platformy mobywatel.gov.pl, jak też powstawaniu nowych e-usług i podnoszeniu poziomu dojrzałości obecnie dostępnych, a ponadto – rozwijaniu systemów i możliwości logowania się obywateli do e-usług publicznych. Rozwój publicznych usług cyfrowych administracji publicznej umożliwia dalsze zwiększanie wydajności działania administracji publicznej i podnoszenie poziomu satysfakcji obywateli."
+    },
+    {
+     "type": "text",
+     "text": "Cel funkcji w odniesieniu do spraw administracji publicznej ma być osiągany w szczególności poprzez działania ukierunkowane na rzecz współpracy z jednostkami samorządu terytorialnego oraz przedsięwzięcia stanowiące o jakości usług świadczonych przez administrację na rzecz obywateli. W tym obszarze będą podejmowane inicjatywy na rzecz uproszczenia prawa zapewniającego lepsze warunki dla działalności gospodarczej i realizacji potrzeb obywateli oraz skutecznych instytucji publicznych, dostępnych dla obywateli oraz przedsiębiorców. Podejmowane będą działania służące wzmacnianiu zdolności instytucjonalnych, poprawie skuteczności administracji publicznej oraz poprawie jakości usług publicznych, np. dzięki wprowadzeniu powszechnego systemu monitorowania wykonywania usług publicznych i wdrożeniu rozwiązań poprawiających efektywność zarządzania usługami dziedzinowymi w obszarach istotnych dla prowadzenia działalności gospodarczej w jednostkach samorządu terytorialnego. Realizację celu w tym obszarze będzie monitorował miernik: liczba skarg na bezczynność lub przewlekłość postępowań prowadzonych przez organy administracji publicznej, które są skierowane do sądów administracyjnych (w szt.). Planowana wartość miernika w poszczególnych latach w okresie 2024-2027 określona została na poziomie 8 500 szt."
+    },
+    {
+     "type": "text",
+     "text": "Najważniejszym celem w obszarze sądownictwa powszechnego, a zarazem głównym celem funkcji 18. Sprawiedliwość, jest zagwarantowanie obywatelom konstytucyjnego prawa do sądu i rozpatrzenia spraw w rozsądnym terminie przez właściwe, niezależne, bezstronne i niezawisłe sądy. Powyższy cel jest równoważny z dążeniem do jak najpełniejszej realizacji postulatu zapewnienia powszechnego dostępu do sądu rozumianego zarówno jako „fizyczna” dostępność sądu, osiągana m.in. poprzez działania organizacyjne zmierzające do zapewnienia zrównoważonej i wydajnej struktury jednostek organizacyjnych sądownictwa na obszarze całego kraju, jak również dostępność w aspekcie finansowym, tj. poziom opłat sądowych, który nie będzie stanowił bariery dochodzenia własnych praw przed sądem z uwagi na sytuację materialną obywateli. Jednocześnie zapewnienie prawa do sądu wiąże się nierozerwalnie z aspektem czasowym, tj. możliwością rozstrzygania sporów przed sądem w możliwie krótkich terminach oraz wysoką jakością orzecznictwa. Do monitorowania stopnia realizacji powyższego celu na poziomie funkcji służyć mają mierniki:"
+    },
+    {
+     "type": "text",
+     "text": "⎯ odsetek obywateli pozytywnie oceniających funkcjonowanie sądów (w %), który w roku 2024 wyniesie 30 %, natomiast w okresie 2025-2027 będzie się zwiększał i wyniesie: 31 % (w 2025 r.), 32 % (w 2026 r.) i 33 % (w 2027 r.),"
+    },
+    {
+     "type": "text",
+     "text": "⎯ odsetek spraw, w których uwzględniono skargi na naruszenie prawa strony do rozpoznania sprawy w postępowaniu sądowym bez nieuzasadnionej zwłoki (w relacji do liczby spraw rozpatrywanych przez sądy) (w %) – wskaźnik ten będzie kształtować się w latach 2024-2027 na poziomie 0,040 %."
+    },
+    {
+     "type": "text",
+     "text": "System finansów publicznych jest podstawowym instrumentem zaspokajania ważnych potrzeb społecznych oraz tworzenia fundamentów trwałego i zrównoważonego rozwoju społeczno-gospodarczego. Warunkiem koniecznym dla sprawnego funkcjonowania państwa jest zapewnienie stabilności systemu finansów publicznych¹⁹."
+    },
+    {
+     "type": "text",
+     "text": "Celem funkcji 4. Zarządzanie finansami państwa i mieniem państwowym jest w związku z tym zapewnienie stabilności finansów publicznych, przy wspieraniu inkluzywnego wzrostu gospodarczego. Oznacza to konieczność przestrzegania krajowych i unijnych przepisów zapewniających zachowanie stabilności finansów publicznych. Przewidują one ograniczenia polityki budżetowej wynikające m.in. ze stabilizującej reguły wydatkowej, która określa limit większości wydatków sektora instytucji rządowych i samorządowych. Stopień realizacji celu będzie monitorowany poprzez wskaźnik relacji kwoty wydatków stabilizującej reguły wydatkowej, od 2024 r. powiększonej o wartość klauzuli obronnej (dalej – wko²⁰) w relacji do PKB (w %)²¹. Wartość miernika (tj. relacji kwoty wydatków implikowanej przez stabilizującą regułę wydatkową powiększonej o wartość klauzuli obronnej do PKB (w %)) w roku 2024 wyniesie (45,2 + 1,3) % PKB (w odniesieniu do kwoty wydatków na kolejne lata – por. Część I., rozdz. III)."
+    },
+    {
+     "type": "text",
+     "text": "Kapitał ludzki jako krytyczny czynnik rozwoju społeczno-gospodarczego kraju, wraz z postępującymi procesami demograficznymi oraz wyzwaniami o charakterze globalnym, nabierać będzie jeszcze większego znaczenia dla uzyskania przewag konkurencyjnych w globalnej gospodarce. Lepiej wykształcone społeczeństwo to większe szanse na znalezienie dobrej pracy, a także wszechstronny rozwój²² . Poprawie jakości kapitału ludzkiego i społecznego sprzyjać zatem będą działania państwa realizowane w ramach funkcji 3. Edukacja, wychowanie i opieka, której celem jest podnoszenie jakości i efektywności kształcenia i wychowania. Funkcja ta obejmuje zadania państwa w zakresie kształcenia, wychowania i opieki, które dotyczą: wychowania przedszkolnego, kształcenia ogólnokształcącego i zawodowego, w tym specjalnego we wszystkich typach szkół, jak również określania programów, podręczników i środków dydaktycznych nauczania, systemu egzaminów zewnętrznych, organizowania pomocy stypendialnej dla uczniów, zatrudniania nauczycieli, ich awansu zawodowego i wynagradzania. W obszarze tym ujęte są także działania dotyczące spraw młodzieży, jak również związane z koordynacją polityki uczenia się przez całe życie oraz Zintegrowanego Systemu Kwalifikacji."
+    },
+    {
+     "type": "text",
+     "text": "Realizowane zadania służą zwiększeniu dostępności wysokiej jakości wychowania przedszkolnego, zapewnieniu powszechnego dostępu do nauki, podwyższeniu jakości wykształcenia i kwalifikacji zawodowych społeczeństwa, jak również wspieraniu funkcji wychowawczej, opiekuńczej i profilaktycznej realizowanej przez szkoły i inne placówki oraz wyrównywaniu szans edukacyjnych dzieci i młodzieży."
+    },
+    {
+     "type": "text",
+     "text": "Do monitorowania ww. celu funkcji zastosowano następujące mierniki:"
+    },
+    {
+     "type": "text",
+     "text": "⎯ liczba osób, które zdały egzamin potwierdzający kwalifikacje w zawodzie lub egzamin zawodowy w stosunku do liczby osób, które przystąpiły do egzaminu potwierdzającego kwalifikacje w zawodzie lub egzaminu zawodowego (w %), wielkość ta powinna w poszczególnych latach planowania (2024-2027) utrzymać się na poziomie 72 %,"
+    },
+    {
+     "type": "text",
+     "text": "⎯ liczba absolwentów poszczególnych typów szkół ponadpodstawowych, którzy zdali egzamin maturalny w stosunku do liczby absolwentów szkół ponadpodstawowych, którzy przystąpili do egzaminu maturalnego (w %) – wartość miernika w okresie poszczególnych lat planowania (2024-2027) powinna wynieść 82 %,"
+    },
+    {
+     "type": "text",
+     "text": "⎯ odsetek dzieci w wieku 3–5 lat objętych wychowaniem przedszkolnym (w %) wyniesie 91 % w 2024 r., a następnie 92 % w latach 2025-2027."
+    },
+    {
+     "type": "text",
+     "text": "Obszar wpływający na jakość kapitału ludzkiego ujęty w funkcji 10. Szkolnictwo wyższe i nauka to rozwój szkolnictwa wyższego, którego dotyczy kolejny z celów funkcji – podniesienie poziomu jakości kształcenia. W ramach tego obszaru finansowane są inicjatywy związane z polityką szkolnictwa wyższego państwa, w tym – działania mające na celu usprawnienie funkcjonowania systemu szkolnictwa wyższego oraz zwiększenie stopnia jego umiędzynarodowienia w Polsce. Realizowane są projekty mające na celu unowocześnienie infrastruktury szkolnictwa wyższego, w tym inwestycje związane z utrzymaniem i rozwojem infrastruktury w zakresie działalności dydaktycznej oraz infrastruktury socjalnej dla studentów. Wspierane są również działania służące wzmacnianiu i rozwojowi potencjału dydaktycznego szkolnictwa wyższego oraz promocji szkolnictwa wyższego."
+    },
+    {
+     "type": "text",
+     "text": "Stopień osiągnięcia ww. celu funkcji 10. – wyznaczonego w zakresie szkolnictwa wyższego – zostanie zmierzony liczbą aktywnych zawodowo pracujących z wyższym wykształceniem w liczbie zawodowo pracujących ogółem (w %). W latach 2024-2027 przewiduje się zwiększenie wartości tego miernika z poziomu 37,9 % w 2024 r., do poziomu 38,8 % w 2027 r. (w latach 2025 i 2026 wyniesie ona odpowiednio 38,2 % oraz 38,5 %)."
+    },
+    {
+     "type": "text",
+     "text": "Jednym z istotnych wymiarów rozwoju kapitału ludzkiego jest stan zdrowia i dostęp do usług z zakresu opieki zdrowotnej. Dobry stan zdrowia obywateli i całego społeczeństwa jest istotną determinantą wzrostu gospodarczego, a interwencje w dziedzinie zdrowia są kluczowe w ograniczaniu ryzyka ubóstwa z powodu dezaktywacji zawodowej wynikającej z przyczyn zdrowotnych²³ . Działalności państwa ujętej w obszarze funkcji 20. Zdrowie został przypisany cel: zwiększenie bezpieczeństwa zdrowotnego społeczeństwa poprzez zapewnienie trwałego dostępu do świadczeń opieki zdrowotnej, ze szczególnym uwzględnieniem świadczeń ratujących życie."
+    },
+    {
+     "type": "text",
+     "text": "Ponadto finansowane będą wieloletnie programy związane z rozwojem medycyny transplantacyjnej, zwalczaniem chorób nowotworowych czy chorób układu krążenia oraz program wsparcia oddziałów psychiatrycznych dla dzieci i młodzieży, a także inne programy polityki zdrowotnej. Od 1 czerwca 2024 r. rząd wprowadził program medycznego wsparcia zapłodnienia pozaustrojowego i leczenia niepłodności metodą in vitro. Natomiast ocena celowości inwestycji dokonywana przez Ministra Zdrowia pozwoli na rozwój infrastruktury w ochronie zdrowia zgodny z mapami potrzeb zdrowotnych oraz priorytetami dla regionalnej polityki zdrowotnej."
+    },
+    {
+     "type": "text",
+     "text": "Realizowane będą również działania w zakresie kształtowania zdrowego stylu życia poprzez profilaktykę oraz promocję zdrowia, a także edukację zdrowotną."
+    },
+    {
+     "type": "text",
+     "text": "Stopień osiągnięcia celu funkcji będzie monitorowany za pomocą trzech mierników:"
+    },
+    {
+     "type": "text",
+     "text": "⎯ liczba świadczeniobiorców objętych koordynowaną opieką onkologiczną (w osobach), która w okresie planowania WPFP 2024-2027 wyniesie odpowiednio: 42 000 (w 2024 r.), 44 000 (w 2025 r.), 46 000 (w 2026 r.), 48 000 (w 2027 r.),"
+    },
+    {
+     "type": "text",
+     "text": "⎯ liczba jednostek KKCz (Koncentratu Krwinek Czerwonych) wydanych do lecznictwa (w szt.) w latach 2024-2027 będzie wynosiła ok. 1 100 000 szt. w każdym roku,"
+    },
+    {
+     "type": "text",
+     "text": "⎯ liczba przeprowadzonych postępowań rejestracyjnych w zakresie produktów leczniczych, wyrobów medycznych i produktów biobójczych (w szt.), których przewiduje się zrealizować 62 980 szt. w roku 2024, a w kolejnych latach: 60 690 szt. (w 2025 r.), 60 400 szt. (w 2026 r.) oraz 59 810 szt. (w 2027 r.)."
+    },
+    {
+     "type": "text",
+     "text": "Działania państwa realizowane w obszarze sportu w ramach funkcji 8. Kultura fizyczna należy traktować przede wszystkim jako szeroko rozumianą profilaktykę zdrowia oraz sprzyjanie postawom prospołecznym. Działania prowadzone w ramach funkcji mają służyć zwiększeniu poziomu aktywności fizycznej społeczeństwa, bezpośrednio wpływają na liczbę osób podejmujących aktywność fizyczną, jak również na poziom ich sprawności fizycznej, co ma istotne znaczenie w odniesieniu do ogólnego stanu zdrowia społeczeństwa. Wskazuje się przy tym na istotną rolę zwiększania poziomu aktywności fizycznej społeczeństwa w umacnianiu kapitału społecznego oraz w profilaktyce zdrowotnej. Sport pełni ponadto funkcję wychowawczą, szczególnie w odniesieniu do dzieci i młodzieży szkolnej. Cel dla funkcji będzie monitorowany za pomocą miernika: stosunek liczby uczestników działań związanych z aktywnością fizyczną, realizowanych przez ministra właściwego do spraw kultury fizycznej, do ogólnej liczby ludności w Polsce (w %). Planowana wartość miernika w 2024 wyniesie 19 %, w latach 2025 i 2026 r. – 9,75 %, natomiast w 2027 r. – 10 %."
+    },
+    {
+     "type": "text",
+     "text": "Dla zadań prowadzonych w ramach funkcji 9. Kultura i dziedzictwo narodowe określono cele: rozwój i efektywne wykorzystanie potencjału kulturowego i kreatywnego oraz utrzymanie i pielęgnacja materialnej substancji sfery kultury."
+    },
+    {
+     "type": "text",
+     "text": "Inwestowanie w ochronę dziedzictwa, rozwój i modernizację infrastruktury kultury oraz edukację kulturalną – kształcenie odbiorcy i jego kulturowych kompetencji służyć ma budowaniu tożsamości, szacunku do tradycji, poczuciu przynależności do wspólnoty i jej historii, kreatywności, innowacyjności, otwartości i tolerancyjności. Istotne jest również wspieranie instytucji kultury, których wieloletnia działalność i tradycja mają szczególne znaczenie dla celów polityki państwa w obszarze kultury, i których dorobek jest ważnym elementem budowania tożsamości kulturowej Polaków oraz narzędziem promocji Polski w świecie. Kluczowe znaczenie ma również wypracowanie systemu wspierania rozwoju sektorów kreatywnych w Polsce – stworzenie warunków dla rozwoju tych sektorów, które wpłynie na rozwój całego ekosystemu wspierania kultury. Ważne jest także kontynuowanie zwiększania dostępu do instytucji i dzieł kultury, w tym likwidacja „białych plam” w dostępie do kultury."
+    },
+    {
+     "type": "text",
+     "text": "Pomiar celów funkcji będzie oparty na dwóch miernikach (odpowiednio dla poszczególnych celów):"
+    },
+    {
+     "type": "text",
+     "text": "⎯ widzowie i słuchacze w teatrach i instytucjach muzycznych, otrzymujących dotację podmiotową na 1 000 osób w danym roku – planowana wartość miernika w latach 2024-2027 wyniesie odpowiednio 91 osób (w 2024 r.), 92 osoby (w 2025 r.), 93 osoby (w 2026 r.), 94 osoby (w 2027 r.),"
+    },
+    {
+     "type": "text",
+     "text": "⎯ liczba nowo wybudowanych, modernizowanych, pozyskanych i wyposażonych obiektów służących kulturze w danym roku w jednostkach podległych i nadzorowanych przez Ministerstwo Kultury i Dziedzictwa Narodowego (w szt.) – przewiduje się, iż wartość ta wyniesie 155 szt. zarówno w 2024 r. jak i w 2025 r., a następnie 142 szt. w 2026 r., a także w 2027 r."
+    },
+    {
+     "type": "text",
+     "text": "Na konkurencyjność Polski i jej regionów mają wpływ działania służące spójności terytorialnej kraju, a zarazem tworzeniu warunków dla pełnego wykorzystania potencjału gospodarczego, realizowane w ramach funkcji 19. Transport i infrastruktura transportowa, w zakresie głównych rodzajów transportu, w tym przede wszystkim transportu drogowego, kolejowego, morskiego, śródlądowego, jak też lotniczego, a także – intermodalnego. Działania realizowane w obszarze transportu wzmacniają spójność terytorialną kraju (tworząc zarazem warunki dla pełnego wykorzystania potencjału gospodarczego) oraz zrównoważony międzygałęziowo rozwój transportu, przy jednoczesnej poprawie stanu bezpieczeństwa w transporcie. W zakresie transportu morskiego funkcja obejmuje przedsięwzięcia na rzecz wzmocnienia pozycji polskich portów morskich, stanowiących połączenie transportu lądowego z morskim."
+    },
+    {
+     "type": "text",
+     "text": "Celami funkcji (i ich miernikami) są:"
+    },
+    {
+     "type": "text",
+     "text": "⎯ zapewnienie stabilnego finansowania dla utrzymania spójnej, nowoczesnej i bezpiecznej sieci dróg krajowych (miernik: długość przebudowanych dróg krajowych (w km), dla którego planowane wartości w poszczególnych latach 2024-2027 wyniosą odpowiednio: 116 km (w 2024 r.), 157 km (w 2025 r.), 165 km (w 2026 r.) oraz 179 km (w 2027 r.),"
+    },
+    {
+     "type": "text",
+     "text": "⎯ wzmocnienie roli transportu kolejowego w transporcie ogółem (miernik: udział długości eksploatowanych linii kolejowych spełniających standardy do ogólnej długości eksploatowanych linii kolejowych (w %), dla którego planowane wartości – w podziale na poszczególne jednostki objęte pomiarem (tj.: 1) PKP PLK SA, 2) SKM w Trójmieście, 3) Dolnośląska Służba Dróg i Kolei, 4) Euroterminal Sławków) – wynoszą odpowiednio:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "na 2024 r.: 1) ≥89,0, 2) 100, 3) ≥90,0, 4) 100,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "na 2025 r.: 1) ≥89,0, 2) 100, 3) ≥90,0, 4) 100,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "na 2026 r.: 1) ≥89,5, 2) 100, 3) ≥90,0, 4) 100,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "na 2027 r.: 1) ≥90,0, 2) 100, 3) ≥95,0, 4) 100,",
+     "children": [
+      {
+       "type": "text",
+       "text": "⎯ poprawa konkurencyjności polskich portów (miernik: poziom zmian wielkości przeładunków towarów w portach o podstawowym znaczeniu dla gospodarki narodowej (w %) wyniesie 105 % w latach 2024-2027."
+      },
+      {
+       "type": "text",
+       "text": "Dążenie do osiągnięcia powyższych celów wpisuje się w realizację Strategii w obszarze pn. Transport²⁴."
+      },
+      {
+       "type": "text",
+       "text": "Efektem ww. działań ma być zbudowanie wielogałęziowej, zintegrowanej i uzupełniającej się sieci transportowej (kolej, drogi, sieci aglomeracyjne, sieci żeglugi śródlądowej i morskiej, porty lotnicze)."
+      },
+      {
+       "type": "text",
+       "text": "Środowisko przyrodnicze jest kapitałem naturalnym, którego zasoby warunkują rozwój gospodarczy (możliwości inwestycyjne) i społeczny (zaspokojenie elementarnych potrzeb bytowych). Działania państwa w tym obszarze dotyczą zarządzania środowiskiem na rzecz zachowania podstawowych zasobów, takich jak: potencjał energetyczny, zasoby wody, powietrze atmosferyczne, warunki klimatyczne, zasoby przestrzeni i krajobrazów oraz związana z nimi różnorodność biologiczna (zasoby siedlisk, gatunków i genów), gleby i zasoby geologiczne oraz użytki pozaekonomiczne środowiska²⁵."
+      },
+      {
+       "type": "text",
+       "text": "Realizacja tych działań została ujęta w zakresie funkcji 12. Środowisko, dla której jednym z celów jest: ochrona środowiska poprzez utrzymanie bądź poprawę stanu ochrony siedlisk przyrodniczych oraz gatunków fauny i flory. Działania w omawianym zakresie zmierzają do zrównoważonego gospodarowania zasobami środowiska oraz adaptacji do zmian klimatu. Zrównoważone gospodarowanie zasobami środowiska to m.in. utrzymanie bądź poprawa stanu ochrony siedlisk przyrodniczych oraz gatunków flory i fauny. Zadania te realizują parki narodowe będące najważniejszymi formami ochrony przyrody w Polsce. Ich działania są realizowane na podstawie zadań ochronnych (dokument krótkookresowy) oraz planów ochrony (dokument długookresowy)."
+      },
+      {
+       "type": "text",
+       "text": "Pomiar celu będzie się odbywał w związku z tym przy pomocy miernika odsetek parków narodowych posiadających plany ochrony albo zadania ochronne (w %). Wartość tego miernika w latach 2024- 2027 będzie wynosić 100 %."
+      },
+      {
+       "type": "text",
+       "text": "W ramach funkcji realizowane są działania, których celem jest również zmniejszenie liczby stref, w których występują przekroczenia standardów jakości powietrza. Realizacja zadania polega na dążeniu do redukcji liczby stref, w których występują przekroczenia standardów jakości powietrza dla pyłu zawieszonego PM10, w tym m.in. poprzez przygotowanie na poziomie krajowym odpowiednich narzędzi o charakterze legislacyjnym, strategicznym, finansowym oraz edukacyjno-promocyjnym, które pozwolą na efektywną realizację działań naprawczych, określonych w programach ochrony powietrza oraz uchwałach antysmogowych. Do pomiaru stopnia realizacji powyższego celu wykorzystany zostanie miernik: odsetek stref z przekroczeniami poziomów substancji w powietrzu w Polsce (w %) , który w poszczególnych latach 2024-2027 wyniesie odpowiednio 42 % (w 2024 r.), 39 % (w 2025 r.), 37 % (w 2026 r.) oraz 35 % (w 2027 r.)."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto ważną rolę dla funkcji 12. będą pełnić (realizowane w sferze gospodarki wodnej) działania państwa mające na celu: zaspokojenie potrzeb wodnych ludności i gospodarki narodowej oraz ograniczenie negatywnych skutków powodzi i suszy, w połączeniu z utrzymaniem dobrego stanu wód i związanych z nim ekosystemów. Podstawą do realizacji tych działań będą przyjmowane lub zatwierdzane przez ministra właściwego do spraw gospodarki wodnej dokumenty planistyczne oraz programy kluczowe dla procesu zarządzania zasobami wodnymi, takie jak: wstępna ocena ryzyka powodziowego, mapy zagrożenia powodziowego i mapy ryzyka powodziowego, przegląd i aktualizacja programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych oraz zapobieganie dalszemu zanieczyszczeniu, aktualizacja krajowego programu ochrony wód morskich, oraz plan przeciwdziałania skutkom suszy."
+      },
+      {
+       "type": "text",
+       "text": "Realizację celu w tym obszarze będzie monitorował miernik: liczba przyjętych/uzgodnionych/ zatwierdzonych dokumentów planistycznych (w szt.). Planowana wartość miernika wynosi: po 2 szt. w 2024 r. i w 2025 r., 3 szt. w 2026 r. oraz 15 szt. w 2027 r."
+      },
+      {
+       "type": "text",
+       "text": "W Strategii wskazuje się, iż podwyższenie konkurencyjności polskiego przemysłu oraz zapewnienie bezpieczeństwa energetycznego wymaga dywersyfikacji źródeł energii, modernizacji i rozbudowy sieci przesyłu i dystrybucji energii elektrycznej, gazu i ciepła sieciowego²⁶. Jednym z podstawowych wyzwań rozwojowych Polski jest zapewnienie gospodarce, instytucjom i obywatelom stabilnych i optymalnie dostosowanych do potrzeb dostaw energii, po akceptowalnej ekonomicznie cenie²⁷."
+      },
+      {
+       "type": "text",
+       "text": "W obszar ten wpisują się działania ujęte w ramach funkcji 6. Polityka gospodarcza kraju korespondujące z kierunkami polityki energetycznej w zakresie zapewnienia rozbudowy infrastruktury wytwórczej i sieciowej energii elektrycznej. Dla pokrycia rosnącego popytu, w sytuacji planowanych znaczących wycofań jednostek wytwórczych z systemu elektroenergetycznego oraz konieczności zbilansowania przyrostu mocy zależnych od warunków atmosferycznych, Polska wprowadziła mechanizm zdolności wytwórczych – rynek mocy²⁸."
+      },
+      {
+       "type": "text",
+       "text": "Rynek mocy ma na celu zapewnienie stabilności dostaw energii elektrycznej i elastyczności pracy systemu elektroenergetycznego i jest głównym narzędziem służącym pokryciu zapotrzebowania na moc własnymi zasobami. Stanowi on także impuls inwestycyjny dla budowy i modernizacji jednostek wytwórczych, magazynów energii i DSR²⁹ w celu zapewnienia stabilności dostaw energii elektrycznej. Dla monitorowania – dotyczącego tych działań – celu funkcji: zapewnienie odpowiedniego wolumenu mocy pozwalającego na bezpieczne funkcjonowanie systemu elektroenergetycznego przyjęty został miernik: liczba przeprowadzonych aukcji głównych i aukcji dodatkowych rynku mocy w danym roku (w szt.), który w latach 2024-2027 powinien osiągnąć wartość 5 szt. w każdym roku."
+      },
+      {
+       "type": "text",
+       "text": "Jednym z zasadniczych warunków niezakłóconego, stabilnego oraz zrównoważonego społecznego i ekonomicznego rozwoju kraju jest gwarancja trwałego bezpieczeństwa zewnętrznego i nienaruszalność granic. Rozpoznawanie, monitorowanie i zapobieganie zagrożeniom, a także zapewnienie skutecznych mechanizmów reagowania oraz podnoszenie skuteczności służb państwowych to warunki konieczne do prawidłowego funkcjonowania państwa oraz realizacji jego celów rozwojowych³⁰. Wskazane wyżej zadania realizowane są w ramach funkcji 11. Bezpieczeństwo zewnętrzne i nienaruszalność granic, dla której określony został cel: zapewnienie niepodległości i nienaruszalności terytorialnej RP. Cel funkcji oznaczający również ochronę suwerenności, niezależności oraz stabilności wewnętrznej państwa realizowany będzie poprzez szereg działań konsolidujących, integrujących i rozwijających oraz modernizujących system zewnętrznego bezpieczeństwa państwa. Miernikiem określonym dla celu funkcji jest m.in. relacja wskaźnika potencjału bojowego do jego poziomu z roku poprzedniego (wartość niemianowana), określająca możliwości bojowe Sił Zbrojnych RP na podstawie potencjału bojowego sprzętu wojskowego zdolnego do wykonywania uderzeń. Prognozuje się, że w latach 2024–2027 relacja ta wyniesie: 1,2 w 2024 r., 1,3 w 2025 r., 1,2 w 2026 r. oraz 1,1 w 2027 r. Wraz z modernizacją armii budowany będzie innowacyjny potencjał polskiego przemysłu obronnego³¹."
+      },
+      {
+       "type": "text",
+       "text": "Zmianie jakościowej w zakresie modernizacji technicznej towarzyszyć będzie sukcesywne zwiększanie poziomu stanu osobowego Sił Zbrojnych RP. Zakłada się, że w prognozowanej perspektywie wskaźnik wykorzystania limitu stanu średniorocznego żołnierzy zawodowych Sił Zbrojnych RP (stan średnioroczny żołnierzy zawodowych do limitu stanu średniorocznego żołnierzy zawodowych określonego na dany rok) (w %), określonego w „Programie rozwoju Sił Zbrojnych RP na lata 2021- 2035\", wynosić będzie co najmniej 90 % w latach 2024-2027. Powyższe zmiany odbywać się będą przy założeniu równoczesnego podnoszenia poziomu wyszkolenia wojsk oraz rozwoju ich struktur organizacyjnych, m.in. systemów kierowania oraz dowodzenia, a także przy realizacji współpracy obronnej i wypełniania zobowiązań sojuszniczych naszego kraju wynikających z udziału Polski w UE i w NATO. Istotnym elementem wpływającym na umacnianie bezpieczeństwa narodowego jest także udział Sił Zbrojnych RP w międzynarodowych misjach wojskowych, w których średnioroczna liczba żołnierzy i pracowników skierowanych do Polskich Kontyngentów Wojskowych (w os.) planowana jest w latach 2024-2027 odpowiednio na poziomie: 1 738 os. w 2024 r., 1 721 os. w 2025 r., 1 725 os. w 2026 r. oraz 1 670 os. w 2027 r."
+      },
+      {
+       "type": "text",
+       "text": "Ważnym warunkiem dla zapewnienia zewnętrznego bezpieczeństwa narodowego jest kształtowanie stabilnego międzynarodowego środowiska bezpieczeństwa³² . Działania w ramach tego kierunku zmierzać będą do zwiększenia efektywności polskiej polityki zagranicznej w ramach NATO, UE i innych organizacji międzynarodowych, a także budowy silnej pozycji międzynarodowej Polski³³."
+      },
+      {
+       "type": "text",
+       "text": "Wewnętrzne aspekty bezpieczeństwa Polski, a w szczególności przeciwdziałanie zagrożeniu przestępczością, w tym przestępczością zorganizowaną i gospodarczą, a także zabezpieczenie państwa w kontekście występowania zagrożeń naturalnych oraz awarii technicznych, jak też innych zdarzeń związanych z rozwojem cywilizacji, objęte są funkcją 2. Bezpieczeństwo wewnętrzne i porządek publiczny, której celem jest dalsza poprawa funkcjonowania służb bezpieczeństwa powszechnego i porządku publicznego. Realizacja zadań w ramach funkcji ma służyć przede wszystkim zapewnieniu wysokiego poziomu szeroko rozumianego bezpieczeństwa i porządku publicznego oraz zwiększeniu sprawności zabezpieczenia terytorium RP i zewnętrznej granicy Unii Europejskiej³⁴."
+      },
+      {
+       "type": "text",
+       "text": "W ramach funkcji kontynuowane będą działania Policji polegające na m.in.: inicjowaniu i organizowaniu działań mających na celu zapobieganie popełnianiu przestępstw, wykroczeń oraz zjawisk kryminogennych, rozpoznawanie, zapobieganie i wykrywanie przestępstw i wykroczeń oraz ściganie ich sprawców, ochronę życia i zdrowia ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te dobra, zapewnienie bezpieczeństwa i porządku publicznego, rozpoznawanie i zwalczanie przestępczości zorganizowanej w kraju oraz o charakterze międzynarodowym, przeciwdziałanie i zwalczanie przestępczości gospodarczej oraz wzmocnienie systemu antyterrorystycznego państwa. Zwalczane będą zorganizowane grupy przestępcze zajmujące się nielegalną produkcją i przemytem wyrobów tytoniowych. Ponadto, Policja będzie pełniła nadzór nad szeroko rozumianym bezpieczeństwem w ruchu drogowym. Prowadzona będzie współpraca z policjami innych państw oraz ich organizacjami międzynarodowymi, a także z organami i instytucjami Unii Europejskiej. Wspierane będą działania ratownicze w sytuacjach zagrożeń kryzysowych, wystąpienia klęsk żywiołowych lub awarii technicznych oraz w sytuacjach zagrożenia zdrowia lub życia ludzi, w szczególności: ratownictwie z powietrza, ratownictwie na obszarze wód."
+      },
+      {
+       "type": "text",
+       "text": "Istotnym obszarem działalności w ramach funkcji będzie ochrona granicy państwowej, będącej jednocześnie zewnętrzną granicą Unii Europejskiej, przy jednoczesnym sprawnym wykonywaniu odprawy granicznej. Zwalczane będą przestępstwa i wykroczenia, których ściganie ustalono jako właściwość Straży Granicznej. Jednym z zadań będzie rozbudowa systemu ochrony granicy państwowej przy wykorzystywaniu stacjonarnych i mobilnych urządzeń nadzoru oraz utrzymanie sprawności sprzętu wykorzystywanego do kontroli granicznej."
+      },
+      {
+       "type": "text",
+       "text": "Realizowana będzie polityka migracyjna i azylowa oraz prowadzone sprawy cudzoziemców (m.in. koordynacja działań dotyczących migracji, ocena legalności pobytu i zatrudnienia cudzoziemców, pomoc socjalna udzielana cudzoziemcom, jak też prowadzenie postępowań w sprawach cudzoziemców)."
+      },
+      {
+       "type": "text",
+       "text": "Ważnym obszarem działalności w ramach funkcji pozostaje zapewnienie skutecznego ratownictwa poprzez rozwój potencjału sił i środków krajowego systemu ratowniczo-gaśniczego (KSRG) oraz wdrażanie programu modernizacji służb i rozbudowę sieci KSRG, poprzez włączanie jednostek ochrony przeciwpożarowej do systemu."
+      },
+      {
+       "type": "text",
+       "text": "Cel funkcji będzie monitorowany poprzez następujące mierniki:"
+      },
+      {
+       "type": "text",
+       "text": "⎯ średniookresowy wskaźnik zagrożenia (średnia – w danym okresie – liczba przestępstw na 100 tys."
+      },
+      {
+       "type": "text",
+       "text": "ludności), który w latach 2024-2027 nie powinien być wyższy niż 204,69 %,"
+      },
+      {
+       "type": "text",
+       "text": "⎯ wskaźnik sprawności funkcjonowania systemu zintegrowanego zarządzania granicą i migracjami (w %), którego wartość w latach 2024-2027 nie będzie niższa niż 88 %,"
+      },
+      {
+       "type": "text",
+       "text": "⎯ średni czas oczekiwania na podjęcie interwencji podmiotów ratowniczych Krajowego Systemu Ratowniczo-Gaśniczego od momentu przyjęcia zgłoszenia (w minutach i sekundach), który w latach 2024-2027 powinien wynieść nie dłużej niż 10 minut."
+      },
+      {
+       "type": "text",
+       "text": "Natomiast w zakresie funkcji 18. Sprawiedliwość, poza zapewnieniem obywatelom konstytucyjnego prawa do sądu, celem państwa jest również zapewnienie bezpieczeństwa społecznego poprzez izolację osób tymczasowo aresztowanych i skazanych na karę pozbawienia wolności oraz resocjalizację osadzonych. Do monitorowania stopnia realizacji tego celu będzie wykorzystywany miernik: powrotność do przestępstwa osób prawomocnie skazanych (w %), który w poszczególnych latach wyniesie: 24,2 % (w 2024 r.), 24,0 % (w 2025 r.), a następnie 23,7 % (w 2026 r. i 2027 r.). Miernik odnosi się do skuteczności polityki karnej państwa rozumianej jako całokształt zagadnień związanych z przeciwdziałaniem zjawisku przestępczości, tj. szeroko rozumianej polityki karnej, kreowanej i realizowanej na wielu poziomach funkcjonowania państwa, począwszy od ustawodawcy, poprzez Ministerstwo Sprawiedliwości i nadzorowane przez nie instytucje, organy ścigania, sądy powszechne jako niezależne organy państwa powołane do sprawowania wymiaru sprawiedliwości aż po służby wykonawcze (Służba Więzienna, kuratela sądowa)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2023 r. poz. 1273, 1407, 1429, 1641, 1693 i 1872. Część I 3 Część I 4 Część I 5 Część I 6 Część I 7 ¹ DSA dotychczas pełniła rolę pomocniczą dla oceny ryzyka dla stabilności finansów publicznych państw UE, prezentowanej w raportach publikowanych przez Komisję Europejską (raz na 3 lata w „Fiscal Sustainability Report”, a w pozostałych latach w „Debt Sustainability Monitor”). W nowych regułach UE ta sama metodyka będzie służyć do wyliczania minimalnego wysiłku fiskalnego potrzebnego, aby zapewnić stabilność finansów publicznych (według określonych warunków). DSA składa się z części deterministycznej, obejmującej bazową ścieżkę relacji długu do PKB i testy warunków skrajnych („stress tests”), oraz z symulacji stochastycznych obejmujących typowe wstrząsy, które odzwierciedlają szeroką niepewność makroekonomiczną. Część I 8 Część I 9 Część I 10 Część I 11 ² Dla lat 2021–2023 dane mają charakter wstępny ze względu na brak danych statystycznych w takiej szczegółowości, która umożliwiłaby przeprowadzenie pełnego szacunku. Część I 12 Część I 13 ³ Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1535, z późn. zm.). ⁴ Por. np.”2023 Country Report Poland” wydany przez Komisję Europejską i opublikowany na https://economyfinance.ec.europa.eu/document/download/6d7df1e4-b718-416d-b5c4-05d3777f86ac_pl: „Polska nie posiada w pełni niezależnej instytucji fiskalnej, a działalność związana z monitorowaniem reguł fiskalnych jest rozproszona między różnymi organami” (s. 11). Część I 15 Część I 16 Część I 17 Źródło: Główny Urząd Statystyczny, Ministerstwo Finansów. Źródło: Główny Urząd Statystyczny, Ministerstwo Finansów. ⁵ Niniejsza część dokumentu stanowi aktualizację (wynikającą z przedłużenia perspektywy WPFP o kolejny rok, zgodnie z ustawowo określoną długością horyzontu tego Planu) dokumentu Wieloletni Plan Finansowy Państwa na lata 2023-2026 (przyjętego przez Radę Ministrów w kwietniu 2023 r.). ⁶ Dysponenci właściwi dla definiowania celów i mierników na poziomie funkcji państwa zostali wskazani w katalogu opublikowanym na stronie https://www.gov.pl/web/finanse/2024-rok-bz. ⁷ Przyjęta uchwałą nr 8 Rady Ministrów z dnia 14 lutego 2017 r. w sprawie przyjęcia Strategii na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.) (M.P. poz. 260). ⁸ System planowania strategicznego uzupełnia m.in. 8 zintegrowanych strategii rozwoju, które uszczegóławiają Strategię i służą realizacji założeń w obszarach priorytetowych: Strategia Rozwoju Kapitału Ludzkiego 2030; Strategia Rozwoju Kapitału Społecznego (współdziałanie, kultura, kreatywność) 2030; Krajowa Strategia Rozwoju Regionalnego 2030; Strategia Zrównoważonego Rozwoju Wsi, Rolnictwa i Rybactwa 2030; Strategia Zrównoważonego Rozwoju Transportu do 2030 roku; Polityka Energetyczna Polski do 2040; Polityka Ekologiczna Państwa 2030 - Strategia rozwoju w obszarze środowiska i gospodarki wodnej; Strategia Produktywności 2030. Część II 21 ⁹ Strategia, str. 6. Część II 22 ¹⁰ Starania te wpisują się w zasady „Polska aktywnym graczem o kształt UE” oraz „Polska silna współpracą”, (Strategia, str. 31), a jednocześnie w cel dotyczący obszaru Bezpieczeństwo narodowe (Strategia, str. 272). Część II 23 ¹¹ Strategia, str. 6. ¹² Po 2024 r. nie wykazuje się planowanych wartości miernika dotyczących certyfikacji dla programów z perspektywy finansowej 2014-2020 ze względu na zakończenie ich realizacji. Część II 24 ¹³ Od maja 2022 r. obsługę świadczeń przejął Zakład Ubezpieczeń Społecznych. Część II 25 ¹⁴ Od 2023 r. program „MALUCH+” realizowany jest ze środków Programu Fundusze Europejskie dla Rozwoju Społecznego 2021-2027 (FERS) wraz ze współfinansowaniem krajowym oraz ze środków KPO. Część II 26 ¹⁵ W Strategii zaprezentowano projekt strategiczny Narodowy Program Mieszkaniowy z horyzontem czasowym do 2030 roku, którego jednym z najważniejszych celów jest zwiększenie dostępu do mieszkań dla osób o dochodach uniemożliwiających nabycie lub wynajęcie mieszkania na zasadach komercyjnych. Ponadto działania zmierzające do wsparcia mieszkalnictwa zarówno w aspekcie dostępnego budownictwa mieszkaniowego jak i w ramach poprawy efektywności energetycznej budynków mieszkalnych są zawarte w KPO. ¹⁶ W 2022 r. wskaźnik wypadkowości osiągnął wartość 4,76 (wg raportu Głównego Urzędu Statystycznego „Wypadki przy pracy w 2022 r.”). Rzeczywista wartość wskaźnika za 2024 r. będzie znana 30.11.2025 r. ¹⁷ Strategia, str. 164. ¹⁸ Strategia, str. 182. Część II 27 ¹⁹ Strategia, str. 184. Część II 28 ²⁰ Wartość klauzuli obronnej (wko) – określana jest w ustawie budżetowej tylko na dany rok budżetowy. ²¹ Na podstawie kwoty wydatków stabilizującej reguły wydatkowej wylicza się coroczny nieprzekraczalny limit wydatkowy, określony w ustawie budżetowej na dany rok. Kwota wydatków na rok 2024 zapisana w ustawie wynosi 1 703 995 918 tys. zł, a wartość klauzuli obronnej 49 070 760 tys. zł. ²² Strategia, str. 206. Część II 29 ²³ Strategia, str. 202. Część II 30 ²⁴ Strategia, str. 233. Część II 31 ²⁵ Strategia, str. 252. ²⁶ Strategia, str. 246. Część II 32 ²⁷ Strategia, str. 242. ²⁸ Rynek mocy jest projektem strategicznym w ramach Polityki Energetycznej Polski. Wprowadzenie rynku mocy, jako rozwiązania pozwalającego na zapewnienie wystarczalności mocy wytwórczych w perspektywie średnio i długoterminowej jest również działaniem w wymiarze bezpieczeństwa energetycznego Krajowego Planu na rzecz Energii i Klimatu na lata 2021-2030. ²⁹ DSR (ang. Demand Side Response) jest mechanizmem dobrowolnego i czasowego obniżenia przez odbiorców zużycia energii elektrycznej lub przesunięcie w czasie jej poboru, w zamian za oczekiwane wynagrodzenie. Rozwiązanie stosuje się, by zabezpieczyć bilans mocy w krajowym systemie elektroenergetycznym. ³⁰ Strategia, str. 268. ³¹ Strategia, str. 272. Część II 33 ³² Jest to kierunek interwencji nr 3 w zakresie obszaru Bezpieczeństwo narodowe. Strategia, str. 272. ³³ Strategia, str. 272. ³⁴ Strategia, str. 270. Część II 34 Część II 35"
+ }
+}

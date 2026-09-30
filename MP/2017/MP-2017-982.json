@@ -1,0 +1,81 @@
+{
+ "eli": "MP/2017/982",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 24 października 2017 r. w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2018",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/982/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 października 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wysokości stawek kar za przekroczenie dopuszczalnego poziomu hałasu na rok 2018"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 291 ust. 2 oraz art. 312 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519, z późn. zm.[^2]) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "górną jednostkową stawkę kary za przekroczenie dopuszczalnego poziomu hałasu przenikającego do środowiska, za jeden dB przekroczenia, wynoszącą 65,37 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "jednostkowe stawki kar za przekroczenie dopuszczalnego poziomu hałasu, zawarte w załączniku do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: J. Szyszko"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Środowiska z dnia 24 października 2017 r. (poz. 982)",
+   "body": [
+    {
+     "type": "text",
+     "text": "JEDNOSTKOWE STAWKI KAR ZA PRZEKROCZENIE DOPUSZCZALNEGO POZIOMU HAŁASU"
+    },
+    {
+     "type": "text",
+     "text": "w zł za każdy dB przekroczenia Wielkość przekroczenia w porze dnia w porze nocy"
+    },
+    {
+     "type": "text",
+     "text": "od 1 do 5 dB 11,37 14,24"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 5 do 10 dB 19,91 24,20"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 10 do 15 dB 28,47 34,17"
+    },
+    {
+     "type": "text",
+     "text": "powyżej 15 dB 42,68 51,26"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1904 i 2095).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 785, 898, 1089, 1529, 1566, 1888 i 1999."
+ }
+}

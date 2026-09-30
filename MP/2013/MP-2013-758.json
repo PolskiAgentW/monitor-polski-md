@@ -1,0 +1,3513 @@
+{
+ "eli": "MP/2013/758",
+ "title": "Komunikat Prezesa Narodowego Funduszu Zdrowia z dnia 22 sierpnia 2013 r. w sprawie ogłoszenia sprawozdania finansowego Narodowego Funduszu Zdrowia za 2012 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/758/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA NARODOWEGO FUNDUSZU ZDROWIA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 sierpnia 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia sprawozdania finansowego Narodowego Funduszu Zdrowia za 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.[^1]) ogłasza się sprawozdanie finansowe Narodowego Funduszu Zdrowia za 2012 r., stanowiące załącznik do komunikatu."
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Funduszu Zdrowia: A. Pachciarz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do komunikatu Prezesa Narodowego Funduszu Zdrowia z dnia 22 sierpnia 2013 r. (poz. 758)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ŁĄCZNE"
+    },
+    {
+     "type": "text",
+     "text": "SPRAWOZDANIE FINANSOWE"
+    },
+    {
+     "type": "text",
+     "text": "NARODOWEGO FUNDUSZU ZDROWIA"
+    },
+    {
+     "type": "text",
+     "text": "za okres 1.01 – 31.12.2012 r."
+    },
+    {
+     "type": "text",
+     "text": "WPROWADZENIE DO SPRAWOZDANIA FINANSOWEGO"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przedmiotem podstawowej działalności Narodowego Funduszu Zdrowia zwanego dalej „Jednostką” w okresie sprawozdawczym było wykonywanie czynności z zakresu powszechnego ubezpieczenia zdrowotnego, zgodnie z ustawą z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027 z późn. zm.).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Czas trwania działalności Jednostki - nieograniczony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Przedmiotowe sprawozdanie finansowe obejmuje okres od 1 stycznia do 31 grudnia 2012 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Sprawozdanie finansowe Jednostki jest sprawozdaniem łącznym, gdyż zostało sporządzone przez Centralę na podstawie 16 jednostkowych sprawozdań finansowych oddziałów wojewódzkich oraz sprawozdania Centrali.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Sprawozdanie finansowe sporządzone zostało przy założeniu kontynuowania dalszej działalności Jednostki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Sprawozdanie finansowe sporządzone zostało za okres, w którym nie nastąpiło połączenie ze spółką.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Sprawozdanie finansowe sporządzone zostało na podstawie ksiąg rachunkowych prowadzonych zgodnie z dokumentacją ustalonych zasad rachunkowości, przyjętą zarządzeniem Nr 76/2009/BK Prezesa Narodowego Funduszu Zdrowia z dnia 26 listopada 2009 r. w sprawie ustalenia zasad rachunkowości w Narodowym Funduszu Zdrowia, zmienionego zarządzeniami Nr 24/2010/BK z dnia 28 maja 2010 r., Nr 58/2010 z dnia 22 września 2010 r., Nr 76/2010/BK z dnia 13 grudnia 2010 r., Nr 26/2011/BK z dnia 10 czerwca 2011 r., Nr 64/2011/BK z dnia 14 października 2011 r., Nr 98/2011/BK z dnia 22 grudnia 2011 r., Nr 30/2012/BK z dnia 18 maja 2012 r. oraz Nr 99/2012/BK z dnia 21 grudnia 2012 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymieniona dokumentacja obejmowała w szczególności „Zasady rachunkowości NFZ”, które regulowały następujące obszary tematyczne:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "przyjęte przez Jednostkę podstawowe zasady prowadzenia ksiąg rachunkowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "wykaz kont księgi głównej wraz z wykazem obligatoryjnych kont pomocniczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "zasady ujmowania zdarzeń w księgach rachunkowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_7/pkt_4",
+       "text": "wykaz rocznych stawek amortyzacyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_7/pkt_5",
+       "text": "opis systemu informatycznego przetwarzania danych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_7/pkt_6",
+       "text": "terminy przyjęte do szacowania przychodów należnych za miesiąc kalendarzowy ze składek na ubezpieczenie zdrowotne oraz terminy sporządzania zestawień obrotów i sald kont księgi głównej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_7/pkt_7",
+       "text": "system ochrony danych i ich zbiorów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_7/pkt_8",
+       "text": "zasady rachunkowości dotyczące programu lub projektu finansowanego ze środków pieniężnych pochodzących z budżetu Unii Europejskiej (UE) lub Europejskiego Porozumienia o Wolnym Handlu (EFTA), zakładającego całkowite pokrycie wydatków kwalifikowanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_7/pkt_9",
+       "text": "zasady rachunkowości dotyczące programu lub projektu finansowanego ze środków pieniężnych pochodzących z budżetu Unii Europejskiej (UE) lub Europejskiego Porozumienia o Wolnym Handlu (EFTA), zakładającego częściowe pokrycie wydatków kwalifikowanych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Wykazane w bilansie na dzień 31 grudnia 2012 r. aktywa i pasywa wyceniono na dzień bilansowy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_8/pkt_1",
+       "text": "środki trwałe oraz wartości niematerialne i prawne – według ceny nabycia lub kosztów wytworzenia, pomniejszonych o odpisy umorzeniowe, a także odpisy z tytułu trwałej utraty wartości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "środki trwałe w budowie – w wysokości ogółu kosztów pozostających w bezpośrednim związku z ich nabyciem lub wytworzeniem, pomniejszonych o odpisy z tytułu trwałej utraty wartości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "inwestycje długoterminowe w nieruchomości oraz wartości niematerialne i prawne – według ceny nabycia pomniejszonej o odpisy z tytułu trwałej utraty wartości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_8/pkt_4",
+       "text": "rzeczowe składniki aktywów obrotowych – według cen nabycia lub kosztów wytworzenia nie wyższych od cen ich sprzedaży netto,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_8/pkt_5",
+       "text": "należności i udzielone pożyczki – w kwocie wymaganej zapłaty, z zachowaniem ostrożności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_8/pkt_6",
+       "text": "zobowiązania – w kwocie wymaganej zapłaty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_8/pkt_7",
+       "text": "rezerwy – w uzasadnionej, wiarygodnie oszacowanej wartości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_8/pkt_8",
+       "text": "fundusze własne oraz pozostałe aktywa i pasywa – w wartości nominalnej.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Amortyzacja (umorzenie) środków trwałych dokonywana była na zasadzie planowego, systematycznego rozłożenia ich wartości początkowej na ustalony okres amortyzacji. Rozpoczęcie amortyzacji (umorzeń) następowało od miesiąca następującego po przyjęciu środka trwałego do użytkowania, a zakończenie nie później niż z chwilą zrównania wartości umorzeń (amortyzacji) z wartością początkową danego środka trwałego lub przeznaczenia go do sprzedaży, likwidacji bądź stwierdzenia niedoboru, z ewentualnym uwzględnieniem przewidzianej przy likwidacji ceny sprzedaży netto pozostałości środka trwałego. Środki trwałe Jednostka amortyzowała (umarzała) metodą liniową, zgodnie z „Wykazem rocznych stawek amortyzacyjnych”, z tym że:"
+        },
+        {
+         "type": "text",
+         "text": "przedmioty o cechach środka trwałego o wartości początkowej większej od 500 zł i mniejszej bądź równej 3.500 zł, a także telefony komórkowe bez względu na wartość początkową, jeśli nie zostały zaliczone do środków trwałych, zaliczano do wyposażenia rzeczowego; rozchody wyposażenia rzeczowego traktowano jako materiały i w momencie wydania do użytkowania zaliczano bezpośrednio w ciężar zużycia materiałów pozostałych oraz ujmowano w ewidencji pozabilansowej,"
+        },
+        {
+         "type": "text",
+         "text": "rzeczowe aktywa trwałe i zrównane z nimi o wartości początkowej wyższej od 3.500 zł, a także zespoły komputerowe bez względu na ich wartość początkową, ujmowano w ewidencji bilansowej na koncie środków trwałych, a począwszy od miesiąca następującego po miesiącu wydania do użytkowania, dokonywano miesięcznych odpisów umorzeniowych (amortyzacyjnych)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Jednostka stosowała poniższe uproszczenia ewidencyjne, ponieważ ich stosowanie nie wywierało istotnego wpływu na rzetelne i jasne przedstawienie sytuacji majątkowej i finansowej oraz wyniku finansowego Jednostki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_9/pkt_1",
+       "text": "wartość materiałów nie objętych ewidencją wartościową na kontach zespołu 3 „Materiały i towary” była odpisywana w koszty zużycia materiałów na dzień ich zakupu; na koniec roku obrotowego ustalano stan tych materiałów w magazynie, dokonywano ich wyceny i korekty kosztów o wartość tego stanu; wymienionych czynności nie przeprowadzano jednak w stosunku do materiałów wydanych do zużycia, a nie zużytych do końca roku, w szczególności paliwa samochodowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "wycena zapasu i rozchodu materiałów objętych ewidencją magazynową wydawanych ubezpieczonym lub świadczeniodawcom dokonywana była na koniec roku obrotowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "nie tworzono rezerw na świadczenia pracownicze wynikające z kodeksu pracy oraz zakładowego układu zbiorowego pracy; świadczenia te w całości obciążały koszty roku, którego dotyczyły,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_9/pkt_4",
+       "text": "roczne stawki amortyzacyjne środków trwałych - za wyjątkiem prawa użytkowania wieczystego gruntów - oraz wartości niematerialnych i prawnych, były zbieżne ze stawkami ustalonymi w ustawie o podatku dochodowym od osób prawnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_9/pkt_5",
+       "text": "wycena zobowiązań w walutach obcych powstałych na skutek rozliczeń formularzy E 125 / E 127 lub odpowiednich dokumentów SED, zgodnie z przepisami o koordynacji, wobec państw członkowskich Unii Europejskiej (UE) lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) - dokonywana była według dziennego kursu referencyjnego ogłaszanego przez Europejski Bank Centralny (EBC) w dniu przeprowadzenia operacji, czyli dniu wystawienia właściwego dowodu księgowego, a w szczególności faktury, rachunku lub zewnętrznej noty księgowej; w przypadku dni, w których EBC nie ogłaszał kursu, zastosowanie miał ostatnio ogłoszony kurs; korekta wyceny zobowiązań powstałych w walutach obcych dokonywana była po kursie pierwotnie zastosowanym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_9/pkt_6",
+       "text": "wartość zobowiązań w walutach obcych powstałych na skutek rozliczeń formularza E 126 lub odpowiednich dokumentów SED, zgodnie z przepisami o koordynacji, wobec osób ubezpieczonych w związku z ich pobytem w państwie członkowskim Unii Europejskiej (UE) lub Europejskiego Porozumienia o Wolnym Handlu (EFTA) przeliczana była na walutę polską według dziennego kursu referencyjnego ogłaszanego przez Europejski Bank Centralny (EBC) – w dniu doręczenia do jednostki odpowiedzi z instytucji miejsca pobytu z kwotą określoną w części B formularza E 126 lub odpowiedniego dokumentu SED, a w przypadku Królestwa Hiszpanii – na dzień doręczenia do jednostki wniosku od ubezpieczonego; w przypadku dni, w których EBC nie ogłaszał kursu, zastosowanie miał ostatnio ogłoszony kurs; korekta wyceny zobowiązań powstałych w walutach obcych dokonywana była po kursie pierwotnie zastosowanym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_9/pkt_7",
+       "text": "korekty finansowe rozliczeń z osobami fizycznymi powstałymi z tytułu dochodzenia roszczeń regresowych za udzielone świadczenia opieki zdrowotnej lub wypłaconą refundację kosztów świadczenia opieki zdrowotnej, udzielonego w Rzeczypospolitej Polskiej lub w państwach członkowskich Unii Europejskiej (UE) albo Europejskiego Porozumienia o Wolnym Handlu (EFTA), rozliczone wcześniej ze świadczeniodawcą, apteką lub Centralą NFZ, odnoszono na zwiększenie (zmniejszenie) przychodów z regresów, niezależnie od tego, czy korekta dotyczyła bieżącego czy poprzednich lat obrotowych; przychody powyższe stanowiły przychody oddziału wojewódzkiego NFZ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_9/pkt_8",
+       "text": "w przypadku, gdy proporcja, o której mowa w art. 90 ust. 10 pkt 2 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2011 r., Nr 177, poz. 1054 z późn. zm.) nie przekroczyła 2% - uznawano, że proporcja ta wynosi 0%.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Wynik finansowy netto Jednostki składa się z:",
+     "children": [
+      {
+       "type": "text",
+       "text": "wyniku z działalności operacyjnej z uwzględnieniem pozostałych kosztów i przychodów operacyjnych,"
+      },
+      {
+       "type": "text",
+       "text": "wyniku z operacji finansowych,"
+      },
+      {
+       "type": "text",
+       "text": "wyniku ze zdarzeń nadzwyczajnych, obowiązkowych obciążeń wyniku finansowego z tytułu podatku dochodowego od osób prawnych. Wynik finansowy prezentowany jest w porównawczym rachunku zysków i strat."
+      },
+      {
+       "type": "text",
+       "text": "Warszawa, dnia 25 marca 2013 r."
+      },
+      {
+       "type": "text",
+       "text": "Prezes Narodowego Agnieszka Pachciarz Funduszu Zdrowia"
+      },
+      {
+       "type": "text",
+       "text": "Zastępca Prezesa ds. Wiesława Anna Kłos Finansowych"
+      },
+      {
+       "type": "text",
+       "text": "Zastępca Prezesa ds. Marcin Pakulski Medycznych"
+      },
+      {
+       "type": "text",
+       "text": "Zastępca Prezesa ds. Zbigniew Teter Mundurowych"
+      },
+      {
+       "type": "text",
+       "text": "Główny Księgowy Andrzej Cichocki ŁĄCZNY BILANS NA DZIEŃ 31.12.2012 r. Narodowego Funduszu Zdrowia w zł i gr Stan na dzień AKTYWA 31.12.2011 r. 31.12.2012 r. A AKTYWA TRWAŁE 1 299 956 276,19 284 555 279,14 I. Wartości niematerialne i prawne 2 30 872 044,28 28 412 368,68 1. Koszty zakończonych prac rozwojowych 3 0,00 0,00 2. Wartość firmy 4 0,00 0,00 3. Inne wartości niematerialne i prawne 5 30 872 044,28 28 412 368,68 4. Zaliczki na wartości niematerialne i prawne 6 0,00 0,00 II. Rzeczowe aktywa trwałe 7 268 947 286,32 255 372 519,47 1. Środki trwałe 8 263 426 770,19 243 596 426,31 a) Grunty (w tym prawo do użytkowania 9 13 776 125,28 13 460 707,32 wieczystego gruntu) b) Budynki, lokale i obiekty inżynierii lądowej i 10 165 966 834,58 157 578 089,09 wodnej c) Urządzenia techniczne i maszyny 11 78 655 309,26 68 693 091,30 d) Środki transportu 12 2 436 909,40 1 823 463,94"
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_10/lit_e",
+       "text": "Inne środki trwałe 13 2 591 591,67 2 041 074,66 2. Środki trwałe w budowie 14 5 520 516,13 11 776 093,16 3. Zaliczki na środki trwałe w budowie 15 0,00 0,00 III. Należności długoterminowe 16 132 145,59 765 590,99 1. Od jednostek powiązanych 17 0,00 0,00 2. Od pozostałych jednostek 18 132 145,59 765 590,99 IV. Inwestycje długoterminowe 19 4 800,00 4 800,00 1. Nieruchomości 20 0,00 0,00 2. Wartości niematerialne i prawne 21 0,00 0,00 3. Długoterminowe aktywa finansowe 22 0,00 0,00 a) w jednostkach powiązanych 23 0,00 0,00 -udziały lub akcje 24 0,00 0,00 -inne papiery wartościowe 25 0,00 0,00 -udzielone pożyczki 26 0,00 0,00 -inne długoterminowe aktywa finansowe 27 0,00 0,00 b) w pozostałych jednostkach 28 0,00 0,00 -udziały lub akcje 29 0,00 0,00 -inne papiery wartościowe 30 0,00 0,00 -udzielone pożyczki 31 0,00 0,00 -inne długoterminowe aktywa finansowe 32 0,00 0,00 4. Inne inwestycje długoterminowe 33 4 800,00 4 800,00 V. Długoterminowe rozliczenia międzyokresowe 34 0,00 0,00 1 Aktywa z tytułu odroczonego podatku dochodowego 35 0,00 0,00",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Inne rozliczenia międzyokresowe 36 0,00 0,00 B AKTYWA OBROTOWE 37 8 125 403 560,96 8 463 607 013,72 I. Zapasy 38 1 606 255,68 1 300 083,94 1. Materiały 39 806 809,41 801 743,11 2. Półprodukty i produkty w toku 40 0,00 0,00 3. Produkty gotowe 41 0,00 0,00 4. Towary 42 60 396,32 56 814,26 5. Zaliczki na dostawy 43 739 049,95 441 526,57 II. Należności krótkoterminowe 44 5 425 320 414,71 5 664 014 861,74 1. Należności od jednostek powiązanych 45 0,00 0,00 a) z tytułu dostaw i usług, o okresie spłaty: 46 0,00 0,00 -do 12 miesięcy 47 0,00 0,00 -powyżej 12 miesięcy 48 0,00 0,00 b) inne 49 0,00 0,00 2. Należności od pozostałych jednostek 50 5 425 320 414,71 5 664 014 861,74 a) z tytułu dostaw i usług, o okresie spłaty: 51 5 407 865 122,01 5 617 493 432,87 -do 12 miesięcy 52 5 407 865 122,01 5 616 115 088,87 -powyżej 12 miesięcy 53 0,00 1 378 344,00",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "z tytułu podatków, dotacji, ceł, ubezpieczeń 54 7 914 551,76 11 414 934,31 społecznych i zdrowotnych oraz innych świadczeń",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "inne 55 9 324 064,57 34 654 654,40 d) dochodzone na drodze sądowej 56 216 676,37 451 840,16 III. Należności wewnętrzne NFZ 57 0,00 0,00 IV. Inwestycje krótkoterminowe 58 2 695 757 485,61 2 795 050 401,62 1 Krótkoterminowe aktywa finansowe 59 2 695 757 485,61 2 795 050 401,62 a) w jednostkach powiązanych 60 0,00 0,00 -udziały lub akcje 61 0,00 0,00 -inne papiery wartościowe 62 0,00 0,00 -udzielone pożyczki 63 0,00 0,00 -inne krótkoterminowe aktywa finansowe 64 0,00 0,00 b) w pozostałych jednostkach 65 0,00 0,00 -udziały lub akcje 66 0,00 0,00 -inne papiery wartościowe 67 0,00 0,00 -udzielone pożyczki 68 0,00 0,00 -inne krótkoterminowe aktywa finansowe 69 0,00 0,00 c) środki pieniężne i inne aktywa pieniężne 70 2 695 757 485,61 2 795 050 401,62 -środki pieniężne w kasie i na rachunkach 71 7 431 931,42 3 400 237,15 -inne środki pieniężne 72 2 688 325 554,19 2 791 650 164,47 -inne aktywa pieniężne 73 0,00 0,00 2 Inne inwestycje krótkoterminowe 74 0,00 0,00 V. Krótkoterminowe rozliczenia międzyokresowe 75 2 719 404,96 3 241 666,42 A K T Y W A R A Z E M 76 8 425 359 837,15 8 748 162 292,86 w zł i gr Stan na dzień PASYWA 31.12.2011 r. 31.12.2012 r. A KAPITAŁ (FUNDUSZ) WŁASNY 77 1 606 436 814,49 1 891 818 453,52",
+       "children": [
+        {
+         "type": "text",
+         "text": "I. Kapitał (fundusz) podstawowy 78 141 549 868,09 141 549 868,09 II. Należne wpłaty na kapitał podstawowy (wielkość 79 0,00 0,00 ujemna)"
+        },
+        {
+         "type": "text",
+         "text": "III. Udziały (akcje) własne (wielkość ujemna) 80 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "IV. Kapitał (fundusz) zapasowy 81 1 451 175 184,25 1 464 886 946,40"
+        },
+        {
+         "type": "text",
+         "text": "V. Kapitał (fundusz) z aktualizacji wyceny 82 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "VI. Pozostałe kapitały (fundusze) rezerwowe 83 153 626 024,66 0,00"
+        },
+        {
+         "type": "text",
+         "text": "VII. Zysk (strata) z lat ubiegłych 84 60 000 000,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "VIII. Zysk (strata) netto 85 -199 914 262,51 285 381 639,03"
+        },
+        {
+         "type": "text",
+         "text": "Odpisy z zysku netto w ciągu okresu IX. sprawozdawczego (wielkość ujemna) 86 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "B ZOBOWIĄZANIA I REZERWY NA 87 6 818 923 022,66 6 856 343 839,34 ZOBOWIĄZANIA I. Rezerwy na zobowiązania 88 1 305 833 783,33 1 282 355 900,87"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Rezerwa z tytułu odroczonego podatku dochodowego 89 0,00 0,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Rezerwa na świadczenia emerytalne i podobne 90 0,00 0,00 -długoterminowa 91 0,00 0,00 -krótkoterminowa 92 0,00 0,00 3. Pozostałe rezerwy 93 1 305 833 783,33 1 282 355 900,87 -długoterminowe 94 0,00 0,00 -krótkoterminowe 95 1 305 833 783,33 1 282 355 900,87 II. Zobowiązania długoterminowe 96 522 567,47 639 930,83 1. Wobec jednostek powiązanych 97 0,00 0,00 2. Wobec pozostałych jednostek 98 522 567,47 639 930,83 a) kredyty i pożyczki 99 0,00 0,00",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "z tytułu emisji dłużnych papierów wartościowych 100 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "inne zobowiązania finansowe 101 0,00 0,00 d) inne 102 522 567,47 639 930,83 III. Zobowiązania krótkoterminowe 103 5 505 956 867,77 5 567 309 198,36 1. Wobec jednostek powiązanych 104 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "a)z tytułu dostaw i usług, o okresie wymagalności: 105 0,00 0,00"
+      },
+      {
+       "type": "text",
+       "text": "-do 12 miesięcy 106 0,00 0,00 -powyżej 12 miesięcy 107 0,00 0,00 b)inne 108 0,00 0,00 2. Wobec pozostałych jednostek 109 5 502 030 546,67 5 563 473 202,00 a) kredyty i pożyczki 110 0,00 0,00"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "z tytułu emisji dłużnych papierów wartościowych 111 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "inne zobowiązania finansowe 112 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "z tytułu dostaw i usług, o okresie wymagalności: 113 5 461 046 440,84 5 522 026 442,74",
+       "children": [
+        {
+         "type": "text",
+         "text": "-do 12 miesięcy 114 5 461 046 440,84 5 522 026 442,74 -powyżej 12 miesięcy 115 0,00 0,00 e) zaliczki otrzymane na dostawy 116 0,00 0,00"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/lit_f",
+       "text": "zobowiązania wekslowe 117 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/lit_g",
+       "text": "z tytułu podatków, ceł, ubezpieczeń i innych 118 14 238 920,24 14 505 478,52 świadczeń h) z tytułu wynagrodzeń 119 4 526 333,79 3 140 095,34",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_2/lit_i",
+       "text": "inne 120 22 218 851,80 23 801 185,40 3. Fundusze specjalne 121 3 926 321,10 3 835 996,36 IV. Fundusz wydzielony 122 0,00 0,00 V. Zobowiązania wewnętrzne NFZ 123 0,00 0,00 VI. Rozliczenia międzyokresowe 124 6 609 804,09 6 038 809,28 1. Ujemna wartość firmy 125 0,00 0,00 2. Inne rozliczenia międzyokresowe 126 6 609 804,09 6 038 809,28 -długoterminowe 127 4 268 828,90 2 491 238,87 -krótkoterminowe 128 2 340 975,19 3 547 570,41 P A S Y W A R A Z E M 129 8 425 359 837,15 8 748 162 292,86",
+       "children": [
+        {
+         "type": "text",
+         "text": "Warszawa, dnia 25 marca 2013 r. Prezes Narodowego Agnieszka Pachciarz Funduszu Zdrowia Zastępca Prezesa ds. Wiesława Anna Kłos Finansowych Zastępca Prezesa ds. Marcin Pakulski Medycznych Zastępca Prezesa ds. Zbigniew Teter Mundurowych"
+        },
+        {
+         "type": "text",
+         "text": "Główny Księgowy Andrzej Cichocki ŁĄCZNY RACHUNEK ZYSKÓW I STRAT Narodowego Funduszu Zdrowia ZA OKRES 1.01-31.12.2012 r. w zł i gr WYSZCZEGÓLNIENIE Dane za okres : Dane za okres : 1.01-31.12.2011 r. 1.01-31.12.2012 r. A. Przychody netto ze sprzedaży i zrównane z nimi, w tym: 60 349 382 573,07 62 554 713 964,37 I. Przychody netto ze sprzedaży produktów - przychód ze składek oraz 60 349 714 293,13 62 553 968 902,92 pozostałe przychody z tyt. puz 1. Przychody z tyt. składek na puz 58 238 309 067,90 60 312 306 720,58"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Pozostałe przychody z tyt. puz 2 111 405 225,23 2 241 662 182,34 II. Zmiana stanu produktów (zwiększenie - wartość dodatnia, zmniejszenie - -384 631,97 714 364,55 wartość ujemna) III. Koszt wytworzenia produktów na własne potrzeby jednostki 0,00 0,00 IV. Przychody netto ze sprzedaży towarów i materiałów 52 911,91 30 696,90 B. Koszty działalności operacyjnej 60 561 201 933,62 62 005 120 941,41 I. Amortyzacja 79 293 173,91 81 948 931,31 II. Zużycie materiałów i energii 18 496 032,83 18 903 187,11 III. Usługi obce 60 100 928 466,11 61 530 518 962,53 IV. Podatki i opłaty 2 654 908,65 3 324 369,43 V. Wynagrodzenia 300 396 419,25 305 105 055,79 VI. Ubezpieczenia społeczne i inne świadczenia 55 665 238,19 61 942 819,50 VII. Pozostałe koszty rodzajowe 3 762 595,37 3 373 134,00 VIII. Wartość sprzedanych towarów i materiałów 5 099,31 4 481,74 C. Zysk (strata) ze sprzedaży (A-B) -211 819 360,55 549 593 022,96 D. Pozostałe przychody operacyjne 226 703 462,64 244 331 887,14 I. Zysk ze zbycia niefinansowych aktywów trwałych 0,00 0,00 II. Dotacje 788 694,32 648 944,55 III. Inne przychody operacyjne 225 914 768,32 243 682 942,59 E. Pozostałe koszty operacyjne 318 241 021,07 636 758 276,49 I. Strata ze zbycia niefinansowych aktywów trwałych 93 152,55 2 815 013,22 II. Aktualizacja wartości aktywów niefinansowych 113 737 483,78 61 391 625,31 III. Inne koszty operacyjne 204 410 384,74 572 551 637,96 F. Zysk (strata) z działalności operacyjnej (C+D-E) -303 356 918,98 157 166 633,61 G. Przychody finansowe 146 196 399,77 165 956 423,30 I. Dywidendy i udziały w zyskach 0,00 0,00 II. Odsetki 137 700 767,55 145 394 551,12 III. Zysk ze zbycia inwestycji 0,00 0,00 IV. Aktualizacja wartości inwestycji 0,00 0,00 V. Inne 8 495 632,22 20 561 872,18 H. Koszty finansowe 42 753 743,30 37 741 417,88 I. Odsetki 1 201 125,71 7 771 672,12 II. Strata ze zbycia inwestycji 0,00 0,00 III. Aktualizacja wartości inwestycji 0,00 0,00 IV. Inne 41 552 617,59 29 969 745,76 I. Zysk (strata) z działalności gospodarczej (F+G-H) -199 914 262,51 285 381 639,03 J. Wynik zdarzeń nadzwyczajnych (J.I.-J.II.) 0,00 0,00 I. Zyski nadzwyczajne 0,00 0,00 II. Straty nadzwyczajne 0,00 0,00 K. Zysk (strata) brutto (I -/+J) -199 914 262,51 285 381 639,03 L. Podatek dochodowy 0,00 0,00 M. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) 0,00 0,00 N. Zysk (strata) netto (K-L-M) -199 914 262,51 285 381 639,03",
+     "children": [
+      {
+       "type": "text",
+       "text": "Funduszu Zdrowia Zastępca Prezesa ds. Wiesława Anna Kłos Finansowych Zastępca Prezesa ds. Marcin Pakulski Medycznych Zastępca Prezesa ds. Zbigniew Teter Mundurowych"
+      },
+      {
+       "type": "text",
+       "text": "Główny Księgowy Andrzej Cichocki ZESTAWIENIE ZMIAN W KAPITALE (FUNDUSZU) WŁASNYM Narodowego Funduszu Zdrowia ZA OKRES 1.01-31.12.2012 r. w zł i gr Dane za okres : Dane za okres : Wyszczególnienie 1.01-31.12.2011 r. 1.01-31.12.2012 r."
+      },
+      {
+       "type": "text",
+       "text": "I. Kapitał (fundusz) własny na początek okresu (BO) 1 806 351 077,00 1 606 436 814,49 - Korekty błędów podstawowych 0,00 0,00 I.a. Kapitał (fundusz) własny na początek okresu (BO), po korektach 1 806 351 077,00 1 606 436 814,49"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Kapitał (fundusz) podstawowy na początek okresu 141 549 868,09 141 549 868,09 1.1. Zmiany kapitału (funduszu) podstawowego 0,00 0,00 a) zwiększenie (z tytułu) 0,00 0,00 - utworzony ustawowo 0,00 0,00 b) zmniejszenie (z tytułu) 0,00 0,00 - umorzenia udziałów (akcji) 0,00 0,00 1.2. Kapitał (fundusz) podstawowy na koniec okresu 141 549 868,09 141 549 868,09 2. Należne wpłaty na kapitał podstawowy 0,00 0,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Udziały (akcje) własne 0,00 0,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Kapitał (fundusz) zapasowy na początek okresu 3 190 871 264,95 1 604 801 208,91 4.1. Zmiany kapitału (funduszu) zapasowego -1 739 696 080,70 -139 914 262,51 a) zwiększenie (z tytułu) 0,00 0,00 - z podziału zysku 0,00 0,00 - z podziału zysku 0,00 0,00 - przejęcie do Centrali NFZ funduszu zapasowego utworzonego przez OW 0,00 0,00 NFZ w latach poprzednich",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_4/lit_b",
+       "text": "zmniejszenie (z tytułu) -1 739 696 080,70 -139 914 262,51 - przekazanie do Centrali NFZ funduszu zapasowego utworzonego przez 0,00 0,00 OW NFZ w latach poprzednich - pozostałe -1 739 696 080,70 -139 914 262,51 4.2. Stan kapitału (funduszu) zapasowego na koniec okresu 1 451 175 184,25 1 464 886 946,40 5. Kapitał (fundusz) z aktualizacji wyceny 0,00 0,00",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Pozostałe kapitały (fundusze) rezerwowe 153 626 024,66 0,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Zysk (strata) z lat ubiegłych na początek okresu -1 679 696 080,70 -139 914 262,51 7.1. Zysk z lat ubiegłych na początek okresu 59 999 998,00 480 022 516,49 - korekta błędów podstawowych 0,00 0,00 7.2. Zysk z lat ubiegłych na początek okresu, po korektach 59 999 998,00 480 022 516,49 a) zwiększenie (z tytułu) 0,00 0,00 - podziału zysku z lat ubiegłych 0,00 0,00 - przejęcie wyniku z lat ubiegłych z Oddziałów Wojewódzkich NFZ 0,00 0,00 b) zmniejszenie (z tytułu) 2,00 -60 000 000,00 - pokrycie nadwyżki kosztów nad przychodami z lat ubiegłych 0,00 -60 000 000,00 - przekazanie wyniku z lat ubiegłych do Centrali NFZ 0,00 0,00 - przekazanie na fundusz zapasowy 2,00 0,00 7.3. Zysk z lat ubiegłych na koniec okresu 60 000 000,00 420 022 516,49 7.4. Strata z lat ubiegłych na początek okresu - 1 7 3 9 696 078,70 -619 936 779,00 - korekta błędów podstawowych 0,00 0,00 7.5. Strata z lat ubiegłych na początek okresu, po korektach -1 739 696 078,70 -619 936 779,00 a) zwiększenie (z tytułu) 1 739 696 078,70 199 914 262,51 - przeniesienia straty z lat ubiegłych do pokrycia 1 739 696 078,70 199 914 262,51 - przejęcie wyniku z lat ubiegłych z Oddziałów Wojewódzkich NFZ 0,00 0,00 b) zmniejszenie (z tytułu) 0,00 0,00 - przekazanie do Oddziałów i Centrali NFZ 0,00 0,00 - przekazanie wyniku z lat ubiegłych do Centrali NFZ 0,00 0,00 7.6. Strata z lat ubiegłych na koniec okresu 0,00 -420 022 516,49 7.7. Zysk (strata) z lat ubiegłych na koniec okresu 60 000 000,00 0,00 8. Wynik netto -199 914 262,51 285 381 639,03",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_7/lit_a",
+       "text": "zysk netto 0,00 285 381 639,03",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_7/lit_b",
+       "text": "strata netto -199 914 262,51 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_7/lit_c",
+       "text": "odpisy z zysku (wielkość ujemna) 0,00 0,00 II. Kapitał (fundusz) własny na koniec okresu (BZ) 1 606 436 814,49 1 891 818 453,52 Kapitał (fundusz) własny, po uwzględnieniu proponowanego podziału III. zysku (pokrycia straty) 1 606 436 814,49 1 891 818 453,52",
+       "children": [
+        {
+         "type": "text",
+         "text": "Warszawa, dnia 25 marca 2013 r. Prezes Narodowego Agnieszka Pachciarz Funduszu Zdrowia Zastępca Prezesa ds. Wiesława Anna Kłos Finansowych Zastępca Prezesa ds. Marcin Pakulski Medycznych Zastępca Prezesa ds. Zbigniew Teter Mundurowych Główny Księgowy Andrzej Cichocki RACHUNEK PRZEPŁYWÓW PIENIĘŻNYCH Narodowego Funduszu Zdrowia ZA OKRES 1.01-31.12.2012 r. w zł i gr Dane za okres : Dane za okres : Wyszczególnienie 1.01-31.12.2011 r. 1.01-31.12.2012 r."
+        },
+        {
+         "type": "text",
+         "text": "A. Przepływy środków pieniężnych z działalności operacyjnej X X"
+        },
+        {
+         "type": "text",
+         "text": "I. Zysk (strata) netto -199 914 262,51 285 381 639,03"
+        },
+        {
+         "type": "text",
+         "text": "II Korekty razem: -41 983 528,03 -121 389 380,11"
+        },
+        {
+         "type": "text",
+         "text": "1 Amortyzacja 79 541 454,94 81 948 931,31"
+        },
+        {
+         "type": "text",
+         "text": "2 Zyski (straty) z tytułu różnic kursowych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "3 Odsetki i udziały w zyskach (dywidendy) 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "4 Zysk (strata) z działalności inwestycyjnej 120 283,06 3 725 379,02"
+        },
+        {
+         "type": "text",
+         "text": "5 Zmiana stanu rezerw 130 073 194,12 -23 477 882,46"
+        },
+        {
+         "type": "text",
+         "text": "6 Zmiana stanu zapasów -197 565,77 306 171,74"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Zmiana stanu należności - zewnętrznych -363 990 954,21 -239 327 892,43",
+     "children": [
+      {
+       "type": "text",
+       "text": "8 Zmiana stanu należności - wewnętrznych 1 620 726 590,73 -2 232 820 628,19 9 Zmiana stanu zobowiązań krótkoterminowych, z wyjątkiem pożyczek i kredytów - 107 927 284,25 56 411 579,62 zewnętrznych 10 Zmiana stanu zobowiązań - wewnątrznych -1 620 726 590,73 2 232 820 628,19"
+      },
+      {
+       "type": "text",
+       "text": "11 Zmiana stanu rozliczeń miedzyokresowych 4 446 986,71 -1 093 256,27"
+      },
+      {
+       "type": "text",
+       "text": "12 Inne korekty - zewnętrzne 184 643,14 117 589,36"
+      },
+      {
+       "type": "text",
+       "text": "13 Inne korekty - wewnętrzne -88 854,27 0,00"
+      },
+      {
+       "type": "text",
+       "text": "III Przepływy pieniężne netto z działalności operacyjnej (I +/- II) -241 897 790,54 163 992 258,92"
+      },
+      {
+       "type": "text",
+       "text": "B. Przepływy środków pieniężnych z działalności inwestycyjnej X X"
+      },
+      {
+       "type": "text",
+       "text": "I. Wpływy 83 711,30 54 150,65"
+      },
+      {
+       "type": "text",
+       "text": "1 Zbycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 83 711,30 54 150,65"
+      },
+      {
+       "type": "text",
+       "text": "2 Zbycie inwestycji w nieruchomości oraz wartości niematerialne i prawne 0,00 0,00"
+      },
+      {
+       "type": "text",
+       "text": "3 Z aktywów finansowych, w tym: 0,00 0,00"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_7/lit_a",
+       "text": "w jednostkach powiązanych 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_7/lit_b",
+       "text": "w pozostałych jednostkach 0,00 0,00",
+       "children": [
+        {
+         "type": "text",
+         "text": "- zbycie aktywów finansowych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "- dywidendy i udziały w zyskach 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "- spłata udzielonych pożyczek długoterminowych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "- odsetki 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "- inne wpływy z aktywów finansowych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "4 Inne wpływy inwestycyjne 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "II Wydatki 96 181 938,42 64 753 493,56"
+        },
+        {
+         "type": "text",
+         "text": "1 Nabycie wartości niematerialnych i prawnych oraz rzeczowych aktywów trwałych 96 181 938,42 64 753 493,56"
+        },
+        {
+         "type": "text",
+         "text": "2 Inwestycje w nieruchomości oraz wartości niematerialne i prwane 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "3 Na aktywa finansowe, w tym: 0,00 0,00"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_7/lit_a",
+       "text": "w jednostkach powiązanych 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_7/lit_b",
+       "text": "w pozostałych jednostkach 0,00 0,00",
+       "children": [
+        {
+         "type": "text",
+         "text": "- nabycie aktywów finansowych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "- udzielone pożyczki długoterminowe 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "4 Inne wydatki inwestycyjne 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "III Przepływy pieniężne netto z działalności inwestycyjnej (I-II) -96 098 227,12 -64 699 342,91"
+        },
+        {
+         "type": "text",
+         "text": "C. Przepływy środków pieniężnych z działalności finansowej X X I. Wpływy 0,00 0,00 1 Wpływy netto z wydania udziałów (emisji akcji) i innych instrumentów kapitałowych oraz 0,00 0,00 dopłat do kapitału 2 Kredyty i pożyczki 0,00 0,00 3. Emisja dłużnych papierów wartościowych 0,00 0,00 4. Inne wpływy finansowe 0,00 0,00 II Wydatki 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "1 Nabycie udziałów (akcji) własnych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "2 Dywidendy i inne wypłaty na rzecz właścicieli 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "3 Inne, niż wypłaty na rzecz właścicieli, wydatki z tytułu podziału zysku 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "4 Spłaty kredytów i pożyczek 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "5 Wykup dłużnych papierów wartościowych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "6 Z tytułu innych zobowiązań finansowych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "7 Płatności zobowiązań z tytułu umów leasingu finansowego 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "8 Odsetki 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "9 Inne wydatki finansowe 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "III Przepływy pieniężne netto z działalności finansowej (I-II) 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "D. Przepływy pieniężne netto razem (A.III.+/-B.III.+/-C.III) -337 996 017,66 99 292 916,01"
+        },
+        {
+         "type": "text",
+         "text": "E. Bilansowa zmiana stanu środków pieniężnych, w tym: -337 996 017,66 99 292 916,01"
+        },
+        {
+         "type": "text",
+         "text": "- zmiana stanu środków pieniężnych z tytułu różnic kursowych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "F. Środki pieniężne na początek okresu 3 033 753 503,27 2 695 757 485,61"
+        },
+        {
+         "type": "text",
+         "text": "G. Środki pieniężne na koniec okresu (F+/-D), w tym: 2 695 757 485,61 2 795 050 401,62"
+        },
+        {
+         "type": "text",
+         "text": "- o ograniczonej możliwości dysponowania 3 222 273,96 2 762 364,50"
+        },
+        {
+         "type": "text",
+         "text": "Warszawa, dnia 25 marca 2013 r Prezes Narodowego Agnieszka Pachciarz Funduszu Zdrowia Zastępca Prezesa ds. Wiesława Anna Kłos Finansowych Zastępca Prezesa ds. Marcin Pakulski Medycznych Zastępca Prezesa ds. Zbigniew Teter Mundurowych Główny Księgowy Andrzej Cichocki Nota 1.1 Zmiany w ciągu okresu sprawozdawczego wartości środków trwałych, wartości niematerialnych i prawnych oraz długoterminowych aktywów (inwestycji) finansowych:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_7/lit_a",
+       "text": "środk trwałe w zł i gr.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "Grunty 2) Budynki, 3) Urządzenia 4) Środki 5) Inne środki 6) Środki trwałe 7) Zaliczki na Rzeczowe lokale i obiekty techniczne i transportu trwałe w budowie środki trwałe w aktywa trwałe Wyszczególnienie wg pozycji bilansowych inżynierii maszyny budowie razem lądowej i wodnej",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wartość brutto środków trwałych na początek okresu 18 811 379,81 239 813 148,74 339 443 465,72 6 419 224,47 17 941 171,10 5 520 516,13 0,00 627 948 905,97 2. Zwiększenia z tytułu: 0,00 3 424 836,75 39 335 339,03 556 332,90 188 886,18 10 981 555,56 0,00 54 486 950,42 a) nabycia 0,00 3 424 836,75 39 321 125,44 473 593,40 188 886,18 10 981 555,56 0,00 54 389 997,33",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "aktualizacji 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "nieodpłatnego przekazania przez jednostkę org. NFZ 0,00 0,00 14 213,59 82 739,50 0,00 0,00 0,00 96 953,09",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "nieodpłatnego przekazania przez inną jednostkę organizacyjną 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "inne 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 3. Zmniejszenia z tytułu: 90 288,00 5 633 663,36 7 898 425,25 443 956,50 660 419,81 4 725 978,53 0,00 19 452 731,45 a) sprzedaży 50 648,00 4 428 832,42 231 375,01 361 217,00 12 288,69 0,00 0,00 5 084 361,12",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "aktualizacji 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "nieodpłatnego przekazania do jednostki org. NFZ 0,00 0,00 14 213,59 82 739,50 0,00 0,00 0,00 96 953,09",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "nieodpłatnego przekazania do innej jednostki organizacyjnej 0,00 0,00 2 366 744,34 0,00 0,00 0,00 0,00 2 366 744,34",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "inne 39 640,00 1 204 830,94 5 286 092,31 0,00 648 131,12 4 725 978,53 0,00 11 904 672,90 4. Wartość brutto środków trwałych na koniec okresu 18 721 091,81 237 604 322,13 370 880 379,50 6 531 600,87 17 469 637,47 11 776 093,16 0,00 662 983 124,94 5. Umorzenie środków trwałych na początek okresu: 5 035 254,53 73 846 314,16 260 788 156,46 3 982 315,07 15 349 579,43 0,00 0,00 359 001 619,65 6. Zwiększenia z tytułu: 225 129,96 8 260 168,24 49 264 563,19 1 143 960,93 739 132,05 0,00 0,00 59 632 954,37 a) odpisów 225 129,96 8 260 168,24 49 260 706,74 1 061 221,43 739 132,05 0,00 0,00 59 546 358,42",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "aktualizacji 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "nieodpłatnego przekazania przez jednostkę org. NFZ 0,00 0,00 3 856,45 82 739,50 0,00 0,00 0,00 86 595,95",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "nieodpłatnego przekazania przez inną jednostkę organizacyjną 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "inne 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 7. Zmniejszenia z tytułu: 0,00 2 080 249,36 7 865 431,45 418 139,07 660 148,67 0,00 0,00 11 023 968,55 a) sprzedaży 0,00 1 618 658,42 231 375,01 335 399,57 96 646,83 0,00 0,00 2 282 079,83",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "aktualizacji 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "nieodpłatnego przekazania do jednostki org. NFZ 0,00 0,00 3 856,45 82 739,50 0,00 0,00 0,00 86 595,95",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "nieodpłatnego przekazania do innej jednostki organizacyjnej 0,00 0,00 2 366 744,34 0,00 0,00 0,00 0,00 2 366 744,34",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "inne 0,00 461 590,94 5 263 455,65 0,00 563 501,84 0,00 0,00 6 288 548,43 8. Umorzenie środków trwałych na koniec okresu: 5 260 384,49 80 026 233,04 302 187 288,20 4 708 136,93 15 428 562,81 0,00 0,00 407 610 605,47 9. Wartość netto środków trwałych na koniec okresu 13 460 707,32 157 578 089,09 68 693 091,30 1 823 463,94 2 041 074,66 11 776 093,16 0,00 255 372 519,47",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "wartości niematerialne i prawne w zł i gr. 1) Koszty 2) Wartość firmy 3) Inne wartości 4) Zaliczki na WNiP Razem zakończonych niematerialne i wartości Wyszczególnienie wg pozycji bilansowych prac prawne niematerialne i rozwojowych prawne",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wartość brutto wartości niematerialnych i prawnych na 0,00 0,00 162 963 027,39 0,00 1. początek okresu 162 963 027,39 2. Zwiększenia z tytułu: 0,00 0,00 33 372 642,43 0,00 33 372 642,43 a) nabycia 0,00 0,00 19 892 684,13 0,00 19 892 684,13"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "aktualizacji 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "nieodpłatnego przekazania przez jednostkę org. NFZ 0,00 0,00 13 429 745,14 0,00 13 429 745,14 d) nieodpłatnego przekazania przez inną jednostkę organizacyjną 0,00 0,00 50 213,16 0,00 50 213,16 e) inne 0,00 0,00 0,00 0,00 0,00 3. Zmniejszenia z tytułu: 0,00 0,00 14 075 777,23 0,00 14 075 777,23 a) sprzedaży 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "aktualizacji 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "nieodpłatnego przekazania do jednostki org. NFZ 0,00 0,00 13 429 745,14 0,00 13 429 745,14 d) nieodpłatnego przekazania do innej jednostki organizacyjnej 0,00 0,00 0,00 0,00 0,00 e) inne 0,00 0,00 646 032,09 0,00 646 032,09 4. Wartość brutto wartości niematerialnych i prawnych na 0,00 0,00 182 259 892,59 0,00 182 259 892,59 koniec okresu 5. Umorzenie wartości niematerialnych i prawnych na 0,00 0,00 132 090 983,11 0,00 132 090 983,11 początek okresu:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Zwiększenia z tytułu: 0,00 0,00 27 118 751,81 0,00 27 118 751,81 a) odpisów 0,00 0,00 22 402 572,89 0,00 22 402 572,89",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_6/lit_b",
+       "text": "aktualizacji 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_6/lit_c",
+       "text": "nieodpłatnego przekazania przez jednostkę org. NFZ 0,00 0,00 4 716 178,92 0,00 4 716 178,92 d) nieodpłatnego przekazania przez inną jednostkę organizacyjną 0,00 0,00 0,00 0,00 0,00 e) inne 0,00 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_6/lit_d",
+       "text": "nieodpłatnego przekazania do innej jednostki organizacyjnej 0,00 0,00 0,00 0,00 0,00",
+       "children": [
+        {
+         "type": "text",
+         "text": "Umorzenie wartości niematerialnych i prawnych na koniec"
+        },
+        {
+         "type": "text",
+         "text": "Wartość netto wartości niematerialnych i prawnych na"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_6/lit_c",
+       "text": "długoterminowe aktywa finansowe w zł i gr.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wyszczególnienie wg pozycji bilansowych 31.12.2011 r. Zwiększenia w Zmniejszenia w 31.12.2012 r. ciągu roku ciągu roku"
+        },
+        {
+         "type": "text",
+         "text": "Długoterminowe aktywa (inwestycje) finansowe razem, w tym: 0,00 0,00 0,00 0,00"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "w jednostkach powiązanych 0,00 0,00 0,00 0,00 a) udziały lub akcje 0,00 0,00 0,00 0,00",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_1/lit_b",
+         "text": "inne papiery wartościowe 0,00 0,00 0,00 0,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_6/pkt_1/lit_c",
+         "text": "udzielone pożyczki 0,00 0,00 0,00 0,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_6/pkt_1/lit_d",
+         "text": "inne długoterminowe aktywa finansowe 0,00 0,00 0,00 0,00 2) w pozostałych jednostkach 0,00 0,00 0,00 0,00 a) udziały lub akcje 0,00 0,00 0,00 0,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_1/lit_b",
+         "text": "inne papiery wartościowe 0,00 0,00 0,00 0,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_6/pkt_1/lit_c",
+         "text": "udzielone pożyczki 0,00 0,00 0,00 0,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_6/pkt_1/lit_d",
+         "text": "inne długoterminowe aktywa finansowe 0,00 0,00 0,00 0,00 Nota 1.2 Wartość gruntów użytkowanych wieczyście:",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_1/lit_a",
+         "text": "na 31.12.2011 r. - 9 140 522,53 b) na 31.12.2012 r. - 9 198 568,57",
+         "children": [
+          {
+           "type": "text",
+           "text": "Nota 1.3 Wartość początkowa nie amortyzowanych (nie umarzanych) środków trwałych, używanych na podstawie umów:"
+          },
+          {
+           "type": "text",
+           "text": "w zł i gr."
+          },
+          {
+           "type": "text",
+           "text": "Wyszczególnienie na 31.12.2011 r. na 31.12.2012 r."
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_1/lit_a",
+         "text": "najmu 886 102,54 906 969,04",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_1/lit_b",
+         "text": "dzierżawy 10 000,00 10 000,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_6/pkt_1/lit_c",
+         "text": "innych umów (leasingu) 0,00 0,00",
+         "children": [
+          {
+           "type": "text",
+           "text": "Razem 896 102,54 916 969,04"
+          },
+          {
+           "type": "text",
+           "text": "Nota 1.4 Wartość zobowiązań wobec budżetu państwa lub jednostek samorządu terytorialnego z tytułu uzyskania prawa własności budynków i budowli:"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_1/lit_a",
+         "text": "na 31.12.2011 r. - 0,00 b) na 31.12.2012 r. - 0,00",
+         "children": [
+          {
+           "type": "text",
+           "text": "Nota 1.5 Struktura własności kapitału podstawowego na 31.12.2012 r.: w zł i gr."
+          },
+          {
+           "type": "text",
+           "text": "Wyszczególnienie akcjonariuszy (udziałowców) lub grup Ilość udziałów (akcji) Wartość jednego udziału Wartość kapitału właścicieli (akcji)"
+          },
+          {
+           "type": "text",
+           "text": "Wartość funduszu podstawowego razem, w tym: 0 0,00 141 549 868,09 Nota 1.6 Informacje o funduszach zapasowych i rezerwowych:"
+          },
+          {
+           "type": "text",
+           "text": "Uchwały Rady Narodowego Funduszu Zdrowia podejmowane w latach ubiegłych, w wyniku których zmianie uległ stan funduszu zapasowego:"
+          },
+          {
+           "type": "text",
+           "text": "Nr uchwały Tytuł uchwały Rady NFZ ze wskazaniem kwot zysku netto zwiększających fundusz zapasowy, przeznaczonych decyzją Rady NFZ Rady NFZ na zakup środków trwałych oraz wartości niematerialnych i prawnych"
+          },
+          {
+           "type": "text",
+           "text": "31/2005/I w sprawie przeznaczenia zatwierdzonego zysku netto Narodowego Funduszu Zdrowia za 2004 r. z dnia 24.08.2005 r."
+          },
+          {
+           "type": "text",
+           "text": "25/2006/I w sprawie przeznaczenia zatwierdzonego zysku netto Narodowego Funduszu Zdrowia za 2005 r. z dnia (zm. Uchwałą Nr 39/2006/I z dnia 25.10.2006 r.) 24.08.2006 r. (kwota 54.626.024,66 zł przeznaczona na zakup śr. trwałych i wnip - CFI) ."
+          },
+          {
+           "type": "text",
+           "text": "31/2007/I w sprawie przeznaczenia części wynoszącej 708.944.588,13 złotych zatwierdzonego zysku netto Narodowego Funduszu Zdrowia z dnia 30.08.2007 r. za 2006 r."
+          },
+          {
+           "type": "text",
+           "text": "10/2008/I w sprawie przeznaczenia części wynoszącej 99.000.000,- złotych zatwierdzonego zysku netto Narodowego Funduszu Zdrowia z dnia za 2006 r. 17.04.2008 r. (kwota 99.000.000,00 zł przeznaczona na zakup śr. trwałych i wnip - CFI) ."
+          },
+          {
+           "type": "text",
+           "text": "17/2008/I z dnia w sprawie przeznaczenia zatwierdzonego zysku netto Narodowego Funduszu Zdrowia za 2007 r. 10.06.2008 r."
+          },
+          {
+           "type": "text",
+           "text": "22/2009/I z dnia w sprawie przeznaczenia zysku netto Narodowego Funduszu Zdrowia za 2008 r. 30.07.2009 r."
+          },
+          {
+           "type": "text",
+           "text": "z dnia w sprawie pokrycia straty netto Narodowego Funduszu Zdrowia za 2009 r."
+          },
+          {
+           "type": "text",
+           "text": "17/2011/II w sprawie pokrycia części straty netto za 2009 r. oraz straty netto za 2010 r. Narodowego Funduszu Zdrowia"
+          },
+          {
+           "type": "text",
+           "text": "z dnia w sprawie pokrycia straty netto Narodowego Funduszu Zdrowia za 2011 r."
+          },
+          {
+           "type": "text",
+           "text": "Nota 1.7 Propozycje podziału nadwyżki przychodów nad kosztami lub pokrycia nadwyżki kosztów nad przychodami:"
+          },
+          {
+           "type": "text",
+           "text": "Zysk w wysokości 285.381.639,03 zł osiągnięty za 2012 r. proponuje się przeznaczyć na fundusz zapasowy."
+          },
+          {
+           "type": "text",
+           "text": "Nota 1.8 Informacje o stanie rezerw: w zł i gr. Zmniejszenia: Wyszczególnienie rezerw 31.12.2011 r. Zwiększenia - rozwiązanie 31.12.2012 r. - wykorzystanie"
+          },
+          {
+           "type": "text",
+           "text": "Rezerwy razem, w tym: 93 584 061,66 175 744 668,58 95 909 303,59 173 419 426,65"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "na świadczenia emerytalne i podobne: 0,00 0,00 0,00 0,00 a) długoterminowe 0,00 0,00 0,00 0,00",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_1/lit_b",
+         "text": "krótkoterminowe 0,00 0,00 0,00 0,00",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "na pewne lub prawdopodobne przyszłe zobowiązania, w tym: 92 482 000,18 172 395 223,34 94 809 001,39 170 068 222,13 a) długoterminowe 0,00 0,00 0,00 0,00 - toczące się postępowanie sądowe 0,00 0,00 0,00 0,00 - pozostałe 0,00 0,00 0,00 0,00 b) krótkoterminowe 92 482 000,18 172 395 223,34 94 809 001,39 170 068 222,13 - rezerwa na postępowania sądowe za świadczenia zdrowotne 71 256 833,88 140 205 132,26 83 207 491,10 128 254 475,04 ponadumowne - rezerwa na postępowania sądowe za pozostałe świadczenia 3 071 196,35 10 231 287,93 4 211 634,19 9 090 850,09 zdrowotne - rezerwa na postępowania sądowe - inne 4 420 068,23 11 123 462,25 2 111 202,98 13 432 327,50",
+       "children": [
+        {
+         "type": "text",
+         "text": "- rezerwa na nieprawomocne wyroki z tytułu \"ustawy 203\" 12 077 694,72 6 273 644,73 3 939 518,12 14 411 821,33"
+        },
+        {
+         "type": "text",
+         "text": "- badanie sprawozdania finansowego 0,00 0,00 0,00 0,00 - zobowiązania sporne 0,00 0,00 0,00 0,00 - pozostałe 1 656 207,00 4 561 696,17 1 339 155,00 4 878 748,17 3) z tytułu odroczonego podatku dochodowego od osób 0,00 0,00 0,00 0,00 prawnych 4) pozostałe 1 102 061,48 3 349 445,24 1 100 302,20 3 351 204,52 a) długoterminowe 0,00 0,00 0,00 0,00 b) krótkoterminowe 1 102 061,48 3 349 445,24 1 100 302,20 3 351 204,52 - świadczenia udzielone na podstawie indywidualnych decyzji 0,00 0,00 0,00 0,00 Dyrektora OW - inne 1 102 061,48 3 349 445,24 1 100 302,20 3 351 204,52"
+        },
+        {
+         "type": "text",
+         "text": "Nota 1.9 Informacje o odpisach aktualizujących wartość należności: w zł i gr. Zmniejszenia: Wyszczególnienie odpisów 31.12.2011 r. Zwiększenia - rozwiązanie 31.12.2012 r. - wykorzystanie Razem odpisy aktualizujące, w tym: 301 070 389,76 65 605 724,58 17 001 457,95 349 674 656,39 1) odpis aktualizujący należność, w tym: 259 072 035,44 56 974 538,48 11 157 844,75 304 888 729,17 - od ZOZ i aptek, 19 755 251,66 4 311 282,01 9 920 543,58 14 145 990,09 - pozostałe 239 316 783,78 52 663 256,47 1 237 301,17 290 742 739,08 2) odpis aktualizujący należności dochodzone na drodze 41 998 354,32 8 631 186,10 5 843 613,20 44 785 927,22 sądowej, w tym: - od ZOZ i aptek, 38 852 690,97 6 164 896,09 5 353 254,26 39 664 332,80 - pozostałe 3 145 663,35 2 466 290,01 490 358,94 5 121 594,42 Nota 1.10 Informacja o zobowiązaniach:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_6/pkt_2/lit_a",
+         "text": "Zobowiązania krótkoterminowe w zł i gr.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Lp. Wyszczególnienie na 31.12.2011 r. na 31.12.2012 r."
+          },
+          {
+           "type": "text",
+           "text": "1 pożyczka od Min Finansów 0,00 0,00"
+          },
+          {
+           "type": "text",
+           "text": "2 kredyty i pożyczki 0,00 0,00"
+          },
+          {
+           "type": "text",
+           "text": "3 z tytułu dostaw i usług, o okresie spłaty: 5 461 046 440,84 5 522 026 442,74"
+          },
+          {
+           "type": "text",
+           "text": "- do 12 miesięcy 5 461 046 440,84 5 522 026 442,74"
+          },
+          {
+           "type": "text",
+           "text": "- powyżej 12 miesięcy 0,00 0,00"
+          },
+          {
+           "type": "text",
+           "text": "4 z tytułu podatków, ceł, ubezpieczeń i innych świadczeń 14 238 920,24 14 505 478,52"
+          },
+          {
+           "type": "text",
+           "text": "5 z tytułu wynagrodzeń 4 526 333,79 3 140 095,34"
+          },
+          {
+           "type": "text",
+           "text": "6 inne 22 218 851,80 23 801 185,40"
+          },
+          {
+           "type": "text",
+           "text": "7 fundusze specjalne 3 926 321,10 3 835 996,36"
+          },
+          {
+           "type": "text",
+           "text": "Razem 5 505 956 867,77 5 567 309 198,36"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_6/pkt_2/lit_b",
+         "text": "Podział zobowiązań długoterminowych według pozycji bilansu o pozostałym na dzień bilansowy, przewidywanym umową, okresie spłaty: w zł i gr.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Z tego zobowiązania płatne: Razem na: Wyszczególnienie zobowiązań do 1 roku na: powyżej 1 roku do 3 lat na: powyżej 3 roku do 5 lat na: powyżej 5 lat na:"
+          },
+          {
+           "type": "text",
+           "text": "31.12.2011 r. 31.12.2012 r. 31.12.2011 r. 31.12.2012 r. 31.12.2011 r. 31.12.2012 r. 31.12.2011 r. 31.12.2012 r. 31.12.2011 r. 31.12.2012 r."
+          },
+          {
+           "type": "text",
+           "text": "1 2 3 4 5 6 7 8 9 10 11"
+          },
+          {
+           "type": "text",
+           "text": "Zobowiązania długoterminowe, w tym: 522 567,47 639 930,83 0,00 0,00 522 567,47 639 930,83 0,00 0,00 0,00 0,00"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "zobowiązania wobec jednostek powiązanych 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00",
+       "children": [
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_6/pkt_1/lit_c",
+         "text": "Fundusz wydzielony w zł i gr.",
+         "children": [
+          {
+           "type": "text",
+           "text": "Lp. Wyszczególnienie 31.12.2011 r. 31.12.2012 r."
+          },
+          {
+           "type": "text",
+           "text": "IV Fundusz wydzielony 0,00 0,00"
+          },
+          {
+           "type": "text",
+           "text": "Wartość aktywów trwałych nieodpłatnie przekazanych do 1. jednostek org. NFZ -590 773,60 -677 240,26"
+          },
+          {
+           "type": "text",
+           "text": "Wartość aktywów trwałych nieodpłatnie otrzymanych od 2. jednostek org. NFZ 590 773,60 677 240,26"
+          },
+          {
+           "type": "text",
+           "text": "Przekazanie wyniku finasowego z lat ubiegłych do Centrali 3. NFZ 0,00 0,00"
+          },
+          {
+           "type": "text",
+           "text": "Przejęcie wyniku finansowego z lat ubiegłych z Oddziałów 4. Wojewódzkich 0,00 0,00"
+          },
+          {
+           "type": "text",
+           "text": "Otrzymane przez OW NFZ środki pieniężne z tytułu 5. zwiększenia planu finansowego, przewidzianego do pokrycia 0,00 0,00 funduszem zapasowym,"
+          },
+          {
+           "type": "text",
+           "text": "Przekazane przez Centralę NFZ środki pieniężne z tytułu 6. zwiększenia planu finansowego, przewidzianego do pokrycia 0,00 0,00 funduszem zapasowym,"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Wartość centralnego funduszu inwestycyjnego w OW NFZ 19 711 660,02 19 324 944,22",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wartość centralnego funduszu inwestycyjnego w Centrali 8. NFZ -19 711 660,02 -19 324 944,22"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Pozostałe 0,00 0,00 Nota 1.11 Wykaz istotnych pozycji czynnych i biernych rozliczeń międzyokresowych",
+     "children": [
+      {
+       "type": "text",
+       "text": "w zł i gr. Wyszczególnienie Stan na: 31.12.2011 r. 31.12.2012 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Czynne rozliczenia międzyokresowe kosztów działalności operacyjnej i kosztów finansowych, w tym: 2 719 404,96 3 241 666,42 1) ubezpieczenia mienia 126 506,44 165 562,42 2) prenumerata czasopism 37 663,69 51 594,20 3) opłat abonamentu RTV 471,90 429,00 4) abonament telefoniczny 19 672,40 15 354,29 5) koszty szkolenia 507,66 235,00 6) usługi pocztowe 78 522,72 129 574,30 7) karnety książeczki RUM 1 269,95 824,00 8) dozór techniczny 0,00 0,00 9) opłaty subskrypcyjne i za asystę techniczną oprogramowania 1 865 235,37 2 437 680,70 10) otrzymane kary 0,00 0,00 11) opłata za wieczyste użytkowanie gruntów 0,00 0,00 12) podatek od nieruchomości 0,00 0,00 13) ZFŚS 0,00 0,00 14) Nadwyżka podatku VAT naliczonego nad należnym 0,00 0,00 15)Ubezpieczenie samochodów 169 869,73 164 872,92 16) Pozostałe 419 685,10 275 539,59 2. Bierne rozliczenia międzyokresowe kosztów działalności operacyjnej i kosztów finansowych, w tym: 1 212 249 721,67 1 108 936 474,22 1) z tytułu świadczeń zdrowotnych 1 211 379 557,92 1 108 361 512,38",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "z tytułu kosztów administracyjnych 870 163,75 574 961,84 3. Przychody podlegające rozliczeniu w czasie, w tym: 385 601,60 376 228,81 1) środki trwałe darowizna: 385 601,60 376 228,81 - od jednostek Skarbu Państwa 385 601,60 376 228,81 - od pozostałych 0,00 0,00 2) środki trwałe zakupione ze środków otrzymanych: 0,00 0,00 - od jednostek Skarbu Państwa 0,00 0,00 - od pozostałych 0,00 0,00 3) niewykorzystane środki pieniężne otrzymane: 0,00 0,00 - od jednostek Skarbu Państwa 0,00 0,00 - od pozostałych 0,00 0,00 4) pozostałe 0,00 0,00 4. Aktywowanie ujemnej przejściowej różnicy podatku 0,00 0,00 dochodowego 5. Inne rozliczenia międzyokresowe przychodów, w tym: 6 224 202,49 5 662 580,47",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "otrzymane przedpłaty na recepty 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "rozliczenia spraw sądowych 156 312,33 116 145,59",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "składki na ubezpieczenia zdrowotne rozliczane w czasie 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "programy lub projekty współfinansowane ze śr. pieniężnych 5 497 969,27 5 199 989,35 pochodzących z budżetu UE/EFTA 5) pozostałe 569 920,89 346 445,53",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nota 1.12 Wykaz zobowiązań zabezpieczonych na majątku jednostki w zł i gr. Wyszczególnienie zobowiązań Stan na: Forma zabezpieczenia 31.12.2011 r. 31.12.2012 r. Zobowiązania razem, w tym: 0,00 0,00"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "- 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "0,00 0,00 Nota 1.13 Wykaz zobowiązań warunkowych ( w tym również udzielonych przez jednostkę gwarancji i poręczeń, także wekslowych) :",
+       "children": [
+        {
+         "type": "text",
+         "text": "w zł i gr. Rodzaj zobowiązań, gwarancji, poręczeń Stan na: Stan na: 31.12.2011 r. 31.12.2012 r."
+        },
+        {
+         "type": "text",
+         "text": "Zobowiązania warunkowe ogółem, w tym: 743 875 555,26 666 904 673,29"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "wynikłe z roszczeń sądowych z tytułu ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przeciętnych 118 058 134,89 79 646 183,44 wynagrodzeń u przedsiębiorców oraz zmianie niektórych ustaw (Dz. U. z 1995 r. Nr 1, poz. 2)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "wynikłe z roszczeń sądowych z pozostałych tytułów, w tym 623 442 288,12 584 283 646,31 dotyczce:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_2/lit_a",
+         "text": "ponadumownych świadczeń zdrowotnych 562 667 366,04 537 079 526,44",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_2/lit_b",
+         "text": "innych świadczeń zdrowotnych 52 585 678,48 39 023 883,64",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_2/lit_c",
+         "text": "pozostałych tytułów 8 189 243,60 8 180 236,23",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "z tytułu świadczeń zdrowotnych i leków udzielanych (wydanych) świadczeniobiorcom na terenie państw członkowskich 8 602,09 0,00 Unii Europejskiej oraz państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) 4) pozostałe 2 366 530,16 2 974 843,54 Nota 2.1 Struktura rzeczowa (rodzaje działalności) i terytorialna (kraj, eksport) przychodów netto ze",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "sprzedaży produktów, usług i towarów:"
+      },
+      {
+       "type": "text",
+       "text": "w zł i gr. Przychody ze sprzedaży netto: sprzedaż krajowa sprzedaż eksportowa"
+      },
+      {
+       "type": "text",
+       "text": "Razem przychody ze sprzedaży netto, w tym: 62 554 713 964,37 0,00"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "przychody ze składek na puz (bez windykacji z lat ub.) 60 312 306 720,58 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "pozostałe przychody z tyt. puz 2 241 662 182,34 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "zmiana stanu produktów 714 364,55 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "przychody netto ze sprzedaży towarów i materiałów 30 696,90 0,00",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nota 2.2 Wysokość i wyjaśnienie przyczyn odpisów aktualizujących środki trwałe"
+        },
+        {
+         "type": "text",
+         "text": "w zł i gr. Wyszczególnienie RAZEM"
+        },
+        {
+         "type": "text",
+         "text": "Rodzaj odpisu Przyczyna odpisu 0,00"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_4/lit_a",
+         "text": "…. - 0,00",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "b)..... - 0,00 c)..... - 0,00 d)..... - 0,00 e)..... - 0,00 f)..... - 0,00 g)..... - 0,00 h)..... - 0,00 i)..... - 0,00"
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.3 Wysokość odpisów aktualizujących wartość zapasów razem"
+        },
+        {
+         "type": "text",
+         "text": "w zł i gr. Wyszczególnienie RAZEM"
+        },
+        {
+         "type": "text",
+         "text": "Rodzaj odpisu Przyczyna odpisu 23 138,69"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_4/lit_a",
+         "text": "Odpis aktualizujący wartość aktywów",
+         "children": [
+          {
+           "type": "text",
+           "text": "Wycena bilansowa recept do ceny sprzedaży 23 138,69 niefinansowych (recepty)"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_4/lit_b",
+         "text": "…. - 0,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_4/lit_c",
+         "text": "….. - 0,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_1/pkt_4/lit_d",
+         "text": "…. - 0,00",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "e)..... - 0,00 f)..... - 0,00 g)..... - 0,00 h)..... - 0,00 i)..... - 0,00"
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.4 Informacje o przychodach, kosztach i wynikach działalności zaniechanej w okresie"
+        },
+        {
+         "type": "text",
+         "text": "sprawozdawczym lub przewidywanej do zaniechania w roku następnym:"
+        },
+        {
+         "type": "text",
+         "text": "w zł i gr. Lp. Rodzaje działalności Przychody Koszty Wynik finansowy zaniechanej"
+        },
+        {
+         "type": "text",
+         "text": "RAZEM 0,00 0,00 0,00 1. - 0,00 0,00 0,00 2. - 0,00 0,00 0,00 3. - 0,00 0,00 0,00 4. - 0,00 0,00 0,00 7. - 0,00 0,00 0,00 8. - 0,00 0,00 0,00 Nota 2.5 Wynik finansowy Narodowego Funduszu Zdrowia dla potrzeb podatku dochodowego od osób prawnych w zł i gr WYSZCZEGÓLNIENIE Dane za okres : 1.01-31.12.2012 r. A. Przychody netto ze sprzedaży i zrównane z nimi, w tym: 62 285 674 437,10"
+        },
+        {
+         "type": "text",
+         "text": "I. Przychody netto ze sprzedaży produktów 62 285 643 740,20 - przychód ze składek oraz pozostałe przychody z tyt. puz RZiS Przychody z tyt. składek na puz 60 312 306 720,58 korekta \"-\" należne, a nieotrzymane kasowo przychody ze składek na ubezpieczenie zdrowotne 7 866 178 225,76 korekta \"+\" otrzymane kasowo składki na ubezpieczenie zdrowotne - naliczone do przychodów roku ubiegłego /OW/ 5 658 758 079,13 korekta \"+\" otrzymane kasowo składki na ubezpieczenie zdrowotne - naliczone do przychodów roku ubiegłego /Centrala/ 0,00 korekta \"+\" nadwyżka zrealizowanych przychodów ze składek nad naliczonymi memoriałowo - /Centrala/ 1 974 449 611,37 1. Przychody z tyt. składek na puz - ujęcie podatkowe 60 079 336 185,32 RZiS Pozostałe przychody z tyt. puz 2 241 662 182,34 korekta \"+\" programy profilaktyczne i polityki zdrowotnej finansowane ze środków obcych - należność na początek roku z 0,00 tytułu nieotrzymanych środków pieniężnych w latach ubiegłych korekta \"-\" programy profilaktyczne i polityki zdrowotnej finansowane ze środków obcych - zobowiązanie na początek 0,00 roku z tytułu nadwyżki otrzymanych w latach ubiegłych środków pieniężnych korekta \"-\" programy profilaktyczne i polityki zdrowotnej finansowane ze środków obcych - należność na koniec roku z 0,00 tytułu nieotrzymanych środków pieniężnych korekta \"+\" programy profilaktyczne i polityki zdrowotnej finansowane ze środków obcych - zobowiązanie na koniec roku 0,00 z tytułu nadwyżki otrzymanych środków pieniężnych korekta \"+\" zadanie, o którym mowa w art 97 ust 3 pkt 2a ustawy - należność na początek roku z tytułu nieotrzymanych 11 036 875,03 środków pieniężnych w latach ubiegłych korekta \"-\" zadanie, o którym mowa w art 97 ust 3 pkt 2a ustawy - zobowiązanie na początek roku z tytułu nadwyżki 11 036 875,03 otrzymanych w latach ubiegłych środków pieniężnych korekta \"-\" zadanie, o którym mowa w art 97 ust 3 pkt 2a ustawy - należność na koniec roku z tytułu nieotrzymanych 10 263 862,19 środków pieniężnych korekta \"+\" zadanie, o którym mowa w art 97 ust 3 pkt 2a ustawy - zobowiązanie na koniec roku z tytułu nadwyżki 5 111 649,84 otrzymanych środków pieniężnych korekta \"+\" zadanie, o którym mowa w art 97 ust 3 pkt 3 ustawy - należność na początek roku z tytułu nieotrzymanych 5 912 695,80 środków pieniężnych w latach ubiegłych korekta \"-\" zadanie, o którym mowa w art 97 ust 3 pkt 3 ustawy - zobowiązanie na początek roku z tytułu nadwyżki 3 606 315,78 otrzymanych w latach ubiegłych środków pieniężnych korekta \"-\" zadanie, o którym mowa w art 97 ust 3 pkt 3 ustawy - należność na koniec roku z tytułu nieotrzymanych 518 696,88 środków pieniężnych korekta \"+\" zadanie, o którym mowa w art 97 ust 3 pkt 3 ustawy - zobowiązanie na koniec roku z tytułu nadwyżki 140 335,03 otrzymanych środków pieniężnych korekta \"+\" zadanie, o którym mowa w art 97 ust 3 pkt 3b ustawy - należność na początek roku z tytułu nieotrzymanych 1 892 999,43 środków pieniężnych w latach ubiegłych korekta \"-\" zadanie, o którym mowa w art 97 ust 3 pkt 3b ustawy - zobowiązanie na początek roku z tytułu nadwyżki 1 717 808,39 otrzymanych w latach ubiegłych środków pieniężnych korekta \"-\" zadanie, o którym mowa w art 97 ust 3 pkt 3b ustawy - należność na koniec roku z tytułu nieotrzymanych 1 264 146,59 środków pieniężnych korekta \"+\" zadanie, o którym mowa w art 97 ust 3 pkt 3b ustawy - zobowiązanie na koniec roku z tytułu nadwyżki 55 184,07 otrzymanych środków pieniężnych korekta \"+\" środki za leki podane osobom, o którym mowa w art 12 pkt 5 i art 12 a ustawy - należność na początek roku z 0,00 tytułu nieotrzymanych środków pieniężnych w latach ubiegłych korekta \"-\" środki za leki podane osobom, o którym mowa w art 12 pkt 5 i art 12 a ustawy - zobowiązanie na początek 0,00 roku z tytułu nadwyżki otrzymanych w latach ubiegłych środków pieniężnych korekta \"-\" środki za leki podane osobom, o którym mowa w art 12 pkt 5 i art 12 a ustawy - należność na koniec roku z 0,00 tytułu nieotrzymanych środków pieniężnych korekta \"+\" środki za leki podane osobom, o którym mowa w art 12 pkt 5 i art 12 a ustawy - zobowiązanie na koniec roku 0,00 z tytułu nadwyżki otrzymanych środków pieniężnych korekta \"+\" koordynacja świadczeń zdrowotnych /Centrala/ - należność na początek roku z tytułu nieotrzymanych środków 177 079 462,34 pieniężnych w latach ubiegłych korekta \"-\" koordynacja świadczeń zdrowotnych /Centrala/ - zobowiązanie na początek roku z tytułu nadwyżki 365 184,40 otrzymanych w latach ubiegłych środków pieniężnych korekta \"-\" koordynacja świadczeń zdrowotnych /Centrala/ - należność na koniec roku z tytułu nieotrzymanych środków 207 735 740,78 pieniężnych korekta \"+\" koordynacja świadczeń zdrowotnych /Centrala/ - zobowiązanie na koniec roku z tytułu nadwyżki otrzymanych 710 652,50 środków pieniężnych korekta \"+\" finansowanie zadań ratownictwa medycznego z dotacji od wojewody /OW/ - należność na początek roku z 0,00 tytułu nieotrzymanych środków pieniężnych w latach ubiegłych korekta \"-\" finansowanie zadań ratownictwa medycznego z dotacji od wojewody /OW/ - zobowiązanie na początek roku z 54 311,97 tytułu nadwyżki otrzymanych w latach ubiegłych środków pieniężnych korekta \"-\" finansowanie zadań ratownictwa medycznego z dotacji od wojewody /OW/ - należność na koniec roku z tytułu 0,00 nieotrzymanych środków pieniężnych korekta \"+\" finansowanie zadań ratownictwa medycznego z dotacji od wojewody /OW/ - zobowiązanie na koniec roku z 5,86 tytułu nadwyżki otrzymanych środków pieniężnych korekta \"+\" roszczenia regresowe - należność na początek roku z tytułu nieotrzymanych środków pieniężnych w latach 1 147 224,34 ubiegłych korekta \"-\" roszczenia regresowe - zobowiązanie na początek roku z tytułu nadwyżki otrzymanych w latach ubiegłych 29,35 środków pieniężnych korekta \"-\" roszczenia regresowe - należność na koniec roku z tytułu nieotrzymanych środków pieniężnych 1 779 655,89 korekta \"+\" roszczenia regresowe - zobowiązanie na koniec roku z tytułu nadwyżki otrzymanych środków pieniężnych 13,52 korekta \"+\" pozostałe przychody z tytułu ubezpieczenia zdrowotnego - należność na początek roku z tytułu nieotrzymanych 539 063,12 środków pieniężnych w latach ubiegłych korekta \"-\" pozostałe przychody z tytułu ubezpieczenia zdrowotnego - zobowiązanie na początek roku z tytułu nadwyżki 5,00 otrzymanych w latach ubiegłych środków pieniężnych pozostałe przychody z tytułu ubezpieczenia zdrowotnego - należność na koniec roku z tytułu nieotrzymanych korekta \"-\" środków pieniężnych; a także inne korekty in minus w tym wartość ww należności, od których dochodzenia 640 248,81 odstąpiono w roku podatkowym pozostałe przychody z tytułu ubezpieczenia zdrowotnego - zobowiązanie na koniec roku z tytułu nadwyżki korekta \"+\" otrzymanych środków pieniężnych; a także inne korekty in plus w tym wartość zwróconych ww należności, 2 092,72 od których dochodzenia odstąpiono w latach ubiegłych 2. Pozostałe przychody z tyt. puz - ujęcie podatkowe 2 206 307 554,88 RZiS Zmiana stanu produktów 714 364,55 korekta \"+\" wypełnić w przypadku ujemnej zmiany stanu produktów - korekta zwiększająca przychód podatkowy 86 715,98 korekta \"-\" wypełnić w przypadku dodatniej zmiany stanu produktów - korekta zmniejszająca przychód podatkowy 801 080,53 II. Zmiana stanu produktów - ujęcie podatkowe 0,00 III. Koszt wytworzenia produktów na własne potrzeby jednostki 0,00 RZiS Przychody netto ze sprzedaży towarów i materiałów 30 696,90 korekta \"+\" przychody netto ze sprzedaży towarów - korekty zwiększające przychód podatkowy 0,00 korekta \"-\" przychody netto ze sprzedaży towarów - korekty zmniejszające przychód podatkowy 0,00 WYSZCZEGÓLNIENIE Dane za okres : 1.01-31.12.2012 r. A. IV. Przychody netto zeP srpzryzecdhaożdyy t onwetatoró zwe is pmrazteedraiażłyó wi z -r óuwjęnciaen peo zd naitmkoiw, we tym: 30 696,90 B. Koszty działalności operacyjnej 59 932 677 540,29"
+        },
+        {
+         "type": "text",
+         "text": "RZiS Amortyzacja 81 948 931,31 korekta \"-\" amortyzacja środków trwałych i wartości niematerialnych i prawnych nie wykorzystywanych na potrzeby 81 948 931,31 związane z działalnością gospodarczą korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 0,00 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" inne korekty 0,00 korekta \"+\" inne korekty 0,00 I. Amortyzacja - ujęcie podatkowe 0,00 RZiS Zużycie materiałów i energii 18 903 187,11 korekta \"-\" utworzone rozliczenia międzyokresowe kosztów bierne - nie uznane za koszty uzyskania przychodu 0,00 korekta \"+\" koszty stanowiące wykorzystanie biernych rozliczeń międzyokresowych kosztów - 4 384,20 nie były KUP w roku ubiegłym korekta \"+\" rozwiązanie niewykorzystanych biernych rozliczeń międzyokresowych kosztów - 1 509,23 nie były KUP w roku ubiegłym wydatki z tytułu kosztów używania, samochodów osobowych nie stanowiących składników majątku podatnika - korekta \"-\" w części przekraczającej wartość określoną na podstawie odrębnych przepisów ustaloną na podstawie 0,00 ewidencji przebiegu pojazdu korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 4 863,18 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" inne korekty 864,00 korekta \"+\" inne korekty 0,00 II. Zużycie materiałów i energii - ujęcie podatkowe 18 903 353,36 RZiS Usługi obce 61 530 518 962,53 korekta \"-\" wydatki i koszty sfinansowane z dotacji 2 078 163 754,65 korekta \"-\" utworzone rozliczenia międzyokresowe kosztów bierne - nie uznane za koszty uzyskania przychodu 1 147 817 658,14 korekta \"+\" koszty stanowiące wykorzystanie biernych rozliczeń międzyokresowych kosztów - 1 192 109 153,16 nie były KUP w roku ubiegłym korekta \"+\" rozwiązanie niewykorzystanych biernych rozliczeń międzyokresowych kosztów - 45 899 953,85 nie były KUP w roku ubiegłym korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 279 824,48 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 95 418,17 korekta \"-\" inne korekty 3 862,77 korekta \"+\" inne korekty 4 042,54 III. Usługi obce - ujęcie podatkowe 59 542 171 593,87 RZiS Podatki i opłaty 3 324 369,43 korekta \"-\" wpłaty na PFRON - koszty ujęte w księgach roku bieżącego 2 588 684,00 korekta \"-\" wydatki i koszty pozostałe 26 781,00 korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 0,00 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" inne korekty 0,17 korekta \"+\" inne korekty 0,00"
+        },
+        {
+         "type": "text",
+         "text": "IV. Podatki i opłaty - ujęcie podatkowe 708 904,26"
+        },
+        {
+         "type": "text",
+         "text": "RZiS Wynagrodzenia 305 105 055,79 należności z tytułów, o których mowa w art. 12 ust. 1 i 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz U z 2000 r Nr 14, poz 176, z późn zm.), z przychodów z działalności korekta \"-\" wykonywanej osobiście, z praw majątkowych, a także zasiłki pieniężne z ubezpieczenia społecznego 3 595 846,26 wypłacane przez zakład pracy - nieuznane za koszty uzyskania przychodów należności z tytułów, o których mowa w art. 12 ust. 1 i 6 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz U z 2000 r Nr 14, poz 176, z późn zm.), z przychodów z działalności korekta \"+\" wykonywanej osobiście, z praw majątkowych, a także zasiłki pieniężne z ubezpieczenia społecznego 5 097 563,30 wypłacane przez zakład pracy - naliczone w latach ubiegłych korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 250 172,99 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" inne korekty 0,00 korekta \"+\" inne korekty 9 556,78 V. Wynagrodzenia - ujęcie podatkowe 306 366 156,62 RZiS Ubezpieczenia społeczne i inne świadczenia 61 942 819,50 składki na rzecz Zakładu Ubezpieczeń Społecznych określone w ustawie z dnia 13 października 1998 r. o korekta \"-\" systemie ubezpieczeń społecznych w części finansowanej przez płatnika składek, składki na Fundusz Pracy 930 962,63 oraz Fundusz Gwarantowanych Świadczeń Pracowniczych - nieuznane za koszty uzyskania przychodów korekta \"-\" utworzone rozliczenia międzyokresowe kosztów bierne - nie uznane za koszty uzyskania przychodu 0,00 korekta \"+\" koszty stanowiące wykorzystanie biernych rozliczeń międzyokresowych kosztów - 0,00 nie były KUP w roku ubiegłym korekta \"+\" rozwiązanie niewykorzystanych biernych rozliczeń międzyokresowych kosztów - 0,00 nie składki były na KUP rzecz w roku Zakładu ubiegłym Ubezpieczeń Społecznych określone w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych w części finansowanej przez płatnika składek, składki na Fundusz Pracy korekta \"+\" oraz Fundusz Gwarantowanych Świadczeń Pracowniczych - 1 296 340,98 naliczone w latach ubiegłych korekta\"-\" naliczone w roku bieżącym a nieprzekazane na konto środki na ZFŚS 0,00 korekta \"+\" przekazane w roku bieżącym środki na ZFŚS - naliczone w roku ubiegłym 0,00 korekta\"-\" inne świadczenia na rzecz pracowników - nieuznane za koszty uzyskania przychodów 8 439,51 korekta \"+\" inne świadczenia na rzecz pracowników - naliczone w latach ubiegłych 6 200,30 korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 56 460,17 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" inne korekty 140,00 korekta \"+\" inne korekty 140,00 VI. Ubezpieczenia społeczne i inne świadczenia - ujęcie podatkowe 62 249 498,47 RZiS Pozostałe koszty rodzajowe 3 373 134,00 składki na ubezpieczenie samochodu osobowego w wysokości przekraczającej ich część ustaloną korekta \"-\" w takiej proporcji, w jakiej pozostaje równowartość 20.000 EURO 2 036,08 wydatki na rzecz osób wchodzących w skład Rady Funduszu, z wyjątkiem wynagrodzeń wypłacanych z tytułu korekta \"-\" pełnionych funkcji 28 874,63 korekta \"-\" koszty reprezentacji 324 590,72 jednorazowe odszkodowania z tytułu wypadków przy pracy i chorób zawodowych w wysokości określonej korekta \"-\" przez właściwego ministra oraz dodatkowa składka ubezpieczeniowa w przypadku stwierdzenia pogorszenia 0,00 warunków pracy korekta\"-\" naliczone w roku bieżącym, a nie stanowiące kosztów uzyskania przychodów zwroty kosztów podróży 9 702,42 służbowych korekta \"+\" zwroty kosztów podróży służbowych - naliczone w latach ubiegłych 22 204,34 korekta \"-\" utworzone rozliczenia międzyokresowe kosztów bierne - nie uznane za koszty uzyskania przychodu 0,00 korekta \"+\" koszty stanowiące wykorzystanie biernych rozliczeń międzyokresowych kosztów - 0,00 nie były KUP w roku ubiegłym korekta \"+\" rozwiązanie niewykorzystanych biernych rozliczeń międzyokresowych kosztów - 0,00 nie były KUP w roku ubiegłym korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 32 094,60 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" inne korekty 10 123,37 korekta \"+\" inne korekty 0,00 VII. Pozostałe koszty rodzajowe - ujęcie podatkowe 2 987 916,52 WYSZCZEGÓLNIENIE Dane za okres : 1.01-31.12.2012 r. VIII. Wartość sprzedanyPchrz tyocwhaordóyw n ie mttaot zeeri aspłórwzedaży i zrównane z nimi, w tym: 4 481,74 korekta \"+\" wypełnić w przypadku ujemnej zmiany stanu produktów - korekta zwiększająca koszt podatkowy 86 715,98 korekta \"-\" wypełnić w przypadku dodatniej zmiany stanu produktów - korekta zmniejszająca koszt podatkowy 801 080,53 D. Pozostałe przychody operacyjne 213 237 227,22"
+        },
+        {
+         "type": "text",
+         "text": "I. Zysk ze zbycia niefinansowych aktywów trwałych 0,00 RZiS Dotacje 648 944,55 korekta \"-\" zwrócone, umorzone, lub zaniechane wpłaty na PFRON 0,00 korekta \"-\" przychody z tytułu amortyzacji środków trwałych i wartości niematerialnych i prawnych nieodpłatnie 9 372,79 otrzymanych lub finansowych z dotacji nieotrzymane refundacje kosztów poniesionych przez NFZ na leki oraz leczenie uzdrowiskowe osób korekta \"-\" zatrudnionych przy produkcji wyrobów zawierających azbest oraz na leki sfinansowane ponad limit na rzecz 9 268,38 uprawnionych żołnierzy lub pracowników i inne o charakterze dotacji - naliczonych (zaewidencjonowanych) jako przychody w roku bieżącym otrzymane refundacje kosztów poniesionych przez NFZ na leki oraz leczenie uzdrowiskowe osób korekta \"+\" zatrudnionych przy produkcji wyrobów zawierających azbest oraz na leki sfinansowane ponad limit na rzecz 39 271,75 uprawnionych żołnierzy lub pracowników i inne o charakterze dotacji - naliczone (zaewidencjonowane) jako przychody w latach ubiegłych korekta \"-\" inne korekty 808,40 korekta \"+\" inne korekty 302 151,55 II. Dotacje - ujęcie podatkowe 970 918,28 RZiS Inne przychody operacyjne 243 682 942,59 korekta \"-\" rozwiązanie niewykorzystanej rezerwy - nie będącej KUP w latach ubiegłych 4 584 585,93 korekta \"-\" rozwiązanie odpisu aktualizującego - nie był KUP w latach ubiegłych 1 025 578,35 korekta \"-\" należne, a nieotrzymane kary, grzywny, odszkodowania 5 488 814,62 korekta \"+\" otrzymane kary, grzywny, odszkodowania - naliczone w latach ubiegłych 5 064 646,31"
+        },
+        {
+         "type": "text",
+         "text": "korekta \"-\" zasądzony zwrot kosztów sądowych i zastępstwa procesowego - należnych, a nieotrzymanych w roku bieżącym 202 503,81"
+        },
+        {
+         "type": "text",
+         "text": "korekta \"+\" zasądzony zwrot kosztów sądowych i zastępstwa procesowego - naliczone w latach ubiegłych, a otrzymanych 182 155,53 w roku bieżącym korekta \"-\" inne korekty 26 096 858,03 korekta \"+\" inne korekty 734 905,25 III. Inne przychody operacyjne - ujęcie podatkowe 212 266 308,94 E. Pozostałe koszty operacyjne 481 969 460,29"
+        },
+        {
+         "type": "text",
+         "text": "I. Strata ze zbycia niefinansowych aktywów trwałych 2 815 013,22 RZiS Aktualizacja odpisy aktualizujące, wartości z aktywów tym że kosztem niefinansowych uzyskania przychodów są odpisy aktualizujące wartość należności, 61 391 625,31 określone w ustawie o rachunkowości, od tej części należności, która była uprzednio zaliczona na podstawie korekta \"-\" art 12 ust. 3 do przychodów należnych, a ich nieściągalność została uprawdopodobniona na podstawie art 16 61 371 663,86 ust. 2a pkt 1 korekta \"-\" inne korekty 3 472,20 korekta \"+\" inne korekty 3 313,11 II. Aktualizacja wartości aktywów niefinansowych - ujęcie podatkowe 19 802,36 RZiS Inne koszty operacyjne 572 551 637,96 korekta \"-\" utworzone rezerwy 152 720 328,57 korekta \"+\" koszty stanowiące wykorzystanie rezerw - zaliczonych do niestanowiących KUP 60 358 989,72 koszty egzekucyjne związane z niewykonaniem zobowiązań (w tym koszty sądowe) w przypadku egzekucji korekta \"-\" skierowanej przeciwko NFZ 1 544 312,22 kary, opłaty i odszkodowania z tytułu nieprzestrzegania przepisów w zakresie ochrony środowiska oraz korekta \"-\" niewykonania nakazów właściwych organów nadzoru i kontroli dotyczących uchybień w dziedzinie 0,00 bezpieczeństwa i higieny pracy grzywny i kary pieniężne orzeczone w postępowaniu karnym, karno skarbowym, administracyjnym korekta \"-\" i w sprawach o wykroczenia 10 299,04 wykorzystanie odpisu aktualizującego utworzonego jako NKUP w latach ubiegłych korekta \"+\" (po spełnieniu warunków określonych w art. 16 ust. 2 ustawy o CIT) 445 805,06 korekta \"-\" wierzytelności odpisane jako przedawnione (art. 16 ust. 1 pkt. 20 ustawy o CIT) 0,00 korekta \"-\" wierzytelności odpisane jako nieściągalne i nieudokumentowane (art. 16 ust. 1 pkt. 25 ustawy o CIT) 40 497,74 korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 0,00 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" inne korekty 1 178 943,31 korekta \"+\" inne korekty 1 272 592,85 III. Inne koszty operacyjne - ujęcie podatkowe 479 134 644,71 G. Przychody finansowe 157 500 228,15"
+        },
+        {
+         "type": "text",
+         "text": "I. Dywidendy i udziały w zyskach 0,00 RZiS Odsetki 145 394 551,12 korekta \"-\" naliczone, lecz nieotrzymane odsetki od należności 5 472 631,59 korekta \"+\" otrzymane odsetki od należności - naliczone (zaewidencjonowane) w latach ubiegłych 1 542 751,57 korekta \"-\" naliczone, lecz nieotrzymane odsetki od lokat bankowych 1 614 986,63 korekta \"+\" otrzymane odsetki od lokat bankowych - naliczone (zaewidencjonowane) w roku ubiegłym 845 267,55 korekta \"-\" umorzone odsetki od zobowiązań, które nie były KUP w latach ubiegłych 0,00 zwrot zapłaconych wcześniej odsetek za zwłokę z tytułu nieterminowych wpłat należności budżetowych i korekta \"-\" innych należności, do których stosuje się przepisy Ordynacji podatkowej 170 843,00 korekta \"-\" inne korekty 145,17 korekta \"+\" inne korekty 12 380,93 II. Odsetki - ujęcie podatkowe 140 536 344,78 III. Zysk ze zbycia inwestycji 0,00 IV. Aktualizacja wartości inwestycji 0,00 RZiS Inne 20 561 872,18 korekta \"+\" korekta różnic kursowych z 2011 roku ujętych w księgach rachunkowych 2012 roku oraz różnice kursowe od 0,00 BRMK 2012 r. korekta \"-\" korekta różnic kursowych z 2011 roku ujętych w księgach rachunkowych 2012 roku oraz różnice kursowe od 779 041,24 BRMK 2012 r. korekta \"-\" rozwiązanie odpisu aktualizującego należność z tytułu odsetek - nie był KUP w latach ubiegłych 320 863,42 korekta \"-\" rozwiązane rezerwy na odsetki - nie były KUP w latach ubiegłych 2 103 674,08 WYSZCZEGÓLNIENIE Dane za okres : 1.01-31.12.2012 r. korekta \"-\" zrealizowane i niezPrerazlyizcohwodanye n deottdoa tznei es prórzżendicaeż yk ui rzsroówwen safninea nz snoiwmain, ew z t ydmot:acji 394 410,07 korekta \"-\" inne korekty 0,00 korekta \"+\" inne korekty 0,00 V. Inne - ujęcie podatkowe 16 963 883,37 H. Koszty finansowe 21 977 684,24"
+        },
+        {
+         "type": "text",
+         "text": "RZiS Odsetki 7 771 672,12 korekta \"-\" naliczone, lecz nie zapłacone albo umorzone odsetki od zobowiązań, w tym również od pożyczek (kredytów) 4 846 310,37 korekta \"+\" zapłacone odsetki od zobowiązań - naliczone w latach ubiegłych 138 645,07 odsetki za zwłokę z tytułu nieterminowych wpłat należności budżetowych i innych należności, korekta \"-\" do których stosuje się przepisy Ordynacji podatkowej 0,00 odsetki od zobowiązań z tytułu nieprzestrzegania przepisów w zakresie ochrony środowiska oraz niewykonania korekta \"-\" nakazów właściwych organów nadzoru i kontroli dotyczących uchybień w dziedzinie bezpieczeństwa i higieny 0,00 pracy korekta \"-\" wydatki na nabycie papierów wartościowych posiadanych na koniec roku 0,00 korekta \"+\" koszty stanowiące wykorzystanie rezerw na koszty odsetek - zaliczonych do niestanowiących KUP 3 458 324,83 korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 0,00 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" inne korekty 800,48 korekta \"+\" inne korekty 128 015,68 I. Odsetki - ujęcie podatkowe 6 649 546,85 II. Strata ze zbycia inwestycji 0,00 III. Aktualizacja wartości inwestycji 0,00 RZiS Inne 29 969 745,76"
+        },
+        {
+         "type": "text",
+         "text": "korekta \"-\" utworzone rezerwy na koszty odsetek 23 024 340,01 korekta \"+\" korekta różnic kursowych z 2011 roku ujętych w księgach rachunkowych 2012 roku oraz różnice kursowe od 12 341 526,07 BRMK 2012 r. korekta \"-\" korekta różnic kursowych z 2011 roku ujętych w księgach rachunkowych 2012 roku oraz różnice kursowe od 801,29 BRMK 2012 r. korekta \"-\" odpisy aktualizujące wartość należności z tytułu odsetek 3 955 453,28 wykorzystanie odpisu aktualizującego utworzonego jako NKUP w latach ubiegłych korekta \"+\" (po spełnieniu warunków określonych w ustawie o CIT) 77 767,33 korekta \"-\" wydatki i koszty sfinansowane z dotacji - POKL 0,00 korekta \"-\" wydatki i koszty sfinansowane z dotacji - pozostałe programy UE/EFTA 0,00 korekta \"-\" zrealizowane i niezrealizowane, ujemne różnice kursowe sfinansowane z dotacji 208 150,46 korekta \"-\" inne korekty 202 337,96 korekta \"+\" inne korekty 330 181,23 IV. Inne 15 328 137,39 J. I. Zyski nadzwyczajne 0,00 II. Straty nadzwyczajne 0,00 Przychody nie ujęte w księgach rachunkowych, a podlegające opodatkowaniu 0,00 korekta \"+\" przychody ze sprzedaży papierów wartościowych 0,00 korekta \"+\" przychody z nieodpłatnego użytkowania środków trwałych 0,00 korekta \"+\" przychody z nieodpłatnego udostępnienia środków trwałych 0,00 Koszty nie ujęte w księgach rachunkowych, a zmniejszające podstawę opodatkowania 0,00 korekta \"-\" wydatki na nabycie papierów wartościowych, zbytych w ciągu roku sprawozdawczego 0,00 CIT-8 (21) poz. 27 Przychody ze źródeł przychodów położonych na terytorium RP 62 656 411 892,47"
+        },
+        {
+         "type": "text",
+         "text": "CIT-8 (21) poz. 31 Koszty uzyskania przychodów 60 436 624 684,82"
+        },
+        {
+         "type": "text",
+         "text": "CIT-8 (21) poz. 35 / Zysk / Strata 2 219 787 207,65 36"
+        },
+        {
+         "type": "text",
+         "text": "CIT-8 (21) poz. 38 / Zysk / Strata 2 219 787 207,65 39"
+        },
+        {
+         "type": "text",
+         "text": "CIT-8/O (8) Tytuły pomniejszające podstawę do opodatkowania / dochody wolne lub zwolnione od podatku 2 069 756 223,88 CIT-8/O poz. 20 (8) otrzymane dotacje - art 17 ust1 pkt 47 2 073 728 676,14 poz. 12 CIT-8/O (8) dochody wolne od podatku - art 17 ust 1 pkt 4p /tylko na szczeblu sprawozdania łącznego NFZ/ -3 972 452,26 poz. 8 Zysk / Strata, podstawa do opodatkowania 150 030 983,77 CIT-8/O (8) Odliczenia od dochodu strat z lat ubiegłych /tylko na szczeblu sprawozdania łącznego NFZ/ 0,00 poz. CIT-8 24,41,49 (21) poz. 43 Razem dochody wolne i odliczenia 2 069 756 223,88"
+        },
+        {
+         "type": "text",
+         "text": "CIT-8 (21) poz. 44 / Podstawa opodatkowania / Strata 150 030 983,77 45 poz. 51 / CIT-8 (21) poz. 54, 56 Obliczenie należnego podatku - 19% /tylko na szczeblu sprawozdania łącznego NFZ/ 0,00"
+        },
+        {
+         "type": "text",
+         "text": "Podsumowanie 1 Przychody i zyski nadzwyczajne ogółem wg ksiąg rachunkowych 62 965 002 274,81 2 Przychody wyłączone z opodatkowania (korekty \"-\") 8 154 236 572,86 3 Przychody włączone do opodatkowania (korekty \"+\") 7 845 646 190,52 Przychody podatkowe 62 656 411 892,47 4 [4=1-2+3] 5 Koszty i straty nadzwyczajne ogółem wg ksiąg rachunkowych 62 679 620 635,78 6 Koszty niestanowiące kosztów uzyskania przychodu (korekty \"-\") 3 566 088 876,57 7 Koszty włączone do kosztów uzyskania przychodu (korekty \"+\") 1 323 092 925,61 Koszty uzyskania przychodu 60 436 624 684,82 8 [8=5-6+7] 9 Dochód podatkowy / strata podatkowa [9=4-8] 2 219 787 207,65 Nota 2.6 Informacja o kosztach rodzajowych"
+        },
+        {
+         "type": "text",
+         "text": "Nie dotyczy - jednostka sporządza Rachunek Zysków i Strat w wariancie porównawczym."
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.7 Koszty wytworzenia środków trwałych w budowie (środków trwałych na własne potrzeby):"
+        },
+        {
+         "type": "text",
+         "text": "Nie dotyczy"
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.8 Poniesione w okresie sprawozdawczym i planowane na następny rok nakłady na niefinansowe aktywa trwałe:"
+        },
+        {
+         "type": "text",
+         "text": "nakłady poniesione: 69 556 702,93 w tym: na ochronę środowiska 0,00"
+        },
+        {
+         "type": "text",
+         "text": "nakłady planowane: 94 761 340,00 w tym: na ochronę środowiska 0,00"
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.9 Informacja o zyskach i stratach nadzwyczajnych: w zł i gr Wyszczególnienie Razem z tego: losowe pozostałe 1) zyski nadzwyczajne, w tym: 0,00 0,00 0,00 a) 0,00 0,00 0,00"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_4/lit_b",
+         "text": "0,00 0,00 0,00 2) straty nadzwyczajne, w tym: 0,00 0,00 0,00 a) 0,00 0,00 0,00",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_4/lit_b",
+         "text": "0,00 0,00 0,00",
+         "children": [
+          {
+           "type": "text",
+           "text": "Nota 2.10 Podatek dochodowy od wyniku na operacjach nadzwyczajnych:"
+          },
+          {
+           "type": "text",
+           "text": "Nie dotyczy"
+          },
+          {
+           "type": "text",
+           "text": "Nota 2a Informacja o kursach walut przyjętych do wyceny pozycji bilansu oraz rachunku zysków i strat:"
+          },
+          {
+           "type": "text",
+           "text": "Nota 3.1 Struktura środków pieniężnych do sprawozdania z przepływów pieniężnych:"
+          },
+          {
+           "type": "text",
+           "text": "w zł i gr."
+          },
+          {
+           "type": "text",
+           "text": "Stan na: Wyszczególnienie 31.12.2011 r. 31.12.2012 r."
+          },
+          {
+           "type": "text",
+           "text": "Środki pieniężne i inne krótkoterminowe aktywa finansowe - razem, w tym: 2 695 757 485,61 2 795 050 401,62"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "środki pieniężne w kasie (ach) 71 395,19 63 599,82",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "środki pieniężne na rachunkach bankowych 7 360 536,23 3 336 637,33",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "pozostałe środki pieniężne (np. lokaty, środki pieniężne w drodze) 2 688 325 554,19 2 791 650 164,47",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "inne aktywa pieniężne 0,00 0,00 Nota 4.1 Informacja o zawartych, a nie uwzględnionych w bilansie umowach:",
+       "children": [
+        {
+         "type": "text",
+         "text": "w zł i gr. Lp. Wyszczególnienie stan na stan na 31.12.2011 r. 31.12.2012 r Ogółem, w tym: 960 509 152,61 1 123 830 897,18 1) Zobowiązania warunkowe wynikłe z roszczeń sądowych z tytułu ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kształtowania przeciętnych wynagrodzeń u 118 058 134,89 79 646 183,44 przedsiębiorców oraz zmianie niektórych ustaw (Dz. U. z 1995 r. Nr 1, poz. 2) 2) Zobowiązania warunkowe wynikłe z roszczeń sądowych z 619 016 408,73 578 905 970,84 pozostałych tytułów, w tym dotyczące:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_4/lit_a",
+         "text": "ponadumownych świadczeń zdrowotnych 562 667 366,04 537 079 526,44",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_4/lit_b",
+         "text": "pozostałych świadczeń zdrowotnych 50 615 951,48 35 203 717,67",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_4/lit_c",
+         "text": "pozostałych tytułów 5 733 091,21 6 622 726,73",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "Prawdopodobne zobowiązania z tytułu rozliczeń z państwami członkowskimi Unii Europejskiej lub Europejskiego 0,00 0,00 Porozumienia o Wolnym Handlu (EFTA) za udzielone świadczenia zdrowotne, w tym wobec: Austria 0,00 0,00 Belgia 0,00 0,00 Cypr 0,00 0,00 Czechy 0,00 0,00 Dania 0,00 0,00 Estonia 0,00 0,00 Finlandia 0,00 0,00 Francja 0,00 0,00 Grecja 0,00 0,00 Hiszpania 0,00 0,00 Holandia 0,00 0,00 Irlandia 0,00 0,00 Islandia 0,00 0,00 Lichtenstein 0,00 0,00 Litwa 0,00 0,00 Luksemburg 0,00 0,00 Łotwa 0,00 0,00 Malta 0,00 0,00 Niemcy 0,00 0,00 Norwegia 0,00 0,00 Portugalia 0,00 0,00 Słowacja 0,00 0,00 Słowenia 0,00 0,00 Szwajcaria 0,00 0,00 Szwecja 0,00 0,00 Węgry 0,00 0,00 Wielka Brytania 0,00 0,00 Włochy 0,00 0,00 Bułgaria 0,00 0,00 Rumunia 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "Pozostałe zobowiązania warunkowe 2 362 018,38 2 973 979,37",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "Pozostałe należności warunkowe 221 072 590,61 462 304 763,53 Nota 4.2 Informacja o transakcjach zawartych ze stronami powiązanymi na innych warunkach niż rynkowe: w zł i gr.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Lp. Wyszczególnienie za 1.01 - 31.12.2011 r. za 1.01 - 31.12.2012 r."
+        },
+        {
+         "type": "text",
+         "text": "Ogółem, w tym: 0,00 0,00"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "z jednostkami powiązanymi 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "z członkami organu zarządzającego, nadzorującego lub 0,00 0,00 administrującego jednostką lub jednostką powiązaną",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "z osobą, która jest małżonkiem lub osobą faktycznie pozostającą we wspólnym pożyciu, krewnym lub powinowatym do drugiego stopnia, przysposobionym lub"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "przysposabiającym, osoba związaną z tytułu opieki lub kurateli 0,00 0,00 w stosunku do którejkolwiek z osób będących członkami organu zarządzającego, nadzorującego lub administrującego jednostką lub jednostką powiązaną",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "z jednostką kontrolowaną, współkontrolowaną lub inną"
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "jednostką, na którą znaczący wpływ wywiera lub posiada w 0,00 0,00 niej znaczącą ilość głosów, bezpośrednio albo pośrednio osoba o której mowa pkt. 2-3",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "z jednostką realizującą program świadczeń pracowniczych po"
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "okresie zatrudnienia, skierowany do pracowników jednostki 0,00 0,00 lub innej jednostki będącej jednostką powiązaną w stosunku do tej jednostki Nota 4.3 Informacja o przeciętnym zatrudnieniu w okresie sprawozdawczym w grupach zawodowych:",
+       "children": [
+        {
+         "type": "text",
+         "text": "przeciętna liczba zatr."
+        },
+        {
+         "type": "text",
+         "text": "za 1.01 - 31.12.2011 r. za 1.01 - 31.12.2012 r. Wyszczególnienie ogółem w tym kobiety ogółem w tym kobiety"
+        },
+        {
+         "type": "text",
+         "text": "Zatrudnienie razem, w tym: 4 963,34 3 696,12 5 056,27 3 759,83"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "pracownicy kierownictwa 857,00 560,02 852,33 562,54",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "specjaliści 3 146,95 2 429,39 3 254,77 2 510,08",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "pracownicy biurowi 862,47 697,93 850,35 678,41",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "pozostali pracownicy 96,92 8,78 98,82 8,80",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nota 4.4 Wynagrodzenia wypłacone Prezesowi lub członkom Rady Funduszu (łącznie z nagrodami, premiami i dietami) : w zł i gr. za okres Wyszczególnienie za 1.01 - 31.12.2011 r. za 1.01 - 31.12.2012 r."
+        },
+        {
+         "type": "text",
+         "text": "Wynagrodzenia łącznie, w tym: 347 137,92 409 699,62"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "wypłacone Prezesowi NFZ 203 137,92 276 499,62",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "wypłacone członkom Rady 144 000,00 133 200,00",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nota 4.5 Pożyczki udzielone Prezesowi lub członkom Rady Funduszu:"
+        },
+        {
+         "type": "text",
+         "text": "w zł i gr. za okres Wyszczególnienie za 1.01 - 31.12.2011 r. za 1.01 - 31.12.2012 r."
+        },
+        {
+         "type": "text",
+         "text": "Udzielone pożyczki łącznie, w tym: 0,00 0,00"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "Prezesowi 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "członkom Rady Funduszu 0,00 0,00",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nota 4.6 Wynagrodzenie wypłacone biegłemu rewidentowi lub podmiotowi uprawnionemu do badania sprawozdań finansowych:"
+        },
+        {
+         "type": "text",
+         "text": "w okresie Wyszczególnienie"
+        },
+        {
+         "type": "text",
+         "text": "Ogółem wypłacone wynagrodzenia, w tym: 183 270,00 153 750,00"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "za obowiązkowe badanie rocznych 169 740,00 153 750,00 sprawozdań finansowych",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "za inne usługi poświadczające 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "za usługi doradztwa podatkowego 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "pozostałe usługi 13 530,00 0,00 Nota 5.1 Informacje o znaczących zdarzeniach dotyczące lat poprzednich ujętych w sprawozdaniu finansowym za okres sprawozdawczy: w zł i gr. Uwzględniono w:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wyszczególnienie zdarzeń Kwota bilansie rachunku zysków i strat"
+        },
+        {
+         "type": "text",
+         "text": "(podać poz. spr.) (podać poz. spr.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Koszty lat ubiegłych, w tym: 417 536 661,52 - E. III",
+     "children": [
+      {
+       "type": "text",
+       "text": "- koszty świadczeń zdrowotnych 417 520 441,83 - E.III"
+      },
+      {
+       "type": "text",
+       "text": "- pozostałe 16 219,69 - E.III"
+      },
+      {
+       "type": "text",
+       "text": "Nota 5.2 Informacje o znaczących zdarzeniach jakie wystąpiły po dniu bilansowym nieuwzględnionych w bilansie oraz rachunku zysków i strat: w zł i gr. Bilans:"
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie zdarzeń Kwota zaprezentowano nie zaprezentowano"
+      },
+      {
+       "type": "text",
+       "text": "(podać poz. spr.) (podać poz. spr.)"
+      },
+      {
+       "type": "text",
+       "text": "Wartość zmniejszenia biernych RMK 1 wykazanych w sprawozdaniach Centrali i 554 130 286,62 Pasywa B.I.3. Pasywa B.III.2. OW NFZ w porównaniu do stanu na dzień 22 marca 2013 r."
+      },
+      {
+       "type": "text",
+       "text": "Nota 5.3 Zmiany zasad (polityki) rachunkowości, w tym metod wyceny oraz sposobu sporządzania sprawozdania finansowego wywierające istotny wpływ na sytuację majątkową, finansową, wynik finansowy oraz zmiany w kapitale własnym:"
+      },
+      {
+       "type": "text",
+       "text": "w zł i gr."
+      },
+      {
+       "type": "text",
+       "text": "Wyszczególnienie zmian oraz ich Kwota wpływu zmian na: przyczyny wynik finansowy aktywa kapitał własny"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nie wystąpiły 0,00 0,00 0,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "0,00 0,00 0,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "0,00 0,00 0,00 Nota 5.4 Informacje o dokonanych zmianach w stosunku do poprzedniego okresu sprawozdawczego, zmianach sposobu sporządzania sprawozdania finansowego i wpływie wywołanych tym skutków finansowych na sytuację majątkową i finansową, wynik finansowy oraz rentowność jednostki:",
+     "children": [
+      {
+       "type": "text",
+       "text": "w zł i gr."
+      },
+      {
+       "type": "text",
+       "text": "Uwzględniono w:"
+      },
+      {
+       "type": "text",
+       "text": "bilansie rachunku zysków i strat zestawienie zmian w Wyszczególnienie zdarzeń Kwota kapitale"
+      },
+      {
+       "type": "text",
+       "text": "pozycja sprawozdania pozycja sprawozdania pozycja sprawozdania"
+      },
+      {
+       "type": "text",
+       "text": "Zmiana sposobu prezentacji środków przeznaczonych (Uchwałami Rady NFZ nr 25/2006 kwota 54.626.024,66 PLN oraz Uchwałą Rady NFZ nr 10/2008 kwota 99.000.000PLN)nazakupśrodkówtrwałych orazwartościniematerialnychiprawnych W sprawozdaniu finansowym za 2011 r. powyższe kwoty były prezentowane w pasywach bilansu w pozycji \"A VI Pozostałe kapitały (fundusze) rezerwowe (CFI)\", natomiast w sprawozdaniu finansowym za 2012 r zgodnie z pismem 1. 153 626 024,66 Pasywa A. IV. 0,00 I.a.4 Ministerstwa Finansów FS1-6163-5- 4/STD/12/13/7961zdnia29stycznia2013r ww środki zostały zaprezentowane w pasywachbilansuwpozycji\"A IV Kapitał (fundusz) zapasowy\" Analogicznie, począwszy od pierwszego dnia bieżącego okresusprawozdawczego,ww środki,które dotychczasbyłyprezentowanewzestawieniu zmian w kapitale (funduszu własnym) w pozycji \"Pozostałe kapitały (fundusze) rezerwowe\", zostały zaprezentowane w pozycji \"Kapitał (fundusz) zapasowy\" Nota 6.1 Informacja o wspólnych przedsięwzięciach (nie podlegających konsolidacji w sprawozdaniach finansowych):"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "nazwa i zakres wspólnego przedsięwzięcia: - nie dotyczy NFZ",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "udział %-owy podmiotów realizujących wspólne przedsięwzięcie: - nie dotyczy NFZ",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_3/lit_c",
+       "text": "wspólnie kontrolowane rzeczowe składniki aktywów trwałych oraz wartości niematerialnych i - pśrroadwkniy tcrwh:ałe nie dotyczy NFZ - wartości niematerialne i prawne nie dotyczy NFZ",
+       "children": [
+        {
+         "type": "text",
+         "text": "(należy podać ponadto w jakich częściach są kontrolowane przez podmioty uczestniczące we wspólnym przedsięwzięciu)"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_3/lit_d",
+       "text": "kwota zobowiązań dotyczących wspólnego przedsięwzięcia (w tym z tytułu zakupu używanych rzeczowych aktywów trwałych): nie dotyczy NFZ",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_3/lit_e",
+       "text": "kwota zobowiązań wspólnie zaciągniętych przez uczestników wspólnego przedsięwzięcia: -",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_3/lit_f",
+       "text": "uzyskane wyniki ze wspólnego przedsięwzięcia: - a) przychody nie dotyczy NFZ",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "koszty nie dotyczy NFZ",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_3/lit_g",
+       "text": "kwoty zobowiązań warunkowych i inwestycyjnych dotyczących wspólnego przedsięwzięcia: -",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "z tego:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/lit_a",
+       "text": "zobowiązania warunkowe nie dotyczy NFZ",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/lit_b",
+       "text": "zobowiązania inwestycyjne nie dotyczy NFZ",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nota 6.2 Informacje o transakcjach z jednostkami powiązanymi:"
+        },
+        {
+         "type": "text",
+         "text": "w zł i gr."
+        },
+        {
+         "type": "text",
+         "text": "Kwoty transakcji za okres: Wyszczególnienie transakcji i ich przedmiot Nazwa jednostki 01.01-31.12.2011 r. 1.01-31.12.2012 r."
+        },
+        {
+         "type": "text",
+         "text": "nie dotyczy NFZ - 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "Nota 6.3 Wykaz spółek, w których jednostka posiada co najmniej 20% udziałów w kapitale lub w ogólnej liczbie głosów w organie statutowym stanowiącym spółki:"
+        },
+        {
+         "type": "text",
+         "text": "Nota 6.4 Jednostka nie sporządzając skonsolidowanego sprawozdania finansowego na podstawie wyłączeń z konsolidacji (decyzji) dopuszczonych ustawą, podaje następujące informacje:"
+        },
+        {
+         "type": "text",
+         "text": "nie dotyczy NFZ Nota 7 W związku ze sporządzaniem sprawozdania finansowego za okres sprawozdawczy (okres sprawozdawczy, w którym nastąpiło połączenie) podaje się następujące informacje:"
+        },
+        {
+         "type": "text",
+         "text": "Nie dotyczy NFZ"
+        },
+        {
+         "type": "text",
+         "text": "Nota 8.1 Wyrażenie niepewności możliwości dalszego kontynuowania działalności jednostki (jeżeli niepewność występuje) oraz jej charakterystyka:"
+        },
+        {
+         "type": "text",
+         "text": "Nie występuje"
+        },
+        {
+         "type": "text",
+         "text": "Nota 8.2 Wskazanie korekt dokonanych w sprawozdaniu finansowym w związku z wystąpieniem niepewności dalszej kontynuacji działalności:"
+        },
+        {
+         "type": "text",
+         "text": "Nie dokonywano"
+        },
+        {
+         "type": "text",
+         "text": "Nota 8.3 Wskazanie podejmowanych lub planowanych działań w celu wyeliminowania niepewności dalszej kontynuacji działalności:"
+        },
+        {
+         "type": "text",
+         "text": "Nie dotyczy Nota 9.1 Informacje dodatkowe i końcowe mające istotny wpływ na ocenę sytuacji majątkowej, finansowej i wyniku finansowego jednostki:"
+        },
+        {
+         "type": "text",
+         "text": "Wysokość wykonanych przez świadczeniodawców, a nie ujętych w księgach rachunkowych ponadumownych świadczeń zdrowotnych za okres od 1.01 do 31.12.2012 r.:"
+        },
+        {
+         "type": "text",
+         "text": "w zł i gr."
+        },
+        {
+         "type": "text",
+         "text": "Lp. Rodzaj świadczenia zdrowotnego Wartość"
+        },
+        {
+         "type": "text",
+         "text": "Razem: 1 463 790 517,57"
+        },
+        {
+         "type": "text",
+         "text": "1 podstawowa opieka zdrowotna 0,00"
+        },
+        {
+         "type": "text",
+         "text": "2 ambulatoryjna opieka specjalistyczna 132 424 944,32"
+        },
+        {
+         "type": "text",
+         "text": "3 lecznictwo szpitalne 1 120 629 523,85"
+        },
+        {
+         "type": "text",
+         "text": "4 opieka psychiatryczna i leczenie uzależnień 25 631 250,43"
+        },
+        {
+         "type": "text",
+         "text": "5 rehabilitacja lecznicza 111 537 111,61"
+        },
+        {
+         "type": "text",
+         "text": "6 świadczenia pielęgnacyjne i opiekuńcze w ramach opieki długoterminowej 15 280 377,07"
+        },
+        {
+         "type": "text",
+         "text": "7 opieka paliatywna i hospicyjna 8 724 847,98"
+        },
+        {
+         "type": "text",
+         "text": "8 leczenie stomatologiczne 11 421 805,02"
+        },
+        {
+         "type": "text",
+         "text": "9 lecznictwo uzdrowiskowe 0,00"
+        },
+        {
+         "type": "text",
+         "text": "10 pomoc doraźna i transport sanitarny 0,00"
+        },
+        {
+         "type": "text",
+         "text": "11 koszty profilaktycznych programów zdrowotnych i programów polityki zdrowotnej, finansowanych ze środków Funduszu 2 491 996,62"
+        },
+        {
+         "type": "text",
+         "text": "12 świadczenia zdrowotne kontraktowane odrębnie 35 648 660,67"
+        },
+        {
+         "type": "text",
+         "text": "13 zaopatrzenie w sprzęt ortopedyczny, środki pomocnicze i lecznicze środki techniczne 0,00"
+        },
+        {
+         "type": "text",
+         "text": "14 refundacja cen leków 0,00 Nota 9.2 Informacje dodatkowe do wybranych pozycji z rachunku zysków i strat:"
+        },
+        {
+         "type": "text",
+         "text": "w zł i gr. Pozycja w rachunku zysków i strat 1.01-31.12.2011 r. 1.01-31.12.2012 r. A. I. Przychody netto ze sprzedaży - przychód z tytułu składek oraz pozostałe przychody z tyt. puz w tym:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przychody z tytułu składek na puz (bez windykacji z lat ub.), w tym: 58 238 309 067,90 60 312 306 720,58 a) ZUS 55 084 370 592,90 57 107 027 925,06",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "KRUS 3 153 938 475,00 3 205 278 795,52 2. Pozostałe przychody z tytułu puz, w tym: 2 111 405 225,23 2 241 662 182,34",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "otrzymane środki z tyt programów zdrowotnych i programów polityki zdrowotnej realizowanych na zlecenie 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "dotacja z budżetu państwa na zadanie, o którym mowa w art 97 ust 3 pkt 2a ustawy 122 042 821,89 120 400 973,77",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "dotacja z budżetu państwa na zadanie, o którym mowa w art 97 ust 3 pkt 3 ustawy 95 726 513,13 118 308 229,41",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "dotacja z budżetu państwa na zadanie, o którym mowa w art 97 ust 3 pkt 3b ustawy 8 670 941,74 14 669 771,48",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "dotacja z budżetu państwa na realizację zadań wynikajacych z ustawy z dnia 8 września 2006 r. o Państwowym 1 758 496 211,17 1 823 691 054,97 ratownictwie medycznym",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_1/lit_f",
+       "text": "przychody z tytułu koordynacji 117 883 503,68 154 515 152,78",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_1/lit_g",
+       "text": "pozostałe 8 585 233,62 10 076 999,93 IV. Przychody netto ze sprzedaży towarów i materiałów, w tym: 52 911,91 30 696,90 1. Materiałów 20 585,94 9 231,09 2. Towarów 32 325,97 21 465,81 B. Koszty działalności operacyjnej 60 561 201 933,62 62 005 120 941,41 I. Amortyzacja 79 293 173,91 81 948 931,31 1. Od śr. trwałych zakupionych ze środków własnych 75 306 036,91 77 875 709,47 2. Od śr. trwałych zakupionych ze środków otrzymanych 3 987 137,00 4 073 221,84 II. Zużycie materiałów i energii, w tym: 18 496 032,83 18 903 187,11 1 Zużycie materiałów związanych z utrzymaniem i rozwojem 1 118 554,09 1 124 483,83 systemu informatycznego (bez kosztów amortyzacji)",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zużycie materiałów pozostałych 8 711 269,63 8 437 736,14 3. Zużycie energii 8 666 209,11 9 340 967,14 III. Usługi obce, w tym: 60 100 928 466,11 61 530 518 962,53 1. Koszty świadczeń zdrowotnych, w tym: 58 104 775 778,08 59 458 026 689,42 a) podstawowa opieka zdrowotna 7 334 748 983,34 7 554 497 563,17",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/lit_b",
+       "text": "ambulatoryjna opieka specjalistyczna 4 437 171 669,08 5 046 360 674,49",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "leczenie szpitalne 27 552 056 810,46 29 437 144 651,76",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "opieka psychiatryczna i leczenie uzależnień 2 015 191 924,58 2 158 551 339,03",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/lit_e",
+       "text": "rehabilitacja lecznicza 1 829 838 642,70 1 997 101 714,26",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/lit_f",
+       "text": "świadczenia pielęgnacyjne i opiekuńcze w ramach opieki długoterminowej 947 028 551,21 1 020 811 121,63",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/lit_g",
+       "text": "opieka paliatywna i hospicyjna 294 668 099,80 331 409 114,83",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_2/lit_h",
+       "text": "leczenie stomatologiczne 1 710 332 928,27 1 771 376 022,42",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_2/lit_i",
+       "text": "lecznictwo uzdrowiskowe 560 888 459,00 584 440 412,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_2/lit_j",
+       "text": "pomoc doraźna i transport sanitarny 36 158 291,03 43 680 018,73",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "ust_2/lit_k",
+       "text": "koszty profilaktycznych programów zdrowotnych finansowanych ze środków własnych 146 749 293,07 151 844 764,31",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "l",
+       "path": "ust_2/lit_l",
+       "text": "świadczenia zdrowotne kontraktowane odrębnie 1 463 937 232,21 1 564 225 533,80",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "ł) zaopatrzenie w sprzęt ortoptopedyczny, środki pomocnicze i lecznicze środki techniczne 623 785 410,84 668 151 834,92"
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "ust_2/lit_m",
+       "text": "refundacja cen leków 8 831 868 013,72 6 863 070 516,14",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "n",
+       "path": "ust_2/lit_n",
+       "text": "koszty świadczeń zdrowotnych oraz refundacji cen leków wynikające z koordynacji systemów zabezpieczenia 320 351 468,77 265 361 407,93",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "o",
+       "path": "ust_2/lit_o",
+       "text": "inne koszty związane ze świadczeniami zdrowotnymi 0,00 0,00",
+       "children": [
+        {
+         "type": "text",
+         "text": "2 Usługi świadczeń zdrowotnych - koszty realizacji zadań zespołu ratownictwa medycznego na rzecz 1 758 472 147,34 1 823 691 054,97 świadczeniobiorców i osób uprawnionych"
+        },
+        {
+         "type": "text",
+         "text": "3 Usługi świadczeń zdrowotnych - koszty profilaktycznych programów zdrowotnych i programów polityki zdrowotnej realizowanych na zlecenie, na rzecz świadczeniobiorców i osób uprawnionych 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "4 Usługi remontowe 5 744 699,49 4 127 917,47"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Usługi telekomunikacyjne 4 387 229,76 4 189 957,42 6. Usługi pocztowe 9 315 575,17 11 509 299,53 7. Opłaty czynszowe i dzierżawne 15 446 685,54 15 828 250,28 8. Usługi związane z utrzymaniem i rozwojem systemu informatycznego 78 984 163,32 86 878 052,39 9 Usługi szkoleniowe 47 460,00 69 030,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Usługi pozostałe 12 329 197,12 12 175 951,74 11. Koszty poboru i ewidencji składek, w tym dotyczących: 111 425 530,29 114 022 759,31 a) ZUS 108 841 967,69 111 336 475,59",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_10/lit_b",
+       "text": "KRUS 2 583 562,60 2 686 283,72 Pozycja w rachunku zysków i strat 1.01-31.12.2011 r. 1.01-31.12.2012 r.",
+       "children": [
+        {
+         "type": "text",
+         "text": "B. IV. Podatki i opłaty, w tym: 2 654 908,65 3 324 369,43 1 Podatki stanowiące dochody własne jednostek samorządu terytorialnego, w tym: 411 100,38 447 784,67"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_10/lit_a",
+       "text": "podatek od nieruchomości 411 100,38 447 784,67 2 Opłaty stanowiące dochody własne jednostek samorządu terytorialnego 70 885,78 75 307,77",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "VAT zaliczony do kosztów 14 042,72 14 598,50 4. Podatek akcyzowy 0,00 0,00 5. Wpłaty na PFRON 1 984 269,00 2 588 684,00 6. Opłaty skarbowe 12 986,50 17 143,50 7. Inne 161 624,27 180 850,99 V. Wynagrodzenia, w tym: 300 396 419,25 305 105 055,79 1. Pracowników zatrudnionych na umowę o pracę 299 198 669,07 303 940 836,39 2. Tzw. bezosobowe 1 197 750,18 1 164 219,40 3. Pozostałe 0,00 0,00 VI. Ubezpieczenia i inne świadczenia, w tym: 55 665 238,19 61 942 819,50 1. Składki na Fundusz Ubezpieczeń Społecznych 42 469 376,24 48 674 433,26 2. Składki na Fundusz Pracy 5 627 360,76 5 597 909,24 3. Składki na Fundusz Gwarantowanych Świadczeń Pracowniczych 0,00 0,00 4. Odpisy na ZFŚS 5 551 343,30 5 664 357,52 5. Szkolenia pracowników 1 471 960,96 1 445 714,82 6. Pozostałe świadczenia 545 196,93 560 404,66 VII. Pozostałe koszty rodzajowe, w tym: 3 762 595,37 3 373 134,00 1. Podróże służbowe 2 434 688,88 1 878 362,23 2. Ryczałt za samochody 101 481,11 95 097,79 3. Koszty reprezentacji i reklamy 373 569,69 380 737,65 4. Pozostałe koszty 852 855,69 1 018 936,33 VIII. Wartość sprzedanych towarów i materiałów, w tym: 5 099,31 4 481,74 1. Materiałów 5 099,31 4 481,74 2. Towarów 0,00 0,00 D. Pozostałe przychody operacyjne I. Zysk/strata ze zbycia niefinansowych aktywów trwałych -93 152,55 -2 815 013,22 1. Przychody ze sprzedaży rzeczowych składników majątku 114 945,06 953 212,65 2. Koszt własny sprzedaży składników majątku trwałego 208 097,61 3 768 225,87 II. Dotacje, wg tytułów programów: 788 694,32 648 944,55 1 Refundacja wydatków zw z leczeniem uzdrowiskowym osób zatrudnionych przy produkcji wyrobów 167 504,00 203 014,14 zawierającyh azbest 2. Refundacja kosztów leków azbestowych 31 105,77 23 407,57 3. Chemioterapia w leczeniu nowotworów dzieci 0,00 0,00 4. Refundacja kosztów leków os. nieposiadającym ubezpieczenia 0,00 0,00 5. Refundacja kosztów leków sfinansowanych ponad limit na rzecz uprawnionych żołnierzy lub pracowników 0,00 1 392,20 6. PFRON 0,00 0,00",
+     "children": [
+      {
+       "type": "text",
+       "text": "7 Przychody z tyt równowartości amortyzacji aktywów trwałych otrzymanych 9 841,54 9 372,79"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Pozostałe 580 243,01 411 757,85 III. Inne przychody operacyjne, w tym: 225 914 768,32 243 682 942,59 1. Nadwyżki składników majątkowych 0,00 0,00 2. Darowizny środków obrotowych 0,00 0,00 3. Rozwiązane rezerwy 12 952 887,28 4 584 585,93 4. Odpisane zobowiązania 22 713,70 23 599,34 5. Otrzymane odszkodowania, kary, grzywny 28 041 083,19 23 575 638,05 6. Przychody z tytułu ustawy refundacyjnej 0,00 124 236 003,62 7. Rozwiązanie odpisu aktualizującego należności 27 141 642,80 1 014 894,25 8 Przychody ze składek z tyt ubezpieczenia zdrowotnego z lat ubiegłych 140 410 928,68 89 949 331,36",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Pozostałe przychody 17 345 512,67 298 890,04 E. Pozostałe koszty operacyjne III. Inne koszty operacyjne, w tym: 204 410 384,74 572 551 637,96 1. Niedobory składników majątkowych 16 304,48 4 640,75 2. Odszkodowania, kary, grzywny 22 950,00 35 904,04 3. Utworzone rezerwy 74 301 824,89 144 790 995,16",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 Wydanie i utrzymanie kart ubezpieczenia (w tym części stałych książeczek usług medycznych oraz recept) 1 376 583,78 712 287,35"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Odpisane należności 32 885,27 67 004,55 6. Koszty lat ubiegłych, w tym: 119 607 230,43 417 536 661,52 - koszty świadczeń zdrowotnych 119 545 168,35 417 520 441,83 - pozostałe 62 062,08 16 219,69 7. Pozostałe koszty 9 052 605,89 9 404 144,59 G. Przychody finansowe II. Odsetki, w tym: 137 700 767,55 145 394 551,12 1. Odsetki uzyskane z lokat i papierów wartościowych 109 835 281,11 114 770 414,46 2. Odsetki od należności 5 603 468,19 6 055 964,75 3. Odsetki od składek na puz 21 885 089,82 24 150 927,38 4. Pozostałe 376 928,43 417 244,53 V. Inne, w tym: 8 495 632,22 20 561 872,18 1. Rozwiązane rezerwy na odsetki 8 367 696,12 2 103 674,08 2. Dodatnie różnice kursowe 0,00 18 136 972,94 3. Pozostałe 127 936,10 321 225,16 H. Koszty finansowe I. Odsetki, w tym: 1 201 125,71 7 771 672,12 1. Odsetki od pożyczki udzielonej przez sejmik wojewódzki 0,00 0,00 2. Odsetki od pożyczki udzielonej przez budżet państwa 0,00 0,00 3. Odsetki od zobowiązań z tytułu podatków, ceł i ubezpieczeń społecznych 0,00 770,00 4. Odsetki od zobowiązań za świadczenia zdrowotne 1 201 125,71 7 769 985,55 5. Pozostałe 0,00 916,57 IV. Inne, w tym: 41 552 617,59 29 969 745,76 1. Utworzone rezerwy na odsetki 8 512 928,40 23 024 340,01 2. Ujemne różnice kursowe 26 439 827,94 0,00 3. Pozostałe 6 599 861,25 6 945 405,75 M. Pozostałe obowiązkowe zmniejszenia zysku (zwiększenia straty) 0,00 0,00 Nota 9.3 Wykazane w bilansie należności wewnętrzne na koniec okresu sprawozdawczego Należności od Oddziałów Wojewódzkich NFZ na dzień 31.12.2011 r. Wyszczególnienie Dolno śl ąs k OW K u ja w sk o- Małop o ls k OW Mazow i ec k OW Opo ls ki OW Podkar p ac ki OW Pomo rs k OW Św ię to k rz y ski W a r m i ń s ko - W ie lko po l ski Zacho d nio po m orski OGÓŁEM N F Z Po m o r sk O W Lubelski OW NFZLubusk OW NFZ Łódzk OW NFZ N F Z N F Z N F Z N F Z Podlaski OW NFZ N F Z Śląsk OW NFZ O W N F Z M a z u rs k i O W O W N F Z O W N F Z CENTRALA NFZ NFZ NFZ Dolnośląsk OW NFZ 953 012,33 1 206 583,71 7 546 797,43 3 595 475,53 2 461 225,81 3 546 80400 11 917 005,53 936 35056 877 262,98 1 501 12512 5 784 47535 1 459 544,42 509 30841 12 015 20401 1 697 425,50 410 517 92014 466 525 520,83",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kujawsko-Pomorsk OW NFZ 1 611 837,06 1 743 534,85 888 227,74 3 980 464,81 1 348 242,32 7 338 01254 331 121,37 477 62927 1 098 956,58 9 695 240,48 2 027 51260 611 098,87 3 206 96792 7 670 91137 3 337 582,55 301 477 754,94 346 845 095,27"
+      },
+      {
+       "type": "text",
+       "text": "Lubelsk OW NFZ 666 822,62 324 884,39 237 29911 855 009,23 1 190 295,61 9 410 12336 259 925,01 8 977 03192 996 98610 642 986,52 1 329 56374 2 950 405,91 1 340 36549 570 39544 342 62915 359 638 733,95 389 733 457,55"
+      },
+      {
+       "type": "text",
+       "text": "Lubuski OW NFZ 6 179 820,92 283 760,46 172 517,44 268 151,96 413 662,54 391 42448 408 730,92 307 55471 48 167,25 234 07112 569 57358 105 018,04 99 06205 4 516 49139 5 202 303,03 160 732 361,62 179 932 671,51"
+      },
+      {
+       "type": "text",
+       "text": "Łódzk OW NFZ 1 598 510,75 1 210 508,65 956 182,09 283 535,72 748 650,78 7 205 51533 677 13611 643 57693 335 845,99 586 556,79 2 638 88579 1 949 607,27 579 17255 4 729 88619 706 778,80 373 279 424,06 398 129 773,80"
+      },
+      {
+       "type": "text",
+       "text": "Małopolski OW NFZ 2 735 198,00 1 440 012,95 2 802 648,08 538 486,33 2 159 346,37 4 686 56029 1 215 169,35 15 014 63673 806 155,24 1 299 25915 14 411 77520 9 847 595,02 770 85571 2 253 24512 888 139,76 529 597 910,05 590 466 993,35"
+      },
+      {
+       "type": "text",
+       "text": "Mazowieck OW NFZ 6 140 592,89 9 656 417,85 21 293 259,62 2 601 626,68 19 371 96518 7 540 976,27 1 769 870,36 9 149 90898 15 165 576,74 6 955 593,26 9 042 08749 13 112 111,60 7 442 94877 7 338 95575 5 079 406,84 792 884 050,41 934 545 348,69"
+      },
+      {
+       "type": "text",
+       "text": "Opolsk OW NFZ 4 742 607,26 72 501,46 152 17312 270 852,79 1 043 828,31 447 917,41 376 81621 220 22632 27 50013 110 693,72 4 787 13699 103 576,96 65 48969 1 190 05068 147 287,63 181 675 578,05 195 434 236,73"
+      },
+      {
+       "type": "text",
+       "text": "Podkarpacki OW NFZ 595 164,29 417 336,44 4 921 223,50 127 939,87 819 721,32 6 127 112,52 1 846 78576 325 257,69 324 089,90 368 597,83 1 964 24776 3 855 751,41 266 59389 616 72356 283 697,80 306 928 734,98 329 788 978,52"
+      },
+      {
+       "type": "text",
+       "text": "Podlask OW NFZ 229 897,84 255 029,82 654 168,31 133 566,98 129 832,21 317 580,71 4 352 17347 30 882,97 184 38330 317 247,03 239 27312 65 99319 5 387 89699 287 83309 131 315,81 212 821 367,02 225 538 441,86"
+      },
+      {
+       "type": "text",
+       "text": "Pomorsk OW NFZ 1 485 08217 5 625 19111 527 686,65 401 535,39 1 523 574,87 802 024,77 2 800 78661 137 925,96 340 33756 624 422,86 1 131 45249 277 789,63 7 869 48555 1 607 89264 4 998 348,93 277 497 52915 307 651 066,34"
+      },
+      {
+       "type": "text",
+       "text": "Śląsk OW NFZ 5 296 903,39 435 081,98 1 613 337,97 999 274,85 9 838 023,77 26 751 697,68 3 343 82666 10 894 295,49 2 657 06073 503 749,21 1 480 928,04 4 726 884,89 878 22882 2 611 99635 946 453,90 597 100 930,61 670 078 674,34"
+      },
+      {
+       "type": "text",
+       "text": "Świętokrzyski OW NFZ 557 704,95 207 489,60 1 602 518,30 105 605,89 3 722 373,00 4 133 327,64 9 558 20777 211 640,36 4 737 64561 424 417,30 281 029,96 3 315 21482 354 65330 375 74962 234 407,80 249 930 855,43 279 752 841,35"
+      },
+      {
+       "type": "text",
+       "text": "Warmińsko-Mazursk OW NFZ 312 412,23 807 000,98 436 70618 154 860,05 466 436,20 180 693,31 4 539 36234 66 954,67 116 18745 3 239 334,71 9 588 288,24 381 46169 156 928,64 309 20707 372 012,58 204 416 680,61 225 544 526,95"
+      },
+      {
+       "type": "text",
+       "text": "Wielkopolsk OW NFZ 10 374 934,32 5 907 070,47 480 600,49 5 791 60414 4 262 995,55 663 619,26 1 633 43241 1 301 936,31 507 65536 320 845,21 1 709 103,39 1 805 76975 485 615,32 731 14722 6 415 480,80 458 903 139,73 501 294 949,73"
+      },
+      {
+       "type": "text",
+       "text": "Zachodniopomorsk OW NFZ 5 222 118,83 2 990 978,07 1 399 820,84 5 774 118,20 2 002 695,51 1 649 759,86 5 868 55443 616 594,57 1 091 79800 1 024 291,03 5 652 317,28 2 718 37407 1 212 874,46 953 90018 9 352 09784 253 010 874,64 300 541 167,81"
+      },
+      {
+       "type": "text",
+       "text": "CENTRALA NFZ 173 653,33 17,37 0,00 1 136,56 1 318 343,99 1 348,21 7 74210 0,00 5 79267 6,85 66816 3 713 72988 283,78 49939 8 32476 23,00 5 231 570,05"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM w tym: 47 923 260,85 30 586 293,93 39 962 961,15 25 856 467,73 55 358 237,81 54 778 134,70 66 906 127,76 30 164 446,67 45 367 776,10 25 817 608,08 40 423 706,09 55 860 534,32 40 921 079,41 30 456 575,93 55 454 964,88 30 783 293,88 5 670 413 845,39 6 347 035 314,68"
+      },
+      {
+       "type": "text",
+       "text": "Należności od Oddziałów Wojewódzkich NFZ na dzień 31.12.2012 r. Wyszczególnienie Dolno śl ąs k OW K u ja w sk o- Małop o ls k OW Mazow i ec k OW Opo ls ki OW Podkar p ac ki OW Pomo rs k OW Św ię to k rz y ski W a r m i ń s ko - W ie lko po l ski Zacho d nio po m orski OGÓŁEM N F Z Po m o r sk O W Lubelski OW NFZLubusk OW NFZ Łódzk OW NFZ N F Z N F Z N F Z N F Z Podlaski OW NFZ N F Z Śląsk OW NFZ O W N F Z M a z u rs k i O W O W N F Z O W N F Z CENTRALA NFZ NFZ NFZ Dolnośląsk OW NFZ 1 104 041,28 1 073 701,59 5 007 51719 4 455 23515 2 141 63811 3 540 62274 9 982 623,08 1 254 12261 739 29413 1 610 692,45 5 139 59582 1 278 118,23 779 35919 9 707 06983 2 175 737,83 616 385 524,55 666 374 893,78"
+      },
+      {
+       "type": "text",
+       "text": "Kujawsko-Pomorsk OW NFZ 1 736 741,04 1 577 024,97 953 973,90 4 192 491,20 1 211 088,72 8 479 87452 360 907,42 608 02562 817 978,95 11 901 31817 2 158 12094 453 936,07 4 387 70320 10 916 93728 3 405 16512 590 156 68016 643 317 967,28"
+      },
+      {
+       "type": "text",
+       "text": "Lubelsk OW NFZ 501 788,32 421 14811 189 529,41 1 673 244,93 1 271 111,06 10 168 07635 214 806,60 9 698 86858 763 427,93 545 148,95 1 499 63284 4 205 716,77 453 18972 762 70094 427 423,77 441 644 008,32 474 439 822,60"
+      },
+      {
+       "type": "text",
+       "text": "Lubuski OW NFZ 2 245 287,94 396 580,63 92 356,24 289 087,71 320 72512 479 82867 300 51418 269 58151 51 037,81 263 375,82 456 55520 74 505,46 106 48271 3 171 75373 7 079 238,75 240 945 290,95 256 542 202,43"
+      },
+      {
+       "type": "text",
+       "text": "Łódzk OW NFZ 1 449 994,29 1 354 874,80 820 887,60 506 51516 922 205,36 7 009 17732 782 535,43 723 49076 484 521,00 1 045 880,85 3 370 04713 2 025 416,29 603 02335 3 467 43035 985 646,43 590 241 955,50 615 793 601,62"
+      },
+      {
+       "type": "text",
+       "text": "Małopolski OW NFZ 1 829 188,83 1 332 064,90 2 420 374,72 874 383,89 2 625 02818 4 803 57134 1 465 345,47 19 429 78240 845 576,39 1 453 279,35 17 709 44199 10 565 863,30 933 64513 2 093 96710 988 11011 711 942 421,33 781 312 044,43"
+      },
+      {
+       "type": "text",
+       "text": "Mazowieck OW NFZ 5 324 021,53 4 808 489,21 17 721 792,50 3 251 686,28 20 532 095,84 7 662 746,29 2 292 831,56 9 694 32926 16 449 208,80 7 924 783,03 11 126 87407 12 797 014,62 11 726 70552 5 788 43418 5 815 639,09 819 219 567,63 962 136 219,41"
+      },
+      {
+       "type": "text",
+       "text": "Opolsk OW NFZ 5 316 747,27 100 400,81 142 915,23 196 142,53 1 346 104,55 503 864,45 336 25854 175 53380 29 597,26 126 675,29 5 393 23491 175 751,36 57 05591 1 728 90911 147 972,76 228 758 182,74 244 535 346,52"
+      },
+      {
+       "type": "text",
+       "text": "Podkarpacki OW NFZ 550 294,86 267 446,36 4 528 576,81 107 402,23 704 018,87 6 376 493,68 1 773 32083 351 027,09 227 970,38 325 261,22 2 098 16253 4 904 969,60 417 63656 464 54970 382 323,45 423 343 674,84 446 823 129,01"
+      },
+      {
+       "type": "text",
+       "text": "Podlask OW NFZ 278 144,56 218 650,62 892 703,02 75 554,85 462 120,49 330 684,43 6 698 72840 18 81015 329 81728 447 795,44 314 33796 146 949,70 8 345 13271 174 05515 188 21417 252 751 67917 271 673 378,10"
+      },
+      {
+       "type": "text",
+       "text": "Pomorsk OW NFZ 1 470 46819 4 032 247,81 596 210,26 488 59816 1 390 800,33 631 29510 2 828 58445 188 756,46 600 18307 522 25516 1 097 00423 284 57816 4 332 54489 1 831 94727 4 449 732,80 492 039 360,63 516 784 566,97"
+      },
+      {
+       "type": "text",
+       "text": "Śląsk OW NFZ 5 336 971,70 1 990 800,50 738 004,82 1 258 146,39 8 809 086,01 27 586 395,03 2 987 81170 11 468 551,93 4 018 27955 683 996,79 1 133 112,30 5 264 88116 885 79221 2 231 94289 1 275 817,08 943 686 27418 1 019 355 864,24"
+      },
+      {
+       "type": "text",
+       "text": "Świętokrzyski OW NFZ 606 092,52 213 939,80 1 960 164,97 121 845,89 4 582 993,62 3 213 905,50 11 052 71537 205 761,68 5 053 10458 458 958,75 507 325,86 3 815 78980 320 43888 432 04861 229 854,35 297 191 560,00 329 966 500,18"
+      },
+      {
+       "type": "text",
+       "text": "Warmińsko-Mazursk OW NFZ 190 677,28 1 138 256,44 167 32418 195 218,47 361 853,93 231 628,26 4 370 47245 43 123,73 116 63242 3 191 465,99 10 237 757,30 579 06503 104 768,87 305 27366 392 878,40 262 266 857,85 283 893 254,26"
+      },
+      {
+       "type": "text",
+       "text": "Wielkopolsk OW NFZ 11 378 015,53 5 506 967,43 742 780,92 15 953 612,70 4 387 240,74 664 302,98 2 202 26508 713 916,47 613 74902 233 157,83 2 034 82712 2 021 95654 514 649,55 997 74387 8 424 415,32 570 409 384,77 626 798 985,87"
+      },
+      {
+       "type": "text",
+       "text": "Zachodniopomorsk OW NFZ 4 670 341,98 2 021 658,63 1 244 788,37 9 324 628,95 2 130 341,88 1 846 442,82 5 663 56234 660 637,30 1 092 36699 1 003 631,63 6 376 756,80 2 506 76354 916 00019 1 311 27623 8 427 74752 390 896 729,35 440 093 674,52"
+      },
+      {
+       "type": "text",
+       "text": "CENTRALA NFZ 570,41 1715 0,00 10,91 0,00 1 334,21 7 72512 0,00 667 4,23 30413 26581 283,78 49939 1 02803 2 441,81 14 491,65"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM w tym: 42 885 346,25 24 907 584,48 34 719 606,20 38 504 766,91 57 941 743,43 54 915 861,12 72 402 595,22 29 050 148,55 53 677 874,12 26 502 083,03 45 934 294,08 59 286 848,34 43 713 403,11 35 658 229,47 51 505 795,35 36 370 611,24 7 871 879 151,97 8 579 855 942,87 Nota 9.4 Wykazane w bilansie zobowiązania wewnętrzne na koniec okresu sprawozdawczego Zobowiązania wobec Oddziałów Wojewódzkich NFZ na dzień 31.12.2011 r. Wyszczególnienie Dolno ślą s ki OW K u ja w s k o- Małop o ls ki OW Mazow i ec k OW Podkar p ac ki OW Pomo rs k i OW Św ię to k rz y ski W a r m i ń s k o - Wielko po l sk OW Zacho d nio po m orski OGÓŁEM N F Z Po m o r sk i O W Lubelsk OW NFZLubusk OW NFZ Łódzki OW NFZ N F Z N F Z Opolski OW NFZ N F Z Podlask OW NFZ N F Z Śląski OW NFZ O W N F Z M a z u rs k i O W N F Z O W N F Z CENTRALA NFZ NFZ NFZ Dolnośląsk OW NFZ 1 611 837,06 666 822,62 6 179 820,92 1 598 510,75 2 735 198,00 6 140 592,89 4 742 607,26 595 164,29 229 897,84 1 485 08217 5 296 90339 557 70495 312 412,23 10 374 93432 5 222 11883 173 653,33 47 923 260,85"
+      },
+      {
+       "type": "text",
+       "text": "Kujawsko-Pomorsk OW NFZ 953 012,33 324 884,39 283 760,46 1 210 508,65 1 440 012,95 9 656 417,85 72 501,46 417 336,44 255 029,82 5 625 19111 435 08198 207 48960 807 000,98 5 907 07047 2 990 97807 17,37 30 586 293,93"
+      },
+      {
+       "type": "text",
+       "text": "Lubelsk OW NFZ 1 206 583,71 1 743 534,85 172 517,44 956 182,09 2 802 648,08 21 293 259,62 152 17312 4 921 223,50 654 168,31 527 686,65 1 613 33797 1 602 51830 436 706,18 480 60049 1 399 82084 0,00 39 962 961,15"
+      },
+      {
+       "type": "text",
+       "text": "Lubuski OW NFZ 7 546 797,43 888 227,74 237 29911 283 535,72 538 486,33 2 601 626,68 270 852,79 127 939,87 133 566,98 401 535,39 999 27485 105 60589 154 860,05 5 791 60414 5 774 11820 1 136,56 25 856 467,73"
+      },
+      {
+       "type": "text",
+       "text": "Łódzk OW NFZ 3 595 475,53 3 980 464,81 855 009,23 268 151,96 2 159 346,37 19 371 96518 1 043 828,31 819 721,32 129 832,21 1 523 574,87 9 838 02377 3 722 37300 466 436,20 4 262 995,55 2 002 69551 1 318 343,99 55 358 237,81"
+      },
+      {
+       "type": "text",
+       "text": "Małopolski OW NFZ 2 461 225,81 1 348 242,32 1 190 295,61 413 662,54 748 650,78 7 540 976,27 447 917,41 6 127 112,52 317 580,71 802 024,77 26 751 69768 4 133 32764 180 693,31 663 619,26 1 649 75986 1 348,21 54 778 134,70"
+      },
+      {
+       "type": "text",
+       "text": "Mazowiecki OW NFZ 3 546 804,00 7 338 012,54 9 410 123,36 391 424,48 7 205 515,33 4 686 560,29 376 816,21 1 846 785,76 4 352 173,47 2 800 786,61 3 343 82666 9 558 20777 4 539 362,34 1 633 432,41 5 868 55443 7 742,10 66 906 127,76"
+      },
+      {
+       "type": "text",
+       "text": "Opolsk OW NFZ 11 917 005,53 331 121,37 259 925,01 408 730,92 677 13611 1 215 169,35 1 769 870,36 325 257,69 30 882,97 137 925,96 10 894 29549 211 64036 66 954,67 1 301 936,31 616 59457 0,00 30 164 446,67"
+      },
+      {
+       "type": "text",
+       "text": "Podkarpack OW NFZ 936 350,56 477 629,27 8 977 031,92 307 554,71 643 576,93 15 014 636,73 9 149 908,98 220 226,32 184 38330 340 337,56 2 657 06073 4 737 64561 116 187,45 507 655,36 1 091 79800 5 792,67 45 367 776,10"
+      },
+      {
+       "type": "text",
+       "text": "Podlaski OW NFZ 877 262,98 1 098 956,58 996 98610 48 167,25 335 845,99 806 155,24 15 165 576,74 27 50013 324 089,90 624 422,86 503 74921 424 41730 3 239 334,71 320 845,21 1 024 29103 6,85 25 817 608,08"
+      },
+      {
+       "type": "text",
+       "text": "Pomorsk OW NFZ 1 501 12512 9 695 240,48 642 986,52 234 07112 586 556,79 1 299 25915 6 955 593,26 110 693,72 368 597,83 317 24703 1 480 92804 281 02996 9 588 288,24 1 709 103,39 5 652 31728 668,16 40 423 706,09"
+      },
+      {
+       "type": "text",
+       "text": "Śląski OW NFZ 5 784 475,35 2 027 512,60 1 329 563,74 569 573,58 2 638 885,79 14 411 775,20 9 042 087,49 4 787 136,99 1 964 247,76 239 27312 1 131 452,49 3 315 21482 381 461,69 1 805 769,75 2 718 37407 3 713 729,88 55 860 534,32"
+      },
+      {
+       "type": "text",
+       "text": "Świętokrzysk OW NFZ 1 459 544,42 611 098,87 2 950 405,91 105 018,04 1 949 607,27 9 847 595,02 13 112 111,60 103 576,96 3 855 751,41 65 99319 277 789,63 4 726 88489 156 928,64 485 615,32 1 212 87446 283,78 40 921 079,41"
+      },
+      {
+       "type": "text",
+       "text": "Warmińsko-Mazurski OW NFZ 509 308,41 3 206 967,92 1 340 365,49 99 062,05 579 172,55 770 855,71 7 442 948,77 65 489,69 266 593,89 5 387 89699 7 869 485,55 878 22882 354 65330 731 147,22 953 90018 499,39 30 456 575,93"
+      },
+      {
+       "type": "text",
+       "text": "Wielkopolsk OW NFZ 12 015 204,01 7 670 911,37 570 395,44 4 516 491,39 4 729 88619 2 253 24512 7 338 955,75 1 190 050,68 616 723,56 287 83309 1 607 892,64 2 611 99635 375 74962 309 207,07 9 352 09784 8 324,76 55 454 964,88"
+      },
+      {
+       "type": "text",
+       "text": "Zachodniopomorsk OW NFZ 1 697 425,50 3 337 582,55 342 62915 5 202 303,03 706 778,80 888 139,76 5 079 406,84 147 287,63 283 697,80 131 31581 4 998 348,93 946 45390 234 40780 372 012,58 6 415 480,80 23,00 30 783 293,88"
+      },
+      {
+       "type": "text",
+       "text": "CENTRALA NFZ 410 517 92014 301 477 754,94 359 638 733,95 160 732 361,62 373 279 424,06 529 597 910,05 792 884 050,41 181 675 578,05 306 928 734,98 212 821 36702 277 497 529,15 597 100 930,61 249 930 85543 204 416 680,61 458 903 139,73 253 010 87464 5 670 413 845,39"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM w tym 466 525 520,83 346 845 095,27 389 733 457,55 179 932 671,51 398 129 773,80 590 466 993,35 934 545 348,69 195 434 236,73 329 788 978,52 225 538 441,86 307 651 066,34 670 078 674,34 279 752 841,35 225 544 526,95 501 294 949,73 300 541 167,81 5 231 570,05 6 347 035 314,68"
+      },
+      {
+       "type": "text",
+       "text": "Zobowiązania wobec Oddziałów Wojewódzkich NFZ na dzień 31.12.2012 r. Wyszczególnienie Dolno ślą s ki OW K u ja w s k o- Małop o ls ki OW Mazow i ec k OW Podkar p ac ki OW Pomo rs k i OW Św ię to k rz y ski W a r m i ń s k o - Wielko po l sk OW Zacho d nio po m orski OGÓŁEM N F Z Po m o r sk i O W Lubelsk OW NFZLubusk OW NFZ Łódzki OW NFZ N F Z N F Z Opolski OW NFZ N F Z Podlask OW NFZ N F Z Śląski OW NFZ O W N F Z M a z u rs k i O W N F Z O W N F Z CENTRALA NFZ NFZ NFZ Dolnośląsk OW NFZ 1 736 741,04 501 788,32 2 245 287,94 1 449 994,29 1 829 188,83 5 324 021,53 5 316 747,27 550 294,86 278 144,56 1 470 46819 5 336 97170 606 09252 190 677,28 11 378 01553 4 670 34198 570,41 42 885 346,25"
+      },
+      {
+       "type": "text",
+       "text": "Kujawsko-Pomorsk OW NFZ 1 104 041,28 421 14811 396 580,63 1 354 874,80 1 332 064,90 4 808 489,21 100 400,81 267 446,36 218 650,62 4 032 247,81 1 990 80050 213 93980 1 138 256,44 5 506 96743 2 021 65863 17,15 24 907 584,48"
+      },
+      {
+       "type": "text",
+       "text": "Lubelsk OW NFZ 1 073 701,59 1 577 024,97 92 356,24 820 887,60 2 420 374,72 17 721 792,50 142 915,23 4 528 576,81 892 703,02 596 210,26 738 00482 1 960 16497 167 32418 742 78092 1 244 78837 0,00 34 719 606,20"
+      },
+      {
+       "type": "text",
+       "text": "Lubuski OW NFZ 5 007 51719 953 973,90 189 529,41 506 51516 874 383,89 3 251 686,28 196 142,53 107 402,23 75 554,85 488 59816 1 258 14639 121 84589 195 218,47 15 953 612,70 9 324 62895 10,91 38 504 766,91"
+      },
+      {
+       "type": "text",
+       "text": "Łódzk OW NFZ 4 455 23515 4 192 491,20 1 673 244,93 289 087,71 2 625 02818 20 532 095,84 1 346 104,55 704 018,87 462 120,49 1 390 800,33 8 809 08601 4 582 99362 361 853,93 4 387 240,74 2 130 34188 0,00 57 941 743,43"
+      },
+      {
+       "type": "text",
+       "text": "Małopolski OW NFZ 2 141 63811 1 211 088,72 1 271 111,06 320 72512 922 205,36 7 662 746,29 503 864,45 6 376 493,68 330 684,43 631 29510 27 586 39503 3 213 90550 231 628,26 664 302,98 1 846 44282 1 334,21 54 915 861,12"
+      },
+      {
+       "type": "text",
+       "text": "Mazowiecki OW NFZ 3 540 622,74 8 479 874,52 10 168 076,35 479 828,67 7 009 177,32 4 803 571,34 336 258,54 1 773 320,83 6 698 728,40 2 828 584,45 2 987 81170 11 052 71537 4 370 472,45 2 202 265,08 5 663 56234 7 725,12 72 402 595,22"
+      },
+      {
+       "type": "text",
+       "text": "Opolsk OW NFZ 9 982 623,08 360 907,42 214 806,60 300 51418 782 535,43 1 465 345,47 2 292 831,56 351 027,09 18 81015 188 756,46 11 468 55193 205 76168 43 123,73 713 916,47 660 63730 0,00 29 050 148,55"
+      },
+      {
+       "type": "text",
+       "text": "Podkarpack OW NFZ 1 254 122,61 608 025,62 9 698 868,58 269 581,51 723 490,76 19 429 782,40 9 694 329,26 175 533,80 329 817,28 600 183,07 4 018 27955 5 053 10458 116 632,42 613 749,02 1 092 36699 6,67 53 677 874,12"
+      },
+      {
+       "type": "text",
+       "text": "Podlaski OW NFZ 739 29413 817 978,95 763 427,93 51 037,81 484 521,00 845 576,39 16 449 208,80 29 597,26 227 970,38 522 25516 683 99679 458 95875 3 191 465,99 233 157,83 1 003 63163 4,23 26 502 083,03"
+      },
+      {
+       "type": "text",
+       "text": "Pomorsk OW NFZ 1 610 692,45 11 901 31817 545 148,95 263 375,82 1 045 880,85 1 453 279,35 7 924 783,03 126 675,29 325 261,22 447 79544 1 133 11230 507 32586 10 237 757,30 2 034 82712 6 376 75680 30413 45 934 294,08"
+      },
+      {
+       "type": "text",
+       "text": "Śląski OW NFZ 5 139 595,82 2 158 120,94 1 499 632,84 456 555,20 3 370 04713 17 709 441,99 11 126 874,07 5 393 234,91 2 098 162,53 314 33796 1 097 004,23 3 815 78980 579 065,03 2 021 956,54 2 506 76354 265,81 59 286 848,34"
+      },
+      {
+       "type": "text",
+       "text": "Świętokrzysk OW NFZ 1 278 118,23 453 936,07 4 205 716,77 74 505,46 2 025 416,29 10 565 863,30 12 797 014,62 175 751,36 4 904 969,60 146 94970 284 57816 5 264 88116 104 768,87 514 649,55 916 00019 283,78 43 713 403,11"
+      },
+      {
+       "type": "text",
+       "text": "Warmińsko-Mazurski OW NFZ 779 35919 4 387 703,20 453 189,72 106 482,71 603 023,35 933 64513 11 726 705,52 57 055,91 417 636,56 8 345 13271 4 332 544,89 885 79221 320 43888 997 743,87 1 311 27623 499,39 35 658 229,47"
+      },
+      {
+       "type": "text",
+       "text": "Wielkopolsk OW NFZ 9 707 069,83 10 916 937,28 762 700,94 3 171 753,73 3 467 430,35 2 093 96710 5 788 43418 1 728 90911 464 549,70 174 05515 1 831 947,27 2 231 94289 432 04861 305 273,66 8 427 74752 1 028,03 51 505 795,35"
+      },
+      {
+       "type": "text",
+       "text": "Zachodniopomorsk OW NFZ 2 175 737,83 3 405 16512 427 423,77 7 079 238,75 985 646,43 988 11011 5 815 639,09 147 972,76 382 323,45 188 21417 4 449 732,80 1 275 81708 229 85435 392 878,40 8 424 415,32 2 441,81 36 370 611,24"
+      },
+      {
+       "type": "text",
+       "text": "CENTRALA NFZ 616 385 524,55 590 156 68016 441 644 008,32 240 945 290,95 590 241 955,50 711 942 421,33 819 219 567,63 228 758 182,74 423 343 674,84 252 751 67917 492 039 360,63 943 686 27418 297 191 56000 262 266 857,85 570 409 384,77 390 896 72935 7 871 879 151,97"
+      },
+      {
+       "type": "text",
+       "text": "OGÓŁEM w tym 666 374 893,78 643 317 967,28 474 439 822,60 256 542 202,43 615 793 601,62 781 312 044,43 962 136 219,41 244 535 346,52 446 823 129,01 271 673 378,10 516 784 566,97 1 019 355 864,24 329 966 500,18 283 893 254,26 626 798 985,87 440 093 674,52 14 491,65 8 579 855 942,87 SPECYFIKACJA RODZAJOWA PRZYCHODÓW I KOSZTÓW FINANSOWYCH TABELA Nr 1"
+      },
+      {
+       "type": "text",
+       "text": "Działalność operacyjna A Działalność inwestycyjna B Działalność finansowa C Ogółem nie Lp. Rodzaje przychodów i kosztów Ogółem realizowana nie nie nie zrealizowana zrealizowana zrealizowana zrealizowana zrealizowana zrealizowana zrealizowana"
+      },
+      {
+       "type": "text",
+       "text": "1¹ Przychody finansowe²³⁴⁵⁶⁷⁸⁹¹⁰"
+      },
+      {
+       "type": "text",
+       "text": "Odsetki 4 025 825,15 5 676 147,19 0,00 0,00 0,00 0,00 4 025 825,15 5 676 147,19 a) od lokat pieniężnych, płatne powyżej 3- 0,00 0,00 0,00 0,00 miesięcy"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "od lokat pieniężnych, płatne do 3- 2 450 041,52 457,93 2 450 041,52 457,93 miesięcy",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_5/lit_c",
+       "text": "od udzielonych pożyczek 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_5/lit_d",
+       "text": "za zwłokę w zapłacie należności 1 575 783,63 5 675 689,26 1 575 783,63 5 675 689,26",
+       "children": [
+        {
+         "type": "text",
+         "text": "2 Dodatnie różnice kursowe 16 580,65 -32 975,92 0,00 0,00 0,00 0,00 16 580,65 -32 975,92 3 Otrzymane pożyczki 0,00 0,00 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "4 Razem przychody 4 042 405,80 5 643 171,27 0,00 0,00 0,00 0,00 4 042 405,80 5 643 171,27"
+        },
+        {
+         "type": "text",
+         "text": "5 Koszty finansowe 0,00 0,00"
+        },
+        {
+         "type": "text",
+         "text": "Odsetki 3 167 772,85 5 190 988,60 0,00 0,00 0,00 0,00 3 167 772,85 5 190 988,60 a) od kredytów i pożyczek 0,00 0,00 0,00 0,00"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/lit_b",
+       "text": "od leasingu finansowego 0,00 0,00 0,00 0,00",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_5/lit_c",
+       "text": "za zwłokę w zapłacie zobowiązań 3 167 772,85 5 190 988,60 3 167 772,85 5 190 988,60",
+       "children": [
+        {
+         "type": "text",
+         "text": "6 Ujemne różnice kursowe 56 211,61 17 783,41 0,00 0,00 0,00 0,00 56 211,61 17 783,41"
+        },
+        {
+         "type": "text",
+         "text": "7 Razem koszty 3 223 984,46 5 208 772,01 0,00 0,00 0,00 0,00 3 223 984,46 5 208 772,01 WYNIK NA SPRZEDAŻY I LIKWIDACJI SKŁADNIKÓW DZIAŁALNOŚCI INWESTYCYJNEJ"
+        },
+        {
+         "type": "text",
+         "text": "TABELA Nr 2"
+        },
+        {
+         "type": "text",
+         "text": "Wyszczególnienie Koszty Przychody Wynik"
+        },
+        {
+         "type": "text",
+         "text": "¹²³⁴"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Sprzedaż 3 128 975,83 54 150,65 -3 074 825,18",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Likwidacja 651 168,34 614,50 -650 553,84",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Kradzież 0,00 0,00 0,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ujawnione nadwyżki inwentaryzacyjne 0,00 0,00 0,00 składników działalności inwestycyjnej",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ujawnione niedobory inwentaryzacyjne 0,00 0,00 0,00 składników działalności inwestycyjnej",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Odpisy aktualizacyjne wartość aktywów 0,00 0,00 0,00 trwałych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Otrzymane darowizny środków trwałych zaliczone do pozostałych przychodów 0,00 0,00 0,00 operacyjnych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Wynik na sprzedaży krótkoterminowych 0,00 0,00 0,00 papierów wartościowych",
+     "children": [
+      {
+       "type": "text",
+       "text": "RAZEM 3 780 144,17 54 765,15 -3 725 379,02 NALEŻNOŚCI WEDŁUG PRZEDMIOTU ROZLICZEŃ"
+      },
+      {
+       "type": "text",
+       "text": "TABELA Nr 3 Zmiany Lp. Tytuł rozrachunków Stan na 31.12.2011 r. Stan na 31.12.2012 r. zwiększenia zmniejszenia"
+      },
+      {
+       "type": "text",
+       "text": "1¹ Należności i rozliczenia netto² 5 425 452³ 560,30 5 664⁴780 452,73 239 327⁵ 892,43⁶ - 2 Wyłączenia 0,00 0,00 0,00 0,00 a/ Należności z tytułu sprzedaży rzeczowego majątku 0,00 0,00 0,00 0,00 trwałego, w tym: kwota podstawowa 0,00 0,00 - - należne odsetki 0,00 0,00 - - dodatnie różnice kursowe 0,00 0,00 - - należności razem 0,00 0,00 0,00 0,00 3 Stan należności po wyłączeniach 5 425 452 560,30 5 664 780 452,73 239 327 892,43 0,00 ZOBOWIĄZANIA KRÓTKOTERMINOWE WEDŁUG PRZEDMIOTÓW ROZLICZEŃ"
+      },
+      {
+       "type": "text",
+       "text": "TABELA Nr 4"
+      },
+      {
+       "type": "text",
+       "text": "Zmiany Lp. Tytuł rozrachunków Stan na 31.12.2011 r. Stan na 31.12.2012 r. zwiększenia zmniejszenia"
+      },
+      {
+       "type": "text",
+       "text": "I.¹ Zobowiązania krótkoterminowe² i fundusze specjalne 5 505 956³ 867,77 5 567 309⁴ 198,36 61 352⁵ 330,59⁶ -"
+      },
+      {
+       "type": "text",
+       "text": "II. Wyłączenia 9 004 049,31 13 944 800,28 4 940 750,97 0,00"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Pożyczki otrzymane (a+b) 0,00 0,00 0,00 0,00",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_1/lit_a",
+       "text": "podstawowa kwota pożyczki 0,00 0,00 - -",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_1/lit_b",
+       "text": "zarachowane odsetki (na koniec roku) 0,00 0,00 - -",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Kredyty bankowe 0,00 0,00 - -",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Podatek dochodowy od osób prawnych 0,00 0,00 - -",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Zobowiązania z tytułu dostaw inwestycyjnych (a+b+c) 9 004 049,31 13 944 800,28 4 940 750,97 0,00 a) kwota podstawowa 9 004 049,31 13 944 800,28 4 940 750,97 - b) odsetki zarachowane 0,00 0,00 - -",
+     "children": [
+      {
+       "type": "text",
+       "text": "c/ ujemne różnice kursowe 0,00 0,00 - -"
+      },
+      {
+       "type": "text",
+       "text": "III. Stan zobowiązań po wyłączeniach 5 496 952 818,46 5 553 364 398,08 56 411 579,62 0,00 INNE KOREKTY -zewnętrzne TABELA Nr 5"
+      },
+      {
+       "type": "text",
+       "text": "Lp. Inne korekty - zewnętrzne Kwota"
+      },
+      {
+       "type": "text",
+       "text": "1.¹ Przeniesienie zobowiązań długoterminowych² do krótkoterminowych³ 0,00"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Przeniesienie zobowiązań krótkoterminowych do długoterminowych 117 363,36",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Pozostałe 226,00",
+     "children": [
+      {
+       "type": "text",
+       "text": "RAZEM 117 589,36"
+      },
+      {
+       "type": "text",
+       "text": "INNE KOREKTY -wewnętrzne"
+      },
+      {
+       "type": "text",
+       "text": "Lp. Inne korekty - wewnętrzne Kwota"
+      },
+      {
+       "type": "text",
+       "text": "1.¹ Wprowadzenie do ewidencji śr. trwałych² po likwidacji³ 0,00"
+      },
+      {
+       "type": "text",
+       "text": "Otrzymane przez OW NFZ środki pieniężne z tytułu zwiększenia 2. planu finansowego, przewidzianego do pokrycia funduszem 0,00 zapasowym,"
+      },
+      {
+       "type": "text",
+       "text": "Przekazane przez Centralę NFZ środki pieniężne z tytułu 3. zwiększenia planu finansowego, przewidzianego do pokrycia 0,00 funduszem zapasowym,"
+      },
+      {
+       "type": "text",
+       "text": "Otrzymane przez Centralę środki finansowe z tytułu przekazania 4. 0,00 przez OW NFZ do Centrali NFZ funduszu zapasowego"
+      },
+      {
+       "type": "text",
+       "text": "Przekazane przez OW NFZ środki finansowe z tytułu przekazania do 5. 0,00 Centrali NFZ funduszu zapasowego"
+      },
+      {
+       "type": "text",
+       "text": "Przekazane przez OW NFZ wyniki finansowe z lat ubiegłych do 6. 454 952 870,70 Centrali NFZ"
+      },
+      {
+       "type": "text",
+       "text": "Otrzymane przez Centralę NFZ wyniki finansowe z lat ubiegłych 7. -454 952 870,70 OW NFZ"
+      },
+      {
+       "type": "text",
+       "text": "Fundusz wydzielony - przekazanie majątku do jednostek 8. 8 637 456,70 organizacyjnych NFZ"
+      },
+      {
+       "type": "text",
+       "text": "Fundusz wydzielony - otrzymanie majątku od jednostek 9. -8 637 456,70 organizacyjnych NFZ"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Wartość netto majątku otrzymanego z zewnątrz 0,00",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Zmiana stanu centralnego funduszu inwestycyjnego 0,00",
+     "children": [
+      {
+       "type": "text",
+       "text": "Inne zwiększenia aktywów trwałych 12. 0,00 (np. przesunięcie z wyposażenia)"
+      },
+      {
+       "type": "text",
+       "text": "RAZEM 0,00 Wykaz not uzupełniających"
+      },
+      {
+       "type": "text",
+       "text": "Symbol Tytuł Uwagi"
+      },
+      {
+       "type": "text",
+       "text": "Bilans Bilans na dzień 3112.2012 r."
+      },
+      {
+       "type": "text",
+       "text": "Kapitały Zestawienie zmian w kapitale (funduszu) własnym"
+      },
+      {
+       "type": "text",
+       "text": "RZiS Rachunek zysków i strat"
+      },
+      {
+       "type": "text",
+       "text": "Przepływy Rachunek przepływów pieniężnych"
+      },
+      {
+       "type": "text",
+       "text": "Nota 11 zmiana w ciągu okresu sprawozdawczego wartości środków trwałych, wartości niematerialnych i prawnych oraz długoterminowych aktywów (inwestycji) finansowych"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_11/lit_a",
+       "text": "środki trwałe 11 abc nota do bilansu i rachunku zysków i strat b) wartości niematerialne i prawne",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_11/lit_c",
+       "text": "długoterminowe aktywa trwałe",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nota 1.2 Wartość gruntów użytkowanych wieczyście"
+        },
+        {
+         "type": "text",
+         "text": "Nota 1.3 Wartość początkowa nie amortyzowanych (nie umarzanych) środków trwałych, używanych na podstawie umów Nota 1.4 Wartość zobowiązań wobec budżetu państwa lub jednostek samorządu terytorialnego z tytułu 1.2_17 prawa własności budynków i budowli Nota 1.5 Struktura własności kapitału podstawowego"
+        },
+        {
+         "type": "text",
+         "text": "Nota 1.6 Informacje o funduszach zapasowych i rezerwowych"
+        },
+        {
+         "type": "text",
+         "text": "Nota 17 Propozycje podziału nadwyżki przychodów na kosztami lub pokrycia nadwyżki kosztów nad przychodami"
+        },
+        {
+         "type": "text",
+         "text": "Nota 18 Informacje o stanie rezerw 18_19 nota do bilansu Nota 1.9 Informacje o odpisach aktualizujących wartość należności"
+        },
+        {
+         "type": "text",
+         "text": "Nota 110 Informacja o zobowiązaniach"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_11/lit_a",
+       "text": "zobowiązania krótkoterminowe 110abc nota do bilansu b) podział zobowiązań długoterminowych według pozycji bilansu o pozostałym na dzień bilansowy, przewidywanym umową, okresie spłaty",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_11/lit_c",
+       "text": "Fundusz Wydzielony",
+       "children": [
+        {
+         "type": "text",
+         "text": "111_113 Nota 111 Wykaz istotnych pozycji czynnych i biernych rozliczeń międzyokresowych nota do bilansu i rachunku przepływów pieniężnych"
+        },
+        {
+         "type": "text",
+         "text": "Nota 112 Wykaz zobowiązań zabezpieczonych na majątku jednostki"
+        },
+        {
+         "type": "text",
+         "text": "Nota 113 wykaz zobowiązań warunkowych"
+        },
+        {
+         "type": "text",
+         "text": "Nota 21 Struktura rzeczowa (rodzaje działalności) i terytorialna (kraj, eksport) przychodów netto ze nota do rachunku zysków i strat sprzedaży"
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.2 Wysokość i wyjaśnienie przyczyn odpisów aktualizujących środki trwałe 21_24 Nota 2.3 Wysokość odpisów aktualizujących wartość zapasów"
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.4 Informacje o przychodach, kosztach i wynikach działalności zaniechanej w okresie sprawozdawczym lub przewidywanej do zaniechania w roku następnym 25 Nota 2.5 Wynik finansowy Narodowego Funduszu Zdrowia dla potrzeb podatku dochodowego od osób prawnych"
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.6 Informacja o kosztach rodzajowych"
+        },
+        {
+         "type": "text",
+         "text": "Nota 27 Koszty wytworzenia środków trwałych w budowie (środków trwałych na własne potrzeby)"
+        },
+        {
+         "type": "text",
+         "text": "2.6_210 Nota 28 Poniesione w okresie sprawozdawczym i planowane na następny rok nakłady na nie finansowe aktywa trwałe"
+        },
+        {
+         "type": "text",
+         "text": "Nota 2.9 Informacja o zyskach i stratach nadzwyczajnych"
+        },
+        {
+         "type": "text",
+         "text": "Nota 210 Podatek dochodowy od wyniku na operacjach nadzwyczajnych"
+        },
+        {
+         "type": "text",
+         "text": "2a Nota 2a Informacja o kursach walut przyjętych do wyceny pozycji bilansu oraz rachunku zysków i strat"
+        },
+        {
+         "type": "text",
+         "text": "31 Nota 31 Struktura środków pieniężnych do sprawozdania z rachunku przepływów pieniężnych nota do bilansu i rachunku przepływów pieniężnych"
+        },
+        {
+         "type": "text",
+         "text": "Nota 41 Informacja o zawartych, a nie uwzględnionych w bilansie umowach: 41_42 Nota 4.2 Informacja o transakcjach zawartych ze stronami powiązanymi na innych warunkach niż rynkowe:"
+        },
+        {
+         "type": "text",
+         "text": "Nota 4.3 Informacja o przeciętnym zatrudnieniu w okresie sprawozdawczym w grupach zawodowych"
+        },
+        {
+         "type": "text",
+         "text": "Nota 4.4 Wynagrodzenia wypłacone Prezesowi lub członkom Rady Funduszu (łącznie z nagrodami, 41_43 premiami i dietami) : Nota 4.5 Pożyczki udzielone Prezesowi lub członkom Rady Funduszu:"
+        },
+        {
+         "type": "text",
+         "text": "Nota 4.6 Wynagrodzenie wypłacone biegłemu rewidentowi lub podmiotowi uprawnionemu do badania sprawozdań finansowych za :"
+        },
+        {
+         "type": "text",
+         "text": "45/46 Symbol Tytuł Uwagi"
+        },
+        {
+         "type": "text",
+         "text": "Nota 51 Informacje o znaczących zdarzeniach dotyczących lat poprzednich ujętych w sprawozdaniu finansowym za okres sprawozdawczy Nota 5.2 Informacje o zdarzeniach jakie wystąpiły po dniu bilansowym nie uwzględnionych w bilansie oraz rachunku zysków i strat 51_54 Nota 5.3 Zmiany zasad (polityki) rachunkowości, w tym metod wyceny oraz sposobu sporządzania sprawozdania finansowego wywierające istotny wpływ na sytuację majątkową, finansową, wynik finansowy oraz zmiany w kapitale własnym Nota 5.4 Informacje o dokonanych zmianach w stosunku do poprzedniego okresu sprawozdawczego, zmianach sposobu sporządzania sprawozdania finansowego i wpływie wywołanych tym skutków finansowych na sytuację majątkową i finansową, wynik finansowy oraz rentowność jednostki: Nota 61 Informacja o wspólnych przedsięwzięciach (nie podlegających konsolidacji w sprawozdaniach finansowych)"
+        },
+        {
+         "type": "text",
+         "text": "Nota 6.2 Informacja o transakcjach z jednostkami powiązanymi 61_64 Nota 6.3 Wykaz spółek, w których jednostka posiada co najmniej 20% udziałów w kapitale w ogólnej liczbie głosów w organie statutowym stanowiącym spółki Nota 6.4 Jednostka nie sporządzając skonsolidowanego sprawozdania finansowego na podstawie wyłączeń z konsolidacji (decyzji) dopuszczonych ustawą, podaje następujące informacje Nota 7 W związku ze sporządzaniem sprawozdania finansowego za okres sprawozdawczy (okres sprawozdawczy, w którym nastąpiło połączenie) podaje następujące informacje Nota 81 Wyrażenie niepewności możliwości dalszego kontynuowania działalności jednostki (jeżeli 7_8 niepewność występuje) oraz jej charakterystyka Nota 8.2 Wskazanie korekt dokonanych w sprawozdaniu finansowym w związku z wystąpieniem niepewności dalszej kontynuacji działalności Nota 8.3 Wskazanie podejmowanych lub planowanych działań w celu wyeliminowania niepewności kontynuacji działalności Nota 91 Informacje dodatkowe i końcowe mające istotny wpływ na ocenę sytuacji majątkowej, finansowej 91_92 i wyniku finansowego jednostki Nota 9.2 Informacje dodatkowe do wybranych pozycji rachunku zysków i strat nota do rachunku zysków i strat"
+        },
+        {
+         "type": "text",
+         "text": "93 Nota 9.3 Wykazane w bilansie należności wewnętrzne na koniec okresu sprawozdawczego nota do bilansu"
+        },
+        {
+         "type": "text",
+         "text": "94 Nota 9.4 Wykazane w bilansie zobowiązania wewnętrzne na koniec okresu sprawozdawczego nota do bilansu"
+        },
+        {
+         "type": "text",
+         "text": "przep_1 Specyfikacja rodzajowa przychodów i kosztów finansowych nota do rachunku przepływów pieniężnych"
+        },
+        {
+         "type": "text",
+         "text": "przep_2 Wynik na sprzedaży i likwidacji składników działalności inwestycyjnej nota do rachunku przepływów pieniężnych"
+        },
+        {
+         "type": "text",
+         "text": "przep_3 Należności według przedmiotu rozliczeń nota do rachunku przepływów pieniężnych"
+        },
+        {
+         "type": "text",
+         "text": "przep_4 Zobowiązania krótkoterminowe według przedmiotów rozliczeń nota do rachunku przepływów pieniężnych"
+        },
+        {
+         "type": "text",
+         "text": "przep_5 Inne korekty nota do rachunku przepływów pieniężnych"
+        },
+        {
+         "type": "text",
+         "text": "Prezes Narodowego Funduszu Zdrowia Agnieszka Pachciarz"
+        },
+        {
+         "type": "text",
+         "text": "Zastępca Prezesa ds. Finansowych Wiesława Anna Kłos"
+        },
+        {
+         "type": "text",
+         "text": "Zastępca Prezesa ds. Medycznych Marcin Pakulski"
+        },
+        {
+         "type": "text",
+         "text": "Zastępca Prezesa ds. Mundurowych Zbigniew Teter"
+        },
+        {
+         "type": "text",
+         "text": "Główny Księgowy Andrzej Cichocki"
+        },
+        {
+         "type": "text",
+         "text": "46/46"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_11/pkt_1",
+       "text": "Centrala Narodowego Funduszu Zdrowia - - 470 304,89 Oddziały Wojewódzkie Narodowego - - 141 079 563,20",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_11/pkt_2",
+       "text": "Funduszu Zdrowia",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_11/pkt_3",
+       "text": "- - - 0,00",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_11/pkt_4",
+       "text": "- - - 0,00 1.2_1.7 14/46 18/2010/II 18.08.2010 r. z dnia 2.08.2011 r. 31/2012/II 3.10.2012 r.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_11/pkt_2",
+       "text": "zobowiązania wobec pozostałych jednostek, w 522 567,47 639 930,83 0,00 0,00 522 567,47 639 930,83 0,00 0,00 0,00 0,00 tym: a) kredyty i pożyczki, w tym: 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 - pożyczka z Min Finansów 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 - pozostałe 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 b) z tytułu emisji dłużnych papierów wartościowych 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 c) inne zobowiązania finansowe 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 0,00 d) pozostałe zobowiązania długoterminowe 522 567,47 639 930,83 0,00 0,00 522 567,47 639 930,83 0,00 0,00 0,00 0,00 1.11_1.13 20/46 (należy wyjaśnić opisowo lub liczbowo podatek dochodowy ustalony z różnicy pomiędzy zyskami i stratami nadzwyczajnymi, uwzględniając przy wyliczeniach, że część strat nadzwyczajnych nie stanowi np. kosztów uzyskania przychodów). Lp. Pozycja sprawozdania Symbol waluty Tabela kursów EUR, CZK, DKK, BILANS Pasywa B I. 3.; Rachunek ISK, CHF, LTL, Tabela kursów średnich NBP nr 252/A/NBP/2012 z dnia 31 grudnia 1 zysków i strat B. III; G. H. LVL, NOK, SEK , 2012 r. EUR, CYR, HUF CZK, Tabela Komisji Administracyjnej Wspólnot Europejskich - DKK, EEK, ISK, Przelicznik walut zgodnie z rozporządzeniem Rady (EWG) nr 2 Rachunek zysków i strat B. III CHF, LTL, LVL, MTL, NOK, SKK, 574/72 dla not za lata 2004 r. -2012 r. Dz. Urz. UE nr C (za SEK , HUF właściwe półrocza) EUR, CZK, DKK, Tabela kursów dziennych Europejskiego Banku Centralnego dla not 3 Rachunek zysków i strat B. III EEK, CHF, LTL, LVL, SEK , HUF za okres 01.05. 2010 r. -31.12. 2012 r. 2.6_2.10 26/46 3.1 27/46 4.1_4.2 28/46 4.1_4.2 29/46 w zł i gr. 1.01 - 31.12.2011 r. 1.01 - 31.12.2012 r. 4.3_4.6 30/46 5.1_5.4 31/46 0,00 0,00 0,00 0,00 0,00 0,00 w zł i gr. Udział % w: Nazwa i siedziba spółki % udziałów zarządzaniu zysku (stracie) nie dotyczy NFZ - - - przep_5 44/46",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 216, poz. 1367, Nr 225, poz. 1486, Nr 227, poz. 1505, Nr 234, poz. 1570 i Nr 237, poz. 1654, z 2009 r. Nr 6, poz. 33, Nr 22, poz. 120, Nr 26, poz. 157, Nr 38, poz. 299, Nr 92, poz. 753, Nr 97, poz. 800, Nr 98, poz. 817, Nr 111, poz. 918, Nr 118, poz. 989, Nr 157, poz. 1241, Nr 161, poz. 1278 i Nr 178, poz. 1374, z 2010 r. Nr 50, poz. 301, Nr 107, poz. 679, Nr 125, poz. 842, Nr 127, poz. 857, Nr 165, poz. 1116, Nr 182, poz. 1228, Nr 205, poz. 1363, Nr 225, poz. 1465, Nr 238, poz. 1578 i Nr 257, poz. 1723 i 1725, z 2011 r. Nr 45 poz. 235, Nr 73, poz. 390, Nr 81, poz. 440, Nr 106 poz. 622, Nr 112, poz. 654, Nr 113, poz. 657, Nr 122, poz. 696, Nr 138, poz. 808, Nr 149, poz. 887, Nr 171, poz. 1016, Nr 205, poz. 1203 i Nr 232, poz. 1378, z 2012 r. poz. 123, 1016, 1342 i 1548 oraz z 2013 r. poz. 154, 879 i 983. Bilans_łączny 6/47 Bilans_łączny 7/47 Warszawa, dnia 25 marca 2013 r. Prezes Narodowego Agnieszka Pachciarz 7. Zmniejszenia z tytułu: 0,00 0,00 5 362 211,01 0,00 5 362 211,01 a) sprzedaży 0,00 0,00 0,00 0,00 0,00 b) aktualizacji 0,00 0,00 0,00 0,00 0,00 c) nieodpłatnego przekazania do jednostki org. NFZ 0,00 0,00 4 716 178,92 0,00 4 716 178,92 e) inne 0,00 0,00 646 032,09 0,00 646 032,09 8. okresu: 0,00 0,00 153 847 523,91 0,00 153 847 523,91 9. koniec okresu 0,00 0,00 28 412 368,68 0,00 28 412 368,68"
+ }
+}

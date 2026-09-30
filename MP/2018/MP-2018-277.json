@@ -1,0 +1,78 @@
+{
+ "eli": "MP/2018/277",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 6 marca 2018 r. w sprawie zmian w składzie sekretarzy Sejmu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/277/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 marca 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmian w składzie sekretarzy Sejmu"
+  },
+  {
+   "type": "text",
+   "text": "Sejm Rzeczypospolitej Polskiej, na podstawie art. 6 Regulaminu Sejmu Rzeczypospolitej Polskiej, wprowadza następujące zmiany w składzie sekretarzy Sejmu:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "odwołuje się z funkcji sekretarza Sejmu:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_1/tir_1",
+     "text": "poseł Małgorzatę Golińską,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_1/tir_2",
+     "text": "posła Artura Sobonia;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "wybiera się na funkcję sekretarza Sejmu:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_2/tir_1",
+     "text": "poseł Martę Kubiak,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_2/tir_2",
+     "text": "posła Jarosława Szlachetkę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

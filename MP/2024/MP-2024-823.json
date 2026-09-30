@@ -1,0 +1,490 @@
+{
+ "eli": "MP/2024/823",
+ "title": "Uchwała nr 107 Rady Ministrów z dnia 23 września 2024 r. zmieniająca uchwałę w sprawie ustanowienia Rządowego Programu Przeciwdziałania Przemocy Domowej na lata 2024-2030",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/823/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 107"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 września 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie ustanowienia Rządowego Programu Przeciwdziałania Przemocy Domowej na lata 2024–2030"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 1 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2024 r. poz. 424 i 834) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 205 Rady Ministrów z dnia 9 listopada 2023 r. w sprawie ustanowienia Rządowego Programu Przeciwdziałania Przemocy Domowej na lata 2024–2030 (M.P. poz. 1232) w załączniku do uchwały wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w rozdziale IV.: „IV. Realizatorzy Programu” akapit drugi otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Program na szczeblu centralnym jest realizowany przez Ministra do spraw Równości wykonującego zadania Krajowego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej. Minister do spraw Równości powołuje Zespół Monitorujący do spraw Przeciwdziałania Przemocy Domowej jako organ opiniodawczo-doradczy, w skład którego wchodzi również przedstawiciel Krajowego Koordynatora Realizacji Rządowego Programu Przeciwdziałania Przemocy Domowej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "użyte w rozdziale VI: „VI. Obszary, kierunki i działania Programu”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w Obszarze 1. „1. Profilaktyka, diagnoza społeczna i edukacja społeczna” w części:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_a/tir_1",
+         "text": "1.1.1. Opracowywanie diagnoz i prowadzenie badań, ekspertyz oraz analiz dotyczących zjawiska przemocy domowej i czynników z nią skorelowanych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_a/tir_2",
+         "text": "1.1.4. Organizowanie ogólnopolskich konferencji w zakresie przeciwdziałania przemocy domowej,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_2/lit_a/tir_3",
+         "text": "1.2.1. Prowadzenie ogólnopolskich i lokalnych kampanii społecznych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "par_1/pkt_2/lit_a/tir_4",
+         "text": "1.4.1. Opracowywanie programów osłonowych oraz edukacyjnych i prowadzenie działań dotyczących zapobiegania przemocy domowej, w szczególności wobec dzieci, kobiet, osób starszych lub niepełnosprawnych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w Obszarze 2. „2. Ochrona, pomoc i wsparcie osób doznających przemocy domowej” w części:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_b/tir_1",
+         "text": "2.1.3. Ewidencjonowanie istniejącej infrastruktury instytucji rządowych i samorządowych, a także podmiotów oraz organizacji pozarządowych udzielających pomocy osobom doznającym przemocy domowej,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_b/tir_2",
+         "text": "2.1.6. Rozbudowa sieci i poszerzanie oferty placówek wspierających i udzielających pomocy osobom doznającym przemocy domowej,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_2/lit_b/tir_3",
+         "text": "2.1.7. Nawiązywanie, rozwijanie i wzmacnianie działalności między instytucjami rządowymi i samorządowymi oraz organizacjami pozarządowymi w zakresie pomocy osobom doznającym przemocy domowej,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "par_1/pkt_2/lit_b/tir_4",
+         "text": "2.3.9. Wzmacnianie ochrony osób doznających przemocy domowej w toku postępowania karnego przez przesłuchiwanie małoletnich w przyjaznych pokojach przesłuchań,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "5",
+         "path": "par_1/pkt_2/lit_b/tir_5",
+         "text": "2.4.1. Monitorowanie pomocy udzielanej osobom doznającym przemocy domowej,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "w Obszarze 3. „3. Oddziaływanie na osoby stosujące przemoc domową” w części:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_c/tir_1",
+         "text": "3.1.1. Ewidencjonowanie instytucji rządowych i samorządowych, podmiotów oraz organizacji pozarządowych, które realizują wszelkie działania adresowane do osób stosujących przemoc domową,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_c/tir_2",
+         "text": "3.3.6. Monitorowanie udziału osób stosujących przemoc domową w programach korekcyjno-edukacyjnych dla osób stosujących przemoc domową,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_2/lit_c/tir_3",
+         "text": "3.3.7. Badanie skuteczności programów korekcyjno-edukacyjnych kierowanych do osób stosujących przemoc domową przez monitorowanie ich zachowań przez okres do 3 lat po ukończeniu programu korekcyjno-edukacyjnego,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "par_1/pkt_2/lit_c/tir_4",
+         "text": "3.4.4. Monitorowanie udziału osób stosujących przemoc domową w programach psychologiczno-terapeutycznych dla osób stosujących przemoc domową,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_2/lit_d",
+       "text": "w Obszarze 4. „4. Podnoszenie kompetencji, rozwijanie i doskonalenie umiejętności służb i przedstawicieli podmiotów realizujących działania z zakresu przeciwdziałania przemocy domowej” w części:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_d/tir_1",
+         "text": "4.2.1. Opracowanie oraz wydawanie wytycznych do prowadzenia szkoleń w zakresie przeciwdziałania przemocy domowej, w tym obowiązkowych szkoleń dla członków zespołu interdyscyplinarnego oraz grup diagnostyczno-pomocowych,",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_d/tir_2",
+         "text": "4.2.4. Podejmowanie działań zmierzających do nawiązania i wzmocnienia współpracy między służbami realizującymi zadania z zakresu przeciwdziałania przemocy domowej w każdym województwie",
+         "children": []
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_2/lit_d/tir_3",
+         "text": "wyrazy „minister właściwy do spraw zabezpieczenia społecznego” zastępuje się użytymi w odpowiednim przypadku wyrazami „Minister do spraw Równości”;",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w rozdziale VII. „VII. Przewidywane skutki finansowe”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "tiret czwarte otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„− utworzenie specjalistycznego ośrodka wsparcia dla osób doznających przemocy domowej 300 000 zł”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "tiret piąte otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„− utrzymanie specjalistycznych ośrodków wsparcia dla osób doznających przemocy domowej 199 340 654 zł”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "tiret szóste otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„− realizacja programów korekcyjno-edukacyjnych dla osób stosujących przemoc domową 30 901 519 zł”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_3/lit_d",
+       "text": "tiret siódme otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„− realizacja programów psychologiczno-terapeutycznych dla osób stosujących przemoc domową 10 831 384 zł”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "użyte w rozdziale IX. „IX. Sposób monitorowania i sprawozdawczości” w pierwszym akapicie po tabeli wyrazy „Ministerstwo Rodziny i Polityki Społecznej” zastępuje się wyrazami „urząd obsługujący Ministra do spraw Równości”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "załącznik nr 1 do Programu „Wydatki z budżetu państwa na lata 2024–2030 w związku z uchwaleniem Rządowego Programu Przeciwdziałania Przemocy Domowej” otrzymuje brzmienie określone w załączniku do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w załączniku nr 2 do Programu „Wzór rocznego sprawozdania z realizacji Programu”, użyte w tabeli:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "1.1. Poszerzenie wiedzy ogółu społeczeństwa, w tym zainteresowanych służb, na temat zjawiska przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "1.2. Podniesienie poziomu wiedzy i świadomości społecznej w zakresie przyczyn i skutków przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_6/lit_c",
+       "text": "1.4. Poprawa jakości systemu działań profilaktycznych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_6/lit_d",
+       "text": "1.5. Realizacja programów przeciwdziałania przemocy domowej oraz ochrony osób doznających przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_6/lit_e",
+       "text": "2.1. Rozwój infrastruktury instytucji rządowych i samorządowych, a także podmiotów oraz organizacji pozarządowych udzielających pomocy osobom doznającym przemocy domowej oraz wypracowanie zasad współpracy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_6/lit_f",
+       "text": "2.2. Upowszechnianie informacji w zakresie możliwości i form udzielania pomocy osobom doznającym przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_6/lit_g",
+       "text": "2.3. Udzielanie pomocy i wsparcia osobom doznającym przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_6/lit_h",
+       "text": "2.4. Monitorowanie działań pomocowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_1/pkt_6/lit_i",
+       "text": "3. Oddziaływanie na osoby stosujące przemoc domową, 3.1. Tworzenie i rozszerzanie oferty działań wobec osób stosujących przemoc domową, realizowanych przez instytucje rządowe i samorządowe oraz podmioty i organizacje pozarządowe, a także wypracowywanie i doskonalenie zasad współpracy między tymi instytucjami i podmiotami oraz organizacjami pozarządowymi i wdrażanie do realizacji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_1/pkt_6/lit_j",
+       "text": "3.2. Interweniowanie oraz reagowanie właściwych służb na stosowanie przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_1/pkt_6/lit_k",
+       "text": "3.3. Realizowanie wobec osób stosujących przemoc domową programów korekcyjno-edukacyjnych zmierzających do zaprzestania stosowania przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "l",
+       "path": "par_1/pkt_6/lit_l",
+       "text": "3.4. Realizowanie wobec osób stosujących przemoc domową programów psychologiczno-terapeutycznych zmierzających do zaprzestania stosowania przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "par_1/pkt_6/lit_m",
+       "text": "3.5. Realizowanie programów wspierających dla osób stosujących przemoc domową zmierzających do utrwalenia i wzmocnienia zmian zapoczątkowanych programami korekcyjno-edukacyjnymi dla osób stosujących przemoc domową lub psychologiczno-terapeutycznymi dla osób stosujących przemoc domową,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "n",
+       "path": "par_1/pkt_6/lit_n",
+       "text": "4.2. Wyznaczanie kierunków działań dla podmiotów i instytucji zajmujących się przeciwdziałaniem przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "o",
+       "path": "par_1/pkt_6/lit_o",
+       "text": "4.3. Podnoszenie kompetencji osób realizujących zadania z zakresu przeciwdziałania przemocy domowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "p",
+       "path": "par_1/pkt_6/lit_p",
+       "text": "4.4. Wzmacnianie kompetencji zawodowych oraz przeciwdziałanie wypaleniu zawodowemu osób realizujących zadania z zakresu przeciwdziałania przemocy domowej",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– w kolumnie „Wartość wskaźnika/Podmiot odpowiedzialny” wyrazy „minister właściwy do spraw zabezpieczenia społecznego” zastępuje się wyrazami: „Minister do spraw Równości”."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 107 Rady Ministrów z dnia 23 września 2024 r. (M.P. poz. 823)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYDATKI Z BUDŻETU PAŃSTWA NA LATA 2024–2030 W ZWIĄZKU Z UCHWALENIEM RZĄDOWEGO PROGRAMU PRZECIWDZIAŁANIA PRZEMOCY DOMOWEJ"
+    },
+    {
+     "type": "text",
+     "text": "Razem wydatki Wybrane kierunki i rodzaje Wydatki budżetu Wydatki budżetu Wydatki budżetu Wydatki budżetu Wydatki budżetu Wydatki budżetu Wydatki budżetu budżetu państwa Lp. działań państwa 2024 r. państwa 2025 r. państwa 2026 r. państwa 2027 r. państwa 2028 r. państwa 2029 r. państwa 2030 r. na poszczególne zadania"
+    },
+    {
+     "type": "text",
+     "text": "Opracowanie diagnoz zjawiska 1 przemocy domowej X 130 000 zł X 150 000 zł X 150 000 zł X 430 000 zł"
+    },
+    {
+     "type": "text",
+     "text": "Prowadzenie ogólnopolskich 2 kampanii społecznych 150 000 zł X 150 000 zł X 150 000 zł X 150 000 zł 600 000 zł"
+    },
+    {
+     "type": "text",
+     "text": "Organizowanie ogólnopolskiej 3 konferencji w zakresie 50 000 zł 50 000 zł 70 000 zł 70 000 zł 70 000 zł 70 000 zł 70 000 zł 450 000 zł przeciwdziałania przemocy domowej"
+    },
+    {
+     "type": "text",
+     "text": "Utworzenie specjalistycznego 4 ośrodka wsparcia dla osób 300 000 zł X X X X X X 300 000 zł doznających przemocy domowej"
+    },
+    {
+     "type": "text",
+     "text": "Bieżące utrzymanie specjalistycznych ośrodków 5 wsparcia dla osób doznających 29 600 654 zł 27 060 000 zł 27 552 000 zł 28 044 000 zł 28 536 000 zł 29 028 000 zł 29 520 000 zł 199 340 654 zł przemocy domowej"
+    },
+    {
+     "type": "text",
+     "text": "Realizacja programów 6 korekcyjno-edukacyjnych dla osób 5 301 519 zł 4 000 000 zł 4 000 000 zł 4 400 000 zł 4 400 000 zł 4 400 000 zł 4 400 000 zł 30 901 519 zł stosujących przemoc domową"
+    },
+    {
+     "type": "text",
+     "text": "Realizacja programów 7 psychologiczno-terapeutycznych dla 1 511 384 zł 1 360 000 zł 1 360 000 zł 1 650 000 zł 1 650 000 zł 1 650 000 zł 1 650 000 zł 10 831 384 zł osób stosujących przemoc domową Badanie skuteczności programów korekcyjno-edukacyjnych dla osób stosujących przemoc domową oraz 8 programów X X X 150 000 zł X X X 150 000 zł psychologiczno-terapeutycznych dla osób stosujących przemoc domową, w tym między innymi:"
+    },
+    {
+     "type": "text",
+     "text": "- opracowanie metod i narzędzi badawczych, - przeprowadzenie badań, - opracowanie raportów końcowych, - prezentacja raportów podczas ogólnopolskiej konferencji"
+    },
+    {
+     "type": "text",
+     "text": "Badanie skuteczności pomocy 9 udzielanej osobom doznającym X X X X 150 000 zł X X 150 000 zł przemocy domowej"
+    },
+    {
+     "type": "text",
+     "text": "Ewaluacja Rządowego Programu 10 Przeciwdziałania Przemocy X X X X X 150 000 zł X 150 000 zł Domowej"
+    },
+    {
+     "type": "text",
+     "text": "Dofinansowanie funkcjonowania 11 zespołów interdyscyplinarnych 14 970 000 zł 14 970 000 zł 14 970 000 zł 14 970 000 zł 14 970 000 zł 14 970 000 zł 14 970 000 zł 104 790 000 zł"
+    },
+    {
+     "type": "text",
+     "text": "Dofinansowanie szkoleń z zakresu 12 przeciwdziałania przemocy domowej 3 200 000 zł 3 200 000 zł 3 200 000 zł 3 200 000 zł 3 200 000 zł 3 200 000 zł 3 200 000 zł 22 400 000 zł"
+    },
+    {
+     "type": "text",
+     "text": "Utrzymanie całodobowej, bezpłatnej ogólnopolskiej linii telefonicznej dla 13 osób doznających przemocy 340 000 zł 340 000 zł 400 000 zł 400 000 zł 400 000 zł 400 000 zł 400 000 zł 2 680 000 zł domowej URZĄD OBSŁUGUJĄCY MINISTRA DO SPRAW RÓWNOŚCI 200 000 zł 180 000 zł 220 000 zł 370 000 zł 370 000 zł 370 000 zł 220 000 zł 1 930 000 zł"
+    },
+    {
+     "type": "text",
+     "text": "WOJEWODOWIE 54 883 557 zł 50 590 000 zł 51 082 000 zł 52 264 000 zł 52 756 000 zł 53 248 000 zł 53 740 000 zł 368 563 557 zł"
+    },
+    {
+     "type": "text",
+     "text": "MINISTERSTWO ZDROWIA 340 000 zł 340 000 zł 400 000 zł 400 000 zł 400 000 zł 400 000 zł 400 000 zł 2 680 000 zł"
+    },
+    {
+     "type": "text",
+     "text": "RAZEM 55 423 557 zł 51 110 000 zł 51 702 000 zł 53 034 000 zł 53 526 000 zł 54 018 000 zł 54 360 000 zł 373 173 557 zł"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

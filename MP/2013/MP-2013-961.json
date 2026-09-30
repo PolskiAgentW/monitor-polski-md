@@ -1,0 +1,122 @@
+{
+ "eli": "MP/2013/961",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 19 listopada 2013 r w sprawie granicznych kwot przychodu dla 2013 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/961/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "Prezesa zakładu ubezPieczeń sPołecznych"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 listopada 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie granicznych kwot przychodu dla 2013 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2009 r. Nr 153, poz. 1227, z późn. zm.[^1]) ogłasza się, że kwoty graniczne przychodu dla 2013 r. wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "30 661,20 zł – co stanowi sumę kwot przychodu odpowiadających 70% przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_1/tir_1",
+     "text": "2457,20 zł – od 1 stycznia 2013 r. do 28 lutego 2013 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_1/tir_2",
+     "text": "2583,30 zł – od 1 marca 2013 r. do 31 maja 2013 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_1/tir_3",
+     "text": "2618,10 zł – od 1 czerwca 2013 r. do 31 sierpnia 2013 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_1/tir_4",
+     "text": "2528,80 zł – od 1 września 2013 r. do 30 listopada 2013 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_1/tir_5",
+     "text": "2556,20 zł – od 1 grudnia 2013 r. do 31 grudnia 2013 r.;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "56 941,30 zł – co stanowi sumę kwot przychodu odpowiadających 130% przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_2/tir_1",
+     "text": "4563,30 zł – od 1 stycznia 2013 r. do 28 lutego 2013 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_2/tir_2",
+     "text": "4797,40 zł – od 1 marca 2013 r. do 31 maja 2013 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_2/tir_3",
+     "text": "4862,10 zł – od 1 czerwca 2013 r. do 31 sierpnia 2013 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_2/tir_4",
+     "text": "4696,30 zł – od 1 września 2013 r. do 30 listopada 2013 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_2/tir_5",
+     "text": "4747,30 zł – od 1 grudnia 2013 r. do 31 grudnia 2013 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: Z. Derdziuk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887, Nr 168, poz. 1001, Nr 187, poz. 1112 i Nr 205, poz. 1203, z 2012 r. poz. 118, 251, 637, 664 i 1548 oraz z 2013 r. poz. 240, 786, 960 i 1036."
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "eli": "MP/2021/1192",
+ "title": "Obwieszczenie Ministra Finansów z dnia 21 grudnia 2021 r. w sprawie ogłoszenia rodzaju bazowej stopy procentowej i marży dla potrzeb cen transferowych w zakresie podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/1192/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 grudnia 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia rodzaju bazowej stopy procentowej i marży dla potrzeb cen transferowych w zakresie podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 23s ust. 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2021 r. poz. 1128, z późn. zm.[^2]) i art. 11g ust. 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2021 r. poz. 1800, 1927, 2105, 2106 i 2269) ogłasza się, że od dnia 1 stycznia 2022 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "rodzaj bazowej stopy procentowej dla pożyczek:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "w złotych – stanowi WIBOR 3M,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "w dolarach amerykańskich:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_1/lit_b/tir_1",
+       "text": "stanowi SOFR 3M Compound Rate,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_1/lit_b/tir_2",
+       "text": "może stanowić LIBOR USD 3M – w przypadku pożyczek udzielonych przed dniem 1 stycznia 2022 r.,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "w euro – stanowi EURIBOR 3M,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "we frankach szwajcarskich – stanowi SARON 3M Compound Rate,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_1/lit_e",
+     "text": "w funtach brytyjskich:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_1/lit_e/tir_1",
+       "text": "stanowi SONIA 3M Compound Rate,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_1/lit_e/tir_2",
+       "text": "może stanowić LIBOR GBP 3M – w przypadku pożyczek udzielonych przed dniem 1 stycznia 2022 r.;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "marża:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "dla pożyczkobiorcy wynosi maksymalnie 2,8 punktu procentowego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "dla pożyczkodawcy wynosi minimalnie 2,0 punkty procentowe,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "stanowi sumę wartości bezwzględnej bazowej stopy procentowej i wartości określonej w lit. a albo b, w przypadku gdy wartość bazowej stopy procentowej określonej w pkt 1 jest mniejsza od zera.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: T. Kościński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 1163, 1243, 1551, 1574, 1834, 1981, 2071, 2105, 2133, 2232, 2269, 2270, 2328 i 2376."
+ }
+}

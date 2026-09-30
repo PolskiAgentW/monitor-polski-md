@@ -1,0 +1,108 @@
+{
+ "eli": "MP/2014/180",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 17 lutego 2014 r. w sprawie ustalenia wzoru informacji o sposobie głosowania oraz warunkach ważności głosu stosowanej w wyborach do Parlamentu Europejskiego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/180/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 lutego 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia wzoru informacji o sposobie głosowania oraz warunkach ważności głosu stosowanej w wyborach do Parlamentu Europejskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 48 § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "W wyborach do Parlamentu Europejskiego ustala się wzór informacji o sposobie głosowania oraz warunkach ważności głosu, stanowiący załącznik do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Informacja, o której mowa w ust. 1, może zostać sporządzona w druku czarno-białym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 17 lutego 2014 r. (poz. 180)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA O SPOSOBIE GŁOSOWANIA ORAZ WARUNKACH WAŻNOŚCI GŁOSU"
+    },
+    {
+     "type": "text",
+     "text": "W WYBORACH DO PARLAMENTU EUROPEJSKIEGO"
+    },
+    {
+     "type": "text",
+     "text": "Głosy ważne"
+    },
+    {
+     "type": "text",
+     "text": "Głosować można tylko na jedną listę kandydatów, stawiając na karcie do głosowania znak „x” (dwie przecinające się linie w obrębie kratki) w kratce z lewej strony obok nazwiska jednego z kandydatów z tej listy, przez co wskazuje się jego pierwszeństwo do uzyskania mandatu."
+    },
+    {
+     "type": "text",
+     "text": "Głosy nieważne"
+    },
+    {
+     "type": "text",
+     "text": "Przyczyną nieważności głosu jest:"
+    },
+    {
+     "type": "text",
+     "text": "• oddanie głosu na więcej niż jedną listę, czyli postawienie znaku „x” w kratkach obok nazwisk kandydatów umieszczonych na więcej niż jednej liście, • nieoddanie głosu na którąkolwiek z list, czyli niepostawienie znaku „x” w żadnej kratce."
+    },
+    {
+     "type": "text",
+     "text": "Nieważne są karty do głosowania inne niż urzędowo ustalone lub nieopatrzone pieczęcią obwodowej komisji wyborczej."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179 i 180."
+ }
+}

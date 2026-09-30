@@ -1,0 +1,62 @@
+{
+ "eli": "MP/2016/1178",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 2 grudnia 2016 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/1178/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 grudnia 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) w art. 33a ust. 4 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„4. W szczególnie uzasadnionych przypadkach Marszałek Sejmu, po zasięgnięciu opinii Prezydium Sejmu, może:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) wydłużyć terminy, o których mowa w ust. 1 i 3;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) wyrazić zgodę na wystąpienie przez Komisję Kultury i Środków Przekazu z wnioskiem o przyjęcie dodatkowych, nie więcej niż dwóch, projektów, o których mowa w ust. 1.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079, z 2015 r. poz. 31, 550, 1130, 1136 i 1212 oraz z 2016 r. poz. 349, 512, 616 i 634."
+ }
+}

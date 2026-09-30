@@ -1,0 +1,120 @@
+{
+ "eli": "MP/2024/982",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 18 listopada 2024 r. w sprawie granicznych kwot przychodu dla 2024 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/982/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 listopada 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie granicznych kwot przychodu dla 2024 r. stosowanych przy zawieszaniu albo zmniejszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674) ogłasza się, że kwoty graniczne przychodu dla 2024 r. wynoszą odpowiednio:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "65 611,40 zł – co stanowi sumę kwot przychodu odpowiadających 70 % przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_1/tir_1",
+     "text": "5036,50 zł – od 1 stycznia 2024 r. do 29 lutego 2024 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_1/tir_2",
+     "text": "5278,30 zł – od 1 marca 2024 r. do 31 maja 2024 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_1/tir_3",
+     "text": "5703,20 zł – od 1 czerwca 2024 r. do 31 sierpnia 2024 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_1/tir_4",
+     "text": "5626,90 zł – od 1 września 2024 r. do 30 listopada 2024 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_1/tir_5",
+     "text": "5713,20 zł – od 1 grudnia 2024 r. do 31 grudnia 2024 r.;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "121 849,50 zł – co stanowi sumę kwot przychodu odpowiadających 130 % przeciętnych miesięcznych wynagrodzeń w wysokości:",
+   "children": [
+    {
+     "type": "tir",
+     "num": "1",
+     "path": "pkt_2/tir_1",
+     "text": "9353,50 zł – od 1 stycznia 2024 r. do 29 lutego 2024 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "2",
+     "path": "pkt_2/tir_2",
+     "text": "9802,50 zł – od 1 marca 2024 r. do 31 maja 2024 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "3",
+     "path": "pkt_2/tir_3",
+     "text": "10 591,60 zł – od 1 czerwca 2024 r. do 31 sierpnia 2024 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "4",
+     "path": "pkt_2/tir_4",
+     "text": "10 450,00 zł – od 1 września 2024 r. do 30 listopada 2024 r.,",
+     "children": []
+    },
+    {
+     "type": "tir",
+     "num": "5",
+     "path": "pkt_2/tir_5",
+     "text": "10 610,20 zł – od 1 grudnia 2024 r. do 31 grudnia 2024 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: Z. Derdziuk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

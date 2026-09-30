@@ -1,0 +1,598 @@
+{
+ "eli": "MP/2020/499",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 4 czerwca 2020 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/499/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 czerwca 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2018 r. poz. 846 oraz z 2020 r. poz. 306) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "art. 6 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Senat wybiera Marszałka spośród kandydatów zgłoszonych przez co najmniej 10 senatorów, podejmując uchwałę bezwzględną większością głosów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli zgłoszono więcej niż jednego kandydata i w pierwszym głosowaniu żaden z kandydatów nie uzyskał bezwzględnej większości głosów, przed kolejnymi turami głosowania usuwa się z listy kandydatów nazwisko tego kandydata, który w poprzedniej turze uzyskał najmniejszą liczbę głosów poparcia. Jeżeli tę samą najmniejszą liczbę głosów uzyskało dwóch lub więcej kandydatów, przed kolejną turą głosowania usuwa się nazwiska tych kandydatów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Procedurę wyboru powtarza się, jeżeli:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wszyscy zgłoszeni kandydaci uzyskali jednakową liczbę głosów poparcia;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w wyniku zastosowania ust. 1 i 2 nie dojdzie do dokonania wyboru Marszałka Senatu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "po art. 6 dodaje się art. 6a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 6a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Odwołanie Marszałka Senatu odbywa się na wniosek co najmniej 34 senatorów, imiennie wskazujący kandydata na nowego Marszałka.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Senat odwołuje i wybiera Marszałka w jednym głosowaniu, bezwzględną większością głosów ustawowej liczby senatorów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli złożono więcej niż jeden wniosek, o którym mowa w ust. 1, są one rozpatrywane łącznie, jednak poddanie ich pod głosowanie następuje oddzielnie według kolejności złożenia. W przypadku przyjęcia jednego z wniosków pozostałe wnioski nie podlegają głosowaniu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 7 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Senat wybiera nie więcej niż czterech wicemarszałków spośród kandydatów zgłoszonych przez co najmniej 10 senatorów, podejmując uchwałę bezwzględną większością głosów. Jeżeli zgłoszono więcej niż czterech kandydatów, przepisy art. 6 ust. 2 i ust. 3 pkt 2 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Odwołanie wicemarszałka odbywa się na wniosek co najmniej 34 senatorów, bezwzględną większością głosów ustawowej liczby senatorów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 8 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_4/lit_a",
+       "text": "po pkt 16a dodaje się pkt 16b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„16b) określa, w drodze zarządzenia, wynikające z ochrony informacji niejawnych zasady postępowania w przypadku zgłoszenia wniosku o uchwalenie tajności obrad, podjęcia przez Senat uchwały o tajności obrad oraz utajnienia obrad komisji senackiej;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_4/lit_b",
+       "text": "po pkt 19a dodaje się pkt 19b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„19b) powołuje i odwołuje zastępcę Szefa Kancelarii Senatu, po zasięgnięciu opinii Szefa Kancelarii Senatu;”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 9 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) określa zasady organizowania doradztwa na rzecz Senatu i jego organów, powoływania doradców oraz korzystania z opinii i ekspertyz;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "art. 14 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 14.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Konwent Seniorów może określić liczbę miejsc przysługującą klubom senackim i kołom senackim w danej komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli decyzja, o której mowa w ust. 1, zostanie podjęta po powołaniu komisji w sytuacji, w której liczba senatorów któregokolwiek klubu lub koła przekracza przyjęty w decyzji limit, komisja ta ulega rozwiązaniu z dniem powołania komisji w składzie zgodnym z decyzją. Sprawy nierozpatrzone przez rozwiązaną komisję podlegają rozpatrzeniu przez komisję nowo powołaną.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przepisów ust. 2 nie stosuje się w przypadku, gdy senatorowie klubu lub koła, o którym mowa w ust. 2, złożą do Marszałka Senatu w terminie 7 dni od dnia podjęcia decyzji, o której mowa w ust. 1, wnioski w sprawie rezygnacji z członkostwa w komisji, zapewniające zgodność składu komisji z decyzją.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Marszałek Senatu, po zasięgnięciu opinii Konwentu Seniorów, przedstawia Senatowi:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) projekty uchwał w sprawie powołania komisji i wyboru ich składu osobowego oraz rozwiązania komisji nadzwyczajnej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) projekt uchwały w sprawie wyboru przewodniczącego komisji – na wniosek odpowiedniej komisji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) projekt uchwały w sprawie odwołania przewodniczącego komisji – z własnej inicjatywy, na wniosek Prezydium Senatu lub odpowiedniej komisji oraz w przypadku złożenia przez przewodniczącego Marszałkowi pisemnej rezygnacji z pełnionej funkcji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Komisja Regulaminowa, Etyki i Spraw Senatorskich przedstawia Senatowi projekty uchwał w sprawie zmian w składzie osobowym komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Do projektów uchwał, o których mowa w ust. 4 i 5, nie stosuje się przepisów działu IX.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 33 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Prawo udziału w posiedzeniach Senatu mają osoby wymienione w art. 32 ust. 2, członkowie Prezydium Sejmu, członkowie Rady Ministrów, Prezes Trybunału Konstytucyjnego, Rzecznik Praw Obywatelskich i Pierwszy Prezes Sądu Najwyższego, a także przedstawiciele innych organów państwowych i organizacji, których ustawowy zakres zadań dotyczy sprawy będącej przedmiotem obrad Senatu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "art. 36 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 36.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Posiedzenia Senatu są jawne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Senat na wniosek Marszałka Senatu lub co najmniej 10 senatorów może uchwalić tajność obrad, jeżeli wymaga tego dobro państwa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Uzasadnienie wniosku o uchwalenie tajności obrad jest przedstawiane na posiedzeniu Konwentu Seniorów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Uchwałę w sprawie tajności obrad Senat podejmuje bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby senatorów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 48 w ust. 2 uchyla się pkt 2;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "art. 53 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 53.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Po zamknięciu dyskusji lub wystąpieniu sprawozdawcy komisji Marszałek Senatu oznajmia, że Senat przystępuje do głosowania. Od tej chwili można zabierać głos tylko w celu zgłoszenia lub uzasadnienia wniosku formalnego o sposobie lub porządku głosowania albo zadania sprawozdawcy pytań o wyjaśnienie treści głosowanej poprawki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Głosowanie jest jawne i odbywa się przez podniesienie ręki oraz naciśnięcie przycisku aparatury elektronicznej rejestrującej indywidualne decyzje głosujących senatorów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W przypadkach określonych w Regulaminie Senatu głosowanie odbywa się przy użyciu kart do głosowania oznaczonych imieniem i nazwiskiem senatora (głosowanie imienne).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Głosowanie imienne odbywa się przy wykorzystaniu przygotowanej w tym celu urny. Senatorowie kolejno, w porządku alfabetycznym, wezwani przez sekretarza Senatu wrzucają swoje karty do urny. Otwarcia urny oraz obliczenia głosów dokonuje trzech wyznaczonych przez Marszałka Senatu sekretarzy Senatu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. W sprawach wyboru lub powołania na określone w Regulaminie Senatu stanowiska, w których liczba kandydatów jest większa niż liczba miejsc do obsadzenia, przeprowadza się głosowanie imienne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Jeżeli w sprawach określonych w ust. 5 uchwała jest podejmowana zwykłą większością głosów:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) za wybranych lub powołanych uważa się kandydatów, którzy uzyskali kolejno największą liczbę głosów poparcia i jednocześnie liczba ta jest większa niż liczba głosów przeciw;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w przypadku gdy dwóch lub więcej kandydatów otrzyma równą liczbę głosów poparcia, a jednocześnie spowodowałoby to wybór lub powołanie większej liczby osób niż liczba miejsc, uznaje się, że nie wybrano (nie powołano) tych kandydatów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Jeżeli w sprawach określonych w ust. 5 uchwała jest podejmowana większością bezwzględną albo inną większością kwalifikowaną:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) na karcie do głosowania przy nazwisku każdego kandydata umieszcza się tylko jedną kratkę;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) głosowanie na danego kandydata polega na postawieniu znaku „x” w kratce przy nazwisku tego kandydata.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Na wniosek Marszałka Senatu lub co najmniej 20 senatorów:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) głosowanie odbywa się przez podniesienie ręki przy jednoczesnym zarządzeniu przez Marszałka Senatu obliczenia głosów przez sekretarzy Senatu, albo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) odbywa się głosowanie imienne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. Wyniki głosowania ogłasza Marszałek Senatu. Wyniki głosowania imiennego Marszałek ogłasza na podstawie protokołu przedstawionego przez sekretarzy Senatu dokonujących obliczenia głosów. Wyniki głosowania są ostateczne i nie mogą być przedmiotem dyskusji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_1/pkt_11",
+     "text": "w art. 54:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_11/lit_a",
+       "text": "w ust. 1 pkt 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5) głosowanie za przyjęciem uchwały w całości ze zmianami wynikającymi z przyjętych poprawek.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_11/lit_b",
+       "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. W przypadku odrzucenia wszystkich zgłoszonych do ustawy wniosków lub poprawek albo nieprzyjęcia uchwały w sprawie ustawy w całości, Marszałek poddaje pod głosowanie wniosek o odrzucenie ustawy, a w przypadku nieprzyjęcia tego wniosku – wniosek o przyjęcie ustawy bez poprawek.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_1/pkt_12",
+     "text": "w art. 59 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Komisja, na wniosek Marszałka Senatu, przewodniczącego komisji lub co najmniej 3 członków komisji, może zadecydować o utajnieniu obrad. Komisja, postanawiając o tajności obrad, określa osoby, których udział w posiedzeniu jest niezbędny.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "w art. 62 w ust. 5 wyrazy „art. 53 ust. 2–8” zastępuje się wyrazami „art. 53 ust. 2–9”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "po art. 68 dodaje się art. 68a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 68a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W posiedzeniu Senatu, w trakcie rozpatrywania ustawy, uczestniczy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) upoważniony przedstawiciel wnioskodawcy projektu tej ustawy – w celu przedstawienia ustawy;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) upoważniony do reprezentowania Rządu członek Rady Ministrów, sekretarz stanu, podsekretarz stanu, pełnomocnik Rządu lub kierownik urzędu centralnego – w celu przedstawienia stanowiska Rady Ministrów do ustawy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku nieobecności osoby, o której mowa w ust. 1, Marszałek Senatu może ogłosić przerwę w obradach albo zmienić kolejność rozpatrywania punktów porządku obrad w celu umożliwienia przybycia tej osoby.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_1/pkt_15",
+     "text": "po art. 73 dodaje się art. 73a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 73a. W przypadku odrzucenia wniosku o przyjęcie ustawy budżetowej bez poprawek lub wszystkich poprawek albo nieprzyjęcia uchwały w sprawie ustawy w całości, Marszałek poddaje pod głosowanie wniosek o przyjęcie ustawy bez poprawek.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "w art. 91 w ust. 1 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) na powołanie i odwołanie Prezesa Urzędu Ochrony Danych Osobowych oraz Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "art_1/pkt_17",
+     "text": "w art. 92 w ust. 2 dodaje się pkt 4 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4) członka Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "art_1/pkt_18",
+     "text": "w art. 93:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_18/lit_a",
+       "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Wniosek w sprawie powołania członka organu, o którym mowa w art. 92 ust. 2 pkt 4, zgłosić może także Marszałek Senatu oraz organ lub organizacja wskazane w art. 6 ust. 9 ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_18/lit_b",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Senator może udzielić poparcia co najwyżej tylu kandydatom, ile jest miejsc do obsadzenia.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "art_1/pkt_19",
+     "text": "w art. 94 po ust. 2 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. Na senackiej stronie internetowej udostępnia się informację o przystąpieniu do powołania członka organu, o którym mowa w art. 92 ust. 2 pkt 4, zawierającą:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) podmioty uprawnione do zgłaszania kandydatów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wskazanie terminu i miejsca składania wniosków;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) wymogi, jakie powinien spełniać kandydat;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wymogi formalne, jakim powinien odpowiadać wniosek.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "art_1/pkt_20",
+     "text": "w art. 95 ust. 2 i 3 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Jeżeli liczba kandydatów na stanowisko państwowe określone w art. 92 ust. 1 i ust. 2 pkt 1 i 2 jest większa niż liczba miejsc do obsadzenia, przepisy art. 6 ust. 2 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli nie dojdzie do dokonania wyboru lub powołania wymaganej liczby członków organów państwowych, o których mowa w art. 92 ust. 1 i 2, procedurę wyboru lub powołania powtarza się. Przepisy art. 93 i art. 94 stosuje się odpowiednio, przy czym okres składania wniosków nie może być krótszy niż 7 dni.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "art_1/pkt_21",
+     "text": "w art. 96c uchyla się ust. 2 i 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia, z wyjątkiem art. 1 pkt 17–20, które wchodzą w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: T. Grodzki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

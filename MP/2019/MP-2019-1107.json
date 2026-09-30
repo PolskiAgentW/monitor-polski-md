@@ -1,0 +1,103 @@
+{
+ "eli": "MP/2019/1107",
+ "title": "Obwieszczenie Ministra Finansów, Inwestycji i Rozwoju z dnia 4 listopada 2019 r. w sprawie stawek akcyzy na paliwa silnikowe w roku 2020",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1107/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW, INWESTYCJI I ROZWOJU[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 listopada 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek akcyzy na paliwa silnikowe w roku 2020"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 89 ust. 1b pkt 1 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2019 r. poz. 864, z późn. zm.[^2]) ogłasza się, że w roku 2020 stawki akcyzy na paliwa silnikowe wynoszą dla:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "benzyn silnikowych o kodach CN 2710 12 45 lub 2710 12 49 oraz wyrobów powstałych ze zmieszania tych benzyn z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1537,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "olejów napędowych o kodzie CN 2710 19 43 i 2710 20 11 oraz wyrobów powstałych ze zmieszania tych olejów z biokomponentami, spełniających wymagania jakościowe określone w odrębnych przepisach – 1168,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "biokomponentów stanowiących samoistne paliwa, spełniających wymagania jakościowe określone w odrębnych przepisach, przeznaczonych do napędu silników spalinowych, bez względu na kod CN – 1168,00 zł/1000 litrów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "gazów przeznaczonych do napędu silników spalinowych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "gazu ziemnego (mokrego) i pozostałych węglowodorów gazowych objętych pozycją CN 2711 oraz gazowych węglowodorów alifatycznych objętych pozycją CN 2901:",
+     "children": [
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "pkt_4/lit_a/tir_1",
+       "text": "skroplonych – 667,00 zł/1000 kilogramów,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "pkt_4/lit_a/tir_2",
+       "text": "w stanie gazowym – 10,48 zł/1 gigadżul (GJ),",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "pozostałych – 14,16 zł/1 GJ;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "pozostałych paliw silnikowych – 1794,00 zł/1000 litrów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów, Inwestycji i Rozwoju kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 3 rozporządzenia Prezesa Rady Ministrów z dnia 26 września 2019 r. w sprawie szczegółowego zakresu działania Ministra Finansów, Inwestycji i Rozwoju (Dz. U. poz. 1841).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1123, 1495, 1501, 1520, 1556 i 2116."
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "eli": "MP/2016/178",
+ "title": "Obwieszczenie Ministra Finansów z dnia 10 lutego 2016 r. w sprawie średniej ważonej detalicznej ceny sprzedaży papierosów oraz średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia w roku 2015",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/178/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 lutego 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie średniej ważonej detalicznej ceny sprzedaży papierosów oraz średniej ważonej detalicznej ceny sprzedaży tytoniu do palenia w roku 2015"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 99 ust. 14 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2014 r. poz. 752, z późn. zm.[^2]) ogłasza się, że w roku 2015 średnia ważona detaliczna cena sprzedaży wyniosła w przypadku:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "papierosów – 664,90 zł w przeliczeniu na 1000 sztuk;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "tytoniu do palenia – 491,21 zł w przeliczeniu na kilogram.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: P. Szałamacha"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1900).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877 oraz z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932."
+ }
+}

@@ -1,0 +1,734 @@
+{
+ "eli": "MP/2021/117",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 22 stycznia 2021 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Komitetu Ekonomicznego Rady Ministrów",
+ "converter": "eli2md 0.6.16",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/117/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 stycznia 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Komitetu Ekonomicznego Rady Ministrów"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 131 Prezesa Rady Ministrów z dnia 30 września 2016 r. w sprawie Komitetu Ekonomicznego Rady Ministrów (M.P. z 2019 r. poz. 349), z uwzględnieniem zmian wprowadzonych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "zarządzeniem nr 7 Prezesa Rady Ministrów z dnia 24 stycznia 2020 r. zmieniającym zarządzenie w sprawie Komitetu Ekonomicznego Rady Ministrów (M.P. poz. 101);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "zarządzeniem nr 240 Prezesa Rady Ministrów z dnia 4 grudnia 2020 r. zmieniającym zarządzenie w sprawie Komitetu Ekonomicznego Rady Ministrów (M.P. poz. 1120).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "§ 2 zarządzenia nr 7 Prezesa Rady Ministrów z dnia 24 stycznia 2020 r. zmieniającego zarządzenie w sprawie Komitetu Ekonomicznego Rady Ministrów (M.P. poz. 101), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "§ 2 zarządzenia nr 240 Prezesa Rady Ministrów z dnia 4 grudnia 2020 r. zmieniającego zarządzenie w sprawie Komitetu Ekonomicznego Rady Ministrów (M.P. poz. 1120), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 22 stycznia 2021 r. (poz. 117)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 131"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 30 września 2016 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie Komitetu Ekonomicznego Rady Ministrów"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 12 ust. 1 pkt 1 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2021 r. poz. 178) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Komitet Ekonomiczny Rady Ministrów, zwany dalej „Komitetem”, jest organem pomocniczym Rady Ministrów i Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Zadaniem Komitetu jest inicjowanie, przygotowywanie i uzgadnianie rozstrzygnięć albo stanowisk Rady Ministrów lub Prezesa Rady Ministrów w sprawach istotnych dla gospodarki lub rozwoju kraju.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1a",
+       "path": "par_2/ust_1a",
+       "text": "[^1] Zadaniem Komitetu jest w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_1a/pkt_1",
+         "text": "rozpatrywanie spraw istotnych dla gospodarki lub rozwoju kraju, zleconych przez Przewodniczącego Komitetu lub zgłoszonych przez członków Komitetu i zaakceptowanych przez Przewodniczącego Komitetu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_1a/pkt_2",
+         "text": "inicjowanie i koordynowanie spraw istotnych dla gospodarki lub rozwoju kraju, zleconych przez Przewodniczącego Komitetu lub zgłoszonych przez członków Komitetu i zaakceptowanych przez Przewodniczącego Komitetu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_1a/pkt_3",
+         "text": "przedstawianie rekomendacji w zakresie rozwiązań w sprawach istotnych dla gospodarki lub rozwoju kraju, zleconych przez Przewodniczącego Komitetu lub zgłoszonych przez członków Komitetu i zaakceptowanych przez Przewodniczącego Komitetu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_1a/pkt_4",
+         "text": "zlecanie członkom Komitetu oraz jednostkom organizacyjnym podległym lub nadzorowanym przez członka Komitetu zadań w sprawach istotnych dla gospodarki lub rozwoju kraju wskazanych przez Przewodniczącego Komitetu lub zgłoszonych przez członków Komitetu i zaakceptowanych przez Przewodniczącego Komitetu oraz monitorowanie przebiegu realizacji tych zadań;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_2/ust_1a/pkt_5",
+         "text": "rozstrzyganie wybranych, zgłoszonych przez członków Komitetu lub członków Rady Ministrów i zaakceptowanych przez Przewodniczącego Komitetu, rozbieżności w sprawach istotnych dla gospodarki lub rozwoju kraju.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Komitet rozpatruje w szczególności projekty dokumentów rządowych:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_2/pkt_1",
+         "text": "o istotnym wpływie na:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_2/ust_2/pkt_1/lit_a",
+           "text": "zdolności rozwojowe gospodarki,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_2/ust_2/pkt_1/lit_b",
+           "text": "zrównoważony rozwój, klimat i bezpieczeństwo energetyczne,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_2/ust_2/pkt_1/lit_c",
+           "text": "rynek pracy i sytuację demograficzną,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_2/ust_2/pkt_1/lit_d",
+           "text": "gospodarowanie finansami publicznymi i majątkiem Skarbu Państwa,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "e",
+           "path": "par_2/ust_2/pkt_1/lit_e",
+           "text": "jakość otoczenia regulacyjnego przedsiębiorców i obywateli;",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_2/pkt_2",
+         "text": "o przewidywanych skutkach finansowych w wysokości przekraczającej 500 mln zł rocznie.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "(uchylony).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "(uchylony).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "(uchylony).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "(uchylony).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "W skład Komitetu wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_7/ust_1/pkt_1",
+         "text": "Przewodniczący Komitetu – Prezes Rady Ministrów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_7/ust_1/pkt_2",
+         "text": "Wiceprzewodniczący Komitetu – Przewodniczący Stałego Komitetu Rady Ministrów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_7/ust_1/pkt_3",
+         "text": "[^2] członkowie:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_7/ust_1/pkt_3/lit_a",
+           "text": "Wiceprezes Rady Ministrów – Minister Aktywów Państwowych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_7/ust_1/pkt_3/lit_b",
+           "text": "Wiceprezes Rady Ministrów – Minister Kultury, Dziedzictwa Narodowego i Sportu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_7/ust_1/pkt_3/lit_c",
+           "text": "Wiceprezes Rady Ministrów – Minister Rozwoju, Pracy i Technologii,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_7/ust_1/pkt_3/lit_d",
+           "text": "Minister Cyfryzacji,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "e",
+           "path": "par_7/ust_1/pkt_3/lit_e",
+           "text": "Minister Finansów, Funduszy i Polityki Regionalnej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "f",
+           "path": "par_7/ust_1/pkt_3/lit_f",
+           "text": "Minister Infrastruktury,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "g",
+           "path": "par_7/ust_1/pkt_3/lit_g",
+           "text": "Minister Klimatu i Środowiska,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "h",
+           "path": "par_7/ust_1/pkt_3/lit_h",
+           "text": "Minister Rodziny i Polityki Społecznej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "i",
+           "path": "par_7/ust_1/pkt_3/lit_i",
+           "text": "Minister Rolnictwa i Rozwoju Wsi,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "j",
+           "path": "par_7/ust_1/pkt_3/lit_j",
+           "text": "Minister do Spraw Unii Europejskiej,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "k",
+           "path": "par_7/ust_1/pkt_3/lit_k",
+           "text": "Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej.",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "1a",
+       "path": "par_7/ust_1a",
+       "text": "[^3] W przypadku nieobecności Przewodniczącego Komitetu jego kompetencje przysługują Wiceprzewodniczącemu Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1b",
+       "path": "par_7/ust_1b",
+       "text": "[^3] W przypadku usprawiedliwionej nieobecności na posiedzeniu Komitetu członka Komitetu w rozpatrywaniu spraw przez Komitet bierze udział wskazany przez tego członka Komitetu sekretarz stanu albo podsekretarz stanu w urzędzie obsługującym nieobecnego członka Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "W przypadku rozpatrywania na posiedzeniu Komitetu spraw należących do zakresu kompetencji członków Rady Ministrów niewchodzących w skład Komitetu, Przewodniczący Komitetu zaprasza ich do uczestnictwa w posiedzeniu na prawach członka Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "[^4] Przewodniczący Komitetu może zapraszać do udziału w pracach Komitetu, z głosem doradczym, również inne osoby i podmioty niż określone w ust. 1 pkt 2 i 3, ust. 1b oraz ust. 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_7/ust_4",
+       "text": "Sekretarzem Komitetu jest powoływany i odwoływany przez Przewodniczącego Komitetu dyrektor lub zastępca dyrektora komórki organizacyjnej Kancelarii Prezesa Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "[^5] Komitet odbywa posiedzenia w terminach wskazanych przez Przewodniczącego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "(uchylony).[^6]",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8a",
+     "path": "par_8a",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8a/ust_1",
+       "text": "Organ wnioskujący informuje Komitet, za pośrednictwem Sekretarza Komitetu, o potrzebie rozpatrzenia projektu dokumentu rządowego, przekazując informację m.in. o:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_8a/ust_1/pkt_1",
+         "text": "udostępnieniu projektu w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowego Centrum Legislacji, w serwisie Rządowy Proces Legislacyjny;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_8a/ust_1/pkt_2",
+         "text": "wpływie projektu na obszary wskazane w § 2 ust. 2 pkt 1;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_8a/ust_1/pkt_3",
+         "text": "przewidywanych skutkach finansowych projektu w wysokości przekraczającej 500 mln zł rocznie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_8a/ust_1/pkt_4",
+         "text": "innych okolicznościach uzasadniających konieczność rozpatrzenia projektu przez Komitet, w tym o rozbieżności stanowisk ujętych w protokole rozbieżności.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8a/ust_2",
+       "text": "Przewodniczący Komitetu podejmuje decyzję o rozpatrzeniu przez Komitet projektu dokumentu rządowego, o którym mowa w ust. 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "Sekretarz Komitetu opracowuje projekt porządku obrad Komitetu oraz wprowadza w nim zmiany na podstawie informacji uzyskanych od organów wnioskujących oraz Przewodniczącego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "[^7] Projekt porządku obrad Sekretarz Komitetu doręcza osobom uczestniczącym w posiedzeniu Komitetu przed dniem posiedzenia, o którym mowa w § 8 ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_9/ust_3",
+       "text": "[^8] Porządek obrad Komitetu może zostać zmieniony lub uzupełniony przez Przewodniczącego Komitetu z inicjatywy własnej lub na umotywowany wniosek osoby, o której mowa w § 7 ust. 1 pkt 2 i 3, ust. 1b lub ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "(uchylony).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "W posiedzeniach Komitetu stale lub doraźnie uczestniczą, bez prawa udziału w podejmowaniu rozstrzygnięć, osoby zaproszone przez Sekretarza Komitetu, jeżeli uzna on ich udział w posiedzeniu za niezbędny do wykonywania powierzonych im zadań służbowych albo do obsługi prac Komitetu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_12/ust_1",
+       "text": "Posiedzenia Komitetu odbywają się przy obecności większości osób wchodzących w jego skład.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_12/ust_2",
+       "text": "Rozstrzygnięcia Komitetu zapadają w drodze uzgodnienia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_12/ust_3",
+       "text": "W przypadku gdy uzgodnienie nie jest możliwe, rozstrzyga zdanie Przewodniczącego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_12/ust_4",
+       "text": "[^9] Osoby, o których mowa w § 7 ust. 1 pkt 2 i 3, ust. 1b oraz ust. 2, mogą zgłosić na posiedzeniu Komitetu odrębne stanowisko w stosunku do rozstrzygnięcia podjętego na tym posiedzeniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_12/ust_5",
+       "text": "[^9] Sekretarz Komitetu przekazuje osobom, o których mowa w § 7 ust. 1 pkt 2 i 3, ust. 1b oraz ust. 2, Sekretarzowi Rady Ministrów i Sekretarzowi Stałego Komitetu Rady Ministrów przyjęte przez Komitet rozstrzygnięcia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "12a",
+     "path": "par_12a",
+     "text": "[^10]",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_12a/ust_1",
+       "text": "Przewodniczący Komitetu może zarządzić odbycie posiedzenia przy użyciu środków komunikacji elektronicznej, zawiadamiając o tym członków Komitetu oraz osoby i podmioty, o których mowa w § 7 ust. 1b, 2 i 3.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_12a/ust_2",
+       "text": "Odbycie posiedzenia przy użyciu środków komunikacji elektronicznej obejmuje w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_12a/ust_2/pkt_1",
+         "text": "transmisję posiedzenia w czasie rzeczywistym między uczestnikami posiedzenia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_12a/ust_2/pkt_2",
+         "text": "wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia mogą się wypowiadać w toku posiedzenia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_12a/ust_2/pkt_3",
+         "text": "możliwość prowadzenia głosowań dotyczących rozstrzygnięć Komitetu",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "– z zachowaniem niezbędnych zasad bezpieczeństwa."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_12a/ust_3",
+       "text": "Przepisów ust. 1 i 2 nie stosuje się do posiedzeń, których zakres tematyczny może dotyczyć informacji niejawnych w rozumieniu przepisów o ochronie informacji niejawnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "(uchylony).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "Przewodniczący Komitetu albo działający z jego upoważnienia Sekretarz Komitetu może, na wniosek organu wnioskującego albo z inicjatywy własnej, zarządzić rozpatrzenie sprawy w drodze korespondencyjnego uzgodnienia stanowisk (tryb obiegowy).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_15/ust_1",
+       "text": "Komitet może określać sposoby i terminy wykonania prac mających na celu przygotowanie projektu dokumentu rządowego przewidywanego do rozpatrzenia przez Radę Ministrów lub Prezesa Rady Ministrów oraz wskazywać organy odpowiedzialne za ich wykonanie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_15/ust_2",
+       "text": "Uprawnienia, o których mowa w ust. 1, przysługują również Przewodniczącemu Komitetu, jeżeli Komitet ten nie określił sposobu i terminu wykonania odpowiednich prac lub organów odpowiedzialnych za ich wykonanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "15a",
+     "path": "par_15a",
+     "text": "[^11] Organy administracji rządowej oraz podległe im jednostki organizacyjne lub jednostki przez nie nadzorowane, na wniosek Przewodniczącego Komitetu, udzielają Komitetowi, w ramach swoich kompetencji, pomocy przy wykonywaniu jego zadań, w szczególności przedstawiają niezbędne informacje i udostępniają dokumenty.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "[^12] Przewodniczący Komitetu może powoływać zespoły robocze oraz zespoły doradczo-eksperckie, w celu realizacji zadań określonych przez Komitet albo Przewodniczącego Komitetu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "17",
+     "path": "par_17",
+     "text": "Komitet albo jego Przewodniczący może powoływać rzeczoznawców lub ekspertów do opracowania analiz, prognoz, ekspertyz, opinii lub koncepcji i projektów rozwiązań programowych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "18",
+     "path": "par_18",
+     "text": "(uchylony).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "19",
+     "path": "par_19",
+     "text": "W zakresie nieuregulowanym w niniejszym zarządzeniu, do rozpatrywania projektu dokumentu rządowego przez Komitet stosuje się przepisy uchwały nr 190 Rady Ministrów z dnia 29 października 2013 r. – Regulamin pracy Rady Ministrów (M.P. z 2016 r. poz. 1006, z późn. zm.[^13]).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "20",
+     "path": "par_20",
+     "text": "Obsługę techniczno-organizacyjną Komitetu oraz środki związane z jego działalnością zapewnia Kancelaria Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "21",
+     "path": "par_21",
+     "text": "Traci moc zarządzenie nr 24 Prezesa Rady Ministrów z dnia 4 marca 2016 r. w sprawie Komitetu Rozwoju (M.P. poz. 220, 250 i 892).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "22",
+     "path": "par_22",
+     "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia[^14].",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Dodany przez § 1 pkt 1 zarządzenia nr 240 Prezesa Rady Ministrów z dnia 4 grudnia 2020 r. zmieniającego zarządzenie w sprawie Komitetu Ekonomicznego Rady Ministrów (M.P. poz. 1120), które weszło w życie z dniem 8 grudnia 2020 r.",
+  "2": "W brzmieniu ustalonym przez § 1 pkt 2 lit. a zarządzenia, o którym mowa w odnośniku 1.",
+  "3": "Dodany przez § 1 pkt 1 lit. b zarządzenia nr 7 Prezesa Rady Ministrów z dnia 24 stycznia 2020 r. zmieniającego zarządzenie w sprawie Komitetu Ekonomicznego Rady Ministrów (M.P. poz. 101), które weszło w życie z dniem 29 stycznia 2020 r.",
+  "4": "W brzmieniu ustalonym przez § 1 pkt 2 lit. b zarządzenia, o którym mowa w odnośniku 1.",
+  "5": "W brzmieniu ustalonym przez § 1 pkt 2 lit. a zarządzenia, o którym mowa w odnośniku 3.",
+  "6": "Przez § 1 pkt 2 lit. b zarządzenia, o którym mowa w odnośniku 3.",
+  "7": "W brzmieniu ustalonym przez § 1 pkt 3 zarządzenia, o którym mowa w odnośniku 1.",
+  "8": "W brzmieniu ustalonym przez § 1 pkt 3 zarządzenia, o którym mowa w odnośniku 3.",
+  "9": "W brzmieniu ustalonym przez § 1 pkt 4 zarządzenia, o którym mowa w odnośniku 3.",
+  "10": "Dodany przez § 1 pkt 4 zarządzenia, o którym mowa w odnośniku 1.",
+  "11": "Dodany przez § 1 pkt 5 zarządzenia, o którym mowa w odnośniku 1.",
+  "12": "W brzmieniu ustalonym przez § 1 pkt 6 zarządzenia, o którym mowa w odnośniku 1.",
+  "13": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2016 r. poz. 1204, z 2018 r. poz. 114 i 278, z 2019 r. poz. 137 i 1192 oraz z 2020 r. poz. 1113.",
+  "14": "Zarządzenie zostało ogłoszone w dniu 30 września 2016 r."
+ }
+}

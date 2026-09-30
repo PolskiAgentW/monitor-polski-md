@@ -1,0 +1,212 @@
+{
+ "eli": "MP/2015/550",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 12 czerwca 2015 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/550/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 czerwca 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 10 w ust. 1 po pkt 8a dodaje się pkt 8b w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„8b) nadaje bieg petycjom złożonym do Sejmu,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 18 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a) do Spraw Petycji,”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 45 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Prawo wnoszenia poprawek do projektów ustaw w czasie drugiego czytania przysługuje wnioskodawcy, Komisji do Spraw Petycji, grupie co najmniej 15 posłów, przewodniczącemu klubu lub koła lub upoważnionemu przez niego wiceprzewodniczącemu – w imieniu klubu lub koła oraz Radzie Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w dziale II po rozdziale 9 dodaje się rozdział 9a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Rozdział 9a",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Postępowanie w sprawach petycji",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 126b.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Petycję złożoną do Sejmu Marszałek Sejmu kieruje do Komisji do Spraw Petycji, zwanej dalej w niniejszym rozdziale „Komisją”, w celu rozpatrzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Marszałek Sejmu, w trybie i na zasadach określonych w ustawie z dnia 11 lipca 2014 r. o petycjach (Dz. U. poz. 1195), może zarządzić łączne rozpatrywanie petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W przypadku gdy petycja nie spełnia wymogów określonych w art. 2 lub art. 4 ustawy z dnia 11 lipca 2014 r. o petycjach, Marszałek Sejmu, w trybie i na zasadach określonych w tej ustawie, pozostawia petycję bez rozpoznania albo wzywa podmiot wnoszący petycję do uzupełnienia lub wyjaśnienia treści petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Marszałek Sejmu, biorąc pod uwagę terminy określone w przepisach ustawy z dnia 11 lipca 2014 r. o petycjach, wyznacza Komisji termin rozpatrzenia petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 126c.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rozpatrzenie petycji obejmuje przedstawienie petycji przez posła wyznaczonego przez prezydium Komisji, dyskusję oraz rozstrzygnięcie w sprawie sposobu załatwienia petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Komisja może zwrócić się do innych komisji sejmowych o wyrażenie opinii o rozpatrywanej petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Sposobem załatwienia petycji może być w szczególności:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wniesienie przez Komisję projektu ustawy lub uchwały,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wniesienie przez Komisję poprawki lub wniosku do projektu ustawy lub uchwały w czasie jego rozpatrywania przez inną komisję sejmową lub w czasie jego drugiego czytania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) przedstawienie przez Komisję innej komisji sejmowej opinii w sprawie rozpatrywanego przez nią projektu ustawy lub uchwały,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wystąpienie przez Komisję z wnioskiem, o którym mowa w art. 162a ust. 1,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) nieuwzględnienie przez Komisję żądania będącego przedmiotem petycji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W przypadku, o którym mowa w ust. 3 pkt 2, Komisja wskazuje swego przedstawiciela upoważnionego do wniesienia poprawki lub wniosku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 126d. Komisja przekazuje Marszałkowi Sejmu informację o sposobie załatwienia petycji albo o zaistnieniu okoliczności, o których mowa w art. 12 ust. 1 ustawy z dnia 11 lipca 2014 r. o petycjach, wraz z uzasadnieniem.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 126e. Marszałek Sejmu zawiadamia podmiot wnoszący petycję o sposobie jej załatwienia, a w przypadku, o którym mowa w art. 12 ust. 1 ustawy z dnia 11 lipca 2014 r. o petycjach – o poprzednim sposobie jej załatwienia, wraz z uzasadnieniem.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 126f. Informacje, o których mowa w art. 8 i art. 14 ustawy z dnia 11 lipca 2014 r. o petycjach, podlegają udostępnieniu w Systemie Informacyjnym Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 126g. W przypadku gdy postępowanie w sprawie petycji nie zostanie zakończone przed upływem kadencji Sejmu, jest ono prowadzone przez Komisję w następnej kadencji Sejmu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w załączniku po pkt 1 dodaje się pkt 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a) do Spraw Petycji należy rozpatrywanie petycji złożonych do Sejmu;”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem 6 września 2015 r., z wyjątkiem art. 1 pkt 2 i 5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: R. Sikorski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079 oraz z 2015 r. poz. 31."
+ }
+}

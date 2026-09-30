@@ -1,0 +1,107 @@
+{
+ "eli": "MP/2018/216",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 20 lutego 2018 r. w sprawie kwoty najniższej emerytury i renty, dodatku pielęgnacyjnego i dodatku dla sierot zupełnych oraz kwot maksymalnych zmniejszeń emerytur i rent",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/216/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lutego 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kwoty najniższej emerytury i renty, dodatku pielęgnacyjnego i dodatku dla sierot zupełnych oraz kwot maksymalnych zmniejszeń emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 94 ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2017 r. poz. 1383, 1386 i 2120 oraz z 2018 r. poz. 138 i 357) ogłasza się, że od dnia 1 marca 2018 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kwoty najniższej emerytury i renty wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "1029,80 zł miesięcznie – emerytura, renta rodzinna i renta dla osób całkowicie niezdolnych do pracy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "772,35 zł miesięcznie – renta dla osób częściowo niezdolnych do pracy;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "kwoty dodatków do emerytury i renty wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "pielęgnacyjnego – 215,84 zł miesięcznie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "dla sierot zupełnych – 405,67 zł miesięcznie;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "kwoty maksymalnych zmniejszeń emerytur i rent w razie osiągania przychodu w kwocie przekraczającej 70% przeciętnego miesięcznego wynagrodzenia za kwartał kalendarzowy, ostatnio ogłoszonego przez Prezesa Głównego Urzędu Statystycznego, nie wyższej jednak niż 130% tego wynagrodzenia, wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "582,38 zł – dla emerytur lub rent z tytułu całkowitej niezdolności do pracy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "436,82 zł – dla rent z tytułu częściowej niezdolności do pracy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "495,06 zł – dla rent rodzinnych, do których uprawniona jest jedna osoba.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: G. Uścińska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

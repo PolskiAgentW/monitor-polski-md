@@ -1,0 +1,571 @@
+{
+ "eli": "MP/2015/148",
+ "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 26 stycznia 2015 r. w sprawie ogłoszenia wykazu walut wymienialnych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/148/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA NARODOWEGO BANKU POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 stycznia 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia wykazu walut wymienialnych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ustawy z dnia 27 lipca 2002 r. – Prawo dewizowe (Dz. U. z 2012 r. poz. 826 oraz z 2013 r. poz. 1036) ogłasza się, co następuje:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Walutami wymienialnymi są waluty obce, wymienione w załączniku do obwieszczenia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Obwieszczenie obowiązuje od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Narodowego Banku Polskiego: M. Belka"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Narodowego Banku Polskiego z dnia 26 stycznia 2015 r. (poz. 148)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ WALUT WYMIENIALNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Nazwa waluty Kod literowy waluty"
+    },
+    {
+     "type": "text",
+     "text": "¹²³"
+    },
+    {
+     "type": "text",
+     "text": "1 ariary (Madagaskar) MGA"
+    },
+    {
+     "type": "text",
+     "text": "2 balboa (Panama) PAB"
+    },
+    {
+     "type": "text",
+     "text": "3 bat (Tajlandia) THB"
+    },
+    {
+     "type": "text",
+     "text": "4 boliwar (Wenezuela) VEF"
+    },
+    {
+     "type": "text",
+     "text": "5 boliwiano (Boliwia) BOB"
+    },
+    {
+     "type": "text",
+     "text": "6 colon kostarykański CRC"
+    },
+    {
+     "type": "text",
+     "text": "7 colon salwadorski SVC"
+    },
+    {
+     "type": "text",
+     "text": "8 cordoba oro (Nikaragua) NIO"
+    },
+    {
+     "type": "text",
+     "text": "9 dalasi (Gambia) GMD"
+    },
+    {
+     "type": "text",
+     "text": "10 denar (Macedonia) MKD"
+    },
+    {
+     "type": "text",
+     "text": "11 dinar algierski DZD"
+    },
+    {
+     "type": "text",
+     "text": "12 dinar bahrajski BHD"
+    },
+    {
+     "type": "text",
+     "text": "13 dinar jordański JOD"
+    },
+    {
+     "type": "text",
+     "text": "14 dinar kuwejcki KWD"
+    },
+    {
+     "type": "text",
+     "text": "15 dinar libijski LYD"
+    },
+    {
+     "type": "text",
+     "text": "16 dinar serbski RSD"
+    },
+    {
+     "type": "text",
+     "text": "17 dinar tunezyjski TND"
+    },
+    {
+     "type": "text",
+     "text": "18 dirham marokański MAD"
+    },
+    {
+     "type": "text",
+     "text": "19 dirham ZEA (Zjednoczone Emiraty Arabskie) AED"
+    },
+    {
+     "type": "text",
+     "text": "20 dolar amerykański USD"
+    },
+    {
+     "type": "text",
+     "text": "21 dolar australijski AUD"
+    },
+    {
+     "type": "text",
+     "text": "22 dolar bahamski BSD"
+    },
+    {
+     "type": "text",
+     "text": "23 dolar barbadoski BBD"
+    },
+    {
+     "type": "text",
+     "text": "24 dolar belizeński BZD"
+    },
+    {
+     "type": "text",
+     "text": "25 dolar brunejski BND"
+    },
+    {
+     "type": "text",
+     "text": "26 dolar Fidżi FJD"
+    },
+    {
+     "type": "text",
+     "text": "27 dolar gujański GYD"
+    },
+    {
+     "type": "text",
+     "text": "28 dolar Hongkongu HKD"
+    },
+    {
+     "type": "text",
+     "text": "29 dolar jamajski JMD ¹²³"
+    },
+    {
+     "type": "text",
+     "text": "30 dolar kanadyjski CAD"
+    },
+    {
+     "type": "text",
+     "text": "31 dolar namibijski NAD"
+    },
+    {
+     "type": "text",
+     "text": "32 dolar nowozelandzki NZD"
+    },
+    {
+     "type": "text",
+     "text": "33 dolar singapurski SGD"
+    },
+    {
+     "type": "text",
+     "text": "34 dolar surinamski SRD"
+    },
+    {
+     "type": "text",
+     "text": "35 dolar Trynidadu i Tobago TTD"
+    },
+    {
+     "type": "text",
+     "text": "36 dolar wschodniokaraibski[^1] XCD"
+    },
+    {
+     "type": "text",
+     "text": "37 dolar Wysp Salomona SBD"
+    },
+    {
+     "type": "text",
+     "text": "38 dolar Zimbabwe ZWL"
+    },
+    {
+     "type": "text",
+     "text": "39 dong (Wietnam) VND"
+    },
+    {
+     "type": "text",
+     "text": "40 dram (Armenia) AMD"
+    },
+    {
+     "type": "text",
+     "text": "41 escudo Republiki Zielonego Przylądka CVE"
+    },
+    {
+     "type": "text",
+     "text": "42 euro EUR"
+    },
+    {
+     "type": "text",
+     "text": "43 florin arubański AWG"
+    },
+    {
+     "type": "text",
+     "text": "44 forint (Węgry) HUF"
+    },
+    {
+     "type": "text",
+     "text": "45 frank CFA BCEAO[^2] XOF"
+    },
+    {
+     "type": "text",
+     "text": "46 frank CFA BEAC[^3] XAF"
+    },
+    {
+     "type": "text",
+     "text": "47 frank Dżibuti DJF"
+    },
+    {
+     "type": "text",
+     "text": "48 frank gwinejski GNF"
+    },
+    {
+     "type": "text",
+     "text": "49 frank Komorów KMF"
+    },
+    {
+     "type": "text",
+     "text": "50 frank kongijski (Demokratyczna Republika Konga) CDF"
+    },
+    {
+     "type": "text",
+     "text": "51 frank rwandyjski RWF"
+    },
+    {
+     "type": "text",
+     "text": "52 frank szwajcarski CHF"
+    },
+    {
+     "type": "text",
+     "text": "53 funt egipski EGP"
+    },
+    {
+     "type": "text",
+     "text": "54 funt libański LBP"
+    },
+    {
+     "type": "text",
+     "text": "55 funt sudański SDG"
+    },
+    {
+     "type": "text",
+     "text": "56 funt szterling GBP"
+    },
+    {
+     "type": "text",
+     "text": "57 Ghana cedi GHS"
+    },
+    {
+     "type": "text",
+     "text": "58 gourde (Haiti) HTG"
+    },
+    {
+     "type": "text",
+     "text": "59 guarani (Paragwaj) PYG"
+    },
+    {
+     "type": "text",
+     "text": "60 gulden Antyli Holenderskich[^4] ANG"
+    },
+    {
+     "type": "text",
+     "text": "61 hrywna (Ukraina) UAH"
+    },
+    {
+     "type": "text",
+     "text": "62 jen (Japonia) JPY"
+    },
+    {
+     "type": "text",
+     "text": "63 kina (Papua-Nowa Gwinea) PGK"
+    },
+    {
+     "type": "text",
+     "text": "64 korona czeska CZK ¹²³"
+    },
+    {
+     "type": "text",
+     "text": "65 korona duńska DKK"
+    },
+    {
+     "type": "text",
+     "text": "66 korona islandzka ISK"
+    },
+    {
+     "type": "text",
+     "text": "67 korona norweska NOK"
+    },
+    {
+     "type": "text",
+     "text": "68 korona szwedzka SEK"
+    },
+    {
+     "type": "text",
+     "text": "69 kuna (Chorwacja) HRK"
+    },
+    {
+     "type": "text",
+     "text": "70 kwacha malawijska MWK"
+    },
+    {
+     "type": "text",
+     "text": "71 kwacha zambijska ZMW"
+    },
+    {
+     "type": "text",
+     "text": "72 lari (Gruzja) GEL"
+    },
+    {
+     "type": "text",
+     "text": "73 lej Mołdawii MDL"
+    },
+    {
+     "type": "text",
+     "text": "74 lej rumuński RON"
+    },
+    {
+     "type": "text",
+     "text": "75 lempira (Honduras) HNL"
+    },
+    {
+     "type": "text",
+     "text": "76 leone (Sierra Leone) SLL"
+    },
+    {
+     "type": "text",
+     "text": "77 lew (Bułgaria) BGN"
+    },
+    {
+     "type": "text",
+     "text": "78 lilangeni (Suazi) SZL"
+    },
+    {
+     "type": "text",
+     "text": "79 lira turecka TRY"
+    },
+    {
+     "type": "text",
+     "text": "80 loti (Lesotho) LSL"
+    },
+    {
+     "type": "text",
+     "text": "81 manat azerbejdżański AZN"
+    },
+    {
+     "type": "text",
+     "text": "82 nowy izraelski szekel ILS"
+    },
+    {
+     "type": "text",
+     "text": "83 nuevo sol (Peru) PEN"
+    },
+    {
+     "type": "text",
+     "text": "84 ouguiya (Mauretania) MRO"
+    },
+    {
+     "type": "text",
+     "text": "85 pa'anga (Tonga) TOP"
+    },
+    {
+     "type": "text",
+     "text": "86 peso argentyńskie ARS"
+    },
+    {
+     "type": "text",
+     "text": "87 peso chilijskie CLP"
+    },
+    {
+     "type": "text",
+     "text": "88 peso dominikańskie DOP"
+    },
+    {
+     "type": "text",
+     "text": "89 peso filipińskie PHP"
+    },
+    {
+     "type": "text",
+     "text": "90 peso kolumbijskie COP"
+    },
+    {
+     "type": "text",
+     "text": "91 peso meksykańskie MXN"
+    },
+    {
+     "type": "text",
+     "text": "92 peso urugwajskie UYU"
+    },
+    {
+     "type": "text",
+     "text": "93 pula (Botswana) BWP"
+    },
+    {
+     "type": "text",
+     "text": "94 quetzal (Gwatemala) GTQ"
+    },
+    {
+     "type": "text",
+     "text": "95 rand (Republika Południowej Afryki) ZAR"
+    },
+    {
+     "type": "text",
+     "text": "96 real (Brazylia) BRL"
+    },
+    {
+     "type": "text",
+     "text": "97 rial irański IRR"
+    },
+    {
+     "type": "text",
+     "text": "98 rial jemeński YER"
+    },
+    {
+     "type": "text",
+     "text": "99 rial katarski QAR ¹²³"
+    },
+    {
+     "type": "text",
+     "text": "100 rial omański OMR"
+    },
+    {
+     "type": "text",
+     "text": "101 rial saudyjski SAR"
+    },
+    {
+     "type": "text",
+     "text": "102 riel (Kambodża) KHR"
+    },
+    {
+     "type": "text",
+     "text": "103 ringgit (Malezja) MYR"
+    },
+    {
+     "type": "text",
+     "text": "104 rubel białoruski BYR"
+    },
+    {
+     "type": "text",
+     "text": "105 rubel rosyjski RUB"
+    },
+    {
+     "type": "text",
+     "text": "106 rupia indonezyjska IDR"
+    },
+    {
+     "type": "text",
+     "text": "107 rupia indyjska INR"
+    },
+    {
+     "type": "text",
+     "text": "108 rupia lankijska LKR"
+    },
+    {
+     "type": "text",
+     "text": "109 rupia Mauritiusu MUR"
+    },
+    {
+     "type": "text",
+     "text": "110 rupia nepalska NPR"
+    },
+    {
+     "type": "text",
+     "text": "111 rupia pakistańska PKR"
+    },
+    {
+     "type": "text",
+     "text": "112 rupia seszelska SCR"
+    },
+    {
+     "type": "text",
+     "text": "113 som (Kirgistan) KGS"
+    },
+    {
+     "type": "text",
+     "text": "114 somoni (Tadżykistan) TJS"
+    },
+    {
+     "type": "text",
+     "text": "115 sum (Uzbekistan) UZS"
+    },
+    {
+     "type": "text",
+     "text": "116 szyling kenijski KES"
+    },
+    {
+     "type": "text",
+     "text": "117 szyling tanzański TZS"
+    },
+    {
+     "type": "text",
+     "text": "118 szyling ugandyjski UGX"
+    },
+    {
+     "type": "text",
+     "text": "119 taka (Bangladesz) BDT"
+    },
+    {
+     "type": "text",
+     "text": "120 tala (Samoa) WST"
+    },
+    {
+     "type": "text",
+     "text": "121 tenge (Kazachstan) KZT"
+    },
+    {
+     "type": "text",
+     "text": "122 tugrik (Mongolia) MNT"
+    },
+    {
+     "type": "text",
+     "text": "123 vatu (Vanuatu) VUV"
+    },
+    {
+     "type": "text",
+     "text": "124 won południowokoreański KRW"
+    },
+    {
+     "type": "text",
+     "text": "125 yuan renminbi (Chiny) CNY"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Anguilla, Antigua i Barbuda, Dominika, Grenada, Montserrat, Saint Kitts i Nevis, Saint Lucia, Saint Vincent i Grenadyny.",
+  "2": "Benin, Burkina Faso, Gwinea Bissau, Mali, Niger, Senegal, Togo, Wybrzeże Kości Słoniowej.",
+  "3": "Czad, Gabon, Gwinea Równikowa, Kamerun, Kongo, Republika Środkowoafrykańska.",
+  "4": "Curaçao i Sint Maarten."
+ }
+}

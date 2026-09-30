@@ -1,0 +1,73 @@
+{
+ "eli": "MP/2016/349",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 31 marca 2016 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/349/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "Uchwała"
+  },
+  {
+   "type": "text",
+   "text": "Sejmu RzeczypoSpolitej polSkiej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 marca 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) w art. 33a:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Projekt uchwały w sprawie ustanowienia danego roku rokiem osoby albo wydarzenia może być wniesiony do dnia 30 kwietnia poprzedniego roku.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Komisja Kultury i Środków Przekazu do dnia 31 maja przedstawia Sejmowi sprawozdania o projektach, o których mowa w ust. 1. Komisja może wnioskować o przyjęcie najwyżej pięciu projektów, o których mowa w ust. 1.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079 oraz z 2015 r. poz. 31, 550, 1130, 1136 i 1212."
+ }
+}

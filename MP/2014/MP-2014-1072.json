@@ -1,0 +1,1753 @@
+{
+ "eli": "MP/2014/1072",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 13 listopada 2014 r. zmieniająca uchwałę w sprawie wytycznych dla komisarzy wyborczych dotyczących sprawdzania prawidłowości ustalenia wyników głosowania i wyników wyborów do organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r., i ogłaszania wyników tych wyborów na obszarze województwa",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/1072/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 listopada 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wytycznych dla komisarzy wyborczych dotyczących sprawdzania prawidłowości ustalenia wyników głosowania i wyników wyborów do organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r., i ogłaszania wyników tych wyborów na obszarze województwa"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 161 § 1 i art. 168 § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) w związku z art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, z późn. zm.[^2]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 4 listopada 2014 r. w sprawie wytycznych dla komisarzy wyborczych dotyczących sprawdzania prawidłowości ustalenia wyników głosowania i wyników wyborów do organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r., i ogłaszania wyników tych wyborów na obszarze województwa (M.P. poz. 1054) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "załącznik nr 2 otrzymuje brzmienie określone w załączniku nr 1 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "załącznik nr 3 otrzymuje brzmienie określone w załączniku nr 2 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "załącznik nr 4 otrzymuje brzmienie określone w załączniku nr 3 do niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 13 listopada 2014 r. (poz. 1072) Załącznik nr 1 WZÓR OBWIESZCZENIE",
+   "body": [
+    {
+     "type": "text",
+     "text": "KOMISARZA WYBORCZEGO w ............................................ z dnia ........................... 2014 r. o wynikach wyborów do rad na obszarze województwa ........................... (nazwa)"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 168 § 1 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1_2]) w związku z art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. Nr 41, poz. 361, z późn. zm.[^2_2]) * Komisarz Wyborczy w ................................. podaje do publicznej wiadomości wyniki wyborów do rad na obszarze województwa ................................., przeprowadzonych w dniu 16 listopada 2014 r."
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "Dane zbiorcze"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Dane ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wybory przeprowadzono do ........ rad, z czego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "do ....... rad gmin, z tego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_1/lit_a",
+         "text": "do ......... rad gmin w gminach niebędących miastami na prawach powiatu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_1/lit_b",
+         "text": "do ......... rad miast w miastach na prawach powiatu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "do ........... rad dzielnic m.st. Warszawy; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "do ......... rad powiatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "do Sejmiku Województwa ....................................... .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wybierano łącznie .......... radnych, z czego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "........... radnych rad gmin, z tego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_1/lit_a",
+         "text": ".......... radnych w gminach niebędących miastami na prawach powiatu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_1/lit_b",
+         "text": ".......... radnych w miastach na prawach powiatu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "........... radnych rad dzielnic m.st. Warszawy; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "........... radnych rad powiatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "........... radnych Sejmiku Województwa ....................................... .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wybrano łącznie ........... radnych, z czego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "......... radnych rad gmin, z tego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_1/lit_a",
+         "text": ".......... radnych w gminach niebędących miastami na prawach powiatu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_1/lit_b",
+         "text": ".......... radnych w miastach na prawach powiatu;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "........... radnych rad dzielnic m.st. Warszawy; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "........... radnych rad powiatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "........... radnych Sejmiku Województwa ....................................... .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wybory przeprowadzono w .......... okręgach wyborczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wyborów nie przeprowadzono w ........ okręgach wyborczych, w których nie zarejestrowano żadnej listy kandydatów na radnych. * 5. We wszystkich okręgach wyborczych zarejestrowano listy kandydatów na radnych. * 6. Głosowanie przeprowadzono w ......... obwodach głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Głosowania nie przeprowadzono w .............. okręgach wyborczych (okręgu wyborczym), w których(-rym) liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych (tym okręgu wyborczym). W związku z tym ......... radny(-ni, -nych) uzyskał(-li, -ło) mandat(-y) bez głosowania. * 8. Ogółem pozostał(-ły, -ło) nieobsadzony(-ny, -nych) ........ mandat(-y, -ów), co stanowi .....% ogólnej liczby mandatów. *",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Wybory do rad gmin w gminach niebędących miastami na prawach powiatu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wybory przeprowadzono do ........... rad gmin, w których utworzono .......... okręgów wyborczych (okręgi wyborcze).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wybierano ......... radnych spośród ......... kandydatów zgłoszonych przez …. komitety wyborcze (komitetów wyborczych), w tym …. komitety wyborcze (komitetów wyborczych) utworzone(-nych) jedynie w celu zgłoszenia kandydatów na radnych do rady gminy w gminie niebędącej miastem na prawach powiatu. Wśród kandydatów było … obywateli (był 1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Wybrano ......... radnych, w tym … obywateli (1 obywatela) Unii Europejskiej niebędących obywatelami polskimi (niebędącego obywatelem polskim). * 4. Uprawnionych do głosowania było ........... osób, w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 5. Karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 6. W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Głosów ważnych oddano ............, to jest ..........% ogólnej liczby głosów oddanych. 8. Głosów nieważnych oddano ..........., to jest ..........% ogólnej liczby głosów oddanych. 9. Głosowanie przeprowadzono w ........... obwodach głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Głosowania nie przeprowadzono w ............ okręgach wyborczych (okręgu wyborczym), w których(-rym) zgłoszono jedną listę kandydatów (jednego kandydata). W związku z tym ........ radny(-ni, -nych) uzyskał(-li, -ło) mandat(-ty) bez głosowania. * 11. Wyborów nie przeprowadzono w ........ okręgach wyborczych (okręgu wyborczym), w których(-rym) nie zarejestrowano żadnej listy kandydatów (żadnego kandydata). * 12. Ogółem pozostał(-ły, -ło) nieobsadzony(-ne, -nych) ...... mandat(-ty, -tów), co stanowi .....% ogólnej liczby mandatów. *",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 3",
+     "text": "Wybory do rad miast w miastach na prawach powiatu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wybory przeprowadzono do ........... rad miast, w których utworzono .......... okręgów wyborczych (okręgi wyborcze).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wybierano ......... radnych spośród ......... kandydatów zgłoszonych na ........... listach kandydatów przez …. komitety wyborcze (komitetów wyborczych). Wśród kandydatów było … obywateli (był 1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Wybrano ......... radnych, w tym … obywateli (1 obywatela) Unii Europejskiej niebędących obywatelami polskimi (niebędącego obywatelem polskim). * 4. Uprawnionych do głosowania było ........... osób, w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 5. Karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 6. W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest .........% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Głosów ważnych oddano ............, to jest ..........% ogólnej liczby głosów oddanych. 8. Głosów nieważnych oddano ..........., to jest ..........% ogólnej liczby głosów oddanych. 9. Głosowanie przeprowadzono w ........... obwodach głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Głosowania nie przeprowadzono w ............ okręgach wyborczych (okręgu wyborczym), w których(-rym) liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych (tym okręgu wyborczym). W związku z tym ........ radny(-ni, -nych) uzyskał(-li, -ło) mandat(-ty) bez głosowania. * 11. Wyborów nie przeprowadzono w ........ okręgach wyborczych (okręgu wyborczym), w których(-rym) nie zarejestrowano żadnej listy kandydatów na radnych. * 12. Ogółem pozostał(-ły, -ło) nieobsadzony(-ne, -nych) ...... mandat(-ty, -tów), co stanowi …....% ogólnej liczby mandatów. *",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 4",
+     "text": "Wybory do rad dzielnic m.st. Warszawy *"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wybory przeprowadzono do .......... rad dzielnic m.st. Warszawy, w których utworzono ........... okręgów wyborczych (okręgi wyborcze).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wybierano ......... radnych spośród ......... kandydatów zgłoszonych na ........... listach kandydatów przez …. komitety wyborcze (komitetów wyborczych). Wśród kandydatów było … obywateli (był 1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Wybrano ......... radnych, w tym … obywateli (1 obywatela) Unii Europejskiej niebędących obywatelami polskimi (niebędącego obywatelem polskim). * 4. Uprawnionych do głosowania było ........... osób, w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 5. Karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 6. W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Głosów ważnych oddano ............, to jest ..........% ogólnej liczby głosów oddanych. 8. Głosów nieważnych oddano ..........., to jest ..........% ogólnej liczby głosów oddanych. 9. Głosowanie przeprowadzono w ........... obwodach głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Głosowania nie przeprowadzono w ............ okręgach wyborczych (okręgu wyborczym), w których(-rym) liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych (tym okręgu wyborczym). W związku z tym ........ radny(-ni, -nych) uzyskał(-li, -ło) mandat(-ty) bez głosowania. * 11. Wyborów nie przeprowadzono w ........ okręgach wyborczych (okręgu wyborczym), w których(-rym) nie zarejestrowano żadnej listy kandydatów na radnych. * 12. Ogółem pozostał(-ły, -ło) nieobsadzony(-ne, -nych) ...... mandat(-ty, -tów), co stanowi .....% ogólnej liczby mandatów. *",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 5",
+     "text": "Wybory do rad powiatów"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wybory przeprowadzono do ....... rad powiatów, w których utworzono ...... okręgów wyborczych (okręgi wyborcze).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wybierano ......... radnych spośród ......... kandydatów zgłoszonych na ........... listach kandydatów przez …. komitety wyborcze (komitetów wyborczych).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wybrano ......... radnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Uprawnionych do głosowania było ........... osób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Karty do głosowania wydano ……. osobom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Głosów ważnych oddano ............, to jest ..........% ogólnej liczby głosów oddanych. 8. Głosów nieważnych oddano ..........., to jest ..........% ogólnej liczby głosów oddanych. 9. Głosowanie przeprowadzono w ........... obwodach głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Głosowania nie przeprowadzono w ............ okręgach wyborczych (okręgu wyborczym), w których(-rym) liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych (tym okręgu wyborczym). W związku z tym ........ radny(-ni, -nych) uzyskał(-li, -ło) mandat(-ty) bez głosowania. * 11. Wyborów nie przeprowadzono w ........ okręgach wyborczych (okręgu wyborczym), w których(-rym) nie zarejestrowano żadnej listy kandydatów na radnych. * 12. Ogółem pozostał(-ły, -ło) nieobsadzony(-ne, -nych) ...... mandat(-ty, -tów), co stanowi .....% ogólnej liczby mandatów. *",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 6",
+     "text": "Wybory do Sejmiku Województwa .................................. (nazwa)"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dla przeprowadzenia wyborów do Sejmiku Województwa .......................... utworzono ......... okręgów wyborczych (okręgi wyborcze).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wybierano ......... radnych spośród ......... kandydatów zgłoszonych na ........... listach kandydatów przez …. komitety wyborcze (komitetów wyborczych).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Wybrano ......... radnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Uprawnionych do głosowania było ........... osób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Karty do głosowania wydano ……. osobom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Głosów ważnych oddano ............, to jest ..........% ogólnej liczby głosów oddanych. 8. Głosów nieważnych oddano ..........., to jest ..........% ogólnej liczby głosów oddanych. 9. Głosowanie przeprowadzono w ........... obwodach głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Głosowania nie przeprowadzono w ............ okręgach wyborczych (okręgu wyborczym), w których(-rym) liczba zarejestrowanych kandydatów była równa lub mniejsza od liczby radnych wybieranych w tych okręgach wyborczych (tym okręgu wyborczym). W związku z tym ........ radny(-ni, -nych) uzyskał(-li, -ło) mandat(-ty) bez głosowania. * 11. Wyborów nie przeprowadzono w ........ okręgach wyborczych (okręgu wyborczym), w których(-rym) nie zarejestrowano żadnej listy kandydatów na radnych. * 12. Ogółem pozostał(-ły, -ło) nieobsadzony(-ne, -nych) ...... mandat(-ty, -tów), co stanowi .....% ogólnej liczby mandatów. * Część II Szczegółowe wyniki wyborów",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Dział I",
+     "text": "Wybory do rad gmin w gminach niebędących miastami na prawach powiatu **"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Wybory do Rady Gminy ………………. (nazwa gminy)"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 1",
+     "text": "Dane ogólne 1. Dla wyboru Rady utworzono ........ jednomandatowych okręgów wyborczych (jednomandatowe okręgi wyborcze)."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Liczba osób uprawnionych do głosowania wynosiła .............. , w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 4. W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania. * 5. Wyborów nie przeprowadzono w ........ okręgach(-gu) wyborczych(-czym) z powodu braku zarejestrowanej listy kandydatów na radnych, w związku z czym ....... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). * 6. Głosowania nie przeprowadzono w ....... okręgu wyborczym (okręgach wyborczych), tj. okręgu(-gach) nr ....., nr ....., nr ....., w którym(-rych) zarejestrowano jednego kandydata. * 7. Po obsadzeniu mandatów bez głosowania w okręgu(-gach) nr ....., nr ......, nr ......, ogółem pozostał(-ły, -ło) ........... mandat(-ty, -tów) nieobsadzony(-ne, -nych). *",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 2",
+     "text": "Wyniki wyborów w poszczególnych okręgach 1. Okręg wyborczy nr 1:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "wybory ........................................ ;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "głosowanie ......................................... ;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "liczba osób uprawnionych do głosowania wynosiła .............. , w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim); *",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim); *",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "liczba kart ważnych (osób, które wzięły udział w głosowaniu) wyniosła ............. ; *",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "głosów ważnych oddano ................ ; *",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "radnym został wybrany (została wybrana): * ― ......................................................................................................... , (nazwisko i imię-imiona kandydata)",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "z listy nr ............. .....................................................................................................; (skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "w okręgu mandat pozostał nieobsadzony. * 2. Okręg wyborczy nr 2: …",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Wybory do Rady Gminy ………………. (nazwa gminy)"
+    },
+    {
+     "type": "text",
+     "text": "..."
+    },
+    {
+     "type": "heading",
+     "label": "Dział II",
+     "text": "Wybory do rad miast w miastach na prawach powiatu **"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Wybory do Rady Miasta ………………. (nazwa miasta)"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 1",
+     "text": "Dane ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dla wyboru Rady utworzono ........ okręgów wyborczych (okręgi wyborcze), w których łącznie wybierano ........ radnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Liczba osób uprawnionych do głosowania wynosiła ............., w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 4. W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania. * 5. Wyborów nie przeprowadzono w ........ okręgach(-gu) wyborczych(-czym) z powodu braku zarejestrowanych(-nej) list(-ty) kandydatów na radnych, w związku z czym ....... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). *",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Głosowania nie przeprowadzono w ....... okręgu wyborczym (okręgach wyborczych), tj. okręgu(-gach) nr ....., nr ....., nr ....., w którym(-rych) liczba zarejestrowanych kandydatów była mniejsza lub równa liczbie mandatów w tym okręgu (tych okręgach). * 7. Po obsadzeniu mandatów bez głosowania w okręgu(-gach) nr ....., nr ......, nr ......, ogółem pozostał(-ły, -ło) ........... mandat(-ty, -tów) nieobsadzony(-ne, -nych). * 8. Warunki uprawniające do uczestniczenia w podziale mandatów spełniły następujące listy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "lista nr ........ ................................................................................... ; (skrót nazwy komitetu wyborczego)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "lista nr ........ ................................................................................... ; lista nr ........ ................................................................................... .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 2",
+     "text": "Wyniki wyborów w poszczególnych okręgach"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Okręg wyborczy nr 1 obejmujący ......... mandatów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "wybory ........................................ ; (wpisać, czy się odbyły, czy nie)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "głosowanie ........................................... ; (wpisać, czy przeprowadzono, czy nie)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "liczba osób uprawnionych do głosowania wynosiła .............. , w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim); *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim); *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "ogółem głosów oddano (liczba kart ważnych) ............. ; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "głosów ważnych oddano ................ ; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "komitety wyborcze uczestniczące w podziale mandatów uzyskały następujące liczby mandatów: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_7/lit_a",
+         "text": "lista nr ......... ― ............................................................ uzyskała ...................",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "mandat(-ty,-tów); radnymi z tej listy zostali wybrani: ― ................................................................................................ ,"
+        },
+        {
+         "type": "text",
+         "text": "― ................................................................................................ , ― ................................................................................................ , ................................................................................................ ,"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_7/lit_b",
+         "text": "lista nr ......... ― ............................................................ uzyskała ................",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "mandat(-ty,-tów); radnymi z tej listy zostali wybrani: ― ................................................................................................ ;"
+        },
+        {
+         "type": "text",
+         "text": "(nazwisko i imię-imiona kandydata)"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "w okręgu .................... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "w okręgu wszystkie mandaty zostały obsadzone. * 2. Okręg wyborczy nr ................ obejmujący ................. mandatów: …",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Wybory do Rady Miasta ………………. (nazwa miasta)"
+    },
+    {
+     "type": "text",
+     "text": "…"
+    },
+    {
+     "type": "heading",
+     "label": "Dział III",
+     "text": "Wybory do rad dzielnic m.st. Warszawy *, **"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Wybory do Rady Dzielnicy ............................. m.st. Warszawy (nazwa dzielnicy)"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 1",
+     "text": "Dane ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dla wyboru Rady utworzono ........ okręgów wyborczych (okręgi wyborcze), w których łącznie wybierano ........ radnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Liczba osób uprawnionych do głosowania wynosiła ............., w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 4. W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania. * 5. Wyborów nie przeprowadzono w ........ okręgach(-gu) wyborczych(-czym) z powodu braku zarejestrowanych(-nej) list(-ty) kandydatów na radnych, w związku z czym ....... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). * 6. Głosowania nie przeprowadzono w ....... okręgu wyborczym (okręgach wyborczych), tj. okręgu(-gach) nr ....., nr ....., nr ....., w którym(-rych) liczba zarejestrowanych kandydatów była mniejsza lub równa liczbie mandatów w tym okręgu (tych okręgach). * 7. Po obsadzeniu mandatów bez głosowania w okręgu(-gach) nr ....., nr ......, nr ......, ogółem pozostał(-ły, -ło) ........... mandat(-ty, -tów) nieobsadzony(-ne, -nych). * 8. Warunki uprawniające do uczestniczenia w podziale mandatów spełniły następujące listy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "lista nr ........ ................................................................................... ; (skrót nazwy komitetu wyborczego)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "lista nr ........ ................................................................................... ; lista nr ........ ................................................................................... .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 2",
+     "text": "Wyniki wyborów w poszczególnych okręgach"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Okręg wyborczy nr 1 obejmujący ......... mandatów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "wybory ........................................ ; (wpisać, czy się odbyły, czy nie)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "głosowanie .......................................... ; (wpisać, czy przeprowadzono, czy nie)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "liczba osób uprawnionych do głosowania wynosiła .............. , w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim); *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim); *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "ogółem głosów oddano (liczba kart ważnych) ............. ; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "głosów ważnych oddano ................ ; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "komitety wyborcze uczestniczące w podziale mandatów uzyskały następujące liczby mandatów: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_7/lit_a",
+         "text": "lista nr ......... ― ............................................................ uzyskała .................... (skrót nazwy komitetu wyborczego) (liczba mandatów)",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "mandat(-ty,-tów); radnymi z tej listy zostali wybrani: ― ................................................................................................ ,"
+        },
+        {
+         "type": "text",
+         "text": "― ................................................................................................ , ― ................................................................................................ , ................................................................................................ ,"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_7/lit_b",
+         "text": "lista nr ......... ― ............................................................ uzyskała ................",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "mandat(-ty,-tów); radnymi z tej listy zostali wybrani: ― ................................................................................................ ;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "w okręgu .................... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "w okręgu wszystkie mandaty zostały obsadzone. * 2. Okręg wyborczy nr ................ obejmujący ................. mandatów: …",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Wybory do Rady Dzielnicy............................. m. st. Warszawy"
+    },
+    {
+     "type": "text",
+     "text": "…"
+    },
+    {
+     "type": "heading",
+     "label": "Dział IV",
+     "text": "Wybory do rad powiatów **"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Wybory do Rady Powiatu .................................................."
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 1",
+     "text": "Dane ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dla wyboru Rady utworzono ........ okręgów wyborczych (okręgi wyborcze), w których łącznie wybierano ........ radnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Liczba osób uprawnionych do głosowania wynosiła ............. . * 3. Karty do głosowania wydano ……. osobom. * 4. W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania. * 5. Wyborów nie przeprowadzono w ........ okręgach(-gu) wyborczych(-czym) z powodu braku zarejestrowanych(-nej) list(-ty) kandydatów na radnych, w związku z czym ....... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). * 6. Głosowania nie przeprowadzono w ....... okręgu wyborczym (okręgach wyborczych), tj. okręgu(-gach) nr ....., nr ....., nr ....., w którym(-rych) liczba zarejestrowanych kandydatów była mniejsza lub równa liczbie mandatów w tym okręgu (tych okręgach). * 7. Po obsadzeniu mandatów bez głosowania w okręgu(-gach) nr ....., nr ......, nr ......, ogółem pozostał(-ły, -ło) ........... mandat(-ty, -tów) nieobsadzony(-ne, -nych). * 8. Warunki uprawniające do uczestniczenia w podziale mandatów spełniły następujące listy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "lista nr ........ ................................................................................... ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "lista nr ........ ................................................................................... ; lista nr ........ ................................................................................... .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 2",
+     "text": "Wyniki wyborów w poszczególnych okręgach"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Okręg wyborczy nr 1 obejmujący ......... mandatów (mandaty):",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "wybory ........................................ ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "głosowanie ........................................... ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "liczba osób uprawnionych do głosowania wynosiła ..............; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "karty do głosowania wydano ……. osobom; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "ogółem głosów oddano (liczba kart ważnych) ............. ; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "głosów ważnych oddano ................ ; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "komitety wyborcze uczestniczące w podziale mandatów uzyskały następujące liczby mandatów: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_7/lit_a",
+         "text": "lista nr ......... ― ............................................................ uzyskała ................... (skrót nazwy komitetu wyborczego) (liczba mandatów)",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "mandat(-ty,-tów); radnymi z tej listy zostali wybrani: ― ................................................................................................ , (nazwisko i imię-imiona kandydata)"
+        },
+        {
+         "type": "text",
+         "text": "― ................................................................................................ , ― ................................................................................................ , ................................................................................................ , b) lista nr ......... ― ............................................................ uzyskała ................ (skrót nazwy komitetu wyborczego) (liczba mandatów)"
+        },
+        {
+         "type": "text",
+         "text": "mandat(-ty,-tów); radnymi z tej listy zostali wybrani: ― ................................................................................................ ; (nazwisko i imię-imiona kandydata)"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "w okręgu .................... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "w okręgu wszystkie mandaty zostały obsadzone. * 2. Okręg wyborczy nr ................ obejmujący ................. mandatów (mandaty): …",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Wybory do Rady Powiatu .................................................."
+    },
+    {
+     "type": "text",
+     "text": "…"
+    },
+    {
+     "type": "heading",
+     "label": "Dział V",
+     "text": "Wybory do Sejmiku Województwa ..................................................."
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 1",
+     "text": "Dane ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dla wyboru Sejmiku utworzono ........ okręgów wyborczych (okręgi wyborcze), w których łącznie wybierano ........ radnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Liczba osób uprawnionych do głosowania wynosiła ............. . * 3. Karty do głosowania wydano ……. osobom. *",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "W wyborach wzięło udział (oddało ważne karty do głosowania) ......... osób, to jest ..........% uprawnionych do głosowania. * 5. Wyborów nie przeprowadzono w ........ okręgach(-gu) wyborczych(-czym) z powodu braku zarejestrowanych(-nej) list(-ty) kandydatów na radnych, w związku z czym ....... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). * 6. Głosowania nie przeprowadzono w ....... okręgu wyborczym (okręgach wyborczych), tj. okręgu(-gach) nr ....., nr ....., nr ....., w którym(-rych) liczba zarejestrowanych kandydatów była mniejsza lub równa liczbie mandatów w tym okręgu (tych okręgach). * 7. Po obsadzeniu mandatów bez głosowania w okręgu(-gach) nr ....., nr ......, nr ......, ogółem pozostał(-ły, -ło) ........... mandat(-ty, -tów) nieobsadzony(-ne, -nych). * 8. Warunki uprawniające do uczestniczenia w podziale mandatów spełniły następujące listy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "lista nr ........ ................................................................................... ; (skrót nazwy komitetu wyborczego)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "lista nr ........ ................................................................................... ; lista nr ........ ................................................................................... .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 2",
+     "text": "Wyniki wyborów w poszczególnych okręgach"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Okręg wyborczy nr 1 obejmujący ......... mandatów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "wybory ........................................ ; (wpisać, czy się odbyły, czy nie)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "głosowanie .......................................... ; (wpisać, czy przeprowadzono, czy nie)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "liczba osób uprawnionych do głosowania wynosiła ..............; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "karty do głosowania wydano ……. osobom; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "ogółem głosów oddano (liczba kart ważnych) ............. ; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "głosów ważnych oddano ................ ; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "komitety wyborcze uczestniczące w podziale mandatów uzyskały następujące liczby mandatów: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_7/lit_a",
+         "text": "lista nr ......... ― ............................................................ uzyskała ....................",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "mandat(-ty,-tów); radnymi z tej listy zostali wybrani: ― ................................................................................................ ,"
+        },
+        {
+         "type": "text",
+         "text": "― ................................................................................................ , ― ................................................................................................ , ................................................................................................ ,"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_7/lit_b",
+         "text": "lista nr ......... ― ............................................................ uzyskała ................",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "mandat(-ty,-tów); radnymi z tej listy zostali wybrani:"
+        },
+        {
+         "type": "text",
+         "text": "― ................................................................................................ ; (nazwisko i imię-imiona kandydata)"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "w okręgu .................... mandat(-ty, -tów) pozostał(-ły, -ło) nieobsadzony(-ne, -nych). * 8) w okręgu wszystkie mandaty zostały obsadzone. * 2. Okręg wyborczy nr ................ obejmujący ................. mandatów: …",
+       "children": [
+        {
+         "type": "text",
+         "text": "Komisarz Wyborczy w ……………."
+        },
+        {
+         "type": "text",
+         "text": ".......................................... (imię i nazwisko)"
+        },
+        {
+         "type": "text",
+         "text": "(miejsce na pieczęć Komisarza Wyborczego)"
+        },
+        {
+         "type": "text",
+         "text": "* zbędne pominąć; w razie potrzeby zmienić numerację jednostek redakcyjnych ** wymienić gminy w kolejności alfabetycznej"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "OBWIESZCZENIE KOMISARZA WYBORCZEGO w ............................................ z dnia ........................... 2014 r. o wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze województwa ........................... (nazwa)"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 168 § 1 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1_3]) Komisarz Wyborczy w ................................. podaje do publicznej wiadomości wyniki wyborów wójtów, burmistrzów i prezydentów miast na obszarze województwa ................................., przeprowadzonych w dniu 16 listopada 2014 r."
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "Dane zbiorcze"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Dane ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wybierano łącznie ........... wójtów, burmistrzów i prezydentów miast spośród ................ kandydatów zgłoszonych przez …. komitety wyborcze (komitetów wyborczych). * 1. Wybierano łącznie ........... wójtów, burmistrzów i prezydentów miast spośród ................ kandydatów zgłoszonych przez ….. komitety wyborcze (komitetów wyborczych), w tym w ........ gminach i miastach * , w których zarejestrowano tylko jednego kandydata. * 2. Uprawnionych do głosowania było .......... osób, w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Karty do głosowania wydano …… wyborcom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 4. W wyborach wzięło udział (oddało ważne karty do głosowania) ........... wyborców, to jest ..........% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Głosów ważnych oddano ............., to jest ........ % ogólnej liczby głosów oddanych. 6. Głosów nieważnych oddano .........., to jest ......... % ogólnej liczby głosów oddanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Głosów nieważnych z powodu niepostawienia znaku „x” oddano …., to jest ........ % ogólnej liczby głosów nieważnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Głosów nieważnych z powodu postawienia dwu lub więcej znaków „x” oddano …., to jest ........ % ogólnej liczby głosów nieważnych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Wyniki wyborów"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wybierano łącznie ........... wójtów, burmistrzów i prezydentów miast, z czego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": ".......... wójtów, burmistrzów i prezydentów miast w gminach niebędących miastami na prawach powiatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": ".......... prezydentów miast w miastach na prawach powiatu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wybrano łącznie ............ wójtów, burmistrzów i prezydentów miast, z czego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": ".......... wójtów, burmistrzów i prezydentów miast ** w gminach niebędących miastami na prawach powiatu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": ".......... prezydentów miast w miastach na prawach powiatu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Nie wybrano ............. wójtów, burmistrzów i prezydentów miast ** z następujących powodów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "nie przeprowadzono wyborów w ......... gminach i miastach * , w których nie zarejestrowano żadnego kandydata na wójta, burmistrza lub prezydenta miasta ** , z czego: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_1/lit_a",
+         "text": "w ................. gminach niebędących miastami na prawach powiatu, *",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_1/lit_b",
+         "text": "w ................. miastach na prawach powiatu; *",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "w ............... gminach i miastach * zarejestrowano tylko jednego kandydata na wójta, burmistrza lub prezydenta miasta ** , który w wyniku głosowania nie otrzymał więcej niż połowy ważnie oddanych głosów, z czego: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_2/lit_a",
+         "text": "w ................. gminach niebędących miastami na prawach powiatu, *",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_2/lit_b",
+         "text": "w ................. miastach na prawach powiatu; *",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "w ......... gminach i miastach * żaden z kandydatów na wójta, burmistrza lub prezydenta miasta nie otrzymał więcej niż połowy ważnie oddanych głosów, z czego: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_3/lit_a",
+         "text": "w ................. gminach niebędących miastami na prawach powiatu, *",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_3/lit_b",
+         "text": "w ................. miastach na prawach powiatu. * 4. W następujących gminach i miastach * , o których mowa w pkt 3 ppkt 1 i 2 * , wyboru wójta, burmistrza lub prezydenta miasta ** dokona, zgodnie z art. 482 § 2 i 4 * Kodeksu wyborczego, właściwa rada gminy, rada miejska lub rada miasta: * , ***",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "................................................................................................ ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "................................................................................................ ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "................................................................................................ ; ................................................................................................ .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W następujących gminach i miastach * , o których mowa w pkt 3 ppkt 3, zgodnie z art. 473 § 2 Kodeksu wyborczego, w dniu 30 listopada 2014 r. zostanie przeprowadzone ponowne głosowanie: *,***",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "................................................................................................ ; (nazwa gminy/miasta — nazwa powiatu)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "................................................................................................ ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "................................................................................................ ; ................................................................................................ .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Część II",
+     "text": "Szczegółowe wyniki wyborów"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Wybory wójta (burmistrza, prezydenta miasta) * .................................................... *** (nazwa gminy, miasta)"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "* Wyboru nie dokonano, ponieważ wyborów nie przeprowadzono, gdyż nie zarejestrowano żadnego kandydata. Wyboru Wójta, Burmistrza, Prezydenta Miasta * dokona Rada. **** 1. * Wyboru nie dokonano, ponieważ wybory przeprowadzono na jednego kandydata, ale kandydat nie uzyskał wymaganej liczby głosów. Wyboru Wójta, Burmistrza, Prezydenta Miasta * dokona Rada.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "* Wyboru nie dokonano, ponieważ żaden z kandydatów nie uzyskał wymaganej liczby głosów. W dniu 30 listopada 2014 r. odbędzie się ponowne głosowanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "* Wyboru dokonano, ponieważ w wyborach jedyny kandydat ................................... (nazwisko, imię-imiona)",
+     "children": [
+      {
+       "type": "text",
+       "text": "zgłoszony przez ................................................... uzyskał wymaganą liczbę głosów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "* Wyboru dokonano, ponieważ w wyborach spośród ........... kandydatów, wymaganą liczbę głosów uzyskał(-a) ................................................................................................",
+     "children": [
+      {
+       "type": "text",
+       "text": "zgłoszony(-a) przez ……………………………………….............................................. ."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Liczba osób uprawnionych do głosowania wynosiła ........................., w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 4. W wyborach wzięło udział (oddało ważne karty do głosowania) ............... wyborców, co stanowi .......% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wybrany kandydat uzyskał …. głosów ważnych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "* *** Wybory wójta (burmistrza, prezydenta miasta) .................................................... (nazwa gminy, miasta)"
+    },
+    {
+     "type": "text",
+     "text": "..."
+    },
+    {
+     "type": "text",
+     "text": "Komisarz Wyborczy w ……………."
+    },
+    {
+     "type": "text",
+     "text": ".......................................... (imię i nazwisko)"
+    },
+    {
+     "type": "text",
+     "text": "(miejsce na pieczęć Komisarza Wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "* zbędne pominąć; w razie potrzeby zmienić numerację jednostek redakcyjnych ** należy wymienić tylko te organy, których to dotyczy *** wymienić gminy w kolejności alfabetycznej z rozróżnieniem miasto/gmina **** w tym przypadku pkt 2-5 należy pominąć"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR OBWIESZCZENIE KOMISARZA WYBORCZEGO w ............................................ z dnia ........................... 2014 r. uzupełniające obwieszczenie z dnia … listopada 2014 r. o wynikach wyborów wójtów, burmistrzów i prezydentów miast na obszarze województwa ........................... (nazwa)"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 168 § 1 ustawy z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1_4]) Komisarz Wyborczy w ................................. podaje do publicznej wiadomości wyniki wyborów wójtów, burmistrzów i prezydentów miast ** na obszarze województwa ......................, w których w dniu 30 listopada 2014 r. przeprowadzane było ponowne głosowanie."
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "Dane zbiorcze"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Dane ogólne"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W ponownym głosowaniu wybierano łącznie ........... wójtów, burmistrzów i prezydentów miast ** spośród ................ kandydatów zgłoszonych przez …. komitety wyborcze (komitetów wyborczych). * 1. W ponownym głosowaniu wybierano łącznie ......... wójtów, burmistrzów i prezydentów miast ** spośród ......... kandydatów zgłoszonych przez ….. komitety wyborcze (komitetów wyborczych), w tym w ........ gminach i miastach, w których na liście kandydatów pozostał tylko jeden kandydat. * 2. Uprawnionych do głosowania było .......... osób, w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Karty do głosowania wydano …… wyborcom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 4. W wyborach wzięło udział (oddało ważne karty do głosowania) ........... wyborców, to jest ..........% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Głosów ważnych oddano ............., to jest ........% ogólnej liczby głosów oddanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Głosów nieważnych oddano .........., to jest .........% ogólnej liczby głosów oddanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Głosów nieważnych z powodu niepostawienia znaku „x” oddano …., to jest ........ % ogólnej liczby głosów nieważnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Głosów nieważnych z powodu postawienia dwu lub więcej znaków „x” oddano …., to jest ........ % ogólnej liczby głosów nieważnych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Wyniki wyborów"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W ponownym głosowaniu wybrano .......... wójtów, burmistrzów i prezydentów miast ** , z czego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "......... wójtów, burmistrzów i prezydentów miast ** w gminach niebędących miastami na prawach powiatu; *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "....... prezydentów miast w miastach na prawach powiatu. *",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nie wybrano ............. wójtów, burmistrzów i prezydentów miast** z następujących powodów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "nie przeprowadzono ponownego głosowania w ......... gminach i miastach * , w których na liście kandydatów nie pozostał żaden kandydat na wójta, burmistrza lub prezydenta miasta ** , z czego: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_1/lit_a",
+         "text": "w ................. gminach niebędących miastami na prawach powiatu, *",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_1/lit_b",
+         "text": "w ................. miastach na prawach powiatu; *",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "w ............... gminach i miastach * na liście kandydatów pozostał tylko jeden kandydat na wójta, burmistrza lub prezydenta miasta ** , który w ponownym głosowaniu nie otrzymał więcej niż połowy ważnie oddanych głosów, z czego: * a) w ................. gminach niebędących miastami na prawach powiatu, *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_2/lit_b",
+         "text": "w ................. miastach na prawach powiatu; * 3. W gminach, o których mowa w pkt 2, to jest w gminach: ***",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "…………………………….., ………………………………… ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "…………………………….., ………………………………… ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "…………………………….., ………………………………… w ponownym głosowaniu nie dokonano wyboru wójta, burmistrza i prezydenta miasta ** i, w związku tym, wyboru dokonają rady gmin. *",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Część II",
+     "text": "Szczegółowe wyniki wyborów"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Wybory wójta (burmistrza, prezydenta miasta) * .................................................... ***"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wyboru nie dokonano, ponieważ ponownego głosowania nie przeprowadzono, gdyż na liście kandydatów nie pozostał żaden kandydat. Wyboru Wójta, Burmistrza, Prezydenta",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wyboru nie dokonano, ponieważ ponowne głosowanie przeprowadzono na jednego kandydata, ale kandydat nie uzyskał wymaganej liczby głosów. Wyboru Wójta, Burmistrza, Prezydenta Miasta ** dokona Rada. * 1. Wyboru dokonano, ponieważ w wyborach, w ponownym głosowaniu, wymaganą liczbę głosów uzyskał ...................................... zgłoszony przez ........................................... . * (nazwisko, imię-imiona) (skrót nazwy komitetu wyborczego)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Liczba osób uprawnionych do głosowania wynosiła ........................., w tym … obywateli (1 obywatel) Unii Europejskiej niebędących obywatelami polskimi (niebędący obywatelem polskim). * 3. Karty do głosowania wydano ……. osobom, w tym … obywatelom (1 obywatelowi) Unii Europejskiej niebędącym obywatelami polskimi (niebędącemu obywatelem polskim). * 4. W wyborach wzięło udział (oddało ważne karty do głosowania) ............... wyborców, co stanowi .......% uprawnionych do głosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wybrany kandydat uzyskał …. głosów ważnych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Wybory wójta (burmistrza, prezydenta miasta) .................................................... (nazwa gminy, miasta)"
+    },
+    {
+     "type": "text",
+     "text": "…"
+    },
+    {
+     "type": "text",
+     "text": "Komisarz Wyborczy"
+    },
+    {
+     "type": "text",
+     "text": "w …………………"
+    },
+    {
+     "type": "text",
+     "text": "........................................."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1087, z 2006 r. Nr 249, poz. 1826 i 1828, z 2009 r. Nr 95, poz. 787 oraz z 2011 r. Nr 21, poz. 113.",
+  "1_2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072.",
+  "2_2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 127, poz. 1087, z 2006 r. Nr 249, poz. 1826 i 1828, z 2009 r. Nr 95, poz. 787 oraz z 2011 r. Nr 21, poz. 113. (wpisać, czy się odbyły, czy nie) (wpisać, czy przeprowadzono, czy nie) (skrót nazwy komitetu wyborczego) (liczba mandatów) (nazwisko i imię-imiona kandydata) (skrót nazwy komitetu wyborczego) (liczba mandatów) (nazwisko i imię-imiona kandydata) (skrót nazwy komitetu wyborczego) (liczba mandatów) (nazwisko i imię-imiona kandydata) (skrót nazwy komitetu wyborczego) (wpisać, czy się odbyły, czy nie) (wpisać, czy przeprowadzono, czy nie) (nazwa) (skrót nazwy komitetu wyborczego) (liczba mandatów) (nazwisko i imię-imiona kandydata) (skrót nazwy komitetu wyborczego) (liczba mandatów)",
+  "1_3": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072. (nazwa gminy/miasta — nazwa powiatu) (skrót nazwy komitetu wyborczego) (nazwisko, imię-imiona) (skrót nazwy komitetu wyborczego)",
+  "1_4": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179, 180 i 1072. (nazwa gminy/miasta) (nazwa powiatu) (nazwa gminy, miasta) ** *, **** Miasta dokona Rada. (imię i nazwisko) (miejsce na pieczęć Komisarza Wyborczego) * zbędne pominąć, w razie potrzeby zmieniając numerację następnych jednostek redakcyjnych ** należy wymienić tylko ten organ którego to dotyczy *** wymienić gminy w kolejności alfabetycznej z rozróżnieniem miasto/gmina **** w tym przypadku pkt 2-5 należy pominąć"
+ }
+}

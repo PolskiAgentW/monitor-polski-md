@@ -1,0 +1,443 @@
+{
+ "eli": "MP/2013/1041",
+ "title": "Uchwała Nr 233 Rady Ministrów z dnia 23 grudnia 2013 r. zmieniająca uchwałę w sprawie zatwierdzenia Regulaminu Komitetu do Spraw Europejskich",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/1041/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA Nr 233"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 grudnia 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie zatwierdzenia Regulaminu Komitetu do Spraw Europejskich"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ustawy z dnia 27 sierpnia 2009 r. o Komitecie do Spraw Europejskich (Dz. U. Nr 161, poz. 1277) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały nr 18 Rady Ministrów z dnia 2 lutego 2010 r. w sprawie zatwierdzenia Regulaminu Komitetu do Spraw Europejskich (M.P. Nr 9, poz. 79) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„5) właściwym komitecie – rozumie się przez to komitet Rady Ministrów właściwy do rozpatrywania określonych kategorii spraw.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 6 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Sekretarz Komitetu przekazuje projekty dokumentów rozpatrywanych i rozstrzyganych albo uzgadnianych przez Komitet oraz wszelkie dokumenty dotyczące prac nad tymi projektami za pośrednictwem środków komunikacji elektronicznej lub z wykorzystaniem informatycznych nośników danych, z wykorzystaniem certyfikowanego podpisu elektronicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przepisu ust. 2 nie stosuje się do dokumentów zawierających informacje niejawne w rozumieniu przepisów o ochronie informacji niejawnych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 7:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Z posiedzenia Komitetu sporządza się pełny zapis jego przebiegu (na podstawie zapisu dźwiękowego), zwany dalej „stenogramem”, będący wewnętrznym dokumentem roboczym.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "ust. 9 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„9. Stenogram oraz protokół ustaleń jest przechowywany przez komórkę organizacyjną, o której mowa w § 6 ust. 1.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 9:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "ust. 1 i 2 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Projekty dokumentów opracowują i uzgadniają w trybie określonym w uchwale nr 190 Rady Ministrów z dnia 29 października 2013 r. – Regulamin pracy Rady Ministrów (M.P. poz. 979), zwanej dalej „Regulaminem pracy Rady Ministrów”, oraz wnoszą pod obrady Komitetu:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) członkowie Rady Ministrów stosownie do zakresu swojej właściwości,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) Szef Kancelarii Prezesa Rady Ministrów,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) inny podmiot:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) upoważniony przez Prezesa Rady Ministrów,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) którego upoważnienie do opracowania, prowadzenia procesu uzgodnień, konsultacji publicznych lub opiniowania oraz wnoszenia do rozpatrzenia projektu dokumentu wynika z przepisów odrębnych, w szczególności upoważniony w tym zakresie pełnomocnik Rządu",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "– zwani dalej „organem wnioskującym”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Przed rozpatrzeniem i rozstrzygnięciem przez Komitet projekty dokumentów mieszczące się w zakresie, o którym mowa w art. 3 ust. 1 pkt 1 i ust. 2 ustawy, do których rozpatrywania i rozstrzygania Komitet został upoważniony w uchwale Rady Ministrów wydanej na podstawie tych przepisów:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) mające szczególne znaczenie w zakresie realizacji polityki państwa, prawa krajowego, budżetu państwa lub gospodarki – podlegają rozpatrzeniu przez Stały Komitet Rady Ministrów;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) mieszczące się w zakresie kompetencji właściwego komitetu – podlegają rozpatrzeniu przez właściwy komitet.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "uchyla się ust. 3 i 4;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "§ 11 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 11.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Projekt dokumentu wnoszony do rozpatrzenia przez Komitet oraz dołączane do niego dokumenty powinny spełniać wymagania określone w Regulaminie pracy Rady Ministrów oraz w przepisach odrębnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do projektu dokumentu wnoszonego do rozpatrzenia przez Komitet dołącza się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w odniesieniu do projektu ustawy, projektu założeń projektu ustawy oraz projektu rozporządzenia Rady Ministrów mających na celu wdrożenie prawa Unii Europejskiej:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) informację o wynikach przeprowadzonych uzgodnień,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) uzasadnienie projektu ustawy albo projektu rozporządzenia Rady Ministrów wraz z oceną skutków regulacji (OSR),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) protokół rozbieżności,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) tabelaryczne zestawienie przepisów dyrektywy lub dyrektyw, których wdrożenie jest celem projektu ustawy albo projektu rozporządzenia Rady Ministrów, oraz projektowanych przepisów prawa polskiego, a także wyjaśnienie określające przyczyny wejścia w życie projektowanej ustawy albo rozporządzenia lub niektórych ich przepisów w danym terminie oraz zawierające informacje, czy proponowany termin wejścia w życie uwzględnia wymogi w zakresie terminów wdrożenia dyrektywy lub dyrektyw,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) tabelaryczne zestawienie przepisów projektu ustawy, które wykraczają poza cel wdrożenia prawa Unii Europejskiej, wraz z wyjaśnieniem niezbędności objęcia ich tym projektem,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "f) informację na temat opracowania projektu ustawy na podstawie założeń projektu ustawy albo bez uprzedniego przyjęcia założeń,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "g) informację wraz z uzasadnieniem na temat wszelkich zmian dokonanych w projekcie ustawy w stosunku do założeń projektu ustawy przyjętych przez Radę Ministrów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w odniesieniu do projektu dokumentu innego niż określony w pkt 1 i podlegającego rozpatrzeniu i rozstrzygnięciu przez Komitet:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) informację o wynikach przeprowadzonych uzgodnień,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) protokół rozbieżności,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) informację na temat ustaleń Stałego Komitetu Rady Ministrów lub właściwych komitetów w przypadkach, o których mowa w § 9 ust. 2;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w odniesieniu do projektu dokumentu innego niż określony w pkt 1 i podlegającego rozpatrzeniu i uzgodnieniu przez Komitet:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) informację o wynikach przeprowadzonych uzgodnień,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) uzasadnienie projektu wraz z oceną skutków regulacji (OSR) albo informację o przewidywanych skutkach społeczno-gospodarczych projektu, w tym jego wpływie na sektor finansów publicznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) protokół rozbieżności,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) informację wskazującą zakres, w jakim projekt ma charakter dostosowawczy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W przypadku niezachowania wymogów formalnych określonych w ust. 2 oraz wymogów określonych w Regulaminie pracy Rady Ministrów lub w odrębnych przepisach sekretarz Komitetu może w trybie pilnym wystąpić do organu wnioskującego o usunięcie braków formalnych lub o uzupełnienie wniesionego projektu dokumentu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Projekt dokumentu, który nie został uzupełniony bądź w przypadku którego nie zostały usunięte braki formalne, może w szczególnie uzasadnionym przypadku podlegać rozpatrzeniu przez Komitet, za zgodą Przewodniczącego Komitetu, wyrażoną po zasięgnięciu opinii członków Komitetu na posiedzeniu Komitetu, na którym projekt ten ma podlegać rozpatrzeniu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w § 13 dodaje się ust. 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Sekretarz Komitetu może przekazać członkom Komitetu do wiadomości dokument o charakterze informacyjnym, w zakresie którego nie są podejmowane rozstrzygnięcia albo uzgodnienia przez Komitet.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w § 15 dodaje się ust. 5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„5. Na posiedzeniu Komitetu nie podlegają rozpatrzeniu uwagi o charakterze legislacyjnym lub redakcyjnym w odniesieniu do projektów dokumentów podlegających rozpatrzeniu i uzgodnieniu przez Komitet. Uwagi te sekretarz Komitetu przekazuje odpowiednio Rządowemu Centrum Legislacji lub właściwym komórkom organizacyjnym Kancelarii Prezesa Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "w § 17 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Jeżeli nie został spełniony wymóg, o którym mowa w § 9 ust. 2, Komitet kieruje projekt dokumentu do rozpatrzenia przez Stały Komitet Rady Ministrów lub właściwy komitet w celu ponownego wniesienia pod obrady Komitetu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "w § 18 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Sekretarz Komitetu informuje członków Komitetu o decyzji Rady Ministrów oraz przekazuje im opracowany w odrębnym trybie, zgodnym z Regulaminem pracy Rady Ministrów, tekst ostateczny dokumentu uwzględniający decyzje Komitetu oraz Rady Ministrów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "w § 19:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_10/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Uzgadniając projekt dokumentu, Komitet projekt ten przyjmuje bez zmian albo ze zmianami i rekomenduje go Radzie Ministrów, właściwym komitetom lub Stałemu Komitetowi Rady Ministrów, wyraża opinię o projekcie, rekomenduje Radzie Ministrów jego odrzucenie albo kieruje go do ponownego uzgodnienia po spełnieniu określonych wymogów lub w innym terminie.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_10/lit_b",
+       "text": "w ust. 2 pkt 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2) wystąpić z wnioskiem odpowiednio do Szefa Kancelarii Prezesa Rady Ministrów, Prezesa Rządowego Centrum Legislacji albo Sekretarza Rady Ministrów o skierowanie projektu dokumentu do zaopiniowania przez Radę Legislacyjną przy Prezesie Rady Ministrów lub wskazany organ wewnętrzny Rady Ministrów.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "w § 20 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Po uzgodnieniu projektu dokumentu przez Komitet i uzyskaniu rekomendacji organ wnioskujący wnosi projekt dokumentu do rozpatrzenia przez Stały Komitet Rady Ministrów lub właściwe komitety.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "w § 24 w ust. 5 dodaje się zdanie drugie w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„W odniesieniu do projektów dokumentów podlegających rozpatrzeniu i uzgodnieniu stosuje się odpowiednio przepisy § 15 ust. 5.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "w § 25 dodaje się ust. 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Sekretarz Komitetu udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej Rządowego Centrum Legislacji w serwisie Rządowy Proces Legislacyjny (RPL) projekt założeń projektu ustawy, projekt ustawy oraz projekt rozporządzenia Rady Ministrów wniesiony do rozpatrzenia przez Komitet wraz z wszelkimi dokumentami dotyczącymi prac nad projektem.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do projektów dokumentów, które przed dniem wejścia w życie niniejszej uchwały zostały skierowane do uzgodnień lub konsultacji na podstawie § 12 uchwały nr 49 Rady Ministrów z dnia 19 marca 2002 r. – Regulamin pracy Rady Ministrów (M.P. Nr 13, poz. 221, z późn. zm.[^1]), stosuje się przepisy dotychczasowe.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchwała wchodzi w życie z dniem 1 stycznia 2014 r. i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  },
+  {
+   "type": "text",
+   "text": "* ) Ostatnia pozycja w 2013 r."
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej uchwały zostały ogłoszone w M.P. z 2002 r. Nr 30, poz. 482, z 2004 r. Nr 42, poz. 734, z 2005 r. Nr 55, poz. 757, z 2006 r. Nr 40, poz. 439, z 2009 r. Nr 20, poz. 246, z 2010 r. Nr 5, poz. 47 oraz z 2011 r. Nr 1, poz. 6, Nr 50, poz. 553, Nr 78, poz. 785 i Nr 113, poz. 1146."
+ }
+}

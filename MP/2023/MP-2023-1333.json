@@ -1,0 +1,368 @@
+{
+ "eli": "MP/2023/1333",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 29 listopada 2023 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/1333/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 listopada 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2018 r. poz. 846, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 15 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "po pkt 1 dodaje się pkt 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a) Edukacji;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "po pkt 2a dodaje się pkt 2b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2b) Klimatu i Środowiska;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "pkt 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) Nauki;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_1/lit_d",
+       "text": "po pkt 5 dodaje się pkt 5a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5a) Petycji;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_1/lit_e",
+       "text": "pkt 6 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„6) Praw Człowieka i Praworządności;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_1/pkt_1/lit_f",
+       "text": "po pkt 10 dodaje się pkt 10a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„10a) Sportu;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_1/pkt_1/lit_g",
+       "text": "po pkt 12 dodaje się pkt 12a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„12a) Spraw Unii Europejskiej;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_1/pkt_1/lit_h",
+       "text": "pkt 13 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„13) Spraw Zagranicznych;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_1/pkt_1/lit_i",
+       "text": "uchyla się pkt 14;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "użyte w art. 34 w ust. 2a, w art. 54 w ust. 4a, w art. 68 w ust. 1a, w art. 75a w ust. 1–3, w art. 75b w ust. 1 we wprowadzeniu do wyliczenia i w ust. 2, w art. 75c w ust. 2, w art. 75d w ust. 2, w art. 75e w ust. 2 oraz w art. 75f w ust. 1, w różnym przypadku, wyrazy „Komisja Spraw Zagranicznych i Unii Europejskiej” zastępuje się użytymi w odpowiednim przypadku wyrazami „Komisja Spraw Unii Europejskiej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 50 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 50.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Marszałek Senatu udziela głosu Prezydentowi, Marszałkowi Sejmu, Prezesowi Rady Ministrów i Prezesowi Najwyższej Izby Kontroli, poza kolejnością mówców, ilekroć tego zażądają.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Marszałek udziela głosu członkom Rady Ministrów, Prezesowi Trybunału Konstytucyjnego, Pierwszemu Prezesowi Sądu Najwyższego, Rzecznikowi Praw Obywatelskich i przedstawicielom innych organów państwowych – w sprawie objętej zakresem działania danego organu i będącej przedmiotem obrad Senatu, z wyjątkiem sprawy wyboru lub powołania na określone w Regulaminie Senatu stanowisko – poza kolejnością mówców. Marszałek może udzielić głosu w takiej sprawie także zaproszonym gościom.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wystąpienie osoby zabierającej głos poza kolejnością mówców, z wyjątkiem osób wymienionych w ust. 1, nie może trwać dłużej niż 30 minut; Marszałek może przedłużyć czas wystąpienia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 58 uchyla się ust. 4;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "użyte w art. 90a, w art. 90b w ust. 1 i 3, w art. 90c, w art. 90d w ust. 1 we wprowadzeniu do wyliczenia, w art. 90e, w art. 90f oraz w art. 90g w ust. 1, w różnym przypadku, wyrazy „Komisja Praw Człowieka, Praworządności i Petycji” zastępuje się użytymi w odpowiednim przypadku wyrazami „Komisja Petycji”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 92 w ust. 2 pkt 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4) członka Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 93 w ust. 1a wyrazy „ustawy o Państwowej Komisji do spraw wyjaśniania przypadków czynności skierowanych przeciwko wolności seksualnej i obyczajności wobec małoletniego poniżej lat 15” zastępuje się wyrazami „ustawy o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w art. 96b w ust. 1 wyrazy „Komisji Praw Człowieka, Praworządności i Petycji” zastępuje się wyrazami „Komisji Praw Człowieka i Praworządności”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 96f w ust. 1 wyrazy „Komisję Praw Człowieka, Praworządności i Petycji” zastępuje się wyrazami „Komisję Praw Człowieka i Praworządności”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "w załączniku do uchwały:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_10/lit_a",
+       "text": "po pkt 1 dodaje się pkt 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a) Komisji Edukacji – system kształcenia i wychowania dzieci i młodzieży, doskonalenie zawodowe nauczycieli, poradnictwo zawodowe dla młodzieży, organizacja instytucji oświatowych;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_10/lit_b",
+       "text": "po pkt 2a dodaje się pkt 2b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2b) Komisji Klimatu i Środowiska – ochrona i kształtowanie środowiska, ochrona zasobów naturalnych, gospodarka wodna, geologia, leśnictwo i gospodarka leśna, łowiectwo, edukacja ekologiczna, gospodarka finansowa państwa w zakresie ochrony środowiska, atomistyka i ochrona radiologiczna, działanie na rzecz neutralności klimatycznej, adaptacja do zmian klimatu, gospodarka odpadami, gospodarka w obiegu zamkniętym, inteligentny i zrównoważony transport, bioróżnorodność, transformacja energetyczna, ochrona powietrza, edukacja klimatyczna, społeczne i ekonomiczne aspekty transformacji klimatycznej, współpraca z zagranicą w zakresie klimatu, środowiska i ekologii;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_10/lit_c",
+       "text": "pkt 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) Komisji Nauki – organizacja i rozwój badań naukowych, szkolnictwo wyższe, doskonalenie zawodowe kadry naukowej, przygotowanie absolwentów szkół wyższych do zatrudnienia, organizacja instytucji naukowych, współpraca naukowa z zagranicą;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_10/lit_d",
+       "text": "po pkt 5 dodaje się pkt 5a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5a) Komisji Petycji – rozpatrywanie petycji kierowanych do Senatu i jego organów;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_10/lit_e",
+       "text": "pkt 6 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„6) Komisji Praw Człowieka i Praworządności – prawa i wolności obywatelskie i ich instytucjonalne gwarancje, sprawy związane z funkcjonowaniem wymiaru sprawiedliwości i bezpieczeństwa publicznego, przestrzeganie prawa, przestrzeganie praw człowieka, instytucje społeczeństwa obywatelskiego i organizacje pozarządowe;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_1/pkt_10/lit_f",
+       "text": "po pkt 10 dodaje się pkt 10a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„10a) Komisji Sportu – kultura fizyczna i sport;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_1/pkt_10/lit_g",
+       "text": "po pkt 12 dodaje się pkt 12a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„12a) Komisji Spraw Unii Europejskiej – funkcjonowanie Unii Europejskiej oraz członkostwo w niej Rzeczypospolitej Polskiej, opiniowanie dokumentów przedkładanych Marszałkowi Senatu w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, rozpatrywanie inicjatyw uchwałodawczych Senatu w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej, zajmowanie stanowisk i wyrażanie opinii na temat projektów umów międzynarodowych, których stroną mają być Unia Europejska, Europejska Wspólnota Energii Atomowej lub ich państwa członkowskie, oraz planów pracy Rady Unii Europejskiej i rocznych planów legislacyjnych Komisji Europejskiej, rozpatrywanie informacji i innych dokumentów przedkładanych przez Radę Ministrów oraz organy Unii Europejskiej;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_1/pkt_10/lit_h",
+       "text": "pkt 13 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„13) Komisji Spraw Zagranicznych – polityka zagraniczna państwa, kontakty międzyparlamentarne i międzynarodowe stosunki gospodarcze;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_1/pkt_10/lit_i",
+       "text": "uchyla się pkt 14.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: M. Kidawa-Błońska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2020 r. poz. 306, 499, 500 i 1129, z 2022 r. poz. 65 oraz z 2023 r. poz. 1241."
+ }
+}

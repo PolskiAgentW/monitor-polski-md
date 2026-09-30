@@ -1,0 +1,78 @@
+{
+ "eli": "MP/2015/524",
+ "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 22 maja 2015 r. zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/524/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 maja 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 143 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W statucie Kancelarii Prezydenta Rzeczypospolitej Polskiej stanowiącym załącznik do zarządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 28 marca 2006 r. w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej (M.P. Nr 49, poz. 526, z późn. zm.[^1]) w § 5 w ust. 1 wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "uchyla się pkt 3 i 16;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w pkt 18 kropkę na końcu zastępuje się średnikiem i dodaje się pkt 19 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„19) Biuro Administracyjno-Finansowe.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Szef Kancelarii Prezydenta Rzeczypospolitej Polskiej przeprowadzi reorganizację Kancelarii Prezydenta Rzeczypospolitej Polskiej związaną z nową strukturą jej komórek organizacyjnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem podpisania.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionego zarządzenia zostały ogłoszone w M.P. z 2006 r. Nr 60, poz. 634 i Nr 69, poz. 704, z 2007 r. Nr 12, poz. 121, z 2008 r. Nr 4, poz. 44, z 2009 r. Nr 8, poz. 77 i Nr 21, poz. 264, z 2010 r. Nr 72, poz. 914 i Nr 93, poz. 1071, z 2011 r. Nr 27, poz. 298 i Nr 61, poz. 584 oraz z 2013 r. poz. 687."
+ }
+}

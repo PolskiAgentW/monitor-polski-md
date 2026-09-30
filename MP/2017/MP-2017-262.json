@@ -1,0 +1,153 @@
+{
+ "eli": "MP/2017/262",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 9 marca 2017 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/262/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 marca 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 34:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "po ust. 2 dodaje się ust. 2a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2a. W uzasadnieniu projektu ustawy, który dotyczy majątkowych praw i obowiązków przedsiębiorców lub praw i obowiązków przedsiębiorców wobec organów administracji publicznej, jako odrębną część uzasadnienia, przedstawia się ocenę przewidywanego wpływu projektu ustawy na działalność mikroprzedsiębiorców oraz małych i średnich przedsiębiorców.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "w ust. 7 wyrazy „w ust. 2 i 3” zastępuje się wyrazami „w ust. 2–3”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 199 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Kancelaria Sejmu udostępnia informację publiczną oraz informację o środowisku i jego ochronie w trybie określonym w dziale IVa.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "tytuł działu IVa otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Dostęp do informacji publicznej oraz informacji o środowisku i jego ochronie”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 202c w ust. 1 wyrazy „art. 16, art. 21 i art. 22” zastępuje się wyrazami „art. 16 i art. 21”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "po art. 202c dodaje się art. 202d i art. 202e w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 202d.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Informacja o środowisku i jego ochronie jest udostępniana przez Kancelarię Sejmu na zasadach i w trybie określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2016 r. poz. 353, 831, 961, 1250, 1579 i 2003).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Informację, o której mowa w ust. 1, udostępnia się na pisemny wniosek. Wniosek może być przesłany za pośrednictwem Systemu Informacyjnego Sejmu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 202e.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Odmowy udostępnienia informacji, o której mowa w art. 202d ust. 1, w przypadkach określonych w ustawie z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko dokonuje Szef Kancelarii Sejmu. Przepisy art. 19 i art. 20 ustawy, o której mowa w zdaniu pierwszym, stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Strona niezadowolona z decyzji, o której mowa w ust. 1, może zwrócić się do Szefa Kancelarii Sejmu z wnioskiem o ponowne rozpatrzenie sprawy.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do projektów ustaw wniesionych do Sejmu Rzeczypospolitej Polskiej przed dniem wejścia w życie art. 1 pkt 1 stosuje się przepisy dotychczasowe.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia, z wyjątkiem art. 1 pkt 1 oraz art. 2, które wchodzą w życie z dniem 17 marca 2017 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079, z 2015 r. poz. 31, 550, 1130, 1136 i 1212 oraz z 2016 r. poz. 349, 512, 616, 634 i 1178."
+ }
+}

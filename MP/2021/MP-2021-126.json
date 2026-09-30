@@ -1,0 +1,352 @@
+{
+ "eli": "MP/2021/126",
+ "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 stycznia 2021 r. w sprawie podmiotów uprawnionych do prowadzenia oceny wartości użytkowej lub oceny genetycznej bydła, świń, owiec, kóz i koni",
+ "converter": "eli2md 0.6.16",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/126/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ROLNICTWA I ROZWOJU WSI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 stycznia 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie podmiotów uprawnionych do prowadzenia oceny wartości użytkowej lub oceny genetycznej bydła, świń, owiec, kóz i koni"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 46 ust. 1 ustawy z dnia 10 grudnia 2020 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. z 2021 r. poz. 36) ogłasza się w załączniku do niniejszego obwieszczenia wykaz podmiotów, o których mowa w art. 64 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/1012 z dnia 8 czerwca 2016 r. w sprawie zootechnicznych i genealogicznych warunków dotyczących hodowli zwierząt hodowlanych czystorasowych i mieszańców świni, handlu nimi i wprowadzania ich na terytorium Unii oraz handlu ich materiałem biologicznym wykorzystywanym do rozrodu i jego wprowadzania na terytorium Unii oraz zmieniającego rozporządzenie (UE) nr 652/2014, dyrektywy Rady 89/608/EWG i 90/425/EWG i uchylającego niektóre akty w dziedzinie hodowli zwierząt („rozporządzenie w sprawie hodowli zwierząt”) (Dz. Urz. UE L 171 z 29.06.2016, str. 66, z późn. zm.[^2]), uprawnionych do prowadzenia oceny wartości użytkowej lub oceny genetycznej bydła, świń, owiec, kóz i koni."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Rozwoju Wsi: G. Puda"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Rolnictwa i Rozwoju Wsi z dnia 27 stycznia 2021 r. (poz. 126)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ PODMIOTÓW, O KTÓRYCH MOWA W ART. 64 UST. 4 ROZPORZĄDZENIA PARLAMENTU EUROPEJSKIEGO I RADY (UE) 2016/1012 Z DNIA 8 CZERWCA 2016 R. W SPRAWIE ZOOTECHNICZNYCH I GENEALOGICZNYCH WARUNKÓW DOTYCZĄCYCH HODOWLI ZWIERZĄT HODOWLANYCH CZYSTORASOWYCH I MIESZAŃCÓW ŚWINI, HANDLU NIMI I WPROWADZANIA ICH NA TERYTORIUM UNII ORAZ HANDLU ICH MATERIAŁEM BIOLOGICZNYM WYKORZYSTYWANYM DO ROZRODU I JEGO WPROWADZANIA NA TERYTORIUM UNII ORAZ ZMIENIAJĄCEGO ROZPORZĄDZENIE (UE) NR 652/2014, DYREKTYWY RADY 89/608/EWG I 90/425/EWG I UCHYLAJĄCEGO NIEKTÓRE AKTY W DZIEDZINIE HODOWLI ZWIERZĄT („ROZPORZĄDZENIE W SPRAWIE HODOWLI ZWIERZĄT”), UPRAWNIONYCH DO PROWADZENIA OCENY WARTOŚCI UŻYTKOWEJ LUB OCENY GENETYCZNEJ BYDŁA, ŚWIŃ, OWIEC, KÓZ I KONI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Do prowadzenia oceny wartości użytkowej są uprawnione:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "Polska Federacja Hodowców Bydła i Producentów Mleka w Warszawie – w zakresie oceny bydła typu użytkowego mlecznego i mięsno-mlecznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "Polski Związek Hodowców i Producentów Bydła Mięsnego w Warszawie – w zakresie oceny bydła typu użytkowego mięsnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "Uniwersytet Przyrodniczy w Poznaniu – w zakresie oceny świń rasy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_3/lit_a",
+         "text": "złotnickiej białej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_3/lit_b",
+         "text": "złotnickiej pstrej",
+         "children": [
+          {
+           "type": "text",
+           "text": "‒ z wyłączeniem oceny wartości użytkowej tucznej i rzeźnej dokonywanej po uboju;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "Instytut Zootechniki – Państwowy Instytut Badawczy w Krakowie – w zakresie oceny:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_4/lit_a",
+         "text": "świń linii 990,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_4/lit_b",
+         "text": "użytkowości tucznej i rzeźnej świń dokonywanej po uboju;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "Polski Klub Wyścigów Konnych w Warszawie – w zakresie oceny koni:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_5/lit_a",
+         "text": "pełnej krwi angielskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_5/lit_b",
+         "text": "czystej krwi arabskiej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "Polski Związek Hodowców Koni w Warszawie – w zakresie oceny koni:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_6/lit_a",
+         "text": "małopolskich,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_6/lit_b",
+         "text": "wielkopolskich,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_6/lit_c",
+         "text": "śląskich,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_1/pkt_6/lit_d",
+         "text": "huculskich,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_1/pkt_6/lit_e",
+         "text": "polskich koni sportowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_1/pkt_6/lit_f",
+         "text": "polskich koni zimnokrwistych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_1/pkt_6/lit_g",
+         "text": "koników polskich,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_1/pkt_6/lit_h",
+         "text": "kuców,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_1/pkt_6/lit_i",
+         "text": "ardenów polskich;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "Polskie Towarzystwo Kuce Szetlandzkie w Imnie – w zakresie oceny koni rasy kuce szetlandzkie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "Stowarzyszenie Hodowców i Użytkowników Kłusaków we Wrocławiu – w zakresie oceny koni rasy kłusak;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "Związek Hodowców i Przyjaciół Wschodniopruskiego Konia Pochodzenia Trakeńskiego w Warszawie – w zakresie oceny koni trakeńskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "Polski Związek Hodowców i Producentów Trzody Chlewnej „POLSUS” w Warszawie – w zakresie oceny świń rasy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_10/lit_a",
+         "text": "puławskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_10/lit_b",
+         "text": "wielkiej białej polskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_10/lit_c",
+         "text": "polskiej białej zwisłouchej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_1/pkt_10/lit_d",
+         "text": "pietrain,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_1/pkt_10/lit_e",
+         "text": "hampshire,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_1/pkt_10/lit_f",
+         "text": "duroc",
+         "children": [
+          {
+           "type": "text",
+           "text": "‒ z wyłączeniem oceny wartości użytkowej w zakresie użytkowości tucznej i rzeźnej dokonywanej po uboju;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "Polski Związek Owczarski w Warszawie – w zakresie oceny owiec i kóz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "PIG TRIK Sp. z o.o. – w zakresie oceny świń linii hodowlanych DUROMAX, PIXEL, TYTAN, MISTER, LOLA F1 i EFka.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Do prowadzenia oceny genetycznej są uprawnione:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "Instytut Zootechniki – Państwowy Instytut Badawczy w Krakowie – w zakresie oceny:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_2/pkt_1/lit_a",
+         "text": "bydła,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_2/pkt_1/lit_b",
+         "text": "świń,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_2/pkt_1/lit_c",
+         "text": "owiec,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_2/pkt_1/lit_d",
+         "text": "użytkowości tucznej i rzeźnej świń dokonywanej po uboju;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "Polski Związek Hodowców Koni w Warszawie – w zakresie oceny koni małopolskich, wielkopolskich i polskich koni sportowych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rolnictwo, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 1721 i 1928).",
+  "2": "Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 77 z 20.03.2018, str. 18."
+ }
+}

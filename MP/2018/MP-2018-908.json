@@ -1,0 +1,1010 @@
+{
+ "eli": "MP/2018/908",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 13 sierpnia 2018 r. w sprawie sposobu zgłaszania kandydatów na członków terytorialnych komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania tych komisji, w tym trybu przeprowadzania losowania, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/908/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 sierpnia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sposobu zgłaszania kandydatów na członków terytorialnych komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania tych komisji, w tym trybu przeprowadzania losowania, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 178 § 11 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2018 r. poz. 754, 1000 i 1349) oraz w związku z art. 7 ust. 2 ustawy z dnia 15 marca 2002 r. o ustroju miasta stołecznego Warszawy (Dz. U. z 2015 r. poz. 1438 oraz z 2018 r. poz. 130) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uchwała określa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "sposób zgłaszania kandydatów na członków terytorialnych komisji wyborczych, a także wzory zgłoszenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zasady powoływania terytorialnych komisji wyborczych, a także dokonywania zmian w ich składach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "tryb przeprowadzania losowania członków terytorialnych komisji wyborczych",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w uchwale jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Kodeksie wyborczym – należy przez to rozumieć ustawę z dnia 5 stycznia 2011 r. – Kodeks wyborczy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "komisji – należy przez to rozumieć wojewódzkie, powiatowe oraz gminne (miejskie) i dzielnicowe, w dzielnicach m.st. Warszawy, komisje wyborcze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "pełnomocniku wyborczym – należy przez to rozumieć pełnomocnika wyborczego komitetu wyborczego lub osobę upoważnioną przez pełnomocnika wyborczego tego komitetu wyborczego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "delegaturze Krajowego Biura Wyborczego – należy przez to rozumieć delegaturę Krajowego Biura Wyborczego obsługującą właściwego komisarza wyborczego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zgłoszenia kandydatów na członków komisji przyjmują oraz powołują te komisje komisarze wyborczy zgodnie z właściwością terytorialną określoną w uchwale Państwowej Komisji Wyborczej z dnia 5 lutego 2018 r. w sprawie określenia właściwości terytorialnej i rzeczowej komisarzy wyborczych oraz ich siedzib, a także trybu pracy komisarzy wyborczych (M.P. poz. 246).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Kandydatem do składu komisji może być osoba posiadająca bierne prawo wyborcze do Sejmu, tj. osoba, która:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "jest obywatelem polskim;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "najpóźniej w dniu zgłoszenia kończy 21 lat;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "nie jest pozbawiona praw publicznych prawomocnym orzeczeniem sądu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "nie jest pozbawiona praw wyborczych prawomocnym orzeczeniem Trybunału Stanu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_1/pkt_5",
+       "text": "nie jest ubezwłasnowolniona prawomocnym orzeczeniem sądu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_1/pkt_6",
+       "text": "nie jest skazana prawomocnym wyrokiem na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_1/pkt_7",
+       "text": "nie utraciła prawa wybieralności na podstawie prawomocnego orzeczenia sądu, o którym mowa w art. 21a ust. 2a ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186 oraz z 2018 r. poz. 538, 650, 651, 730, 1000 i 1349).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Kandydat do składu komisji musi być wpisany do stałego rejestru wyborców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Kandydatem do składu komisji nie może być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "kandydat w wyborach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "komisarz wyborczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_3/pkt_3",
+       "text": "pełnomocnik wyborczy komitetu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_3/pkt_4",
+       "text": "pełnomocnik finansowy komitetu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_3/pkt_5",
+       "text": "urzędnik wyborczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_3/pkt_6",
+       "text": "mąż zaufania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_3/pkt_7",
+       "text": "obserwator społeczny.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Prawo zgłaszania kandydatów do komisji ma pełnomocnik wyborczy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "komitetu wyborczego partii politycznej, która w ostatnich wyborach do sejmiku województwa samodzielnie utworzyła komitet wyborczy, który uzyskał mandat lub mandaty w danym województwie, lub w ostatnich wyborach do Sejmu samodzielnie utworzyła komitet wyborczy, który uzyskał mandat lub mandaty. Nie ma przy tym znaczenia, czy nazwa komitetu wyborczego jest taka sama i czy nazwa partii politycznej uległa zmianie, pod warunkiem, że partia jest wpisana pod tym samym numerem do ewidencji partii politycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "koalicyjnego komitetu wyborczego koalicji partii politycznych, która w ostatnich wyborach do sejmiku województwa utworzyła w tym samym składzie koalicji koalicyjny komitet wyborczy, który uzyskał mandat lub mandaty w danym województwie, lub w ostatnich wyborach do Sejmu utworzyła w tym samym składzie koalicji koalicyjny komitet wyborczy, który uzyskał mandat lub mandaty. Nie ma przy tym znaczenia, czy nazwa koalicyjnego komitetu wyborczego jest taka sama;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "reprezentujący pozostałe komitety wyborcze utworzone w danych wyborach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Pełnomocnik wyborczy może zgłaszać kandydatów na członków komisji na całym obszarze działania komitetu wyborczego, tj.:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "na obszarze całego kraju w przypadku komitetów wyborczych, które otrzymały uchwałę Państwowej Komisji Wyborczej o przyjęciu zawiadomienia o utworzeniu komitetu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "na obszarze całego województwa, w przypadku komitetów wyborczych, które otrzymały postanowienie komisarza wyborczego o przyjęciu zawiadomienia o utworzeniu komitetu wyborczego, z wyjątkiem komitetów wyborczych wyborców, o których mowa w pkt 3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "na obszarze jednej gminy wskazanej w postanowieniu komisarza wyborczego o przyjęciu zawiadomienia o utworzeniu komitetu wyborczego, w przypadku komitetów wyborczych wyborców utworzonych w celu zgłaszania kandydatów tylko w jednej gminie liczącej do 20 000 mieszkańców.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Pełnomocnik wyborczy dokonuje zgłoszenia kandydatów na członków komisji na druku stanowiącym załącznik do uchwały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zgłoszenie kandydatów na członków komisji musi być dokonane najpóźniej w 45. dniu przed dniem wyborów, w godzinach urzędowania delegatury Krajowego Biura Wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Za dzień dokonania zgłoszenia rozumie się dzień jego doręczenia komisarzowi wyborczemu, potwierdzony podpisem na zgłoszeniu przez osobę je przyjmującą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Przywrócenie terminu do zgłaszania kandydatów na członków komisji jest niedopuszczalne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Zgłoszenie kandydatów na członków komisji zawiera w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_5/pkt_1",
+       "text": "nazwę komisji oraz nazwę miejscowości, w której znajduje się siedziba komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_5/pkt_2",
+       "text": "imię (imiona) i nazwisko, adres zamieszkania oraz numer ewidencyjny PESEL osoby dokonującej zgłoszenia (w odniesieniu do obywateli Unii Europejskiej niebędących obywatelami polskimi – numer paszportu lub innego dokumentu stwierdzającego tożsamość);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_5/pkt_3",
+       "text": "nazwę komitetu wyborczego, który dokonuje zgłoszenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_5/pkt_4",
+       "text": "imię (imiona) i nazwisko, adres zamieszkania oraz numer ewidencyjny PESEL kandydata na członka komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_5/pkt_5",
+       "text": "oświadczenie kandydata, że wyraża zgodę na powołanie w skład wskazanej komisji, posiada bierne prawo wyborcze do Sejmu i spełnia pozostałe wymogi określone w Kodeksie wyborczym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "Zgłoszenie podpisuje pełnomocnik wyborczy, zaś kandydat na członka komisji podpisuje oświadczenie, o którym mowa w ust. 5 pkt 5. Za prawidłowe uznaje się również zgłoszenie, do którego załączono odrębne oświadczenie, zawierające informacje określone w ust. 5 pkt 1 i 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_6/ust_7",
+     "text": "Osoba dokonująca zgłoszenia z upoważnienia pełnomocnika wyborczego dołącza do zgłoszenia to upoważnienie lub jego kopię. W przypadku wysłania zgłoszenia np. pocztą lub kurierem, kopię uwierzytelnia pełnomocnik wyborczy, a w przypadku zgłoszenia dokonanego osobiście – osoba przyjmująca zgłoszenie, po okazaniu oryginału upoważnienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Zgłoszenie kandydatów na członków komisji może dotyczyć więcej niż jednej komisji na obszarze właściwości komisarza wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Do jednej komisji pełnomocnik wyborczy może zgłosić więcej niż jednego kandydata ze wskazaniem ich kolejności. W takim przypadku w pierwszej kolejności rozpatrywane będzie zgłoszenie pierwszego kandydata do danej komisji wskazanego w zgłoszeniu, a w przypadku gdy dany kandydat nie spełnia kryteriów ustawowych, rozpatrywane będą kolejne kandydatury według liczby porządkowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Ta sama osoba może być zgłoszona tylko do jednej komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "W razie zgłoszenia tego samego kandydata:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_4/pkt_1",
+       "text": "do więcej niż jednego komisarza wyborczego – rozpatrywane jest tylko zgłoszenie, które wpłynęło i zostało jako pierwsze wprowadzone do systemu informatycznego, o którym mowa w § 9;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_4/pkt_2",
+       "text": "do komisji różnych szczebli – rozpatrywane jest tylko zgłoszenie do komisji o szerszym obszarze działania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_4/pkt_3",
+       "text": "do więcej niż jednej komisji tego samego szczebla – rozpatrywane jest tylko zgłoszenie do komisji mającej siedzibę w miejscowości, której nazwa jest pierwsza w kolejności alfabetycznej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Przed upływem terminu zgłaszania kandydatów pełnomocnik wyborczy może pisemnie wycofać zgłoszonego kandydata na członka komisji lub pisemnie wycofać zgłoszonego kandydata na członka komisji i zgłosić nowego kandydata.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Komisarz wyborczy, przy pomocy urzędów gmin, dokonuje sprawdzenia prawidłowości zgłoszenia kandydatów na członków komisji i podejmuje decyzję w sprawie uwzględnienia bądź nieuwzględnienia zgłoszenia. Do sprawdzenia wykorzystywany jest system informatyczny, o którym mowa w § 9.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Delegatura Krajowego Biura Wyborczego niezwłocznie po otrzymaniu zgłoszenia przez komisarza wyborczego wprowadza dane zgłoszonych kandydatów do systemu informatycznego Wsparcie Organów Wyborczych (WOW) i, w miarę wpływu zgłoszeń, sporządza, odrębnie dla każdej komisji, wykaz zgłoszonych kandydatów na członków komisji. Wykaz zawiera nazwę komisji i adres siedziby oraz dane prawidłowo zgłoszonych kandydatów na członków komisji, o których mowa w § 6 ust. 5 pkt 4.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Komisarz wyborczy powołuje w skład każdej komisji 9 osób, z zastrzeżeniem § 14, z tym że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "w liczbie nieprzekraczającej 6, po jednym przedstawicielu zgłoszonym przez pełnomocników wyborczych, o których mowa w § 5 ust. 1 pkt 1 i 2;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "po jednym przedstawicielu zgłoszonym przez pełnomocników wyborczych, o których mowa w § 5 ust. 1 pkt 3, w liczbie stanowiącej różnicę między liczbą 9 a liczbą członków powołanych w trybie, o którym mowa w pkt 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Jeżeli liczba komitetów wyborczych, o których mowa w § 5 ust. 1 pkt 1 i 2, jest mniejsza niż 6, prawo wskazania dodatkowej osoby mają pełnomocnicy wyborczy, o których mowa w § 5 ust. 1 pkt 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Jeżeli liczba prawidłowo zgłoszonych kandydatów do składu komisji jest równa 9, komisja powoływana jest w składzie odpowiadającym liczbie zgłoszonych kandydatów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Jeżeli liczba członków komisji powołanych na podstawie art. 178 § 2 Kodeksu wyborczego miałaby być mniejsza niż 9 – pozostałych kandydatów do składu komisji wyłania się w drodze publicznego losowania spośród osób zgłoszonych przez wszystkich pełnomocników wyborczych. W celu uzupełnienia składu komisji pełnomocnicy wyborczy mogą zgłosić do losowania tyle osób, ile brakuje do liczby 9.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Jeżeli liczba członków komisji powołanych na podstawie art. 178 § 2 Kodeksu wyborczego miałaby być większa niż 9 – kandydatów do składu komisji, w liczbie stanowiącej różnicę między liczbą 9 a liczbą osób zgłoszonych przez pełnomocników wyborczych, o których mowa w § 5 ust. 1 pkt 1 i 2, wyłania się w drodze publicznego losowania spośród osób zgłoszonych przez pełnomocników wyborczych, o których mowa w § 5 ust. 1 pkt 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Losowanie przeprowadza komisarz wyborczy lub pracownik delegatury Krajowego Biura Wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_12/ust_4",
+     "text": "Informację o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_4/pkt_1",
+       "text": "możliwości dokonania zgłoszenia kandydata do losowania, o którym mowa w ust. 1, oraz terminie tego zgłoszenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_4/pkt_2",
+       "text": "miejscu, dacie i godzinie przeprowadzenia losowania",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– komisarz wyborczy przekazuje pełnomocnikom wyborczym oraz podaje do publicznej wiadomości, co najmniej na 1 dzień przed upływem terminu zgłoszenia kandydata do losowania, wywieszając stosowne zawiadomienie w swojej siedzibie, w miejscu ogólnodostępnym, oraz umieszczając je na stronie internetowej delegatury Krajowego Biura Wyborczego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_12/ust_5",
+     "text": "Nieobecność pełnomocników wyborczych nie wstrzymuje przeprowadzenia losowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_12/ust_6",
+     "text": "Losowania członków komisji spośród kandydatów zgłoszonych do danej komisji dokonuje się odrębnie dla każdej komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_12/ust_7",
+     "text": "Losowanie przeprowadza się w ten sposób, że nazwiska kandydatów uczestniczących w losowaniu oznacza się numerami, informując o tym obecnych przy losowaniu. Do jednakowych, nieprzezroczystych kopert lub innych pojemników, zwanych dalej „kopertami”, wkłada się kartki z wpisanymi numerami odpowiadającymi numerom, którymi oznaczono nazwiska kandydatów. Po wymieszaniu kopert losuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_7/pkt_1",
+       "text": "tyle kopert, ilu członków komisji brakuje do liczby 9 – w przypadku losowania, o którym mowa w art. 178 § 3 pkt 1 Kodeksu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_7/pkt_2",
+       "text": "tyle kopert, ile stanowi różnicę między liczbą 9 a liczbą członków komisji powoływanych spośród kandydatów zgłoszonych przez komitety wyborcze, o których mowa w § 5 ust. 1 pkt 1 i 2, o czym mowa w art. 178 § 3 pkt 2 Kodeksu wyborczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_12/ust_8",
+     "text": "Wylosowane numery są odczytywane i okazywane obecnym przy losowaniu. Odczytywane są również imiona i nazwiska kandydatów oznaczonych tymi numerami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_12/ust_9",
+     "text": "W czynnościach losowania mogą uczestniczyć inne osoby, pod nadzorem osoby przeprowadzającej losowanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_12/ust_10",
+     "text": "Z przeprowadzonego losowania sporządza się protokół, w którym wymienia się datę i godzinę losowania, imię i nazwisko osoby przeprowadzającej losowanie oraz, odrębnie dla każdej komisji, jej nazwę i adres siedziby, liczbę kandydatów, spośród których przeprowadzono losowanie, a także imiona i nazwiska osób wylosowanych do składu komisji. Protokół podpisuje osoba przeprowadzająca losowanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "W przypadku niedokonania w terminie zgłoszenia kandydatów w celu uzupełnienia składu komisji, w sytuacji, o której mowa w § 12 ust. 1, w liczbie powodującej konieczność przeprowadzenia losowania, komisję powołuje się w składzie 9 osób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Jeżeli pomimo upływu terminu zgłoszenia, o którym mowa w ust. 1, liczba kandydatów zgłoszonych jest mniejsza niż 9, uzupełnienia jej składu do minimalnego dokonuje komisarz wyborczy, po uzyskaniu zgody osoby, która ma uzupełnić skład komisji. Przepis § 9 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Uzupełnienia składu komisji dokonuje się spośród osób ujętych w stałym rejestrze wyborców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "W skład wojewódzkiej i powiatowej komisji wyborczej oraz miejskiej komisji wyborczej w mieście na prawach powiatu wchodzi z urzędu, jako jej przewodniczący, zgodnie z art. 178 § 6 Kodeksu wyborczego, osoba wskazana przez komisarza wyborczego. Komisje te powołuje się w składzie 10 osób.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Składy komisji niezwłocznie podaje się do publicznej wiadomości, przez wywieszenie w urzędzie gminy oraz umieszczenie w Biuletynie Informacji Publicznej urzędu gminy postanowienia właściwego komisarza wyborczego o powołaniu komisji. Postanowienie to umieszcza się również na stronie internetowej delegatury Krajowego Biura Wyborczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Do publicznej wiadomości podaje się nazwę komisji, adres siedziby oraz imiona, nazwiska i miejsce zamieszkania (miejscowość) osób powołanych w jej skład, a także wskazanie komitetu wyborczego, który zgłosił kandydata.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "W przypadku stwierdzenia, że osoba powołana w skład komisji nie spełnia warunków określonych w Kodeksie wyborczym, przewodniczący komisji niezwłocznie zawiadamia o tym właściwego komisarza wyborczego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Zmiany w składach komisji dokonywane są w przypadku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "zrzeczenia się członkostwa w komisji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "podpisania zgody na kandydowanie w wyborach bądź objęcia funkcji komisarza wyborczego, pełnomocnika wyborczego, pełnomocnika finansowego, urzędnika wyborczego lub męża zaufania albo obserwatora społecznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_1/pkt_3",
+       "text": "utraty biernego prawa wyborczego do Sejmu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_1/pkt_4",
+       "text": "nieuczestniczenia w pracach komisji bez usprawiedliwienia lub podejmowania działań sprzecznych z prawem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_17/ust_1/pkt_5",
+       "text": "śmierci członka komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Osoba wchodząca w skład komisji powinna powiadomić niezwłocznie przewodniczącego komisji o wystąpieniu przyczyny, o której mowa w ust. 1 pkt 1–3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Przewodniczący komisji jest obowiązany powiadomić niezwłocznie komisarza wyborczego, który powołał daną komisję, o wystąpieniu przyczyny uzasadniającej dokonanie zmiany w składzie komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Stwierdzenia wygaśnięcia członkostwa w komisji dokonuje komisarz wyborczy, który powołał daną komisję, informując o tym pełnomocnika wyborczego, który zgłosił jego kandydaturę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_17/ust_5",
+     "text": "Jeżeli wygasło członkostwo w komisji członka zgłoszonego przez komitet wyborczy, organ powołujący zawiadamia pełnomocnika wyborczego tego komitetu wyborczego o możliwości zgłoszenia nowego kandydata, w terminie 3 dni od dnia otrzymania zawiadomienia, z zastrzeżeniem ust. 6. W razie niezgłoszenia kandydata w tym terminie, komisarz wyborczy uzupełnia skład komisji w sposób określony w § 13 ust. 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_17/ust_6",
+     "text": "Jeżeli wygaśnięcie członkostwa nastąpiło przed dniem wyborów w terminie uniemożliwiającym zgłoszenie przez pełnomocnika wyborczego nowego kandydata, komisarz wyborczy uzupełnia skład komisji spośród wyborców ujętych w stałym rejestrze wyborców, chyba że wraz z zawiadomieniem o przyczynie powodującej wygaśnięcie członkostwa wpłynęło zgłoszenie nowej kandydatury od pełnomocnika wyborczego, o którym mowa w ust. 5.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Zmian i uzupełnień składu komisji dokonuje się w trybie określonym dla powoływania w skład komisji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.[^1]",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 13 sierpnia 2018 r. (poz. 908)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Zgłoszenie kandydatów na członków terytorialnych komisji wyborczych w wyborach ...................................................................................................................., (określenie wyborów)"
+    },
+    {
+     "type": "text",
+     "text": "zarządzonych na dzień ....... - ........- 20.... r."
+    },
+    {
+     "type": "text",
+     "text": "Nazwa komitetu wyborczego"
+    },
+    {
+     "type": "text",
+     "text": "Działając w imieniu komitetu pełnomocnik wyborczy osoba upoważniona przez pełnomocnika wyborczego, zgłoszenia wyborczego dokonuje (zaznaczyć właściwe)"
+    },
+    {
+     "type": "text",
+     "text": "Dane osoby dokonującej zgłoszenia kandydatów na członków komisji"
+    },
+    {
+     "type": "text",
+     "text": "Imię Drugie imię Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "Adres Powiat Gmina Miejscowość zamieszkania: Ulica Nr Nr Poczta Kod - domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+    },
+    {
+     "type": "text",
+     "text": "Działając w imieniu komitetu wyborczego, dokonuję zgłoszenia kandydatów na członków terytorialnych komisji wyborczych"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa odpowiedniej terytorialnej komisji wyborczej (wojewódzka, powiatowa, miejska, gminna, dzielnicowa)"
+    },
+    {
+     "type": "text",
+     "text": "Dane kandydata na członka komisji"
+    },
+    {
+     "type": "text",
+     "text": "_"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że wyrażam zgodę na powołanie mnie w skład wskazanej wyżej komisji oraz że posiadam prawo wybieralności do Sejmu i spełniam pozostałe wymogi określone w Kodeksie wyborczym."
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r. ................................................................."
+    },
+    {
+     "type": "text",
+     "text": "Nazwa odpowiedniej terytorialnej komisji wyborczej (wojewódzka, powiatowa, miejska, gminna, dzielnicowa)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa miejscowości/dzielnicy w"
+    },
+    {
+     "type": "text",
+     "text": "Dane kandydata na członka komisji Imię Drugie imię Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "Adres Gmina Miejscowość Ulica zamieszkania Nr Nr Poczta Kod _ domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że wyrażam zgodę na powołanie mnie w skład wskazanej wyżej komisji oraz że posiadam prawo wybieralności do Sejmu i spełniam pozostałe wymogi określone w Kodeksie wyborczym."
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r. ................................................................. (miejscowość) (podpis kandydata na członka komisji)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa odpowiedniej terytorialnej komisji wyborczej (wojewódzka, powiatowa, miejska, gminna, dzielnicowa)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa miejscowości/dzielnicy w"
+    },
+    {
+     "type": "text",
+     "text": "Dane kandydata na członka komisji Imię Drugie imię Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "Adres Gmina Miejscowość Ulica zamieszkania Nr Nr Poczta Kod _ domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że wyrażam zgodę na powołanie mnie w skład wskazanej wyżej komisji oraz że posiadam prawo wybieralności do Sejmu i spełniam pozostałe wymogi określone w Kodeksie wyborczym."
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r. ................................................................."
+    },
+    {
+     "type": "text",
+     "text": "Strona nr ......"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa odpowiedniej terytorialnej komisji wyborczej (wojewódzka, powiatowa, miejska, gminna, dzielnicowa)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa miejscowości/dzielnicy w"
+    },
+    {
+     "type": "text",
+     "text": "Dane kandydata na członka komisji Imię Drugie imię Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "Adres Gmina Miejscowość Ulica zamieszkania Nr Nr Poczta Kod _ domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że wyrażam zgodę na powołanie mnie w skład wskazanej wyżej komisji oraz że posiadam prawo wybieralności do Sejmu i spełniam pozostałe wymogi określone w Kodeksie wyborczym."
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r. ................................................................. (miejscowość) (podpis kandydata na członka komisji)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa odpowiedniej terytorialnej komisji wyborczej (wojewódzka, powiatowa, miejska, gminna, dzielnicowa)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa miejscowości/dzielnicy w"
+    },
+    {
+     "type": "text",
+     "text": "Dane kandydata na członka komisji Imię Drugie imię Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "Adres Gmina Miejscowość Ulica zamieszkania Nr Nr Poczta Kod _ domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że wyrażam zgodę na powołanie mnie w skład wskazanej wyżej komisji oraz że posiadam prawo wybieralności do Sejmu i spełniam pozostałe wymogi określone w Kodeksie wyborczym."
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r. ................................................................."
+    },
+    {
+     "type": "text",
+     "text": "Strona nr ......"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa odpowiedniej terytorialnej komisji wyborczej (wojewódzka, powiatowa, miejska, gminna, dzielnicowa)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa miejscowości/dzielnicy w"
+    },
+    {
+     "type": "text",
+     "text": "Dane kandydata na członka komisji Imię Drugie imię Nazwisko"
+    },
+    {
+     "type": "text",
+     "text": "Adres Gmina Miejscowość Ulica zamieszkania Nr Nr Poczta Kod _ domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+    },
+    {
+     "type": "text",
+     "text": "Oświadczam, że wyrażam zgodę na powołanie mnie w skład wskazanej wyżej komisji oraz że posiadam prawo wybieralności do Sejmu i spełniam pozostałe wymogi określone w Kodeksie wyborczym."
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r. ................................................................. (miejscowość) (podpis kandydata na członka komisji)"
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r . ..................................................... (miejscowość) (podpis osoby dokonującej zgłoszenia)"
+    },
+    {
+     "type": "text",
+     "text": "UWAGA! Osoba dokonująca zgłoszenia z upoważnienia pełnomocnika wyborczego dołącza do zgłoszenia upoważnienie lub jego kopię (z oryginałem do wglądu)."
+    },
+    {
+     "type": "text",
+     "text": "Wypełnia osoba przyjmująca zgłoszenie Data _ _ Godzina 2 0 : zgłoszenia zgłoszenia"
+    },
+    {
+     "type": "text",
+     "text": "........................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "Strona nr ......"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Niniejsza uchwała była poprzedzona uchwałą Państwowej Komisji Wyborczej z dnia 25 sierpnia 2014 r. w sprawie sposobu zgłaszania kandydatów na członków komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania terytorialnych komisji wyborczych i obwodowych komisji wyborczych w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast (M.P. poz. 783 oraz z 2016 r. poz. 1007), która utraciła moc z dniem 31 stycznia 2018 r. na podstawie art. 5 pkt 69 lit. e i pkt 75 lit. h ustawy z dnia 11 stycznia 2018 r. o zmianie niektórych ustaw w celu zwiększenia udziału obywateli w procesie wybierania, funkcjonowania i kontrolowania niektórych organów publicznych (Dz. U. poz. 130). Nazwa miejscowości/dzielnicy w Imię Drugie imię Nazwisko Adres Gmina Miejscowość Ulica zamieszkania Nr Nr Poczta Kod domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis kandydata na członka komisji) (czytelny podpis osoby przyjmującej zgłoszenie)"
+ }
+}

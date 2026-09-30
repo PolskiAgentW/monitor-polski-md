@@ -1,0 +1,115 @@
+{
+ "eli": "MP/2019/666",
+ "title": "Komunikat Prezesa Urzędu Ochrony Danych Osobowych z dnia 17 czerwca 2019 r. w sprawie wykazu rodzajów operacji przetwarzania danych osobowych wymagających oceny skutków przetwarzania dla ich ochrony",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/666/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA URZĘDU OCHRONY DANYCH OSOBOWYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 czerwca 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykazu rodzajów operacji przetwarzania danych osobowych wymagających oceny skutków przetwarzania dla ich ochrony"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 54 ust. 1 pkt 1 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000 i 1669 oraz z 2019 r. poz. 730) w związku z art. 35 ust. 4 i 6 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz L 127 z 23.05.2018, str. 2) ogłasza się, co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ogłasza się wykaz rodzajów operacji przetwarzania danych osobowych wymagających oceny skutków przetwarzania dla ich ochrony, o którym mowa w art. 35 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) – wykaz określa załącznik do komunikatu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "wykaz, o którym mowa w pkt 1, uchyla zawarty w komunikacie Prezesa Urzędu Ochrony Danych Osobowych z dnia 17 sierpnia 2018 r. w sprawie wykazu rodzajów operacji przetwarzania danych osobowych wymagających oceny skutków przetwarzania dla ich ochrony (M.P. poz. 827), wykaz nieobejmujący czynności przetwarzania związanych z oferowaniem towarów lub usług osobom, których dane dotyczą, lub z monitorowaniem ich zachowania w kilku państwach członkowskich Unii Europejskiej.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Ochrony Danych Osobowych: J. Nowak"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do komunikatu Prezesa Urzędu Ochrony Danych Osobowych z dnia 17 czerwca 2019 r. (poz. 666)",
+   "body": [
+    {
+     "type": "text",
+     "text": "A O E I C OS B Y G WYKAZ RODZAJÓW OPERACJI PRZETWARZANIA DANYCH OSOBOWYCH LA H WYMAGAJĄCYCH PRZEPROWADZENIA OCENY SKUTKÓW PRZETWARZANIA DLA ICH OCHRONY"
+    },
+    {
+     "type": "text",
+     "text": "Poniższy wykaz zawiera rodzaje operacji przetwarzania, które w opinii Urzędu Ochrony Danych Osobowych wymagają oceny skutków dla ochrony danych. Wykaz ten został opracowany w ramach realizacji obowiązku nałożonego na Urząd Ochrony Danych Osobowych na podstawie art. 35 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) jako polski organ nadzorczy. Wykaz ten nie zwalnia administratora z obowiązku przeanalizowania wszelkich operacji przetwarzania danych w oparciu o pełną ocenę skutków dla ochrony danych na podstawie art. 35 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych). Wykaz został opracowany w oparciu o wytyczne Grupy Roboczej Artykułu 29 (WP 248) „Wytyczne dotyczące oceny skutków dla ochrony danych oraz pomagające ustalić, czy przetwarzanie «może powodować wysokie ryzyko» do celów rozporządzenia 2016/679”. Wykaz ten uzupełnia i konkretyzuje powyższe wytyczne."
+    },
+    {
+     "type": "text",
+     "text": "Co do zasady, przetwarzanie spełniające przynajmniej dwa z niżej wymienionych kryteriów będzie wymagać oceny skutków dla ochrony danych. W niektórych przypadkach administrator danych może jednak uznać, że przetwarzanie spełniające tylko jedno z niżej wymienionych kryteriów będzie wymagało przeprowadzenia oceny skutków dla ochrony danych. Im więcej kryteriów spełnia przetwarzanie, tym bardziej prawdopodobne jest wystąpienie wysokiego ryzyka naruszenia praw lub wolności podmiotów danych, a w konsekwencji, niezależnie od środków przewidzianych przez administratora do zastosowania, wymagana będzie ocena skutków dla ochrony danych."
+    },
+    {
+     "type": "text",
+     "text": "Urząd Ochrony Danych Osobowych podkreśla, że każdy z przykładów obszarów zastosowania ma charakter wyłącznie ilustracyjny, a w konsekwencji „Przykłady operacji/ zakresu danych/ okoliczności, w których może wystąpić wysokie ryzyko naruszenia dla danego rodzaju operacji przetwarzania” nie mają charakteru wyczerpującego. Zawarte w wykazie przykłady mają jedynie na celu pomoc w lepszym zrozumieniu kryteriów/rodzajów operacji mogących skutkować koniecznością przeprowadzenia oceny skutków dla ochrony danych."
+    },
+    {
+     "type": "text",
+     "text": "Wykaz ten w żaden sposób nie narusza ogólnego obowiązku administratora do dokonania właściwej oceny ryzyka i zarządzania ryzykiem. Przeprowadzenie oceny skutków dla ochrony danych nie zwalnia również administratora z innych obowiązków określonych w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) oraz z obowiązków określonych w innych właściwych przepisach."
+    },
+    {
+     "type": "text",
+     "text": "Firmy ubezpieczeniowe – np. korzystniejsze Profilowanie pośrednie (ocena osoby na podstawie oferty ubezpieczeniowe lub kredytowe dla przynależności do określonej grupy) pracowników określonych grup, np. administracji publicznej, nauczycieli 2. Zautomatyzowane Drogi objęte odcinkowym pomiarem prędkości Systemy monitoringu wykorzystywane podejmowanie decyzji (system gromadzi informacje nie tylko do zarządzania ruchem, umożliwiające szczegółowy wywołujących skutki o pojazdach naruszających przepisy, ale nadzór nad kierowcą oraz jego zachowaniem na prawne, finansowe lub o wszystkich pojazdach pojawiających się drodze, w szczególności systemy pozwalające na podobne istotne skutki w kontrolowanym obszarze), odcinki dróg automatyczną identyfikację pojazdów wyposażone w system elektronicznego poboru Systemy automatycznego pobierania opłat za opłat viaTOLL wjazd"
+    },
+    {
+     "type": "text",
+     "text": "Sklepy internetowe oferujące ceny promocyjne Systemy profilowania klientów pod kątem dla określonych grup klientów. zidentyfikowania preferencji zakupowych, Firmy obsługujące programy lojalnościowe automatycznego ustalania cen promocyjnych (wspólnoty zakupowe) w oparciu o profil Programy marketingowe zawierające elementy Monitorowanie zakupów i preferencji zakupowych profilowania osób (np. alkohol, słodycze) 3. Systematyczne Środki komunikacji miejskiej, miasta oferujące Monitorowanie osób korzystających z usług monitorowanie na dużą systemy wypożyczania rowerów, samochodów w przestrzeni publicznej, przy wykorzystaniu skalę miejsc dostępnych oraz wyznaczające strefy płatnego parkowania danych wykraczających poza dane niezbędne publicznie wykorzystujące do świadczenia tych usług elementy rozpoznawania Zakłady pracy (monitoring systemów Systemy monitorowania czasu pracy pracowników cech lub właściwości informatycznych poczty elektronicznej, oraz przepływu informacji w wykorzystywanych obiektów, które znajdą się używanego oprogramowania, kart dostępowych przez nich narzędziach (poczty elektronicznej, w monitorowanej itp.) Internetu) przestrzeni. Do tej grupy Kryterium: systematyczne monitorowanie ( vide WP systemów nie są zaliczane 249¹) + wrażliwe podmioty danych systemy monitoringu Przetwarzanie informacji pozyskiwanych przez Gromadzenie i wykorzystywanie danych przez wizyjnego, w których obraz Internet rzeczy (opaski medyczne, smartwatche aplikacje instalowane w urządzeniach mobilnych, jest nagrywany itp.) oraz ich przesyłanie w sieci przy użyciu w tym w urządzeniach zintegrowanych i wykorzystywany tylko urządzeń mobilnych typu smartfon czy tablet z mundurem, kaskiem lub w inny sposób w przypadku potrzeby połączonych z osobą pozyskującą dane analizy incydentów Systemy komunikujące się typu maszyna – Systemy monitoringu pojazdów nawiązujące naruszenia prawa maszyna, w których samochód informuje połączenia z otoczeniem, w tym z innymi otoczenie o swoim zachowaniu (ruchu) pojazdami i w przypadku pojawiającego się zagrożenia otrzymuje od tego otoczenia (infrastruktura drogowa, inne samochody) komunikaty ostrzegawcze Opinia Europejskiego Komitetu Ekonomiczno- Systemy wykorzystujące RFID w przypadku, gdy -Społecznego w sprawie znaczniki/etykiety są lub mogą być przypisane identyfikacji radiowej (RFID) (2007/C 256/13) osobom fizycznym Szpitale/Organizacje prowadzące badania Dane dotyczące zdrowia pacjentów/klientów kliniczne. Kluby fitness/ podmioty/ organizacje pobierające materiał genetyczny do badań"
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Przetwarzanie Partie polityczne, komitety wyborcze, komitety Przetwarzanie przez organy państwowe lub szczególnych kategorii referendalne i inicjatywy ustawodawcze, podmioty prywatne danych osobowych danych osobowych organizacje społeczne, kampanie wyborcze dotyczących przynależności partyjnej i/lub i dotyczących wyroków preferencji wyborczych skazujących i czynów Operatorzy telekomunikacyjni; dostawcy Regularne przetwarzanie danych pomiarowych zabronionych (danych mediów (prąd, gaz, woda) w zakresie umożliwiające obserwację stylu życia, wrażliwych wg opinii WP 29) inteligentnego opomiarowania – Zalecenie przemieszczania się w terenie, intensywności 2012/148/UE Komisji Europejskiej z marca korzystania z mediów, energii itp. (np. danych 2012 r. w sprawie przygotowań geolokalizacyjnych, danych z inteligentnych do rozpowszechniania inteligentnych systemów liczników pomiarowych o zużywanej energii, pomiarowych danych bilingowych dotyczących komunikacji elektronicznej itp.) Usługi poczty elektronicznej; systemy Serwisy internetowe i inne systemy informatyczne monitoringu osiągnięć sportowych oferowane osobom fizycznym do przetwarzania współpracujące z opaskami typu fitness informacji obejmujących działania o charakterze wykorzystujące chmurę obliczeniową; aplikacje czysto osobistym lub domowym (jak np. usługi dostarczane przez producentów czytników przetwarzania w chmurze do zarządzania elektronicznych do zakupu książek, gazet dokumentami osobistymi, usługi poczty elektronicznych z funkcjami robienia notatek itp. elektronicznej, kalendarze, e-czytniki wyposażone w funkcje robienia notatek oraz różne aplikacje typu „life-logging”, które mogą zawierać informacje o bardzo osobistym charakterze), których ujawnienie lub przetwarzanie do celów innych niż czynności o charakterze domowym może być uznane za bardzo ingerujące w prywatność 5. Przetwarzanie danych Systemy rozpoznawania twarzy, weryfikacja Wejścia do określonych obszarów, pomieszczeń lub biometrycznych wyłącznie tożsamości w miejscu pracy w celu kontroli uzyskanie dostępu do określonego konta w celu identyfikacji osoby dostępu, weryfikacja tożsamości w systemie informatycznym w celu np. wykonania fizycznej bądź w celu kontroli w urządzeniach/ aplikacjach (wliczając zlecenia transakcji w systemie teleinformatycznym dostępu rozpoznawanie głosu, odcisków palców, twarzy); lub wypłaty gotówki przy użyciu bankomatu itp. systemy monitoringu wejść do określonych pomieszczeń; systemy rozliczeniowo-ewidencyjne operacji bankowych, handlowych, ubezpieczeniowych; systemy kontroli wejść do klubów fitness, hoteli itp.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Przetwarzanie danych Laboratoria/Firmy/Szpitale oferujące Diagnoza medyczna genetycznych diagnostykę genetyczną Testy DNA Badania medyczne 7. Dane przetwarzane na Centralny system: Centralne zbiory danych wspomagające dużą skalę, gdzie pojęcie – informacji oświatowej; zarządzanie określoną grupą osób w celach dużej skali dotyczy: – informacji w szkolnictwie wyższym; związanych z realizacją zadań publicznych, • liczby osób, których dane – obsługi ubezpieczeń komunikacyjnych; z których dane udostępniane są w różnym zakresie są przetwarzane, – kwalifikacji zawodowych itp. w zależności od ich roli i zadań związanych • zakresu przetwarzania, z realizacją tych obowiązków • okresu przechowywania Portale społecznościowe, przeglądarki Zbieranie szerokiego zakresu danych danych oraz internetowe, dostawcy usług telewizji kablowej, o przeglądanych stronach internetowych, • geograficznego zakresu serwisy subskrypcyjne z filmami i programami realizowanych zakupach/ historii zakupów, przetwarzania telewizyjnymi dostępne na urządzeniach oglądanych programach telewizyjnych lub z dostępem do Internetu radiowych itp.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Przeprowadzanie Firmy marketingowe pobierające dane z różnych Łączenie danych z różnych rejestrów państwowych porównań, ocena lub źródeł, gdzie występują dane osobowe i/lub publicznych wnioskowanie na podstawie o klientach, w celach przeprowadzania analizy danych pozyskanych ukierunkowanych na określone grupy klientów z różnych źródeł akcji marketingowych Firmy marketingowe w celach doskonalenia i Tworzenie profili osób ze zbiorów danych rozszerzania profili potencjalnych klientów oraz pochodzących z różnych źródeł (łączenie zbiorów) doskonalenia usług reklamy ukierunkowanej na określone grupy społeczne; firmy obsługujące programy lojalnościowe (wspólnoty zakupowe) Portale społecznościowe, sieci handlowe, firmy Zbieranie danych o przeglądanych stronach, marketingowe, banki i instytucje finansowe wykonywanych operacjach bankowych, zakupach w sklepach internetowych, a następnie ich analiza w celu tworzenia profilu osoby 9. Przetwarzanie danych Serwisy oferujące pracę, które dokonują Przetwarzanie danych, w których dokonuje się dotyczących osób, których dopasowania ofert do określonych preferencji klasyfikacji lub ocen osób, których dane dotyczą, ocena i świadczone im usługi pracodawców pod względem np. wieku, płci, a następnie są uzależnione od klasyfikacje te wykorzystuje się do przedstawienia podmiotów lub osób, które ofert lub innych działań, które mogą mieć wpływ dysponują uprawnieniami na prawa lub wolność osób, których dane są nadzorczymi i/lub ocennymi przetwarzane Systemy służące do zgłaszania nieprawidłowości Systemy służące do zgłaszania nieprawidłowości (whistleblowing) (związanych np. z korupcją, mobbingiem) – w szczególności gdy przetwarzane są w nim dane pracowników",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Innowacyjne Sprzedawcy i dystrybutorzy mediów Systemy zdalnego opomiarowania, które, biorąc wykorzystanie lub (prąd, gaz, woda, usługi telekomunikacyjne) pod uwagę zakres i częstość zbierania danych, zastosowanie rozwiązań wdrażający inteligentne liczniki umożliwiają profilowanie osób lub grupy osób technologicznych lub Serwisy internetowe przetwarzające dane Systemy analizy i przetwarzania danych organizacyjnych z urządzeń typu Internet rzeczy, np. aparatów znajdujących się w metadanych, np. zdjęcia fotograficznych wyposażonych w funkcje opatrzone danymi geolokalizacyjnymi lokalizacyjne (GPS) Zastosowanie komunikacji między urządzeniami Systemy stosowane do analizy i przekazywania (Internet rzeczy – np. beacony, drony) danych dostawcom usługi przy użyciu aplikacji w przestrzeni publicznej i w miejscach mobilnych z urządzeń przenośnych typu: użyteczności publicznej smartwatch, inteligentne opaski, beacony itp. analizujące i przekazujące dane dostawcom przy użyciu aplikacji mobilnych Aplikacje z funkcjami komunikowania się Stosowanie urządzeń wyposażonych w różnego i oprogramowaniem umożliwiającym wymianę rodzaju interfejsy (głośnik, mikrofon, kamera) oraz informacji z najbliższym otoczeniem oraz zdalnie oprogramowanie i system łączności umożliwiające poprzez sieć telekomunikacyjną przekazywanie danych poprzez sieci telekomunikacyjne Zabawki interaktywne Usługi i zabawki dedykowane dzieciom Specjalistyczne porady i konsultacje Konsultacje telemedyczne z ośrodkami spoza UE, medyczne, badania kliniczne o zasięgu przekazywanie osobowych danych medycznych międzynarodowym o zasięgu międzynarodowym 11. Gdy przetwarzanie samo Podmioty udzielające pożyczek i kredytów oraz Podejmowanie decyzji kredytowej w stosunku do w sobie uniemożliwia oferujące sprzedaż ratalną potencjalnych klientów na podstawie informacji osobom, których dane zawartych w bazach zawierających informacje dotyczą, wykonywanie o dłużnikach lub podobnych bazach danych prawa lub korzystanie Sklepy internetowe oraz dostawcy innych usług Uzależnianie możliwości korzystania z usługi od z usługi lub umowy typu gry, muzyka, loterie itp. informacji w zakresie dochodów, kwoty wydatków miesięcznych i innych wartości zebranych w wyniku profilowania 12. Przetwarzanie danych Urządzenia, aplikacje i platformy wykorzystujące Przetwarzanie wykorzystujące śledzenie lokalizacji lokalizacyjnych Internet rzeczy. osoby fizycznej (wliczając sieci komunikacyjne Przetwarzanie danych w kontekście pracy i usługi komunikacyjne, wskazujące geograficzną w domu i pracy wykonywanej zdalnie. pozycję telekomunikacyjnych terminali urządzeń Przetwarzanie danych lokalizacyjnych użytkownika publicznie dostępnej usługi pracowników telekomunikacyjnej)",
+     "children": [
+      {
+       "type": "text",
+       "text": "I. Rodzaje/kryteria dla II. Potencjalne obszary wystąpienia/ istniejące III. Przykłady operacji/zakresu operacji przetwarzania, dla obszary zastosowań danych/okoliczności, w których może wystąpić których wymagane jest wysokie ryzyko naruszenia dla danego rodzaju przeprowadzenie oceny operacji przetwarzania 1. Ewaluacja lub ocena, Media społecznościowe, firmy marketingowe, Profilowanie użytkowników portali w tym profilowanie firmy headhunterskie społecznościowych i innych aplikacji w celu i przewidywanie (analiza wysyłania informacji handlowej behawioralna) w celach Banki, inne instytucje finansowe upoważnione Ocena zdolności kredytowej, przy użyciu wywołujących negatywne do udzielania kredytów, instytucje pożyczkowe algorytmów sztucznej inteligencji, objęta skutki prawne, fizyczne, w procesie oceny zdolności kredytowej obowiązkiem zachowania tajemnicy i żądanie finansowe lub inne ujawnienia danych niemających bezpośredniego niedogodności dla osób związku z oceną zdolności kredytowej fizycznych Firmy ubezpieczeniowe – oferowanie zniżek Ocena stylu życia, odżywiania się, jazdy, sposobu związanych ze stylem życia (papierosy, alkohol, spędzania czasu itp. osób fizycznych w celu np. sporty ekstremalne, styl jazdy samochodem) podwyższenia im ceny składki ubezpieczeniowej, na podstawie tej oceny, nazywana ogólnie optymalizacją składki ubezpieczeniowej ¹ Opinia 2/2017 na temat przetwarzania danych w miejscu pracy (08.06.2017)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

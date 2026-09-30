@@ -1,0 +1,559 @@
+{
+ "eli": "MP/2022/1239",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 16 listopada 2022 r. w sprawie włączenia kwalifikacji rynkowej \"Projektowanie i budowanie architektury modeli uczenia maszynowego (machine learning)\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/1239/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 listopada 2022 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji rynkowej „Projektowanie i budowanie architektury modeli uczenia maszynowego (machine learning)” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji rynkowej „Projektowanie i budowanie architektury modeli uczenia maszynowego (machine learning)” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: wz. J. Cieszyński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 16 listopada 2022 r. (M.P. poz. 1239)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „PROJEKTOWANIE I BUDOWANIE ARCHITEKTURY MODELI UCZENIA MASZYNOWEGO (MACHINE LEARNING)” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Projektowanie i budowanie architektury modeli uczenia maszynowego (machine learning)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nazwa dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okres ważności dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bezterminowo"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "6 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację określa z interesariuszami cele biznesowe lub naukowe i inne czynniki rzutujące na sposób rozwiązania problemu, odczytuje zamówioną specyfikację systemu, cele działania systemu, określa efekty działania systemu, architekturę ML tak, by było możliwe zaprogramowanie modelu ML. Architekturę modelu projektuje i buduje zgodnie z potrzebami zamawiającego. Odczytuje zamówioną specyfikację systemu, cele działania systemu, określa efekty działania systemu. Operacjonalizuje problem i dobiera modele do niego adekwatne."
+      },
+      {
+       "type": "text",
+       "text": "Analizuje wykonalność modelu. Przygotowuje dokumentację wykonawczą modelu ML dla programisty i projektuje testy modelu. Wykonując zadania zawodowe, posługuje się wiedzą z dziedziny ML oraz statystyki i analizy danych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Posługiwanie się wiedzą z dziedziny ML"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Charakteryzuje a) omawia zagadnienie ML, pojęcia z zakresu uczenia b) omawia zastosowania i możliwości implementacji ML w wybranych domenach problemaszynowego (machine mowych (np. rozpoznawanie mowy), learning – ML) c) omawia zastosowania i możliwości implementacji ML w wybranych obszarach (np. gałęzie gospodarki, sektory, obszary badań),",
+     "children": [
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "wyjaśnia różnice pomiędzy różnymi rodzajami zadań ML (np. klasyfikacja, regresja, klastrowanie, redukcja wymiarowości, wykrywanie anomalii, optymalizacja),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "omawia mocne i słabe strony metod / popularnych algorytmów ML (np. klastrowanie metodą k-średnich, random forest, SVM, sieci neuronowe, XGBoost, SVD/PCA, optymalizacyjne)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_1/lit_f",
+       "text": "wyjaśnia różnice pomiędzy strategiami uczenia się: modele nadzorowane/nienadzorowane / uczenie przez wzmocnienie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_1/lit_g",
+       "text": "omawia mocne i słabe strony metod uwzględniających wiele algorytmów (ensemble methods) i podaje przykłady takich metod,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_1/lit_h",
+       "text": "omawia mocne i słabe strony algorytmów typu AutoML,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "ust_1/lit_i",
+       "text": "omawia pojęcia overfittingu i underfittingu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "ust_1/lit_j",
+       "text": "omawia mocne i słabe strony miary oceny jakości modeli (np. krzywa ROC, AUC, R^2),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "ust_1/lit_k",
+       "text": "omawia mocne i słabe strony strategii kontroli jakości algorytmu ML (np. warianty resamplingu: kroswalidacja, out-of-bag bootstrap, subsampling/kroswalidacja Monte-Carlo),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "l",
+       "path": "ust_1/lit_l",
+       "text": "omawia zagadnienie logiki rozmytej w ujęciu uczenia maszynowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Omawia pojęcia a) wyjaśnia wzajemną relację pojęć: uczenie maszynowe, głębokie sieci neuronowe, statyz zakresu statystyki styka, sztuczna inteligencja, i analizy danych b) omawia pojęcia związane z typem i możliwościami przygotowania danych: dane potrzebne w budowaniu ustrukturyzowane, nieustrukturyzowane, preprocessing, encoding, dane testowe/treninarchitektury modeli gowe, uczenia maszynowego c) omawia zastosowanie technik/algorytmów statystycznych w uczeniu maszynowym, w tym modele regresyjne, wnioskowanie bayesowskie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zestaw 2. Posługiwanie się wiedzą o interpretowalnym uczeniu maszynowym (IML) oraz o wyjaśnialnych modelach sztucznej inteligencji (XAI)"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Charakteryzuje zasady a) omawia sposoby określenia, które dane i w jaki sposób zaważyły na decyzjach podjętych budowania przez model IML, interpretowalnych modeli b) omawia sposoby określenia, które dane i w jaki sposób zaważyły na decyzjach podjętych maszynowych (IML) przez model XAI, oraz wyjaśnialnych modeli sztucznej c) omawia znaczenie parametrów feature importance, inteligencji (XAI) d) omawia znaczenie relacji zmiennej w modelu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Charakteryzuje a) wymienia zasady IML, zasady IML b) omawia rolę stosowania zasad IML w odniesieniu do etyki biznesowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Charakteryzuje a) wymienia zasady XAI, zasady XAI b) omawia rolę stosowania zasad XAI w odniesieniu do etyki biznesowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zestaw 3. Przygotowanie i zbudowanie modelu uczenia maszynowego"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Prowadzi wywiad a) pozyskuje informacje na temat dostępnych danych i ich typów, techniczny z klientem b) ustala warunki techniczne realizacji zamówienia, m.in. kryteria odbioru, format przekazania zamówienia,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_1/lit_c",
+       "text": "identyfikuje typ problemu na podstawie zamówienia od klienta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "szacuje wykonalność projektu na podstawie próbek danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Analizuje a) określa efekty działania modelu na podstawie specyfikacji, wykonalność modelu b) określa ilość, jakość i użyteczność danych,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/lit_c",
+       "text": "weryfikuje dane pod kątem możliwości ich wykorzystania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "identyfikuje problemy, do których całkowicie wystarczające jest zastosowanie algorytmiki lub dostępnych gotowych rozwiązań chmurowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/lit_e",
+       "text": "podejmuje decyzje o wykonalności/niewykonalności zlecenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Projektuje i buduje a) proponuje sposoby przygotowania danych do modelu, rozwiązania b) przedstawia strategię podziału zbioru danych na część uczącą i część testową,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_3/lit_c",
+       "text": "przedstawia wady i zalety przygotowanych rozwiązań,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_3/lit_d",
+       "text": "wybiera i implementuje optymalny model,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_3/lit_e",
+       "text": "proponuje sposoby optymalizacji modelu (np. hiperparametry, optymalizator funkcji kosztu),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_3/lit_f",
+       "text": "porównuje miary oceny skuteczności zaproponowanych modeli,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_3/lit_g",
+       "text": "reaguje na problemy i modyfikuje architekturę systemu zgodnie z wybraną metodyką (np. CRSIP-DM, ASUM– DM).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zestaw 4. Przygotowanie dokumentacji wykonawczej"
+        },
+        {
+         "type": "text",
+         "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przygotowuje a) przygotowuje schemat modelu, tj. architekturę modelu, dokumentację b) przygotowuje rekomendacje dotyczące architektury danych, modelu, wykonawczą architektury modelu c) przygotowuje rekomendacje dotyczące niezbędnych zasobów sprzętowych i programowych,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "przygotowuje opis pełnych danych wraz z opisem ich podziału na dane treningowe i testowe,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "przygotowuje rekomendacje możliwych rozwiązań funkcjonalnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Przygotowuje a) opisuje zakres i cele testów modelu architektury, dokumentację i plan b) opisuje sposób przygotowania i przetworzenia danych do budowy modelu, testów c) opisuje zbiory danych do przeprowadzenia treningu modelu,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_2/lit_d",
+       "text": "opisuje możliwości zmiany zestawów hiperparametrów modelu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_2/lit_e",
+       "text": "opisuje zbiory danych przeznaczonych do testów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dotyczące walidacji i podmiotów przeprowadzających walidację",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Weryfikacja",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "Do weryfikacji efektów uczenia się zawartych w kwalifikacji stosuje się następujące metody:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "test teoretyczny,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "obserwacja w warunkach symulowanych:",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "zadania praktyczne, w tym test błędnego modelu – wskazanie niedziałających lub błędnych podejść,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "studium przypadku: analiza problemów,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "5",
+       "path": "ust_1/tir_5",
+       "text": "analiza różnych podejść do projektowania modeli ML,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "6",
+       "path": "ust_1/tir_6",
+       "text": "zadanie projektowe: projekt modelu ML wraz z dokumentacją na podstawie zadanych przez komisję wytycznych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "7",
+       "path": "ust_1/tir_7",
+       "text": "analiza dowodów i deklaracji, w tym np. portfolio kandydata (autorskie projekty modeli ML, dowody na programowanie modeli: na serwisie typu GITHUB, na serwisie typu STACK OVERFLOW, publikacje, w tym pokonferencyjne, wpisy na blogu lub zbliżone, dowody na doradztwo i projektowanie modeli), analiza strategii analitycznej opisanej przez kandydata w języku naturalnym wraz ze schematami,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "8",
+       "path": "ust_1/tir_8",
+       "text": "wywiad swobodny lub wywiad ustrukturyzowany (rozmowa z komisją) na temat zaprojektowanego modelu.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.2. Zasoby kadrowe"
+        },
+        {
+         "type": "text",
+         "text": "Komisja walidacyjna składa się z trzech osób. Przewodniczący komisji musi spełniać następujące warunki:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "9",
+       "path": "ust_1/tir_9",
+       "text": "m.in. dwuletnie doświadczenie w przeprowadzaniu egzaminów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Członkowie komisji muszą spełniać następujące warunki:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "10",
+       "path": "ust_1/tir_10",
+       "text": "co najmniej od czterech lat wykonywać pracę architektów modeli ML,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "11",
+       "path": "ust_1/tir_11",
+       "text": "cztery lata doświadczenia w tworzeniu (projektowaniu lub programowaniu) modeli uczenia maszynowego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne"
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca ma obowiązek zapewnić:"
+        }
+       ]
+      },
+      {
+       "type": "tir",
+       "num": "12",
+       "path": "ust_1/tir_12",
+       "text": "salę do zadań praktycznych oraz rozmowy,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "13",
+       "path": "ust_1/tir_13",
+       "text": "dostęp do komputera (z oprogramowaniem specjalistycznym wspomagającym projektowanie modeli ML), rzutnika, flipchartu i Internetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etapy identyfikowania i dokumentowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się warunków dla etapu identyfikowania i dokumentowania."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kwalifikacja pełna na 4 poziomie Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716)."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "eli": "MP/2021/223",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 26 lutego 2021 r. w sprawie kwoty najniższej renty z tytułu niezdolności do pracy dla osób całkowicie niezdolnych do pracy, kwoty najniższej renty z tytułu niezdolności do pracy dla osób częściowo niezdolnych do pracy, kwoty najniższej emerytury, kwoty renty rodzinnej, kwoty świadczenia przedemerytalnego, kwoty miesięcznego progu uprawniającego do świadczenia wyrównawczego i kwoty miesięcznego progu uprawniającego do świadczenia uzupełniającego dla osób niezdolnych do samodzielnej egzystencji",
+ "converter": "eli2md 0.6.16",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/223/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 lutego 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kwoty najniższej renty z tytułu niezdolności do pracy dla osób całkowicie niezdolnych do pracy, kwoty najniższej renty z tytułu niezdolności do pracy dla osób częściowo niezdolnych do pracy, kwoty najniższej emerytury, kwoty renty rodzinnej, kwoty świadczenia przedemerytalnego, kwoty miesięcznego progu uprawniającego do świadczenia wyrównawczego i kwoty miesięcznego progu uprawniającego do świadczenia uzupełniającego dla osób niezdolnych do samodzielnej egzystencji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ustawy z dnia 21 stycznia 2021 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. U. poz. 353) ogłasza się, że od dnia 1 marca 2021 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kwoty najniższej renty z tytułu niezdolności do pracy wynoszą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "1250,88 zł – dla osób całkowicie niezdolnych do pracy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "938,16 zł – dla osób częściowo niezdolnych do pracy;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "kwota najniższej emerytury wynosi: 1250,88 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "kwota renty rodzinnej wynosi: 1250,88 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "kwota świadczenia przedemerytalnego wynosi: 1262,34 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "kwota świadczenia przedemerytalnego zmniejszonego w przypadku przekroczenia dopuszczalnej kwoty przychodu wynosi: 631,17 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "kwota miesięcznego progu uprawniającego do świadczenia wyrównawczego wynosi: 2501,76 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "kwota miesięcznego progu uprawniającego do świadczenia uzupełniającego dla osób niezdolnych do samodzielnej egzystencji wynosi: 1772,08 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: G. Uścińska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

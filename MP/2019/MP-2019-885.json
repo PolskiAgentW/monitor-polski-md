@@ -1,0 +1,607 @@
+{
+ "eli": "MP/2019/885",
+ "title": "Uchwała nr 225/2019 Państwowej Komisji Wyborczej z dnia 9 września 2019 r. zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/885/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 225/2019"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 września 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 40 § 5 i art. 40a § 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2019 r. poz. 684 i 1504) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 207/2019 Państwowej Komisji Wyborczej z dnia 2 września 2019 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille’a w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju (M.P. poz. 884) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w ust. 2 w pkt 1:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_1/lit_a/tir_1",
+         "text": "po lit. k dodaje się lit. ka w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„ka) 586,50 mm na 484,00 mm – jeżeli w okręgu wyborczym, w którym wybiera się nie więcej niż 16 posłów, zarejestrowano 7 list kandydatów,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_1/lit_a/tir_2",
+         "text": "w lit. m średnik zastępuje się przecinkiem i dodaje się lit. n w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„n) 586,50 mm na 580,00 mm – jeżeli w okręgu wyborczym, w którym wybiera się 20 posłów, zarejestrowano 7 list kandydatów;”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "w ust. 5:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_1/lit_b/tir_1",
+         "text": "po pkt 11 dodaje się pkt 11a w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„11a) w przypadku karty, o której mowa w ust. 2 pkt 1 lit. ka – załącznik nr 11a do uchwały;”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_1/lit_b/tir_2",
+         "text": "po pkt 13 dodaje się pkt 13a w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„13a) w przypadku karty, o której mowa w ust. 2 pkt 1 lit. n – załącznik nr 13a do uchwały;”;",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 5:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w ust. 3:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_a/tir_1",
+         "text": "po pkt 11 dodaje się pkt 11a w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„11a) w przypadku nakładki na kartę do głosowania, o której mowa w § 1 ust. 2 pkt 1 lit. ka – po 32 kratki przy 7 listach;”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_a/tir_2",
+         "text": "po pkt 13 dodaje się pkt 13a w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„13a) w przypadku nakładki na kartę do głosowania, o której mowa w § 1 ust. 2 pkt 1 lit. n – po 40 kratek przy 7 listach;”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w ust. 6:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_2/lit_b/tir_1",
+         "text": "po pkt 11 dodaje się pkt 11a w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„11a) w przypadku nakładki na kartę do głosowania, o której mowa w § 1 ust. 2 pkt 1 lit. ka – załącznik nr 28a do uchwały;”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_2/lit_b/tir_2",
+         "text": "po pkt 13 dodaje się pkt 13a w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„13a) w przypadku nakładki na kartę do głosowania, o której mowa w § 1 ust. 2 pkt 1 lit. n – załącznik nr 30a do uchwały;”;",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "po załączniku nr 11 dodaje się załącznik nr 11a w brzmieniu załącznika nr 1 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "po załączniku nr 13 dodaje się załącznik nr 13a w brzmieniu załącznika nr 2 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "po załączniku nr 28 dodaje się załącznik nr 28a w brzmieniu załącznika nr 3 do niniejszej uchwały;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "po załączniku nr 30 dodaje się załącznik nr 30a w brzmieniu załącznika nr 4 do niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały nr 225/2019 Państwowej Komisji Wyborczej z dnia 9 września 2019 r. (poz. 885) Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "586,50 mm"
+    },
+    {
+     "type": "text",
+     "text": "7 , 00 mm"
+    },
+    {
+     "type": "text",
+     "text": "mm KARTA DO GŁOSOWANIA mm 7 , 00 mm Okręg wyborczy nr w wyborach do Sejmu Rzeczypospolitej Polskiej w dniu ... ... ... r. mm 00 14 ,⁰⁰ , 9,00 mm LISTY KANDYDATÓW NA POSŁÓW₈₂ mm⁰⁰, 6,00 mm Lista nr ... Lista nr ... Lista nr ... Lista nr ... Lista nr ...⁹⁴ Lista nr ... Lista nr ... . 73,50 ........... mm 73,50 ........... mm 73,50 ........... mm 73,50 ........... mm⁰⁰,₉.... 73,50 .......... mm 73,50 ........... mm ............. 56,00 mm mm (nazwa b só nazwy ote wybozego) (nazwa ub sró azwy oe wyboczego) (azwa ub sró azwy koe wybozego) (nazwa b só azwy ote wybozego) (nazwa b só azwy oe wybozego) (azwa ub skró azwy koe wyboczego) (nazwa b só azwy ote wybozego) 00 01 70,50 mm 01 70,50 mm 01 70,50 mm 01 70,50 mm 01 70,50 mm 01 70,50 mm 01 70,50 mm ,₆"
+    },
+    {
+     "type": "text",
+     "text": "mm₀₀,₆⁰²₀₃⁰²₀₃⁰²₀₃⁰²₀₃⁰²₀₃⁰²₀₃⁰²₀₃"
+    },
+    {
+     "type": "text",
+     "text": "⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵"
+    },
+    {
+     "type": "text",
+     "text": "⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷"
+    },
+    {
+     "type": "text",
+     "text": "⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹"
+    },
+    {
+     "type": "text",
+     "text": "¹⁰¹¹¹⁰¹¹¹⁰¹¹¹⁰¹¹¹⁰¹¹¹⁰¹¹¹⁰¹¹"
+    },
+    {
+     "type": "text",
+     "text": "¹²¹²¹²¹²¹²¹²¹²"
+    },
+    {
+     "type": "text",
+     "text": "8,40¹³mm¹³¹³¹³¹³¹³¹³"
+    },
+    {
+     "type": "text",
+     "text": "¹⁴ 76,50 mm¹⁴ 76,50 mm¹⁴ 76,50 mm¹⁴ 76,50 mm¹⁴ 76,50 mm¹⁴ 76,50 mm¹⁴ 7710 mm"
+    },
+    {
+     "type": "text",
+     "text": "¹⁵₁₆¹⁵₁₆¹⁵₁₆¹⁵₁₆¹⁵₁₆¹⁵₁₆¹⁵₁₆ mm₀₀, ¹⁷¹⁸¹⁷¹⁸¹⁷¹⁸¹⁷¹⁸¹⁷¹⁸¹⁷¹⁸¹⁷¹⁸⁴⁸⁴"
+    },
+    {
+     "type": "text",
+     "text": "¹⁹²⁰¹⁹²⁰¹⁹²⁰¹⁹²⁰¹⁹²⁰¹⁹²⁰¹⁹²⁰"
+    },
+    {
+     "type": "text",
+     "text": "²¹²²²¹²²²¹²²²¹²²²¹²²²¹²²²¹²²"
+    },
+    {
+     "type": "text",
+     "text": "²³²⁴²³²⁴²³²⁴²³²⁴²³²⁴²³²⁴²³²⁴"
+    },
+    {
+     "type": "text",
+     "text": "²⁵²⁶²⁵²⁶²⁵²⁶²⁵²⁶²⁵²⁶²⁵²⁶²⁵²⁶"
+    },
+    {
+     "type": "text",
+     "text": "²⁷²⁸²⁷²⁸²⁷²⁸²⁷²⁸²⁷²⁸²⁷²⁸²⁷²⁸"
+    },
+    {
+     "type": "text",
+     "text": "²⁹³⁰²⁹³⁰²⁹³⁰²⁹³⁰²⁹³⁰²⁹³⁰²⁹³⁰"
+    },
+    {
+     "type": "text",
+     "text": "³¹³²³¹³²³¹³²³¹³²³¹³²³¹³²³¹³²"
+    },
+    {
+     "type": "text",
+     "text": "Informacja 1 Znajdź listę kandydatów, na którą chcesz zagłosować 2 Postaw znak X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście . pkioezięs woybęogrozwee 3 Jeżeli postawisz znak X” na więcej niż jedne liście kandydatów, Twój głos będzie nieważny 4 Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "586,50 mm"
+    },
+    {
+     "type": "text",
+     "text": "7 , 00 mm"
+    },
+    {
+     "type": "text",
+     "text": "mm KARTA DO GŁOSOWANIA mm 7 , 00 mm Okręg wyborczy nr w wyborach do Sejmu Rzeczypospolitej Polskiej w dniu ... ... ... r. mm 00 14 ,⁰⁰ , 9,00 mm LISTY KANDYDATÓW NA POSŁÓW₈₂ mm⁰⁰, 6,00 mm Lista nr ... Lista nr ... Lista nr ... Lista nr ... Lista nr ...⁹⁴ Lista nr ... Lista nr ... . .. 73,50 .... mm .. 73,50 .... mm .. 73,50 .. mm .. 73,50 .... mm ......⁰⁰,⁹ 73,50 .. .. mm .. 73,50 .. mm .. .. 56,00 . mm . mm (nazwa b só nazwy ote wybozego) (nazwa b só nazwy oe wybozego) (azwa ub skró azwy koe wyboczego) (nazwa b só azwy ote wybozego) (nazwa b só nazwy oe wybozego) (nazwa ub skró azwy ome wyboczego) (azwa b só azwy oet wybozego) 00 01 70,50 mm 01 01 70,50 mm 01 70,50 mm 01 70,50 mm 01 70,50 mm 01 70,50 mm 01 70,50 mm ,₆"
+    },
+    {
+     "type": "text",
+     "text": "mm₀₀,₆⁰²₀₃⁰²₀₃⁰²₀₃⁰²₀₃⁰²₀₃⁰²₀₃⁰²₀₃"
+    },
+    {
+     "type": "text",
+     "text": "⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵⁰⁴⁰⁵"
+    },
+    {
+     "type": "text",
+     "text": "⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷⁰⁶⁰⁷"
+    },
+    {
+     "type": "text",
+     "text": "⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹⁰⁸⁰⁹"
+    },
+    {
+     "type": "text",
+     "text": "¹⁰¹¹¹⁰¹¹¹¹¹⁰¹¹¹⁰¹¹¹⁰¹¹¹⁰¹¹¹⁰¹¹"
+    },
+    {
+     "type": "text",
+     "text": "¹²¹²¹²¹²¹²¹²¹²"
+    },
+    {
+     "type": "text",
+     "text": "8,40¹³mm¹³¹³¹³¹³¹³¹³"
+    },
+    {
+     "type": "text",
+     "text": "¹⁴₁₅ 76,50 mm¹⁴₁₅ 76,50 mm¹⁴₁₅ 76,50 mm¹⁴₁₅ 76,50 mm¹⁴₁₅ 76,50 mm¹⁴₁₅ 76,50 mm¹⁴₁₅ 77,10 mm"
+    },
+    {
+     "type": "text",
+     "text": "¹⁶¹⁷¹⁶¹⁷¹⁶¹⁷¹⁶¹⁷¹⁶¹⁷¹⁶¹⁷¹⁶¹⁷"
+    },
+    {
+     "type": "text",
+     "text": "¹⁸¹⁸¹⁸¹⁸¹⁸¹⁸¹⁸"
+    },
+    {
+     "type": "text",
+     "text": "¹⁹²⁰¹⁹²⁰¹⁹²⁰¹⁹²⁰¹⁹²⁰¹⁹²⁰¹⁹²⁰ mm"
+    },
+    {
+     "type": "text",
+     "text": "21 21 21 21 21 21 21 21 00 ,₀₈₅"
+    },
+    {
+     "type": "text",
+     "text": "²²²³²²²³²²²³²²²³²²²³²²²³²²²³"
+    },
+    {
+     "type": "text",
+     "text": "²⁴²⁵²⁵²⁴²⁴²⁵²⁵²⁴²⁵²⁴²⁵²⁴²⁴²⁵"
+    },
+    {
+     "type": "text",
+     "text": "²⁶²⁷²⁶²⁷²⁶²⁷²⁶²⁷²⁶²⁷²⁶²⁷²⁶²⁷"
+    },
+    {
+     "type": "text",
+     "text": "²⁸²⁹²⁸²⁹²⁸²⁹²⁸²⁹²⁸²⁹²⁸²⁹²⁸²⁹"
+    },
+    {
+     "type": "text",
+     "text": "³⁰³¹³⁰³¹³¹³⁰³¹³⁰³¹³⁰³¹³⁰³¹³⁰³¹"
+    },
+    {
+     "type": "text",
+     "text": "³²³³³²³³³²³³³²³³³²³³³²³³³²³³"
+    },
+    {
+     "type": "text",
+     "text": "³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵"
+    },
+    {
+     "type": "text",
+     "text": "³⁶³⁷³⁶³⁷³⁶³⁷³⁶³⁷³⁶³⁷³⁶³⁷³⁶³⁷"
+    },
+    {
+     "type": "text",
+     "text": "Informacja 1 Znajdź listę kandydatów, na którą chcesz zagłosować pkoeczęsjć woybęogrozwee 2 Postaw znak „X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście 3 Jeżeli postawisz znak X” na więcej niż jednej liście kandydatów, Twój głos będzie nieważny 4 Znak X” to co najmniej dwie linie przecinające się wewnątrz kratki."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "492,50 mm"
+    },
+    {
+     "type": "text",
+     "text": "562,90 mm mm"
+    },
+    {
+     "type": "text",
+     "text": "586,90 mm⁰⁰,⁰⁶"
+    },
+    {
+     "type": "text",
+     "text": "Nakładka na kartę do głosowania w wyborach mm do Sejmu Rzeczypospolitej Polskiej (opis jak powyżej alfabetem Braille`a)⁰³,"
+    },
+    {
+     "type": "text",
+     "text": "7,00 mm⁹⁴"
+    },
+    {
+     "type": "text",
+     "text": "mm ₀₀, #01 #01 #01"
+    },
+    {
+     "type": "text",
+     "text": "mm₀₀,⁷"
+    },
+    {
+     "type": "text",
+     "text": "⁵ # 04 #0 #05 05"
+    },
+    {
+     "type": "text",
+     "text": "#0 #08 #08 # 8"
+    },
+    {
+     "type": "text",
+     "text": "#1 #1 # 1 # #1"
+    },
+    {
+     "type": "text",
+     "text": "7,90 mm #14 #14 #14 #14 #14 #14"
+    },
+    {
+     "type": "text",
+     "text": "75,50 mm 75,50 mm 75,50 mm 75,50 mm 75,50 mm 75,50 mm 77,00 mm # # #1 #1 mm mm mm"
+    },
+    {
+     "type": "text",
+     "text": "00 , 08 , 00 ,"
+    },
+    {
+     "type": "text",
+     "text": "#1 #18 # 8⁸⁶⁴⁴⁸⁴⁰³³ # #1"
+    },
+    {
+     "type": "text",
+     "text": "# #2 #2 #22 #22"
+    },
+    {
+     "type": "text",
+     "text": "#2 5 #2 #2 #2 #2 60,00 mm"
+    },
+    {
+     "type": "text",
+     "text": "# #2 #2 # 2 #2"
+    },
+    {
+     "type": "text",
+     "text": "#32 #32 #32"
+    },
+    {
+     "type": "text",
+     "text": "mm₀₀,"
+    },
+    {
+     "type": "text",
+     "text": "492,50 mm⁰⁶"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "492,50 mm"
+    },
+    {
+     "type": "text",
+     "text": "563,0 mm mm"
+    },
+    {
+     "type": "text",
+     "text": "586,90 mm⁰⁰,⁰⁶"
+    },
+    {
+     "type": "text",
+     "text": "Nakładka na kartę do głosowania w wyborach mm do Sejmu Rzeczypospolitej Polskiej (opis jak powyżej alfabetem Braille`a)⁰³,"
+    },
+    {
+     "type": "text",
+     "text": "7,00 mm⁹⁴"
+    },
+    {
+     "type": "text",
+     "text": "mm"
+    },
+    {
+     "type": "text",
+     "text": "mm⁰⁰,⁷ ⁰⁰,₅ #03 #03 #0 #04 04"
+    },
+    {
+     "type": "text",
+     "text": "#0 #07 #07 # 7"
+    },
+    {
+     "type": "text",
+     "text": "#1 #1 # 0 # #1"
+    },
+    {
+     "type": "text",
+     "text": "7,90 mm #14 #14 #14 #14 #14 #14"
+    },
+    {
+     "type": "text",
+     "text": "75,50 mm 75,50 mm 75,50 mm 75,50 mm 75,50 mm 75,50 mm 77,00 mm #1"
+    },
+    {
+     "type": "text",
+     "text": "#17 #17 # 7 #1"
+    },
+    {
+     "type": "text",
+     "text": "# #2 mm mm mm #2 2 #2₀₆₅₀₈₅₃₂₄ 00 , 08 , 00 ,"
+    },
+    {
+     "type": "text",
+     "text": "#2 4 #2 #24 #24 #2"
+    },
+    {
+     "type": "text",
+     "text": "# #2 #2 # 2 #2"
+    },
+    {
+     "type": "text",
+     "text": "#31 #31 #3 #3"
+    },
+    {
+     "type": "text",
+     "text": "#3 #34 #34 # 35 #3 60,00 mm"
+    },
+    {
+     "type": "text",
+     "text": "#38 #38 #38 #3"
+    },
+    {
+     "type": "text",
+     "text": "mm₀₀"
+    },
+    {
+     "type": "text",
+     "text": "492,50 mm ,⁰⁶"
+    },
+    {
+     "type": "text",
+     "text": "³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹ ⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰ N a k ła d a n o dg s o w a ia S e jm u R zw e awc zyk yba por o tręas pcdho teoło j P o s kie j N a k ła d a n o dg s o w a ia S e jm u R zw e awc zyk yba por o tręas pcdho teoło j P o s kie j"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,2362 @@
+{
+ "eli": "MP/2021/1138",
+ "title": "Uchwała nr 149 Rady Ministrów z dnia 2 listopada 2021 r. w sprawie przyjęcia \"Polskiej strategii wodorowej do roku 2030 z perspektywą do 2040 r.\"",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/1138/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 149"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 listopada 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie przyjęcia „Polskiej strategii wodorowej do roku 2030 z perspektywą do 2040 r.”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21f ust. 4 ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057) uchwala się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przyjmuje się „Polską strategię wodorową do roku 2030 z perspektywą do 2040 r.” stanowiącą załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  },
+  {
+   "type": "note",
+   "text": "[Na stronie 2 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 149 Rady Ministrów z dnia 2 listopada 2021 r. (poz. 1138)",
+   "body": [
+    {
+     "type": "text",
+     "text": "POLSKA STRATEGIA WODOROWA"
+    },
+    {
+     "type": "text",
+     "text": "DO ROKU 2030"
+    },
+    {
+     "type": "text",
+     "text": "Z PERSPEKTYWĄ DO 2040 R."
+    },
+    {
+     "type": "text",
+     "text": "Warszawa, październik 2021 r."
+    },
+    {
+     "type": "text",
+     "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dlaczego wodór? Wprowadzenie i kontekst 3",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Strategiczne znaczenie gospodarki wodorowej 3"
+      },
+      {
+       "type": "text",
+       "text": "1.2. Wizja – stworzenie polskiej gałęzi gospodarki wodorowej 4"
+      },
+      {
+       "type": "text",
+       "text": "1.3. Globalne i europejskie działania na rzecz energii i klimatu 4"
+      },
+      {
+       "type": "text",
+       "text": "1.4. Wodór a krajowe polityki i działania 5"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Wodór dziś 7",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Łańcuch wartości gospodarki wodorowej 8"
+      },
+      {
+       "type": "text",
+       "text": "2.2. Produkcja i rodzaje wodoru 8"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Cele strategii 13",
+     "children": [
+      {
+       "type": "text",
+       "text": "Cel 1: Wdrożenie technologii wodorowych w energetyce i ciepłownictwie 13"
+      },
+      {
+       "type": "text",
+       "text": "Cel 2: Wykorzystanie wodoru jako paliwa alternatywnego w transporcie 16"
+      },
+      {
+       "type": "text",
+       "text": "Cel 3: Wsparcie dekarbonizacji przemysłu 18"
+      },
+      {
+       "type": "text",
+       "text": "Cel 4: Produkcja wodoru w nowych instalacjach 20"
+      },
+      {
+       "type": "text",
+       "text": "Cel 5: Sprawny i bezpieczny przesył, dystrybucja i magazynowanie wodoru 22"
+      },
+      {
+       "type": "text",
+       "text": "Cel 6: Stworzenie stabilnego otoczenia regulacyjnego 24"
+      },
+      {
+       "type": "text",
+       "text": "Działania horyzontalne 24"
+      },
+      {
+       "type": "text",
+       "text": "Perspektywa do 2040 roku 24"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wdrażanie, finansowanie i monitorowanie Strategii 26",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.1. System wdrażania Strategii 26"
+      },
+      {
+       "type": "text",
+       "text": "4.2. Działania legislacyjne 27"
+      },
+      {
+       "type": "text",
+       "text": "4.3. Działania pozalegislacyjne 29"
+      },
+      {
+       "type": "text",
+       "text": "4.4. Finansowanie realizacji Strategii 32"
+      },
+      {
+       "type": "text",
+       "text": "4.5. Aktualizacja Strategii i system monitorowania 35"
+      },
+      {
+       "type": "text",
+       "text": "4.6. Wskaźniki Strategii 36"
+      },
+      {
+       "type": "text",
+       "text": "Wykaz skrótów 37"
+      },
+      {
+       "type": "text",
+       "text": "Spis rysunków i tabel 38"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 3 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "DLACZEGO WODÓR? WPROWADZENIE I KONTEKST",
+     "children": [
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r. (PSW) jest dokumentem strategicznym, który określa główne cele rozwoju gospodarki wodorowej w Polsce i kierunki interwencji, jakie są pożądane dla ich osiągnięcia. Wpisuje się ona w globalne, europejskie i krajowe działania mające na celu osiągnięcie gospodarki niskoemisyjnej."
+      },
+      {
+       "type": "text",
+       "text": "1.1. STRATEGICZNE ZNACZENIE GOSPODARKI WODOROWEJ"
+      },
+      {
+       "type": "text",
+       "text": "Zwiększenie udziału energii elektrycznej wytwarzanej z wykorzystaniem odnawialnych źródeł energii (OZE) w bilansie energetycznym jest wielkim wyzwaniem rozwojowym nie tylko Polski, ale większości rozwiniętych gospodarek świata. W związku z brakiem odpowiednio rozwiniętych sposobów magazynowania energii na dużą skalę oraz usług służących bilansowaniu systemów elektroenergetycznych nieograniczony rozwój OZE nie jest możliwy, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa dostaw energii elektrycznej. Wodór, pełniąc rolę magazynu energii, może odegrać istotną rolę w procesie osiągania neutralności klimatycznej, będącym obecnie w centrum globalnych i europejskich wysiłków w dziedzinie energii, koniecznym dla osiągnięcia celów Porozumienia paryskiego¹."
+      },
+      {
+       "type": "text",
+       "text": "Ponadto wodór oferuje rozwiązania dla tych segmentów gospodarki, w których trudno osiągnąć redukcję emisji w drodze elektryfikacji. Inwestycje w rozwój technologii wodorowych są szansą na obniżenie emisyjności sektorów energochłonnych i tym samym nie tylko przyczynią się do zrównoważonego wzrostu gospodarczego, lecz również do utrzymania i przekwalifikowania kadry w sektorach zagrożonych redukcją. Tworzenie łańcucha wartości technologii wodorowych od produkcji przez przesyłanie do zastosowań na potrzeby mobilności, przemysłu, energii elektrycznej i ogrzewania będzie wspierać związane z tymi obszarami umiejętności i dostosowanie kadr do zmieniającego się rynku pracy, co ma kluczowe znaczenie w kontekście wychodzenia z kryzysu związanego z COVID-19."
+      },
+      {
+       "type": "text",
+       "text": "Uwzględnienie technologii wodorowych w polityce rozwojowej państwa, ich doskonalenie, budowa kompetencji oraz tworzenie polskich produktów eksportowych jest więc strategicznym wyzwaniem i wymaga podejścia opartego na całym łańcuchu dostaw. Dążenie do produkcji wodoru przy zastosowaniu odnawialnych lub niskoemisyjnych źródeł energii, rozwój infrastruktury służącej dostarczaniu wodoru do odbiorców końcowych i tworzenie popytu rynkowego muszą odbywać się równolegle. Wymaga to również obniżenia kosztów czystych technologii produkcji i dystrybucji wodoru oraz dostarczenie wkładu energii z OZE po cenie zapewniającej konkurencyjność rynkową. Proces ten wymaga zaangażowania państwa, dialogu społecznego i zaprojektowania stosownych ram prawnych, które odpowiadać będą potrzebom rynku i międzynarodowym zobowiązaniom klimatycznym Polski."
+      },
+      {
+       "type": "text",
+       "text": "GOSPODARKA WODOROWA jest rozumiana łącznie jako: technologie wytwarzania, magazynowania, dystrybucji i wykorzystania wodoru oraz jego pochodnych, obejmujące scentralizowane i rozproszone systemy wytwarzania, magazynowania, transportu wodoru z wykorzystaniem sieci przesyłowej i dystrybucyjnej, jak i innych form transportu, oraz jego następne wykorzystanie w różnych gałęziach gospodarki."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "1.2. WIZJA – STWORZENIE POLSKIEJ GAŁĘZI GOSPODARKI WODOROWEJ"
+      },
+      {
+       "type": "text",
+       "text": "Rozwój gospodarki wodorowej wymaga stworzenia całego łańcucha wartości, w szczególności budowy: nowych mocy wytwórczych OZE, instalacji do produkcji wodoru i jego pochodnych z niskoemisyjnych źródeł, procesów i technologii, w tym instalacji elektrolizerów, sieci dystrybucji wodoru, stosownej infrastruktury przesyłowej i transportowej, magazynów wodoru, infrastruktury tankowania oraz produkcji ogniw paliwowych wykorzystywanych w energetyce, ciepłownictwie, transporcie i innych sektorach gospodarki."
+      },
+      {
+       "type": "text",
+       "text": "Wizją i nadrzędnym celem PSW jest stworzenie polskiej gałęzi gospodarki wodorowej oraz"
+      },
+      {
+       "type": "text",
+       "text": "jej rozwój na rzecz osiągnięcia neutralności klimatycznej i utrzymania konkurencyjności pol-"
+      },
+      {
+       "type": "text",
+       "text": "skiej gospodarki."
+      },
+      {
+       "type": "text",
+       "text": "Aby to osiągnąć, niezbędne jest przygotowanie dobrze skoordynowanych strategii na szczeblu krajowym przy zaangażowaniu samorządów z uwzględnieniem odpowiedniego dialogu środowisk naukowych, przedsiębiorców i społeczeństwa, co przyczyni się do zaprojektowania odpowiednich polityk i stosownych ram prawnych, które odpowiadać będą potrzebom rynku i międzynarodowym zobowiązaniom klimatycznym Polski. Konieczne jest także przygotowanie właściwie skoordynowanych strategii na szczeblu europejskim, a także podjęcie działań dyplomatycznych w dziedzinie energii i klimatu z partnerami międzynarodowymi. Należy zaplanować rozwiązania prawne wspierające rozwój wykorzystania wodoru. Kluczowe jest tworzenie zachęt do budowania podaży i popytu, w tym niwelowanie różnic w kosztach między konwencjonalnymi rozwiązaniami a rozwiązaniami w oparciu o wodór odnawialny i wodór niskoemisyjny oraz przez ustanowienie odpowiednich zasad pomocy państwa i zapewnienie finansowania technologii wodorowych z pakietu stymulującego Komisji Europejskiej, co przyczyni się do dalszego ich rozwoju. Dzięki sprzyjającym warunkom ramowym powstaną konkretne plany umożliwiające transformację technologii wodorowych na niskoemisyjne oraz rozwój i zastosowanie technologii do produkcji wodoru odnawialnego, zarówno na potrzeby lokalne, jak i systemowe, w tym zasilane z dużych dedykowanych elektrowni wiatrowych i słonecznych w skali gigawatów przed 2030 r., a w dalszej perspektywie również z planowanych elektrowni jądrowych. Środki finansowe niezbędne są zwłaszcza na początku, w momencie powstawania instalacji pilotażowych, budowania know-how i przeprowadzania zaawansowanych badań."
+      },
+      {
+       "type": "text",
+       "text": "1.3. GLOBALNE I EUROPEJSKIE DZIAŁANIA NA RZECZ ENERGII I KLIMATU"
+      },
+      {
+       "type": "text",
+       "text": "Kształt, a następnie realizacja PSW, jest warunkowana przez szereg zobowiązań, jakie wynikają dla Polski z uczestnictwa w gremiach i instytucjach międzynarodowych i przyjmowanych dokumentach o charakterze strategicznym. Polska angażuje się w globalne wysiłki podejmowane na rzecz klimatu, a do jej najistotniejszych zobowiązań międzynarodowych w zakresie polityki klimatycznej należą umowy zawarte w ramach Organizacji Narodów Zjednoczonych: Konwencja UNFCCC z 1992 r., Protokół z Kioto z 1997 r. i Porozumienie paryskie."
+      },
+      {
+       "type": "text",
+       "text": "Celem Porozumienia paryskiego jest intensyfikacja globalnej odpowiedzi na zagrożenie związane ze zmianami klimatu, w kontekście zrównoważonego rozwoju i wysiłków na rzecz likwidacji ubóstwa."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 5 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Jego kluczowym celem jest ograniczenie wzrostu średniej temperatury globalnej do poziomu znacznie niższego niż 2°C powyżej poziomu przedindustrialnego oraz podejmowanie wysiłków mających na celu ograniczenie wzrostu temperatury do 1,5°C."
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "United Nations Industrial Development Organization (UNIDO) jednoznacznie wskazuje w swoim raporcie² na znaczenie technologii wodorowych w dekarbonizacji przemysłu i energetyki."
+      },
+      {
+       "type": "text",
+       "text": "Strategicznym długoterminowym celem ustalonym dla Unii Europejskiej (UE) jest osiągnięcie neutralności klimatycznej do 2050 r. zgodnie z wizją Komisji Europejskiej zaprezentowaną w 2018 r. na COP-24 w Katowicach³, potwierdzoną w Komunikacie Komisji Europejski Zielony Ład⁴. Komisja opublikowała 8 lipca 2020 r. komunikat zatytułowany Strategia w zakresie wodoru na rzecz Europy neutralnej dla klimatu⁵ („Strategia wodorowa UE”) , która łącznie ze strategią UE na rzecz integracji systemów energetycznych⁶ wspiera dążenia UE do osiągnięcia gospodarki neutralnej dla klimatu, zgodnie z celem określonym w Europejskim Zielonym Ładzie. Strategia wodorowa UE łączy w sobie różne obszary działań, obejmujące cały łańcuch wartości, a także aspekty przemysłowe, rynkowe i infrastrukturalne. Uwzględnia perspektywę rozwoju technologii i innowacyjności oraz wymiar międzynarodowy, planując stworzenie warunków umożliwiających zwiększenie podaży i popytu wodoru. Strategia wodorowa UE określa również „czysty wodór” i jego łańcuch wartości jako jeden z kluczowych obszarów umożliwiających odblokowanie inwestycji w celu wspierania zrównoważonego wzrostu gospodarczego i zatrudnienia, co będzie miało kluczowe znaczenie w kontekście ożywienia po kryzysie COVID-19. Wyznaczono w niej cele strategiczne:"
+      },
+      {
+       "type": "text",
+       "text": " do 2024 r. – instalacja co najmniej 6 GW mocy elektrolizerów i roczna produkcja co najmniej 1 mln ton wodoru z OZE,"
+      },
+      {
+       "type": "text",
+       "text": " do 2030 r. instalacja co najmniej 40 GW mocy elektrolizerów i roczna produkcja co najmniej 10 mln ton wodoru z OZE,"
+      },
+      {
+       "type": "text",
+       "text": " Strategia wodorowa UE przewiduje zastosowanie wodoru w przemyśle i mobilności jako dwa główne rynki wiodące."
+      },
+      {
+       "type": "text",
+       "text": "PSW jest także spójna z unijną Strategią na rzecz zrównoważonej i inteligentnej mobilności, w której paliwa alternatywne mają odegrać kluczową rolę.⁷ Polska jest aktywnie zaangażowana w dyskusję o przyszłym kształcie rynku wodoru na forum UE, a prezentowana PSW ma na celu dodanie impetu tym działaniom zarówno w skali krajowej, jak i międzynarodowej."
+      },
+      {
+       "type": "text",
+       "text": "1.4. WODÓR A KRAJOWE POLITYKI I DZIAŁANIA"
+      },
+      {
+       "type": "text",
+       "text": "STRATEGIA NA RZECZ ODPOWIEDZIALNEGO ROZWOJU"
+      },
+      {
+       "type": "text",
+       "text": "Strategia na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.) (SOR) przyjęta 14 lutego 2017 r. jest obowiązującym, kluczowym dokumentem państwa polskiego w obszarze średnio- i długofalowej polityki gospodarczej. Głównym celem SOR jest tworzenie warunków do wzrostu dochodów mieszkańców Polski przy jednoczesnym wzroście spójności w wymiarze społecznym, ekonomicznym, środowiskowym i terytorialnym. PSW ma na celu realizację tego celu przez"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 6 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "wsparcie wykorzystania technologii wodorowych w obszarze energetycznym, transportowym i przemysłowym."
+      },
+      {
+       "type": "text",
+       "text": "PSW jest spójna z SOR oraz wpisuje się w jej cele, przede wszystkim w zakresie celu szczegółowego I. Trwały wzrost gospodarczy oparty coraz silniej o wiedzę, dane i doskonałość organizacyjną. Dodatkowo PSW wpisuje się w przewidziane w SOR projekty:"
+      },
+      {
+       "type": "text",
+       "text": "▪ Projekt Flagowy Elektromobilność,"
+      },
+      {
+       "type": "text",
+       "text": "▪ Projekt Strategiczny Program Rozwoju Elektromobilności,"
+      },
+      {
+       "type": "text",
+       "text": "▪ Program polskiej energetyki jądrowej."
+      },
+      {
+       "type": "text",
+       "text": "W związku z innowacyjnym przedmiotem analiz PSW obejmuje dłuższy okres niż SOR, co umożliwia ustawa o zasadach prowadzenia polityki rozwoju. PSW odnosi się także do technologii zgazowania węgla, którą SOR uznała za jedno z działań mogących poprawić bezpieczeństwo energetyczne kraju oraz wykorzystać potencjał rodzimego surowca w obszarze petrochemii i w procesie produkcji materiałów takich jak amoniak i wodór."
+      },
+      {
+       "type": "text",
+       "text": "PSW została pozytywnie zaopiniowana przez ministra właściwego do spraw rozwoju regionalnego w zakresie zgodności ze średniookresową strategią rozwoju kraju oraz przepisami ustawy o zasadach prowadzenia polityki rozwoju."
+      },
+      {
+       "type": "text",
+       "text": "POLITYKA ENERGETYCZNA POLSKI ORAZ KRAJOWY PLAN NA RZECZ ENERGII I KLIMATU"
+      },
+      {
+       "type": "text",
+       "text": "PSW wpisuje się też w działania przedstawione w strategii pt. Polityka energetyczna Polski do 2040 r. (PEP 2040).⁸ PEP 2040 stanowi odpowiedź na najważniejsze wyzwania stojące przed polską energetyką w najbliższych dziesięcioleciach oraz wyznacza kierunki rozwoju sektora energii z uwzględnieniem zadań niezbędnych do realizacji w perspektywie krótkookresowej, wśród których wymienia się również wodór. PSW wpisuje się w szczególności w następujące działania określone w PEP 2040:"
+      },
+      {
+       "type": "text",
+       "text": "▪ 1.5. Zapewnienie możliwości pokrycia zapotrzebowania na gaz ziemny przez: […] wykorzystanie krajowego potencjału w zakresie produkcji biogazu, biometanu, gazów syntezowych, gazu syntetycznego, wodoru,"
+      },
+      {
+       "type": "text",
+       "text": "▪ 2A.8. Zapewnienie warunków wykorzystania gazu ziemnego i innych paliw gazowych, w szczególności dla potrzeb regulacyjnych KSE,"
+      },
+      {
+       "type": "text",
+       "text": "▪ 4B.5. Prowadzenie działań badawczo-rozwojowych w zakresie transportu i magazynowania gazów syntetycznych, biogazu, biometanu i wodoru za pomocą infrastruktury gazu ziemnego, ▪ 4C.7. Zapewnienie warunków funkcjonowania i instrumentarium wsparcia rynku paliw alternatywnych, w szczególności: elektromobilności, CNG i LNG, paliw syntetycznych w transporcie oraz wodoru,"
+      },
+      {
+       "type": "text",
+       "text": "▪ 6.4. Zapewnienie warunków bilansowania OZE."
+      },
+      {
+       "type": "text",
+       "text": "W 2019 r. Polska opracowała Krajowy plan na rzecz energii i klimatu (KPEiK)⁹ na lata 2021-2030. Opracowanie KPEiK wynika z rozporządzenia Parlamentu Europejskiego i Rady (UE) 2018/1999 w sprawie zarządzania unią energetyczną. Dokument ten wskazał m.in. wodór jako środek do rozwoju efektywnego energetycznie i niskoemisyjnego transportu. Celem KPEiK jest wdrażanie unii energe-"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "tycznej, zaś celem PSW jest realizacja tego postulatu przez wdrożenie nowoczesnych technologii wodorowych. PSW rozwija działania polskiego rządu w zakresie wsparcia technologii wodorowych, zapoczątkowane w Krajowych Ramach Polityki Rozwoju Infrastruktury Paliw Alternatywnych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "WODÓR DZIŚ",
+     "children": [
+      {
+       "type": "text",
+       "text": "Polska plasuje się obecnie na 3 pozycji wśród europejskich producentów wodoru, tuż za Niemcami i Holandią,¹⁰ jednakże udział produkcji wodoru w procesie elektrolizy wody jest znikomy. Roczna produkcja wodoru w Polsce wynosi ok. 1,3 miliona ton. Produkcja wodoru odbywa się głównie w dużych zakładach przemysłowych w procesie reformingu parowego węglowodorów, gdzie wodór jest wykorzystywany w procesach przemysłowych.¹¹ Wodór jako surowiec jest od dawna wykorzystywany w procesach przemysłowych – w przemyśle chemicznym w procesach redukcji i uwodornienia, w przemyśle rafineryjnym w trakcie hydrorafinacji, hydrokrakingu, reformingu, w przemyśle spożywczym w procesach utwardzania, w przemyśle metalurgicznym do redukcji rudy żelaza.¹²"
+      },
+      {
+       "type": "text",
+       "text": "Dywersyfikacja źródeł energii jest procesem długotrwałym i aktualnie nadal większość energii elektrycznej wytwarzana jest przy wykorzystaniu paliw kopalnych. Połączenia międzysektorowe (przykładowo systemu elektroenergetycznego z sektorem gazowniczym lub systemu elektroenergetycznego z sektorem transportu) są nieliczne. Wykorzystanie potencjału źródeł OZE jest ograniczone warunkami technicznymi i atmosferycznymi. Produkcja wodoru ze źródeł jądrowych będzie możliwa po uruchomieniu pierwszego bloku, co planowane jest na rok 2033. Prace nad technologiami związanymi z gospodarką wodorową realizowane są w Polsce od lat. Obecnie istnieją już w kraju rozwiązania o wysokiej gotowości technologicznej. Aby przenieść je do fazy komercjalizacji konieczne jest wsparcie tej gałęzi celem umożliwienia dynamicznego i stabilnego rozwoju w horyzoncie czasowym roku 2030."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 8 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "2.1. ŁAŃCUCH WARTOŚCI GOSPODARKI WODOROWEJ"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 9 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 1. Projekt łańcucha wartości polskiej gospodarki wodorowej. Opracowanie własne."
+      },
+      {
+       "type": "text",
+       "text": "W każdym z elementów łańcucha wartości gospodarki wodorowej Polska posiada osiągnięcia i może odegrać istotną rolę, będąc zarówno dostawcą jak i odbiorcą technologii na dużą skalę. Jednak z uwagi na fakt, że istniejące obecnie rozwiązania, które mogą stanowić element przyszłego łańcucha wartości gospodarki wodorowej, znajdują się na różnym (często niedostatecznym) poziomie gotowości technologicznej, decydujący w najbliższych latach będzie dalszy postęp w zakresie podnoszenia zdolności komercjalizacji istniejących krajowych technologii i powszechności ich stosowania"
+      },
+      {
+       "type": "text",
+       "text": "2.2. PRODUKCJA I RODZAJE WODORU"
+      },
+      {
+       "type": "text",
+       "text": "Wodór stanowi obecnie niewielką część światowego i unijnego koszyka energetycznego i jest nadal w dużej mierze wytwarzany z paliw kopalnych, w szczególności z gazu ziemnego lub węgla."
+      },
+      {
+       "type": "text",
+       "text": "Całość krajowej produkcji stanowi obecnie wodór wytwarzany z paliw kopalnych."
+      },
+      {
+       "type": "text",
+       "text": "Liderem produkcji wodoru w Polsce jest Grupa Kapitałowa Grupa Azoty S.A., gdzie rocznie wytwarza się ok. 420 tys. ton tego surowca. Udział tej spółki w rynku sięga 32,3%. Następne w kolejności są spółki, które praktycznie całość produkcji przeznaczają na własne potrzeby:"
+      },
+      {
+       "type": "text",
+       "text": " Koksownie Zdzieszowice oraz Przyjaźń, z udziałem ok. 11,5%, produkcja ok. 149 tys. ton/rok,  PKN Orlen, z udziałem ok. 10,7%, produkcja ok. 140 tys. ton/rok,"
+      },
+      {
+       "type": "text",
+       "text": " Grupa Lotos, z udziałem ok. 4,5%, produkcja ok. 59 tys. ton/rok.¹³ Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "Powyższe zestawienie przedstawia największe zakłady produkujące wodór w Polsce. Obok nich funkcjonują także mniejsi wytwórcy oraz przemysł tłuszczowy, który wytwarza wodór na potrzeby własne, np. do utwardzania oleju roślinnego."
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 2. Struktura udziału w rynku wodoru w Polsce w 2020 r. Opracowanie własne na podstawie Instytut Energetyki, Analiza potencjału technologii wodorowych w Polsce do roku 2030 z perspektywą do 2040 roku."
+      },
+      {
+       "type": "text",
+       "text": "Metody produkcji wodoru wiążą się ze zróżnicowaną wielkością emisji gazów cieplarnianych, w zależności od wykorzystywanej technologii i źródła energii oraz mają różne implikacje kosztowe i różne wymagania materiałowe. Pochodzenie wodoru warunkuje zatem jego konkurencyjność i emisyjność w cyklu życia. Na potrzeby PSW przyjęto, że przesądza ono o stosowanej wobec niego terminologii, zgodnie z którą wyróżnia się:"
+      },
+      {
+       "type": "text",
+       "text": "WODÓR KONWENCJONALNY"
+      },
+      {
+       "type": "text",
+       "text": "Wodór konwencjonalny odnosi się do wodoru wytwarzanego w ramach różnych procesów, w których wykorzystuje się paliwa kopalne. Procesy te to przede wszystkim reforming parowy gazu ziemnego, zgazowanie węgla lub separacja z gazu koksowniczego."
+      },
+      {
+       "type": "text",
+       "text": "Znacząca większość, aż 76%, produkowanego na świecie wodoru pochodzi z paliw kopalnych.¹⁴ Obecnie w Polsce wodór wytwarzany jest w oparciu o stabilny popyt ze strony przemysłu. Takie sposoby wytwarzania wodoru generują jednak emisję CO₂ – powyżej 5,8 kg CO₂ eq/kg H₂ przy wykorzystaniu gazu ziemnego oraz powyżej 10 kg CO₂ eq/kg H₂, gdy źródłem energii pierwotnej jest węgiel.¹⁵"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 10 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "Wobec coraz bardziej dotkliwych skutków zmian klimatu oraz międzynarodowych zobowiązań ograniczania emisji gazów cieplarnianych konieczne staje się stopniowe ograniczanie produkcji wodoru tego typu. Mechanizm unijnego systemu handlu uprawnieniami do emisji, powodujący stopniowy wzrost kosztów uprawnień, stanowi rynkową zachętę dla stopniowego odejścia od wodoru konwencjonalnego na rzecz niskoemisyjnych metod produkcji."
+      },
+      {
+       "type": "text",
+       "text": "Alternatywną, przejściową drogą rozwoju może być wykorzystanie aktualnego potencjału technologicznego i wdrożenie metod wychwytywania, składowania i zagospodarowania dwutlenku węgla (metody CCS i CCU). W tym przypadku kluczowym zagadnieniem jest przygotowanie miejsc do jego składowania."
+      },
+      {
+       "type": "text",
+       "text": "WODÓR NISKOEMISYJNY"
+      },
+      {
+       "type": "text",
+       "text": "Za wodór niskoemisyjny uznaje się wodór wytwarzany z odnawialnych bądź z nieodnawialnych źródeł energii ze śladem węglowym na poziomie poniżej 5,8 kg CO₂ eq/kg H₂.¹⁶ Aby dana działalność gospodarcza została uznana za niewyrządzającą poważnych szkód względem celów środowiskowych oraz wnoszącą istotny wkład w łagodzenie zmian klimatu lub w adaptację do zmian klimatu, powinna spełniać kryteria określone w rozporządzeniu delegowanym Komisji uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852.¹⁷"
+      },
+      {
+       "type": "text",
+       "text": "Precyzyjne liczbowe określenie poziomu emisji towarzyszącej produkcji wodoru powinno zastąpić arbitralne przypisywanie mu „koloru” w zależności od technologii wytwarzania. Kryterium powinna być ilość wyemitowanego CO₂ w całym łańcuchu produkcji kilograma wodoru. Umożliwi to producentom optymalizowanie technologii pod kątem tego wskaźnika."
+      },
+      {
+       "type": "text",
+       "text": "Do wytworzenia wodoru niskoemisyjnego można wykorzystać różne technologie:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "elektrolizę z wykorzystaniem energii elektrycznej z OZE lub elektrowni jądrowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "elektrolizę z wykorzystaniem energii elektrycznej ze źródeł konwencjonalnych z wychwytem i składowaniem CO₂ (CCS) bądź wychwytem i wykorzystaniem CO₂ (CCU),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "reforming parowy biogazu i biometanu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "zgazowanie, fermentacja lub piroliza biomasy ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "zgazowanie, pirolizę i termiczne przetwarzanie odpadów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "reforming parowy węglowodorów z CCS bądź CCU,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "zgazowanie węgla z CCS bądź CCU, IGCC oraz IGFC,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_2/pkt_8",
+       "text": "procesy chemiczne, których produktem ubocznym jest wodór¹⁸, w tym separacja wodoru z gazu koksowniczego.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Na stronie 11 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+        },
+        {
+         "type": "text",
+         "text": "WODÓR ODNAWIALNY"
+        },
+        {
+         "type": "text",
+         "text": "Wodór odnawialny powstaje w drodze elektrolizy wody w elektrolizerze zasilanym energią elektryczną pochodzą z odnawialnych źródeł lub w procesie reformingu biogazu lub biometanu albo biochemicznego przekształcania biomasy pod warunkiem spełniania wymogów zrównoważonego rozwoju.¹⁹ Przy jego produkcji emisja CO₂ utrzymuje się na niskim poziomie poniżej 1 kg CO₂ eq/kg H₂. Dodatkową zaletą tej technologii jest możliwość uzyskiwania bardzo wysokiej czystości otrzymanego gazu (na poziomie 99,999 %)."
+        },
+        {
+         "type": "text",
+         "text": "W 2020 r. w UE działało 300 elektrolizerów odpowiadających za mniej niż 4% całkowitej produkcji wodoru.²⁰ W Polsce na chwilę obecną istnieją jedynie instalacje prototypowe powstałe w ramach prowadzonych projektów badawczo-rozwojowych, lecz wielu inwestorów planuje badania pilotażowe i demonstracje tej technologii w krótkiej perspektywie.²¹ Kluczowym wyzwaniem jest dostęp do taniej energii elektrycznej, która powinna kosztować 10–20 EUR/MWh, żeby produkcja wodoru z elektrolizy stała się konkurencyjna.²²"
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+        },
+        {
+         "type": "text",
+         "text": "Rysunek 3. Produkcja wodoru wg źródeł energii pierwotnej. Opracowanie własne."
+        },
+        {
+         "type": "note",
+         "text": "[Na stronie 13 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "CELE STRATEGII",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sformułowane poniżej cele odnoszą się do trzech priorytetowych obszarów wykorzystania wodoru: energetyki, transportu i przemysłu, a także jego produkcji i dystrybucji oraz potrzeby stworzenia stabilnego otoczenia regulacyjnego."
+      },
+      {
+       "type": "text",
+       "text": "Przyjęte obszary priorytetowe nawiązują do koncepcji łączenia sektorów, która zakłada:"
+      },
+      {
+       "type": "text",
+       "text": "▪ wzrost wykorzystania energii elektrycznej pochodzącej z OZE oraz"
+      },
+      {
+       "type": "text",
+       "text": "▪ wykorzystanie jej przez określone sektory gospodarki (takie jak sektor transportowy, różne gałęzie przemysłu oraz ciepłownictwo – ogrzewanie budynków)"
+      },
+      {
+       "type": "text",
+       "text": "– w celu minimalizacji zależności od paliw kopalnych, przyczyniających się do emisji gazów cieplarnianych do środowiska.²³"
+      },
+      {
+       "type": "text",
+       "text": "Według szacunków z lutego 2020 r., w przypadku elektryfikacji sektorów transportu, przemysłu i budownictwa, potencjał redukcji emisji gazów cieplarnianych w horyzoncie 2050 r. wynosi ok. 60% w porównaniu z rokiem 2020 (co przekłada się na ok. 71% w porównaniu z rokiem 1990). W przypadku wdrożenia wykorzystania odnawialnego wodoru oraz koncepcji łączenia sektorów tj. energetyki, transportu, przemysłu i ciepłownictwa, potencjał redukcji emisji w roku 2050 względem roku 2020 wynosi ok. 68% (co odpowiada ok. 83% względem roku 1990).²⁴"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 14 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 4. Schemat łączenia sektorów wg Ch. Schnell (red.). Opracowanie własne."
+      },
+      {
+       "type": "text",
+       "text": "CEL 1: WDROŻENIE TECHNOLOGII WODOROWYCH W ENERGETYCE I CIEPŁOWNICTWIE"
+      },
+      {
+       "type": "text",
+       "text": "Obecnie zapotrzebowanie na energię elektryczną wynosi około 176 TWh, a moc maksymalna jest na poziomie 25,5 GW. W 2030 r. zapotrzebowanie na energię elektryczną będzie wynosiło 201,2 TWh, a zapotrzebowanie na moc wzrośnie do 30,2 GW. Więcej niż 55% energii elektrycznej w 2030 r. będzie pochodziło z elektrowni i elektrociepłowni na węgiel, około 10% z jednostek gazowych i około 32% z Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "OZE.²⁵ Produkcja energii cieplnej w ciepłowniach i elektrociepłowniach (CHP) wynosi obecnie 290 PJ, z czego 70% jest wytwarzana w CHP. W 2030 r. produkcja będzie wynosiła 259,6 PJ z 79% udziału CHP.²⁶"
+      },
+      {
+       "type": "text",
+       "text": "Biorąc pod uwagę profil pracy mocy wytwórczych OZE, który jest zależny od warunków atmosferycznych (wiatr, słońce, częściowo woda), co wiąże się z koniecznością zapewnienia bilansowania w okresach, gdy OZE nie dostarcza energii elektrycznej do sieci, stosowanie elektrolizy może przyczynić się do zwiększenia niezależności energetycznej i stanowić rozwiązanie kwestii zmienności i braku ciągłości pracy systemów energii odnawialnej. W polskich warunkach geograficznych i pogodowych szacuje się, że produkcja odnawialnego wodoru najszybciej osiągnie rentowność przy wykorzystaniu energii elektrycznej z morskich farm wiatrowych, jednocześnie potencjalnie zwiększając konkurencyjność morskiej energetyki wiatrowej. Pozyskiwanie odnawialnego wodoru w efektywny sposób zbilansuje produkcję energii elektrycznej pozyskiwanej z farm fotowoltaicznych (zwłaszcza wielkoskalowych), multiplikując potencjał szybko rosnącego sektora inwestycji PV."
+      },
+      {
+       "type": "text",
+       "text": "Energia elektryczna może podlegać konwersji i być magazynowana dzięki rozwiązaniom technologicznym Power-to-X (P2X), które wykorzystują nadwyżkę energii do wytwarzania innych nośników. Technologie konwersji Power-to-X pozwalają na oddzielenie części generowanej mocy od sektora elektroenergetycznego w celu wykorzystania jej w innych obszarach przemysłowych. Człon „X” w terminologii może odnosić się do jednej z wielu różnych koncepcji, tj. wytwarzanie amoniaku (ang. power-to-ammonia, P2A), wytwarzanie paliw gazowych (ang. power-to-gas, P2G), wytwarzanie czystego wodoru (ang. power-to-hydrogen, P2H) oraz wytwarzanie paliw ciekłych (ang. power-toliquid, P2L). Z punktu widzenia systemu elektroenergetycznego rozwiązania na bazie P2X pozwalają na jego uelastycznienie. Układy te znajdują szczególne zastosowanie w instalacjach energetycznych opartych na technologii odnawialnych źródeł energii oraz do realizacji celów związanych z dekarbonizacją gałęzi związanych z wytwarzaniem energii elektrycznej i ciepła. Wykorzystywanie nadmiaru energii do produkcji szeregu różnych paliw jest bardzo efektywnym sposobem magazynowania energii przez możliwość przechowywania danej substancji w dedykowanych zbiornikach oraz ich transport do innych regionów.²⁷ Tym samym wodór, jako nośnik energii, może być wykorzystywany do procesów magazynowania energii. Jednocześnie rozwiązania P2X, przez integrację systemu gazowego z siecią elektroenergetyczną w myśl koncepcji łączenia sektorów, doprowadzają do zmniejszenia zależności polskiej gospodarki od paliw kopalnych. Tym samym wdrożenie stosowania zdekarbonizowanych technologii wodorowych w energetyce korzystnie wpłynie na bezpieczeństwo energetyczne Polski."
+      },
+      {
+       "type": "text",
+       "text": "Optymalnym rozwiązaniem wykorzystującym wodór do produkcji energii elektrycznej i ciepła są kogeneracyjne układy energetyczne oparte na technologii ogniw paliwowych. Ogniwo paliwowe jest to urządzenie, które konwertuje energię chemiczną paliwa na energię elektryczną oraz ciepło. W odróżnieniu od baterii pracują one tak długo, jak dostarczane jest do nich paliwo oraz utleniacz.²⁸ Innym sposobem generowania energii elektrycznej i ciepła na bazie wodoru są turbiny gazowe.²⁹"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 15 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystanie niskoemisyjnego wodoru w sektorze budownictwa na potrzeby ogrzewania budynków oraz wody może wspierać proces dekarbonizacji ciepłownictwa w regionach, w których duża część budynków jest podłączona do miejskiej sieci ciepłowniczej lub do sieci dystrybucji gazu ziemnego. Kotły wodorowe lub instalacje mikro-CHP oparte na wodorze mogłyby zastąpić istniejące urządzenia grzewcze. W przyszłości również niektóre gazowe systemy chłodzenia mogłyby zacząć wykorzystywać wodór.³⁰ Planowane jest również uruchomienie instalacji mikrogeneracyjnych 1–10 kW do wytwarzania wodoru dla instalacji grzewczej lub energii elektrycznej oraz do zastosowań do zasilania w trudno dostępnych miejscach."
+      },
+      {
+       "type": "text",
+       "text": "W horyzoncie najbliższych 5 lat podstawowym celem na rzecz wdrożenia wodoru w polskiej energetyce i ciepłownictwie jest wsparcie badań i rozwoju. Dalsze działania zaplanowane są w horyzoncie 10 lat, do 2030 r. W tej perspektywie prowadzone wcześniej prace badawcze i pierwsze wdrożenia technologii powinny umożliwić rozwój większych inwestycji. Ocenia się, że tak przeprowadzone wdrożenie technologii wodorowych w Polsce wesprze efektywną współpracę funkcjonowania systemu gazowego i systemu elektroenergetycznego w myśl koncepcji łączenia sektorów."
+      },
+      {
+       "type": "text",
+       "text": "WSPIERANE DZIAŁANIA"
+      },
+      {
+       "type": "text",
+       "text": "2025 2030"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Uruchomienie instalacji P2G klasy co naj- 6. Uruchomienie instalacji ko- i poligeneracyjmniej 1 MW celem wsparcia stabilizacji pra- nych , np. elektrociepłowni o mocy do",
+     "children": [
+      {
+       "type": "text",
+       "text": "cy sieci dystrybucyjnych; 50 MWt, gdzie głównym paliwem będzie"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Współspalanie wodoru w turbinach gazo- wodór;",
+     "children": [
+      {
+       "type": "text",
+       "text": "wych (w zależności od możliwości technicz- 7. Rozpoczęcie wykorzystania wodoru jako"
+      },
+      {
+       "type": "text",
+       "text": "nych) i konwersja istniejących instalacji; nośnika energii wykorzystywanego do pro- 3. Wsparcie B+R w zakresie tworzenia układów cesów magazynowania energii ;"
+      },
+      {
+       "type": "text",
+       "text": "ko- i poligeneracyjnych dla bloków miesz- 8. Instalacja układów ko- i poligeneracyjnych"
+      },
+      {
+       "type": "text",
+       "text": "kalnych, biurowców, małych osiedli oraz dla bloków mieszkalnych, biurowców, ma-"
+      },
+      {
+       "type": "text",
+       "text": "obiektów użyteczności publicznej od 10 kW łych osiedli oraz obiektów użyteczności pudo 250 kW z wykorzystaniem ogniw pali- blicznej od 10 kW do 250 kW z wykorzystawowych ; niem ogniw paliwowych ;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Rozwój magazynów energii opartych o wo- 9. Uruchomienie instalacji mikrogeneracyjnych dór i jego pochodne; 1–10 kW do wytwarzania wodoru dla insta- 5. B+R w zakresie kompaktowych układów P2G lacji grzewczej lub energii elektrycznej oraz i G2P; do zastosowań do zasilania w trudno do-",
+     "children": [
+      {
+       "type": "text",
+       "text": "stępnych miejscach;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Rozbudowa instalacji fotowoltaicznych o",
+     "children": [
+      {
+       "type": "text",
+       "text": "elektrolizery oraz stacje podczyszczania wody opadowej do produkcji odnawialnego"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 16 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "wodoru."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Wspierane działania w zakresie wdrożenia technologii wodorowych w energetyce i ciepłownictwie na lata 2020–2030."
+      },
+      {
+       "type": "text",
+       "text": "CEL 2: WYKORZYSTANIE WODORU JAKO PALIWA ALTERNATYWNEGO W TRANSPORCIE"
+      },
+      {
+       "type": "text",
+       "text": "Wodór jest postrzegany jako jedna z dróg do redukcji emisji w transporcie. Ma on potencjał do zastępowania paliw konwencjonalnych szczególnie w transporcie miejskim (autobusy), drogowym (transport ciężki i długodystansowy), pojazdach lekkich flotowych (wózki widłowe, samochody dostawcze, taksówki) , kolejowym niezelektryfikowanym (pojazdy kolejowe wyposażone w ogniwa paliwowe), morskim i rzecznym oraz intermodalnym , a w dalszej perspektywie również w lotnictwie, obejmującym także pojazdy bezzałogowe³¹ (drony)."
+      },
+      {
+       "type": "text",
+       "text": "Pojazdy elektryczne (ang. BEV – Battery Electric Vehicle), hybrydowe pojazdy elektryczne (ang. HEV – Hybrid Electric Vehicle) i hybrydowe pojazdy elektryczne typu plug-in (ang. PHEV – Plug-in Hybrid Electric Vehicle) już teraz zmniejszają emisje pochodzące z transportu. Jednakże w celu całkowitej dekarbonizacji tej gałęzi potrzebne będzie wdrożenie pojazdów na ogniwa paliwowe (ang. FCEV – Fuel Cell Electric Vehicle). FCEV będą szczególnie istotne w zakresie transportu publicznego oraz drogowego transportu ciężkiego i długodystansowego. Jest to segment, w którym istnieją ograniczone możliwości wykorzystania BEV. Wodór stanie się alternatywą dla gałęzi transportu, których elektryfikacja jest nieopłacalna lub niemożliwa. W przypadku drogowego transportu ciężkiego i długodystansowego należy również dążyć do zastępowania silników spalinowych, zasilających naczepy chłodnicze, silnikami elektrycznymi."
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystanie autobusów wodorowych w transporcie publicznym, obok autobusów elektrycznych, przyczyni się do osiągnięcia celów w zakresie niskoemisyjnego transportu określonych w Strategii na rzecz zrównoważonej i inteligentnej mobilności³² Komisji Europejskiej oraz PEP 2040. Od 2025 r. miasta o ludności powyżej 100 tys. mieszkańców będą zobowiązane do zakupu wyłącznie bezemisyjnych pojazdów, aby do 2030 r. osiągnąć pełną zeroemisyjność floty komunikacji miejskiej."
+      },
+      {
+       "type": "text",
+       "text": "Potencjalnych możliwości wykorzystania wodoru należy szukać nie tylko w transporcie drogowym, ale też w zastosowaniach lotniczych, kolejowych i morskich. Kolej napędzana paliwem wodorowym może stać się atrakcyjna w zakresie przewozów towarowych, a przede wszystkim przewozów pasażerskich na poziomie regionalnym i ponadregionalnym. Jej konkurencyjność wzrasta w przypadku transportu na duże odległości. Pociągi zasilane wodorem zastąpią pojazdy spalinowe (zespoły trakcyjne/lokomotywy) użytkowane na niezelektryfikowanych liniach kolejowych. Działania na rzecz promocji tych rozwiązań są prowadzone w wielu krajach, również w Polsce, a wielu przewoźników kolejowych i organizatorów przewozów kolejowych w Polsce wyraża zainteresowanie zakupem pojazdów wyposażonych w ogniwa wodorowe."
+      },
+      {
+       "type": "text",
+       "text": "Jednostki transportu morskiego charakteryzują wysokie wymagania w zakresie zużycia paliwa i ograniczone możliwości redukcji emisji CO₂. Zastosowanie technologii opartych na wodorze i amoniaku"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 17 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "może przyczynić się do osiągnięcia celów środowiskowych. Jednostki pływające napędzane wodorem mogą stanowić zaplecze do obsługi planowanych polskich farm wiatrowych na Morzu Bałtyckim oraz morskiego transportu przybrzeżnego. Obecnie wykorzystanie wodoru w obszarze żeglugi jest ograniczone do małych projektów demonstracyjnych, lecz podążając w kierunku idei green port, zarządy niektórych portów aktywnie angażują się w tworzenie infrastruktury umożliwiającej świadczenie usług w zakresie paliw alternatywnych, w tym wodoru.³³ Zasilanie transportu rzecznego w sposób zrównoważony przyczyni się do redukcji emisji na śródlądowych drogach wodnych."
+      },
+      {
+       "type": "text",
+       "text": "Szersze zastosowanie wodoru może być przewidziane również w odniesieniu do lotniczego transportu bezzałogowego. Tego typu pojazdy stanowią nową ścieżkę wyspecjalizowanych usług o charakterze przewozowym (małogabarytowym), które mogą być wykorzystywane jako wsparcie logistyczne w innych sektorach gospodarki."
+      },
+      {
+       "type": "text",
+       "text": "Potencjał wodoru jest dostrzegany także dla zastosowań w transporcie intermodalnym, który umożliwia uzyskanie synergii między transportem morskim, rzecznym oraz lądowym przy wzmocnionym wykorzystaniu całej dostępnej infrastruktury. Wspieranie transportu intermodalnego przyczyni się do zrównoważonego rozwoju pozostałych rozwiązań transportowych opartych na wodorze."
+      },
+      {
+       "type": "text",
+       "text": "Amoniak i paliwa syntetyczne powstałe przy wykorzystaniu wodoru (np. w procesie jego metaniza-"
+      },
+      {
+       "type": "lit",
+       "num": "cji",
+       "path": "ust_10/lit_cji",
+       "text": "mogą być wykorzystywane w transporcie ciężkim kołowym, morskim i lotniczym, umożliwiając w dłuższej perspektywie ich dekarbonizację.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ocenia się, że w horyzoncie czasowym do 5 lat zapotrzebowanie na wodór w sektorze transportu w Polsce wyniesie ok. 2933,5 ton, z czego aż 1764 tony na potrzeby tankowania autobusów zeroemisyjnych.³⁴ Obsługa takiego popytu zakłada budowę 32 stacji tankowania wodoru pod ciśnieniem 350 i 700 bar. W perspektywie 10 lat zapotrzebowanie na wodór w sektorze transportu wzrośnie do 22 510,7 ton rocznie.³⁵ W pierwszej kolejności stacje powinny powstawać w aglomeracjach i obszarach gęsto zaludnionych na potrzeby tankowania przede wszystkim autobusów i kolei, uwzględniając przebieg korytarzy transeuropejskiej sieci transportowej (TEN-T)."
+        },
+        {
+         "type": "text",
+         "text": "WSPIERANE DZIAŁANIA"
+        },
+        {
+         "type": "text",
+         "text": "2025 2030"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Rozpoczęcie eksploatacji autobusów zero- 18. Rozpoczęcie eksploatacji – od 800 do 1000 emisyjnych napędzanych wodorem – od 100 nowych autobusów wodorowych, w tym",
+     "children": [
+      {
+       "type": "text",
+       "text": "do 250 nowych autobusów wodorowych; wyprodukowanych w Polsce;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Rozwój sieci stacji tankowania i bunkrowa- 19. Dalszy rozwój infrastruktury tankowania i",
+     "children": [
+      {
+       "type": "text",
+       "text": "nia wodoru – min. 32 nowe stacje; bunkrowania wodoru;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Powstanie instalacji do oczyszczania wodo- 20. Stopniowe zastępowanie pociągów i loko-",
+     "children": [
+      {
+       "type": "text",
+       "text": "ru do standardu czystości zgodnie z normą motyw spalinowych ich wodorowymi odpoobowiązującą w UE; wiednikami;"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 18 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Powstanie pociągów/lokomotyw wodoro- 21. Rozwój wykorzystania wodoru w transporwych , które zastąpią ich spalinowe odpo- cie ciężkim kołowym, kolejowym, morskim, wiedniki na trasach nieprzewidzianych do rzecznym i lotniczym oraz intermodalnym;",
+     "children": [
+      {
+       "type": "text",
+       "text": "elektryfikacji; 22. Oddanie do użytku jednostek pływających z 15. Prace projektowe nad pierwszymi jednost- systemem napędowym bazującym na wodokami pływającymi z systemem napędowym rze;"
+      },
+      {
+       "type": "text",
+       "text": "bazującym na wodorze (np. amoniak, meta- 23. Produkcja paliw syntetycznych opartych na nol); wodorze."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Zbadanie możliwości i opłacalności zasto-",
+     "children": [
+      {
+       "type": "text",
+       "text": "sowania w transporcie paliw syntetycznych"
+      },
+      {
+       "type": "text",
+       "text": "powstałych w procesie metanizacji;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Uruchomienie programów pilotażowych",
+     "children": [
+      {
+       "type": "text",
+       "text": "wykorzystania wodoru i jego pochodnych w"
+      },
+      {
+       "type": "text",
+       "text": "komunikacji miejskiej, transporcie ciężkim"
+      },
+      {
+       "type": "text",
+       "text": "kołowym, kolejowym, morskim, rzecznym i"
+      },
+      {
+       "type": "text",
+       "text": "lotniczym oraz intermodalnym;"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Wspierane działania w zakresie wdrożenia wodoru jako paliwa alternatywnego w transporcie na lata 2020–2030."
+      },
+      {
+       "type": "text",
+       "text": "CEL 3: WSPARCIE DEKARBONIZACJI PRZEMYSŁU"
+      },
+      {
+       "type": "text",
+       "text": "Przemysł ciężki należy do gałęzi gospodarki, w której najtrudniej osiągnąć neutralność klimatyczną. Sektor przemysłu odpowiada za 22% (91 Mt CO₂e) całkowitych emisji – najwięcej generuje produkcja paliw (36%), minerałów niemetalicznych (22%), środków chemicznych (13%) oraz stali (9%).³⁶ Wykorzystanie wodoru niskoemisyjnego pozwoli na znaczącą redukcję emisji gazów cieplarnianych tych gałęzi gospodarki ."
+      },
+      {
+       "type": "text",
+       "text": "Obecnie wodór jest wykorzystywany w Polsce przede wszystkim jako surowiec w przemyśle chemicznym, petrochemicznym i rafineryjnym . Głównym wytwórcą wodoru w Polsce jest przemysł nawozów azotowych, gdzie podstawowym półproduktem jest amoniak, wytwarzany w ilości przekraczającej 2 mln ton rocznie. Drugim pod względem wolumenu produkcji wodoru jest przemysł rafineryjny i petrochemiczny. W sektorze petrochemicznym wodór wykorzystywany jest do produkcji paliw ciekłych i surowców rafineryjnych. Na potrzeby procesu wytwarzany jest głównie z gazu ziemnego z zastosowaniem procesu reformingu parowego metanu.³⁷ W 2018 r. wyprodukowano w Polsce 1,3 mln ton wodoru, a za jego zapotrzebowanie w 90% odpowiadała produkcja amoniaku, metanolu oraz procesy rafinacji.³⁸ Kolejnym pod względem emisyjności jest przemysł stalowy, w którym przyjmuje się, że każda tona wyprodukowanej stali generuje 1,83 tony CO₂.³⁹"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 19 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "Projektowany wskaźnik unikniętych emisji CO₂ z zastosowaniem technologii wodorowych wynosi kolejno 1 850 340 t i 3 775 525 t według scenariuszy PSW i UE dla całej gospodarki.⁴⁰ PSW zakłada, że sama redukcja emisji dla procesu reformingu parowego wyniesie 1 382 000 t.⁴¹ Sektor przemysłowy posiada wysokie szanse do bycia największym odbiorcą niskoemisyjnego wodoru ze względu na brak alternatywnych opcji dekarbonizacji. Podsektory wymagające bardzo wysokich temperatur (>200 °C), takie jak stalowy lub chemiczny, ze względu na specyfikę procesów technologicznych stanowią istotne wyzwanie w procesie dekarbonizacji przemysłu ze względu na brak możliwości elektryfikacji swoich procesów energią z OZE na szeroką skalę. Wodór stanowi szansę na ograniczenie emisji pochodzących z surowców chemicznych i reagentów, tj. amoniak, metanol, redukcja żelaza i produkty petrochemiczne przez: produkcję i zastosowanie niskoemisyjnego wodoru w procesach technologicznych, zastosowanie wodoru jako reduktora w procesie wytwarzania stali oraz blendingu wodoru z gazem naturalnym w procesach przemysłowych⁴². W sektorze stalowym, który odpowiada za 22% emisji CO₂ w sektorze przemysłu, wskazane jest zastosowanie wodoru w procesie bezpośredniej redukcji rudy żelaza w wielkich piecach i piecach łukowych z wykorzystaniem technologii DRI (Direct Reduced Iron). Zastosowanie wodoru jako paliwa i reduktora w procesach wyrobu stali umożliwi odejście od węgla i koksu, których spalanie przyczynia się do znaczącej emisji CO₂⁴³."
+      },
+      {
+       "type": "text",
+       "text": "W celu rozwoju przemysłowych zastosowań wodoru przewiduje się wparcie dla powstawania dolin wodorowych czyli ekosystemów, które pozwolą zbudować łańcuch wartości związanych z gospodarką wodorową, takich jak: produkcja, transport, magazynowanie i końcowe zastosowanie wodoru w przemyśle. W dolinach wodorowych będą prowadzone projekty B+R+I oraz projekty inwestycyjne, które przyczynią się do współpracy między lokalnymi, krajowymi i zagranicznymi interesariuszami. Wspólne cele umożliwią wymianę informacji i doświadczeń między uczestnikami wchodzącymi w skład dolin wodorowych. Model doliny wodorowej opiera się na skróceniu odległości między centrami podaży a popytu. Przykładem doliny wodorowej może być region, w którym następują liczne aktywa łańcucha wartości. W dolinie/klastrze wodorowym istnieje produkcja energii elektrycznej z OZE, która przy pomocy elektrolizerów zamieniana jest w wodór, a ten następnie wykorzystywany jest przez partnera przemysłowego. Rozwój dolin wodorowych otrzyma wsparcie w ramach modelu zarządzania pn. Ekosystem Innowacji Dolin Wodorowych (por. rozdział 4 PSW). Celem doliny wodorowej jest integracja sektorów, znalezienie partnerów biznesowych i optymalizacja procesów i kosztów.⁴⁴"
+      },
+      {
+       "type": "text",
+       "text": "WSPIERANE DZIAŁANIA"
+      },
+      {
+       "type": "text",
+       "text": "2025 2030"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Działania na rzecz pozyskania i zastosowa- 28. Powstanie co najmniej 5 dolin wodorowych nia niskoemisyjnego wodoru do procesów będących centrami doskonałości w procesie produkcji petrochemicznej, chemicznej oraz wdrażania gospodarki wodorowej, integracji nawozowej w oparciu o zieloną energetykę sektorów, transformacji klimatycznej prze-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 20 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "przemysłową; mysłu oraz budowie infrastruktury;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Budowa strategii wdrażania wodorowych 29. Włączenie powstałych inwestycji we wspóltechnologii niskoemisyjnych w najbardziej ną infrastrukturę europejską. Transfer wieenergochłonnych gałęziach przemysłu; dzy i wymiana doświadczeń na szczeblu kra- 26. Pilotażowe projekty technologiczne dla sek- jowym i międzynarodowym na temat naj-",
+     "children": [
+      {
+       "type": "text",
+       "text": "torów, w których trudno jest osiągnąć neu- lepszych rozwiązań wodorowych w przemytralność klimatyczną – w szczególności w śle."
+      },
+      {
+       "type": "text",
+       "text": "stalowym, rafineryjnym i chemicznym;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "Studia wykonalności przemysłowych dolin",
+     "children": [
+      {
+       "type": "text",
+       "text": "wodorowych w ramach budowy wspólnych"
+      },
+      {
+       "type": "text",
+       "text": "łańcuchów wartości gospodarki wodorowej"
+      },
+      {
+       "type": "text",
+       "text": "o obiegu zamkniętym;"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Wspierane działania w zakresie dekarbonizacji przemysłu na lata 2020–2030."
+      },
+      {
+       "type": "text",
+       "text": "CEL 4: PRODUKCJA WODORU W NOWYCH INSTALACJACH"
+      },
+      {
+       "type": "text",
+       "text": "Zważywszy na kierunek wyznaczony przez Europejski Zielony Ład i Strategię wodorową UE, celem strategicznym Polski do 2030 r. w zakresie produkcji wodoru jest zapewnienie warunków dla uruchomienia instalacji do produkcji wodoru ze źródeł nisko- i zeroemisyjnych . Rząd RP zamierza objąć wsparciem wyłącznie wodór niskoemisyjny, tj. ze źródeł odnawialnych oraz powstały przy wykorzystaniu technologii bezemisyjnych. Uzyskanie wsparcia dla produkcji wodoru z paliw kopalnych możliwe będzie wyłącznie pod warunkiem zastosowania technologii wychwytywania CO₂ (np. CCS/CCU)."
+      },
+      {
+       "type": "text",
+       "text": "Najbardziej optymalnymi formami produkcji wodoru są te realizowane w ramach klastrów energii oraz możliwie jak najbliżej źródeł oraz centrów popytu, umożliwiając zaspokajanie miejscowego zapotrzebowania na energię w sektorze transportu i/lub produkcji przemysłowej oraz równoważenie produkcji energii elektrycznej i produkcji ciepła.⁴⁵ Tym samym niezwykle ważne jest zapewnienie warunków do budowy instalacji do produkcji wodoru przy elektrowniach OZE, w sąsiedztwie istniejących centrów popytu, takich jak: rafinerie, huty stali i kompleksy chemiczne, z uwzględnieniem możliwości zasilania ich bezpośrednio z lokalnych odnawialnych źródeł energii elektrycznej oraz – w dalszej perspektywie – przy nowo budowanych elektrowniach jądrowych. Rozwój produkcji wodoru odnawialnego jest ściśle związany z rozwojem OZE."
+      },
+      {
+       "type": "text",
+       "text": "Jak wspomniano w celu 1, w polskich warunkach geograficznych i pogodowych produkcja odnawialnego wodoru najszybciej osiągnie rentowność przy wykorzystaniu energii elektrycznej z morskich farm wiatrowych. Morskie farmy wiatrowe charakteryzują się stosunkowo wysokim współczynnikiem efektywności działania w ciągu roku (tzw. Capacity Factor), która w polskiej strefie Morza Bałtyckiego oscyluje w granicach 45–50%. Dodatkowo wykorzystanie energii elektrycznej z morskich farm wiatrowych do produkcji wodoru może wpłynąć również na rozwój wodorowego ekosystemu : jednostek pływających z systemem napędowym bazującym na wodorze oraz jednostek przeznaczonych do transportu wodoru, instalacji do wytwarzania wodoru w procesie elektrolizy, stacji do bunkrowania"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 21 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "skroplonego wodoru oraz jednostek zasilanych wodorem przeznaczonych do obsługi polskich farm wiatrowych."
+      },
+      {
+       "type": "text",
+       "text": "W miejscach gromadzenia się dużej ilości wody opadowej, w połączeniu z instalacjami fotowoltaicznymi dla produkcji zielonej energii, umożliwienie lokalizacji stacji podczyszczania wody rozwinie potencjał do produkcji wodoru odnawialnego."
+      },
+      {
+       "type": "text",
+       "text": "Szybkie nasycanie Polski fotowoltaiką stwarza rynek dla przydomowych urządzeń produkujących i magazynujących wodór."
+      },
+      {
+       "type": "text",
+       "text": "P2G umożliwia produkcję wodoru oraz, przy dodatkowym procesie metanizacji, metanu syntetycznego (czyli wytworzonego, a nie wydobytego). Technologia ta umożliwia przekształcenie energii elektrycznej wytwarzanej z mniej stabilnych odnawialnych źródeł energii, w okresach ich dostępności, w inne formy energii.⁴⁶ Produkcja syntetycznego metanu w procesie P2G pozwoli zagospodarować odpadowy CO₂ wychwycony ze spalin bloków konwencjonalnych i procesów przemysłowych oraz przetworzyć nadwyżki energii elektrycznej z nieprzewidywalnych/niestabilnych produkcyjnie odnawialnych źródeł energii.⁴⁷"
+      },
+      {
+       "type": "text",
+       "text": "Paliwa syntetyczne będą odgrywać ważną rolę w dekarbonizacji sektora chemicznego, przemysłowego i części sektora transportu.⁴⁸ Niskoemisyjny wodór może posłużyć do produkcji amoniaku, wykorzystywanego np. do produkcji nawozów, jako paliwa do statków, spalany wraz z węglem w istniejących elektrowniach węglowych, a także bezpośrednio wykorzystany w ogniwach paliwowych do wytwarzania energii elektrycznej."
+      },
+      {
+       "type": "text",
+       "text": "W horyzoncie najbliższych 5 lat planowane jest wsparcie badań i rozwoju niskoemisyjnych procesów i technologii pozyskiwania wodoru. Na 2030 r. przewidziano dążenie do osiągnięcia mocy zainstalowanej z niskoemisyjnych źródeł i procesów na poziomie 2 GW, która umożliwi produkcję 193 634,06 ton wodoru rocznie, co pokryje 99,4% zapotrzebowania na wodór w gospodarce narodowej.⁴⁹"
+      },
+      {
+       "type": "text",
+       "text": "WSPIERANE DZIAŁANIA"
+      },
+      {
+       "type": "text",
+       "text": "2025 2030"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "B+R dla niskoemisyjnych technologii pozy- 33. Dążenie do osiągnięcia mocy instalacji do",
+     "children": [
+      {
+       "type": "text",
+       "text": "skiwania wodoru; produkcji wodoru i jego pochodnych z ni-"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Uruchomienie instalacji do produkcji wodo- skoemisyjnych źródeł, procesów i technoloru z niskoemisyjnych źródeł, procesów i gii na poziomie 2 GW, w tym w szczególnotechnologii o łącznej mocy min. 50 MW: ści instalacji elektrolizerów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "− wody w procesie elektrolizy,"
+      },
+      {
+       "type": "text",
+       "text": "− biomasy w technologii zgazowania,"
+      },
+      {
+       "type": "text",
+       "text": "fermentacji lub pirolizy,"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 22 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "− biogazu w procesie reformingu paro-"
+      },
+      {
+       "type": "text",
+       "text": "wego,"
+      },
+      {
+       "type": "text",
+       "text": "− biometanu w procesie reformingu pa-"
+      },
+      {
+       "type": "text",
+       "text": "rowego,"
+      },
+      {
+       "type": "text",
+       "text": "− odpadów w technologii zgazowania,"
+      },
+      {
+       "type": "text",
+       "text": "termicznego przetwarzania lub procesie"
+      },
+      {
+       "type": "text",
+       "text": "pirolizy,"
+      },
+      {
+       "type": "text",
+       "text": "− gazów odpadowych,"
+      },
+      {
+       "type": "text",
+       "text": "− węglowodorów w procesie reformingu"
+      },
+      {
+       "type": "text",
+       "text": "parowego z wykorzystaniem CCS/CCU,"
+      },
+      {
+       "type": "text",
+       "text": "− węgla w procesie zgazowania z wyko-"
+      },
+      {
+       "type": "text",
+       "text": "rzystaniem CCS/CCU, technologii IGCC"
+      },
+      {
+       "type": "text",
+       "text": "oraz IGFC"
+      },
+      {
+       "type": "text",
+       "text": "oraz innych niskoemisyjnych procesów i"
+      },
+      {
+       "type": "text",
+       "text": "technologii pozyskiwania wodoru;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "Uruchomienie wytwarzania gazów synte-",
+     "children": [
+      {
+       "type": "text",
+       "text": "tycznych w procesie metanizacji wodoru"
+      },
+      {
+       "type": "text",
+       "text": "oraz wykorzystanie niskoemisyjnego wodoru"
+      },
+      {
+       "type": "text",
+       "text": "w produkcji amoniaku;"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 4. Wspierane działania w zakresie produkcji wodoru w nowych instalacjach na lata 2020–2030."
+      },
+      {
+       "type": "text",
+       "text": "CEL 5: SPRAWNY I BEZPIECZNY PRZESYŁ, DYSTRYBUCJA"
+      },
+      {
+       "type": "text",
+       "text": "I MAGAZYNOWANIE WODORU"
+      },
+      {
+       "type": "text",
+       "text": "Dla harmonijnego rozwoju gospodarki opartej na wodorze konieczne jest sprawne dostarczanie go z miejsca produkcji do odbiorcy końcowego oraz jego bezpieczne magazynowanie. Obecne rozwiązania są podzielone między rurociągi, transport drogowy i kolejowy. Transport oceaniczny wodoru, badany od lat 80. XX wieku, wydaje się również obiecującą alternatywą, która stanie się dostępna w najbliższej przyszłości."
+      },
+      {
+       "type": "text",
+       "text": "Każdy etap projektowania i budowy systemu przechowywania, transportu i dystrybucji wodoru powinien być poprzedzony analizą zagrożeń, a wynikające z niej wnioski wykorzystane do zapewnienia bezpieczeństwa powszechnego i bezpieczeństwa dostaw. Konieczne jest zbadanie istniejącej infrastruktury gazowej pod kątem możliwości zatłaczania wodoru i przesyłu mieszanin wodoru z gazem oraz przeprowadzenie analizy wpływu mieszanin gazu z wodorem na procesy, urządzenia oraz AKPiA po stronie odbiorców przemysłowych."
+      },
+      {
+       "type": "text",
+       "text": "W zakresie przesyłu i dystrybucji możliwe będzie transportowanie wodoru w istniejących sieciach gazu ziemnego, o ile są lub zostaną one przystosowane do transportu domieszki wodoru. MAE wskazuje wśród trampolin wzrostu wykorzystania wodoru m.in. wprowadzenie domieszki 5% wodoru do sieci przesyłowej gazu ziemnego, co znacznie zwiększyłoby zapotrzebowanie na wodór i obniżyło koszty rozwoju tej technologii.⁵⁰ Sieć gazowa, zgodnie z regulacjami europejskimi, powinna być go-"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 23 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "towa na zatłaczanie gazów odnawialnych, takich jak: biometan, biogaz, metan syntetyczny, gaz z pokładów węglowych oraz wodór, po uwzględnieniu charakterystyki chemicznej tych gazów, odpowiednich przepisów technicznych i norm bezpieczeństwa.⁵¹"
+      },
+      {
+       "type": "text",
+       "text": "Jako cel stymulujący rozwój w tym obszarze PEP 2040 wskazuje osiągniecie do 2030 r. zdolności transportu sieciami gazowymi mieszaniny zawierającej ok. 10% gazów innych niż ziemny (gazy zdekarbonizowane: biometan, wodór)⁵². Aby zapewnić bezpieczeństwo sieci związane z transportem mieszaniny gazów, konieczne będzie wtłaczanie wodoru z poszanowaniem wymagań technicznych i międzynarodowych norm dotyczących jakości gazów. Należy przy tym zwrócić szczególną uwagę na konieczność dostosowania urządzeń u odbiorców końcowych do zmienionego składu gazu. Ze względu na rosnące współzależności między sektorami energetyki, transportu i przemysłu niezbędne jest podjęcie wspólnych działań przez operatorów OSPg i OSPe skutkujących optymalizacją pracy systemu elektroenergetycznego oraz gazowego i w pełni efektywną współpracą między tymi sektorami."
+      },
+      {
+       "type": "text",
+       "text": "Role OSP i OSD, jak również operatora systemu magazynowania wodoru, zostaną prawnie określone po przyjęciu europejskich regulacji w zakresie funkcjonowania rynku wodoru.⁵³"
+      },
+      {
+       "type": "text",
+       "text": "W pierwszych latach rozwoju rynku transport wodoru odbywać się będzie przede wszystkim przy wykorzystaniu transportu kołowego i kolejowego (cysterny, butlowozy). Z czasem, gdy zapotrzebowanie odbiorców na wodór wzrośnie, do transportu wykorzystywana będzie istniejąca infrastruktura gazowa lub dedykowane rurociągi wodorowe. Infrastruktura rozwijać się będzie w modelu klastrowym, w którym połączy ona produkcję z centrami popytu. Dzięki temu ograniczy się zapotrzebowanie na kosztowną infrastrukturę liniową (czy to do przesyłu energii elektrycznej, czy gazu). Rozwojowi infrastruktury sprzyjać będzie uczestnictwo Polski w inicjatywie European Hydrogen Backbone , w której europejskie firmy współpracują w celu zaplanowania paneuropejskiej, dedykowanej infrastruktury transportu wodoru."
+      },
+      {
+       "type": "text",
+       "text": "Magazynowanie wodoru może odbywać się zarówno w zbiornikach podziemnych, jak i naziemnych. Spośród potencjalnych podziemnych magazynów, takich jak: wyeksploatowane pola naftowe i gazowe, warstwy wodonośne, kawerny skalne czy opuszczone kopalnie, za najbardziej optymalne rozwiązanie ze strony ekonomicznej, jak również pod względem specyfiki wodoru, uznano komory solne. Działania B+R dotyczące ich rozwoju będą mogły również liczyć na wsparcie. Z kolei przechowywanie wodoru w dużych naziemnych zbiornikach może okazać się konieczne, gdy technologie wodorowe zaczną być wdrażane na masową skalę, a wzrost liczby zapotrzebowania i liczby odbiorców spowoduje konieczność budowy dużych zbiorników buforowych."
+      },
+      {
+       "type": "text",
+       "text": "WSPIERANE DZIAŁANIA"
+      },
+      {
+       "type": "text",
+       "text": "2025 2030"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "34",
+     "path": "ust_34",
+     "text": "Rozwój sieci przesyłu i dystrybucji wodoru – 38. Dostosowanie wybranych odcinków sieci",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 24 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "opracowanie analizy w zakresie najbardziej gazowej do przesyłu i dystrybucji wodoru"
+      },
+      {
+       "type": "text",
+       "text": "optymalnej formy przesyłu energii na rzecz domieszkowanego do gazu;"
+      },
+      {
+       "type": "text",
+       "text": "rozwoju gospodarki wodorowej: przesył 39. Budowa dedykowanych rurociągów do"
+      },
+      {
+       "type": "text",
+       "text": "energii elektrycznej / przesył wodoru / SNG przesyłu i dystrybucji wodoru lub rozbudowa istniejącą infrastrukturą / przesył wodoru sieci elektroenergetycznej w celu przesyłu"
+      },
+      {
+       "type": "text",
+       "text": "dedykowanymi rurociągami; energii elektrycznej;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "35",
+     "path": "ust_35",
+     "text": "„Autostrada wodorowa” – opracowanie 40. B+R w zakresie lekkich zbiorników do dys-",
+     "children": [
+      {
+       "type": "text",
+       "text": "studium wykonalności dedykowanego wo- trybucji wodoru;"
+      },
+      {
+       "type": "text",
+       "text": "dorowi rurociągu północ – południe;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "41",
+     "path": "ust_41",
+     "text": "B+R w zakresie zagospodarowania wielko- 36. Zbadanie istniejącej infrastruktury gazowej skalowych kawern solnych na magazynowapod kątem możliwości zatłaczania wodoru i nie wodoru;",
+     "children": [
+      {
+       "type": "text",
+       "text": "przesyłu mieszanin wodoru z gazem;"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "42",
+     "path": "ust_42",
+     "text": "Wprowadzanie do sieci gazowych SNG wy- 37. Transport kolejowy, drogowy i intermodal- produkowanego w systemach P2G.",
+     "children": [
+      {
+       "type": "text",
+       "text": "ny wodoru;"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 5. Wspierane działania w zakresie transportu i magazynowania wodoru na lata 2020–2030."
+      },
+      {
+       "type": "text",
+       "text": "CEL 6: STWORZENIE STABILNEGO OTOCZENIA REGULACYJNEGO"
+      },
+      {
+       "type": "text",
+       "text": "Warunkiem koniecznym rozwoju gospodarki wodorowej jest stworzenie odpowiednich ram prawnych i normalizacyjnych. Planowane działania regulacyjne określono szczegółowo w rozdziale 4.2. Do najważniejszych działań w tym zakresie należy:"
+      },
+      {
+       "type": "text",
+       "text": " III kw. 2021 r. – stworzenie ram regulacyjnych funkcjonowania wodoru jako paliwa alternatywnego w transporcie;"
+      },
+      {
+       "type": "text",
+       "text": " IV kw. 2021 r. – opracowanie legislacyjnego pakietu wodorowego, tworzącego podstawy funkcjonowania rynku;"
+      },
+      {
+       "type": "text",
+       "text": " lata 2022 i 2023 – opracowanie legislacyjnego pakietu wodorowego – przepisów określających szczegóły funkcjonowania rynku, implementujących prawo UE w tym zakresie oraz wdrażających system zachęt do produkcji niskoemisyjnego wodoru."
+      },
+      {
+       "type": "text",
+       "text": "DZIAŁANIA HORYZONTALNE"
+      },
+      {
+       "type": "text",
+       "text": "Poza podstawowymi 42 działaniami określonymi w ramach celów PSW planowane jest wsparcie działań o charakterze horyzontalnym:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "43",
+     "path": "ust_43",
+     "text": "Wykorzystanie polskiego potencjału badawczo-rozwojowego w zakresie technologii wodorowych (szczegółowe plany odnośnie do wsparcia badań i rozwoju zostały określone w części 4.3. PSW);",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "44",
+     "path": "ust_44",
+     "text": "Rozwój zakładów produkcji pojazdów napędzanych wodorem, elektrolizerów, instalacji pirolizy, ogniw paliwowych, autobusów i lokomotyw wodorowych, zbiorników na wodór, reaktorów i katalizatorów do metanizacji (P2G) czy też do technologii P2L oraz innych komponentów (m.in. rurociągi, zawory, uszczelki, sprężarki, pompy, automatyka zabezpieczeniowa).",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 25 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "PERSPEKTYWA DO 2040 ROKU Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "Prognozy po roku 2030 wskazują na stale rosnące zainteresowanie niskoemisyjnym wodorem oraz wykorzystywanie go na szeroką skalę. Taki trend wpłynie na wzrost popytu, a także wymusi rozwój nowych technologii i zintensyfikuje stosowanie obecnie niszowych rozwiązań."
+      },
+      {
+       "type": "text",
+       "text": "Dalszy rozwój technologiczny oraz coraz większe upowszechnienie wodoru będzie mieć wpływ na obniżenie jego rynkowej ceny. Przyjmuje się, że koszt wytworzenia wodoru z elektrolizy przy użyciu energii z OZE zrówna się w Polsce z kosztem wodoru z reformingu parowego metanu po 2030 r. Ogólnoświatowe prognozy są w tym aspekcie bardzo optymistyczne, sugerując cenę ok. 1,5 $ za 1 kg wodoru pochodzącego z elektrolizy w 2040 r. oraz zakładając nawet cenę 1 $ za 1kg w 2050 r.⁵⁴⁵⁵"
+      },
+      {
+       "type": "text",
+       "text": "Przyszłość gospodarki wodorowej i wzrost produkcji wodoru w Polsce po 2030 r. będzie zależeć w dużym stopniu od rozwoju OZE. Według planów zawartych w PEP 2040 przyjęty cel 23% udziału OZE w końcowym zużyciu energii brutto przełoży się w 2030 r. na min. 32% udziału OZE w produkcji energii elektrycznej netto, a w 2040 r. może wynieść co najmniej 40%. Przewiduje się też, że w 2040 r. moce zainstalowane wykorzystujące OZE mogą stanowić ok. połowy wszystkich zainstalowanych źródeł wytwórczych."
+      },
+      {
+       "type": "text",
+       "text": "W dalszej perspektywie (po roku 2030) możliwy będzie rozwój produkcji wodoru w oparciu o elektrownie jądrowe i podłączone do nich elektrolizery. Aby tak się stało, należy przygotować wcześniej odpowiednie warunki do budowy instalacji do produkcji wodoru przy elektrowniach jądrowych. Przewaga konkurencyjna wodoru wytwarzanego w źródłach jądrowych opiera się nie tylko na zerowej emisyjności, ale również możliwej dużej skali produkcji. Produkcja wodoru w elektrowniach jądrowych jest szczególnie uzasadniona w okresach tzw. dolin nocnych, kiedy bloki jądrowe mogą otrzymywać dyspozycje zmniejszenia mocy, a zagospodarowane wówczas nadwyżki, przez zasilanie elektrolizerów, umożliwiają właściwie bezkosztową produkcję wodoru."
+      },
+      {
+       "type": "text",
+       "text": "W przyszłości możliwa będzie również produkcja wodoru dzięki wykorzystaniu ciepła z reaktorów wysokotemperaturowych (HTR). Produkcja wodoru w oparciu o pozyskiwanie ciepła z reaktorów wysokotemperaturowych wykazuje wysoką efektywność ze względu na niskie straty w konwersji energii. HTR pozwalają na pozyskanie ciepła, które umożliwia zastosowanie procesu pirolizy w produkcji wodoru z wody lub z metanu. W 2020 r. Polska rozpoczęła współpracę dwustronną z Japonią zakresie wykorzystania tej technologii."
+      },
+      {
+       "type": "text",
+       "text": "Polski Rząd będzie kontynuował realizację celów na 2030 r. w kolejnej dekadzie, aktualizując niniejszą Strategię adekwatnie do rozwoju rynku wodoru i stanu rozwoju technologii."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 26 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "WDRAŻANIE, FINANSOWANIE I MONITOROWANIE STRATEGII",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dziesięcioletnia perspektywa PSW rodzi potrzebę opracowania planu wdrażania PSW, systemu jej monitorowania i ewaluacji oraz określenia zasad jej ewentualnej aktualizacji."
+      },
+      {
+       "type": "text",
+       "text": "Pośród planowanych działań mających na celu wdrożenie PSW wyróżnić można te o charakterze legislacyjnym i pozalegislacyjnym. Ich proponowana realizacja w czasie wygląda następująco:"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 27 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 5. Działania w zakresie wodoru w latach 2021–2030. Opracowanie własne."
+      },
+      {
+       "type": "text",
+       "text": "4.1. SYSTEM WDRAŻANIA STRATEGII"
+      },
+      {
+       "type": "text",
+       "text": "Za wdrażanie PSW odpowiadają organy administracji centralnej i samorządowej, agencje rządowe oraz instytuty naukowo-badawcze."
+      },
+      {
+       "type": "text",
+       "text": "Minister właściwy do spraw energii pełni wiodącą rolę w realizacji PSW. Odpowiada za tworzenie i realizację polityki energetycznej oraz surowcowej państwa."
+      },
+      {
+       "type": "text",
+       "text": "Pełnomocnik Rządu do spraw gospodarki wodorowej uczestniczy w procesie legislacyjnym kształtującym politykę państwa w zakresie technologii wodorowych oraz wspiera działania na rzecz edukacji społeczeństwa i znoszenia barier ograniczających rozwój gospodarki wodorowej."
+      },
+      {
+       "type": "text",
+       "text": "Pełnomocnik Rządu do spraw Odnawialnych Źródeł Energii koordynuje działania nakierowane na rozwój wykorzystania OZE, rozwój elektro- i wodoromobilności, poprawę efektywności energetycznej oraz rozwój technologii magazynowania energii."
+      },
+      {
+       "type": "text",
+       "text": "W zakresie swoich kompetencji we wdrażaniu PSW uczestniczą: minister właściwy do spraw aktywów państwowych, minister właściwy do spraw gospodarki, minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, minister właściwy do spraw rozwoju regionalnego, minister właściwy do spraw rolnictwa i rozwoju wsi, minister właściwy do spraw transportu, minister właściwy do spraw gospodarki morskiej i żeglugi śródlądowej, minister Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "właściwy do spraw finansów, minister właściwy do spraw zagranicznych, minister właściwy do spraw nauki i szkolnictwa wyższego oraz minister właściwy do spraw oświaty i wychowania."
+      },
+      {
+       "type": "text",
+       "text": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej wraz 16 wojewódzkimi Funduszami Ochrony Środowiska i Gospodarki Wodnej to osoby prawne, których działalność skupia się na finansowaniu inwestycji przyjaznych środowisku. Narodowe Centrum Badań i Rozwoju jest rządową agencją wykonawczą wspierającą tworzenie innowacyjnych rozwiązań technologicznych i społecznych. Wszystkie te podmioty zapewniają finansowanie projektów wdrażających technologie wodorowe w Polsce."
+      },
+      {
+       "type": "text",
+       "text": "4.2. DZIAŁANIA LEGISLACYJNE"
+      },
+      {
+       "type": "text",
+       "text": "Do najistotniejszych działań planowanych przez Rząd RP w celu realizacji PSW należy stworzenie regulacji , które usuną bariery rozwoju rynku wodoru oraz zachęcą do stopniowego zwiększania wykorzystania OZE na potrzeby elektrolizy."
+      },
+      {
+       "type": "text",
+       "text": "W celu stworzenia ram regulacyjnych funkcjonowania wodoru jako paliwa alternatywnego w transporcie oraz przepisów określających szczegóły funkcjonowania rynku planuje się opracowanie legislacyjnego pakietu wodorowego, w ramach którego dokona się zmian następujących aktów prawnych:"
+      },
+      {
+       "type": "text",
+       "text": "Regulacja Opis problemu Lp."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Ustawa – Prawo energetyczne Ustawa nie definiuje pojęcia wo- 1. Wprowadzenie pojęcia wodoru doru i nie jest jasne, czy może on do ustawy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "być uznany za paliwo gazowe. Na 2. Do czasu odpowiedniego rozwopodstawie obecnego brzmienia ju rynku rekomenduje się brak przepisów można domniemywać, obowiązku koncesyjnego. że prowadzenie działalności go-"
+      },
+      {
+       "type": "text",
+       "text": "spodarczej w zakresie przesyłu – nowelizacja art. 32. [Rodzaje dziawodoru siecią gazową wymaga łalności wymagające uzyskania konkoncesji. Ustawa wymaga również cesji]."
+      },
+      {
+       "type": "text",
+       "text": "zmiany definicji magazynu energii. 3. Uregulowanie roli wodoru jako magazynu energii."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Ustawa – Prawo energetyczne Brak jednoznacznego określenia, Określenie zasad funkcjonowania czy wodór podlega zasadom wy- rynku wodoru i korzystania z infranikającym z ustawy, w tym przede struktury gazowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "wszystkim zasadzie rozdziału dzia- Do czasu odpowiedniego rozwoju łalności dystrybucyjnej od wy- rynku rekomenduje się niewprowatwórczej i sprzedaży energii do dzanie zasady rozdziału własnościoodbiorców końcowych. wego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Ustawa o elektromobilności i Brak określenia warunków tech- Wprowadzenie odpowiednich prze-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 28 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "paliwach alternatywnych nicznych (użytkowania) dla stacji pisów do ustawy, które umożliwią tankowania wodorem. wydanie aktów wykonawczych określających warunki techniczne."
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ustawa o systemie monitoro- Brak regulacji określających nor- Wprowadzenie jednoznacznych rewania i kontrolowania jakości my dla wodoru wykorzystywane- gulacji określających obowiązek bapaliw go w transporcie. dań wodoru oraz określenie norm dla tego paliwa zgodnie z dyrektywą 2014/94/UE.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ustawa – Prawo budowalne Brak przepisów techniczno- Działanie nie wymaga zmian w usta-budowlanych określających wa- wie, lecz wydania przepisów techrunki budowy stacji tankowania niczno-budowlanych określających wodoru, magazynowania wodoru warunki budowy stacji tankowania na stacjach etc. wodoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Ustawa o odnawialnych źró- Ustawa nie definiuje ani nie Wprowadzenie ułatwień regulacyjdłach energii obejmuje regulacji dotyczących nych, implementacja dyrektywy RED wodoru. Brak regulacji dotyczą- II w zakresie gwarancji pochodzenia, cych instalacji do wytwarzania określenie mechanizmów wsparcia wodoru z OZE. produkcji wodoru z OZE.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ustawa o przygotowaniu i rea- Brak ułatwień regulacyjnych dla Zmiana definicji inwestycji towarzylizacji inwestycji w zakresie inwestycji w zakresie produkcji szących. Do rozważenia równoległa obiektów energetyki jądrowej wodoru ze źródeł jądrowych. zmiana ustawy – Prawo atomowe. oraz inwestycji towarzyszących",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Ustawa o biokomponentach i Planowana nowelizacja dyrektywy Dostosowanie przepisów do kolejnej biopaliwach ciekłych RED. nowelizacji dyrektywy RED w zakresie wodoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Ustawa – Prawo ochrony śro- Ustawa reguluje system wsparcia Dalszy rozwój systemu wsparcia. dowiska z Narodowego Funduszu Ochrony",
+     "children": [
+      {
+       "type": "text",
+       "text": "Środowiska i Gospodarki Wodnej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Ustawa o promowaniu energii Ustawa przewiduje produkcję w Wprowadzenie definicji wodoru – na elektrycznej z wysokosprawnej drodze ogniw paliwowych oraz zasadzie odniesienia do ustawy – kogeneracji paliwa gazowe. Wodór nie- Prawo energetyczne.",
+     "children": [
+      {
+       "type": "text",
+       "text": "uwzględniony w regulacji jako Wprowadzenie m.in. ułatwień regupaliwo. lacyjnych dla nowych małych jednostek kogeneracji wykorzystujących wodór."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Ustawa – Prawo wodne Kwestie wytwarzania wodoru Rozszerzenie katalogu o wykorzystanieuwzględnione w ustawie. niu wody do wytwarzania energii oraz katalogu o wpływie różnych oddziaływań na środowisko wodne o wytwarzanie wodoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Ustawa o podatku dochodo- Obecna treść ustawy przewiduje Ewentualne poszerzenie postano-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Na stronie 29 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wym od osób fizycznych korzystniejsze zasady w zakresie wienia o pojazdy napędzane wodoodpisów amortyzacyjnych dla rem."
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "samochodów elektrycznych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Ustawa o podatku dochodo- Obecna treść ustawy przewiduje Ewentualne poszerzenie postanowym od osób prawnych korzystniejsze zasady w zakresie wienia o pojazdy napędzane wodoodpisów amortyzacyjnych dla rem. samochodów elektrycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Nowy akt prawny Potrzeba wsparcia transformacji Wprowadzenie węglowego kontrakklimatycznej przemysłu. tu różnicowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Ustawa - Prawo geologiczne i Ustawa nie definiuje obecnie Wprowadzenie przepisów dotyczągórnicze przepisów regulujących prowa- cych podziemnego bezzbiornikowedzenia działalności w zakresie go magazynowania wodoru, doprepodziemnego magazynowania cyzowanie istniejących przepisów w wodoru. zakresie magazynowania substancji oraz uznanie podziemnego bezzbiornikowego magazynowania wodoru za inwestycję celu publicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Ustawa – Prawo o miarach Ustawa nie definiuje rodzajów Wprowadzenie odpowiednich przeprzyrządów pomiarowych wodoru pisów do ustawy, które umożliwią podlegających prawnej kontroli kontrolę metrologiczną wodoru. metrologicznej, zakresu tej kontroli oraz przepisów dotyczących wymagań metrologicznych dla urządzeń służących do wydawania wodoru na stacjach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Ustawa – Prawo lotnicze Ustawa wymaga dostosowania do Technologie dronowe z wykorzystapotrzeb technologii wodorowych. niem paliwa wodorowego będą wymagały wprowadzenia przepisów prawnych i uzyskania stosownych pozwoleń. Bez zmiany Prawa lotniczego nie zostaną one dopuszczone do ruchu powietrznego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozważa się przyjęcie powyższych regulacji nie w formie nowelizacji, a przez wprowadzenie ustawy"
+      },
+      {
+       "type": "text",
+       "text": "– Prawo wodorowe, która kompleksowo i w jednym miejscu ureguluje działanie rynku wodoru."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 6. Działania w zakresie legislacji dotyczącej wodoru."
+      },
+      {
+       "type": "text",
+       "text": "4.3. DZIAŁANIA POZALEGISLACYJNE"
+      },
+      {
+       "type": "text",
+       "text": "W dążeniu do osiągnięcia celów określonych w PSW Rząd RP planuje podjąć szereg działań wspierających jej realizację, m.in:"
+      },
+      {
+       "type": "text",
+       "text": "A. ZAWARCIE POROZUMIENIA NA RZECZ BUDOWY GOSPODARKI WODOROWEJ"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 30 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Podstawowym działaniem zmierzającym do realizacji PSW będzie zawarcie kontraktu branżowego (ang. sector deal) – Polskiego porozumienia wodorowego. Celem proponowanego Porozumienia jest określenie listy długofalowych działań na rzecz rozwoju nowej branży, do realizacji których zobowiążą Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "się podmioty publiczne i prywatne. Przedstawi ono katalog i ofertę instrumentów legislacyjnych, organizacyjnych, instytucjonalnych i finansowych. Tym samym stworzy swoisty plan działania mający na celu budowę gospodarki wodorowej i będzie stanowić kluczowy instrument wykonawczy PSW ."
+      },
+      {
+       "type": "text",
+       "text": "Zgodnie z SOR, kontrakt branżowy zawierany jest między podmiotami publicznymi a reprezentantami danego sektora. Podmiotem publicznym odpowiedzialnym za koordynację wsparcia w zakresie technologii wodorowych będzie minister właściwy do spraw energii. Reprezentantami tej branży są wstępnie wszystkie jednostki, które zadeklarowały chęć wsparcia działań ministerstwa, podpisując List intencyjny o ustanowieniu partnerstwa na rzecz budowy gospodarki wodorowej i zawarcia sektorowego porozumienia wodorowego z dnia 7 lipca 2020 r. W celu zapewnienia właściwej reprezentacji sektora możliwość dołączenia do realizacji postanowień listu pozostała otwarta. Docelowo najbardziej pożądanym rozwiązaniem byłoby podpisanie kontraktu między stroną rządową a zawiązaną przez branżę gospodarczą izbą wodorową lub otwartym na wszystkich przedstawicieli branży stowarzyszeniem. Ministerstwo Klimatu i Środowiska będzie zachęcać przedstawicieli branży do podjęcia w tym celu zinstytucjonalizowanej współpracy."
+      },
+      {
+       "type": "text",
+       "text": "Polskie porozumienie wodorowe przedstawi dostosowany do potrzeb powstającego sektora wodorowego pakiet działań, których celem będzie wydłużenie perspektywy strategicznej i – przez zapewnienie stabilności otoczenia – pobudzenie inwestycji."
+      },
+      {
+       "type": "text",
+       "text": "B. STWORZENIE EKOSYSTEMU INNOWACJI DOLIN WODOROWYCH"
+      },
+      {
+       "type": "text",
+       "text": "Budowa gospodarki wodorowej opierać się będzie o powstanie dolin wodorowych, które zgodnie ze Strategią wodorową UE mają stać się spójnym elementem Europejskiego Ekosystemu Wodorowego. Planowane jest tworzenie warunków dla rozwoju przemysłu wodorowego w mechanizmie ekosystemowym, który będzie również zintegrowany na poziomie regionalnym, krajowym i międzynarodowym."
+      },
+      {
+       "type": "text",
+       "text": "Polski Ekosystem Innowacji Dolin Wodorowych będzie obejmować innowacyjne przedsięwzięcia przemysłowe, projekty inwestycyjne o dużej, wieloletniej skali realizowane w ramach określonego obszaru geograficznego, opierając się na selektywnie i celowo dobranych oraz koordynowanych w ramach dolin wodorowych w wymiarze innowacyjnym, technologicznym, infrastrukturalnym, przemysłowym i naturalnym. Budowa i funkcjonowanie ekosystemu musi być koordynowane na poziomie krajowym i zintegrowane z międzynarodowym systemem gospodarczym. Będzie on zarządzany przez „Instytucję Koordynującą”, dla zapewnienia powstawania polskiego przemysłu wodorowego o potencjale konkurencyjnym w skali globalnej."
+      },
+      {
+       "type": "text",
+       "text": "Doliny wodorowe powinny łączyć możliwie największą liczbę ogniw łańcucha wartości, kładąc szczególny nacisk na rozwój segmentu B+R+I, w kierunku zaspokojenia maksymalnej ilości potrzeb odbiorców równolegle w wielu obszarach. W ten sposób powinien powstać skoordynowany i zintegrowany ekosystem powiązań umożliwiający osiągnięcie masy krytycznej technologii, wiedzy, badań i biznesu dla stworzenia samowystarczalnego i samodzielnego ekosystemu gospodarki wodorowej."
+      },
+      {
+       "type": "text",
+       "text": "C. UTWORZENIE CENTRUM TECHNOLOGII WODOROWYCH"
+      },
+      {
+       "type": "text",
+       "text": "W celu wykorzystania potencjału naukowego oraz technologicznego Polski w dziedzinie technologii wodorowych konieczne będzie powołanie jednostki, do której zadań należeć będzie:"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 31 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "− koordynacja prowadzonych projektów badawczych i wsparcie społeczności naukowej w tworzeniu wyspecjalizowanych grup badawczych, w tym wirtualnych, i komercjalizacji wyników badań, Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "− dostarczanie na rynek gotowych produktów dla gospodarki wodorowej do wykorzystania przez krajowe i zagraniczne podmioty,"
+      },
+      {
+       "type": "text",
+       "text": "− prowadzenie szeroko rozumianego doradztwa, usług oraz prac rozwojowych w obszarze wykorzystania technologii wodorowych,"
+      },
+      {
+       "type": "text",
+       "text": "− inicjowanie prac w zakresie nowych rozwiązań w obszarze wodoru,"
+      },
+      {
+       "type": "text",
+       "text": "− pozyskiwanie środków do realizacji nowych projektów i prac badawczych,"
+      },
+      {
+       "type": "text",
+       "text": "− edukacja i upowszechnianie wiedzy w zakresie wodoru."
+      },
+      {
+       "type": "text",
+       "text": "Jednostka ta będzie włączać do realizacji swoich zadań szerokie spektrum specjalistów i interesariuszy. Dzięki temu stanie się platformą szerokiej debaty nad wykorzystaniem i wdrażaniem przełomowych technologii, koordynującą badania i potencjał naukowy Polski."
+      },
+      {
+       "type": "text",
+       "text": "D. BUDOWA KOMPETENCJI NA RZECZ GOSPODARKI WODOROWEJ"
+      },
+      {
+       "type": "text",
+       "text": "Głównym zadaniem w zakresie rozwoju kompetencji i zasobów ludzkich jest przygotowanie wykwalifikowanych kadr do tworzenia, budowy i eksploatacji instalacji wodorowych."
+      },
+      {
+       "type": "text",
+       "text": "Zapewnienie wysoko wykształconej i dobrze wyszkolonej kadry, zdolnej aktywnie współtworzyć unikalną kulturę bezpieczeństwa, jest jednym z najważniejszych zadań podczas przygotowań do wdrożenia i eksploatacji technologii wodorowych na szerszą skalę. Konieczność nabycia, rozwoju i utrzymania wysokich kompetencji pracowników jest szczególnie istotna w sektorach energetyki i transportu. Planowany dynamiczny rozwój mobilności wodorowej musi iść w parze z kształceniem kadr zdolnych do serwisowania pojazdów oraz stacji tankowania. Kluczowe jest odpowiednie planowanie, szkolenie i zarządzanie personelem. Konieczne jest wprowadzenie do programu nauczania, na różnych szczeblach edukacji, zagadnień związanych z wytwarzaniem, transportem i wykorzystaniem wodoru, w tym podjęcie współpracy z uczelniami na rzecz utworzenia studiów kierunkowych szkolących kadry w zakresie objętym PSW oraz uwzględnienie w programach nauczania szkół branżowych kwestii związanych z serwisowaniem pojazdów z ogniwami wodorowymi."
+      },
+      {
+       "type": "text",
+       "text": "Rozwój gospodarki wodorowej stwarza możliwość efektywnego przekwalifikowania pracowników z obszarów uzależnionych od węgla. W tym celu w pierwszym kroku należy przygotować odpowiednie ramy prowadzonych polityk i zapewnić stabilne finansowanie. Następnie konieczne jest zainicjowanie działań edukacyjnych, które umożliwią podniesienie świadomości społecznej, że zmiany strukturalne dotyczące rynku pracy nie wiążą się tylko z likwidacją miejsc pracy, ale również ze stworzeniem nowych. W tym samym czasie należy rozpocząć wdrażanie odpowiednio ukierunkowanych programów wsparcia, które przyczynią się do przekwalifikowania pracowników i uzyskania nowych umiejętności."
+      },
+      {
+       "type": "text",
+       "text": "E. DZIAŁANIA EDUKACYJNE I KAMPANIE SPOŁECZNE"
+      },
+      {
+       "type": "text",
+       "text": "Rząd RP przeprowadzi akcje edukacyjne i kampanie społeczne przybliżające wiedzę na temat aktualnego wykorzystania wodoru oraz zasad bezpieczeństwa, które powinny mu towarzyszyć."
+      },
+      {
+       "type": "text",
+       "text": "F. WSPÓŁPRACA EUROPEJSKA I MIĘDZYNARODOWA"
+      },
+      {
+       "type": "text",
+       "text": "W rozwoju gospodarki wodorowej istotne znaczenie odegra zaangażowanie podmiotów wdrażających PSW we współpracę międzynarodową oraz na forum UE."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 32 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Zaangażowanie polskich naukowców i inwestorów w międzynarodowych projektach badawczych czy inwestycyjnych wesprze wymianę doświadczeń i utrzymanie polskich komponentów łańcucha wartości gospodarki wodorowej na najwyższym poziomie oraz docelowo umożliwi ich eksport."
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "Rząd RP zadba o zaangażowanie polskiej administracji w procesy podejmowania decyzji oraz tworzenia prawa i polityk publicznych na forum UE. Planowany jest w szczególności aktywny udział w prowadzonych w Radzie negocjacjach nad propozycjami legislacyjnymi Komisji i dostosowywanie prezentowanego stanowiska do pojawiających się propozycji kompromisowych, dążąc do odzwierciedlenia w nich postulatów Rządu RP i polskich interesariuszy. Ministerstwo Klimatu i Środowiska jest od grudnia 2020 r. członkiem europejskiego sojuszu na rzecz czystego wodoru.⁵⁶"
+      },
+      {
+       "type": "text",
+       "text": "4.4. FINANSOWANIE REALIZACJI STRATEGII"
+      },
+      {
+       "type": "text",
+       "text": "PRZEWIDYWANE NAKŁADY INWESTYCYJNE"
+      },
+      {
+       "type": "text",
+       "text": "Ze względu na wczesny etap rozwoju technologii wodorowych i konieczność przeprowadzenia dogłębnych analiz dostępna wiedza pozwala jedynie w ograniczonym zakresie oszacować koszty inwestycyjne niezbędne do wdrożenia celów PSW."
+      },
+      {
+       "type": "text",
+       "text": "Do 2025 r. realizacja celów związanych z wdrożeniem technologii wodorowych w transporcie publicznym wraz z infrastrukturą tankowania wodoru oraz zapewnienie planowanej produkcji (uruchomienie instalacji do produkcji wodoru z niskoemisyjnych źródeł) wymagać będzie inwestycji rzędu ok. 930 mln zł⁵⁷."
+      },
+      {
+       "type": "text",
+       "text": "W perspektywie 2030 r. dostępna wiedza pozwala szacować tylko koszty związane z inwestycjami w elektrolizery, które przekroczą 9 mld zł, zależnie od wybranej technologii (alkaiczne/PEM/SOE) oraz zakupem kolejnych autobusów, które wyniosą ok. 1,8 mld zł ."
+      },
+      {
+       "type": "text",
+       "text": "Łącznie w okresie 2021–2030 niezbędne nakłady inwestycyjne związane z wdrażaniem technologii wodorowych w transporcie publicznym wraz z niezbędną infrastrukturą oraz osiągnięcie zakładanej mocy instalacji ze źródeł niskoemisyjnych na poziomie 2GW wyniosą ok. 11 mld zł ."
+      },
+      {
+       "type": "text",
+       "text": "Tabela 7. Podsumowanie koniecznych nakładów inwestycyjnych. Źródło: Opracowanie własne."
+      },
+      {
+       "type": "text",
+       "text": "Oszacowanie kosztów produkcji 1 kg wodoru z OZE uwzględnia koszt energii elektrycznej, Capacity Factor oraz koszt elektrolizera (powyżej 1 MW). Uwzględniając plany rozwoju energetyki ujęte w PEP 2040 oraz uwarunkowania geograficzne Polski, elektrolizery do produkcji wodoru będą w dłuższej perspektywie zasilane w dużej mierze energią elektryczną pochodzącą z morskich farm wiatrowych. Dostępne dane wskazują, że teoretyczny koszt produkcji wodoru z offshore w Polsce wynosi"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 33 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "obecnie ok. 27 zł (6 euro)/kgH₂.⁵⁸ Mając na uwadze, że koszty energii elektrycznej stanowią blisko 70% kosztów produkcji bezemisyjnego wodoru, warunkiem niezbędnym jest osiągnięcie ceny energii elektrycznej poniżej 200 zł/MWh. Spełnienie tego warunku umożliwi produkcję wodoru z offshore w cenie na poziomie ok. 13,5 zł (3 euro)/kgH₂.⁵⁹"
+      },
+      {
+       "type": "text",
+       "text": "Średni koszt utrzymania autobusu typu FCEV wynosi ok. 443 zł /100 km. Na tę kwotę w największym stopniu składa się cena paliwa wodorowego (55%), następnie koszty konserwacji pojazdu (17%), ubezpieczenie (15%), wymiana części (9%) oraz utrzymanie stacji ładowania (6%). W okolicach roku 2025 spodziewane jest zrównanie kosztów utrzymania FCEV z BEV, aby do 2030 r. autobusy na ogniwa paliwowe osiągnęły przewagę konkurencyjną nad autobusami elektrycznymi, do czego przyczynią się m.in. spadki cen paliwa wodorowego o około 44%.⁶⁰"
+      },
+      {
+       "type": "text",
+       "text": "Rozwój sieci przesyłu i dystrybucji wodoru będzie wymagać dostosowania istniejących rurociągów gazu ziemnego do przesyłu wodoru, jak i budowy infrastruktury dedykowanej wyłącznie do transportu wodoru. Koszt dostosowania funkcjonujących gazociągów wynosi średnio 1,8 mln zł (0,4 mln euro)/km, do których należy doliczyć koszty systemów sprężania, które kształtują się na poziomie 1,57 mln zł (0,35 mln euro)/km. Budowa nowych rurociągów wiąże się z wyższymi wydatkami w wysokości średnio 9,4 mln zł (2,1 mln euro)/km, przy czym koszy sprężania pozostają na tym samym poziomie, co w przypadku dostosowanych gazociągów. Stan techniczny polskich gazociągów nie zezwala na rentowne dostosowanie ich do przesyłu wodoru w perspektywie długoterminowej.⁶¹"
+      },
+      {
+       "type": "text",
+       "text": "Przedstawione nakłady finansowe, jak i poziom finansowania ze środków publicznych mogą ulegać zmianie pod wpływem następujących czynników:"
+      },
+      {
+       "type": "text",
+       "text": " przyjęte rozwiązania prawne na poziomie UE,"
+      },
+      {
+       "type": "text",
+       "text": " efektywność realizacji gospodarki wodorowej (w szczególności unikanie kosztów utopionych, które wpłyną na poziom nakładów po 2030 r.),"
+      },
+      {
+       "type": "text",
+       "text": " stopień rozwoju rynku i dostępność wykwalifikowanych pracowników,"
+      },
+      {
+       "type": "text",
+       "text": " postęp technologiczny i dostępność innowacyjnych rozwiązań,"
+      },
+      {
+       "type": "text",
+       "text": " efektywność publicznych mechanizmów wsparcia oraz ich łączenie z rozwiązaniami ułatwiającymi podejmowanie i przeprowadzanie inwestycji,"
+      },
+      {
+       "type": "text",
+       "text": " sposób kształtowania się cen produkcji wodoru, energii elektrycznej oraz komponentów do instalacji wodorowych,"
+      },
+      {
+       "type": "text",
+       "text": " stopień realizacji założonych celów."
+      },
+      {
+       "type": "text",
+       "text": "ŹRÓDŁA FINANSOWANIA"
+      },
+      {
+       "type": "text",
+       "text": "Zestawienie możliwych źródeł finansowania PSW w zakresie środków krajowych i pozakrajowych jest zbieżne ze źródłami przedstawionymi w PEP 2040."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 34 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "Realizacja przedsięwzięć określonych w PSW będzie odbywać się przy zachowaniu stabilności makroekonomicznej Polski, w tym w szczególności sektora finansów publicznych i będzie uwzględniać ograniczenia związane z obowiązującymi regułami fiskalnymi, w tym Stabilizującą Regułą Wydatkową."
+      },
+      {
+       "type": "text",
+       "text": "Obecnie projekty z zakresu wodoru konkurują o dofinansowanie z przedsięwzięciami z zakresu informatyki czy chemii. Jest to problematyczne, ponieważ instalacje z branży energetycznej często nie są w stanie osiągnąć tak szybkiego okresu zwrotu z inwestycji. Wobec powyższego rekomenduje się stworzenie programów przeznaczonych wyłącznie do wsparcia technologii wodorowych. Do składania aplikacji dopuszczone byłyby wyłącznie projekty, które wpisują się w działania przedstawione w PSW. Będą to programy skierowane do przedsiębiorców, instytucji otoczenia biznesu, jednostek badawczych i naukowych oraz instytucji administracji publicznej na realizację innowacyjnych projektów związanych z technologiami wodorowymi, a także na wdrożenie projektów wodorowych przez instalację odpowiednich urządzeń i systemów do produkcji wodoru."
+      },
+      {
+       "type": "text",
+       "text": "Na rzecz zapewnienia finansowania realizacji celów PSW planuje się następujące działania:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Uruchomienie programów wspierających badania i rozwój w dziedzinie technologii wodorowych: 1.1. Uruchomienie od 2021 r. Programu Wsparcia Technologii Wodorowych NCBR obejmującego m.in.:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1.1. wsparcie finansowe i organizacyjne studiów wykonalności przemysłowych dolin wodorowych w ramach budowy procesów o obiegu zamkniętym;"
+      },
+      {
+       "type": "text",
+       "text": "1.1.2. opracowywanie i sukcesywne ogłaszanie programów finansowania badań w całym zakresie gospodarki wodorem, w oparciu o wyodrębniony fundusz programu POIR+ oraz środki krajowe. Przewidywana wartość funduszu to 1 mld PLN."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Uruchomienie programów wspierających rozwój technologii wodorowych:",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Uruchomienie w 2021 r. Programu „Nowa Energia” NFOŚiGW – szacunkowy budżet komponentu wodorowego – do 600 mln zł."
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie Programu skierowano do przedsiębiorstw na wdrożenie technologii produkcji, transportu, magazynowania i wykorzystywania bezemisyjnego wodoru."
+      },
+      {
+       "type": "text",
+       "text": "2.2. Uruchomienie w 2021 r. Programu „Zielony transport publiczny” (Faza I) – szacunkowy budżet komponentu wodorowego – ok. 320 mln zł."
+      },
+      {
+       "type": "text",
+       "text": "Celem Programu „Zielony transport publiczny” (Faza I) jest obniżenie wykorzystania paliw emisyjnych w publicznym transporcie zbiorowym przez wzrost udziału w taborze autobusów wykorzystujących do napędu energię elektryczną wytworzoną z wodoru w zainstalowanych w nim ogniwach paliwowych wraz z infrastrukturą tankowania wodoru. Wsparcie Programu skierowano do operatorów oraz organizatorów publicznego transportu zbiorowego."
+      },
+      {
+       "type": "text",
+       "text": "2.3. Uruchomienie w 2021 r. Programu „Wodoryzacja Gospodarki” NFOŚiGW"
+      },
+      {
+       "type": "text",
+       "text": "Wsparcie Programu będzie skierowane do przedsiębiorców, instytucji otoczenia biznesu, jednostek badawczych i naukowych oraz instytucji administracji publicznej na realizację innowacyjnych projektów związanych z technologiami wodorowymi."
+      },
+      {
+       "type": "text",
+       "text": "2.4. Uruchomienie w 2021 r. Programu „Wsparcie infrastruktury ładowania pojazdów elektrycznych i infrastruktury tankowania wodoru” NFOŚiGW – ok. 100 mln zł."
+      },
+      {
+       "type": "text",
+       "text": "Celem Programu jest wsparcie rozwoju infrastruktury do ładownia pojazdów elektrycznych i"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 35 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "infrastruktury do tankowania wodoru. O bezzwrotne dofinasowanie będą mogły ubiegać się: jednostki samorządu terytorialnego, przedsiębiorcy, spółdzielnie, wspólnoty mieszkaniowe i rolnicy indywidualni."
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Nabór projektów w ramach konkursu Important Projects of Common European Interest:",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1. IPCEI to jeden z kluczowych mechanizmów nowej polityki gospodarczej UE służący wsparciu tworzenia innowacyjnego europejskiego przemysłu w strategicznie ważnych dla UE sektorach gospodarki. Nabór na etapie krajowym przeprowadziły wspólnie Ministerstwo Klimatu i Środowiska oraz Ministerstwo Rozwoju, Pracy i Technologii."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Instrument na rzecz Odbudowy i Zwiększania Odporności:",
+     "children": [
+      {
+       "type": "text",
+       "text": "4.1. W toku prac nad Krajowym Planem Odbudowy (KPO) powstał program reform i inwestycji poświęcony rozwojowi mocy wytwórczych odnawialnego i niskoemisyjnego wodoru oraz jego wykorzystaniu w sektorze przemysłu, transportu i energetyki."
+      },
+      {
+       "type": "text",
+       "text": "4.2. Środki z Funduszu Odbudowy dedykowane gospodarce wodorowej zaplanowane w wysokości 800 mln euro zostaną przeznaczone na finansowanie inwestycji wskazanych w KPO, m.in. przez rozwinięcie programów NFOŚiGW i finansowanie projektów IPCEI – w zakresie, w jakim wpisują się w jego cele."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Mechanizm Sprawiedliwej Transformacji.⁶²",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Fundusze Polityki Spójności UE przewidują możliwość finansowania transportu publicznego w miastach i obszarach funkcjonalnych zasilanego paliwami alternatywnymi, w tym taboru autobusowego wraz ze stacjami tankowania wodoru. Wsparcie będzie skierowane do operatorów i organizatorów publicznego transportu zbiorowego.⁶³ Ze środków Polityki Spójności UE planowane jest również wsparcie na poziomie krajowym inwestycji w infrastrukturę wodoru w zakresie wytwarzania wodoru z odnawialnych źródeł energii⁶⁴ oraz jego transport i magazynowanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "CEF – Instrument „Łącząc Europę” w sektorze transportu na lata 2021–2027 przewiduje wsparcie rozwoju infrastruktury wykorzystującej wodór jako paliwo alternatywne wzdłuż sieci TEN-T.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Aby sprostać wyzwaniom rozwoju gospodarki wodorowej, Komisja Europejska uruchomi środki na inwestycje i badania w dziedzinie wodoru w ramach szeregu programów. Zachęcamy interesariuszy do śledzenia działań Komisji i aktywnego udziału w konkursach i innych działaniach umożliwiających pozyskanie finansowania ze środków, którymi dysponuje Komisja."
+      },
+      {
+       "type": "text",
+       "text": "4.5. AKTUALIZACJA STRATEGII I SYSTEM MONITOROWANIA"
+      },
+      {
+       "type": "text",
+       "text": "Z uwagi na ścisłe powiązanie z KPEiK i PEP 2040, prace nad najbliższą aktualizacją PSW zostaną rozpoczęte po zakończeniu prac nad aktualizacją KPEiK w 2023 r. i każdorazowo w razie przyjęcia aktualizacji PEP 2040."
+      },
+      {
+       "type": "text",
+       "text": "Realizacja PSW będzie monitorowana na poziomie głównych celów oraz wskaźników wskazanych w rozdziale 4.6. Do dnia 31 marca każdego roku minister właściwy do spraw energii przedstawi Radzie Ministrów roczne sprawozdanie z realizacji PSW za poprzedni rok. W sprawozdaniu za 2025 r. dokonana zostanie weryfikacja wyznaczonych celów i wskazane zostaną ewentualne postulaty ich aktualizacji z uwzględnieniem bieżących potrzeb interesariuszy."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 36 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "Zawarte w PSW działania strategiczne, które znajdą się w Portfelu Projektów Strategicznych Rady Monitorowania Portfela Projektów Strategicznych – organu pomocniczego Prezesa Rady Ministrów, podlegać będą monitoringowi prowadzonemu przez Rządowe Biuro Monitorowania Projektów w Kancelarii Prezesa Rady Ministrów.⁶⁵"
+      },
+      {
+       "type": "text",
+       "text": "4.6. WSKAŹNIKI STRATEGII"
+      },
+      {
+       "type": "text",
+       "text": "Poniżej znajduje się lista kluczowych wskaźników realizacji PSW:"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa wskaźnika Jednostka Wartość bazo- Wartość docelowa miary wa (2020) (2030)"
+      },
+      {
+       "type": "text",
+       "text": "Zainstalowana moc instalacji produkcji MW 0 2000 niskoemisyjnego wodoru"
+      },
+      {
+       "type": "text",
+       "text": "Liczba dolin wodorowych szt. 0 5"
+      },
+      {
+       "type": "text",
+       "text": "Liczba będących w użyciu autobusów woszt. 0 1000 dorowych"
+      },
+      {
+       "type": "text",
+       "text": "Liczba stacji wodoru szt. 0 >32"
+      },
+      {
+       "type": "text",
+       "text": "Zawarcie porozumienia na rzecz budowy szt. 0 1 gospodarki wodorowej"
+      },
+      {
+       "type": "text",
+       "text": "Stworzenie Ekosystemu Innowacji Dolin szt. 0 1 Wodorowych"
+      },
+      {
+       "type": "text",
+       "text": "Utworzenie Centrum Technologii Wodoszt. 0 1 rowych"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 8. Lista kluczowych wskaźników realizacji PSW."
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 37 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "WYKAZ SKRÓTÓW"
+      },
+      {
+       "type": "text",
+       "text": "SOR Strategia na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.)"
+      },
+      {
+       "type": "text",
+       "text": "PEP 2040 Polityka Energetyczna Polski do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "KPEiK Krajowy plan na rzecz energii i klimatu"
+      },
+      {
+       "type": "text",
+       "text": "UE Unia Europejska"
+      },
+      {
+       "type": "text",
+       "text": "Strategia wodorowa UE Strategia w zakresie wodoru na rzecz Europy neutralnej dla klimatu"
+      },
+      {
+       "type": "text",
+       "text": "UNIDO United Nations Industrial Development Organization"
+      },
+      {
+       "type": "text",
+       "text": "OZE odnawialne źródła energii"
+      },
+      {
+       "type": "text",
+       "text": "CO₂ dwutlenek węgla"
+      },
+      {
+       "type": "text",
+       "text": "CO tlenek węgla"
+      },
+      {
+       "type": "text",
+       "text": "N₂ azot"
+      },
+      {
+       "type": "text",
+       "text": "CCS (ang. Carbon Capture and Storage) wychwytywanie i składowanie CO₂"
+      },
+      {
+       "type": "text",
+       "text": "CCU (ang. Carbon Capture and Utilization) wychwytywanie i wykorzystanie CO₂"
+      },
+      {
+       "type": "text",
+       "text": "BEV (ang. Battery Electric Vehicle) pojazdy elektryczne"
+      },
+      {
+       "type": "text",
+       "text": "HEV (ang. Hybrid Electric Vehicle) hybrydowe pojazdy elektryczne"
+      },
+      {
+       "type": "text",
+       "text": "PHEV (ang. Plug-in Hybrid Electric Vehicle) hybrydowe pojazdy elektryczne typu plug-in"
+      },
+      {
+       "type": "text",
+       "text": "FCEV (ang. Fuel Cell Electric Vehicle) pojazdy na ogniwa paliwowe"
+      },
+      {
+       "type": "text",
+       "text": "P2G (ang. Power to Gas) technologia wykorzystująca energię z OZE do produkcji paliw gazowych"
+      },
+      {
+       "type": "text",
+       "text": "P2H (ang. Power to Heat) technologia wykorzystująca energię z OZE do produkcji ciepła"
+      },
+      {
+       "type": "text",
+       "text": "P2L (ang. Power to Liquid) technologia wykorzystująca energię z OZE do produkcji paliw płynnych"
+      },
+      {
+       "type": "text",
+       "text": "P2A (ang. Power to Ammonia) technologia wykorzystująca energię z OZE do produkcji amoniaku"
+      },
+      {
+       "type": "text",
+       "text": "P2X (ang. Power to X) łączne określenie ww. technologii"
+      },
+      {
+       "type": "text",
+       "text": "B+R prace badawczo-rozwojowe"
+      },
+      {
+       "type": "text",
+       "text": "KSE Krajowy System Elektroenergetyczny"
+      },
+      {
+       "type": "text",
+       "text": "SOE (solid oxide electrolyser) elektrolizer stałotlenkowy"
+      },
+      {
+       "type": "text",
+       "text": "OSPg Operator Systemu Przesyłowego Gazu"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 38 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "OSPe Operator Systemu Przesyłowego Elektroenergetycznego Polska strategia wodorowa do roku 2030 z perspektywą do 2040 r."
+      },
+      {
+       "type": "text",
+       "text": "SNG (ang. Substitute Natural Gas) syntetyczny gaz ziemny"
+      },
+      {
+       "type": "text",
+       "text": "COVID-19 (ang. Coronavirus Disease 2019) ostra choroba zakaźna układu oddechowego wywołana zakażeniem wirusem SARS-CoV-2"
+      },
+      {
+       "type": "text",
+       "text": "IGCC (ang. Integrated Gasification Com- technologia zgazowania w cyklu gazowo-parowym zinbined Cycle) tegrowanym ze zgazowaniem paliw stałych"
+      },
+      {
+       "type": "text",
+       "text": "IGFC (ang. Integrated Gasification Fuel technologia wykorzystująca część wychwyconej emisji Cell Combined Cycle) gazów ze spalania do produkcji energii"
+      },
+      {
+       "type": "text",
+       "text": "SPIS RYSUNKÓW I TABEL"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 1. Projekt łańcucha wartości polskiej gospodarki wodorowej. 8"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 2. Struktura udziału w rynku wodoru w Polsce w 2020 r. 9"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 3. Produkcja wodoru wg źródeł energii pierwotnej. 12"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 4. Schemat łączenia sektorów wg Ch. Schnell (red.). 13"
+      },
+      {
+       "type": "text",
+       "text": "Rysunek 5. Działania w zakresie wodoru w latach 2021–2030. 26"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 1. Wspierane działania w zakresie wdrożenia technologii wodorowych w energetyce i ciepłownictwie na lata 2020–2030. 16"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 2. Wspierane działania w zakresie wdrożenia wodoru jako paliwa alternatywnego w transporcie na lata 2020–2030. 18"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 3. Wspierane działania w zakresie dekarbonizacji przemysłu na lata 2020–2030. 20"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 4. Wspierane działania w zakresie produkcji wodoru w nowych instalacjach na lata 2020–2030. 22"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 5. Wspierane działania w zakresie transportu i magazynowania wodoru na lata 2020–2030. 24"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 6. Działania w zakresie legislacji dotyczącej wodoru. 29"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 7. Podsumowanie koniecznych nakładów inwestycyjnych. 32"
+      },
+      {
+       "type": "text",
+       "text": "Tabela 8. Lista kluczowych wskaźników realizacji PSW. 36"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 39 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "2 ¹ Porozumienie paryskie do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonej w Nowym Jorku dnia 9 maja 1992 r., przyjęte w Paryżu dnia 12 grudnia 2015 r., http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000036. 3 4 ² UNIDO, Towards Hydrogen Societies: Expert Group Meeting, Current advancements in hydrogen technology and pathways to deep decarbonisation, www.unido.org/sites/default/files/files/2019- 04/REPORT_Towards_Hydrogen_Societies.pdf. ³ COM(2018) 773 final. ⁴ COM(2019) 640 final. ⁵ COM(2020) 301 final. ⁶ COM(2020) 299 final. ⁷ COM(2020) 789 final. 5 ⁸ Polityka Energetyczna Polski do 2040 r., https://www.gov.pl/attachment/3209a8bb-d621-4d41-9140- 53c4692e9ed8. ⁹ Krajowy Plan na rzecz Energii i Klimatu na lata 2021–2030, przekazany do Komisji Europejskiej w dniu 30 grudnia 2019 r., https://www.gov.pl/web/aktywa-panstwowe/krajowy-plan-na-rzecz-energii-i-klimatu-nalata-2021-2030-przekazany-do-ke. 6 ¹⁰ Instytut Energetyki, Analiza potencjału technologii wodorowych w Polsce do roku 2030 z perspektywą do 2040 roku, s. 86. ¹¹ Ibid. ¹² Instytut Energetyki, op.cit., s. 22. 7 ¹³ Instytut Energetyki, op.cit., s. 81. 8 ¹⁴ Międzynarodowa Agencja Energetyczna, The Future of Hydrogen - Seizing today’s opportunities, 2019. https://iea.blob.core.windows.net/assets/9e3a3493-b9a6-4b7d-b499- 7ca48e357561/The_Future_of_Hydrogen.pdf. ¹⁵ Bhandari R., Trudewind C., Zap P., Forschungszentrum Jülich - Institut für Energie und Klimaforschung, 2012, Life Cycle Assessment of Hydrogen Production Methods – A Review, https://www.fz- 9 juelich.de/SharedDocs/Downloads/IEK/IEK- STE/DE/Publikationen/research_reports/2012/report_06_2012.pdf?__blob=publicationFile. ¹⁶ Technical expert group on sustainable finance (TEG), Taxonomy Report: Technical Annex, 2020, s. 180. https://ec.europa.eu/info/sites/default/files/business_economy_euro/banking_and_finance/documents/200309 -sustainable-finance-teg-final-report-taxonomy-annexes_en.pdf. ¹⁷ C(2021) 2800 final. Więcej informacji o taksonomii UE na stronie: https://ec.europa.eu/info/businesseconomy-euro/banking-and-finance/sustainable-finance/eu-taxonomy-sustainable-activities_pl. ¹⁸ Wodór odpadowy został zakwalifikowany jako niskoemisyjny na mocy dyrektywy 2018/2001, która wprowadza pojęcie „pochodzące z recyklingu paliwa węglowe”, Dz. Urz. UE L 328 z 21.12.2018 r., str. 82, z późn. zm. 10 ¹⁹ COM(2020) 301 final, s. 4. ²⁰ Ibid., s. 1. ²¹ Przykładowo: http://pgnig.pl/aktualnosci/-/news-list/id/startuje-nowy-program-wodorowypgnig/newsGroupId/10184,https://www.lotos.pl/322/n,5080/lotos_inicjuje_kolejny_projekt_w_zakresie_wod oru, https://www.orlen.pl/PL/BiuroPrasowe/Strony/PKN-ORLEN-wybuduje-hub-wodorowy-we- W%C5%82oc%C5%82awku.aspx. ²² Ch. Schnell (red.), Łączenie sektorów zielonej energii. Co to oznacza dla Polski? Elektryfikacja, Decentralizacja, Digitalizacja, Instytut Jagielloński, 2020, s. 26, http://jagiellonski.pl/news/722/laczenie_sektorow_zielonej_energii_co_to_oznacza_dla_polski_raport. 11 12 ²³ Definicja za: Ch. Schnell (red.), op.cit., s. 13. ²⁴ Bloomberg New Energy Finance, Sector coupling in Europe: powering decarbonisation. Potential and policy implications of electrifying the economy, 2020, https://assets.bbhub.io/professional/sites/24/BNEF-Sector- Coupling-Report-Feb-2020.pdf. 13 ²⁵ PEP2040, Załącznik 2 – Wnioski z analiz prognostycznych dla sektora energetycznego, https://www.gov.pl/attachment/15a6e747-6231-4dc8-8aba-909a3aa0efb6. ²⁶ Instytut Energetyki, op.cit., ss. 152 i 153. ²⁷ Instytut Energetyki, op.cit., ss. 292 i 293. ²⁸ Ibid., ss. 115 i 116. ²⁹ Ibid., s. 119. 14 ³⁰ The Fuel Cells and Hydrogen Joint Undertaking (FCH JU), Opportunities for Hydrogen Energy Technologies Considering the National Energy & Climate Plans, 2020, https://www.fch.europa.eu/publications/opportunities-hydrogen-energy-technologies-considering-nationalenergy-climate-plans. 15 ³¹ Wykorzystanie wodoru jako paliwa służącego do napędu bezzałogowych statków powietrznych zostało uwzględnione również w Białej Księdze Rynku Bezzałogowych Statków Powietrznych, opracowanej przez Polski Instytut Ekonomiczny oraz Ministerstwo Infrastruktury: https://www.gov.pl/web/infrastruktura/bialaksiega-rynku-bezzalogowych-statkow-powietrznych. ³² COM(2020) 789 final. 16 ³³ Rozwój paliw alternatywnych do wykorzystania w transporcie morskim przewiduje m.in. Strategia Portu Gdańsk 2030: https://www.portgdansk.pl/documents/2021/01/strategia-2030.pdf. ³⁴ Instytut Energetyki, op.cit., s. 177. ³⁵ Instytut Energetyki, op.cit., s. 178. 17 ³⁶ McKinsey&Company, Carbon-neutral Poland 2050, 2020, op.cit., s. 17. ³⁷ Instytut Energetyki, op.cit., s. 156-9. ³⁸ Clean Hydrogen Monitor 2020, Hydrogen Europe, 2020. ³⁹ Instytut Energetyki, op.cit., s. 161. 18 ⁴⁰ Ibid., s. 343. ⁴¹ Ibid., s. 341. ⁴² No regret hydrogen, op.cit., s. 9. ⁴³ Roland Berger, The future of steelmaking, op.cit., s. 7. ⁴⁴ The Fuel Cells and Hydrogen Joint Undertaking (FCH JU), op.cit., s. 23. 19 ⁴⁵ Instytut Energetyki, op.cit., s. 464. 20 ⁴⁶ Urząd Regulacji Energetyki, Czy wodór i technologia P2G zoptymalizują system energetyczny? Kolejne rekomendacje ACER i CEER, https://www.ure.gov.pl/pl/urzad/informacje-ogolne/aktualnosci/9307,Czywodor-i-technologia-P2G-zoptymalizuja-system-energetyczny-Kolejne-rekomendac.html. ⁴⁷ S. Dobras, L. Więcław-Solny, A. Wilk, A. Tatrczuk, Metan z procesów Power to Gas – ekologiczne paliwo do zasilania silników spalinowych, „Zeszyty Naukowe Instytutu Gospodarki Surowcami Mineralnymi i Energią Polskiej Akademii Nauk” 2018, nr 104, s. 104. ⁴⁸ Instytut Energetyki, op.cit., s. 242. ⁴⁹ Instytut Energetyki, op.cit., s. 166, 321. 21 ⁵⁰ Międzynarodowa Agencja Energetyczna, op.cit. 22 ⁵¹ Dyrektywa Parlamentu Europejskiego i Rady 2009/73/WE z dnia 13 lipca 2009 r. dotycząca wspólnych zasad rynku wewnętrznego gazu ziemnego i uchylająca dyrektywę 2003/55/WE (Dz. Urz. UE L 211 z 14.08.2009, str. 94, z późn. zm.). ⁵² PEP 2040, s. 38. ⁵³ Ogłoszenie projektu tzw. pakietu wodorowego i dekarbonizacyjnego planowane jest przez Komisję Europejską na IV kw. 2021 r. https://ec.europa.eu/info/news/public-consultation-launched-decarbonising-eu-gasmarket-2021-mar-26_en. 23 24 ⁵⁴ IRENA, Green Hydrogen Cost Reduction: Scaling up Electrolysers to Meet the 1.5oC Climate Goal, https://www.irena.org/publications/2020/Dec/Green-hydrogen-cost-reduction. ⁵⁵ Bloomberg New Energy Finance, op.cit. 25 26 27 28 29 30 31 ⁵⁶ https://ec.europa.eu/growth/industry/policy/european-clean-hydrogen-alliance_en ⁵⁷ Przedstawione w tej części kwoty zostały ustalone według kursu 1 euro = 4,5027 PLN. 32 ⁵⁸ Instytut Energetyki, op.cit., s. 237. ⁵⁹ Instytut Energetyki, op.cit., s. 236. ⁶⁰ Deloitte, Ballard, Fueling the Future of Mobility. Hydrogen and fuel cell solutions for transportation. Volume I, s. 44 i 45, https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/finance/deloitte-cn-fuelingthe-future-of-mobility-en-200101.pdf. ⁶¹ Instytut Energetyki, op.cit., s. 281. 33 34 ⁶² Katalog źródeł finansowania ze środków UE może ulec zmianie, zależnie od wyników negocjacji z KE dotyczących Umowy Partnerstwa na lata 2021–2027 i programów ją realizujących. ⁶³ Szczegóły wsparcia określa Umowa Partnerstwa oraz poszczególne programy Polityki Spójności przewidziane na lata 2021–2027. ⁶⁴ Zgodnie z dyrektywą Parlamentu Europejskiego i Rady (UE) 2018/2001. 35 ⁶⁵ Monitoring projektów realizowany jest przy pomocy narzędzia informatycznego MonAliZa. System zapewnia jednolitość monitorowania obowiązującego projekty wszystkich zintegrowanych strategii, z uwzględnieniem specyfiki organizacji, zakresu projektu oraz dobrych praktyk i rekomendowanych standardów. Wyznaczeni liderzy projektów przekazują dane niezbędne do zasilenia systemu MonAliZa, a także za jego pośrednictwem wskazują m.in. ryzyka i osiągnięte rezultaty. 36 37 38"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

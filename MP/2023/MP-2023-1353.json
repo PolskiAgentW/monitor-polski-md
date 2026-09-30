@@ -1,0 +1,444 @@
+{
+ "eli": "MP/2023/1353",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 27 października 2023 r. w sprawie włączenia kwalifikacji rynkowej \"Przetwarzanie danych cyfrowych w środowisku zawodowym z wykorzystaniem technologii informacyjno-komunikacyjnych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/1353/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 października 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji rynkowej ,,Przetwarzanie danych cyfrowych w środowisku zawodowym z wykorzystaniem technologii informacyjno-komunikacyjnych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226 oraz z 2023 r. poz. 2005) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji rynkowej „Przetwarzanie danych cyfrowych w środowisku zawodowym z wykorzystaniem technologii informacyjno-komunikacyjnych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: J. Cieszyński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 27 października 2023 r. (M.P. poz. 1353)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „PRZETWARZANIE DANYCH CYFROWYCH W ŚRODOWISKU ZAWODOWYM Z WYKORZYSTANIEM TECHNOLOGII INFORMACYJNO-KOMUNIKACYJNYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przetwarzanie danych cyfrowych w środowisku zawodowym z wykorzystaniem technologii informacyjno-komunikacyjnych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nazwa dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okres ważności dokumentu potwierdzającego nadanie kwalifikacji rynkowej i warunki przedłużenia jego ważności",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 lat. Po upływie 5 lat ponowne przystąpienie do walidacji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba, która posiada kwalifikację rynkową, potrafi wyszukiwać niezbędne w trakcie pracy zawodowej informacje z wykorzystaniem filtrów i botów wyszukiwarek, odróżniając przy tym informacje prawdziwe od tzw. fake newsów oraz rozpoznając zjawiska agresji w Internecie. W tworzonych i edytowanych plikach tekstowych oraz arkuszach kalkulacyjnych korzysta z wielu różnych narzędzi i filtrów poprawiających ich czytelność i wygląd, a także zwiększających produktywność. Potrafi również nagrywać pulpit oraz umieszczać nagrania na platformach streamingowych. Rozpoznaje najpopularniejsze formaty kompresji plików, potrafi samodzielnie znaleźć, pobrać i zainstalować sterowniki i aplikacje firm trzecich według potrzeb, rozróżnia nośniki wielokrotnego i jednokrotnego zapisu, a także łączy się z zewnętrznymi zasobami sieciowymi w firmie (mapuje dyski do NAS). Podczas komunikacji z innymi uczestnikami wykorzystuje bezpieczne, szyfrowane kanały informacji, przesyłając posiadane pliki również w formie spakowanych i zabezpieczonych archiwów danych. Osoba posiadająca kwalifikację rynkową korzysta z mechanizmów zabezpieczających w postaci 2FA, wskazuje dobre praktyki cyberbezpieczeństwa, rozumie potrzebę używania kopii bezpieczeństwa, omawia i przeciwdziała zagrożeniom bezpieczeństwa oraz potrafi usuwać większość prostych problemów z oprogramowaniem i sprzętem komputerowym. W przypadku poważniejszych problemów łączy się za pomocą narzędzi zdalnych (pulpit zdalny) ze wsparciem technicznym."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Przetwarzanie danych cyfrowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje systemy – omawia zagadnienia związane z zarządzaniem danymi zlokalizowanymi na lokalnych lub operacyjne zewnętrznych nośnikach danych (np. hierarchiczny schemat organizacji dysków, folderów i plików, poziomy dostępu do zasobów komputera, sortowanie, grupowanie, filtrowanie danych, zmiana układu folderów, modyfikacja opcji folderów, formatowanie, defragmentacja, zerowanie nośników),"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje najpopularniejsze formaty kompresji plików (np. *.zip, *.rar, *.7z),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia otoczenie sieciowe, funkcję mapowania dysków sieciowych lub zewnętrzne urządzenia do przechowywania plików (np. NAS, DAS),"
+      },
+      {
+       "type": "text",
+       "text": "– rozróżnia nośniki wielokrotnego zapisu od nośników jednorazowego zapisu (np. CD-R, DVD-R, DVD-RW),"
+      },
+      {
+       "type": "text",
+       "text": "– opisuje procedurę instalacji sterowników (np. weryfikacja modelu, pobranie najnowszej wersji, instalacja)."
+      },
+      {
+       "type": "text",
+       "text": "Administruje systemami – przetwarza archiwa plików z wykorzystaniem aplikacji firm trzecich, zabezpieczając je operacyjnymi hasłami (np. winzip, winrar, 7-zip, unarchiver),"
+      },
+      {
+       "type": "text",
+       "text": "– sprawdza listę zainstalowanych w systemie czcionek systemowych,"
+      },
+      {
+       "type": "text",
+       "text": "– tworzy skrót do lokalizacji sieciowej."
+      },
+      {
+       "type": "text",
+       "text": "Przetwarza pliki – tworzy pliki tekstowe (przechowywane lokalnie lub na zewnętrznym nośniku, np. dysku tekstowe w formie sieciowym), offline i online – charakteryzuje typy kodowania plików (UTF-8, Windows-1256),"
+      },
+      {
+       "type": "text",
+       "text": "– edytuje pliki tekstowe (np. tworzy korespondencję seryjną, dodaje znak wodny, ustawia niestandardowe marginesy, tworzy zautomatyzowany spis treści, sprawdza pisownię i gramatykę w dokumencie tekstowym)."
+      },
+      {
+       "type": "text",
+       "text": "Przetwarza arkusze – tworzy arkusze kalkulacyjne (przechowywane lokalnie lub na zewnętrznym zasobie, np. kalkulacyjne w formie dysku sieciowym), offline i online – edytuje arkusze kalkulacyjne (np. wstawia tabele przestawne, korzysta z funkcji „szukaj i zamień” w trybie zaawansowanym, blokuje przewijanie wierszy i kolumn, dostosowuje szerokość wierszy i wysokość kolumn),"
+      },
+      {
+       "type": "text",
+       "text": "– korzysta z funkcji arytmetyczno-logicznych, których konstruktor składa się z kilku zmiennych."
+      },
+      {
+       "type": "text",
+       "text": "Przetwarza – charakteryzuje stosowane narzędzia do publikacji materiałów audiowizualnych (np. Twitch, multimedialne treści YouTube) lub formaty plików multimedialnych (np. *.mp4, *.wav, *.flac, *.aac, *.tiff, *.heic), cyfrowe – nagrywa pulpit z wykorzystaniem wbudowanych mechanizmów systemowych,"
+      },
+      {
+       "type": "text",
+       "text": "– umieszcza na platformie streamingowej krótki materiał wideo (dostęp prywatny)."
+      },
+      {
+       "type": "text",
+       "text": "Omawia prawo autorskie – wskazuje najważniejsze zasady autorskich praw majątkowych w kontekście zasobów cyi licencje frowych,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia założenie licencji Creative Commons."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Bezpieczna wymiana informacji"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje funkcje – omawia filtry wyszukiwania z wykorzystaniem operatorów (np. AND, OR, FILETYPE, narzędzi do komunikacji SITE), indywidualnej lub – identyfikuje rodzaje komunikatorów z wbudowanym szyfrowaniem danych, wskazując grupowej różnice pomiędzy komunikacją szyfrowaną i nieszyfrowaną,"
+      },
+      {
+       "type": "text",
+       "text": "– omawia elementy przeglądarek (np. rolę wtyczek i dodatków, menedżery haseł, tryb incognito),"
+      },
+      {
+       "type": "text",
+       "text": "– porównuje narzędzia do wideokonferencji (np. Zoom, Skype, Teams),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia pojęcie danych telemetrycznych i cel ich gromadzenia przez usługodawców,"
+      },
+      {
+       "type": "text",
+       "text": "– identyfikuje spam, spim i inne formy niechcianych wiadomości."
+      },
+      {
+       "type": "text",
+       "text": "Przetwarza dane – wyszukuje treści cyfrowe z wykorzystaniem operatorów wyszukiwania (np. AND, OR, z użyciem narzędzi FILETYPE, SITE), cyfrowych – używa narzędzi do szyfrowania załączników wysyłanych pocztą e-mail lub komunikatorem (np. za pomocą aplikacji 7-zip, funkcji nadawania haseł w dokumentach Office),"
+      },
+      {
+       "type": "text",
+       "text": "– współdzieli pliki zabezpieczone hasłem zapisane na dyskach internetowych z wykorzystaniem dodatkowych opcji (np. Google Drive, One Drive, iCloud),"
+      },
+      {
+       "type": "text",
+       "text": "– modyfikuje dane przeglądarki (np. zapisuje stronę www do pliku za pomocą funkcji zapisz stronę w przeglądarce, usuwa dane przeglądarki, tj. cache, hasła, historię przeglądania, ciasteczka),"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje funkcje poczty e-mail (np. przekierowania poczty, automatycznej odpowiedzi zwrotnej, wymuszenia potwierdzenia odczytania wiadomości, grup dyskusyjnych, tożsamości, oznaczania niechcianych wiadomość i przenoszenie ich do SPAMu)."
+      },
+      {
+       "type": "text",
+       "text": "Charakteryzuje zasady – identyfikuje metody bezpiecznego logowania (np. 2FA z wykorzystaniem smsa, aplikacji cyberbezpieczeństwa autentyfikujących, fizycznych kluczy kryptograficznych),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia potencjalne źródła zagrożeń dla cyberbezpieczeństwa (np. strony ze złośliwym oprogramowaniem, zainfekowane załączniki w wiadomości e-mail, brak aktualizacji dla systemu operacyjnego, luki sprzętowe),"
+      },
+      {
+       "type": "text",
+       "text": "– wskazuje rozwiązania poprawiające cyberbezpieczeństwo (np. wykorzystanie silnych haseł, korzystanie z komunikacji szyfrowanej, nieklikanie w linki od nieznanych odbiorców, zasady tworzenia i przechowywania kopii bezpieczeństwa wraz z ich wersjonowaniem, stosowanie i wykorzystanie mechanizmu CAPTCHA, itp.),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia socjotechniczne formy zagrożeń dla użytkowników Internetu (np. patostreamy, agresja w Internecie, phising, stalking, fake newsy) i omawia przykłady przeciwdziałania im."
+      },
+      {
+       "type": "text",
+       "text": "Stosuje narzędzia – wykorzystuje narzędzia firm trzecich do wykonania kopii zapasowej (np. EaseUS Todo zapewniające Backup Free, Paragon Backup & Recovery, Bvckup 2), cyberbezpieczeństwo – weryfikuje certyfikat bezpieczeństwa strony www (np. SSL 3.1, TLS 1.0),"
+      },
+      {
+       "type": "text",
+       "text": "– przeprowadza skanowanie pliku za pomocą narzędzi offline lub online pod kątem zidentyfikowania zagrożeń,"
+      },
+      {
+       "type": "text",
+       "text": "– weryfikuje, czy wskazany adres e-mail został upubliczniony w ramach wykrytego wycieku danych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Metody rozwiązań problemów technicznych dotyczących komputerów klasy PC"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Opisuje sposoby – charakteryzuje narzędzia do podłączania pulpitu zdalnego (np. Team Viewer) zarówno rozwiązywania w kontekście uzyskania wsparcia technicznego, jak i jego świadczenia współpracownikom, problemów technicznych – identyfikuje problemy ze sprzętem lub oprogramowaniem (np. problem ze sterownikiem weryfikowalny z poziomu menedżera urządzeń, artefakty obrazu, zawieszona aplikacja, krytyczne błędy systemu),"
+      },
+      {
+       "type": "text",
+       "text": "– omawia procedurę usuwania lub przywracania danych (np. formatowania nośników danych, tworzenia, przywracania kopii zapasowej systemu)."
+      },
+      {
+       "type": "text",
+       "text": "Diagnozuje problemy – sprawdza informacje o systemie lub stanie funkcjonowania sieci LAN, korzystając z wbutechniczne dowanych narzędzi (np. Menedżera urządzeń, MSINFO, funkcji PING) lub z wykorzystaniem linii komend,"
+      },
+      {
+       "type": "text",
+       "text": "– weryfikuje zainstalowane sterowniki i w razie potrzeby aktualizuje je do najnowszej wersji;"
+      },
+      {
+       "type": "text",
+       "text": "– wyszukuje rozwiązania zdiagnozowanych problemów technicznych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dotyczące walidacji i podmiotów przeprowadzających walidację",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody Możliwe do stosowania metody walidacji to:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "obserwacja w warunkach symulowanych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "obserwacja w warunkach rzeczywistych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "wywiad swobodny,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "4",
+       "path": "ust_1/tir_4",
+       "text": "test teoretyczny. Weryfikacja efektów uczenia się składa się z części praktycznej (np. obserwacji w warunkach symulowanych lub rzeczywistych, wywiadu swobodnego) oraz części teoretycznej (np. pisemnego testu teoretycznego) zgodnych z efektami uczenia się dla kwalifikacji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "1.2. Zasoby kadrowe Komisja walidacyjna składa się minimum z 2 osób spełniających następujące warunki: asesor – ukończone studia kierunkowe na kierunku informatyka lub pokrewnym (akceptowane są również uprawnienia trenera szkoleń z zakresu technologii informacyjno-komunikacyjnych (ICT), kursy/szkolenia z zakresu TIK i/lub równoważne szkolenia specjalistyczne (np. z cyberbezpieczeństwa, OSINTu, CCNA od poziomu 4 wzwyż)) posiadający minimum 2 lata doświadczenia w nauczaniu osób dorosłych oraz"
+        },
+        {
+         "type": "text",
+         "text": "przewodniczący komisji walidacyjnej z decydującym głosem w sprawie wyniku walidacji (podejmuje decyzję o wyniku walidacji po weryfikacji dokumentacji przeprowadzonej walidacji przez asesora) – ukończone studia kierunkowe na kierunku informatyka lub pokrewnym, minimum 5 lat doświadczenia w uczeniu osób dorosłych oraz minimum 3 lata doświadczenia w przeprowadzaniu walidacji i/lub tworzeniu testów."
+        },
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne"
+        },
+        {
+         "type": "text",
+         "text": "Czas trwania walidacji jest określony przez instytucję certyfikującą i jest dostosowany do liczby zadań praktycznych i teoretycznych przeznaczonych do walidacji."
+        },
+        {
+         "type": "text",
+         "text": "Walidacja odbywa się stacjonarnie albo zdalnie pod nadzorem asesora zgodnie z wytycznymi instytucji certyfikującej, gdzie minimum wytycznych określono poniżej."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca zapewnia udogodnienia dla osób z niepełnosprawnościami i posiada wytyczne ich zastosowania. Udogodnienia są dostosowane do rodzaju niepełnosprawności kandydata. Instytucja certyfikująca przeprowadzająca walidację zapewnia lokal o odpowiednich warunkach do przeprowadzenia walidacji, z uwzględnieniem potrzeb osób z niepełnosprawnościami (w przypadku walidowania takich osób). Bezwzględnie powinny być spełnione warunki związane z zapewnieniem samodzielności pracy zdającego. W sali podczas trwania walidacji mogą znajdować się wyłącznie osoby autoryzowane."
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca odpowiada za poprawność identyfikacji zdającego (weryfikacja tożsamości na podstawie dokumentu tożsamości ze zdjęciem)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "Instytucja certyfikująca może zapewniać wsparcie dla kandydatów prowadzone przez doradcę walidacyjnego w zakresie identyfikowania posiadanych efektów uczenia się. Korzystanie z tego wsparcia nie jest obowiązkowe."
+      },
+      {
+       "type": "text",
+       "text": "2.1. Metody"
+      },
+      {
+       "type": "text",
+       "text": "Etap identyfikowania i dokumentowania może być realizowany w oparciu o dowolne metody służące zidentyfikowaniu posiadanych efektów uczenia się."
+      },
+      {
+       "type": "text",
+       "text": "2.2. Zasoby kadrowe"
+      },
+      {
+       "type": "text",
+       "text": "Doradca walidacyjny."
+      },
+      {
+       "type": "text",
+       "text": "Funkcję doradcy walidacyjnego może pełnić osoba, która posiada:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_2/tir_1",
+       "text": "doświadczenie w weryfikowaniu efektów uczenia się lub ocenie kompetencji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_2/tir_2",
+       "text": "umiejętność stosowania metod i narzędzi wykorzystywanych przy identyfikowaniu i dokumentowaniu kompetencji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_2/tir_3",
+       "text": "wiedzę dotyczącą kwalifikacji dotyczących posługiwania umiejętnościami ICT.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne etapu identyfikowania i dokumentowania"
+        },
+        {
+         "type": "text",
+         "text": "Instytucja certyfikująca, która zdecyduje się na wsparcie osób w procesie identyfikowania i dokumentowania, zapewnia warunki umożliwiające im indywidualną rozmowę z doradcą walidacyjnym."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie dotyczy"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 26 kwietnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 792)."
+ }
+}

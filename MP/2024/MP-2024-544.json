@@ -1,0 +1,406 @@
+{
+ "eli": "MP/2024/544",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 7 czerwca 2024 r. w sprawie włączenia kwalifikacji wolnorynkowej \"Programowanie w języku Python\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/544/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 czerwca 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji wolnorynkowej „Programowanie w języku Python” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226 oraz z 2023 r. poz. 2005) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji wolnorynkowej „Programowanie w języku Python” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: K. Gawkowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji z dnia 7 czerwca 2024 r. (M.P. poz. 544)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI WOLNORYNKOWEJ „PROGRAMOWANIE W JĘZYKU PYTHON” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Programowanie w języku Python"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację wolnorynkową jest gotowa do samodzielnego tworzenia oprogramowania w języku Python. W swojej pracy wykorzystuje zarówno podstawowe elementy języka Python, jak i programowania obiektowego. Realizując zadania zawodowe, posługuje się specjalistyczną wiedzą z zakresu wytwarzania oprogramowania, a ponadto podejmuje działania pozwalające na przetestowanie oraz usunięcie błędów pojawiających się w programie. Jest gotowa ponosić odpowiedzialność za wykonywanie samodzielnych zadań zawodowych."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Programowanie z wykorzystaniem podstawowych elementów języka Python"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Wykorzystuje środowiska – charakteryzuje zadania interpretera i debuggera, programistyczne – analizuje błędy w kodzie za pomocą debuggera, do tworzenia programu – charakteryzuje pojęcie biblioteki,"
+      },
+      {
+       "type": "text",
+       "text": "– uruchamia stworzone programy."
+      },
+      {
+       "type": "text",
+       "text": "Posługuje się prostymi – rozróżnia typy liczbowe całkowite i zmiennoprzecinkowe, typami danych – rozpoznaje typ logiczny,"
+      },
+      {
+       "type": "text",
+       "text": "– charakteryzuje pojęcie typu string,"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje typy liczbowe całkowite, zmiennoprzecinkowe, znakowe, typ logiczny i typ łańcuchowy."
+      },
+      {
+       "type": "text",
+       "text": "Korzysta z operacji wejścia – korzysta z różnych funkcji do operacji wejścia i wyjścia, i wyjścia – posługuje się funkcjami print oraz input."
+      },
+      {
+       "type": "text",
+       "text": "Posługuje się instrukcjami – rozróżnia instrukcje warunkowe: if oraz if else, sterującymi – rozróżnia pętle: for oraz while,"
+      },
+      {
+       "type": "text",
+       "text": "– korzysta z instrukcji: if, if else, for, while, break, continue."
+      },
+      {
+       "type": "text",
+       "text": "Posługuje się złożonymi – rozróżnia rodzaje złożonych typów danych, typami danych – korzysta z list oraz tuples."
+      },
+      {
+       "type": "text",
+       "text": "Posługuje się operatorami – rozróżnia operatory logiczne: and, or, not,"
+      },
+      {
+       "type": "text",
+       "text": "– rozpoznaje operatory przesunięcia bitowego,"
+      },
+      {
+       "type": "text",
+       "text": "– wykorzystuje operatory logiczne, operatory przesunięcia bitowego oraz operatory bitowe."
+      },
+      {
+       "type": "text",
+       "text": "Stosuje własne funkcje – rozpoznaje przekazywanie parametrów do funkcji,"
+      },
+      {
+       "type": "text",
+       "text": "– tworzy własne funkcje,"
+      },
+      {
+       "type": "text",
+       "text": "– posługuje się rekurencyjnym wywołaniem funkcji."
+      },
+      {
+       "type": "text",
+       "text": "Wykonuje operacje – rozróżnia pliki tekstowe oraz binarne, odczytywania – posługuje się typem plikowym, i zapisywania plików – odczytuje dane z pliku,"
+      },
+      {
+       "type": "text",
+       "text": "– zapisuje dane do pliku."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 2. Programowanie obiektowe"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Stosuje zasady – charakteryzuje pojęcia: klasa, obiekt, metoda, pole, dziedziczenie, hermetyzacja, poliprogramowania morfizm, obiektowego – dzieli zagadnienie na klasy,"
+      },
+      {
+       "type": "text",
+       "text": "– powołuje obiekty,"
+      },
+      {
+       "type": "text",
+       "text": "– projektuje aplikację z zastosowaniem zasad programowania obiektowego."
+      },
+      {
+       "type": "text",
+       "text": "Korzysta z klas i obiektów – definiuje pola klasy,"
+      },
+      {
+       "type": "text",
+       "text": "– definiuje metody klasy,"
+      },
+      {
+       "type": "text",
+       "text": "– definiuje konstruktory,"
+      },
+      {
+       "type": "text",
+       "text": "– tworzy obiekty,"
+      },
+      {
+       "type": "text",
+       "text": "– posługuje się składowymi obiektów."
+      },
+      {
+       "type": "text",
+       "text": "Definiuje klasy bazowe – buduje hierarchię dziedziczenia klas w programie, i klasy pochodne – wydziela metody i pola do odpowiednich klas w hierarchii dziedziczenia,"
+      },
+      {
+       "type": "text",
+       "text": "– definiuje klasy pochodne."
+      },
+      {
+       "type": "text",
+       "text": "Programuje obsługę – stosuje szkielet obsługi wyjątków z instrukcjami try i except, wyjątków – stosuje instrukcję raise,"
+      },
+      {
+       "type": "text",
+       "text": "– opracowuje listę możliwych błędów wykonania aplikacji,"
+      },
+      {
+       "type": "text",
+       "text": "– definiuje obsługę błędów w aplikacji."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 3. Korzystanie z kolekcji danych oraz wątków"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Korzysta z kolekcji danych – posługuje się kolekcją: dictionary, oraz wątków – stosuje kolekcję: deque,"
+      },
+      {
+       "type": "text",
+       "text": "– charakteryzuje cechy kolekcji,"
+      },
+      {
+       "type": "text",
+       "text": "– posługuje się wyrażeniami Lambda."
+      },
+      {
+       "type": "text",
+       "text": "Korzysta z mechanizmu – posługuje się biblioteką thread, współbieżności – posługuje się biblioteką multiprocessing,"
+      },
+      {
+       "type": "text",
+       "text": "– stosuje mechanizm synchronizacji wątków,"
+      },
+      {
+       "type": "text",
+       "text": "– charakteryzuje problem zakleszczania wątków."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Ramowe wymagania dotyczące metod przeprowadzania walidacji, osób przeprowadzających walidację oraz warunków organizacyjnych i materialnych niezbędnych do prawidłowego i bezpiecznego przeprowadzania walidacji",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1. Metody W części teoretycznej wykorzystuje się metodę testu teoretycznego. W części praktycznej wykorzystuje się metodę obserwacji w warunkach symulowanych uzupełnioną wywiadem swobodnym (rozmową z komisją). Pozytywny wynik z części teoretycznej jest warunkiem przystąpienia do części praktycznej. Możliwe jest zastosowanie innych metod walidacji lub jej form (np. walidacja w formie zdalnej) przy zachowaniu wszelkich zasad zapewniania jakości oraz obowiązku sprawdzenia wszystkich efektów uczenia się wraz z kryteriami weryfikacji."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Zasoby kadrowe"
+      },
+      {
+       "type": "text",
+       "text": "Weryfikację efektów uczenia się prowadzi komisja walidacyjna składająca się z minimum 2 osób spełniających następujące warunki:"
+      },
+      {
+       "type": "text",
+       "text": "asesor – posiada ukończone studia wyższe na kierunku informatyka lub pokrewnym (co najmniej 6 poziom Polskiej Ramy Kwalifikacji), minimum 5 lat udokumentowanego stażu pracy w zawodzie informatyka, programisty lub nauczyciela programowania"
+      },
+      {
+       "type": "text",
+       "text": "oraz"
+      },
+      {
+       "type": "text",
+       "text": "przewodniczący komisji walidacyjnej – posiada ukończone studia wyższe na kierunku informatyka lub pokrewnym (co najmniej 7 poziom Polskiej Ramy Kwalifikacji), minimum 10 lat udokumentowanego stażu pracy w zawodzie informatyka, programisty lub nauczyciela programowania."
+      },
+      {
+       "type": "text",
+       "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne"
+      },
+      {
+       "type": "text",
+       "text": "W przypadku walidacji w formie stacjonarnej, instytucja prowadząca walidację zapewnia:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "stanowiska komputerowe (jedno stanowisko dla jednego kandydata) połączone z Internetem, wyposażone w:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_1/pkt_1/lit_a",
+         "text": "system operacyjny z interfejsem graficznym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_1/lit_b",
+         "text": "przeglądarkę internetową,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_1/lit_c",
+         "text": "edytor tekstu lub środowisko programistyczne zapewniające możliwość tworzenia programów w języku Python (np. PyCharm);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "materiały biurowe (kartki, długopisy).",
+       "children": [
+        {
+         "type": "text",
+         "text": "W przypadku zdalnego prowadzenia walidacji komisja zatwierdza warunki przystąpienia do walidacji, mając na uwadze możliwości techniczne. Użyty podczas walidacji system teleinformatyczny powinien gwarantować komisji walidacyjnej możliwość stałej obserwacji kandydata, w szczególności identyfikację osoby, która przystępuje do walidacji, samodzielność jej pracy i zabezpieczenie przebiegu walidacji przed ingerencją osób trzecich, to jest zapewnić możliwość wiarygodnego sprawdzenia, czy osoba ubiegająca się o nadanie kwalifikacji rynkowej osiągnęła wyodrębnioną część lub całość efektów uczenia się wymaganych dla tej kwalifikacji."
+        },
+        {
+         "type": "text",
+         "text": "Osoby, które przystąpiły do walidacji, powinny utworzyć program w języku Python według wskazanych założeń obejmujących podstawowe elementy języka, klasy i metody, kolekcje, wątki i obsługę sieci. Możliwe jest korzystanie przez kandydata z materiałów dodatkowych w postaci literatury lub przykładowych fragmentów kodu znalezionych w sieci Internet."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etap identyfikowania i dokumentowania efektów uczenia się",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymagań dotyczących etapów identyfikowania i dokumentowania efektów uczenia się."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak warunków."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne, poza pozytywnym wynikiem walidacji, warunki uzyskania kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Brak innych, poza pozytywnym wynikiem walidacji, warunków uzyskania kwalifikacji wolnorynkowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Okres ważności certyfikatu kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bezterminowo."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji wolnorynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 2720)."
+ }
+}

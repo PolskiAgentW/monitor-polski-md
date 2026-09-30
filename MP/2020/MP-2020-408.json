@@ -1,0 +1,51 @@
+{
+ "eli": "MP/2020/408",
+ "title": "Obwieszczenie Ministra Klimatu z dnia 6 maja 2020 r. w sprawie średniej krajowej dochodów gmin i powiatów w 2019 r. przypadających na jednego mieszkańca",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/408/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA KLIMATU[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 maja 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie średniej krajowej dochodów gmin i powiatów w 2019 r. przypadających na jednego mieszkańca"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 404 ust. 2 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396, z późn. zm.[^2]) ogłasza się, że średnia krajowa dochodów przypadających na jednego mieszkańca, osiągnięta w 2019 r. z tytułu opłat i kar, o których mowa w art. 402 ust. 4, 5 i 6 tej ustawy, wyniosła:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "dla gmin – 9,92 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dla powiatów – 2,36 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Klimatu: M. Kurtyka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Klimatu kieruje działem administracji rządowej – klimat, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 20 marca 2020 r. w sprawie szczegółowego zakresu działania Ministra Klimatu (Dz. U. poz. 495).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2019 r. poz. 1403, 1495, 1501, 1527, 1579, 1680, 1712, 1815, 2087 i 2166 oraz z 2020 r. poz. 284 i 695."
+ }
+}

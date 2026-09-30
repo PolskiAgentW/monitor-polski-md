@@ -1,0 +1,639 @@
+{
+ "eli": "MP/2023/650",
+ "title": "Zarządzenie nr 243 Prezesa Rady Ministrów z dnia 3 lipca 2023 r. w sprawie Zespołu do spraw opracowania propozycji rozwiązań normatywnych w zakresie zastąpienia instytucji ubezwłasnowolnienia modelem wspieranego podejmowania decyzji",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/650/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 243"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 lipca 2023 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Zespołu do spraw opracowania propozycji rozwiązań normatywnych w zakresie zastąpienia instytucji ubezwłasnowolnienia modelem wspieranego podejmowania decyzji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195 i 1234) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Zespół do spraw opracowania propozycji rozwiązań normatywnych w zakresie zastąpienia instytucji ubezwłasnowolnienia modelem wspieranego podejmowania decyzji, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Zespołu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "opracowanie propozycji rozwiązań normatywnych służących zastąpieniu instytucji ubezwłasnowolnienia modelem wspieranego podejmowania decyzji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "opiniowanie projektów aktów normatywnych dotyczących zagadnień objętych zakresem prac Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "wykonywanie innych zadań zleconych przez Prezesa Rady Ministrów dotyczących zagadnień związanych z zastąpieniem instytucji ubezwłasnowolnienia modelem wspieranego podejmowania decyzji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący Zespołu – sekretarz stanu albo podsekretarz stanu wyznaczony przez Ministra Sprawiedliwości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wiceprzewodniczący Zespołu – sekretarz stanu albo podsekretarz stanu wyznaczony przez ministra właściwego do spraw zabezpieczenia społecznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "pozostali członkowie Zespołu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "po dwóch przedstawicieli w randze dyrektora departamentu lub zastępcy dyrektora departamentu wyznaczonych przez:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_1",
+           "text": "Ministra Sprawiedliwości,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_2",
+           "text": "ministra właściwego do spraw finansów publicznych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_3",
+           "text": "ministra właściwego do spraw pracy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_4",
+           "text": "ministra właściwego do spraw rodziny,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_5",
+           "text": "ministra właściwego do spraw wewnętrznych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "6",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_6",
+           "text": "ministra właściwego do spraw zabezpieczenia społecznego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "7",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_7",
+           "text": "ministra właściwego do spraw zdrowia,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "po jednym przedstawicielu wyznaczonym przez:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_3/ust_1/pkt_3/lit_b/tir_1",
+           "text": "Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_3/ust_1/pkt_3/lit_b/tir_2",
+           "text": "Pełnomocnika Rządu do spraw Równego Traktowania,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_3/ust_1/pkt_3/lit_b/tir_3",
+           "text": "Rzecznika Praw Pacjenta;",
+           "children": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "sekretarz Zespołu – pracownik urzędu obsługującego Ministra Sprawiedliwości wyznaczony przez przewodniczącego Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Minister, który kieruje więcej niż jednym działem administracji rządowej wymienionym w ust. 1 pkt 3 lit. a, wyznacza do udziału w pracach Zespołu dwóch przedstawicieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Członkowie Zespołu, o których mowa w ust. 1 pkt 3, mogą być zastępowani w pracach Zespołu przez upoważnionych przedstawicieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Przewodniczący Zespołu może zapraszać, z własnej inicjatywy, na wniosek wiceprzewodniczącego Zespołu lub członka Zespołu, do udziału w pracach Zespołu, z głosem doradczym, osoby, których wiedza i doświadczenie mogą być przydatne do wykonywania zadań Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Pracami Zespołu kieruje przewodniczący Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Do zadań przewodniczącego Zespołu należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "zwoływanie posiedzeń Zespołu, z własnej inicjatywy, na wniosek wiceprzewodniczącego Zespołu lub co najmniej połowy liczby członków Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "przewodniczenie posiedzeniom Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "określanie porządku obrad Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_2/pkt_4",
+       "text": "reprezentowanie Zespołu na zewnątrz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "W przypadku nieobecności przewodniczącego Zespołu, pracami Zespołu kieruje wiceprzewodniczący Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Przewodniczący Zespołu może powierzyć pozostałym członkom Zespołu wykonywanie określonych obowiązków służących realizacji zadań Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przewodniczący Zespołu może, z własnej inicjatywy, na wniosek wiceprzewodniczącego Zespołu lub członka Zespołu, zlecać wykonanie tłumaczeń, ekspertyz, opinii, analiz oraz raportów na potrzeby prac Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zespół realizuje zadania na posiedzeniach zwoływanych nie rzadziej niż raz na 2 miesiące.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Posiedzenia Zespołu mogą odbywać się z wykorzystaniem środków komunikacji elektronicznej, z zachowaniem niezbędnych zasad bezpieczeństwa, co obejmuje w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "transmisję posiedzenia w czasie rzeczywistym między uczestnikami posiedzenia Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "wielostronną komunikację w czasie rzeczywistym, w ramach której uczestnicy posiedzenia Zespołu mogą wypowiadać się w toku tego posiedzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Sekretarz Zespołu sporządza protokół z przebiegu posiedzenia Zespołu zawierający w szczególności poczynione ustalenia. Protokół podpisuje osoba przewodnicząca posiedzeniu Zespołu oraz sekretarz Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Członkowie Zespołu mają wgląd w protokoły posiedzeń Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W sprawach wymagających rozstrzygnięcia Zespół podejmuje uchwały zwykłą większością głosów w obecności co najmniej połowy liczby członków Zespołu albo ich upoważnionych przedstawicieli. W przypadku równej liczby głosów decyduje głos przewodniczącego Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przewodniczący Zespołu może zarządzić podjęcie uchwały przez Zespół w trybie obiegowym, wyznaczając członkom Zespołu termin do zajęcia stanowiska.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Projekty uchwał przeznaczone do rozpatrzenia przez Zespół w trybie obiegowym sekretarz Zespołu przekazuje członkom Zespołu na wskazane adresy poczty elektronicznej. Członek Zespołu przekazuje stanowisko do projektu uchwały na wskazany przez przewodniczącego Zespołu adres poczty elektronicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Uchwałę uważa się za podjętą w trybie obiegowym, jeżeli do projektu uchwały nie zgłoszono uwag w wyznaczonym terminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "W przypadku zgłoszenia uwag do projektu uchwały rozpatrywanej w trybie obiegowym, które nie zostały uwzględnione lub wyjaśnione, projekt uchwały wymaga rozpatrzenia przez Zespół na posiedzeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W celu realizacji zadań Zespołu przewodniczący Zespołu może, z własnej inicjatywy, na wniosek wiceprzewodniczącego Zespołu lub członka Zespołu, tworzyć zespoły problemowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W skład zespołu problemowego wchodzą członkowie Zespołu, osoby zaproszone do udziału w pracach Zespołu, o których mowa w § 3 ust. 4, lub osoby zaproszone do udziału w pracach zespołu problemowego, w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "przedstawiciele urzędów obsługujących ministrów właściwych w obszarze tematycznym będącym przedmiotem prac zespołu problemowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "eksperci w obszarze tematycznym będącym przedmiotem prac zespołu problemowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_2/pkt_3",
+       "text": "osoby z niepełnosprawnościami lub przedstawiciele organizacji reprezentujących osoby z niepełnosprawnościami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Przewodniczący Zespołu, w porozumieniu z wiceprzewodniczącym Zespołu oraz członkami Zespołu, określa skład i zakres zadań zespołu problemowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Przewodniczący Zespołu wyznacza przewodniczącego zespołu problemowego spośród członków tego zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_8/ust_5",
+     "text": "Posiedzenia zespołu problemowego odbywają się w zależności od potrzeb, w terminie poprzedzającym planowane posiedzenie Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_8/ust_6",
+     "text": "Przepisy § 6 stosuje się odpowiednio do posiedzeń zespołu problemowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Przewodniczący Zespołu, za pośrednictwem Ministra Sprawiedliwości, przedstawia Prezesowi Rady Ministrów sprawozdanie z dotychczasowych prac Zespołu w terminie do dnia 30 czerwca oraz do dnia 31 grudnia każdego roku kalendarzowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Sprawozdanie, o którym mowa w ust. 1, zawiera w szczególności informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "liczbie posiedzeń Zespołu w okresie sprawozdawczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "zadaniach zrealizowanych przez Zespół w okresie sprawozdawczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_2/pkt_3",
+       "text": "problemach lub zagrożeniach, które wystąpiły podczas realizacji zadań Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_2/pkt_4",
+       "text": "zadaniach Zespołu przewidzianych na kolejny okres sprawozdawczy ze wskazaniem wstępnego harmonogramu ich realizacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_2/pkt_5",
+       "text": "dodatkowych wnioskach, rekomendacjach, spostrzeżeniach i potencjalnych zagrożeniach istotnych z punktu widzenia obszaru działalności Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_2/pkt_6",
+       "text": "zasadności dalszego funkcjonowania Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Do sprawozdania, o którym mowa w ust. 1, dołącza się kopie uchwał podjętych przez Zespół.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Końcowe sprawozdanie z działalności Zespołu przewodniczący Zespołu przedstawia Prezesowi Rady Ministrów, za pośrednictwem Ministra Sprawiedliwości, w terminie 30 dni od dnia wykonania przez Zespół zadania, o którym mowa w § 2 pkt 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Końcowe sprawozdanie, o którym mowa w ust. 4, zawiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_5/pkt_1",
+       "text": "informację o podstawie prawnej utworzenia Zespołu oraz o okresie objętym sprawozdaniem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_5/pkt_2",
+       "text": "informację o zadaniach zrealizowanych przez Zespół;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_5/pkt_3",
+       "text": "informację o zadaniach niezrealizowanych przez Zespół wraz z uzasadnieniem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_5/pkt_4",
+       "text": "wnioski i rekomendacje wynikające z prac Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_5/pkt_5",
+       "text": "podsumowanie prac Zespołu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Organy administracji rządowej oraz jednostki organizacyjne im podległe lub przez nie nadzorowane, na wniosek przewodniczącego Zespołu, udzielają Zespołowi, w ramach swoich kompetencji, pomocy przy wykonywaniu zadań Zespołu, w szczególności przedstawiają niezbędne informacje i dokumenty dotyczące zakresu prac Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Udział w pracach Zespołu jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Wydatki związane z działalnością Zespołu, a także tworzonych zespołów problemowych, są pokrywane z budżetu państwa z części 37, której dysponentem jest Minister Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Obsługę techniczno-organizacyjną oraz biurową prac Zespołu zapewnia urząd obsługujący Ministra Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Pierwsze sprawozdanie z dotychczasowych prac Zespołu przewodniczący Zespołu przedstawia Prezesowi Rady Ministrów, za pośrednictwem Ministra Sprawiedliwości, w terminie 6 miesięcy od dnia utworzenia Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

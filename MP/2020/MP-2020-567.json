@@ -1,0 +1,886 @@
+{
+ "eli": "MP/2020/567",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 12 czerwca 2020 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Międzyresortowego Zespołu do spraw kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/567/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 czerwca 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Międzyresortowego Zespołu do spraw kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 171 Prezesa Rady Ministrów z dnia 14 listopada 2017 r. w sprawie Międzyresortowego Zespołu do spraw projektu „Baltic Pipe” (M.P. poz. 1019), z uwzględnieniem zmian wprowadzonych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "zarządzeniem nr 224 Prezesa Rady Ministrów z dnia 30 listopada 2018 r. zmieniającym zarządzenie w sprawie Międzyresortowego Zespołu do spraw projektu „Baltic Pipe” (M.P. poz. 1174);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "zarządzeniem nr 62 Prezesa Rady Ministrów z dnia 15 maja 2020 r. zmieniającym zarządzenie w sprawie Międzyresortowego Zespołu do spraw projektów „Baltic Pipe” oraz rozbudowy Terminalu LNG w Świnoujściu (M.P. poz. 417).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "§ 2 zarządzenia nr 224 Prezesa Rady Ministrów z dnia 30 listopada 2018 r. zmieniającego zarządzenie w sprawie Międzyresortowego Zespołu do spraw projektu „Baltic Pipe” (M.P. poz. 1174), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "§ 2 zarządzenia nr 62 Prezesa Rady Ministrów z dnia 15 maja 2020 r. zmieniającego zarządzenie w sprawie Międzyresortowego Zespołu do spraw projektów „Baltic Pipe” oraz rozbudowy Terminalu LNG w Świnoujściu (M.P. poz. 417), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 12 czerwca 2020 r. (poz. 567)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 171"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 14 listopada 2017 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie Międzyresortowego Zespołu do spraw kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej[^1]"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "[^2] Tworzy się Międzyresortowy Zespół do spraw kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, zwany dalej „Zespołem”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "1a",
+     "path": "par_1a",
+     "text": "[^3] Przez kluczowe inwestycje w zakresie strategicznej infrastruktury energetycznej rozumie się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1a/pkt_1",
+       "text": "projekt „Baltic Pipe”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1a/pkt_2",
+       "text": "projekt rozbudowy terminalu regazyfikacyjnego skroplonego gazu ziemnego (LNG) w Świnoujściu, zwanego dalej „Terminalem LNG w Świnoujściu”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1a/pkt_3",
+       "text": "projekt budowy pływającego terminalu LNG w Zatoce Gdańskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1a/pkt_4",
+       "text": "projekt budowy rurociągu ropy naftowej Gdańsk – Płock.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "[^4] Przez projekt „Baltic Pipe” rozumie się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_1/pkt_1",
+         "text": "budowę międzysystemowego gazociągu stanowiącego połączenie systemów przesyłowych Rzeczypospolitej Polskiej i Królestwa Danii wraz z infrastrukturą niezbędną do jego obsługi, w tym również odcinka poza terytorium Rzeczypospolitej Polskiej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_1/pkt_2",
+         "text": "budowę gazociągów łączących międzysystemowy gazociąg stanowiący połączenie systemów przesyłowych Rzeczypospolitej Polskiej i Królestwa Danii z węzłem i tłocznią Goleniów wraz z infrastrukturą niezbędną do ich obsługi na terenie województwa zachodniopomorskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_1/pkt_3",
+         "text": "budowę gazociągów Szczecin – Lwówek wraz z infrastrukturą niezbędną do ich obsługi na terenie województw zachodniopomorskiego, lubuskiego i wielkopolskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_1/pkt_4",
+         "text": "budowę tłoczni i węzłów gazu Goleniów, Odolanów i Gustorzyn o przepustowości nie mniejszej niż 50 000 m³/h wraz z infrastrukturą niezbędną do ich obsługi.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "[^5] Przez projekt rozbudowy Terminalu LNG w Świnoujściu rozumie się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_2/pkt_1",
+         "text": "zwiększenie mocy regazyfikacyjnej Terminalu LNG w Świnoujściu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_2/pkt_2",
+         "text": "budowę 3 zbiornika LNG wraz z wymaganymi instalacjami i urządzeniami;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_2/pkt_3",
+         "text": "budowę 2 stanowiska statkowego oraz infrastruktury przesyłowej LNG do rozładunku, załadunku i bunkrowania statków;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_2/pkt_4",
+         "text": "rozbudowę lądowego systemu przeładunkowego LNG (infrastruktura przeładunkowa LNG na cysterny kolejowe i kontenery ISO).",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_2/ust_3",
+       "text": "[^6] Przez projekt budowy pływającego terminalu LNG w Zatoce Gdańskiej rozumie się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_3/pkt_1",
+         "text": "budowę pływającej jednostki do regazyfikacji LNG w Zatoce Gdańskiej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_3/pkt_2",
+         "text": "budowę infrastruktury hydrotechnicznej niezbędnej dla funkcjonowania jednostki, o której mowa w pkt 1, w tym falochronu wraz z torem wodnym i obrotnicą;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_3/pkt_3",
+         "text": "budowę gazociągu podmorskiego i gazociągu lądowego łączących jednostkę, o której mowa w pkt 1, ze stacją gazową Bogatka wraz z infrastrukturą niezbędną do ich obsługi;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_3/pkt_4",
+         "text": "budowę gazociągów Kolnik – Gdańsk, Kolnik – Gustorzyn oraz Reszki – Kolnik wraz infrastrukturą niezbędną do ich obsługi na terenie województw pomorskiego i kujawsko-pomorskiego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_2/ust_3/pkt_5",
+         "text": "budowę lub rozbudowę tłoczni gazu niezbędnych do odbioru gazu z jednostki, o której mowa w pkt 1.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_2/ust_4",
+       "text": "[^6] Przez projekt budowy rurociągu ropy naftowej Gdańsk – Płock rozumie się budowę drugiej, rewersyjnej nitki rurociągu przesyłowego ropy naftowej Gdańsk – Płock wraz z infrastrukturą niezbędną do jego obsługi na terenie województw: pomorskiego, kujawsko-pomorskiego i mazowieckiego oraz rozbudowę i przebudowę istniejącej infrastruktury obiektowej, niezbędnej do prawidłowego funkcjonowania tego rurociągu:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_2/ust_4/pkt_1",
+         "text": "bazy Miszewko Strzałkowskie;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_2/ust_4/pkt_2",
+         "text": "bazy Gdańsk;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_2/ust_4/pkt_3",
+         "text": "stacji pomp Rypin;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_2/ust_4/pkt_4",
+         "text": "stacji pomp Łasin;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_2/ust_4/pkt_5",
+         "text": "stacji pomp Pelplin.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "[^7] Do zadań Zespołu należy wsparcie organów administracji rządowej oraz jednostek organizacyjnych im podległych lub przez nie nadzorowanych w podejmowaniu działań dotyczących kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej koniecznych do ich terminowego ukończenia, w szczególności przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "koordynowanie i monitorowanie działań tych organów i jednostek w zakresie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_1/lit_a",
+         "text": "procesu wydawania rozstrzygnięć administracyjnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_1/lit_b",
+         "text": "procesu zawierania oraz wykonywania umów niezbędnych przy przygotowaniu i realizacji kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/pkt_1/lit_c",
+         "text": "współpracy z organami samorządu terytorialnego i innymi podmiotami uczestniczącymi w realizacji kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/pkt_1/lit_d",
+         "text": "opracowywania przez nie stanowisk,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/pkt_1/lit_e",
+         "text": "współpracy z organami innych państw w procesie decyzyjnym dotyczącym kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "sugerowanie działań wymagających wsparcia dyplomatycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "zapewnianie szybkiego i pełnego przepływu niezbędnych informacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "wypracowywanie jednolitych praktyk dotyczących rozpatrywania spraw przez organy mające różną właściwość miejscową.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "W skład Zespołu wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_1/pkt_1",
+         "text": "Przewodniczący Zespołu – Pełnomocnik Rządu do spraw Strategicznej Infrastruktury Energetycznej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_1/pkt_2",
+         "text": "pozostali członkowie Zespołu:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_4/ust_1/pkt_2/lit_a",
+           "text": "minister właściwy do spraw energii albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_4/ust_1/pkt_2/lit_b",
+           "text": "minister właściwy do spraw środowiska albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_4/ust_1/pkt_2/lit_c",
+           "text": "minister właściwy do spraw gospodarki złożami kopalin albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "d",
+           "path": "par_4/ust_1/pkt_2/lit_d",
+           "text": "minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "e",
+           "path": "par_4/ust_1/pkt_2/lit_e",
+           "text": "minister właściwy do spraw zagranicznych albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "ea",
+           "path": "par_4/ust_1/pkt_2/lit_ea",
+           "text": "[^8] minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "eb",
+           "path": "par_4/ust_1/pkt_2/lit_eb",
+           "text": "[^8] minister właściwy do spraw klimatu albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "f",
+           "path": "par_4/ust_1/pkt_2/lit_f",
+           "text": "minister właściwy do spraw gospodarki morskiej albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "fa",
+           "path": "par_4/ust_1/pkt_2/lit_fa",
+           "text": "[^9] minister właściwy do spraw transportu albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "fb",
+           "path": "par_4/ust_1/pkt_2/lit_fb",
+           "text": "[^9] Minister Obrony Narodowej albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "fc",
+           "path": "par_4/ust_1/pkt_2/lit_fc",
+           "text": "[^9] minister właściwy do spraw rozwoju regionalnego albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "text",
+           "text": "fd)[^9]minister właściwy do spraw wewnętrznych albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,"
+          },
+          {
+           "type": "lit",
+           "num": "g",
+           "path": "par_4/ust_1/pkt_2/lit_g",
+           "text": "Minister – Członek Rady Ministrów Mariusz Kamiński – Koordynator Służb Specjalnych albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "h",
+           "path": "par_4/ust_1/pkt_2/lit_h",
+           "text": "Generalny Dyrektor Ochrony Środowiska,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "i",
+           "path": "par_4/ust_1/pkt_2/lit_i",
+           "text": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "j",
+           "path": "par_4/ust_1/pkt_2/lit_j",
+           "text": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "k",
+           "path": "par_4/ust_1/pkt_2/lit_k",
+           "text": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "l",
+           "path": "par_4/ust_1/pkt_2/lit_l",
+           "text": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "la",
+           "path": "par_4/ust_1/pkt_2/lit_la",
+           "text": "[^10] Regionalny Dyrektor Ochrony Środowiska w Warszawie,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "lb",
+           "path": "par_4/ust_1/pkt_2/lit_lb",
+           "text": "[^10] Regionalny Dyrektor Ochrony Środowiska w Gdańsku,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "m",
+           "path": "par_4/ust_1/pkt_2/lit_m",
+           "text": "wojewoda zachodniopomorski,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "n",
+           "path": "par_4/ust_1/pkt_2/lit_n",
+           "text": "wojewoda wielkopolski,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "o",
+           "path": "par_4/ust_1/pkt_2/lit_o",
+           "text": "wojewoda lubuski,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "p",
+           "path": "par_4/ust_1/pkt_2/lit_p",
+           "text": "wojewoda kujawsko-pomorski,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "pa",
+           "path": "par_4/ust_1/pkt_2/lit_pa",
+           "text": "[^11] wojewoda pomorski,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "pb",
+           "path": "par_4/ust_1/pkt_2/lit_pb",
+           "text": "[^11] wojewoda mazowiecki,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "q",
+           "path": "par_4/ust_1/pkt_2/lit_q",
+           "text": "Główny Inspektor Nadzoru Budowlanego,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "r",
+           "path": "par_4/ust_1/pkt_2/lit_r",
+           "text": "Dyrektor Urzędu Morskiego w Szczecinie,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "s",
+           "path": "par_4/ust_1/pkt_2/lit_s",
+           "text": "[^12] Dyrektor Urzędu Morskiego w Gdyni,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "t",
+           "path": "par_4/ust_1/pkt_2/lit_t",
+           "text": "[^12] Dyrektor Biura Obsługi Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej w Ministerstwie Funduszy i Polityki Regionalnej;",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_1/pkt_3",
+         "text": "[^13] sekretarz – wyznaczony przez Przewodniczącego Zespołu pracownik Biura Obsługi Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej w Ministerstwie Funduszy i Polityki Regionalnej.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Członkowie Zespołu mogą być zastępowani w pracach Zespołu przez upoważnionych przedstawicieli.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "W przypadku gdy cel posiedzenia Zespołu nie wymaga obecności wszystkich członków Zespołu, Przewodniczący Zespołu kieruje zaproszenie do wszystkich członków Zespołu, wskazując jednocześnie członków Zespołu, których właściwości dotyczy porządek posiedzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Przewodniczący Zespołu może zapraszać do udziału w pracach Zespołu, z głosem doradczym, osoby niebędące członkami Zespołu, w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_2/pkt_1",
+         "text": "przedstawicieli organów administracji rządowej i organów samorządu terytorialnego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_2/pkt_2",
+         "text": "przedstawicieli placówek zagranicznych Rzeczypospolitej Polskiej, za pośrednictwem ministra właściwego do spraw zagranicznych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_2/pkt_3",
+         "text": "[^14] przedstawicieli inwestora, wykonawców lub podwykonawców odpowiedzialnych za przygotowanie i realizację kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_5/ust_2/pkt_4",
+         "text": "ekspertów posiadających wiedzę specjalistyczną w zakresie zadań Zespołu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Przewodniczący Zespołu zwołuje posiedzenia i przewodniczy obradom Zespołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "W przypadku nieobecności Przewodniczącego Zespołu jego zadania wykonuje dyrektor Biura Obsługi Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej, z wyłączeniem zadania, o którym mowa w § 7 ust. 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_6/ust_3",
+       "text": "Zespół realizuje swoje zadania na posiedzeniach lub w trybie obiegowym. Zespół może realizować swoje zadania z wykorzystaniem środków komunikacji elektronicznej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_6/ust_4",
+       "text": "Z posiedzenia Zespołu sporządza się protokół, który podpisują osoba przewodnicząca obradom oraz sekretarz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Zespół podejmuje rozstrzygnięcia w formie uzgodnienia stanowisk.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "W przypadku braku uzgodnienia stanowisk członkowie Zespołu podejmują uchwały zwykłą większością głosów. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "W celu realizacji zadań Zespołu Przewodniczący Zespołu, z własnej inicjatywy lub na wniosek członka Zespołu, może tworzyć grupy robocze złożone z członków Zespołu oraz osób zaproszonych do udziału w pracach Zespołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Przewodniczący Zespołu określa skład grupy roboczej, jej zadania oraz wyznacza jej przewodniczącego i sekretarza.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_8/ust_3",
+       "text": "Członkowie Zespołu mogą wyznaczać do udziału w grupach roboczych pracowników swoich urzędów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_8/ust_4",
+       "text": "Przewodniczący Zespołu może zlecać wykonywanie opracowań, analiz, raportów lub ekspertyz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "Organy administracji rządowej oraz jednostki organizacyjne im podległe lub przez nie nadzorowane, na wniosek Przewodniczącego Zespołu, udzielają Zespołowi, w ramach swoich kompetencji, pomocy przy wykonywaniu zadań, w szczególności przedstawiają niezbędne informacje i dokumenty.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "Udział w pracach Zespołu jest nieodpłatny.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "[^15]",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_11/ust_1",
+       "text": "Obsługę organizacyjno-techniczną Zespołu zapewnia Ministerstwo Funduszy i Polityki Regionalnej, z zastrzeżeniem ust. 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_11/ust_2",
+       "text": "Obsługę Zespołu w zakresie ochrony informacji niejawnych zapewnia Ministerstwo Rozwoju.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_11/ust_3",
+       "text": "Wydatki związane z działalnością Zespołu są pokrywane z budżetu państwa z części, której dysponentem jest Minister Funduszy i Polityki Regionalnej, z wyjątkiem wydatków związanych z obsługą Zespołu w zakresie ochrony informacji niejawnych, które są pokrywane z budżetu państwa z części, której dysponentem jest Minister Rozwoju.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "Przewodniczący Zespołu przedstawia Radzie Ministrów coroczne sprawozdanie z działalności Zespołu w terminie do dnia 15 marca każdego roku kalendarzowego za rok poprzedni.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "Przewodniczący Zespołu przedstawi Radzie Ministrów pierwsze sprawozdanie z działalności Zespołu za okres od dnia powołania Zespołu do dnia 31 grudnia 2017 r. wraz ze sprawozdaniem za rok 2018 do dnia 15 marca 2019 r.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[^16].",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "W brzmieniu ustalonym przez § 1 pkt 1 zarządzenia nr 62 Prezesa Rady Ministrów z dnia 15 maja 2020 r. zmieniającego zarządzenie w sprawie Międzyresortowego Zespołu do spraw projektów „Baltic Pipe” oraz rozbudowy Terminalu LNG w Świnoujściu (M.P. poz. 417), które weszło w życie z dniem 19 maja 2020 r.",
+  "2": "W brzmieniu ustalonym przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 1.",
+  "3": "Dodany przez § 1 pkt 3 zarządzenia, o którym mowa w odnośniku 1.",
+  "4": "Oznaczenie ust. 1 nadane przez § 1 pkt 3 zarządzenia nr 224 Prezesa Rady Ministrów z dnia 30 listopada 2018 r. zmieniającego zarządzenie w sprawie Międzyresortowego Zespołu do spraw projektu „Baltic Pipe” (M.P. poz. 1174), które weszło w życie z dniem 1 grudnia 2018 r.",
+  "5": "Dodany przez § 1 pkt 3 zarządzenia, o którym mowa w odnośniku 4.",
+  "6": "Dodany przez § 1 pkt 4 zarządzenia, o którym mowa w odnośniku 1.",
+  "7": "W brzmieniu ustalonym przez § 1 pkt 5 zarządzenia, o którym mowa w odnośniku 1.",
+  "8": "Dodana przez § 1 pkt 6 lit. a tiret pierwsze zarządzenia, o którym mowa w odnośniku 1.",
+  "9": "Dodana przez § 1 pkt 5 zarządzenia, o którym mowa w odnośniku 4.",
+  "10": "Dodana przez § 1 pkt 6 lit. a tiret drugie zarządzenia, o którym mowa w odnośniku 1.",
+  "11": "Dodana przez § 1 pkt 6 lit. a tiret trzecie zarządzenia, o którym mowa w odnośniku 1.",
+  "12": "W brzmieniu ustalonym przez § 1 pkt 6 lit. a tiret czwarte zarządzenia, o którym mowa w odnośniku 1.",
+  "13": "W brzmieniu ustalonym przez § 1 pkt 6 lit. b zarządzenia, o którym mowa w odnośniku 1.",
+  "14": "W brzmieniu ustalonym przez § 1 pkt 7 zarządzenia, o którym mowa w odnośniku 1.",
+  "15": "W brzmieniu ustalonym przez § 1 pkt 8 zarządzenia, o którym mowa w odnośniku 1.",
+  "16": "Zarządzenie zostało ogłoszone w dniu 14 listopada 2017 r."
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "eli": "MP/2020/1144",
+ "title": "Uchwała nr 178 Rady Ministrów z dnia 8 grudnia 2020 r. zmieniająca uchwałę w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego",
+ "converter": "eli2md 0.6.13",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1144/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 178"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 grudnia 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 65 ust. 28 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm.[^1]) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 102 Rady Ministrów z dnia 23 lipca 2020 r. w sprawie wsparcia na realizację zadań inwestycyjnych przez jednostki samorządu terytorialnego (M.P. poz. 662, 1011 i 1046) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 6:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Wsparcie, o którym mowa w § 2 ust. 1 pkt 1–3, jest udzielane na wniosek jednostki, zwany dalej „wnioskiem”, składany przez elektroniczną skrzynkę podawczą do:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) Prezesa Rady Ministrów za pośrednictwem właściwego wojewody – w przypadku wsparcia, o którym mowa w § 2 ust. 1 pkt 1 i 2;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) właściwego wojewody – w przypadku wsparcia, o którym mowa w § 2 ust. 1 pkt 1a i 3.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "po ust. 2 dodaje się ust. 2a i 2b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2a. Wojewoda dokonuje oceny złożonych wniosków o wsparcie, o którym mowa w § 2 ust. 1 pkt 1a i 3, oraz przekazuje Prezesowi Rady Ministrów rekomendowane wnioski w terminie 7 dni od dnia zakończenia naboru wniosków.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2b. Dokonując oceny złożonych wniosków, wojewoda bierze pod uwagę kryteria, o których mowa w § 10.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "uchyla się ust. 7 i 8;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "§ 14 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 14. Wojewoda przekazuje za pośrednictwem elektronicznej skrzynki podawczej, w terminie do 14 dnia miesiąca następującego po miesiącu, w którym jednostka przekazała informacje o wykorzystaniu środków, zbiorczą informację o wykorzystaniu przez jednostki środków do ministra właściwego do spraw gospodarki, ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw administracji publicznej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w załącznikach nr 3a i nr 4 do uchwały w części określającej wnioskodawcę w kolumnie trzeciej wyrazy „Prezes Rady Ministrów za pośrednictwem wojewody” zastępuje się wyrazem „Wojewoda”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w załączniku nr 3a do uchwały uchyla się część „Opinia właściwego wojewody”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 695, 1086, 1262, 1478, 1747 i 2157."
+ }
+}

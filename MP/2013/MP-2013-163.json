@@ -1,0 +1,51 @@
+{
+ "eli": "MP/2013/163",
+ "title": "Obwieszczenie Ministra Finansów z dnia 12 marca 2013 r. w sprawie stawki odsetek za zwłokę od zaległości podatkowych oraz obniżonej stawki odsetek za zwłokę od zaległości podatkowych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/163/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "obwieszczenie"
+  },
+  {
+   "type": "text",
+   "text": "MinisTRA FinAnsÓw[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 marca 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawki odsetek za zwłokę od zaległości podatkowych oraz obniżonej stawki odsetek za zwłokę od zaległości podatkowych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 56 § 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2012 r. poz. 749, z późn. zm.[^2]) ogłasza się, że poczynając od dnia 7 marca 2013 r.:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "stawka odsetek za zwłokę od zaległości podatkowych wynosi 11,50% kwoty zaległości w stosunku rocznym;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "obniżona stawka odsetek za zwłokę od zaległości podatkowych wynosi 8,63% kwoty zaległości w stosunku rocznym.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: wz. J. Cichoń"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. Nr 248, poz. 1481).",
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 848, 1101, 1342 i 1529 oraz z 2013 r. poz. 35."
+ }
+}

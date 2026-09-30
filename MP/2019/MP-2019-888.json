@@ -1,0 +1,743 @@
+{
+ "eli": "MP/2019/888",
+ "title": "Uchwała nr 208/2019 Państwowej Komisji Wyborczej z dnia 2 września 2019 r. w sprawie wzorów kart do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych za granicą i na polskich statkach morskich",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/888/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 208/2019"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 września 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wzorów kart do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych za granicą i na polskich statkach morskich"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 40 § 5 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2019 r. poz. 684 i 1504) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Karta do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej w obwodach głosowania utworzonych za granicą i na polskich statkach morskich drukowana jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "na papierze koloru białego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "jednakowym rodzajem i wielkością czcionki dla wszystkich:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_2/lit_a",
+         "text": "numerów list,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_2/lit_b",
+         "text": "oznaczeń list nazwą lub skrótem nazwy komitetu wyborczego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_1/pkt_2/lit_c",
+         "text": "imion i nazwisk kandydatów.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Karta jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "jedną kartą, zadrukowaną jednostronnie, formatu A3 lub formatu zbliżonego, jeżeli w danym kraju lub na statku nie ma możliwości sporządzenia karty w formacie A3;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "kartą składającą się z odpowiedniej liczby zadrukowanych jednostronnie, trwale połączonych kartek formatu A4 lub formatu zbliżonego, jeżeli w danym kraju lub na statku nie ma możliwości sporządzenia karty w formacie A4 – w przypadku gdy sporządzenie karty, o której mowa w pkt 1, będzie niemożliwe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Na kartach do głosowania, o których mowa w ust. 2 pkt 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_3/pkt_1",
+       "text": "w górnej lewej części umieszcza się oznaczenie „Okręg wyborczy nr ...”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_3/pkt_2",
+       "text": "pośrodku, w górnej części, umieszcza się napis „KARTA DO GŁOSOWANIA w wyborach do Sejmu Rzeczypospolitej Polskiej w dniu ........................... r. LISTY KANDYDATÓW NA POSŁÓW”;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_3/pkt_3",
+       "text": "listy kandydatów umieszcza się w wierszach w kolejności ich numerów, licząc od lewej do prawej, podając dla każdej listy symbol graficzny komitetu wyborczego, jeżeli komitet symbol taki posiada, i numer listy poprzedzony wyrazami „Lista nr ...”, a poniżej oznaczenie listy nazwą lub skrótem nazwy komitetu wyborczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_3/pkt_4",
+       "text": "listy kandydatów oddziela się pionowymi i poziomymi liniami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_3/pkt_5",
+       "text": "na liście umieszcza się w kolejności liczbę porządkową, po niej kratkę przeznaczoną na oddanie głosu oraz nazwisko i imię (imiona) każdego kandydata, przeznaczając jednakowe pole dla każdej listy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_3/pkt_6",
+       "text": "w dolnej części umieszcza się informację o sposobie głosowania i warunkach ważności głosu oraz drukuje się odcisk pieczęci okręgowej komisji wyborczej i oznacza się miejsce na umieszczenie pieczęci obwodowej komisji wyborczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Karta, o której mowa w ust. 2 pkt 2, zawiera stronę tytułową, stronę ze spisem treści oraz strony z listami kandydatów. Każda strona karty, w górnej lewej części, opatrzona jest oznaczeniem „Okręg wyborczy nr ...”, a w prawej – oznaczeniem str. ... (numer danej strony) z ... (liczba stron)”. Pierwsza strona karty do głosowania jest stroną tytułową. W górnej jej części, pośrodku, umieszcza się napis „KARTA DO GŁOSOWANIA w wyborach do Sejmu Rzeczypospolitej Polskiej w dniu .................. r.”. W środkowej jej części umieszcza się informację o sposobie głosowania i warunkach ważności głosu, a poniżej drukuje się odcisk pieczęci okręgowej komisji wyborczej i oznacza się miejsce na umieszczenie pieczęci obwodowej komisji wyborczej. Druga strona karty do głosowania jest stroną ze spisem treści. W górnej jej części, pośrodku, umieszcza się napis „SPIS TREŚCI”, poniżej napis „Listy kandydatów na posłów” i nad dwiema oddzielonymi linią kolumnami napisy „Strona”, a niżej ułożone według kolejności numerów list symbole graficzne komitetów wyborczych, symbole te posiadających, i oznaczenia list nazwą lub skrótem nazwy komitetu wyborczego oraz poprzedzone wyrazem „str.” numery stron, na których umieszczona jest dana lista. W pierwszej kolumnie umieszcza się 15 oznaczeń list komitetów wyborczych. Na kolejnych stronach karty do głosowania umieszcza się listy kandydatów na posłów, w kolejności ich numerów. Na jednej stronie umieszcza się tylko jedną listę kandydatów na posłów. Każda lista opatrzona jest numerem listy poprzedzonym wyrazami „LISTA NR ...”, a poniżej symbolem graficznym komitetu wyborczego, jeżeli komitet symbol taki posiada, oraz nazwą lub skrótem nazwy komitetu wyborczego, który zgłosił listę. Na liście umieszcza się w kolejności liczbę porządkową, po niej kratkę przeznaczoną na oddanie głosu oraz nazwisko i imię (imiona) każdego kandydata. Nazwiska kandydatów z tej samej listy kandydatów umieszcza się w jednej kolumnie, jeżeli na liście zarejestrowano 20 kandydatów albo w dwóch oddzielonych linią kolumnach, jeżeli na liście zarejestrowano więcej niż 20 kandydatów. Wówczas na pierwszej pozycji w drugiej (prawej) kolumnie zamieszcza się nazwisko i imię (imiona) kandydata zarejestrowanego na danej liście pod numerem 21.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "Wzór karty do głosowania określa:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_5/pkt_1",
+       "text": "w przypadku karty, o której mowa w ust. 2 pkt 1 – załącznik nr 1;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_5/pkt_2",
+       "text": "w przypadku karty, o której mowa w ust. 2 pkt 2 – załącznik nr 2;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Karta do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej w obwodach głosowania utworzonych za granicą i na polskich statkach morskich, w przypadku gdy w okręgu wyborczym nr 44 zarejestrowano więcej niż jednego kandydata:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "drukowana jest na papierze koloru żółtego lub na papierze koloru białego jednostronnie barwionym na kolor żółty po stronie zadrukowanej, albo na papierze koloru białego, z tym że nazwiska kandydatów drukowane są na żółtym tle;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "jest jedną kartą, zadrukowaną jednostronnie, formatu A4 lub formatu zbliżonego, jeżeli w danym kraju lub na statku nie ma możliwości sporządzenia karty w formacie A4.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Pośrodku karty, w górnej jej części, umieszcza się napis „KARTA DO GŁOSOWANIA w wyborach do Senatu Rzeczypospolitej Polskiej w dniu ................. KANDYDACI NA SENATORA”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Nazwiska i imiona kandydatów umieszcza się w jednej kolumnie, w kolejności alfabetycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Przed nazwiskiem i imionami każdego kandydata umieszcza się w kolejności liczbę porządkową i kratkę przeznaczoną na oddanie głosu, a pod nazwiskiem i imionami kandydata umieszcza się wyrazy „zgłoszony przez” lub „zgłoszona przez” oraz nazwę lub skrót nazwy komitetu wyborczego i symbol graficzny komitetu wyborczego, jeżeli komitet symbol taki posiada. Druk nazwy lub skrótu nazwy wykonuje się mniejszą czcionką, jednakową dla wszystkich nazw i skrótów nazw komitetów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Przepisy § 1 ust. 1 pkt 2 lit. b i c oraz ust. 3 pkt 1 i 6 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Wzór karty do głosowania, o której mowa w ust. 1, określa załącznik nr 3 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Karta do głosowania w wyborach do Senatu Rzeczypospolitej Polskiej w obwodach głosowania utworzonych za granicą i na polskich statkach morskich, w przypadku gdy w okręgu wyborczym nr 44 zarejestrowano tylko jednego kandydata, jest jedną kartą, zadrukowaną jednostronnie, formatu A4 lub formatu zbliżonego, jeżeli w danym kraju lub na statku nie ma możliwości sporządzenia karty w formacie A4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Pośrodku karty, w górnej jej części, umieszcza się napis „KARTA DO GŁOSOWANIA w wyborach do Senatu Rzeczypospolitej Polskiej w dniu ................. KANDYDAT NA SENATORA zgłoszony przez” oraz nazwę lub skrót nazwy komitetu wyborczego i symbol graficzny komitetu wyborczego, jeżeli komitet symbol taki posiada.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Z lewej strony przed nazwiskiem kandydata umieszcza się wyraz „TAK” i kratkę przeznaczoną na oddanie głosu, a niżej wyraz „NIE” i kratkę przeznaczoną na oddanie głosu, a następnie pośrodku, między kratkami, nazwisko i imię (imiona) kandydata.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Przepisy § 1 ust. 3 pkt 1 i 6 oraz § 2 ust. 1 pkt 1 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "Wzór karty do głosowania, o której mowa w ust. 1, określa załącznik nr 4 do uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Traci moc uchwała Państwowej Komisji Wyborczej z dnia 3 września 2015 r. w sprawie wzorów kart do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych za granicą i na polskich statkach morskich (M.P. poz. 846).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały nr 208/2019 Państwowej Komisji Wyborczej z dnia 2 września 2019 r. (poz. 888) Załącznik nr 1",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Na stronie 4 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WZÓR"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr . str. 1 z .."
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "w wyborach do Sejmu Rzeczypospolitej Polskiej w dniu .. r."
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "To jest jedna karta do głosowania. Po oddaniu głosu wrzuć ją w całości do urny. Nie wyrywaj z niej kartek, nie wydzieraj jej części.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Znajdź listę kandydatów, na którą chcesz zagłosować. Postaw znak „X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Jeżeli postawisz znak „X” na więcej niż jednej liście kandydatów, Twój głos będzie nieważny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(symbol graficzny komitetu wyborczego) SPIS TREŚCI"
+      },
+      {
+       "type": "text",
+       "text": "Okręg wyborczy nr . str. 2 z .."
+      },
+      {
+       "type": "text",
+       "text": "Listy kandydatów na posłów"
+      },
+      {
+       "type": "text",
+       "text": "Strona Strona  str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": " str.   str.  (nazwa lub skrót nazwy komitetu wyborczego) (nazwa lub skrót nazwy komitetu wyborczego) Okręg wyborczy nr . str. 3 z "
+      },
+      {
+       "type": "text",
+       "text": "LISTA NR ."
+      },
+      {
+       "type": "text",
+       "text": "(symbol graficzny komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": ".... (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": "01 ... 21 ..."
+      },
+      {
+       "type": "text",
+       "text": "02  22 "
+      },
+      {
+       "type": "text",
+       "text": "03  23 "
+      },
+      {
+       "type": "text",
+       "text": "04  24 "
+      },
+      {
+       "type": "text",
+       "text": "05  25 "
+      },
+      {
+       "type": "text",
+       "text": "06  26 "
+      },
+      {
+       "type": "text",
+       "text": "07  27 "
+      },
+      {
+       "type": "text",
+       "text": "08  28 "
+      },
+      {
+       "type": "text",
+       "text": "09  29 "
+      },
+      {
+       "type": "text",
+       "text": "10  30 "
+      },
+      {
+       "type": "text",
+       "text": "11  31 "
+      },
+      {
+       "type": "text",
+       "text": "12  32 "
+      },
+      {
+       "type": "text",
+       "text": "13  33 "
+      },
+      {
+       "type": "text",
+       "text": "14  34 "
+      },
+      {
+       "type": "text",
+       "text": "15  35 "
+      },
+      {
+       "type": "text",
+       "text": "16  36 "
+      },
+      {
+       "type": "text",
+       "text": "17  37 "
+      },
+      {
+       "type": "text",
+       "text": "18  38 "
+      },
+      {
+       "type": "text",
+       "text": "19  39 "
+      },
+      {
+       "type": "text",
+       "text": "20  40  Okręg wyborczy nr . str.  z "
+      },
+      {
+       "type": "text",
+       "text": "LISTA NR ."
+      },
+      {
+       "type": "text",
+       "text": "(symbol graficzny komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": ".... (nazwa lub skrót nazwy komitetu wyborczego)"
+      },
+      {
+       "type": "text",
+       "text": "01 ... 21 ..."
+      },
+      {
+       "type": "text",
+       "text": "02  22 "
+      },
+      {
+       "type": "text",
+       "text": "03  23 "
+      },
+      {
+       "type": "text",
+       "text": "04  24 "
+      },
+      {
+       "type": "text",
+       "text": "05  25 "
+      },
+      {
+       "type": "text",
+       "text": "06  26 "
+      },
+      {
+       "type": "text",
+       "text": "07  27 "
+      },
+      {
+       "type": "text",
+       "text": "08  28 "
+      },
+      {
+       "type": "text",
+       "text": "09  29 "
+      },
+      {
+       "type": "text",
+       "text": "10  30 "
+      },
+      {
+       "type": "text",
+       "text": "11  31 "
+      },
+      {
+       "type": "text",
+       "text": "12  32 "
+      },
+      {
+       "type": "text",
+       "text": "13  33 "
+      },
+      {
+       "type": "text",
+       "text": "14  34 "
+      },
+      {
+       "type": "text",
+       "text": "15  35 "
+      },
+      {
+       "type": "text",
+       "text": "16  36 "
+      },
+      {
+       "type": "text",
+       "text": "17  37 "
+      },
+      {
+       "type": "text",
+       "text": "18  38 "
+      },
+      {
+       "type": "text",
+       "text": "19  39 "
+      },
+      {
+       "type": "text",
+       "text": "20  40 "
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr .."
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA (symbol graficzny komitetu wyborczego) w wyborach do Senatu Rzeczypospolitej Polskiej w dniu .."
+    },
+    {
+     "type": "text",
+     "text": "KANDYDACI NA SENATORA"
+    },
+    {
+     "type": "text",
+     "text": " 01. ……………………………………………………"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony(-a) przez ........................................................................................................................ (nazwa lub skrót nazwy komitetu wyborczego)  02. ……………………………………………………"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony(-a) przez .............................................................................................................................  03. ……………………………………………………"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony(-a) przez ..........................................................................................................................  04. ……………………………………………………"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony(-a) przez ..........................................................................................................................  05. ……………………………………………………"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony(-a) przez ..........................................................................................................................  . ……………………………………………………"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony(-a) przez .........................................................................................................................."
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA 1. Znajdź kandydata, na którego chcesz zagłosować."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Postaw znak „X” w kratce wyłącznie przy nazwisku tego kandydata. 3. Jeżeli postawisz znak „X” przy nazwisku więcej niż jednego kandydata, Twój głos będzie nieważny. 4. Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR"
+    },
+    {
+     "type": "text",
+     "text": "Okręg wyborczy nr .."
+    },
+    {
+     "type": "text",
+     "text": "KARTA DO GŁOSOWANIA w wyborach do Senatu Rzeczypospolitej Polskiej w dniu .. (symbol graficzny komitetu KANDYDAT NA SENATORA wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": "zgłoszony przez .................................................................... (nazwa lub skrót nazwy komitetu wyborczego)"
+    },
+    {
+     "type": "text",
+     "text": " TAK"
+    },
+    {
+     "type": "text",
+     "text": "……………………………………………………………… (nazwisko i imię – imiona)"
+    },
+    {
+     "type": "text",
+     "text": " NIE"
+    },
+    {
+     "type": "text",
+     "text": "INFORMACJA"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Jeżeli chcesz zagłosować na kandydata, postaw znak „X” w kratce przy słowie „TAK”. 2. Jeżeli nie chcesz zagłosować na kandydata, postaw znak „X” w kratce przy słowie „NIE”. 3. Jeżeli postawisz znak „X” w obu kratkach albo nie postawisz znaku „X” w żadnej kratce, Twój głos będzie nieważny. 4. Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki.",
+     "children": [
+      {
+       "type": "text",
+       "text": "obwodowej pieczęć pieczęć komisji okręgowej wyborczej komisji wyborczej miejsce na pieczęć okręgowej obwodowej pieczęć komisji wyborczej wyborczej komisji miejsce na pieczęć okręgowej obwodowej pieczęć komisji wyborczej wyborczej komisji"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

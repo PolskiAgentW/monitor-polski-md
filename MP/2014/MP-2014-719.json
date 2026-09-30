@@ -1,0 +1,50 @@
+{
+ "eli": "MP/2014/719",
+ "title": "Komunikat Prezesa Zakładu Ubezpieczeń Społecznych z dnia 20 sierpnia 2014 r. w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2014 r. stosowanych przy zmniejszaniu albo zawieszaniu emerytur i rent",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/719/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "KOMUNIKAT"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA ZAKŁADU UBEZPIECZEŃ SPOŁECZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 sierpnia 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kwot przychodu odpowiadających 70% i 130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2014 r. stosowanych przy zmniejszaniu albo zawieszaniu emerytur i rent"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 104 ust. 10 pkt 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2013 r. poz. 1440, z późn. zm.[^1]) ogłasza się, że od dnia 1 września 2014 r. kwota przychodu odpowiadająca:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "70% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2014 r. wynosi 2618,00 zł;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "130% przeciętnego miesięcznego wynagrodzenia ogłoszonego za II kwartał 2014 r. wynosi 4862,00 zł.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zakładu Ubezpieczeń Społecznych: Z. Derdziuk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1717 i 1734 oraz z 2014 r. poz. 496, 567, 683 i 684."
+ }
+}

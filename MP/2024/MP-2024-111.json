@@ -1,0 +1,133 @@
+{
+ "eli": "MP/2024/111",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 7 lutego 2024 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/111/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 lutego 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2024 r. poz. 10) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 44 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Podpisane wnioski o charakterze legislacyjnym senatorowie składają do zamknięcia dyskusji nad danym punktem porządku obrad, z wyjątkiem art. 54 ust. 1a zdanie pierwsze i art. 73a zdanie pierwsze.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 54 ust. 1a otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1a. W przypadku odrzucenia wszystkich zgłoszonych do ustawy wniosków lub poprawek albo nieprzyjęcia uchwały w sprawie ustawy w całości, Marszałek umożliwia senatorom zgłoszenie wniosku o odrzucenie ustawy lub wniosku o przyjęcie ustawy bez poprawek, choćby były uprzednio poddane pod głosowanie. Marszałek poddaje zgłoszone wnioski pod głosowanie zgodnie z porządkiem określonym w ust. 1 pkt 1 i 2.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 73a otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 73a. W przypadku odrzucenia wniosku o przyjęcie ustawy budżetowej bez poprawek lub wszystkich poprawek albo nieprzyjęcia uchwały w sprawie ustawy w całości, Marszałek umożliwia senatorom zgłoszenie wniosku o przyjęcie ustawy bez poprawek, choćby był uprzednio poddany pod głosowanie. Marszałek poddaje zgłoszony wniosek pod głosowanie.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 96f:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_4/lit_a",
+       "text": "w ust. 1 skreśla się zdanie drugie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_4/lit_b",
+       "text": "po ust. 1 dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Marszałek Senatu kieruje wniosek o odwołanie ławnika do Komisji Praw Człowieka i Praworządności w celu zaopiniowania.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_4/lit_c",
+       "text": "w ust. 2 wyrazy „projekt uchwały, o którym mowa w ust. 1” zastępuje się wyrazami „wniosek, o którym mowa w ust. 1a”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 96g wyrazy „art. 96 ust. 2, art. 96b ust. 2 pkt 2 i art. 96f ust. 1” zastępuje się wyrazami „art. 96 ust. 2 i art. 96b ust. 2 pkt 2”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "W sprawach o odwołanie ławnika Sądu Najwyższego wszczętych przed dniem wejścia w życie niniejszej uchwały stosuje się przepisy art. 96f i art. 96g uchwały zmienianej w art. 1 w brzmieniu nadanym niniejszą uchwałą.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: M. Kidawa-Błońska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

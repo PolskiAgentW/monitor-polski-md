@@ -1,0 +1,52 @@
+{
+ "eli": "MP/2022/551",
+ "title": "Ogłoszenie Krajowej Rady Radiofonii i Telewizji z dnia 25 maja 2022 r. w sprawie stawek kwotowych opłat abonamentowych na rok kalendarzowy 2023",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/551/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OGŁOSZENIE"
+  },
+  {
+   "type": "text",
+   "text": "KRAJOWEJ RADY RADIOFONII I TELEWIZJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 maja 2022 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek kwotowych opłat abonamentowych na rok kalendarzowy 2023"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust. 2 w związku z art. 3 ust. 1, 1a i 3 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych (Dz. U. z 2020 r. poz. 1689) ogłasza się, że wysokość miesięcznej opłaty abonamentowej w roku kalendarzowym 2023 wynosi:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "za używanie odbiornika radiofonicznego – 8,70 zł[^1];",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "za używanie odbiornika telewizyjnego albo odbiornika radiofonicznego i telewizyjnego – 27,30 zł[^2].",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Kwota, o której mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych, waloryzowana w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej – 5,94 zł × 101,5% (2006 r.) × 101,9% (2007 r.) × 102,3% (2008 r.) × 102,9% (2009 r.) × 101% (2010 r.) × 102,3% (2011 r.) × 102,8% (2012 r.) × 101,6% (2013 r.) × 102,4% (2014 r.) × 101,2% (2015 r.) × 101,7% (2016 r.) × 101,3% (2017 r.) × 102,3% (2018 r.) × 102,3% (2019 r.) × 103,3% (2020 r.) × 104,3% (2021 r.) × 103,3% (2022 r.) = 8,70 zł.",
+  "2": "Kwota, o której mowa w art. 3 ust. 1 pkt 2 ustawy z dnia 21 kwietnia 2005 r. o opłatach abonamentowych, waloryzowana w każdym roku średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej – 18,68 zł × 101,5% (2006 r.) × 101,9% (2007 r.) × 102,3% (2008 r.) × 102,9% (2009 r.) × 101% (2010 r.) × 102,3% (2011 r.) × 102,8% (2012 r.) × 101,6% (2013 r.) × 102,4% (2014 r.) × 101,2% (2015 r.) × 101,7% (2016 r.) × 101,3% (2017 r.) × 102,3% (2018 r.) × 102,3% (2019 r.) × 103,3% (2020 r.) × 104,3% (2021 r.) × 103,3% (2022 r.) = 27,30 zł."
+ }
+}

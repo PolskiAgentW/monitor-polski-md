@@ -1,0 +1,1316 @@
+{
+ "eli": "MP/2021/435",
+ "title": "Uchwała nr 50 Rady Ministrów z dnia 19 kwietnia 2021 r. w sprawie przyjęcia strategii przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/435/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 50"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 kwietnia 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie przyjęcia strategii przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 32 ust. 2 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2020 r. poz. 971, 875, 1086 i 2320 oraz z 2021 r. poz. 187) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przyjmuje się strategię przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, stanowiącą załącznik do uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 50 Rady Ministrów z dnia 19 kwietnia 2021 r. (poz. 435)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STRATEGIA PRZECIWDZIAŁANIA PRANIU PIENIĘDZY ORAZ FINANSOWANIU TERRORYZMU SPIS TREŚCI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "WSTĘP ..................................................................................................................................................... 6",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "WIZJA ROZWOJU KSPPPFT .................................................................................................................... 12",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. P ODSTAWOWE DYLEMATY ................................................................................................................................ 12"
+      },
+      {
+       "type": "text",
+       "text": "2.2. K ONCEPCJA ZMIAN .......................................................................................................................................... 22"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "PLAN DZIAŁAŃ ...................................................................................................................................... 27",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1. P RIORYTETY ROZWOJU KSPPPFT ...................................................................................................................... 27"
+      },
+      {
+       "type": "text",
+       "text": "3.2. P LAN DZIAŁAŃ ................................................................................................................................................ 28"
+      },
+      {
+       "type": "text",
+       "text": "3.3. R EKOMENDACJA ............................................................................................................................................. 35"
+      },
+      {
+       "type": "text",
+       "text": "3.4. F INANSOWANIE REALIZACJI DZIAŁAŃ ................................................................................................................... 35"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "MONITOROWANIE REALIZACJI PLANU DZIAŁAŃ ................................................................................... 37 Skróty:",
+     "children": [
+      {
+       "type": "text",
+       "text": "ABW Agencja Bezpieczeństwa Wewnętrznego"
+      },
+      {
+       "type": "text",
+       "text": "AW Agencja Wywiadu"
+      },
+      {
+       "type": "text",
+       "text": "CBA Centralne Biuro Antykorupcyjne"
+      },
+      {
+       "type": "text",
+       "text": "CBŚP Centralne Biuro Śledcze Policji"
+      },
+      {
+       "type": "text",
+       "text": "Dz. U. Dziennik Ustaw Rzeczypospolitej Polskiej"
+      },
+      {
+       "type": "text",
+       "text": "Dz. Urz. Dziennik Urzędowy Unii Europejskiej (ang. Official Journal of the European Union - O.J. EU)"
+      },
+      {
+       "type": "text",
+       "text": "FATF Financial Action Task Force, tj. Grupa Specjalna ds. Przeciwdziałania Praniu Pieniędzy (utworzona w 1989 r. podczas szczytu G-7 w Paryżu, zajmująca się analizą i oceną zagrożeń związanych z praniem pieniędzy i finansowaniem terroryzmu, w szczególności w kontekście wydanych przez nią 40 rekomendacji określających międzynarodowe standardy w zakresie zwalczania prania pieniędzy oraz finansowania terroryzmu i proliferacji)"
+      },
+      {
+       "type": "text",
+       "text": "GIIF Generalny Inspektor Informacji Finansowej"
+      },
+      {
+       "type": "text",
+       "text": "GE Grupa Egmont (utworzona w 1995 r. jako nieformalna międzynarodowa organizacja, zrzeszająca JAF i działająca w zakresie promowania oraz wzmacniania międzynarodowej współpracy w przeciwdziałaniu praniu pieniędzy i finansowaniu terroryzmu, przekształcona w 2007 r. w formalną organizację międzynarodową z własnym sekretariatem i personelem)"
+      },
+      {
+       "type": "text",
+       "text": "GUS Główny Urząd Statystyczny"
+      },
+      {
+       "type": "text",
+       "text": "JAF jednostka analityki finansowej, z ang. financial intelligence unit (zgodnie z Rekomendacją FATF nr 29 – przez jednostkę analityki finansowej należy rozumieć „krajowe centrum do otrzymywania i analizowania: (a) raportów o podejrzanych transakcjach, (b) innych informacji odnoszących się do prania pieniędzy, związanych z nim przestępstw bazowych i finansowania terroryzmu, a także udostępniania wyników tych analiz”, które powinno „być w stanie otrzymywać informacje dodatkowe od instytucji obowiązanych oraz mieć na czas dostęp do informacji finansowych, administracyjnych i kryminalnych wymaganych do właściwego wykonywania jego funkcji”)"
+      },
+      {
+       "type": "text",
+       "text": "KAS Krajowa Administracja Skarbowa"
+      },
+      {
+       "type": "text",
+       "text": "KBF Komitet Bezpieczeństwa Finansowego"
+      },
+      {
+       "type": "text",
+       "text": "kk Kodeks karny"
+      },
+      {
+       "type": "text",
+       "text": "kks Kodeks karny skarbowy"
+      },
+      {
+       "type": "text",
+       "text": "KNF Komisja Nadzoru Finansowego"
+      },
+      {
+       "type": "text",
+       "text": "KSPPPFT krajowy system przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu"
+      },
+      {
+       "type": "text",
+       "text": "MF Ministerstwo Finansów"
+      },
+      {
+       "type": "text",
+       "text": "MRPiT Ministerstwo Rozwoju, Pracy i Technologii MS Ministerstwo Sprawiedliwości"
+      },
+      {
+       "type": "text",
+       "text": "MSWiA Ministerstwo Spraw Wewnętrznych i Administracji"
+      },
+      {
+       "type": "text",
+       "text": "NBP Narodowy Bank Polski"
+      },
+      {
+       "type": "text",
+       "text": "PK Prokuratura Krajowa"
+      },
+      {
+       "type": "text",
+       "text": "SG Straż Graniczna"
+      },
+      {
+       "type": "text",
+       "text": "SKW Służba Kontrwywiadu Wojskowego"
+      },
+      {
+       "type": "text",
+       "text": "SWW Służba Wywiadu Wojskowego"
+      },
+      {
+       "type": "text",
+       "text": "UE Unia Europejska"
+      },
+      {
+       "type": "text",
+       "text": "UKNF Urząd Komisji Nadzoru Finansowego"
+      },
+      {
+       "type": "text",
+       "text": "ŻW Żandarmeria Wojskowa"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "WSTĘP",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "W lipcu 2019 r. Generalny Inspektor Informacji Finansowej (GIIF) opublikował Krajową ocenę ryzyka prania pieniędzy oraz finansowania terroryzmu (zwaną dalej „Krajową oceną ryzyka”). Zgodnie z procedurą wskazaną w przepisach ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2020 r. poz. 971, z późn. zm.) podlegała ona wcześniej opiniowaniu przez Komitet Bezpieczeństwa Finansowego (KBF) oraz akceptacji Ministra Finansów. W powyższym dokumencie obszernie odniesiono się do kwestii związanych z zagrożeniami prania pieniędzy w kontekście przestępstw bazowych, a także produktów i usług dostępnych na rynku finansowym, jak również poza nim. Dodatkowo opisano w nim najczęściej stosowane metody prania pieniędzy. Jednocześnie – bazując na doświadczeniach krajowych i zagranicznych – przedstawiono w aneksie nr 2 do Krajowej oceny ryzyka opis możliwych scenariuszy ryzyka prania pieniędzy przy zastosowaniu wspomnianych produktów i usług. Krajowa ocena ryzyka zawiera także informacje dotyczące zagrożeń związanych z finansowaniem terroryzmu, w tym informacje o stosowanych metodach w tym obszarze. Ponadto w aneksie nr 3 do ww. dokumentu zaprezentowano opis możliwych scenariuszy ryzyka finansowania terroryzmu przy zastosowaniu produktów i usług dostępnych na rynku finansowym i poza nim.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "W opisie podatności mających wpływ na ryzyko prania pieniędzy oraz finansowania terroryzmu odniesiono się zarówno do regulacji prawnych i ich braku, jak również do praktyki funkcjonowania poszczególnych elementów krajowego systemu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu (KSPPPFT). Odniesiono się m.in. do potrzeby dokończenia prac nad rozporządzeniami wykonawczymi do ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu oraz wdrożenia nowych przepisów Unii Europejskiej (UE), w szczególności dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającej dyrektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu oraz zmieniającej dyrektywy 2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43), zwanej dalej „dyrektywą 2018/843”. Szczegółowe rozwiązania prawne dotyczące implementacji przedmiotowej dyrektywy do polskiego porządku prawnego nie są przedmiotem strategii z uwagi na toczący się w chwili opracowywania strategii proces legislacyjny[^1].",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Bazując na metodyce opisanej w aneksie nr 1 do Krajowej oceny ryzyka oszacowano poziom ryzyka prania pieniędzy oraz poziom ryzyka finansowania terroryzmu (tj. tzw. ryzyka ogólnego prania pieniędzy oraz tzw. ryzyka ogólnego finansowania terroryzmu). Szacunki oparto na wyliczeniach poziomów zagrożenia, podatności, prawdopodobieństwa 2) i konsekwencji w ramach tzw. ryzyka podstawowego oraz poziomów zagrożenia 3) i podatności dla tzw. ryzyka szczątkowego .",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela nr 1 – Szacunki poziomów ryzyka wskazane w Krajowej ocenie ryzyka[^4]"
+      },
+      {
+       "type": "text",
+       "text": "poziom 2 (średni) Oszacowanie ryzyka przy zagrożeniu na poziomie 3 (wysokim), podatności na poziomie 2 podstawowego (średnim), prawdopodobieństwie na poziomie 2 (średnim) i konsekwencjach na poziomie 1 (tj. słabych) Pranie pieniędzy poziom 2 (średni) Oszacowanie ryzyka przy ogólnym poziomie prawdopodobieństwa na poziomie 3 szczątkowego (wysokim) Oszacowanie ryzyka poziom 2 (średni) ogólnego poziom 1 (niski) Oszacowanie ryzyka przy zagrożeniu na poziomie 1 (niskim), podatności na poziomie 2 podstawowego (średnim), prawdopodobieństwie na poziomie 2 (średnim) Finansowanie i konsekwencjach na poziomie 1 (tj. słabych) terroryzmu Oszacowanie ryzyka poziom 2 (średni) szczątkowego przy ogólnym poziomie prawdopodobieństwa na poziomie 2 (średnim)"
+      },
+      {
+       "type": "text",
+       "text": "Oszacowanie ryzyka poziom 2 (średni) ogólnego"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Jakkolwiek szacunek poziomu ryzyka ogólnego dla finansowania terroryzmu jest zbliżony do szacunku poziomu ryzyka ogólnego dla prania pieniędzy, to należy zauważyć, że tzw. ryzyko podstawowe finansowania terroryzmu było oszacowane na poziomie niskim (dla porównania – szacunek poziomu tzw. ryzyka podstawowego dla prania pieniędzy został wyliczony na poziomie średnim). Wpływ na poziom ryzyka ogólnego finansowania terroryzmu miały w głównej mierze szacunki poziomów zagrożenia, podatności i prawdopodobieństwa wskazane w ramach tzw. ryzyka szczątkowego, odnoszącego się do poszczególnych scenariuszy ryzyka finansowania terroryzmu. Liczbowo ryzyko ogólne finansowania terroryzmu zostało oszacowane na poziomie 1,65, to jest niżej niż ryzyko ogólne prania pieniędzy, które wyniosło 1,95.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Warto przy tym zwrócić uwagę na te scenariusze ryzyka prania pieniędzy czy finansowania terroryzmu, dla których oszacowany poziom prawdopodobieństwa ich wystąpienia (na podstawie wskazanych poziomów podatności i zagrożenia) jest wysoki lub bardzo wysoki (tj. powyżej poziomu 2,5).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela nr 2 – Scenariusze ryzyka prania pieniędzy z najwyższymi poziomami prawdopodobieństwa"
+      },
+      {
+       "type": "text",
+       "text": "Obszar Opis ryzyka Poziom Poziom Poziom podatności zagrożenia prawdopodobieństwa Fizyczny przewóz wykorzystanie osób fizycznych do wartości przewozu pieniędzy pochodzących z 4 4 4 majątkowych przez nielegalnych źródeł poprzez granice granicę państwowe Wymiana walut bezgotówkowa wymiana waluty 3 4 3.4 połączona z transferem środków Działalność korzystanie z pośrednictwa innych gospodarcza podmiotów w legitymizowaniu 3 4 3.4 (ogólnie) środków pochodzących z nielegalnej działalności Usługi wykorzystanie usług telekomunikacyjne telekomunikacyjnych w zakresie powiązane z numerów o podwyższonej płatności 4 2 3.2 płatnościami do legitymizowania środków z mobilnymi przestępczej działalności organizowanie akcji Finansowanie crowdfunding’owej w celu 4 2 3.2 społecznościowe legitymizowania posiadanych lub przekazywanych środków pieniężnych Usługi płatnicze korzystanie z internetowych usług (oferowane przez płatniczych przez sprawców w celu 3 3 3 inne podmioty niż transferowania środków pochodzących banki) z nielegalnej działalności wykorzystanie kryptowalut do Waluty wirtualne transferowania wartości pochodzących 3 3 3 z nielegalnych źródeł Fizyczny przewóz wykorzystanie usług kurierskich i wartości pocztowych do przekazywania 3 3 3 majątkowych przez pieniędzy pochodzących z granicę nielegalnych źródeł Organizacje typu wykorzystanie fundacji i stowarzyszeń 3 3 3 non-profit do prania pieniędzy Handel dobrami o inwestowanie środków pochodzących wysokiej wartości z nielegalnych źródeł w zakup metali i 3 3 3 kamieni szlachetnych wykorzystanie rachunku do Bankowość gromadzenia i transferowania 2 4 2.8 pieniędzy pochodzących z nielegalnych źródeł wykorzystanie transferów do Bankowość przekazywania środków do innych 2 4 2.8 jurysdykcji Usługi płatnicze wykorzystanie dostawców usług z (oferowane przez zakresu transferu środków inne podmioty niż pieniężnych do transferowania 2 4 2.8 banki) pieniędzy pochodzących z nielegalnych źródeł Usługi płatnicze wykorzystanie sieci Hawala lub (oferowane przez innych nieformalnych systemów 4 1 2.8 inne podmioty niż transferu do przekazywania środków banki) pochodzących z nielegalnych źródeł wykorzystanie gier oferowanych w Gry hazardowe kasynie do zaciemnienia pochodzenia 2 4 2.8 posiadanych pieniędzy Działalność wykorzystanie funkcjonujących 2 4 2.8 gospodarcza podmiotów gospodarczych do prania (ogólnie) pieniędzy Działalność wykorzystanie spółek gospodarcza nieprowadzących w praktyce 2 4 2.8 (ogólnie) działalności gospodarczej do prania pieniędzy wykorzystanie scentralizowanych Waluty wirtualne walut wirtualnych do transferowania 3 2 2.6 wartości pochodzących z nielegalnych źródeł Handel dobrami o inwestowanie środków pochodzących wysokiej wartości z nielegalnych źródeł w zakup 3 2 2.6 antyków i dzieł sztuki"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Najwyżej oszacowano poziom prawdopodobieństwa prania pieniędzy dla fizycznego 5) przewozu przez granice wartości majątkowych przy wykorzystaniu osób fizycznych. Relatywnie wysoki jest także szacunek tego poziomu dla wykorzystania usług kurierskich i pocztowych do przekazywania poprzez granice pieniędzy pochodzących z nielegalnych źródeł. Pozostałe ryzyka wskazane w powyższej tabeli odnoszą się do takich obszarów, jak: wymiana walut, waluty wirtualne, działalność gospodarcza, usługi telekomunikacyjne powiązane z płatnościami mobilnymi, finansowanie społecznościowe, usługi płatnicze (oferowane przez inne podmioty niż banki), działalność organizacji typu non-profit, handel dobrami o wysokiej wartości, bankowość, a także gry hazardowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Scenariusze ryzyka w kontekście finansowania terroryzmu z części ww. obszarów również zostały ocenione stosunkowo wysoko lub bardzo wysoko.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela nr 3 – Scenariusze ryzyka finansowania terroryzmu z najwyższymi poziomami prawdopodobieństwa"
+      },
+      {
+       "type": "text",
+       "text": "Obszar Opis ryzyka Poziom Poziom Poziom podatności zagrożenia prawdopodobieństwa Fizyczny przewóz wykorzystanie osób fizycznych do wartości przewozu pieniędzy poprzez granice 4 3 3.6 majątkowych przez państwowe granicę Usługi płatnicze Wykorzystanie sieci Hawala lub (oferowane przez innych nieformalnych systemów 4 2 3.2 inne podmioty niż transferu wartości majątkowych do banki) finansowania terroryzmu pozyskiwanie darczyńców środków na Finansowanie rzecz organizacji terrorystycznych 4 2 3.2 społecznościowe przy wykorzystaniu nowoczesnych sieci komunikacyjnych korzystanie z internetowych usług Usługi płatnicze płatniczych przez podmioty (oferowane przez uczestniczące w procesie inne podmioty niż finansowania terroryzmu, w 3 3 3 banki) szczególności przez potencjalnych zagranicznych bojowników terrorystycznych wykorzystanie rachunku bankowego Bankowość do gromadzenia i transferowania 2 4 2.8 pieniędzy na cele działalności terrorystycznej wyłudzanie odszkodowań z Ubezpieczenia ubezpieczeń w celu finansowania 4 1 2.8 terroryzmu Usługi telekomunikacyjne nabywanie lub doładowanie kart SIM powiązane z w celu przekazywania środków 4 1 2.8 płatnościami mobilnymi Usługi wykorzystanie usług telekomunikacyjne telekomunikacyjnych w zakresie powiązane z numerów o podwyższonej płatności 4 1 2.8 płatnościami do gromadzenia środków na mobilnymi działalność terrorystyczną wykorzystanie kryptowalut do Waluty wirtualne transferowania wartości majątkowych 3 2 2.6 na cele działalności terrorystycznej Fizyczny przewóz wartości wykorzystanie usług kurierskich i 3 2 2.6 majątkowych przez pocztowych granicę wykorzystanie funduszy Organizacje typu gromadzonych na cele charytatywne 3 2 2.6 non-profit na finansowanie organizacji terrorystycznych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "W zakresie finansowania terroryzmu największy poziom prawdopodobieństwa został także przypisany fizycznemu przewozowi przez granice wartości majątkowych przy wykorzystaniu osób fizycznych. Relatywnie wysoko oszacowano również ten poziom dla wykorzystania usług kurierskich i pocztowych do przewozu przez granice pieniędzy pochodzących z nielegalnych źródeł. Oprócz tego w powyższej tabeli wskazano ryzyka z takich obszarów, jak: waluty wirtualne, usługi telekomunikacyjne powiązane z płatnościami mobilnymi, finansowanie społecznościowe, usługi płatnicze (oferowane przez inne podmioty niż banki), działalność organizacji typu non-profit, ubezpieczenia oraz bankowość.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Wyżej opisane obszary wymagają szczególnej uwagi. Do nich przede wszystkim powinny odnosić się środki mitygujące ryzyko prania pieniędzy oraz finansowania terroryzmu, podejmowane na płaszczyźnie legislacyjnej lub praktycznej, odnoszącej się do działalności wszystkich podmiotów działających w ramach KSPPPFT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Krajowa ocena ryzyka stanowi dla niniejszej strategii diagnozę sytuacji oraz prognozę trendów rozwojowych w odniesieniu do systemu przeciwdziałania praniu pieniędzy i finansowania terroryzmu. Na podstawie analizy zarówno zagrożeń, jak i podatności w Krajowej ocenie ryzyka wskazano podstawowe wnioski, które powinny być fundamentem dalszych prac nad zwiększeniem efektywności funkcjonowania KSPPPFT. Odniosły się one do 4 obszarów, tj.: uzupełnienia regulacji prawnych, rozwoju szkoleń (zarówno pracowników jednostki analityki finansowej, jak również jednostek współpracujących oraz instytucji obowiązanych), wymiany informacji (w szczególności przy wykorzystaniu systemów teleinformatycznych), a także generowania danych statystycznych umożliwiających obiektywną ocenę skuteczności KSPPPFT. Te wnioski stały się podstawą dalszych działań GIIF podejmowanych we współpracy z KBF, których wynikiem jest plan działań zawarty w niniejszej strategii, mający na celu zwiększenie efektywności funkcjonowania KSPPPFT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "WIZJA ROZWOJU KSPPPFT",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.1. Podstawowe dylematy"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "KSPPPFT tworzą GIIF, instytucje obowiązane oraz jednostki współpracujące. Ramy ich funkcjonowania wyznaczają przepisy prawne, w szczególności zawarte w ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rysunek nr 1 – Schemat KSPPPFT"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 12 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "KSPPPFT jest typową strukturą typu „naczyń połączonych”, w której praca każdej części zależy od jakości funkcjonowania pozostałych elementów. Działanie GIIF, a także jednostek współpracujących zależy od czynności podejmowanych przez instytucje obowiązane, a ich funkcjonowanie od tego, w jaki sposób reagują na nie GIIF oraz jednostki współpracujące, w szczególności organy nadzorcze. Interakcja pomiędzy GIIF a jednostkami współpracującymi, zwłaszcza z organami ścigania, organami nadzorczymi czy organami KAS, ma również istotny wpływ na jakość ich działań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Główną rolę w KSPPPFT pełni GIIF, który jest powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii ministra – członka Rady Ministrów właściwego do spraw koordynowania działalności służb specjalnych (jeżeli został wyznaczony przez Prezesa Rady Ministrów). GIIF jest sekretarzem albo podsekretarzem stanu w urzędzie obsługującym ministra właściwego do spraw finansów publicznych. Swoje zadania wykonuje przy pomocy Departamentu Informacji Finansowej Ministerstwa Finansów. GIIF – wspomagany przez ww. departament – działa jako polska jednostka analityki finansowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Zgodnie z art. 32 dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/849 z dnia 20 maja 2015 r. w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu, zmieniającej rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 i uchylającej dyrektywę Parlamentu Europejskiego i Rady 2005/60/WE oraz dyrektywę Komisji 2006/70/WE (Dz. Urz. UE L 141 z 05.06.2015, str. 73)[^6], zwanej dalej „dyrektywą 2015/849”, każda jednostka analityki finansowej (JAF) musi być niezależna i autonomiczna pod względem operacyjnym. Oznacza to, że musi posiadać uprawnienia i możliwości, by swobodnie wykonywać swoje funkcje, w tym być w stanie podejmować samodzielne decyzje w zakresie analizowania, żądania i rozpowszechniania określonych informacji. Ponadto powinna mieć odpowiednie zasoby finansowe, ludzkie i techniczne na potrzeby wykonywania swoich zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Rdzeniem zadań JAF ma być przede wszystkim przyjmowanie oraz analizowanie zgłoszeń o podejrzanych transakcjach i innych informacji, dotyczących prania pieniędzy (a także powiązanych przestępstwach bazowych) lub finansowania terroryzmu. W tym celu musi być ona w stanie uzyskiwać dodatkowe informacje od instytucji obowiązanych, a także posiadać bezpośredni lub pośredni dostęp do informacji finansowych, informacji administracyjnych i informacji organów ścigania, umożliwiający pozyskiwanie w odpowiednim czasie danych niezbędnych jej do właściwego wykonywania zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Zadania analityczne JAF mają obejmować:",
+     "children": [
+      {
+       "type": "text",
+       "text": "analizę operacyjną (koncentrującą się na poszczególnych przypadkach • i szczegółowych celach lub na odpowiednich wybranych informacjach, w zależności od rodzaju i ilości ujawnionych informacji oraz spodziewanego wykorzystania informacji po rozpowszechnieniu),"
+      },
+      {
+       "type": "text",
+       "text": "analizę strategiczną (dotyczącą tendencji i schematów działania w obszarze prania • pieniędzy i finansowania terroryzmu)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "JAF ma przekazywać wyniki swoich analiz oraz wszelkie inne stosowne informacje właściwym organom, jeżeli istnieją podstawy, by podejrzewać pranie pieniędzy, powiązane z nim przestępstwa bazowe lub finansowanie terroryzmu. Dodatkowo musi być w stanie odpowiadać na wnioski o informacje składane przez właściwe krajowe organy (w zakresie przestępstw bazowych dla prania pieniędzy lub kwestii związanych z finansowaniem terroryzmu). Z kolei te organy powinny przekazywać JAF informacje zwrotne na temat wykorzystania informacji przekazanych przez nią i na temat wyników dochodzeń lub kontroli przeprowadzonych na podstawie tych informacji. Ponadto JAF musi wymieniać informacje[^7] ze swoimi odpowiednikami zagranicznymi (zgodnie z przepisami dyrektywy 2015/849, a także wymogami Grupy Egmont – GE). Istotnym działaniem jest również konieczność udostępniania przez GIIF jednostkom współpracującym wyników analizy strategicznej w celu ich wykorzystania w prowadzonych przez te jednostki czynnościach analitycznych oraz w ramach działań operacyjno-rozpoznawczych. Może to np. skutkować powoływaniem wspólnych zespołów interdyscyplinarnych do realizacji wniosków wypływających z tej analizy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "JAF powinna też posiadać uprawnienia (bezpośrednie lub pośrednie) do zawieszenia lub wstrzymania zgody na kontynuowanie realizacji transakcji w przypadku podejrzenia, że ma ona związek z praniem pieniędzy lub finansowaniem terroryzmu. Takie działania ma podejmować również na wniosek jednostki analityki finansowej z innego państwa członkowskiego UE (a także każdej innej jednostki analityki finansowej z państwa, które ratyfikowało Konwencję Rady Europy z 16 maja 2005 r. o praniu, ujawnianiu, zajmowaniu i konfiskacie dochodów pochodzących z przestępstwa oraz o finansowaniu terroryzmu). Generalnie w ww. dyrektywie 2015/849 duży nacisk został położony na jak najszerszą współpracę, w szczególności wymianę informacji pomiędzy jednostkami analityki finansowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Główne zadania JAF powinny się zatem skupiać na czynnościach związanych z analizą informacji napływających do jednostki oraz kooperacji – w szczególności wymianie informacji – z jednostkami współpracującymi z jednej strony oraz zagranicznymi jednostkami analityki finansowej z drugiej strony. Jednakże – zgodnie z przepisami ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu – na GIIF spoczywa o wiele więcej obowiązków, m.in. związanych z:",
+     "children": [
+      {
+       "type": "text",
+       "text": "kontrolowaniem instytucji obowiązanych w zakresie wypełniania • przez nie obowiązków wynikających z przepisów dotyczących przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu,"
+      },
+      {
+       "type": "text",
+       "text": "prowadzeniem postępowań administracyjnych związanych z nakładaniem kar • administracyjnych za nieprzestrzeganie ww. obowiązków,"
+      },
+      {
+       "type": "text",
+       "text": "prowadzeniem i publikacją list osób i podmiotów, wobec których stosuje • się szczególne środki ograniczające, a także wydawaniem zezwoleń na wykorzystanie zamrożonych wartości majątkowych lub ich udostępnienie,"
+      },
+      {
+       "type": "text",
+       "text": "koordynacją w zakresie administrowania i rozwoju Centralnego Rejestru Beneficjentów Rzeczywistych (CRBR),"
+      },
+      {
+       "type": "text",
+       "text": "wykonywaniem zadań związanych z przygotowywaniem zmian przepisów prawnych z zakresu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu lub zagadnień powiązanych z tą tematyką,"
+      },
+      {
+       "type": "text",
+       "text": "projektowaniem nowych rozwiązań wynikających z aktualnych lub przygotowywanych przepisów prawnych (np. dotyczących Systemu Informacji Finansowej – SInF),"
+      },
+      {
+       "type": "text",
+       "text": "realizowaniem innych zadań w związku z funkcjonowaniem GIIF oraz Departamentu Informacji Finansowej w ramach Ministerstwa Finansów (w tym opiniowanie projektów przepisów prawnych, dokumentów rządowych i unijnych odnoszących się generalnie do obszaru działalności tego ministerstwa)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Z tego też powodu warunkiem efektywnego funkcjonowania GIIF jest stworzenie odpowiedniego balansu pomiędzy realizacją zadań będących rdzeniem jego funkcjonowania jako JAF a pozostałymi obowiązkami nałożonymi na ten organ oraz wspomagający go Departament Informacji Finansowej MF. Rozbudowany system dodatkowych obowiązków GIIF stanowi jednak pewne utrudnienie w osiągnięciu pełnej racjonalizacji wykonywanych głównych zadań i znacznie utrudnia osiągnięcie efektu synergii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Istotnymi – ze względu na efektywne funkcjonowanie instytucji obowiązanych w ramach KSPPPFT – są zadania związane z kontrolą przestrzegania przez instytucje obowiązane obowiązków nałożonych na nie przepisami z zakresu przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu. W tym obszarze aktywnie działają organy nadzorcze nad poszczególnymi kategoriami instytucji obowiązanych, w szczególności KNF i NBP, wspomagane przez GIIF oraz naczelników urzędów celno-skarbowych. Nieodzowne jest dokonanie przeglądu przepisów prawa, w tym określających rodzaje uprawnień podmiotów wykonujących zadania z zakresu kontroli, w celu zwiększenia stopnia ich harmonizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Warto zwrócić uwagę, że obecnie instytucje obowiązane są podzielone na 25 kategorii odnoszących się do podmiotów z różnych sfer życia gospodarczego i społecznego. W sumie, według posiadanych szacunków, jest ponad 100 tys. instytucji obowiązanych, przy czym duża część z nich nie podlega odpowiedniemu nadzorowi branżowemu właściwych organów nadzorczych, które mogłyby kontrolować wypełnianie przez nie obowiązków wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu. Zgodnie z art. 130 ust. 2 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu uprawnieni do takiej kontroli – oprócz GIIF – są:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prezes NBP – zgodnie z ustawą z dnia 27 lipca 2002 r. - Prawo dewizowe (Dz. U. • z 2020 r. poz. 1708), w odniesieniu do podmiotów prowadzących działalność kantorową w rozumieniu tej ustawy,"
+      },
+      {
+       "type": "text",
+       "text": "KNF – w odniesieniu do instytucji obowiązanych przez nią nadzorowanych, •"
+      },
+      {
+       "type": "text",
+       "text": "Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa – w odniesieniu • do spółdzielczych kas oszczędnościowo-kredytowych,"
+      },
+      {
+       "type": "text",
+       "text": "prezesi sądów apelacyjnych – w odniesieniu do notariuszy,"
+      },
+      {
+       "type": "text",
+       "text": "naczelnicy urzędów celno-skarbowych – w odniesieniu do instytucji obowiązanych kontrolowanych przez te organy,"
+      },
+      {
+       "type": "text",
+       "text": "wojewodowie lub starostowie – w odniesieniu do stowarzyszeń,"
+      },
+      {
+       "type": "text",
+       "text": "ministrowie lub starostowie – w odniesieniu do fundacji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "Tym samym, obok GIIF, tylko naczelnicy urzędów celno-skarbowych mogą kontrolować instytucje obowiązane z różnych kategorii. Pozostałe organy i podmioty są uprawnione do przeprowadzania kontroli wyłącznie w instytucjach obowiązanych należących do wybranych, konkretnych kategorii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Problem braku podlegania części instytucji obowiązanych odpowiedniemu nadzorowi właściwych organów nadzorczych odnosi się w szczególności do instytucji obowiązanych działających w sektorze niefinansowym. Na tę kwestię – jako istotną z punktu widzenia weryfikowania zaangażowania instytucji obowiązanych w przestrzeganie przepisów prawnych i ich praktycznego stosowania – zwróciła uwagę Komisja Europejska, wskazując w aktualizacji ponadnarodowej oceny ryzyka prania pieniędzy oraz finansowania terroryzmu, że: „W przypadku sektorów niefinansowych państwa członkowskie mogą zezwolić organom samorządu zawodowego na nadzorowanie doradców podatkowych, biegłych rewidentów, zewnętrznych księgowych, notariuszy oraz innych przedstawicieli wolnych zawodów prawniczych i pośredników w obrocie nieruchomościami”[^8].",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Jednocześnie liczba organów uprawnionych do nakładania kar administracyjnych w drodze decyzji na instytucje obowiązane w związku z niedopełnieniem przez nie obowiązków wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu jest jeszcze bardziej ograniczona. Obok GIIF uprawnieni do tego są Prezes NBP oraz KNF (ale tylko w zakresie, w jakim to dotyczy instytucji obowiązanych przez nich nadzorowanych i kontrolowanych).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Warto również zauważyć, że w katalogu instytucji obowiązanych są wymienione także podmioty, których przynależność do instytucji obowiązanych jest uzależniona od spełnienia warunku przyjęcia lub dokonania płatności w gotówce o wartości równej lub przekraczającej równowartość 10 000 EUR, bez względu na to, czy płatność jest przeprowadzana jako pojedyncza operacja, czy kilka operacji, które wydają się ze sobą powiązane[^9]. Powoduje to problemy z jednoznaczną identyfikacją przez organy administracji publicznej podmiotów, które powinny spełniać obowiązki związane z przeciwdziałaniem praniu pieniędzy oraz finansowaniu terroryzmu, o ile taki podmiot nie ujawni się lub nie dokona się kontroli jego finansów na podstawie innych przepisów prawnych. W związku z powyższym rozważenia wymaga w takim wypadku poszerzenie uprawnień GIIF do weryfikacji tych podmiotów jako instytucji obowiązanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "W przypadku instytucji obowiązanych wymienionych w art. 2 ust. 1 pkt 21 i 22 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (tj. fundacji oraz stowarzyszeń posiadających osobowość prawną, spełniających powyższy warunek dotyczący przyjmowania lub dokonywania płatności w gotówce) istnieje co prawda nadzór określony przepisami ustawy z dnia 6 kwietnia 1984 r. o fundacjach (Dz. U. z 2020 r. poz. 2167) oraz ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261), sprawowany w przypadku fundacji przez ministrów i starostów, a w przypadku stowarzyszeń – przez wojewodów i starostów. Jednak powyższe przepisy prawne nie przewidują uprawnień dla ww. organów do weryfikacji sprawozdań czy dokumentów księgowych lub finansowych stowarzyszeń i fundacji w celu rozpoznania, które z nich są instytucjami obowiązanymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "Kwestią istotną zarówno dla GIIF, jak również organów ścigania, jest relatywnie szybki i pełny dostęp do informacji finansowych, w szczególności dotyczących wszystkich produktów i usług finansowych służących do gromadzenia i przekazywania środków finansowych, które mogą być wykorzystywane przez osoby lub podmioty zaangażowane w popełnianie przestępstw[^10]. Łatwe identyfikowanie w stosunkowo krótkim czasie ww. produktów i usług skróciłoby czas prowadzenia czynności ustawowych przez ww. organy, a także umożliwiłoby stworzenie kompletnego obrazu ewentualnych działań przestępczych realizowanych za ich pomocą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "Zgodnie z dyrektywą 2018/843 państwa członkowskie UE są zobowiązane do wdrożenia scentralizowanych automatycznych mechanizmów, takich jak centralne rejestry lub centralne systemy pozyskiwania danych pozwalających jednostkom analityki finansowej i innym uprawnionym organom na uzyskanie terminowego dostępu do danych o tożsamości posiadaczy rachunków bankowych oraz rachunków płatniczych, a także skrytek depozytowych udostępnianych przez instytucje kredytowe[^11], ich beneficjentów rzeczywistych oraz pełnomocników ww. posiadaczy. Obecnie Krajowa Izba Rozliczeniowa S.A. oferuje usługi dla organów administracji publicznej w zakresie komunikacji z bankami i spółdzielczymi kasami oszczędnościowo-kredytowymi przy wykorzystaniu aplikacji Ognivo, w celu pozyskiwania informacji o rachunkach oraz innych informacji finansowych[^12].",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "Należy jednak pamiętać, że środki finansowe, również te pochodzące z przestępstwa, mogą być gromadzone i przechowywane (a w niektórych przypadkach też transferowane) także w ramach innych produktów i usług finansowych, m.in. na rachunkach papierów wartościowych, rachunkach zbiorczych, rachunkach pieniężnych służących do ich obsługi, umowach ubezpieczeń z elementami inwestycyjnymi, a także jako jednostki uczestnictwa funduszy inwestycyjnych czy też po prostu w skrytkach depozytowych oferowanych przez podmioty gospodarcze niebędące instytucjami kredytowymi. Dlatego też istotne dla GIIF oraz organów ścigania jest posiadanie relatywnie łatwego i szybkiego dostępu do informacji o wszelkich produktach, służących do przechowywania środków finansowych lub ich transferowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "Istotne jest także rozważenie zakresu informacji finansowych przekazywanych z urzędu na podstawie przepisów ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu. Chodzi przede wszystkim o kwestię tzw. transakcji ponadprogowych, tj. transakcji o wartości przekraczającej próg wskazany w tej ustawie, które są raportowane przez instytucje obowiązane do GIIF. Tego rodzaju informacje są niezwykle przydatne przy szybkim opracowywaniu analiz operacyjnych w odniesieniu do posiadanych podejrzeń prania pieniędzy lub finansowania terroryzmu w celu podjęcia bezzwłocznych decyzji co do zastosowania instrumentów prawnych przewidzianych przepisami ww. ustawy czy też prowadzeniu analiz strategicznych. Jednak podstawowym problemem jest wysokość progu wartości transakcji, powyżej którego powinny być one raportowane w kontekście wartości merytorycznej uzyskiwanych informacji o transakcjach oraz poziomu obciążenia instytucji obowiązanych zadaniami związanymi z ich przekazywaniem. Sam obowiązek gromadzenia informacji o „transakcjach ponadprogowych” nie wynika z przepisów dyrektywy 2015/849, tym niemniej tego typu informacje w różnym zakresie gromadzone są przez JAF szeregu państw członkowskich. Wysokość progu mającego zastosowanie do raportowania transakcji jest różny w różnych państwach członkowskich. W niektórych krajach progi te są stosunkowo wysokie i w rezultacie utrudnia to skuteczny monitoring transakcji. Ustalenie stosunkowo niskiego progu wysokości transakcji podlegających raportowaniu ma znaczenie zwłaszcza w przypadku transakcji gotówkowych, gdy wysoki próg transakcyjny może być łatwo omijany poprzez dokonywanie mniejszych, podprogowych transakcji rozłożonych w czasie. Wysoki próg transakcyjny może też mieć wpływ na zwiększone ryzyko prania pieniędzy oraz finansowania terroryzmu związane przede wszystkim z anonimowością przeprowadzanych transakcji, realizowanych często właśnie tuż poniżej tego progu. Informacje o transakcjach gotówkowych pozwalają też na pozyskanie wiedzy o środkach wpływających oraz wycofywanych z systemu finansowego. W wypadku obrotu bezgotówkowego informacja o transferach środków pieniężnych pozwala na identyfikację przepływów wartości majątkowych wewnątrz systemu finansowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "32",
+     "path": "ust_32",
+     "text": "Powyższa kwestia pozostaje w ścisłym związku z zagadnieniem limitu wartości transakcji okazjonalnych, powyżej którego mają być stosowane środki bezpieczeństwa finansowego, w tym te dotyczące identyfikacji klienta i weryfikacji jego tożsamości oraz identyfikacji beneficjenta rzeczywistego i podejmowanie uzasadnionych czynności w celu weryfikacji jego tożsamości, a także ustalenia struktury własności i kontroli (w przypadku klienta będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej). Warto zauważyć, że Komisja Europejska w zaleceniach dla krajów członkowskich UE, wskazanych przy ponadnarodowej ocenie ryzyka prania pieniędzy oraz finansowania terroryzmu, wzywa je do rozważenia „… określenia niższego progu, w stosownych przypadkach, z uwzględnieniem ryzyka związanego z przeciwdziałaniem praniu pieniędzy i finansowaniu terroryzmu zidentyfikowanym na poziomie krajowym”[^13].",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "33",
+     "path": "ust_33",
+     "text": "Powyższe zagadnienia dotyczące limitów transakcji okazjonalnych i ponadprogowych są też pośrednio powiązane z kwestią niedopuszczalności realizowania transakcji gotówkowych powyżej określonego limitu. Na podstawie art. 19 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162) dokonywanie lub przyjmowanie płatności związanych z wykonywaną działalnością gospodarczą powinno nastąpić za pośrednictwem rachunku płatniczego przedsiębiorcy, w każdym przypadku gdy stroną transakcji, z której wynika płatność, jest inny przedsiębiorca oraz jednorazowa wartość transakcji – bez względu na liczbę wynikających z niej płatności – przekracza 15 000 zł lub równowartość tej kwoty. Jednakże przepisy nie przewidują żadnych poważniejszych sankcji za nieprzestrzeganie tego wymogu[^14]. Ponadto poza ich oddziaływaniem pozostają transakcje gotówkowe niezwiązane z działalnością gospodarczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "34",
+     "path": "ust_34",
+     "text": "Fakt wykorzystania gotówki oraz transakcji realizowanych za jej pomocą do prania pieniędzy niejednokrotnie znajdował odzwierciedlenie w wynikach postępowań analitycznych GIIF czy śledztw i dochodzeń prowadzonych przez organy ścigania. Warto tu wspomnieć na przykład o operacji „Icebreaker” opisanej w Krajowej ocenie ryzyka, w ramach której ustalono, że „… już od 2015 r. relatywnie duże ilości środków pieniężnych, pochodzących z nielegalnej działalności ww. grupy (głównie z przestępstw papierosowych i przemytu narkotyków, przeważnie haszyszu z Maroka i kokainy z Kolumbii), transportowano z Wielkiej Brytanii do Polski, skąd m.in. przez Holandię wywożono je do innych państw, w tym Kolumbii. Gotówka transportowana była różnymi metodami, m.in. drogą lotniczą, a także samochodami ciężarowymi (jednorazowo w transporcie ciężarowym mogło być przemyconych nawet do 50 mln GBP). W Polsce pieniądze były przekazywane do współpracujących z grupą przestępczą kantorów wymiany walut.”[^15]",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "35",
+     "path": "ust_35",
+     "text": "Funkcjonowanie KSPPPFT bazuje w dużej mierze na przepływie informacji z jednej strony od instytucji obowiązanych do GIIF, a także jednostek współpracujących, a z drugiej strony od GIIF i jednostek współpracujących do instytucji obowiązanych. Tym samym jakość pracy poszczególnych podmiotów zaangażowanych w KSPPPFT oraz skuteczność ich oraz całego systemu zależy w ogromnym stopniu od rodzajów i zakresów wymienianych informacji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rysunek nr 2 – Przepływ informacji w KSPPPFT w kontekście prowadzonych przez GIIF postępowań analitycznych"
+      },
+      {
+       "type": "note",
+       "text": "[Na stronie 20 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "36",
+     "path": "ust_36",
+     "text": "Przepływ informacji w KSPPPFT odbywa się na czterech poziomach. Podstawowy odnosi się do informacji, które mogą mieć związek z praniem pieniędzy lub finansowaniem terroryzmu. W tym zakresie przepływ informacji można w uproszczeniu zobrazować jako piramidę z uwagi na ilość informacji przesyłanych od instytucji obowiązanych do GIIF i przekazywanych następnie do organów ścigania. Strumień informacji, do których mają dostęp instytucje obowiązane, a które wymagają analizy z ich strony pod kątem obowiązków wynikających z przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, jest relatywnie duży. Tylko część z nich jest przekazywana do GIIF w związku z powziętym podejrzeniem co do ich związku z praniem pieniędzy czy finansowaniem terroryzmu lub otrzymaniem żądania GIIF o przekazanie dodatkowych informacji. Również GIIF przekazuje jedynie część gromadzonych informacji (w formie zawiadomienia lub powiadomienia o podejrzeniu popełnienia przestępstwa lub odpowiedzi na wniosek o informację).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "37",
+     "path": "ust_37",
+     "text": "Na tym poziomie następuje też przepływ informacji w odwrotnym kierunku, w zakresie informacji zwrotnej dotyczącej sposobu wykorzystania otrzymanych danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "38",
+     "path": "ust_38",
+     "text": "Kolejne poziomy przepływów informacji odnoszą się do kwestii związanych z nadzorem i kontrolą nad instytucjami obowiązanymi, wiedzą i doświadczeniem w zakresie stosowania przepisów oraz identyfikowania ryzyk, a także sprawozdawczością.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "39",
+     "path": "ust_39",
+     "text": "Z kwestią dostępu do informacji finansowych, a także wymianą informacji pomiędzy GIIF i jednostkami współpracującymi z jednej strony oraz GIIF i instytucjami obowiązanymi z drugiej strony wiąże się zagadnienie wykorzystywania do tych celów systemów teleinformatycznych oraz wzorów ustrukturyzowanych dokumentów elektronicznych, ułatwiających przetwarzanie – w tym analizę – informacji przekazywanych za ich pośrednictwem. Ich rozwój jest kluczowy w szczególności w celu przyspieszenia przepływu informacji oraz ułatwienia ich analizowania. Ustalenie nowych formatów danych oraz weryfikacja stosowanych formatów danych powinna być przeprowadzona w porozumieniu z organami ścigania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "40",
+     "path": "ust_40",
+     "text": "Niezwykle ważny jest rozwój wiedzy i umiejętności zarówno pracowników jednostki analityki finansowej, jak i jednostek współpracujących oraz instytucji obowiązanych. Nowy kurs e-learningowy p.t. „Przeciwdziałanie praniu pieniędzy i finansowaniu terroryzmu”, uruchomiony przez GIIF w lutym 2019 r., był pierwszym krokiem w tym kierunku. Z uwagi na wciąż zmieniającą się rzeczywistość zarówno w zakresie funkcjonowania rynku i oferowanych na nim produktów i usług, jak również zagrożeń w obszarze prania pieniędzy czy finansowania terroryzmu, potrzebna jest jednak periodyczna wymiana wiedzy i doświadczeń w tych obszarach pomiędzy JAF, jednostkami współpracującymi i instytucjami obowiązanymi[^16]. Taka wymiana informacji powinna być ukierunkowana m.in. na dostarczenie instytucjom obowiązanym odpowiedniej wiedzy do rozpoznawania działań podejrzanych, o których mają obowiązek informować JAF, a także informacji zwrotnej co do jakości przekazywanych informacji oraz wykorzystywanej typologii. Ponadto pracownicy JAF oraz organów ścigania powinni mieć możliwość rozwoju umiejętności w zakresie prowadzenia tzw. analiz operacyjnych, strategicznych i dochodzeń finansowych. Ważne jest też zapewnienie pracownikom wymiaru sprawiedliwości szkoleń z zakresu zwalczania prania pieniędzy i finansowania terroryzmu. Odpowiednie merytoryczne przygotowanie kadr odpowiedzialnych za przeciwdziałanie i zwalczanie prania pieniędzy i finansowania terroryzmu musi być priorytetem, zwłaszcza w świetle działalności zorganizowanych grup przestępczych, które błyskawicznie dostosowując się do nowych wyzwań technologicznych są niezwykle kreatywne i szybko adaptują swoją działalność do zmieniających się uwarunkowań prawnych i praktycznych. Posiadanie przez państwo odpowiednio wyszkolonych kadr i zasobów finansowych jest też istotne z punktu widzenia obserwowanych zależności między przestępczością zorganizowaną a terroryzmem oraz powiązań między grupami przestępczymi i terrorystycznymi. Powiązania takie stanowią coraz większe zagrożenie dla bezpieczeństwa zarówno UE, jak i Polski.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "41",
+     "path": "ust_41",
+     "text": "Funkcjonowanie organów ścigania w ramach KSPPPFT oraz efektywne prowadzenie przez nie dochodzeń finansowych powinno być związane nie tylko z posiadaniem odpowiednio wyszkolonych w tym obszarze kadr, lecz również z działalnością wyodrębnionych komórek, specjalizujących się w prowadzeniu analiz kryminalnych na bazie informacji i dokumentów o charakterze finansowym. Pracownicy takich komórek powinni posiadać dogłębną wiedzę, zarówno w zakresie przepisów dotyczących rynku finansowego, jak i jego funkcjonowania oraz produktów i usług na nim oferowanych. Ich zadaniem byłoby wspomagać swoją wiedzą, umiejętnościami oraz doświadczeniem pozostałe komórki.[^17]",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "42",
+     "path": "ust_42",
+     "text": "KSPPPFT jest skomplikowanym systemem, którego poprawne działanie zależy od wielu elementów. Dlatego też istotne jest generowanie relatywnie prosto i szybko informacji, w szczególności danych statystycznych, umożliwiających przedstawienie poziomu jego efektywności, jak również skuteczności poszczególnych jego części składowych. Powinna istnieć jednolita, podstawowa metodyka ich wyliczania, która umożliwi ich porównywanie w łatwy sposób bez względu na to, jakie organy czy podmioty funkcjonujące w ramach KSPPPFT je wygenerowały.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "43",
+     "path": "ust_43",
+     "text": "Aby cały KSPPPFT funkcjonował poprawnie, potrzebne jest zapewnienie odpowiednich zasobów kadrowych, technicznych i finansowych zarówno dla GIIF, jak i dla jednostek współpracujących (w szczególności w zakresie działań związanych z rozpoznawaniem i ściganiem przestępstw prania pieniędzy i finansowania terroryzmu oraz przestępstw bazowych, a także nadzorowaniem i kontrolowaniem instytucji obowiązanych).[^18]",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "44",
+     "path": "ust_44",
+     "text": "Efektywne funkcjonowanie organów ścigania w ramach KSPPPFT poprzez sprawne prowadzenie przez nie dochodzeń finansowych jest niezwykle istotne zwłaszcza w świetle wyzwań związanych z nasileniem w niektórych obszarach działalności przestępczej w kontekście pandemii koronawirusa. Uniemożliwienie przestępcom czerpania korzyści z przestępstw, rozpoznanie kierunków rozwoju przestępczości zorganizowanej w Polsce (zwłaszcza prania pieniędzy oraz terroryzmu i jego finansowania), a także rozpoznanie metod, którymi aktualnie przestępcy się posługują, ma wielką wagę dla zmniejszenia zagrożenia przestępczością pojawiającą się podczas kryzysu koronawirusa i po jego zakończeniu. Konieczne jest, aby wszystkie elementy systemu KSPPPFT w dalszym ciągu działały w sposób skoordynowany i spójny, dokonywały dokładnych, spójnych i przejrzystych pomiarów ryzyka zagrożenia przestępczością, niezbędnego do monitorowania i przeciwdziałania skutkom kryzysu związanego z koronawirusem i stanowiły podstawę dla zwalczania działalności przestępczej. Również wieloaspektowa, pogłębiona współpraca w ramach KSPPPFT oraz współpraca z instytucjami obowiązanymi może wpłynąć na możliwości złagodzenia wykorzystania kryzysu związanego z koronawirusem przez przestępczość zorganizowaną.",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.2. Koncepcja zmian"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "45",
+     "path": "ust_45",
+     "text": "Docelowo KSPPPFT powinien być oparty na następujących założeniach:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_45/pkt_1",
+       "text": "Dla umożliwienia wykorzystania efektu synergii GIIF, pełniący przy pomocy Departamentu Informacji Finansowej Ministerstwa Finansów rolę JAF – jako centralna jednostka KSPPPFT – powinien przede wszystkim odpowiadać za prowadzenie analiz operacyjnych i strategicznych oraz pełnić rolę centrum wymiany informacji w ramach całego systemu (do niego powinny spływać wszelkie informacje odnoszące się do podejrzenia prania pieniędzy lub finansowania terroryzmu, prowadzonych postępowań karnych i ich wyników, działań organów ścigania i służb realizowanych w tym obszarze, a także czynności podejmowanych przez organy nadzorcze w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu w stosunku do podmiotów będących instytucjami obowiązanymi).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Efekt synergii działań GIIF jako koordynatora w zakresie wymiany informacji pomiędzy uczestnikami KSPPPFT może być uzyskany również przez pełniejsze wykorzystanie istniejącego już i mającego podstawy prawne (art. 16 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy i finansowaniu terroryzmu) mechanizmu delegowania pracowników lub funkcjonariuszy MSWiA, CBA, ABW, SKW (na nieco odmiennych zasadach również MON) oraz jednostek i organów im podległych lub nadzorowanych do pracy lub służby w Departamencie Informacji Finansowej Ministerstwa Finansów."
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_45/pkt_2",
+       "text": "Analizy prowadzone przez GIIF powinny być w dużym stopniu zautomatyzowane (z uwagi na relatywnie dużą liczbę otrzymywanych informacji).",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_45/pkt_3",
+       "text": "Wymiana informacji pomiędzy GIIF a instytucjami obowiązanymi powinna być prowadzona głównie w formie elektronicznej (przy pomocy wzorów ustrukturyzowanych dokumentów elektronicznych), przy zastosowaniu modułów systemu informatycznego GIIF dedykowanych temu zadaniu. Zastosowanie wzorów ustrukturyzowanych dokumentów elektronicznych wpłynęłoby na skrócenie czasu wpływu informacji o podejrzanych transakcjach lub działaniach oraz poprawiłoby jakość przekazywanych informacji. Miałoby również wpływ na skuteczność przetwarzania i analizowania wpływających do GIIF informacji oraz ułatwiłoby szybkie przekazywanie informacji między GIIF a jednostkami współpracującymi lub zagranicznymi JAF.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_45/pkt_4",
+       "text": "Wymiana informacji dotyczących prowadzonych postępowań analitycznych, przygotowawczych czy innych czynności podjętych w związku z podejrzeniem popełnienia przestępstwa pomiędzy GIIF a jednostkami współpracującymi (w tym przekazywanie zawiadomień o podejrzeniu popełnienia przestępstwa, powiadomień, wniosków o informacje oraz odpowiedzi na nie) powinna być realizowana przede wszystkim w formie elektronicznej (przy pomocy wzorów ustrukturyzowanych dokumentów elektronicznych) przy wykorzystaniu jednego systemu teleinformatycznego, zabezpieczonego przed nieautoryzowanym dostępem, umożliwiającego przekazywanie informacji niejawnych co najmniej o klauzuli „zastrzeżone”.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_45/pkt_5",
+       "text": "Umożliwienie w szerszym zakresie niż przewidują to obecne przepisy wymiany informacji na temat klientów pomiędzy poszczególnymi instytucjami obowiązanymi, a także pomiędzy instytucjami obowiązanymi a organami ścigania, organami nadzoru, KAS i JAF. Wymiana informacji w zakresie przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu powinna być realizowana przy zachowaniu zasad bezpieczeństwa wymiany informacji i ochrony danych osobowych. Umożliwi to skuteczniejszą identyfikację klientów zamieszanych w popełnienie przestępstwa prania pieniędzy lub finansowania terroryzmu.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_45/pkt_6",
+       "text": "Poszczególne kategorie instytucji obowiązanych, w tym działające w sektorze pozafinansowym, powinny posiadać własne organy nadzoru branżowego (z jedynym tylko wyjątkiem instytucji obowiązanych, o których jest mowa w art. 2 ust. 1 pkt 23 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, których możliwy zakres działalności jest zbyt szeroki, aby mógł podlegać wyspecjalizowanemu nadzorowi). Umożliwiłoby to nie tylko wykonywanie większej liczby kontroli tych podmiotów pod kątem zgodności z zasadami przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, lecz też lepsze propagowanie wiedzy i podnoszenie świadomości w tym obszarze. Stosowane wobec instytucji sektora finansowego zasady nadzoru branżowego powinny się również odnosić do instytucji sektora niefinansowego, tj. np. doradców podatkowych, audytorów, biegłych rewidentów, zewnętrznych księgowych, notariuszy oraz innych przedstawicieli wolnych zawodów prawniczych, a także pośredników w obrocie nieruchomościami. Niniejsza kwestia – z punktu widzenia weryfikacji zaangażowania instytucji obowiązanych w przestrzeganie przepisów prawnych i ich praktycznego stosowania – została wskazana przez Komisję Europejską w aktualizacji ponadnarodowej oceny ryzyka prania pieniędzy oraz finansowania terroryzmu[^19]. Na gruncie polskim koniecznym wydaje się dokonanie głębokiej analizy dotyczącej możliwości zezwolenia organom samorządu zawodowego na nadzorowanie ww. instytucji sektora niefinansowego w zakresie przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu. W dokumencie KE odniosła się m.in. także do kwestii: prowadzenia przez nadzór branżowy szkoleń w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, inspekcji/kontroli tematycznych dotyczących stosowania przez instytucje obowiązane przepisów w kontekście identyfikacji beneficjentów rzeczywistych, przekazywania raportów rocznych przez nadzór branżowy dotyczących wypełniania przez instytucje obowiązane procedur w zakresie środków bezpieczeństwa finansowego czy przekazywania informacji o transakcjach podejrzanych i wykonywania kontroli wewnętrznych.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_45/pkt_7",
+       "text": "Podniesienie poziomu przygotowania i efektywności kompetencji nadzorczych i kontrolnych nad instytucjami obowiązanymi organów nadzorczych nad poszczególnymi kategoriami podmiotów oraz organów KAS. Działalność GIIF w tym zakresie skupiałaby się przede wszystkim na koordynowaniu tych kontroli, rozpowszechnianiu wiedzy co do sposobu rozumienia przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, przeprowadzaniu kontroli ad hoc oraz prowadzeniu postępowań administracyjnych w związku z nieprawidłowościami ujawnionymi w czasie własnych kontroli.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_45/pkt_8",
+       "text": "Doświadczenia organów ścigania wskazują jednoznacznie, że gotówka nadal jest podstawowym instrumentem wykorzystywanym w praniu pieniędzy czy finansowaniu terroryzmu. Służy temu związana z jej używaniem anonimowość posiadacza oraz możliwość szybkiego przekazywania środków z jednego miejsca do drugiego. Przekłada się to na duże zagrożenie wykorzystania do prania pieniędzy tych branż działalności gospodarczej, w których występuje duży obrót gotówkowy. Do tego rodzaju można zaliczyć np. firmy działające w branży gastronomicznej, firmy budowlane, przedsiębiorców zajmujących się handlem detalicznym różnych towarów, lombardy, antykwariaty, komisy czy podmioty prowadzące gry hazardowe. W szczególności mogą one być wykorzystywane do mieszania dochodów pochodzących z nielegalnej działalności z dochodami uzyskiwanymi w związku z prowadzeniem legalnych interesów. Często są to również firmy, które tylko pozornie prowadzą działalność, a służą wyłącznie do prania pieniędzy i popełniania innych przestępstw. Należy dokonać analizy funkcjonujących przepisów, która wskazałaby, czy możliwe i potrzebne jest wprowadzenie stosownych ograniczeń w stosunku do płatności gotówkowych przekraczających określone progi dla realizacji transakcji gotówkowych przez osoby fizyczne i przedsiębiorców.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_45/pkt_9",
+       "text": "Każdorazowo aktualizacja Krajowej oceny ryzyka prania pieniędzy oraz finansowania terroryzmu powinna zawierać wskazanie ryzyk związanych z praniem pieniędzy i finansowaniem terroryzmu oraz nowych obszarów w tym zakresie[^20]. Ponadto w tym dokumencie powinno być odniesienie do tzw. mitygantów (tj. środków łagodzących) dotyczących ryzyk odnoszących się do poszczególnych usług/produktów finansowych generujących relatywnie wysokie ryzyko prania pieniędzy lub finansowania terroryzmu.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_45/pkt_10",
+       "text": "Wymiana wiedzy i doświadczeń odnoszących się do obszarów mających znaczenie dla funkcjonowania KSPPPFT (w tym dotyczących nowych i rozwijanych produktów, usług i technologii, a także obszarów ryzyka i typologii) pomiędzy JAF, instytucjami obowiązanymi i jednostkami współpracującymi powinna być dokonywana periodycznie, zarówno przy wykorzystaniu dedykowanej dla tego celu platformy teleinformatycznej, jak i za pomocą szkoleń oraz e-learningu. Konstruktywna wymiana wiedzy i doświadczeń może przełożyć się na poprawę identyfikacji operacji mogących mieć związek z praniem pieniędzy lub finansowaniem terroryzmu, zwiększenie jakości informacji przekazywanych do JAF oraz usprawnienie procedur postępowania w takich przypadkach. Może też ułatwić wymianę informacji i dokonywanie uzgodnień w konkretnych sprawach.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_45/pkt_11",
+       "text": "W ramach KSPPPFT wskazane jest, aby KBF w wykonywaniu swoich ustawowych zadań był wspierany od strony naukowej przez ciało (radę) zajmujące się proponowaniem rozwiązań w zakresie nowych oraz rozwijanych produktów, usług i technologii, pod kątem ich podatności na wykorzystanie do prania pieniędzy oraz finansowania terroryzmu. Taka rada powinna ściśle współpracować z placówkami badawczymi (tj. uczelniami wyższymi, instytutami badawczymi, innymi jednostkami/ciałami badawczymi w Polsce i na świecie) w ww. zakresie swojej działalności. Rada mogłaby wykonywać swoją działalność również poprzez doraźną działalność opiniodawczo-doradczą w najważniejszych kwestiach dotyczących KSPPPFT oraz proponowałaby KBF zmiany systemowe i organizacyjne.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_45/pkt_12",
+       "text": "Każdy podmiot działający w ramach KSPPPFT powinien być w stanie stosunkowo szybko generować informacje[^21], w szczególności dane statystyczne, potrzebne dla badania efektywności jego działania, jak również funkcjonowania całego systemu (na podstawie jednolitych zasad ich wyliczania/szacowania). Gromadzenie i analizowanie danych statystycznych jest niezwykle istotne nie tylko z punktu widzenia przeprowadzania monitoringu skuteczności działania KSPPPFT. Umożliwia ono zastosowanie właściwych środków ograniczających ryzyko prania pieniędzy i finansowania terroryzmu oraz gwarantuje przekazywanie instytucjom obowiązanym adekwatnych informacji zwrotnych dotyczących użyteczności przekazywanych przez nie zgłoszeń podejrzanych transakcji i działań następczych podejmowanych w ich wyniku.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_45/pkt_13",
+       "text": "Komitet Bezpieczeństwa Finansowego – jako ciało nie tylko opiniodawcze, ale też doradcze przy GIIF – przy wykonywaniu swoich ustawowych zadań (wskazanych w formie katalogu otwartego) mógłby wykonywać nie tylko czynności explicite wskazane w ustawie, lecz także w większym stopniu wspomagać GIIF w identyfikowaniu podatności w obszarze KSPPPFT (nie tylko w kontekście przepisów prawnych), które mogą być wykorzystywane przez przestępców lub sprzyjać ich działalności. Biorąc pod uwagę potencjał merytoryczny członków, KBF mógłby w tym kontekście proponować stosowne środki łagodzące ryzyko prania pieniędzy oraz finansowania terroryzmu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "46",
+     "path": "ust_46",
+     "text": "Zmiany KSPPPFT powinny być przeprowadzane przede wszystkim w 4 płaszczyznach odnoszących się do przepisów prawnych, procedur, szkoleń oraz wykorzystania dokumentów elektronicznych i systemów teleinformatycznych. Ich podstawowym celem powinien być wzrost efektywności funkcjonowania KSPPPFT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "PLAN DZIAŁAŃ",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.1. Priorytety rozwoju KSPPPFT"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "47",
+     "path": "ust_47",
+     "text": "Rozwój KSPPPFT nie powinien być postrzegany jako jednorazowe działanie. Wciąż pojawiające się nowe wyzwania w zakresie zagrożeń i podatności w obszarze prania pieniędzy oraz finansowania terroryzmu stanowią impuls do przeprowadzania kolejnych ocen systemu i identyfikacji następnych celów oraz kierunków zmian. Dlatego też rozwój KSPPPFT jest procesem ciągłym. Krajowa ocena ryzyka i jej kolejne aktualizacje mają za zadanie identyfikowanie tych obszarów systemu, które powinny być zmieniane i dostosowywane do zmieniającej się rzeczywistości, aby tym lepiej przeciwdziałać rozpoznawanym zagrożeniom i podatnościom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "48",
+     "path": "ust_48",
+     "text": "Przedstawione w poprzednim rozdziale założenia i cel główny tworzą punkt wyjścia do identyfikacji priorytetów rozwoju KSPPPFT. Mają one stanowić cele szczegółowe, wskazujące kierunki wymaganych zmian. Te priorytety to:",
+     "children": [
+      {
+       "type": "text",
+       "text": "I. Zwiększenie skuteczności działania JAF i jednostek współpracujących w zakresie analizy informacji poprzez wykorzystanie podejścia opartego na ryzyku."
+      },
+      {
+       "type": "text",
+       "text": "II. Dostosowanie katalogu instytucji obowiązanych i ich obowiązków do pojawiających się zagrożeń oraz potrzeb informacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "III. Harmonizacja i usprawnienie zasad nadzoru i kontroli nad instytucjami obowiązanymi."
+      },
+      {
+       "type": "text",
+       "text": "IV. Optymalizacja trybu, zakresu i jakości wymiany informacji oraz dostępu do informacji."
+      },
+      {
+       "type": "text",
+       "text": "V. Zorganizowanie skutecznego systemu szkoleń oraz wymiany wiedzy i doświadczeń."
+      },
+      {
+       "type": "text",
+       "text": "VI. Określenie jednolitych zasad generowania informacji, w szczególności danych statystycznych potrzebnych do przeprowadzania oceny skuteczności KSPPPFT i jej elementów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "49",
+     "path": "ust_49",
+     "text": "Zaprezentowane powyżej priorytety wynikają zarówno z treści Krajowej oceny ryzyka, jak i dodatkowych informacji na temat zagrożeń i podatności KSPPPFT, które pojawiły się po jej przygotowaniu, a które były m.in. przedmiotem prac KBF",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "50",
+     "path": "ust_50",
+     "text": "Należy zakładać, że osiągnięcie ww. priorytetów zajmie więcej czasu niż 1 rok, w szczególności z uwagi na zakres merytoryczny wskazanych priorytetów, a także na sposób i tryb planowania wydatków z budżetu państwa, które będą wymagane na realizację co najmniej części działań podejmowanych w ich ramach. Jednocześnie zgodnie z art. 25 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu Krajowa ocena ryzyka, stanowiąca podstawę przygotowywania strategii, ma być aktualizowana nie rzadziej niż raz na 2 lata. Dlatego też przyjęto założenie, że realizacja działań w ramach strategii będzie rozłożona na okres co najmniej 2 lat. Z uwagi na to, że będzie ona wchodziła w życie w ciągu roku budżetowego, określono okres realizacji działań na lata 2021–2023.",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.2. Plan działań"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "51",
+     "path": "ust_51",
+     "text": "Poniżej przedstawiono zestawienie działań do realizacji w ramach poszczególnych priorytetów. Działanie określone w ramach każdego z poniżej zawartych priorytetów jest równoznaczne z zaleceniem, o którym mowa w art. 32 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela nr 4 – Działania do realizacji w ramach poszczególnych priorytetów"
+      },
+      {
+       "type": "text",
+       "text": "Priorytet Działanie 1. Optymalizacja działań podejmowanych w JAF w zakresie analiz operacyjnych (poprzez zwiększenie zatrudnienia i zautomatyzowania procesu analizy)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Uaktualnienie procedur prowadzenia analiz i wymiany informacji w JAF. I. Zwiększenie skuteczności 3. Opracowanie planu rozwoju analiz strategicznych w jednostce działania JAF i jednostek analityki finansowej i jego wdrożenie. współpracujących. 4. Wykonanie w ramach organów i instytucji właściwych w sprawach zapobiegania, wykrywania i ścigania przestępstw analizy, czy dysponują adekwatnymi zasobami finansowymi, ludzkimi i technicznymi do wykonywania swoich zadań w zakresie przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu. Podjęcie działań na podstawie przeprowadzonej analizy w ramach jednostek współpracujących.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Uzupełnienie katalogu instytucji obowiązanych zgodnie z propozycjami zawartymi w Krajowej ocenie ryzyka (chodzi przede wszystkim o podmioty świadczące usługi w zakresie finansowania II. Dostosowanie katalogu społecznościowego). instytucji obowiązanych i ich 6. Analiza zasadności zmiany przepisów w zakresie dokonywania obowiązków do lub przyjmowania płatności w gotówce, dotycząca skutków pojawiających się zagrożeń wprowadzenia progu kwoty transakcji gotówkowych dla osób oraz potrzeb informacyjnych. fizycznych i przedsiębiorstw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Aktualizacja przepisów dotyczących walut wirtualnych, w tym rozszerzenie ich definicji, na podstawie standardów FATF dotyczących tzw. virtual assets.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Dokonanie przeglądu i zaproponowanie ewentualnych zmian przepisów prawnych dotyczących stowarzyszeń i fundacji, umożliwiających właściwym organom realne działania nadzorcze nad nimi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Stworzenie narzędzi umożliwiających klarowne identyfikowanie i nadzorowanie podmiotów działających na rynku, spełniających warunki bycia instytucjami obowiązanymi (dotyczy to przede wszystkim tych instytucji obowiązanych, które nie podlegają specyficznym obowiązkom rejestracji czy uzyskania licencji). III. Harmonizacja i usprawnienie 10. Przygotowanie propozycji zmiany przepisów w zakresie zasad zasad nadzoru i kontroli nad nadzoru branżowego (sektor niefinansowy) – dotyczącej weryfikacji instytucjami obowiązanymi. zaangażowania instytucji obowiązanych w przestrzeganie przepisów z zakresu przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Wprowadzenie klarownych przepisów dotyczących prowadzenia przez GIIF kontroli typu off-site w instytucjach obowiązanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Ponowne zainicjowanie prac nad projektem ustawy o zmianie ustawy – Prawo dewizowe oraz ustawy o usługach płatniczych, przewidujących objęcie nadzorem branżowym tzw. kantorów internetowych oraz dostosowanie zasad kontroli nad podmiotami prowadzącymi działalność kantorową do kontroli innych podmiotów z sektora finansowego (m.in. w zakresie uchylenia obowiązku informowania kontrolowanej jednostki o zamiarze przeprowadzenia kontroli).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Implementacja przepisów dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/1153 z dnia 20 czerwca 2019 r. ustanawiającej zasady ułatwiające korzystanie z informacji finansowych i innych informacji w celu zapobiegania niektórym przestępstwom, ich wykrywania, prowadzenia dochodzeń w ich sprawie lub ich ścigania oraz uchylającej decyzję Rady 2000/642/WSiSW (Dz. Urz. UE L 186 z 11.07.2019 str. 122), zwanej dalej „dyrektywą 2019/1153”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Uruchomienie pełnej funkcjonalności Systemu Informacji Finansowej oraz zapewnienie dostępu do tej bazy dla organów ścigania i wymiaru sprawiedliwości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Dokończenie prac nad rozporządzeniami wykonawczymi i wzorami dokumentów elektronicznych, o których jest mowa w art. 79, art. 84, art. 93,art. 94 i art. 109 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, a także wprowadzenie ich w życie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Poprawa czasu, zakresu i sposobu dostępu JAF do baz danych, administrowanych przez jednostki współpracujące (z wyłączeniem baz danych służb specjalnych, o ile nie zawierają informacji IV. Optymalizacja trybu, zakresu istotnych dla przeciwdziałania praniu pieniędzy i finansowaniu i jakości wymiany informacji terroryzmu - na podstawie dokonanej weryfikacji istniejących baz oraz dostępu do informacji. danych i analizy przepisów prawnych określających dostęp do nich), mająca na celu zwiększenie efektywności przeprowadzanych przez JAF analiz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Przygotowanie koncepcji wymiany informacji pomiędzy JAF a jednostkami współpracującymi (w szczególności organami ścigania) za pomocą systemu teleinformatycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Przeanalizowanie możliwości prawnych, finansowych i organizacyjnych budowy systemu teleinformatycznego, służącego do prowadzenia bezpiecznej korespondencji pomiędzy JAF i jednostkami współpracującymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Przygotowanie propozycji zmiany przepisów w zakresie wymiany informacji o klientach pomiędzy instytucjami obowiązanymi, a także pomiędzy instytucjami obowiązanymi a organami ścigania, organami nadzoru, KAS i JAF przy jednoczesnym zachowaniu bezpieczeństwa wymiany tych informacji – umożliwienie zawierania bilateralnych porozumień pomiędzy instytucjami obowiązanymi, na podstawie których będzie dokonywana wymiana informacji realizowana pomiędzy nimi za obopólną zgodą zaangażowanych instytucji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "Opracowanie planów/programów szkoleń dla pracowników JAF w zakresie prowadzenia analiz operacyjnych i strategicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Opracowanie planów/programów szkoleń dla pracowników instytucji obowiązanych w zakresie rozpoznawania transakcji i działań mających związek z praniem pieniędzy lub finansowaniem V. Zorganizowanie skutecznego terroryzmu. systemu szkoleń oraz 22. Opracowanie zaleceń i rekomendacji do planów szkoleń dla organów wymiany wiedzy i ścigania w zakresie prowadzenia dochodzeń finansowych. doświadczeń. 23. Przygotowanie nowej edycji poradnika dla pracowników instytucji obowiązanych i jednostek współpracujących dotyczącego przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu. 24. Wypracowanie koncepcji funkcjonowania rady działającej w ramach KSPPPFT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Wypracowanie założeń pod budowę platformy szkoleniowej (forum eksperckiego), służącej wymianie wiedzy i doświadczeń pomiędzy JAF, jednostkami współpracującymi i instytucjami obowiązanymi w zakresie przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "Opracowanie metodyki gromadzenia informacji i generowania VI. Określenie jednolitych zasad danych statystycznych przez JAF oraz jednostki współpracujące, generowania danych służących do badania efektywności KSPPPFT[^22]. statystycznych potrzebnych 27. Przygotowanie koncepcji zmiany przepisów w zakresie do przeprowadzania oceny wprowadzenia obowiązku prowadzenia księgi ewidencyjnej skuteczności KSPPPFT i jej zabytków przyjętych lub oferowanych do zbycia (art. 59a ustawy elementów. z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami[^23]) w formie elektronicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "52",
+     "path": "ust_52",
+     "text": "W celu prawidłowej realizacji priorytetów istotne jest wskazanie ram czasowych realizacji działań, a także organów i jednostek administracji publicznej odpowiedzialnych za nie. W poniższej tabeli zawarto informacje na ten temat.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tabela nr 5 – Plan realizacji działań"
+      },
+      {
+       "type": "text",
+       "text": "Priorytet nr I - Zwiększenie skuteczności działania jednostki analityki finansowej i jednostek współpracujących"
+      },
+      {
+       "type": "text",
+       "text": "Organ/jednostka Organy/jednostki Działanie odpowiedzialna wspomagające realizację Czas realizacji[^24] za realizację 1. Optymalizacja działań podejmowanych w JAF w zakresie analiz operacyjnych GIIF KBF, MF 2023 r. (poprzez zwiększenie zatrudnienia i zautomatyzowania procesu analizy)."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Uaktualnienie procedur prowadzenia analiz i wymiany GIIF - 2022 r. informacji w JAF.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Opracowanie planu rozwoju analiz strategicznych w JAF i GIIF - 2023 r. jego wdrożenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Wykonanie w ramach MF, organów i instytucji właściwych Minister w sprawach zapobiegania, Koordynator wykrywania i ścigania Służb przestępstw analizy, czy Specjalnych, Policja, CBA, ABW, AW, dysponują adekwatnymi MON, MSWiA SKW, SWW, ŻW, SG, 2021 r. zasobami finansowymi, ludzkimi (w zakresie UKNF, KAS i technicznymi do wykonywania posiadanych swoich zadań w zakresie uprawnień przeciwdziałania praniu nadzorczych) pieniędzy i finansowaniu terroryzmu. Podjęcie działań na podstawie przeprowadzonej analizy w ramach jednostek współpracujących. Priorytet nr II - Dostosowanie katalogu instytucji obowiązanych i ich obowiązków do pojawiających się zagrożeń oraz potrzeb informacyjnych Organ/jednostka Organy/jednostki Działanie odpowiedzialna wspomagające realizację Czas realizacji za realizację 5. Uzupełnienie katalogu instytucji obowiązanych zgodnie z propozycjami zawartymi w Krajowej ocenie ryzyka GIIF KBF, MF, UKNF, NBP 2022 r. (chodzi przede wszystkim o podmioty świadczące usługi w zakresie finansowania społecznościowego).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Analiza zasadności zmiany przepisów w zakresie dokonywania lub przyjmowania płatności w gotówce, dotycząca MF MRPiT, MS , UKNF, NBP 2022 r. skutków wprowadzenia progu kwoty transakcji gotówkowych dla osób fizycznych i przedsiębiorstw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Aktualizacja przepisów dotyczących walut wirtualnych, w tym rozszerzenie ich definicji, GIIF MS, MSWiA, UKNF, 2022 r. na podstawie standardów FATF KAS, NBP dotyczących tzw. virtual assets.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Priorytet nr III – Harmonizacja i usprawnienie zasad nadzoru i kontroli nad instytucjami obowiązanymi Organ/jednostka Organy/jednostki Działanie odpowiedzialna wspomagające realizację Czas realizacji za realizację 8. Dokonanie przeglądu i zaproponowanie ewentualnych zmian przepisów prawnych GIIF, MSWiA, MF, dotyczących stowarzyszeń MS Przewodniczący Komitetu 2022 r. i fundacji, umożliwiających ds. Pożytku Publicznego właściwym organom realne działania nadzorcze nad nimi."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Stworzenie narzędzi umożliwiających klarowne identyfikowanie i nadzorowanie podmiotów działających na rynku spełniających warunki bycia instytucjami GIIF KAS 2022 r. obowiązanymi (dotyczy to przede wszystkim tych instytucji obowiązanych, które nie podlegają specyficznym obowiązkom rejestracji czy uzyskania licencji).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Przygotowanie propozycji GIIF MF, MS, MRPiT 2022 r. zmiany przepisów w zakresie zasad nadzoru branżowego (sektor niefinansowy) – dotyczącej weryfikacji zaangażowania instytucji obowiązanych w przestrzeganie przepisów z zakresu przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Wprowadzenie klarownych przepisów dotyczących prowadzenia przez GIIF kontroli GIIF - 2022 r. typu off-site w instytucjach obowiązanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Ponowne zainicjowanie prac nad projektem ustawy o zmianie ustawy – Prawo dewizowe oraz ustawy o usługach płatniczych, przewidujących objęcie nadzorem branżowym tzw. kantorów internetowych oraz dostosowanie zasad kontroli nad MF GIIF, UKNF, NBP 2022 r. podmiotami prowadzącymi działalność kantorową do kontroli innych podmiotów z sektora finansowego (m.in. w zakresie uchylenia obowiązku informowania kontrolowanej jednostki o zamiarze przeprowadzenia kontroli). Priorytet nr IV - Optymalizacja trybu, zakresu i jakości wymiany informacji oraz dostępu do informacji Organ/jednostka Organy/jednostki Działanie odpowiedzialna wspomagające realizację Czas realizacji za realizację 13. Implementacja przepisów MSWiA, GIIF, KAS, MS, dyrektywy 2019/1153. MF Policja, ABW, SKW, 2021 r. CBA, ŻW, SG 14. Uruchomienie pełnej funkcjonalności Systemu Informacji Finansowej oraz MF GIIF 2021 r. zapewnienie dostępu do tej bazy dla organów ścigania i wymiaru sprawiedliwości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Dokończenie prac nad rozporządzeniami wykonawczymi i wzorami dokumentów elektronicznych, o których jest mowa w art. 79, GIIF MF 2022 r. art. 84, art. 93,art. 94 i art. 109 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Poprawa czasu, zakresu i KAS, Policja, ABW, sposobu dostępu JAF do baz GIIF CBA, SG, ŻW, MS, 2023 r. danych, administrowanych przez MSWiA jednostki współpracujące (z wyłączeniem baz danych służb specjalnych, o ile nie zawierają informacji istotnych dla przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu - na podstawie dokonanej weryfikacji istniejących baz danych i analizy przepisów prawnych określających dostęp do nich), mająca na celu zwiększenie efektywności przeprowadzanych przez JAF analiz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "Przygotowanie koncepcji wymiany informacji pomiędzy JAF a jednostkami KAS, Policja, ABW, współpracującymi (w GIIF CBA, SG, ŻW, MS, 2022 r. szczególności organami MSWiA ścigania) za pomocą systemu teleinformatycznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Przeanalizowanie możliwości prawnych, finansowych i organizacyjnych GIIF, KAS, Policja, ABW, budowy systemu MF CBA, SG, ŻW, MS, 2022 r. teleinformatycznego, służącego MSWiA do prowadzenia bezpiecznej korespondencji pomiędzy JAF i jednostkami współpracującymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "Przygotowanie propozycji zmiany przepisów w zakresie wymiany informacji o klientach pomiędzy instytucjami obowiązanymi, a także pomiędzy instytucjami obowiązanymi a organami ścigania, organami nadzoru, KAS i JAF przy jednoczesnym zachowaniu GIIF KAS, Policja, ABW, SG, 2023 r. bezpieczeństwa wymiany tych ŻW, MS, MSWiA, CBA informacji – umożliwienie zawierania bilateralnych porozumień pomiędzy ww. instytucjami, na podstawie których będzie dokonywana wymiana informacji, realizowana za obopólną zgodą zaangażowanych instytucji. Priorytet nr V - Zorganizowanie skutecznego systemu szkoleń oraz wymiany wiedzy i doświadczeń Organ/jednostka Organy/jednostki Działanie odpowiedzialna wspomagające realizację Czas realizacji za realizację 20. Opracowanie planów / programów szkoleń dla pracowników JAF w zakresie GIIF KBF 2022 r. prowadzenia analiz operacyjnych i strategicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "Opracowanie planów / programów szkoleń dla pracowników instytucji obowiązanych w zakresie GIIF MF, KAS, CBA, Policja, 2022 r. rozpoznawania transakcji SG, ŻW, UKNF, NBP i działań mających związek z praniem pieniędzy lub finansowaniem terroryzmu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "Opracowanie zaleceń i rekomendacji do planów szkoleń MF, KAS, CBA, Policja, dla organów ścigania w zakresie MS SG, ŻW, ABW 2022 r. prowadzenia dochodzeń finansowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "Przygotowanie nowej edycji poradnika dla pracowników instytucji obowiązanych i jednostek współpracujących GIIF KBF 2022 r. dotyczącego przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "Wypracowanie koncepcji funkcjonowania rady działającej MF GIIF 2022 r. w ramach KSPPPFT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "Wypracowanie założeń pod budowę platformy szkoleniowej (forum eksperckiego), służącej wymianie wiedzy i doświadczeń pomiędzy JAF, jednostkami GIIF CBA, SG, Policja, ŻW, 2023 r. współpracującymi i instytucjami ABW, KAS, MSWiA obowiązanymi na temat przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu. Priorytet nr VI - Określenie jednolitych zasad generowania danych statystycznych potrzebnych do przeprowadzania oceny skuteczności KSPPPFT i jej elementów Organ/jednostka Organy/jednostki Działanie odpowiedzialna wspomagające realizację Czas realizacji za realizację 26. Opracowanie metodyki gromadzenia danych statystycznych przez JAF oraz MS, PK, GUS, CBA, SG, jednostki współpracujące, GIIF Policja, ŻW, ABW, KAS, 2022 r. służących do badania SKW, UKNF, NBP efektywności KSPPPFT.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "Przygotowanie koncepcji zmiany przepisów w zakresie wprowadzenia obowiązku prowadzenia księgi ewidencyjnej zabytków przyjętych lub GIIF KAS 2022 r. oferowanych do zbycia (art. 59a ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami) w formie elektronicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "53",
+     "path": "ust_53",
+     "text": "Organ odpowiedzialny za realizację danego działania może – za zgodą GIIF – podjąć współpracę z innymi podmiotami niż wskazane w tabeli jako wspomagające w celu wykonania działania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "54",
+     "path": "ust_54",
+     "text": "Obowiązek przygotowania harmonogramów wykonania poszczególnych działań spoczywa na organach i jednostkach odpowiedzialnych za ich realizację. W przypadku wystąpienia trudności w realizacji danego działania w określonym czasie organy i jednostki odpowiedzialne za realizację tego działania, realizują je w najkrótszym możliwym terminie, przy czym ostateczny termin zrealizowania działania nie może wykroczyć poza czas realizacji całej strategii.",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.3. Rekomendacja"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "55",
+     "path": "ust_55",
+     "text": "W celu efektywnego działania zarówno JAF, jak i jednostki współpracujące, sprawujące nadzór nad instytucjami obowiązanymi[^25] powinny dysponować odpowiednimi zasobami kadrowymi i finansowymi. Na tę kwestię zwrócono uwagę m.in. w dyrektywie 2015/849, która zobowiązuje państwa członkowskie, aby właściwe organy dysponowały adekwatnymi zasobami finansowymi, ludzkimi i technicznymi do wykonywania swoich zadań. Informacje o zasobach ludzkich przydzielonych właściwym organom odpowiedzialnym za nadzór w zakresie przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu oraz informacje o zasobach ludzkich przydzielonych jednostkom analityki finansowej w celu wypełnienia ich zadań są elementem corocznie przekazywanych Komisji statystyk, które następnie są udostępniane na jej stronie internetowej. Kwestia dysponowania przez państwo członkowskie odpowiednimi zasobami kadrowymi i finansowymi jest poruszana również w ponadnarodowej ocenie ryzyka prania pieniędzy oraz finansowania terroryzmu[^26]. Dlatego też jest niezwykle istotne, aby JAF oraz wspomniane jednostki współpracujące periodycznie przeprowadzały ocenę swoich zasobów kadrowych i finansowych przeznaczonych dla przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu pod kątem ich adekwatności do zakresu ich obowiązków. Wyniki tej oceny – wraz z informacjami statystycznymi dotyczącymi tych zasobów – ww. jednostki współpracujące powinny udostępniać GIIF.",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.4. Finansowanie realizacji działań"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "56",
+     "path": "ust_56",
+     "text": "Działania wymagające nakładów finansowych, odnoszące się do zapewnienia odpowiednich zasobów kadrowych i technicznych (w tym dotyczące budowy i rozwoju systemów teleinformatycznych) będą generalnie finansowane przez poszczególne organy i jednostki administracji publicznej, odpowiedzialne za ich realizację, w ramach limitów wydatków określonych dla części budżetu państwa odpowiadających ich zakresowi działania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "57",
+     "path": "ust_57",
+     "text": "Część działań wskazanych do realizacji nie będzie generować kosztów. Dotyczy to przede wszystkim tych o charakterze analitycznym i koncepcyjnym, a także związanych z projektowaniem przepisów prawnych. Realizacja określonych w strategii priorytetów pozwoli na ograniczenie ryzyka związanego z praniem pieniędzy oraz finansowaniem terroryzmu. Tym samym zwiększy się zdolność państwa do zapewnienia odpowiedniego stopnia bezpieczeństwa w obszarze bezpieczeństwa państwa i obywateli oraz bezpieczeństwa gospodarczego. Plan działań strategii przewiduje podjęcie kroków, mających na celu usprawnienie krajowego systemu przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu, przede wszystkim poprzez uzgodnienia i przygotowanie koncepcji, przeglądy, zmiany i uaktualnienia przepisów czy wypracowanie założeń dla wprowadzenia mechanizmów optymalizujących ten system. Dopiero sam wynik niektórych działań przewidzianych w strategii w postaci przyjętych realnych planów realizacji może ewentualnie wymagać nakładów finansowych. Realizacja zadań strategii powinna mieć priorytetowy charakter w kontekście zabezpieczenia interesów ekonomicznych oraz bezpieczeństwa państwa i ich finansowanie powinno mieć również taki charakter. Skutki finansowe będą jednak skonkretyzowane nie wcześniej, niż zrealizowany konkretny punkt planu działania strategii. Sama strategia może również podlegać aktualizacji z uwagi na zmiany krajowej oceny ryzyka prania pieniędzy i finansowania terroryzmu lub gdy wymaga tego wdrożenie zaleceń Komisji Europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "MONITOROWANIE REALIZACJI PLANU DZIAŁAŃ",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "58",
+     "path": "ust_58",
+     "text": "Za prawidłowe monitorowanie realizacji priorytetów niniejszej strategii, w tym monitorowanie realizacji wynikających z niej zaleceń (o których mowa w art. 32 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu), odpowiada GIIF. Kierownicy poszczególnych organów i jednostek, będących jednostkami współpracującymi, odpowiednio wskazani w planie działań strategii (vide: tabela nr 5) jako podmioty odpowiadające za realizację poszczególnych działań (tj. podmioty wiodące), są odpowiedzialni za ich wykonanie. Jednostki współpracujące wskazane w ww. planie jako organy i jednostki wspomagające realizację działań współpracują z podmiotem wiodącym przy wykonywaniu poszczególnych działań w ramach każdego z priorytetów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "59",
+     "path": "ust_59",
+     "text": "GIIF odpowiada za monitorowanie realizacji strategii. Na podstawie art. 32 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "jednostki współpracujące, będące organami administracji rządowej przekazują do • GIIF informacje o podjętych działaniach wynikających z zaleceń zawartych w strategii,"
+      },
+      {
+       "type": "text",
+       "text": "jednostki współpracujące, niebędące organami administracji rządowej przekazują • do GIIF informacje o sposobie wykorzystania zaleceń zawartych w strategii"
+      },
+      {
+       "type": "text",
+       "text": "– co najmniej raz na 6 miesięcy od dnia jej ogłoszenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "60",
+     "path": "ust_60",
+     "text": "Zgodnie z treścią art. 19 ust. 2 pkt 3 ww. ustawy KBF wspomaga GIIF przy wykonywaniu obowiązku monitorowania realizacji strategii poprzez dokonywanie przeglądu postępów w jej realizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "61",
+     "path": "ust_61",
+     "text": "Organy i jednostki odpowiedzialne za realizację poszczególnych działań, wskazanych w podrozdziale 3.2., przekazują do GIIF na piśmie, w terminie do dnia 21 stycznia oraz do dnia 21 lipca każdego roku kalendarzowego obowiązywania niniejszej strategii, informację o stanie ich realizacji. W terminie miesiąca od dnia zakończenia każdego roku kalendarzowego jednostki współpracujące przekazują do GIIF informację o wynikach oceny swoich zasobów kadrowych i finansowych przeznaczonych dla przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "62",
+     "path": "ust_62",
+     "text": "Przy ocenie stopnia realizacji strategii bierze się pod uwagę następujące współczynniki odnoszące się do podjętych i zakończonych działań:",
+     "children": [
+      {
+       "type": "text",
+       "text": "współczynnik podjętych działań – W = (L /L )*100, gdzie L oznacza liczbę podjętych do realizacji działań, a L WD liczbę wszystkich działań przewidzianych w strategii,"
+      },
+      {
+       "type": "text",
+       "text": "współczynnik zrealizowanych działań – W = (L /L )*100, gdzie L oznacza liczbę zrealizowanych działań, a L WD liczbę podjętych do realizacji działań."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "63",
+     "path": "ust_63",
+     "text": "Podsumowanie stopnia realizacji planu działań oraz rekomendacji zawartych w strategii w każdym roku kalendarzowym jest przedstawiane przez GIIF podczas pierwszego posiedzenia KBF w następnym roku kalendarzowym jako punkt przeglądu postępów w realizacji strategii. W przypadku gdy w wyniku dokonanego przez KBF przeglądu postępów w realizacji strategii okaże się, że któreś działanie – bez wskazania przyczyn obiektywnych – nie jest realizowane zgodnie z planem, KBF może w drodze uchwały zarekomendować Przewodniczącemu KBF podjęcie działań w celu wyjaśnienia opóźnienia w realizacji tego zadania przez organ lub jednostkę odpowiedzialną za jego realizację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "64",
+     "path": "ust_64",
+     "text": "Stopień osiągnięcia podstawowego celu, jakim jest wzrost efektywności funkcjonowania KSPPPFT, będzie mierzony przy opracowywaniu aktualizacji Krajowej oceny ryzyka prania pieniędzy oraz finansowania terroryzmu, zgodnie z jej metodyką.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Warszawa 2021 r."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Z wyjątkiem przepisu wprowadzającego zmianę do dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/849 z dnia 20 maja 2015 r. w sprawie zapobiegania wykorzystywaniu systemu finansowego do prania pieniędzy lub finansowania terroryzmu, zmieniającej rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 i uchylającej dyrektywę Parlamentu Europejskiego i Rady 2005/60/WE oraz dyrektywę Komisji 2006/70/WE (Dz. Urz. UE L 141 z 05.06.2015, str. 73) w postaci art. 32a, którego treść jest podstawą prac nad stworzeniem Systemu Informacji Finansowej (SInF).",
+  "2": "Ocena tzw. ryzyka podstawowego (odrębna dla prania pieniędzy oraz finansowania terroryzmu) bazuje w szczególności na ocenie zagrożeń związanych z produktami i usługami oferowanymi na rynku, szacunkach wartości majątkowych podlegających praniu czy będących przedmiotem finansowania terroryzmu, informacjach o sposobie funkcjonowania organów wchodzących w skład KSPPPFT, danych statystycznych dotyczących ich działalności, a także przepisach prawnych i ich stosowaniu.",
+  "3": "Ocena tzw. ryzyka szczątkowego (również odrębna dla prania pieniędzy oraz finansowania terroryzmu) bazuje na ocenie poziomów zagrożenia, podatności i prawdopodobieństwa oszacowanych dla poszczególnych scenariuszy ryzyka (zawierających modi operandi prania pieniędzy oraz finansowania terroryzmu), przedstawionych w aneksach nr 2 i 3 do Krajowej oceny ryzyka.",
+  "4": "Zgodnie z przyjętą metodyką Krajowej oceny ryzyka poziomy zagrożenia, podatności, prawdopodobieństwa, konsekwencji oraz ryzyka były szacowane w ramach 4-stopniowej skali.",
+  "5": "Od dnia 3 czerwca 2021 r. będzie stosowane nowe rozporządzenie Parlamentu Europejskiego i Rady (UE) 2018/1672 z dnia 23 października 2018 r. w sprawie kontroli środków pieniężnych wwożonych do Unii lub wywożonych z Unii oraz uchylające rozporządzenie (WE) nr 1889/2005 (Dz. Urz. UE L 284 z 12.11.2018, str. 6). Na podstawie tego rozporządzenia przygotowywany jest akt wykonawczy z nowymi, jednolitymi dla wszystkich krajów członkowskich UE formularzami: deklaracji środków pieniężnych (w przypadku fizycznego przewozu środków pieniężnych przez granicę z wykorzystaniem osób fizycznych) oraz zgłoszeń ujawniających (w przypadku fizycznego przewozu środków pieniężnych przez granicę z wykorzystaniem usług kurierskich i pocztowych). Dane z powyższych nowych formularzy będą przekazywane JAF państwa członkowskiego, w którym zostały uzyskane. JAF danego państwa członkowskiego będzie wymieniała takie informacje z odpowiednimi JAF innych państw członkowskich.",
+  "6": "Zmodyfikowanej dyrektywą 2018/843.",
+  "7": "W przypadku wymiany informacji zawierających dane osobowe, ich przetwarzanie odbywa się na podstawie i w granicach prawa, z poszanowaniem zasad ochrony danych osobowych. • • • • • • • •",
+  "8": "Sprawozdanie Komisji dla Parlamentu Europejskiego i Rady w sprawie oceny ryzyka związanego z praniem pieniędzy i finansowaniem terroryzmu, które ma wpływ na rynek wewnętrzny i dotyczy działalności transgranicznej, Bruksela, 24 lipca 2019 r. s. 9 (na: https://op.europa.eu/en/publication-detail/- /publication/0b2ecb04-aef4-11e9-9d01-01aa75ed71a1/language-en).",
+  "9": "Tj. instytucje obowiązane, o których mowa w art. 2 ust. 1 pkt 21, 22 i 23 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.",
+  "10": "Działania w tym zakresie objęte są treścią Priorytetu IV Planu działań pn. „Optymalizacja trybu, zakresu i jakości wymiany informacji oraz dostępu do informacji.”.",
+  "11": "W rozumieniu art. 32a ust. 1 dyrektywy 2015/849, wprowadzonego przywołaną dyrektywą.",
+  "12": "Ognivo zawiera też „moduł do obsługi sądów i prokuratur – pozwala on organom sprawiedliwości pozyskiwać dane chronione tajemnicą bankową, które mogą stanowić materiał dowodowy lub umożliwić realizację zabezpieczenia majątkowego. Są to m.in. informacje o posiadaniu konta w danym banku i wysokości jego salda w dniu złożenia zapytania. Zapytania te mogą dotyczyć osób prawnych lub fizycznych, wobec których prowadzone są postępowania przygotowawcze”. Źródło: https://www.banki.kir.pl/ognivo/moduly-systemu/ (dostęp 06.12.2020 r.)",
+  "13": "Sprawozdanie Komisji dla Parlamentu Europejskiego i Rady w sprawie oceny ryzyka związanego z praniem pieniędzy i finansowaniem terroryzmu, które ma wpływ na rynek wewnętrzny i dotyczy działalności transgranicznej, Bruksela, 24 lipca 2019 r., s. 20 (na: https://op.europa.eu/en/publication-detail/- /publication/0b2ecb04-aef4-11e9-9d01-01aa75ed71a1/language-en).",
+  "14": "Istnieją pewne restrykcje wynikające z przepisów podatkowych. Zgodnie z art. 15d ustawy z 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, z późn. zm.) oraz art. 22p ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2020 r. poz. 1426, z późn. zm.) podatnik nie zalicza do kosztów uzyskania przychodów kosztu w tej części, w jakiej płatność dotycząca transakcji określonej w art. 19 ustawy – Prawo przedsiębiorców została dokonana bez pośrednictwa rachunku płatniczego. W przypadku braku możliwości zmniejszenia kosztów uzyskania przychodów – podatnik ma obowiązek zwiększyć odpowiednio przychody w miesiącu, w którym została dokonana powyższa płatność.",
+  "15": "Krajowa ocena ryzyka prania pieniędzy oraz finansowania terroryzmu, Ministerstwo Finansów, 2019 r., s. 152.",
+  "16": "Zgodnie z ww. Sprawozdaniem Komisji Europejskiej szkolenia dla instytucji obowiązanych mają odnosić się też do ryzyka ich infiltracji lub przejęcia na własność przez grupy przestępczości zorganizowanej.",
+  "17": "W przypadku CBŚP zbliżoną rolę odgrywają już koordynatorzy, odpowiedzialni za problematykę ujawniania i zabezpieczania mienia, których – zgodnie z informacjami przedstawionymi w Krajowej ocenie ryzyka – było 62 wg stanu na 26 listopada 2018 r. (vide: załącznik nr 5 do Krajowej oceny ryzyka, s. 23-24). Z kolei, w prokuraturach rejonowych i okręgowych działają wydziały do spraw przestępczości gospodarczej, a w niektórych także wydziały do spraw przestępczości finansowo-skarbowej (vide: załącznik nr 5 do Krajowej oceny ryzyka, s. 9-10).",
+  "18": "Warto przypomnieć, że zgodnie z art. 44 ust. 2 lit. e dyrektywy 2015/849 państwa członkowskie UE mają być zdolne do prowadzenia przeglądów skuteczności swoich systemów zwalczania prania pieniędzy lub finansowania terroryzmu poprzez prowadzenie kompleksowych statystyk m.in. dotyczących zasobów ludzkich przydzielonych właściwym organom odpowiedzialnym za nadzór w zakresie przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu oraz jednostkom analityki finansowej w celu wypełnienia zadań określonych w art. 32 tej dyrektywy.",
+  "19": "Sprawozdanie Komisji dla Parlamentu Europejskiego i Rady w sprawie oceny ryzyka związanego z praniem pieniędzy i finansowaniem terroryzmu, które ma wpływ na rynek wewnętrzny i dotyczy działalności transgranicznej, Bruksela, 24 lipca 2019 r., s. 9, 16 i 23 (na: https://op.europa.eu/en/publication-detail/- /publication/0b2ecb04-aef4-11e9-9d01-01aa75ed71a1/language-en).",
+  "20": "Np. na podobieństwo treści Aneksu nr 2 (scenariusze ryzyka prania pieniędzy) i Aneksu nr 3 (scenariusze ryzyka finansowania terroryzmu) do Krajowej oceny ryzyka.",
+  "21": "Na rynku sztuki przykładem konieczności szybkiego generowania informacji mających na celu poprawę efektywności działania KSPPPFT jest propozycja zmiany formy prowadzenia księgi ewidencyjnej zabytków przyjętych lub oferowanych do zbycia. Aktualnie zgodnie z treścią art. 59a ust. 1 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2021 r. poz. 710), podmiot gospodarczy wyspecjalizowany w zakresie obrotu zabytkami na terytorium Rzeczypospolitej Polskiej, jest obowiązany do prowadzenia księgi ewidencyjnej zabytków przyjętych lub oferowanych do zbycia, zarówno na własną rzecz, jak i na rzecz innych osób, o wartości przekraczającej 10 000 zł, a także ekspertyz wydanych przez ten podmiot, w szczególności ocen wskazujących czas powstania zabytku i wycen zabytku, o których mowa w art. 59 ust. 3 pkt 1 i 2. Jednakże dotychczasowa papierowa forma prowadzenia przedmiotowej księgi ewidencyjnej utrudnia wykorzystanie jej jako mechanizmu kontroli rynku sztuki do celów analitycznych i monitoringu tego rynku. Wprowadzenie obowiązku prowadzenia księgi ewidencyjnej w wersji elektronicznej ułatwiłoby kontrolowanie transakcji pod kątem prania brudnych pieniędzy i finansowania terroryzmu.",
+  "22": "Na podstawie art. 44 ust. 1 dyrektywy 2015/849, w brzmieniu zmienionym dyrektywą 2018/843, państwa członkowskie zapewniają, aby – na potrzeby udziału w przygotowaniu oceny ryzyka – były zdolne do prowadzenia przeglądów skuteczności swoich systemów zwalczania prania pieniędzy lub finansowania terroryzmu poprzez prowadzenie kompleksowych statystyk dotyczących kwestii istotnych dla skuteczności takich systemów.",
+  "23": "Dz. U. z 2021 r. poz. 710.",
+  "24": "Do końca wskazanego roku.",
+  "25": "Tj. te, o których mowa w art. 130 ust. 2 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.",
+  "26": "Sprawozdanie Komisji dla Parlamentu Europejskiego i Rady w sprawie oceny ryzyka związanego z praniem pieniędzy i finansowaniem terroryzmu, które ma wpływ na rynek wewnętrzny i dotyczy działalności transgranicznej, Bruksela, 24 lipca 2019 r., s. 18 (na: https://op.europa.eu/en/publication-detail/- /publication/0b2ecb04-aef4-11e9-9d01-01aa75ed71a1/language-en). • PD PD WD PD • ZD ZD PD ZD"
+ }
+}

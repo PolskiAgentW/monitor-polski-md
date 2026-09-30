@@ -1,0 +1,279 @@
+{
+ "eli": "MP/2024/23",
+ "title": "Zarządzenie nr 6 Prezesa Rady Ministrów z dnia 15 stycznia 2024 r. w sprawie nadania statutu Ministerstwu Aktywów Państwowych",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/23/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 6"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 stycznia 2024 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Aktywów Państwowych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2022 r. poz. 1188 oraz z 2023 r. poz. 1195, 1234 i 1641) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Aktywów Państwowych nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie nr 346 Prezesa Rady Ministrów z dnia 27 października 2022 r. w sprawie nadania statutu Ministerstwu Aktywów Państwowych (M.P. poz. 1041 i 1170 oraz z 2023 r. poz. 1362).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 6 Prezesa Rady Ministrów z dnia 15 stycznia 2024 r. (M.P. poz. 23)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA AKTYWÓW PAŃSTWOWYCH"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Aktywów Państwowych zapewnia obsługę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/pkt_1",
+       "text": "Ministra Aktywów Państwowych właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Aktywów Państwowych (Dz. U. poz. 2724), do spraw objętych działami administracji rządowej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/pkt_1/lit_a",
+         "text": "aktywa państwowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/pkt_1/lit_b",
+         "text": "łączność;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/pkt_2",
+       "text": "Ministra Przemysłu właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 19 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Przemysłu (Dz. U. poz. 2727), do spraw objętych działem administracji rządowej – gospodarka złożami kopalin.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa Aktywów Państwowych wchodzą Gabinet Polityczny Ministra Aktywów Państwowych oraz następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Departament Analiz i Sprawozdawczości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Departament Bezpieczeństwa i Zarządzania Kryzysowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "Departament Budżetu i Finansów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Departament Górnictwa i Hutnictwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "Departament Komunikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "Departament Kontroli i Audytu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "Departament Nadzoru I;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "Departament Nadzoru II;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "Departament Prawny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/pkt_10",
+       "text": "Departament Projektów Strategicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/pkt_11",
+       "text": "Departament Spółek Paliwowo-Energetycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/pkt_12",
+       "text": "Departament Współpracy Międzynarodowej i Funduszy Europejskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/pkt_13",
+       "text": "Biuro Administracyjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/pkt_14",
+       "text": "Biuro Dyrektora Generalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/pkt_15",
+       "text": "Biuro Ministra.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra Aktywów Państwowych w zakresie działu administracji rządowej – aktywa państwowe zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "Departament Analiz i Sprawozdawczości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "Departament Nadzoru I;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "Departament Nadzoru II;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "Departament Projektów Strategicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/pkt_5",
+       "text": "Departament Spółek Paliwowo-Energetycznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Obsługę zadań Ministra Aktywów Państwowych w zakresie działu administracji rządowej – łączność zapewnia w szczególności Departament Nadzoru II.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Obsługę zadań Ministra Przemysłu w zakresie działu administracji rządowej – gospodarka złożami kopalin zapewnia w szczególności Departament Górnictwa i Hutnictwa.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Minister Aktywów Państwowych sprawuje bezpośredni nadzór nad Gabinetem Politycznym Ministra Aktywów Państwowych.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

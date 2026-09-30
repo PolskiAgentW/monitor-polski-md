@@ -1,0 +1,87 @@
+{
+ "eli": "MP/2021/607",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 24 czerwca 2021 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/607/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 czerwca 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2021 r. poz. 483) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 198j:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Posiedzenie komisji lub podkomisji w trybie, o którym mowa w ust. 1, zwołuje przewodniczący komisji. O terminie i porządku dziennym posiedzenia komisji lub podkomisji, w trybie, o którym mowa w ust. 1, przewodniczący komisji zawiadamia Marszałka Sejmu, który może nie wyrazić zgody na odbycie posiedzenia.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "uchyla się ust. 6;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w załączniku w pkt 22 po wyrazie „państwa” dodaje się wyrazy „ , w tym opiniowanie kandydatów na pełnomocnych przedstawicieli Rzeczypospolitej Polskiej w innym państwie lub przy organizacji międzynarodowej”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do posiedzeń komisji i podkomisji zwołanych przed dniem wejścia w życie niniejszej uchwały stosuje się przepisy dotychczasowe.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: E. Witek"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

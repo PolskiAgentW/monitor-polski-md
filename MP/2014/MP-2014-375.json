@@ -1,0 +1,337 @@
+{
+ "eli": "MP/2014/375",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 14 maja 2014 r. zmieniająca uchwałę w sprawie wytycznych dla rejonowych i okręgowych komisji wyborczych, dotyczących trybu i sposobu wykonywania zadań związanych z ustalaniem wyników głosowania w wyborach do Parlamentu Europejskiego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/375/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 maja 2014 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wytycznych dla rejonowych i okręgowych komisji wyborczych, dotyczących trybu i sposobu wykonywania zadań związanych z ustalaniem wyników głosowania w wyborach do Parlamentu Europejskiego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 161 § 1 i 3 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Państwowej Komisji Wyborczej z dnia 24 lutego 2014 r. w sprawie wytycznych dla rejonowych i okręgowych komisji wyborczych, dotyczących trybu i sposobu wykonywania zadań związanych z ustalaniem wyników głosowania w wyborach do Parlamentu Europejskiego (M.P. poz. 202) część V otrzymuje brzmienie określone w załączniku do niniejszej uchwały.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały Państwowej Komisji Wyborczej z dnia 14 maja 2014 r. (poz. 375)",
+   "body": [
+    {
+     "type": "text",
+     "text": "V. Warunki potwierdzające poprawność arytmetyczną danych o wynikach głosowania w obwodzie (rejonie, okręgu wyborczym)"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wymienione niżej warunki muszą być bezwzględnie spełnione; ich niespełnienie dowodzi błędnego ustalenia wyników głosowania w obwodzie lub wadliwego sporządzenia protokołu głosowania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "wszystkie dane liczbowe o wynikach głosowania są liczbami całkowitymi nieujemnymi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "liczba wyborców uprawnionych do głosowania musi być równa sumie liczb wyborców uprawnionych do głosowania umieszczonych w częściach A i B spisu wyborców (wpisanych do spisu wyborców według stanu w chwili zakończenia głosowania);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "suma liczby kart do głosowania wydanych wyborcom i liczby wysłanych pakietów wyborczych nie może być większa od liczby wyborców uprawnionych do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "liczba kart do głosowania wydanych wyborcom musi być równa sumie liczby kart do głosowania wydanych wyborcom ujętym w części A spisu wyborców i liczby kart do głosowania wydanych wyborcom ujętym w części B spisu wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "liczba kart do głosowania wydanych wyborcom ujętym w części A spisu wyborców nie może być większa od liczby wyborców uprawnionych do głosowania ujętych w części A spisu wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "liczba kart do głosowania wydanych wyborcom ujętym w części B spisu wyborców nie może być większa od liczby wyborców uprawnionych do głosowania ujętych w części B spisu wyborców;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "liczba wyborców głosujących przez pełnomocnika w stałych obwodach głosowania utworzonych w kraju nie może być większa od liczby kart do głosowania wydanych wyborcom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "liczba wyborców głosujących przez pełnomocnika w odrębnych obwodach głosowania oraz obwodach głosowania utworzonych za granicą i na polskich statkach morskich musi wynosić 0;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "suma liczby wyborców głosujących przez pełnomocnika i liczby wyborców głosujących na podstawie zaświadczenia o prawie do głosowania nie może przekroczyć liczby wydanych kart do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "w obwodach głosowania niewyznaczonych do głosowania korespondencyjnego we wszystkich pozycjach protokołu głosowania dotyczących głosowania korespondencyjnego musi być wpisana liczba 0;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "liczba otrzymanych kopert zwrotnych nie może być większa od liczby wysłanych pakietów wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "suma liczby kopert zwrotnych bez oświadczenia o osobistym i tajnym oddaniu głosu i liczby kopert z niepodpisanym oświadczeniem nie może być większa od liczby otrzymanych kopert zwrotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_1/pkt_13",
+       "text": "suma liczby kopert zwrotnych bez koperty na kartę do głosowania oraz liczby kopert z niezaklejoną kopertą nie może być większa od liczby otrzymanych kopert zwrotnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_1/pkt_14",
+       "text": "liczba kart do głosowania wyjętych z urny musi być równa sumie liczby kart nieważnych i liczby kart ważnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_1/pkt_15",
+       "text": "liczba kart ważnych wyjętych z urny musi być równa sumie liczby głosów nieważnych z ważnych kart do głosowania i liczby głosów ważnych z ważnych kart do głosowania wyjętych z urny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_1/pkt_16",
+       "text": "liczba głosów ważnych z ważnych kart do głosowania musi być równa sumie liczb głosów ważnych łącznie oddanych na wszystkie listy kandydatów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_1/pkt_17",
+       "text": "jeżeli na liście nie ma kandydatów skreślonych po wydrukowaniu kart do głosowania, liczba głosów ważnych oddanych na listę musi być równa sumie liczb głosów ważnych oddanych na poszczególnych kandydatów z tej listy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_1/pkt_18",
+       "text": "jeżeli na liście jest co najmniej jeden kandydat skreślony po wydrukowaniu kart do głosowania, liczba głosów ważnych oddanych na listę nie może być mniejsza od sumy liczb głosów ważnych oddanych na poszczególnych kandydatów z tej listy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "ust_1/pkt_19",
+       "text": "przy nazwiskach kandydatów skreślonych nie może być wpisana żadna liczba;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_1/pkt_20",
+       "text": "listy, których rejestrację unieważniono, nie otrzymują głosów ważnych; są oznaczone w protokole jako unieważnione;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "ust_1/pkt_21",
+       "text": "liczba w rubryce „Razem” głosów oddanych na kandydatów z listy kandydatów musi być równa sumie liczb głosów oddanych na poszczególnych kandydatów z tej listy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Jeżeli wymienione niżej warunki nie zostały spełnione, co jest możliwe w wyjątkowych okolicznościach, system informatyczny uniemożliwi wydrukowanie protokołu głosowania w obwodzie, zaś obwodowa komisja wyborcza o niespełnieniu określonego warunku musi powiadomić rejonową komisję wyborczą. Dotyczy to następujących warunków:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "liczba wyborców w obwodzie stałym, bez osób dopisanych do spisu na podstawie zaświadczenia o prawie do głosowania, jest większa od 110% lub mniejsza od 90% szacowanej liczby wyborców (liczby wyborców ustalonych w meldunku wyborczym);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "liczba kart do głosowania wyjętych z kopert na karty do głosowania nie może być większa od liczby kopert na karty do głosowania wrzuconych do urny (w obwodach głosowania utworzonych za granicą – do urny na koperty na kartę do głosowania);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "liczba otrzymanych kart do głosowania w obwodach stałych nie powinna odbiegać o więcej niż 10 punktów procentowych od ustalonego dla obwodu nakładu kart do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "liczba wyborców w części B spisu wyborców jest większa od liczby wyborców w części B spisu wyborców podanej w meldunku wyborczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "liczba kart wyjętych z urny pomniejszona o liczbę kart wyjętych z kopert na karty do głosowania nie powinna być większa od liczby wyborców, którym wydano karty do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "liczba kart nieważnych jest różna od zera, a liczba głosów nieważnych równa jest zeru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "suma liczby wydanych przez komisję kart do głosowania i liczby kart niewykorzystanych nie powinna być większa od liczby kart do głosowania otrzymanych przez komisję;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_2/pkt_8",
+       "text": "liczba osób głosujących przez pełnomocnika i liczba osób głosujących na podstawie zaświadczenia nie powinna być równa liczbie wydanych kart do głosowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Jeżeli wymienione niżej warunki nie zostały spełnione, co możliwe jest w wyjątkowych przypadkach, obwodowa komisja wyborcza dołącza do protokołu wydrukowany raport ostrzeżeń podpisany przez wszystkie osoby wchodzące w skład komisji uczestniczące w ustalaniu wyników głosowania. Dotyczy to następujących warunków:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "liczba kart do głosowania otrzymanych przez komisję powinna być równa sumie liczby kart niewykorzystanych oraz liczby wyborców, którym wydano karty do głosowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "liczba kart wyjętych z urny powinna być równa sumie liczby wyborców, którym wydano karty do głosowania, i liczby kopert na kartę do głosowania wrzuconych do urny (w obwodach głosowania utworzonych za granicą – do urny na koperty na kartę do głosowania);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "liczba kart nieważnych powinna wynosić 0;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "liczba kart ważnych wyjętych z urny nie powinna być większa od sumy liczby wyborców, którym wydano karty do głosowania, i liczby wysłanych pakietów wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "liczba kopert na kartę do głosowania wrzuconych do urny (w obwodach głosowania utworzonych za granicą – do urny na koperty na kartę do głosowania) nie powinna być większa niż liczba otrzymanych kopert zwrotnych pomniejszona o liczbę kopert zwrotnych niespełniających warunków (brak oświadczenia o osobistym i tajnym oddaniu głosu lub oświadczenie nie zostało podpisane, niezaklejona koperta na kartę do głosowania, brak koperty na kartę do głosowania);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "liczba kart do głosowania wyjętych z kopert na karty do głosowania nie powinna być większa od liczby wysłanych pakietów wyborczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "liczba kart ważnych wyjętych z urny nie powinna być większa od liczby wyborców uprawnionych do głosowania.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529 oraz z 2014 r. poz. 179 i 180."
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "eli": "MP/2021/492",
+ "title": "Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 24 maja 2021 r. w sprawie ogłoszenia kwot, o których mowa w art. 38 i art. 38a ustawy o finansach publicznych",
+ "converter": "eli2md 0.6.17",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/492/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA FINANSÓW, FUNDUSZY I POLITYKI REGIONALNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 maja 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia kwot, o których mowa w art. 38 i art. 38a ustawy o finansach publicznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 38 i art. 38a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305), w oparciu o dostępne dane, ogłasza się, że na koniec roku budżetowego 2020:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "kwota:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "państwowego długu publicznego wyniosła 1 111 797,7 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "długu Skarbu Państwa wyniosła 1 097 479,8 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa wyniosła 302 875,1 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez jednostki sektora finansów publicznych wyniosła 306 846,2 mln zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "relacja do produktu krajowego brutto:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "kwoty państwowego długu publicznego wyniosła 47,8%,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "kwoty długu Skarbu Państwa wyniosła 47,2%,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "kwoty niewymagalnych zobowiązań z tytułu poręczeń i gwarancji udzielonych przez Skarb Państwa wyniosła 13,0%;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "kwota:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "ustalona w wyniku przeliczenia kwoty państwowego długu publicznego, ogłoszonej w pkt 1 lit. a, na walutę polską z zastosowaniem dla zobowiązań wyrażonych w walutach obcych średniej arytmetycznej średnich kursów każdej z walut obcych ogłaszanych przez Narodowy Bank Polski i obowiązujących w dni robocze roku budżetowego 2020 wyniosła 1 105 006,5 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "wolnych środków służących finansowaniu potrzeb pożyczkowych budżetu państwa w 2021 r. wyniosła 71 025,2 mln zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "obliczona jako różnica kwoty, o której mowa w lit. a, oraz kwoty, o której mowa w lit. b, wyniosła 1 033 981,4 mln zł;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "relacja kwoty, o której mowa w pkt 3 lit. c, do produktu krajowego brutto wyniosła 44,5%.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

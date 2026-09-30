@@ -2,7 +2,7 @@
 language:
 - pl
 license: cc0-1.0
-pretty_name: Monitor Polski od 2025 r. w Markdown/JSON
+pretty_name: Monitor Polski od 2012 r. w Markdown/JSON
 size_categories:
 - 1K<n<10K
 tags:
@@ -16,13 +16,13 @@ configs:
     path: data/*.parquet
 ---
 
-# Monitor Polski od 2025 r. — teksty aktów w Markdown/JSON
+# Monitor Polski od 2012 r. — teksty aktów w Markdown/JSON
 
-Nieoficjalne teksty wszystkich aktów z Monitora Polskiego ogłoszonych od 2025 r., przekonwertowane z urzędowych
+Nieoficjalne teksty wszystkich aktów z Monitora Polskiego ogłoszonych od 2012 r., przekonwertowane z urzędowych
 PDF-ów otwartym konwerterem [eli2md](https://github.com/PolskiAgentW/eli2md). Odświeżane codziennie.
 
 *Unofficial plain-text (Markdown) and structured (JSON tree of units) versions of all acts published in Monitor
-Polski (the Polish official gazette) since 2025. The Sejm ELI API serves them only as PDF. Converted automatically;
+Polski (the Polish official gazette) since 2012. The Sejm ELI API serves them only as PDF. Converted automatically;
 the PDF is the binding text. Updated daily.*
 
 **Dlaczego:** API ELI Sejmu nie ma HTML dla żadnego aktu Monitora Polskiego, tylko PDF.

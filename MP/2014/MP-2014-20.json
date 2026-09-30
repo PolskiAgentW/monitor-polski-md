@@ -1,0 +1,247 @@
+{
+ "eli": "MP/2014/20",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 10 grudnia 2013 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/20/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 grudnia 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2011 r. Nr 197, poz. 1172 i Nr 232, poz. 1378) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 106 Prezesa Rady Ministrów z dnia 28 grudnia 2011 r. w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego (M.P. Nr 118, poz. 1195), z uwzględnieniem zmian wprowadzonych zarządzeniem nr 104 Prezesa Rady Ministrów z dnia 29 listopada 2012 r. zmieniającym zarządzenie w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego (M.P. poz. 905).",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje § 2 zarządzenia nr 104 Prezesa Rady Ministrów z dnia 29 listopada 2012 r. zmieniającego zarządzenie w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego (M.P. poz. 905), który stanowi:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  },
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 106"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 grudnia 2011 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Nauki i Szkolnictwa Wyższego nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc zarządzenie nr 145 Prezesa Rady Ministrów z dnia 23 grudnia 2008 r. w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego (M.P. Nr 97, poz. 845, z 2010 r. Nr 60, poz. 787 oraz z 2011 r. Nr 11, poz. 119 i Nr 78, poz. 787).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zarządzenie wchodzi w życie z dniem 1 stycznia 2012 r.",
+   "children": []
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 106 Prezesa Rady Ministrów z dnia 28 grudnia 2011 r.",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA NAUKI I SZKOLNICTWA WYŻSZEGO"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Nauki i Szkolnictwa Wyższego, zwane dalej „Ministerstwem”, zapewnia obsługę Ministra Nauki i Szkolnictwa Wyższego, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Nauki i Szkolnictwa Wyższego (Dz. U. Nr 248, poz. 1483), do spraw:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/pkt_1",
+       "text": "nauki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/pkt_2",
+       "text": "szkolnictwa wyższego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa wchodzi Gabinet Polityczny Ministra oraz następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Departament Budżetu i Finansów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Departament Instrumentów Polityki Naukowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "[^1] Departament Organizacji Szkolnictwa Wyższego, Kontroli i Nadzoru;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Departament Legislacyjno-Prawny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "(uchylony);[^2]",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "Departament Strategii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "Departament Systemów Informatycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "Biuro Dyrektora Generalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "Biuro Ministra.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "w zakresie działu nauka – Departament Instrumentów Polityki Naukowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "[^3] w zakresie działu szkolnictwo wyższe:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/pkt_2/lit_a",
+         "text": "Departament Organizacji Szkolnictwa Wyższego, Kontroli i Nadzoru,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_2/lit_b",
+         "text": "Departament Strategii.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Bezpośredni nadzór nad Gabinetem Politycznym Ministra sprawuje Minister.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 10 grudnia 2013 r. (poz. 20)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "W brzmieniu ustalonym przez § 1 pkt 1 lit. a zarządzenia nr 104 Prezesa Rady Ministrów z dnia 29 listopada 2012 r. zmieniającego zarządzenie w sprawie nadania statutu Ministerstwu Nauki i Szkolnictwa Wyższego (M.P. poz. 905), które weszło w życie z dniem 30 listopada 2012 r.",
+  "2": "Przez § 1 pkt 1 lit. b zarządzenia, o którym mowa w odnośniku 1.",
+  "3": "W brzmieniu ustalonym przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 1."
+ }
+}

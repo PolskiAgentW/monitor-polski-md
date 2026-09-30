@@ -1,0 +1,1047 @@
+{
+ "eli": "MP/2016/96",
+ "title": "Obwieszczenie Ministra Rozwoju z dnia 16 grudnia 2015 r. w sprawie raportu zawierającego w szczególności informacje dotyczące realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej w 2012 r. i w 2013 r., wraz z oceną i wnioskami z ich realizacji",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/96/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ROZWOJU[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 grudnia 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie raportu zawierającego w szczególności informacje dotyczące realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetyczne j w 2012 r. i w 2013 r., wraz z oceną i wnioskami z ich realizacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 ustawy z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. z 2015 r. poz. 2167 i 2359) ogłasza się, w załączniku do obwieszczenia, raport zawierający w szczególności informacje dotyczące realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej w 2012 r. i w 2013 r., wraz z oceną i wnioskami z ich realizacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rozwoju: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Rozwoju z dnia 16 grudnia 2015 r. (poz. 96)",
+   "body": [
+    {
+     "type": "text",
+     "text": "MINISTER ROZWOJU"
+    },
+    {
+     "type": "text",
+     "text": "RAPORT zawierający w szczególności informacje dotyczące realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej w 2012 r. i w 2013 r., wraz z oceną i wnioskami z ich realizacji"
+    },
+    {
+     "type": "text",
+     "text": "Warszawa, 2015 r."
+    },
+    {
+     "type": "text",
+     "text": "Wstęp"
+    },
+    {
+     "type": "text",
+     "text": "Raport dotyczący realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej, zwany dalej „raportem”, został sporządzony na podstawie art. 8 ustawy z dnia 15 kwietnia 2011 r. o efektywności energetycznej (Dz. U. z 2015 r. poz. 2167 i 2359), zwanej dalej „ustawą”. Zgodnie z tym przepisem, minister właściwy do spraw gospodarki jest obowiązany sporządzać raport co dwa lata i przedstawić go do zatwierdzenia Radzie Ministrów."
+    },
+    {
+     "type": "text",
+     "text": "Raport zawiera w szczególności informacje dotyczące realizacji:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "krajowego celu w zakresie oszczędnego gospodarowania energią,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "krajowego planu działań dotyczącego efektywności energetycznej",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "– za 2012 r. i 2013 r. wraz z oceną i wnioskami z ich realizacji."
+    },
+    {
+     "type": "text",
+     "text": "Niniejszy raport został opracowany na podstawie rocznych sprawozdań z realizacji krajowego planu działań dotyczącego efektywności energetycznej, przekazanych przez ministrów oraz wojewodów, zawierających dane i informacje dotyczące działań podejmowanych w 2012 r. i w 2013 r."
+    },
+    {
+     "type": "text",
+     "text": "Niniejszy dokument jest opracowany jako kolejny raport, pierwszy obejmował działania za 2011 r."
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Krajowy cel w zakresie oszczędnego gospodarowania energią................................................... 5",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Działania ministrów związane z realizacją krajowego planu działań dotyczącego efektywności energetycznej. ........................................................................................................................... 8",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Działania wojewodów związane z realizacją krajowego planu działań dotyczącego efektywności energetycznej .......................................................................................................................... 12",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Inne działania i środki poprawy efektywności energetycznej stosowane przez sektor publiczny – ministerstwa ............................................................................................................................ 15",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ocena i wnioski z realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej - ministerstwa ................... 19",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne działania i środki poprawy efektywności energetycznej stosowane przez sektor publiczny – wojewodowie .......................................................................................................................... 20",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ocena i wnioski z realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej - wojewodowie ................. 22",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Krajowy cel w zakresie oszczędnego gospodarowania energią",
+     "children": [
+      {
+       "type": "text",
+       "text": "Krajowy plan działań dotyczący efektywności energetycznej, zwany w dalszej treści „KPDEE 2007”, stanowi wykonanie art. 14 ust. 2 dyrektywy 2006/32/WE Parlamentu Europejskiego i Rady z dnia 5 kwietnia 2006 r. w sprawie efektywności końcowego wykorzystania energii i usług energetycznych oraz uchylającej dyrektywę Rady 93/76/EWG (Dz. Urz. UE L 114 z 27.04.2006, str. 64, z późn. zm.), zwanej dalej „dyrektywą 2006/32/WE”. W KPDEE 2007 przyjętym przez Komitet Europejski Rady Ministrów w dniu 31 lipca 2007 r. został określony cel indykatywny w zakresie oszczędności energii do końca 2016 r., wyrażony w jednostce bezwzględnej. Ustalony krajowy cel w zakresie oszczędnego gospodarowania energią wyznacza uzyskanie do 31 grudnia 2016 r. oszczędności energii finalnej w ilości nie mniejszej niż 9% średniego krajowego jej zużycia w ciągu roku, przy czym uśrednienie obejmowało lata 2001-2005 i wynosi łącznie 53 452 GWh."
+      },
+      {
+       "type": "text",
+       "text": "Na cel w zakresie oszczędności energii finalnej, oprócz jednostek sektora finansów publicznych, złożyły się także oszczędności energii finalnej z sektorów:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "transportu - w wysokości 35 785 GWh w 2012 r. i 65 804 GWh w 2013 r.;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "przemysłu - w wysokości 36 623 GWh w 2012 r. i 33 438 GWh w 2013 r., oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "sektora mieszkalnictwa (gosp. dom.) - w wysokości 8 983 GWh w 2012 r. i 12 686 GWh w 2013 r.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Powyższe oszczędności energii finalnej od 2010 r. do 2013 r., w podziale na sektory, obliczone metodą top-down[^1_2], zawiera tabela nr 1."
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 1. Oszczędności energii finalnej w podziale na sektory, obliczone metodą top-down"
+        },
+        {
+         "type": "text",
+         "text": "Sektor Uzyskane oszczędności energii finalnej (GWh)"
+        },
+        {
+         "type": "text",
+         "text": "2010 r. 2011 r. 2012 r. 2013 r."
+        },
+        {
+         "type": "text",
+         "text": "Gospodarstwa domowe 9 780 919 8 983 12 686 Usługi 0 0 0 0"
+        },
+        {
+         "type": "text",
+         "text": "Przemysł 25 993 34 469 36 623 33 438 Transport 13 548 15 514 35 785 65 804 Razem: 49 321 50 903 81 392 111 928"
+        },
+        {
+         "type": "text",
+         "text": "Drugi krajowy plan działań dotyczący efektywności energetycznej, zwany dalej „KPDEE 2011”, został przygotowany w związku z obowiązkiem przekazywania Komisji Europejskiej sprawozdań na podstawie dyrektywy 2006/32/WE, jak również na podstawie art. 6 ust. 1 ustawy. Cele określone w pierwszym KPDEE 2007 zostały utrzymane w drugim KPDEE 2011, przyjętym przez Radę Ministrów w dniu 17 kwietnia 2012 r."
+        },
+        {
+         "type": "text",
+         "text": "Krajowy Plan Działań dotyczący efektywności energetycznej dla Polski 2014, zwany w dalszej treści „KPDEE 2014”, został przygotowany w związku z obowiązkiem przekazywania Komisji Europejskiej sprawozdań z wdrażania dyrektywy Parlamentu Europejskiego i Rady 2012/27/UE w sprawie efektywności energetycznej, zmiany dyrektyw 2009/125/WE i 2010/30/UE oraz uchylenia dyrektyw 2004/8/WE i 2006/32/WE (Dz. Urz. UE L 315 z 14.11.2012, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2012/27/UE”, a także na podstawie art. 6 ust. 1 ustawy. KPDEE 2014 został przyjęty przez Radę Ministrów w dniu 20 października 2014 r. Oprócz opisu planowanych środków poprawy efektywności energetycznej określających działania mające na celu poprawę efektywności energetycznej w poszczególnych sektorach gospodarki, niezbędnych dla realizacji krajowego celu w zakresie oszczędnego gospodarowania energią na 2016 r., KPDEE 2014 zawiera listę środków służących osiągnięciu ogólnego celu w zakresie efektywności energetycznej rozumianego jako uzyskanie 20 % oszczędności w zużyciu energii pierwotnej w Unii Europejskiej do 2020 r. Cel ten rozumiany jest jako osiągnięcie w latach 2010-2020 ograniczenia zużycia energii pierwotnej o 13,6 Mtoe[^2], co w warunkach wzrostu gospodarczego oznacza także poprawę"
+        },
+        {
+         "type": "text",
+         "text": "efektywności energetycznej gospodarki. Cel wyrażony został również w kategoriach"
+        },
+        {
+         "type": "text",
+         "text": "bezwzględnego poziomu zużycia energii pierwotnej i finalnej w 2020 r, co zostało"
+        },
+        {
+         "type": "text",
+         "text": "przedstawione w tabeli nr 2."
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 2. Cel efektywności energetycznej na 2020 r. – zgodnie z dyrektywą"
+        },
+        {
+         "type": "text",
+         "text": "2012/27/UE"
+        },
+        {
+         "type": "text",
+         "text": "Rok Cel w zakresie Bezwzględne zużycie energii w 2020 r. efektywności energetycznej"
+        },
+        {
+         "type": "text",
+         "text": "Zużycie energii Zużycie energii Ograniczenie zużycia finalnej w energii pierwotnej w latach wartościach pierwotnej w wartościach 2010-2020 bezwzględnych bezwzględnych (Mtoe) (Mtoe) (Mtoe)"
+        },
+        {
+         "type": "text",
+         "text": "2020 13,6 71,6 96,4[^3]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Działania ministrów związane z realizacją krajowego planu działań dotyczącego efektywności energetycznej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 7 ustawy, ministrowie kierujący działami administracji rządowej w rozumieniu ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2015 r. poz. 812, z późn. zm.) oraz wojewodowie realizują krajowy plan działań dotyczący efektywności energetycznej. Roczne sprawozdania z realizacji krajowego planu działań dotyczącego efektywności energetycznej są przekazywane ministrowi właściwemu do spraw gospodarki, do dnia 30 września następnego roku po upływie roku, którego dotyczą."
+      },
+      {
+       "type": "text",
+       "text": "W związku z powyższym, minister właściwy do spraw gospodarki występował w 2013 r. i 2014 r. do:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "ministrów o przedłożenie rocznych sprawozdań i informacji, uzyskanych z danego resortu oraz z jednostek nadzorowanych i podległych danemu ministrowi, o podjętych działaniach skutkujących oszczędnościami energii w roku 2012 i 2013;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "wojewodów o przygotowanie rocznych sprawozdań i informacji, danego urzędu wojewódzkiego i jednostek administracji zespolonej w tym województwie, o podjętych działaniach skutkujących oszczędnościami energii w roku 2012 i 2013.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Z przedstawionych przez ministrów sprawozdań wynika, że ministrowie podejmowali działania inwestycyjne służące poprawie efektywności energetycznej w 2012 r. i w 2013 r, polegające na nabyciu lub wymianie urządzeń biurowych i pomocniczych (np. klimatyzacja, sprzęt AGD) oraz pojazdów, a także działania w zakresie modernizacji użytkowanych budynków. Działania w sferze informacyjno-edukacyjnej nakierowane były na zmianę zachowań lub poszerzanie świadomości, jednak nie były one przekazywane w sprawozdaniach przez wszystkich ministrów."
+        },
+        {
+         "type": "text",
+         "text": "Przykładowe działania w sferze informacyjno-edukacyjnej można podzielić na dwie grupy."
+        },
+        {
+         "type": "text",
+         "text": "I. Działania o charakterze racjonalizującym zużycie energii, polegające przede wszystkim na monitorowaniu temperatury w pomieszczeniach biurowych i odpowiednim jej dostosowaniu poprzez zamontowany system czujników, zmniejszaniu temperatury po godzinach pracy lub w soboty i niedziele, przeprowadzeniu analizy poprawności doboru mocy zamówionej dla grup taryfowych, stosowanych w rozliczeniach energii elektrycznej wraz z kierowaniem odpowiednich wniosków do przedsiębiorstw energetycznych o zmianę warunków rozliczeniowych."
+        },
+        {
+         "type": "text",
+         "text": "II. Działania o charakterze informacyjno – szkoleniowym, polegające przede wszystkim na przeprowadzaniu wewnętrznych szkoleń pracowników z zakresu racjonalnego wykorzystania energii, w tym także z obsługi urządzeń oraz „zielonych zamówień publicznych”, przygotowaniu i rozpropagowaniu ulotek o oszczędzaniu energii i właściwym korzystaniu z klimatyzacji, wydanie zarządzenia Dyrektora Generalnego o wyłączaniu sprzętu elektrycznego, udziale w szkoleniach organizowanych przez podmiot zewnętrzny (np. akademia odnawialnych źródeł energii z „Rzeczypospolitą”)."
+        },
+        {
+         "type": "text",
+         "text": "Szczegółowy wykaz działań inwestycyjnych zrealizowanych przez ministerstwa i ich jednostki organizacyjne podległe i nadzorowane w podziale na: modernizacje lub remont budynku, zakup lub wymianę urządzeń, instalacji lub pojazdów oraz inne działania inwestycyjne, przedstawia tabela nr 3."
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 3. Wykaz działań inwestycyjnych zrealizowanych przez ministerstwa i ich jednostki organizacyjne podległe i nadzorowane"
+        },
+        {
+         "type": "text",
+         "text": "Modernizacja lub remont Zakup lub wymiana Inne działania inwestycyjne: budynku: urządzeń, instalacji lub"
+        },
+        {
+         "type": "text",
+         "text": "pojazdów:"
+        },
+        {
+         "type": "text",
+         "text": " wymiana okien,  urządzenia wchodzące  montaż urządzeń"
+        },
+        {
+         "type": "text",
+         "text": " wymiana stolarki drzwiowej, w skład wyposażenia do kompensacji mocy  wymiana grzejników i zaworów  samochody służbowe, termostatycznych, specjalne."
+        },
+        {
+         "type": "text",
+         "text": " wymiana kotła olejowego na kocioł gazowy kondensacyjny,"
+        },
+        {
+         "type": "text",
+         "text": " montaż automatyki pogodowej,"
+        },
+        {
+         "type": "text",
+         "text": " termomodernizacja budynku (np. ocieplenie ścian budynków wymiana stolarki okiennej i drzwiowej, wymiana elewacji budynku)."
+        },
+        {
+         "type": "text",
+         "text": "Inwestycje zmniejszające zużycie energii były w głównej mierze finansowane"
+        },
+        {
+         "type": "text",
+         "text": "ze środków własnych lub pozyskiwanych z instytucji i programów Unii Europejskiej"
+        },
+        {
+         "type": "text",
+         "text": "oraz z Mechanizmu Finansowego Europejskiego Obszaru Gospodarczego."
+        },
+        {
+         "type": "text",
+         "text": "Podział środków finansowych w ramach których ministerstwa i ich jednostki"
+        },
+        {
+         "type": "text",
+         "text": "organizacyjne podległe i nadzorowane realizowały działania inwestycyjne obejmowały środki"
+        },
+        {
+         "type": "text",
+         "text": "krajowe, w tym głównie z budżetu państwa pozyskiwane w szczególności z Narodowego"
+        },
+        {
+         "type": "text",
+         "text": "Funduszu Ochrony Środowiska i Gospodarki Wodnej, Wojewódzkich Funduszy Ochrony"
+        },
+        {
+         "type": "text",
+         "text": "Środowiska i Gospodarki Wodnej, w jednym przypadku był to także Fundusz Leśny. Środki"
+        },
+        {
+         "type": "text",
+         "text": "pochodzące z Unii Europejskiej były pozyskiwane w ramach poniższych programów"
+        },
+        {
+         "type": "text",
+         "text": "i funduszy."
+        },
+        {
+         "type": "text",
+         "text": "- Program Operacyjny Innowacyjna Gospodarka;"
+        },
+        {
+         "type": "text",
+         "text": "- Program Operacyjny Infrastruktura i Środowisko;"
+        },
+        {
+         "type": "text",
+         "text": "- Europejski Fundusz Rozwoju Regionalnego (EFRR);"
+        },
+        {
+         "type": "text",
+         "text": "- Mechanizm Finansowy Europejski Obszar Gospodarczy PL 04;"
+        },
+        {
+         "type": "text",
+         "text": "- Program Life;"
+        },
+        {
+         "type": "text",
+         "text": "- Regionalny Program Operacyjny Województwa Małopolskiego na lata 2007-2013;"
+        },
+        {
+         "type": "text",
+         "text": "- Regionalny Program Operacyjny Województwa Dolnośląskiego na lata 2007-2013;"
+        },
+        {
+         "type": "text",
+         "text": "- Regionalny Program Operacyjny Województwa Podkarpackiego na lata 2007-2013;"
+        },
+        {
+         "type": "text",
+         "text": "- Regionalny Program Operacyjny Województwa Pomorskiego na lata 2007-2013;"
+        },
+        {
+         "type": "text",
+         "text": "- Fundusz Spójności;"
+        },
+        {
+         "type": "text",
+         "text": "- Program TEN-T (Transeuropejska sieć transportowa);"
+        },
+        {
+         "type": "text",
+         "text": "- Program Operacyjny Kapitał Ludzki."
+        },
+        {
+         "type": "text",
+         "text": "W załączniku nr 1 do raportu, w tabelach nr 1 i 2 przedstawiono wysokość środków finansowych ogółem wydatkowanych na działania pro-efektywnościowe przez ministrów i wojewodów[^4]. Z uwagi na nierówne wskazywanie wysokości środków pochodzących z UE, zestawienie w rozbiciu na te środki nie może zostać przedstawione w niniejszym dokumencie."
+        },
+        {
+         "type": "text",
+         "text": "W załączniku nr 2 do raportu, w tabelach nr 1 i 2 zestawiono oszczędności energii pierwotnej i finalnej wskazane w sprawozdaniach przekazanych zarówno przez ministrów, jaki i wojewodów. Z zestawienia wynika, iż większą staranność do dokonywania obliczeń oszczędności energii przykładają wojewodowie."
+        },
+        {
+         "type": "text",
+         "text": "Analiza sprawozdań wskazuje, że zawarte w nich informacje i zestawienia mogą służyć wyłącznie do celów poglądowych. Wynika to z otrzymywania różnorodnych i niejednolitych informacji zawartych w sprawozdaniach, a także ich zakresu. Niektóre sprawozdania zawierają dane dotyczące przedsięwzięć służących poprawie efektywności energetycznej, realizowanych wyłącznie w resorcie, inne zaś dotyczą także jednostek nadzorowanych i podległych. Przekazano także takie sprawozdania, które zawierają informacje pozyskane jedynie od jednostki nadzorowanej i podległej."
+        },
+        {
+         "type": "text",
+         "text": "Na podstawie przedstawionych sprawozdań, uzasadnione jest twierdzenie, że przedsięwzięcia służące poprawie efektywności energetycznej były realizowane w latach objętych raportem, pomimo zgłaszanych przez resorty i ich jednostki nadzorowane braków lub niewystarczających środków finansowych oraz wynajmowania pomieszczeń biurowych, co uniemożliwiało podejmowanie inwestycji pro-efektywnościowych. Znaczna ilość sprawozdań przekazanych przez jednostki nadzorowane i podległe ministrom, zawiera informacje, że realizacja krajowego planu działań dotyczącego efektywności energetycznej nie dotyczy tych jednostek."
+        },
+        {
+         "type": "text",
+         "text": "Ministerstwo Obrony Narodowej, Ministerstwo Rolnictwa i Rozwoju Wsi oraz Ministerstwo Kultury i Dziedzictwa Narodowego przygotowują corocznie zbiorcze sprawozdania z dużą starannością."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Działania wojewodów związane z realizacją krajowego planu działań dotyczącego efektywności energetycznej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wojewodowie dołożyli wszelkich starań, aby sprawozdania sporządzone za 2012 r. i 2013 r. zawierały także informacje pozyskane z ich jednostek nadzorowanych. Pomimo ograniczenia liczby jednostek sporządzających sprawozdania, analiza wykazała, że informacje, dane oraz zakres tych sprawozdań opracowano w sposób różnorodny, a zamieszczone w nich informacje mogą posłużyć jedynie w celach informacyjnopoglądowych. Część sprawozdań została sporządzona w formie zbiorczej, a pozostałe stanowią zestaw pojedynczych sprawozdań przekazanych przez wojewodów."
+      },
+      {
+       "type": "text",
+       "text": "Ze sprawozdań przekazanych przez wojewodów za 2012 r. i 2013 r. wynika, że przede wszystkim podjęto działania inwestycyjne, choć także zostały zgłoszone działania nieinwestycyjne, które także przynależą do tych samych grup zdefiniowanych jako działania w sferze informacyjno-edukacyjnej, realizowanych przez ministrów. Jako przykłady można wskazać organizowane dla pracowników urzędów akcje informacyjne i szkoleniowe mające na celu oszczędzanie energii. Przykładem takiego działania może być także akcja oznakowania urządzeń zużywających energię elektryczną naklejką z hasłem „Oszczędzaj energię elektryczną”. Innym działaniem jest prowadzenie kwartalnych analiz zużycia energii elektrycznej i gazu lub stałe monitorowanie zużycia energii elektrycznej i cieplnej. Kolejnym działaniem nie-inwestycyjnym było wydanie przez wojewodę zarządzenia w sprawie wyłączania sprzętu biurowego po zakończeniu pracy oraz w dni wolne od pracy. Innym przykładem w obszarze działań racjonalizujących zużycie energii było dostosowywanie temperatury w pomieszczeniach do faktycznych potrzeb, zarówno w zimie jak i latem, wyłączanie niebędących w użyciu urządzeń zużywających energię oraz zbędnego oświetlenia, a także tryb czuwania."
+      },
+      {
+       "type": "text",
+       "text": "Szczegółowy wykaz przedsięwzięć inwestycyjnych zrealizowanych przez wojewodów, a także jednostki administracji zespolonej w podziale na: termomodernizację budynków użyteczności publicznej, zakup i wymianę urządzeń, instalacji i pojazdów oraz inne działania, przedstawia tabela nr 4."
+      },
+      {
+       "type": "text",
+       "text": "Tabela nr 4. Szczegółowy wykaz przedsięwzięć inwestycyjnych zrealizowanych przez wojewodów, a także jednostki administracji zespolonej"
+      },
+      {
+       "type": "text",
+       "text": "Termomodernizacja budynków Zakup i wymiana urządzeń, Inne działania: użyteczności publicznej: instalacji i pojazdów:"
+      },
+      {
+       "type": "text",
+       "text": " Ocieplenie/docieplenie ścian  wymiana źródeł światła na  zmniejszenie zużycia zewnętrznych, stropodachu, energooszczędne (np. na energii elektrycznej  wymiana stolarki okiennej lampy ledowe), poprzez aktywację baterii i drzwiowej,  wymiana instalacji wodno- kondensatorów,  kanalizacyjnej,  racjonalizacja kosztów wymiana kotła c.o. na kocioł o poprzez ogłoszenie wyższej sprawności,  wymiana instalacji elektrycznej; przetargu na zakup energii  modernizacja kotłowni, elektrycznej,   wymiana sprzętu AGD,  wymiana pokrycia dachu, zmniejszenie mocy   wymiana monitorów zamówionej cieplnej, zmiana sposobu ogrzewania budynku kineskopowych na płaskie z piecy akumulacyjnych zasilanych  wykonanie audytu energią elektryczną na ogrzewanie LCD, energetycznego. z sieci ciepłowniczej,  wymiana komputerów  zastosowanie układu wentylacyjno – stacjonarnych na laptopy, grzewczego, składającego się  zakup/wymiana aparatury z gruntowego powierzchniowego i sprzętu laboratoryjnego, wymiennika ciepła oraz centrali  zakup nowego samochodu z klimatyzacyjnej z pompą ciepła instalacją gazową, o odzysku do 87 %,   zakup/wymiana wymiana instalacji centralnego samochodów ogrzewania wraz z grzejnikami, specjalistycznych,  wymiana starego źródła ciepła  na nowe ekologiczne źródło ciepła wymiana dźwigu np. kocioł gazowy, kocioł olejowy, osobowego."
+      },
+      {
+       "type": "text",
+       "text": " przebudowa węzła cieplnego wymiennikowego c.o i c.w.u. w budynku wraz z elektronicznym układem sterowania i montażem zaworów termostatycznych przy grzejnikach,"
+      },
+      {
+       "type": "text",
+       "text": " przyłącze do sieci ciepłowniczej,"
+      },
+      {
+       "type": "text",
+       "text": " zakup i montaż instalacji wykorzystujących odnawialne źródła energii do przygotowania ciepłej wody użytkowej i/lub wspomagania centralnego ogrzewania,"
+      },
+      {
+       "type": "text",
+       "text": " montaż układów solarnych (kolektorów) do przygotowania ciepłej wody użytkowej,  wymiana pokrycia dachu oraz docieplenie stropów poddaszy,"
+      },
+      {
+       "type": "text",
+       "text": " termomodernizacja lub częściowa termomodernizacja budynku."
+      },
+      {
+       "type": "text",
+       "text": "Inwestycje zmniejszające zużycie energii, podobnie jak w przypadku ministerstw,"
+      },
+      {
+       "type": "text",
+       "text": "w głównej mierze finansowane były ze środków budżetu państwa, w tym także pozyskanych"
+      },
+      {
+       "type": "text",
+       "text": "z Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej oraz Wojewódzkich"
+      },
+      {
+       "type": "text",
+       "text": "Funduszy Ochrony Środowiska i Gospodarki Wodnej. Wojewodowie korzystali także"
+      },
+      {
+       "type": "text",
+       "text": "ze środków Unii Europejskiej. Poniżej wskazano nazwy programów i funduszy UE, z jakich"
+      },
+      {
+       "type": "text",
+       "text": "korzystali wojewodowie i jednostki nadzorowane przy realizacji działań inwestycyjnych"
+      },
+      {
+       "type": "text",
+       "text": "służących poprawie efektywności energetycznej:"
+      },
+      {
+       "type": "text",
+       "text": "- Regionalne Programy Operacyjne;"
+      },
+      {
+       "type": "text",
+       "text": "- Europejski Fundusz Rozwoju Regionalnego (EFRR);"
+      },
+      {
+       "type": "text",
+       "text": "- Program Operacyjny Infrastruktura i Środowisko;"
+      },
+      {
+       "type": "text",
+       "text": "- Program Europejskiej Współpracy Terytorialnej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Inne działania i środki poprawy efektywności energetycznej stosowane przez sektor publiczny – ministerstwa",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zgodnie z art. 10 ustawy - jednostki sektora publicznego realizując swoje zadania, obowiązane są do zastosowania co najmniej dwóch środków poprawy efektywności energetycznej z listy wskazanej w tym przepisie."
+      },
+      {
+       "type": "text",
+       "text": "Ustawa określa następujące środki poprawy efektywności energetycznej:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "umowa której przedmiotem jest realizacja i finansowanie przedsięwzięcia służącego poprawie efektywności energetycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "nabycie nowego urządzenia, instalacji lub pojazdu, charakteryzujących się niskim zużyciem energii oraz niskimi kosztami eksploatacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "wymiana eksploatowanego urządzenia, instalacji lub pojazdu na urządzenie, instalację lub pojazd, o których mowa w pkt 2, albo ich modernizacja;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "nabycie lub wynajęcie efektywnych energetycznie budynków lub ich części albo przebudowa lub remont użytkowanych budynków, w tym realizacja przedsięwzięcia termomodernizacyjnego w rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów (Dz. U. z 2014 r. poz. 712);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "sporządzenie audytu energetycznego w rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów eksploatowanych budynków w rozumieniu ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2013 r. poz. 1409, z późn. zm.), o powierzchni użytkowej powyżej 500 m², których jednostka sektora publicznego jest właścicielem lub zarządcą.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ustawa nakłada na jednostki sektora publicznego obowiązek informowania społeczeństwa o stosowanych przez nie środkach poprawy efektywności energetycznej za pośrednictwem stron internetowych lub w inny sposób zwyczajowo przyjęty w danej miejscowości."
+        },
+        {
+         "type": "text",
+         "text": "Z analizy informacji zawartych w sprawozdaniach za 2012 r. i 2013 r. przekazanych ministrowi właściwemu do spraw gospodarki wynika, że ministerstwa stosowały co najmniej dwa środki poprawy efektywności energetycznej, zaś przeważająca ich większość stosowała więcej środków niż dwa."
+        },
+        {
+         "type": "text",
+         "text": "Na podstawie zebranych danych za 2012 r. można stwierdzić, że najbardziej popularnym środkiem poprawy efektywności energetycznej jest wymiana eksploatowanego urządzenia, instalacji lub pojazdu na takie, które charakteryzuje się niskim zużyciem energii oraz niskimi kosztami eksploatacji. W następnej kolejności jest nabycie nowego urządzenia, instalacji lub pojazdu, charakteryzujących się niskim zużyciem energii oraz niskimi kosztami eksploatacji, zaś najmniej popularnym środkiem poprawy efektywności energetycznej w 2012 r. było sporządzanie audytu energetycznego oraz umowa na realizację i finansowanie przedsięwzięcia służącego poprawie efektywności energetycznej."
+        },
+        {
+         "type": "text",
+         "text": "Natomiast w 2013 r. najbardziej popularnym środkiem poprawy efektywności energetycznej było nabycie nowego urządzenia, instalacji lub pojazdu, charakteryzujących się niskim zużyciem energii oraz niskimi kosztami eksploatacji. Następnym najczęściej stosowanym środkiem poprawy efektywności energetycznej była wymiana albo modernizacja eksploatowanego urządzenia, instalacji lub pojazdu na takie, które charakteryzowało się niskim zużyciem energii oraz niskimi kosztami eksploatacji. Nabycie lub wynajęcie efektywnych energetycznie budynków lub ich części albo przebudowa lub remont użytkowanych budynków, w tym realizacja przedsięwzięcia termomodernizacyjnego w rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów jest trzecim ze środków poprawy efektywności energetycznej, stosowanym przez ministerstwa. Najrzadziej stosowanym środkiem poprawy efektywności energetycznej w 2013 r., tak jak w przypadku danych 2012 r., był audyt energetyczny eksploatowanych budynków w rozumieniu ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, o powierzchni użytkowej powyżej 500 m², których jednostka sektora publicznego jest właścicielem lub zarządcą."
+        },
+        {
+         "type": "text",
+         "text": "Podział zastosowanych środków poprawy efektywności energetycznej przez ministerstwa w 2012 r. i w 2013 r. w odniesieniu do wyników z pierwszego raportu (dane za okres 2008- 2011) przedstawia wykres nr 1."
+        },
+        {
+         "type": "text",
+         "text": "Wykres nr 1. Podział zastosowanych środków poprawy efektywności energetycznej przez ministerstwa w 2012 r. i w 2013 r.[^5]"
+        },
+        {
+         "type": "text",
+         "text": "Zastosowanie środków poprawy efektywności"
+        },
+        {
+         "type": "text",
+         "text": "energetycznej w latach 2011-2013- ministrowie"
+        },
+        {
+         "type": "text",
+         "text": "60"
+        },
+        {
+         "type": "text",
+         "text": "50"
+        },
+        {
+         "type": "text",
+         "text": "40"
+        },
+        {
+         "type": "text",
+         "text": "30"
+        },
+        {
+         "type": "text",
+         "text": "20"
+        },
+        {
+         "type": "text",
+         "text": "10"
+        },
+        {
+         "type": "text",
+         "text": "0"
+        },
+        {
+         "type": "text",
+         "text": "1 2 3 4 5"
+        },
+        {
+         "type": "text",
+         "text": "2011 2012 2013"
+        },
+        {
+         "type": "text",
+         "text": "Publikowanie informacji za pomocą strony internetowej o stosowaniu środków poprawy efektywności energetycznej jest znikome. W załączniku nr 3 do raportu zostało opracowane zestawienie stron internetowych, na których rzeczywiście umieszczono informacje o zastosowanych środkach poprawy efektywności energetycznej wynikających z art. 10 ustawy."
+        },
+        {
+         "type": "text",
+         "text": "Zbiorcze zestawienie środków poprawy efektywności energetycznej, wymienionych w art. 10 ust. 2 ustawy, stosowanych przez ministerstwa i w województwach zawiera tabela nr 5."
+        },
+        {
+         "type": "text",
+         "text": "Tabela nr 5. Zbiorcze zestawienie środków poprawy efektywności energetycznej, wymienionych w art. 10 ust. 2 ustawy, stosowanych w ministerstwach i w województwach"
+        },
+        {
+         "type": "text",
+         "text": "Lp. Wykaz środków poprawy Ministerstwa Województwa efektywności energetycznej, wymienionych w art. 10 ust. 2 ustawy"
+        },
+        {
+         "type": "text",
+         "text": "2012 2013 2012 2013"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "umowa której przedmiotem jest realizacja i finansowanie 0,95% 13,74% 10,04% 6,33% przedsięwzięcia służącego poprawie efektywności energetycznej",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "nabycie nowego urządzenia, instalacji lub pojazdu, charakteryzujących się 44,41% 33,59% 33,33% 33,76% niskim zużyciem energii oraz niskimi kosztami eksploatacji;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "wymiana albo modernizacja eksploatowanego urządzenia, instalacji lub pojazdu 48,00% 26,34% 30,92% 35,86% na charakteryzujące się niskim zużyciem energii oraz niskimi kosztami eksploatacji;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "nabycie lub wynajęcie efektywnych energetycznie budynków lub ich części albo przebudowa lub remont użytkowanych budynków, w tym 6,06% 19,85% 15,66% 15,19% realizacja przedsięwzięcia termomodernizacyjnego w rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "sporządzenie audytu energetycznego w rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów eksploatowanych budynków 0,58% 6,49% 10,04% 8,86% w rozumieniu ustawy z dnia 7 lipca 1994 r. - Prawo budowlane, o powierzchni użytkowej powyżej 500 m², których jednostka sektora publicznego jest właścicielem lub zarządcą",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ocena i wnioski z realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej - ministerstwa",
+     "children": [
+      {
+       "type": "text",
+       "text": "Z oceny działań przyczyniających się do realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej, które zostały przedstawione w sprawozdaniach opracowanych przez ministerstwa oraz ich jednostki podległe i nadzorowane wynikają następujące wnioski:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_5/pkt_1",
+       "text": "niektóre jednostki nie podjęły działań mających na celu poprawę efektywności energetycznej, gdyż nie zgromadziły one wystarczających własnych środków finansowych niezbędnych na podjęcie tych działań, lub nie otrzymały dofinansowania z innych źródeł;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "ministerstwa oraz ich jednostki podległe i nadzorowane nie będąc właścicielem ani zarządcą budynku będącego ich siedzibą nie mogły podejmować działań inwestycyjnych skutkujących oszczędnością energii, gdyż nie są stroną uzyskującą z tego tytułu korzyści finansowe w postaci niższych rachunków;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "z uwagi na brak sprzętu/opomiarowania do monitorowania zużycia energii lub niewystarczającej ilości specjalistów lub środków na ich pozyskanie, nie zawsze było możliwe oszacowanie wartości oszczędności energii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "zagadnienia związane z poprawą efektywności energetycznej wydają się być postrzegane przez ministrów w 2012 r. i w 2013 r. jako mniej istotne, niż miało to miejsce w 2011 r., kiedy poziom wiedzy niezbędny do podejmowania działań w zakresie poprawy efektywności energetycznej był wyższy w ministerstwach niż w województwach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Inne działania i środki poprawy efektywności energetycznej stosowane przez sektor publiczny – wojewodowie",
+     "children": [
+      {
+       "type": "text",
+       "text": "Z analizy sprawozdań za 2012 r. i 2013 r. przesłanych przez wojewodów, w części dotyczącej stosowania co najmniej dwóch środków poprawy efektywności energetycznej, wymienionych w art. 10 ust. 2 ustawy, wynika, że wszystkie urzędy wojewódzkie realizowały ten przepis. Najbardziej popularnym środkiem poprawy efektywności energetycznej w 2012 r. było nabycie nowego urządzenia, instalacji lub pojazdu, charakteryzujących się niskim zużyciem energii oraz niskimi kosztami eksploatacji. Drugim w kolejności najczęściej stosowanym środkiem poprawy efektywności energetycznej była wymiana albo modernizacja eksploatowanego urządzenia, instalacji lub pojazdu na takie, które charakteryzują się niskim zużyciem energii oraz niskimi kosztami eksploatacji. Na przedostatnim miejscu w stosowaniu środków poprawy efektywności energetycznej na szczeblu wojewódzkim było nabycie lub wynajęcie efektywnych energetycznie budynków lub ich części albo przebudowa lub remont użytkowanych budynków, w tym realizacja przedsięwzięcia termomodernizacyjnego w rozumieniu ustawy z dnia 21 listopada 2008 r. o wspieraniu termomodernizacji i remontów."
+      },
+      {
+       "type": "text",
+       "text": "W 2012 r. dwa środki poprawy efektywności energetycznej, takie jak: sporządzanie audytu energetycznego budynku dla którego jednostka sektora publicznego jest właścicielem lub zarządcą oraz zawarcie umowy, której przedmiotem jest realizacja i finansowanie przedsięwzięcia służącego poprawie efektywności energetycznej były najmniej popularnymi i stosowanymi działaniami przez administrację terenową."
+      },
+      {
+       "type": "text",
+       "text": "Analiza środków poprawy efektywności energetycznej stosowanych w 2013 r. przez wojewodów ukazuje nieznaczną modyfikację na rzecz najpopularniejszego środka poprawy efektywności energetycznej, jakim jest wymiana albo modernizacja eksploatowanego urządzenia, instalacji lub pojazdu na takie, które charakteryzują się niskim zużyciem energii oraz niskimi kosztami eksploatacji. Następnym, najczęściej stosowanym środkiem poprawy efektywności energetycznej było nabycie nowego urządzenia, instalacji lub pojazdu, charakteryzującego się niskim zużyciem energii oraz niskimi kosztami eksploatacji. Trzecim w kolejności stosowanym środkiem poprawy efektywności energetycznej było nabycie lub wynajęcie efektywnych energetycznie budynków lub ich części albo przebudowa lub remont użytkowanych budynków. Na przedostatnim miejscu było zawarcie umowy, której przedmiotem jest realizacja i finansowanie przedsięwzięcia służącego poprawie efektywności energetycznej, zaś najrzadziej stosowanym środkiem poprawy efektywności energetycznej był audyt energetyczny budynku dla którego jednostka sektora publicznego jest właścicielem lub zarządcą."
+      },
+      {
+       "type": "text",
+       "text": "Podział zastosowanych środków poprawy efektywności energetycznej przez wojewodów w 2012 r. i w 2013 r. z odniesieniem do wyników z pierwszego raportu odnoszącego się do okresu 2008-2011 przedstawia wykres nr 2."
+      },
+      {
+       "type": "text",
+       "text": "Wykres nr 2. Podział zastosowanych środków poprawy efektywności energetycznej przez wojewodów w 2012 r. i w 2013 r.[^6]"
+      },
+      {
+       "type": "text",
+       "text": "Zastosowanie środków poprawy efektywności"
+      },
+      {
+       "type": "text",
+       "text": "energetycznej w 2012 r. i w 2013 r. przez"
+      },
+      {
+       "type": "text",
+       "text": "wojewodów"
+      },
+      {
+       "type": "text",
+       "text": "40"
+      },
+      {
+       "type": "text",
+       "text": "30"
+      },
+      {
+       "type": "text",
+       "text": "20"
+      },
+      {
+       "type": "text",
+       "text": "10"
+      },
+      {
+       "type": "text",
+       "text": "0"
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5"
+      },
+      {
+       "type": "text",
+       "text": "2011 2012 2013"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Ocena i wnioski z realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej - wojewodowie",
+     "children": [
+      {
+       "type": "text",
+       "text": "Należy podkreślić, że podczas dokonywania oceny działań w roku 2012 i 2013 przyczyniających się do realizacji krajowego celu w zakresie oszczędnego gospodarowania energią oraz krajowego planu działań dotyczącego efektywności energetycznej, które zostały przedstawione w sprawozdaniach przygotowanych przez urzędy wojewódzkie, wystąpiły trudności spowodowane niejednorodnością przekazanych informacji w sprawozdaniach. Informacje te różniły się stopniem szczegółowości danych - od bardzo ogólnych danych do szczegółowych danych zawierających wyliczenia oszczędności energii w jednostkach bezwzględnych oraz danych finansowych. Dobrymi przykładami w zakresie przygotowań starannych sprawozdań rocznych wyróżniły się m.in. Kujawsko-Pomorski Urząd Wojewódzki, Zachodniopomorski Urząd Wojewódzki oraz Podlaski Urząd Wojewódzki."
+      },
+      {
+       "type": "text",
+       "text": "Niezależnie od powyższego, na podstawie przekazanych sprawozdań można sformułować następujące wnioski:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_7/pkt_1",
+       "text": "w dalszym ciągu w niektórych jednostkach podległych wojewodzie jest niewystarczająca świadomość dotycząca realizacji krajowego celu w zakresie oszczędnego gospodarowania energią, w tym także realizacji przedsięwzięć służących poprawie efektywności energetycznej w ramach krajowego planu działań dotyczącego efektywności energetycznej. Dlatego wskazane byłoby prowadzenie dalszych działań informacyjnoedukacyjnych w obszarze efektywności energetycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "poważnym problemem są trudności w pozyskaniu odpowiednich środków finansowych na realizację działań czy dokonanie zakupów; brak jest też specjalistów z zakresu pozyskiwania środków z funduszy UE. Środki z dotacji, kredyty preferencyjne, fundusze pomocowe odgrywają bardzo istotną rolę w działaniach mających na celu wsparcie działań energooszczędnych, jednak potrzebne jest upowszechnienie oraz rozpropagowanie informacji o dostępnych środkach finansowych i możliwości korzystania z tych środków z uwzględnieniem jednostek sektora publicznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "wojewodowie także wskazywali, że nie są właścicielami budynków w których mają siedzibę, co uniemożliwiało podejmowanie działań inwestycyjnych związanych z modernizacją budynku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_7/pkt_4",
+       "text": "tak samo jak w przypadku ministerstw, występują trudności w oszacowaniu wartości oszczędności energii końcowej, pierwotnej, co wynika z braku wiedzy lub specjalistów oraz sprzętu służącego do monitorowania zużycia energii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_7/pkt_5",
+       "text": "mając na uwadze, że jednostki sektora publicznego powinny stanowić przykład w sferze działalności publicznej, a w szczególności w zakresie inwestycji, które mają bezpośredni wpływ na zużycie energii (począwszy od zielonych zamówień publicznych, poprzez realizację nowych budynków o niskim zużyciu energii, aż po edukację i szkolenia), niezbędne są dalsze działania w zakresie poszerzania świadomości w pełnieniu wzorcowej roli jednostek sektora publicznego. Procedowany projekt ustawy o efektywności energetycznej może stanowić dalszą zachętę dla dokonywania działań w obszarze rozwiązań cechujących się wysokimi kryteriami efektywności energetycznej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załączniki do raportu Załącznik nr 1",
+   "body": [
+    {
+     "type": "text",
+     "text": "Tabela nr 1. Zestawienie środków finansowych wydatkowanych na przedsięwzięcia służące poprawie efektywności energetycznej w ramach realizacji wzorcowej roli sektora publicznego przez ministerstwa w 2012 r. i w 2013 r."
+    },
+    {
+     "type": "text",
+     "text": "Resort 2012 2013 Ministerstwo Administracji i Cyfryzacji 14 415 907,50 zł nie były podejmowane działania służące poprawie efektywności energetycznej"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Edukacji Narodowej 2 800 899,71 zł 1 014 100,55 zł"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Finansów 79 420 741,00 zł 13 541 052,56 zł"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Gospodarki 782 508,50 zł 831 100, 00 zł"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Infrastruktury i Rozwoju 7) 20 000,00 zł 101 842 952,40 zł"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Kultury i Dziedzictwa Nie wskazano danych 75 749 228,75 zł Narodowego wraz z jednostkami podległymi liczbowych i nadzorowanymi Ministerstwo Nauki i Szkolnictwa Wyższego 172 372, 00 zł 905 704,00 zł"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Obrony Narodowej wraz 185 098 586,20 zł 175 251 470,57 zł z jednostkami podległymi i nadzorowanymi Ministerstwo Pracy i Polityki Społecznej 982 947,00 zł 6 175 454,80 zł"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Rolnictwa i Rozwoju Wsi wraz 15 505 000,00 zł 29 429 000,00 zł z jednostkami podległymi i nadzorowanymi Ministerstwo Skarbu Państwa 125 200,00 zł 163 388,50 zł"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Sportu i Turystyki 70 200,00 zł 50 340,00 zł"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Spraw Wewnętrznych Nie wskazano danych 14 786 166,75 zł liczbowych Ministerstwo Spraw Zagranicznych Wydatkowano kwotę Wymiana oświetlenia ze poniżej 14 000 EUR świetlówek kompaktowych na źródła LED nie wymaga dodatkowych nakładów finansowych, koszty są pokrywane z bieżących wydatków na eksploatację. Ministerstwo Sprawiedliwości wraz 137 134 200,00 zł 85 726 400,00 zł z jednostkami podległymi i nadzorowanymi Ministerstwo Środowiska wraz z jednostkami 5 523 233,20 zł 2 067 013,35 zł podległymi i nadzorowanymi Ministerstwo Zdrowia wraz z jednostkami 26 637 018,16 zł 88 621 594,52 zł podległymi i nadzorowanymi RAZEM 570 511 765,67 zł 494 332 014,35 zł Tabela nr 2. Zestawienie środków finansowych wydatkowanych na przedsięwzięcia służące poprawie efektywności energetycznej w ramach realizacji wzorcowej roli sektora publicznego przez wojewodów w 2012 r. i w 2013 r."
+    },
+    {
+     "type": "text",
+     "text": "Urząd Wojewódzki 2012 2013 Dolnośląski Urząd Wojewódzki 502 838,00 zł 3 640 381,45 zł"
+    },
+    {
+     "type": "text",
+     "text": "Kujawsko-Pomorski Urząd 18 995 596,92 zł 12 137 711,08 zł Wojewódzki wraz z jednostkami zespolonymi Lubelski Urząd Wojewódzki wraz 1 966 016,97 zł 8 331 062,25 zł z jednostkami zespolonymi Lubuski Urząd Wojewódzki wraz 502 293,37 zł 9 271 727,22 zł z jednostkami zespolonymi Łódzki Urząd Wojewódzki 1 306 645,91 zł 705 660 zł"
+    },
+    {
+     "type": "text",
+     "text": "Małopolski Urząd Wojewódzki 502 728,11 zł 1 558 830,30 zł"
+    },
+    {
+     "type": "text",
+     "text": "Mazowiecki Urząd Wojewódzki 7 870 052,22 zł 10 123 786,36 zł"
+    },
+    {
+     "type": "text",
+     "text": "Opolski Urząd Wojewódzki wraz 171 180,73 zł 5 029 871,42 zł z jednostkami zespolonymi Podkarpacki Urząd Wojewódzki 910 801,66, zł 4 930 634,86 zł wraz z jednostkami zespolonymi Podlaski Urząd Wojewódzki wraz 2 018 045,36 zł 2 404 000,00 zł z jednostkami zespolonymi Pomorski Urząd Wojewódzki 9 020 541,68 zł 2 185 648,55 zł wraz z jednostkami zespolonymi Śląski Urząd Wojewódzki wraz z 2 452 256,26 zł 4 606 815,34 zł jednostkami zespolonymi Świętokrzyski Urząd Wojewódzki 486 100,12 zł 26 621 124,49 zł wraz z jednostkami zespolonymi Warmińsko-Mazurski Urząd 537 166,79 zł 1 256 389,34 zł Wojewódzki wraz z jednostkami zespolonymi Wielkopolski Urząd Wojewódzki 1 887 449,75 zł 2 476 227,51 zł wraz z jednostkami zespolonymi Zachodniopomorski Urząd 2 241 016,56 zł 12 050 281,81 zł Wojewódzki wraz z jednostkami zespolonymi RAZEM 51 370 730,41 zł 107 330 151,98 zł"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "Tabela nr 1. Zestawienie oszczędności energii pierwotnej i finalnej wskazane w sprawozdaniach przekazanych przez ministerstwa w 2012 r. i w 2013 r."
+    },
+    {
+     "type": "text",
+     "text": "Resort 2012 2013 Energia pierwotna Energia finalna Energia pierwotna Energia finalna GJ/rok kWh/rok GJ/rok kWh/rok GJ/rok kWh/rok GJ/rok kWh/rok Ministerstwo Administracji i 102,25 2 121 b.d. b.d. b.d. b.d. Cyfryzacji Ministerstwo Edukacji Narodowej b.d. b.d. b.d. b.d. b.d. b.d. b.d. b.d. Ministerstwo Finansów 59 153,98 1 171 409,03 276 821,06 719 407,44 148 535,6 1 674 195,09 50 746,66 558 066,72 Ministerstwo Gospodarki b.d. b.d. b.d. b.d. b.d. b.d. b.d. b.d. Ministerstwo Infrastruktury i 17 415 750,00 59,83 5 890 874,00 b.d. b.d. b.d. b.d. Rozwoju[^8] Ministerstwo Kultury i Dziedzictwa 46 138,89 129 900,34 32 794,91 11 613 812,7 36 906 379 437,81 26 138,79 75 232,51 Narodowego wraz z jednostkami podległymi i nadzorowanymi Ministerstwo Nauki i Szkolnictwa 4 030 3 050 Wyższego Ministerstwo Obrony Narodowej wraz 61 124,38 117 232,83 3 265 618,8 2 025,7 1 497 964,3 334 968,6 1 527 457,4 z jednostkami podległymi i nadzorowanymi Ministerstwo Pracy i Polityki 2 879,00 1 171,00 2 987,00 1 171,00 Społecznej Ministerstwo Rolnictwa i Rozwoju Wsi b.d. b.d. b.d. b.d. b.d. b.d. b.d. b.d. wraz z jednostkami podległymi i nadzorowanymi Ministerstwo Skarbu Państwa b.d. b.d. b.d. b.d. b.d. b.d. b.d. b.d. Ministerstwo Sportu i Turystyki b.d. b.d. b.d. b.d. b.d. b.d. b.d. b.d. Ministerstwo Spraw Wewnętrznych 10 023,71 399 859,00 48 163,16 300 083,12 308 110,61 800,00 147 016,48 132 833,45 Ministerstwo Spraw Zagranicznych 689,34 626,67 37 167,00 Ministerstwo Sprawiedliwości wraz 470 866,00 2 462 640,60 497 413,30 2 294 077,2 z jednostkami podległymi i nadzorowanymi Ministerstwo Środowiska wraz 11 741,93 11 847,48 2 521 321,34 304 904,86 21 103,636 235 540,84 21 644,013 166 300,00 z jednostkami podległymi i nadzorowanymi Ministerstwo Zdrowia wraz z 25 794,00 1 245 850,00 28 168,11 5 265 719,00 1 267 578,80 795,20 1 011 032,75 2 168 824,90 jednostkami podległymi i nadzorowanymi RAZEM 217 545,23 20 845 481,85 3 026 461,16 29 829 211,52 1 787 247,35 4 286 146,54 1 595 768,29 6 959 959,18 Tabela nr 2. Zestawienie oszczędności energii pierwotnej i finalnej wskazane w sprawozdaniach przekazanych przez wojewodów w 2012 r. i w 2013 r."
+    },
+    {
+     "type": "text",
+     "text": "Urząd Wojewódzki 2012 2013 Energia pierwotna Energia finalna Energia pierwotna Energia finalna GJ/rok kWh/rok GJ/rok kWh/rok GJ/rok kWh/rok GJ/rok kWh/rok Dolnośląski Urząd Wojewódzki b.d. b.d. b.d. b.d. 18 500,00 37 032,00 10 251,00 Kujawsko-Pomorski Urząd 1 444,46 742,03 17 269,75 38 331,87 1 091,5 286,22 900,83 6 781,286 Wojewódzki wraz z jednostkami zespolonymi Lubelski Urząd Wojewódzki wraz 940,2 812,99 66,11 147,34 2 208 z jednostkami zespolonymi Lubuski Urząd Wojewódzki wraz 4 910,52 2 091,86 655,33 3 534,56 105 587,88 z jednostkami zespolonymi Łódzki Urząd Wojewódzki 20,24 18 480 9 624 18 480 Małopolski Urząd Wojewódzki 1 744,63 23 769,44 1 849,77 1 960,7 23 585,44 Mazowiecki Urząd Wojewódzki 1 182,8 46 942 1 704,15 6 346,12 2 158,01 8 891,57 13 389,94 Opolski Urząd Wojewódzki wraz 765,8 107,8 1 080 3 024,84 971,4 z jednostkami zespolonymi Podkarpacki Urząd Wojewódzki 9 873 7,49 6 395 5 416,21 30 512 4 878,3 23 968 wraz z jednostkami zespolonymi Podlaski Urząd Wojewódzki wraz 5 140,5 355,1 2 429 z jednostkami zespolonymi Pomorski Urząd Wojewódzki 26,67 71,99 wraz z jednostkami zespolonymi Śląski Urząd Wojewódzki wraz z 2 411,92 5 102,88 5 541,05 2658 5 569,15 31 550 jednostkami zespolonymi Świętokrzyski Urząd Wojewódzki 1 082,73 2 526 263,5 1 417,67 wraz z jednostkami zespolonymi Warmińsko-Mazurski Urząd 124 23,45 995 5,26 871 Wojewódzki wraz z jednostkami zespolonymi Wielkopolski Urząd Wojewódzki 667,63 346,8 1 410,22 1 767,25 564,2 wraz z jednostkami zespolonymi Zachodniopomorski Urząd 2 640,28 3 784,83 244 2 782,3 4 167,36 1 101,16 Wojewódzki wraz z jednostkami zespolonymi RAZEM 11 884,06 57 681,03 31 756,14 107 677,61 40 814,00 33 456,22 83 347,92 241 738,31 Oszczędności w przeliczeniu na 283,85 4,96 758,48 9,26 974,83 2,88 1 990,73 20,79 toe"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3",
+   "body": [
+    {
+     "type": "text",
+     "text": "Zestawienie stron internetowych, na których są dostępne informacje o stosowaniu środków poprawy efektywności energetycznej zgodnie z art. 10 ustawy."
+    },
+    {
+     "type": "text",
+     "text": "Resorty"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Zdrowia i jednostki nadzorowane http://gis.gov.pl/?go=bip&id=19 http://csioz.gov.pl/zamowienie.php?id=192. http://rckik.lublin.pl/efektywno%C5%9B%C4%87-energetyczna.html http://www.bip.rckik.pl/index.php?id=914 http://www.izz.waw.pl/pl/termomodernizacja zarzadzanieenergia.wum.edu.pl http://www.szpgin.kielce.pl/index.php/przetargi/przetargi http://bip.sum.edu.pl/index.php?id=375"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Spraw Wewnętrznych i jednostki nadzorowane http://www.sankud.pl/bip/index.php?strona=efektenerg"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Edukacji Narodowej i jednostki nadzorowane http://bip.oke.poznan.pl/?id=895"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Finansów i jednostki nadzorowane www.mf.gov.pl/ministerstwo-finansów/ministerstwo-finansów/budzet-i-majatek-ministerstwa"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Środowiska i jednostki nadzorowane http://roztoczanskipn.pl/pl/efektywnosc-energetyczna"
+    },
+    {
+     "type": "text",
+     "text": "Ministerstwo Sprawiedliwości i jednostki nadzorowane http://www.bip.sw.gov.pl/strony/EfektywnoscEner.aspx?BiuletynID=numer identyfikacyjny jednostki organizacyjnej http://www.starogard-gd.sr.gov.pl/index.php/efektywnosc-energetyczna Województwa"
+    },
+    {
+     "type": "text",
+     "text": "Dolnośląskie"
+    },
+    {
+     "type": "text",
+     "text": "http://bip.wijhars.pl/index.php?option=com_content&view=article&id=152&Itemid=157 http://piorin.gov.pl/pk-ogloszenia/pk-inne/ Mazowieckie"
+    },
+    {
+     "type": "text",
+     "text": "http://www.kwp.radom.pl/inwestycje-wspierane-przez-dotacje-z-wfosigw,pal,12179,0 http://www.bip.kuratorium.waw.pl/bip/stosowane-srodki-popra/720,Stosowane-srodkipoprawy-efektywnosci-energetycznej.html http://bip.wiif.waw.pl/pdf/energetyka.pdf Warmińsko-mazurskie"
+    },
+    {
+     "type": "text",
+     "text": "http://bip.uw.olsztyn.pl/pl/bip/energetyka http://piorin.gov.pl/pk-ogloszenia/pk-inne/ Zachodniopomorskie"
+    },
+    {
+     "type": "text",
+     "text": "http://www.bip.wiih.pomorzezachodnie.pl/zamowienia/wszystkie.dhtml http://www.bip.wijhars.szczecin.pl/strony/menu/52.dhtml http://www.wkz.bip.alfatv.pl/strony/12.dhtml Wielkopolskie"
+    },
+    {
+     "type": "text",
+     "text": "http://witdpoznan.pl/files/pliki/energia2012.pdf"
+    },
+    {
+     "type": "text",
+     "text": "Opolskie"
+    },
+    {
+     "type": "text",
+     "text": "http://wsseopole.pis.gov.pl/?dep=265"
+    },
+    {
+     "type": "text",
+     "text": "Podlaskie"
+    },
+    {
+     "type": "text",
+     "text": "http://kuratorium.pbip.pl/?event=informacja&id=1593"
+    },
+    {
+     "type": "text",
+     "text": "Łódzkie"
+    },
+    {
+     "type": "text",
+     "text": "http://bip.lodzkie.eu/page/3500,efektywnosc-energetyczna.html"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Rozwoju kieruje działem administracji rządowej – gospodarka, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Rozwoju (Dz. U. poz. 1895).",
+  "1_2": "Metoda „od ogółu do szczegółu” wykorzystuje dane zagregowane inaczej nazywa się ją metodą „wskaźników efektywności energetycznej”. Dzięki niej można ustalić poprawne, ale jednak tylko wskaźniki rozwoju sytuacji, natomiast nie daje ona dokładnych obliczeń oszczędności energii na poziomie szczegółowym. Najczęściej przedmiotem obliczeń tą metodą są np. rodzaje środków transportu, działy przemysłu, itp. Obliczone wartości zużycia energii lub energochłonności podlegają korektom uwzględniającym czynniki zewnętrzne takie, jak liczba stopniodni w sezonie grzewczym, zmiany strukturalne, profile produkcji itp. Metoda „od szczegółu do ogółu” jest bardziej precyzyjnym sposobem obliczania oszczędności energii wynikających ze wzrostu efektywności energetycznej. Najpierw oblicza się zużycie energii dla pojedynczego odbiorcy końcowego, np. samochodu osobowego, w określonym przedziale czasu przed wdrożeniem działania mającego na celu zwiększenie efektywności energetycznej, uzyskując „wartości odniesienia”. Następnie stwierdzony poziom zużycia porównuje się ze zużyciem energii (odnotowanym w takim samym przedziale czasu, ale po wdrożeniu działania zwiększającego efektywność energetyczną). Różnica pomiędzy uzyskanymi wynikami jest miarą zwiększenia efektywności energetycznej.",
+  "2": "Mtoe – milion ton oleju ekwiwalentnego, 1Mtoe = 11630 GWh",
+  "3": "Zgodnie z wartościami odniesienia dla Polski zawartymi w prognozie wykonanej dla Komisji Europejskiej (PRIMES - Baseline 2007) zużycie energii pierwotnej jest prognozowane na poziomie 110 Mtoe w 2020 r., zatem uwzględniając ograniczenie zużycia energii o 13,6 Mtoe otrzymamy: 110 Mtoe – 13,6 Mtoe = 96,4 Mtoe. stanowisk pracy tj. biernej,  modernizacja węzła cieplnego, monitory, komputery,  wymiana zespołów  wymiana nisko sprawnych źródeł notebooki, serwery, prądotwórczych, ciepła, urządzenia wielofunkcyjne  montaż automatycznych  wymiana instalacji elektrycznej, (kserokopiarki, urządzeń sterujących  wymiana instalacji skanery, drukarki), oświetleniem oświetleniowej,  zewnętrznym, sprzęt laboratoryjny  modernizacja i regulacja i sprzęt pomocniczy np.  budowa i montaż instalacji instalacji c.o., AGD, klimatyzatory, OZE np. kolektorów  ocieplenie stropodachu,  źródła światła słonecznych, paneli (świetlówki fotowoltaicznych, pomp  docieplenie ścian zewnętrznych, ciepła, kompaktowe, lampy  izolacja pionowa ścian, halogenowe i lampy  zlecenie wykonania audytu  wymiana więźby i pokrycia ledowe) i oprawy oświetlenia, audytu dachowego, oświetleniowe, energetycznego.",
+  "4": "Źródło: sprawozdania przekazane przez ministrów i wojewodów, za rok 2012 i 2013.",
+  "5": "Numeracja 1-5 odnosi się do środków poprawy efektywności energetycznych umieszczonych w Tabeli nr 5.",
+  "6": "Numeracja 1-5 odnosi się do środków poprawy efektywności energetycznych umieszczonych w Tabeli nr 5.",
+  "7": "Łączna wartość środków finansowych zgłoszona w sprawozdaniach za 2012 r przez Ministerstwo Budownictwa, Transportu i Gospodarki Morskiej wraz z jednostkami podległymi i nadzorowanymi oraz Ministerstwo Rozwoju Regionalnego. oszczędności w przeliczeniu na toe 5 195,98 1 792,39 72 285,78 2 564,85 42 687,67 368,54 38 114,27 598,45",
+  "8": "Obliczenia łączne dla oszczędności energii zgłoszonych w sprawozdaniach za 2012 r przez Ministerstwo Budownictwa, Transportu i Gospodarki Morskiej wraz z jednostkami podległymi i nadzorowanymi oraz Ministerstwo Rozwoju Regionalnego."
+ }
+}

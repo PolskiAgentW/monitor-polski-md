@@ -1,0 +1,114 @@
+{
+ "eli": "MP/2013/687",
+ "title": "Zarządzenie Prezydenta Rzeczypospolitej Polskiej z dnia 15 sierpnia 2013 r. zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/687/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 sierpnia 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 143 Konstytucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W statucie Kancelarii Prezydenta Rzeczypospolitej Polskiej stanowiącym załącznik do zarządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 28 marca 2006 r. w sprawie nadania statutu Kancelarii Prezydenta Rzeczypospolitej Polskiej (M.P. Nr 49, poz. 526, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 3 ust. 1–4 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Prezydent powołuje i odwołuje Szefa Kancelarii oraz sekretarzy i podsekretarzy stanu. Prezydent może powołać zastępcę lub zastępców Szefa Kancelarii spośród sekretarzy stanu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Prezydent, na wniosek Szefa Kancelarii, powołuje i odwołuje Szefa Gabinetu Prezydenta.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Szefa Kancelarii zastępuje w czasie nieobecności zastępca Szefa Kancelarii. W przypadku powołania kilku zastępców, Szefa Kancelarii zastępuje wyznaczony przez niego zastępca Szefa Kancelarii.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Szef Kancelarii, za zgodą Prezydenta, określa szczegółowy zakres zadań sekretarzy i podsekretarzy stanu w Kancelarii oraz Szefa Gabinetu Prezydenta, w tym zakres nadzoru merytorycznego nad komórkami organizacyjnymi Kancelarii.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 5:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w ust. 1 pkt 9 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„9) Biuro Ochrony;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "uchyla się ust. 2–4;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "użyte w statucie w różnej liczbie i przypadku wyrazy „statutowa komórka organizacyjna” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami „komórka organizacyjna”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem 2 września 2013 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej Polskiej: B. Komorowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionego zarządzenia zostały ogłoszone w M.P. z 2006 r. Nr 60, poz. 634 i Nr 69, poz. 704, z 2007 r. Nr 12, poz. 121, z 2008 r. Nr 4, poz. 44, z 2009 r. Nr 8, poz. 77 i Nr 21, poz. 264, z 2010 r. Nr 72, poz. 914 i Nr 93, poz. 1071 oraz z 2011 r. Nr 27, poz. 298 i Nr 61, poz. 584."
+ }
+}

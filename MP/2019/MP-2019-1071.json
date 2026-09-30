@@ -1,0 +1,513 @@
+{
+ "eli": "MP/2019/1071",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 24 października 2019 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Stałego Komitetu Rady Ministrów",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1071/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 października 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Stałego Komitetu Rady Ministrów"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 86 Prezesa Rady Ministrów z dnia 28 listopada 2013 r. w sprawie Stałego Komitetu Rady Ministrów (M.P. z 2019 r. poz. 262), z uwzględnieniem zmian wprowadzonych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "zarządzeniem nr 74 Prezesa Rady Ministrów z dnia 7 czerwca 2019 r. zmieniającym zarządzenie w sprawie Stałego Komitetu Rady Ministrów (M.P. poz. 498);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "zarządzeniem nr 129 Prezesa Rady Ministrów z dnia 26 sierpnia 2019 r. zmieniającym zarządzenie w sprawie Stałego Komitetu Rady Ministrów (M.P. poz. 772).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "§ 2 zarządzenia nr 74 Prezesa Rady Ministrów z dnia 7 czerwca 2019 r. zmieniającego zarządzenie w sprawie Stałego Komitetu Rady Ministrów (M.P. poz. 498), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem ogłoszenia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "§ 2 zarządzenia nr 129 Prezesa Rady Ministrów z dnia 26 sierpnia 2019 r. zmieniającego zarządzenie w sprawie Stałego Komitetu Rady Ministrów (M.P. poz. 772), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 24 października 2019 r. (poz. 1071)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 86"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 28 listopada 2013 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie Stałego Komitetu Rady Ministrów"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 12 ust. 1 pkt 1 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Stały Komitet Rady Ministrów jest organem pomocniczym Rady Ministrów i Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_2/ust_1",
+       "text": "Zadaniem Stałego Komitetu Rady Ministrów jest inicjowanie, przygotowywanie i uzgadnianie rozstrzygnięć albo stanowisk Rady Ministrów lub Prezesa Rady Ministrów w sprawach należących do zadań i kompetencji tych organów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_2/ust_2",
+       "text": "Stały Komitet Rady Ministrów rozpatruje również inne sprawy niż określone w ust. 1, powierzone mu przez Radę Ministrów lub Prezesa Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "W skład Stałego Komitetu Rady Ministrów wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "[^1] Przewodniczący Stałego Komitetu Rady Ministrów, powoływany i odwoływany przez Prezesa Rady Ministrów spośród członków Rady Ministrów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "członkowie, którymi są sekretarze stanu lub podsekretarze stanu w ministerstwach, wyznaczeni przez ministra;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "[^2] nie więcej niż trzech przedstawicieli Prezesa Rady Ministrów, którymi są Szef Kancelarii Prezesa Rady Ministrów lub wyznaczeni przez niego sekretarze stanu lub podsekretarze stanu w Kancelarii Prezesa Rady Ministrów.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "1a",
+       "path": "par_3/ust_1a",
+       "text": "W przypadku nieobecności osoby, o której mowa w ust. 1 pkt 2, na posiedzeniu z ważnych przyczyn, w rozpatrywaniu i rozstrzyganiu spraw przez Komitet bierze udział inny wyznaczony sekretarz stanu lub podsekretarz stanu w ministerstwie, upoważniony pisemnie przez ministra.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Prezes Rady Ministrów albo z jego upoważnienia Przewodniczący Stałego Komitetu Rady Ministrów, w porozumieniu z Szefem Kancelarii Prezesa Rady Ministrów, może wyznaczyć każdorazowo dodatkowo inną osobę niż określona w ust. 1 pkt 3 do reprezentowania Prezesa Rady Ministrów w określonej sprawie będącej przedmiotem prac Stałego Komitetu Rady Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Prezes Rady Ministrów może, na wniosek Przewodniczącego Stałego Komitetu Rady Ministrów, powołać i odwołać nie więcej niż dwóch wiceprzewodniczących tego Komitetu spośród jego członków.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_3/ust_4",
+       "text": "Sekretarzem Stałego Komitetu Rady Ministrów jest powoływana i odwoływana przez Przewodniczącego tego Komitetu osoba kierująca komórką organizacyjną Kancelarii Prezesa Rady Ministrów, która sprawuje obsługę prac tego Komitetu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Prezes Rządowego Centrum Legislacji, Prezes Urzędu Ochrony Konkurencji i Konsumentów, Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej oraz Pełnomocnik Prezesa Rady Ministrów – Szef Centrum Analiz Strategicznych[^3] są stałymi uczestnikami posiedzeń Stałego Komitetu Rady Ministrów. W pracach Stałego Komitetu Rady Ministrów mogą brać udział ich przedstawiciele.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Przewodniczący Stałego Komitetu Rady Ministrów może zapraszać do udziału w pracach tego Komitetu, z głosem doradczym, również inne osoby niż określone w ust. 1, reprezentujące organy, instytucje lub organizacje właściwe w sprawach będących przedmiotem tych prac, w tym przedstawiciela Rady Legislacyjnej przy Prezesie Rady Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Sekretarz Stałego Komitetu Rady Ministrów informuje osoby, o których mowa w ust. 2, o zasadach uczestnictwa w posiedzeniu, a także o rygorach wynikających z przepisów o ochronie informacji niejawnych, jeżeli na posiedzeniu będzie rozpatrywany projekt zawierający informacje niejawne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Stały Komitet Rady Ministrów odbywa posiedzenia w stałych terminach określonych przez Przewodniczącego tego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Z uzasadnionych przyczyn Przewodniczący Stałego Komitetu Rady Ministrów na polecenie Prezesa Rady Ministrów, z własnej inicjatywy albo na wniosek osób wchodzących w skład tego Komitetu, może wyznaczyć inny termin posiedzenia, zawiadamiając o tym Prezesa Rady Ministrów i właściwe osoby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Na podstawie projektów dokumentów rządowych wniesionych do rozpatrzenia przez Stały Komitet Rady Ministrów, Sekretarz tego Komitetu opracowuje projekt porządku obrad Stałego Komitetu Rady Ministrów oraz wprowadza w nim zmiany.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Projekt porządku obrad Sekretarz Stałego Komitetu Rady Ministrów doręcza osobom uczestniczącym w posiedzeniu tego Komitetu nie później niż na 5 dni przed dniem posiedzenia, o którym mowa w § 5 ust. 1.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_6/ust_3",
+       "text": "Porządek obrad może zostać zmieniony lub uzupełniony przez Przewodniczącego Stałego Komitetu Rady Ministrów z inicjatywy własnej lub na umotywowany wniosek osoby wchodzącej w skład Stałego Komitetu Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "Jeżeli Prezes Rady Ministrów jest obecny na posiedzeniu Stałego Komitetu Rady Ministrów, przewodniczy obradom tego Komitetu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "W posiedzeniach Stałego Komitetu Rady Ministrów stale lub doraźnie uczestniczą, bez prawa udziału w podejmowaniu rozstrzygnięć, osoby zaproszone przez Sekretarza tego Komitetu, jeżeli uzna on ich udział w posiedzeniu za niezbędny do wykonywania powierzonych im zadań służbowych albo do obsługi prac Stałego Komitetu Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "Posiedzenia Stałego Komitetu Rady Ministrów odbywają się przy obecności większości osób wchodzących w jego skład.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "Rozstrzygnięcia Stałego Komitetu Rady Ministrów zapadają w drodze uzgodnienia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_9/ust_3",
+       "text": "W przypadkach gdy osiągnięcie uzgodnienia nie jest możliwe, projekt rozstrzygnięcia może być, z inicjatywy Przewodniczącego Stałego Komitetu Rady Ministrów, poddany głosowaniu. Rozstrzygnięcia, w drodze głosowania, zapadają zwykłą większością głosów obecnych osób wchodzących w skład Stałego Komitetu Rady Ministrów, a w razie równej liczby głosów – rozstrzyga głos Przewodniczącego Stałego Komitetu Rady Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_9/ust_4",
+       "text": "Osoba wchodząca w skład Stałego Komitetu Rady Ministrów może zgłosić do protokołu odrębne stanowisko w stosunku do rozstrzygnięcia podjętego na tym posiedzeniu Stałego Komitetu Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_10/ust_1",
+       "text": "Z posiedzenia Stałego Komitetu Rady Ministrów sporządza się, pod nadzorem Sekretarza tego Komitetu, pełny zapis jego przebiegu, zwany dalej „zapisem posiedzenia”, oraz protokół ustaleń posiedzenia Stałego Komitetu Rady Ministrów, zwany dalej „protokołem ustaleń”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_10/ust_2",
+       "text": "Zapis posiedzenia jest wewnętrznym dokumentem roboczym, który wykorzystuje się do sporządzenia protokołu ustaleń.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_10/ust_3",
+       "text": "Protokół ustaleń zawiera pełne zestawienie rozstrzygnięć podjętych na posiedzeniu Stałego Komitetu Rady Ministrów oraz zgłoszonych do protokołu stanowisk odrębnych. Protokół ustaleń podpisują Przewodniczący Stałego Komitetu Rady Ministrów i Sekretarz tego Komitetu, a w przypadku nieobecności Przewodniczącego Stałego Komitetu Rady Ministrów – wiceprzewodniczący oraz Sekretarz tego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_10/ust_4",
+       "text": "Protokół ustaleń Stałego Komitetu Rady Ministrów doręcza się organom i osobom wskazanym przez Przewodniczącego tego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_10/ust_5",
+       "text": "Osoba wchodząca w skład Stałego Komitetu Rady Ministrów może zgłosić do Przewodniczącego tego Komitetu, za pośrednictwem Sekretarza Stałego Komitetu Rady Ministrów, zastrzeżenia do treści protokołu ustaleń wraz z wnioskiem o jego sprostowanie w terminie 7 dni od dnia doręczenia protokołu ustaleń.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_10/ust_6",
+       "text": "Sprostowanie oczywistych omyłek pisarskich w protokole ustaleń może nastąpić również z urzędu w każdym czasie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_10/ust_7",
+       "text": "Sprostowania protokołu ustaleń dokonuje Sekretarz Stałego Komitetu Rady Ministrów, za zgodą Przewodniczącego tego Komitetu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "par_10/ust_8",
+       "text": "Zapis posiedzenia oraz protokół ustaleń przechowuje się w Kancelarii Prezesa Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "Przewodniczący Stałego Komitetu Rady Ministrów albo działający z jego upoważnienia Sekretarz Stałego Komitetu Rady Ministrów może, na wniosek organu wnioskującego albo z inicjatywy własnej, zarządzić rozpatrzenie sprawy w drodze korespondencyjnego uzgodnienia stanowisk (tryb obiegowy).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_12/ust_1",
+       "text": "Stały Komitet Rady Ministrów może określać sposoby i terminy wykonania prac mających na celu przygotowanie projektu dokumentu rządowego przewidywanego do rozpatrzenia przez Radę Ministrów lub Prezesa Rady Ministrów oraz wskazywać organy odpowiedzialne za ich wykonanie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_12/ust_2",
+       "text": "Uprawnienia, o których mowa w ust. 1, przysługują również Przewodniczącemu Stałego Komitetu Rady Ministrów, jeżeli Komitet ten nie określił sposobu i terminu wykonania odpowiednich prac lub organów odpowiedzialnych za ich wykonanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "Przewodniczący Stałego Komitetu Rady Ministrów może, spośród osób wchodzących w skład tego Komitetu oraz osób, o których mowa w § 3 ust. 2 i § 4, powoływać zespoły robocze, w celu realizacji zadań określonych przez Przewodniczącego Stałego Komitetu Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "Stały Komitet Rady Ministrów albo jego Przewodniczący może powoływać rzeczoznawców lub ekspertów do opracowania analiz, prognoz, ekspertyz, opinii lub koncepcji i projektów rozwiązań programowych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_15/ust_1",
+       "text": "Stały Komitet Rady Ministrów składa Prezesowi Rady Ministrów roczne sprawozdania ze swojej działalności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_15/ust_2",
+       "text": "Przewodniczący Stałego Komitetu Rady Ministrów składa sprawozdanie z działalności tego Komitetu na żądanie Prezesa Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "W zakresie nieuregulowanym w niniejszym zarządzeniu, do rozpatrywania projektu dokumentu rządowego przez Stały Komitet Rady Ministrów stosuje się przepisy uchwały nr 190 Rady Ministrów z dnia 29 października 2013 r. – Regulamin pracy Rady Ministrów (M.P. z 2016 r. poz. 1006 i 1204, z 2018 r. poz. 114 i 278 oraz z 2019 r. poz. 137), dotyczące rozpatrzenia projektu dokumentu rządowego przez Stały Komitet Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "17",
+     "path": "par_17",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_17/ust_1",
+       "text": "Do projektów dokumentów rządowych, które przed dniem wejścia w życie niniejszego zarządzenia zostały skierowane do uzgodnień lub konsultacji na podstawie § 12 uchwały nr 49 Rady Ministrów z dnia 19 marca 2002 r. – Regulamin pracy Rady Ministrów (M.P. poz. 221, z późn. zm.[^4]), stosuje się przepisy dotychczasowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_17/ust_2",
+       "text": "Przewodniczący, wiceprzewodniczący, przedstawiciel Prezesa Rady Ministrów oraz sekretarz stałego komitetu Rady Ministrów, powołani lub wyznaczeni na podstawie zarządzenia, o którym mowa w § 18, są odpowiednio Przewodniczącym, wiceprzewodniczącym, przedstawicielem Prezesa Rady Ministrów oraz Sekretarzem Stałego Komitetu Rady Ministrów w rozumieniu niniejszego zarządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "18",
+     "path": "par_18",
+     "text": "Traci moc zarządzenie nr 98 Prezesa Rady Ministrów z dnia 21 grudnia 2010 r. w sprawie stałego komitetu Rady Ministrów (M.P. poz. 1171, z 2011 r. poz. 786 i 1153 oraz z 2013 r. poz. 190 i 357).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "19",
+     "path": "par_19",
+     "text": "Zarządzenie wchodzi w życie z dniem 1 stycznia 2014 r.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "W brzmieniu ustalonym przez § 1 pkt 1 zarządzenia nr 74 Prezesa Rady Ministrów z dnia 7 czerwca 2019 r. zmieniającego zarządzenie w sprawie Stałego Komitetu Rady Ministrów (M.P. poz. 498), które weszło w życie z dniem 7 czerwca 2019 r.",
+  "2": "W brzmieniu ustalonym przez § 1 zarządzenia nr 129 Prezesa Rady Ministrów z dnia 26 sierpnia 2019 r. zmieniającego zarządzenie w sprawie Stałego Komitetu Rady Ministrów (M.P. poz. 772), które weszło w życie z dniem 28 sierpnia 2019 r.",
+  "3": "Ze zmianą wprowadzoną przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 1.",
+  "4": "Zmiany wymienionej uchwały zostały ogłoszone w M.P. z 2002 r. poz. 482, z 2004 r. poz. 734, z 2005 r. poz. 757, z 2006 r. poz. 439, z 2009 r. poz. 246, z 2010 r. poz. 47 oraz z 2011 r. poz. 6, 553, 785 i 1146."
+ }
+}

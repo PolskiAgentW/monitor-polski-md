@@ -1,0 +1,77 @@
+{
+ "eli": "MP/2018/146",
+ "title": "Uchwała Sejmu Rzeczypospolitej Polskiej z dnia 26 stycznia 2018 r. w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/146/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SEJMU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 stycznia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Sejmu Rzeczypospolitej Polskiej z dnia 30 lipca 1992 r. – Regulamin Sejmu Rzeczypospolitej Polskiej (M.P. z 2012 r. poz. 32, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "po art. 29 dodaje się art. 29a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 29a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Sejm wybiera członków Krajowej Rady Sądownictwa spośród sędziów Sądu Najwyższego, sądów powszechnych, sądów administracyjnych i sądów wojskowych na zasadach i w trybie określonych w ustawie z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa (Dz. U. z 2016 r. poz. 976 i 2261, z 2017 r. poz. 1139, 1183 i 1452 oraz z 2018 r. poz. 3).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Komisja Sprawiedliwości i Praw Człowieka wykonuje zadania, o których mowa w art. 11d ust. 4 ustawy, o której mowa w ust. 1.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 169 w ust. 2 w pkt 3 skreśla się wyraz „posłów”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Sejmu: M. Kuchciński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej uchwały zostały ogłoszone w M.P. z 2012 r. poz. 819, z 2013 r. poz. 62, z 2014 r. poz. 374 i 1079, z 2015 r. poz. 31, 550, 1130, 1136 i 1212, z 2016 r. poz. 349, 512, 616, 634 i 1178 oraz z 2017 r. poz. 262 i 420."
+ }
+}

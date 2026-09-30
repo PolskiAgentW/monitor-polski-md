@@ -1,0 +1,566 @@
+{
+ "eli": "MP/2012/1",
+ "title": "Zarządzenie Nr 1 Prezesa Rady Ministrów z dnia 5 stycznia 2012 r. w sprawie Komitetu Rady Ministrów do spraw Cyfryzacji",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/1/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE Nr 1"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 stycznia 2012 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Komitetu Rady Ministrów do spraw Cyfryzacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 1 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2003 r. Nr 24, poz. 199, z późn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Komitet Rady Ministrów do spraw Cyfryzacji, zwany dalej „Komitetem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Komitet jest organem pomocniczym Rady Ministrów i Prezesa Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W skład Komitetu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "przewodniczący – minister właściwy do spraw informatyzacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "dwóch wiceprzewodniczących, którymi są wskazani przez właściwych ministrów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_2/lit_a",
+         "text": "sekretarz lub podsekretarz stanu w Ministerstwie Administracji i Cyfryzacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_2/lit_b",
+         "text": "sekretarz lub podsekretarz stanu w Ministerstwie Rozwoju Regionalnego;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_3/lit_a",
+         "text": "Szef Kancelarii Prezesa Rady Ministrów lub wyznaczony przez niego sekretarz lub podsekretarz stanu w Kancelarii Prezesa Rady Ministrów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_3/lit_b",
+         "text": "wyznaczeni przez właściwych ministrów sekretarze lub podsekretarze stanu, po jednym z każdego ministerstwa, z wyłączeniem ministerstw wymienionych w pkt 2,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_3/lit_c",
+         "text": "Prezes lub Wiceprezes Urzędu Zamówień Publicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_3/lit_d",
+         "text": "Prezes lub Zastępca Prezesa Urzędu Komunikacji Elektronicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_2/ust_1/pkt_3/lit_e",
+         "text": "Prezes lub Wiceprezes Głównego Urzędu Statystycznego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Sekretarza Komitetu powołuje i odwołuje przewodniczący spośród pracowników urzędu obsługującego ministra właściwego do spraw informatyzacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Jeżeli Prezes Rady Ministrów jest obecny na posiedzeniu Komitetu, przewodniczy temu posiedzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "W przypadku nieobecności przewodniczącego pracami Komitetu kieruje wiceprzewodniczący, wskazany przez przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Do zadań Komitetu należy inicjowanie i opiniowanie projektów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "dokumentów rządowych w zakresie związanym z:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_1/lit_a",
+         "text": "informatyzacją administracji publicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_1/lit_b",
+         "text": "rozwojem społeczeństwa informacyjnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_1/lit_c",
+         "text": "rozwojem sieci szerokopasmowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_1/lit_d",
+         "text": "wdrażaniem rozwiązań informatycznych, w szczególności dotyczących edukacji, ochrony zdrowia i podpisu elektronicznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_1/lit_e",
+         "text": "łącznością,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_1/lit_f",
+         "text": "rejestrami publicznymi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_1/lit_g",
+         "text": "polityką audiowizualną,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_1/lit_h",
+         "text": "zastosowaniem technologii informacyjnych w budowie gospodarki opartej na wiedzy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_1/lit_i",
+         "text": "współpracą organów administracji państwowej z Systemem Informacyjnym Schengen i Wizowym Systemem Informacyjnym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/ust_1/pkt_1/lit_j",
+         "text": "zastosowaniem technologii informacyjnych w infrastrukturze transportowej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "krajowych dokumentów strategicznych lub planistycznych, w tym krajowych programów operacyjnych, związanych z wykorzystaniem funduszy europejskich, w obecnej i następnych perspektywach finansowych, przeznaczonych na informatyzację i rozwój społeczeństwa informacyjnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Komitet opiniuje dokumentację projektów teleinformatycznych, których wartość przekracza 5 000 000 zł, przekazywaną Komitetowi przez właściwe podmioty do zaopiniowania, przy czym dokumentacja projektów teleinformatycznych zgłoszonych do dofinansowania przekazywana jest Komitetowi przed dokonaniem ich oceny przez odpowiednie instytucje oraz przed podjęciem decyzji o ich finansowaniu. W przypadku powstałych wątpliwości dotyczących celowości projektu opinia Komitetu zawierająca wniosek o wprowadzenie w nim odpowiednich zmian przekazywana jest do właściwego podmiotu. Podmiot realizujący projekt uwzględnia wniosek Komitetu w możliwie najszerszym zakresie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przepis ust. 2 nie dotyczy projektów teleinformatycznych wyłanianych w trybie konkursowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Komitet koordynuje działania związane z przygotowaniem organów administracji rządowej do realizacji zadań wynikających z Europejskiej Agendy Cyfrowej oraz działalność tych organów związaną z realizacją Planu Informatyzacji Państwa, o którym mowa w art. 5 ust. 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. Nr 64, poz. 565, z późn. zm.[^2]).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_3/ust_5",
+     "text": "W celu realizacji zadań, o których mowa w ust. 4, Komitet może powoływać międzyinstytucjonalne zespoły wykonawcze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_3/ust_6",
+     "text": "Komitet rozpatruje także inne niż określone w ust. 1, 2 i 4 sprawy powierzone mu przez Radę Ministrów lub Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_3/ust_7",
+     "text": "Szczegółowy tryb opiniowania przez Komitet dokumentacji projektów teleinformatycznych, o której mowa w ust. 2, określa regulamin Komitetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Do udziału w pracach Komitetu przewodniczący stale zaprasza przedstawicieli: Szefa Agencji Bezpieczeństwa Wewnętrznego oraz Szefa Centralnego Biura Antykorupcyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W pracach Komitetu mogą również uczestniczyć zaproszeni przez przewodniczącego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "Komendant Główny Policji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "Prezes Urzędu Ochrony Konkurencji i Konsumentów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "Naczelny Dyrektor Archiwów Państwowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_2/pkt_4",
+       "text": "Prezes Narodowego Funduszu Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_4/ust_2/pkt_5",
+       "text": "Prezes Zakładu Ubezpieczeń Społecznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_4/ust_2/pkt_6",
+       "text": "Prezes Kasy Rolniczego Ubezpieczenia Społecznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_4/ust_2/pkt_7",
+       "text": "Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_4/ust_2/pkt_8",
+       "text": "Pełnomocnik Rządu do Spraw Rządowego Programu Rozwoju Zintegrowanego Systemu Informacji o Nieruchomościach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_4/ust_2/pkt_9",
+       "text": "Pełnomocnik Rządu do Spraw Przygotowania Organów Administracji Państwowej do Współpracy z Systemem Informacyjnym Schengen i Wizowym Systemem Informacyjnym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_4/ust_2/pkt_10",
+       "text": "Dyrektor Centrum Systemów Informacyjnych Ochrony Zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_4/ust_2/pkt_11",
+       "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_4/ust_2/pkt_12",
+       "text": "Prezes Rządowego Centrum Legislacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_4/ust_2/pkt_13",
+       "text": "Dyrektor Centrum Informatycznego Edukacji",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "– lub ich przedstawiciele."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przewodniczący może zapraszać do udziału w pracach Komitetu, z głosem doradczym, również inne osoby niż określone w ust. 1 i 2, reprezentujące organy, instytucje lub organizacje właściwe w sprawach będących przedmiotem tych prac.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "W posiedzeniach Komitetu stale lub doraźnie uczestniczą, bez prawa udziału w podejmowaniu rozstrzygnięć, osoby zaproszone przez sekretarza Komitetu, jeżeli uzna on ich udział w posiedzeniu za niezbędny do wykonywania powierzonych im zadań służbowych albo do obsługi prac Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Sekretarz Komitetu informuje osoby, o których mowa w ust. 4, o zasadach uczestnictwa w posiedzeniu, w szczególności o rygorach wynikających z ochrony informacji niejawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przewodniczący może, spośród członków Komitetu i osób określonych w § 4 ust. 1, ust. 2 pkt 1–10 i ust. 3, tworzyć zespoły zadaniowe w celu opracowania propozycji stanowiska Komitetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Do prac w zespołach zadaniowych, o których mowa w ust. 1, przewodniczący może zapraszać przedstawicieli Krajowej Rady Radiofonii i Telewizji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Przewodniczący określa szczegółowe zadania, termin ich wykonania, zasady działania, skład osobowy i siedzibę zespołu zadaniowego oraz powołuje kierownika zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Osobom, o których mowa w § 4 ust. 3 i 4, z wyłączeniem osób reprezentujących organy, przysługują diety, zwrot kosztów przejazdu oraz zwrot kosztów noclegu, na zasadach określonych w przepisach dotyczących ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Koszty opinii i ekspertyz sporządzonych na wniosek przewodniczącego lub sekretarza Komitetu dla Komitetu oraz koszty, o których mowa w ust. 1, finansowane są z budżetu państwa z części 27 – Informatyzacja, dział 720 – Informatyka.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Obsługę prac Komitetu zapewnia urząd obsługujący ministra właściwego do spraw informatyzacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W sprawach nieuregulowanych w niniejszym zarządzeniu stosuje się odpowiednio przepisy § 4–11 i 14–20 zarządzenia nr 98 Prezesa Rady Ministrów z dnia 21 grudnia 2010 r. w sprawie stałego komitetu Rady Ministrów (M. P. Nr 99, poz. 1171 oraz z 2011 r. Nr 78, poz. 786 i Nr 114, poz. 1153).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Projekty dokumentów rządowych do rozpatrzenia przez Komitet oraz wszelkie dokumenty dotyczące prac nad tymi projektami są kierowane za pośrednictwem środków komunikacji elektronicznej lub z wykorzystaniem informatycznych nośników danych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Przepisu ust. 1 nie stosuje się do dokumentów zawierających informacje niejawne, w rozumieniu przepisów o ochro - nie informacji niejawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Znosi się Komitet Rady Ministrów do Spraw Informatyzacji i Łączności.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Projekty dokumentów rządowych skierowane przed dniem wejścia w życie niniejszego zarządzenia do rozpatrzenia przez Komitet Rady Ministrów do Spraw Informatyzacji i Łączności podlegają rozpatrzeniu przez Komitet Rady Ministrów do spraw Cyfryzacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Traci moc zarządzenie nr 24 Prezesa Rady Ministrów z dnia 7 marca 2007 r. w sprawie Komitetu Rady Ministrów do Spraw Informatyzacji i Łączności (M. P. Nr 16, poz. 184, z późn. zm.[^3]).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: D. Tusk"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 80, poz. 717, z 2004 r. Nr 238, poz. 2390 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1414 i Nr 249, poz. 2104, z 2006 r. Nr 45, poz. 319, Nr 170, poz. 1217 i Nr 220, poz. 1600, z 2008 r. Nr 227, poz. 1505, z 2009 r. Nr 42, poz. 337, Nr 98, poz. 817, Nr 157, poz. 1241 i Nr 161, poz. 1277, z 2010 r. Nr 57, poz. 354 oraz z 2011 r. Nr 117, poz. 676, Nr 185, poz. 1092 i Nr 232, poz. 1378.",
+  "2": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 12, poz. 65 i Nr 73, poz. 501, z 2008 r. Nr 127, poz. 817, z 2009 r. Nr 157, poz. 1241, z 2010 r. Nr 40, poz. 230, Nr 167, poz. 1131 i Nr 182, poz. 1228 oraz z 2011 r. Nr 112, poz. 654, Nr 185, poz. 1092 i Nr 204, poz. 1195.",
+  "3": "Zmiany wymienionego zarządzenia zostały ogłoszone w M. P. z 2007 r. Nr 52, poz. 604, z 2008 r. Nr 26, poz. 258, z 2009 r. Nr 24, poz. 320, z 2010 r. Nr 62, poz. 818 oraz z 2011 r. Nr 45, poz. 504."
+ }
+}

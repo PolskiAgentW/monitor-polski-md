@@ -1,0 +1,93 @@
+{
+ "eli": "MP/2015/1064",
+ "title": "Obwieszczenie Ministra Środowiska z dnia 28 października 2015 r. w sprawie stawek opłat za usunięcie drzew i krzewów na rok 2016",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1064/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ŚRODOWISKA[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 października 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stawek opłat za usunięcie drzew i krzewów na rok 2016"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 85 ust. 9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2015 r. poz. 1651 i 1688) ogłasza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "maksymalne stawki opłat za usuwanie drzew za jeden centymetr obwodu pnia mierzonego na wysokości 130 cm, których wysokość jest określona w załączniku do obwieszczenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stawkę za usunięcie jednego metra kwadratowego powierzchni pokrytej krzewami w wysokości 252,79 zł.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Środowiska: M.H. Grabowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Środowiska z dnia 28 października 2015 r. (poz. 1064)",
+   "body": [
+    {
+     "type": "text",
+     "text": "MAKSYMALNE STAWKI OPŁAT ZA USUWANIE DRZEW ZA JEDEN CENTYMETR OBWODU PNIA MIERZONEGO NA WYSOKOŚCI 130 CM"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Wielkość obwodu pnia w cm Stawki opłat za 1 cm w zł"
+    },
+    {
+     "type": "text",
+     "text": "1 do 25 99,05"
+    },
+    {
+     "type": "text",
+     "text": "2 od 26 do 50 346,67"
+    },
+    {
+     "type": "text",
+     "text": "3 od 51 do 100 656,20"
+    },
+    {
+     "type": "text",
+     "text": "4 od 101 do 200 772,94"
+    },
+    {
+     "type": "text",
+     "text": "5 od 201 do 300 689,81"
+    },
+    {
+     "type": "text",
+     "text": "6 od 301 do 500 548,77"
+    },
+    {
+     "type": "text",
+     "text": "7 powyżej 500 380,58"
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 22 września 2014 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. poz. 1267)."
+ }
+}

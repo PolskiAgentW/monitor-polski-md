@@ -1,0 +1,358 @@
+{
+ "eli": "MP/2021/278",
+ "title": "Obwieszczenie Ministra Cyfryzacji z dnia 2 marca 2021 r. w sprawie włączenia kwalifikacji rynkowej \"Wykorzystywanie standardu WCAG (Web Content Accessibility Guidelines) w redagowaniu stron internetowych\" do Zintegrowanego Systemu Kwalifikacji",
+ "converter": "eli2md 0.6.16",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/278/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA CYFRYZACJI[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 marca 2021 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie włączenia kwalifikacji rynkowej „Wykorzystywanie standardu WCAG (Web Content Accessibility Guidelines) w redagowaniu stron internetowych” do Zintegrowanego Systemu Kwalifikacji"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i 2 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2020 r. poz. 226) ogłasza się w załączniku do niniejszego obwieszczenia informacje o włączeniu kwalifikacji rynkowej „Wykorzystywanie standardu WCAG (Web Content Accessibility Guidelines) w redagowaniu stron internetowych” do Zintegrowanego Systemu Kwalifikacji."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Cyfryzacji: wz. M. Zagórski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Cyfryzacji zdnia 2 marca 2021r. (poz.278)",
+   "body": [
+    {
+     "type": "text",
+     "text": "INFORMACJE O WŁĄCZENIU KWALIFIKACJI RYNKOWEJ „WYKORZYSTYWANIE STANDARDU WCAG (WEB CONTENT ACCESSIBILITY GUIDELINES) W REDAGOWANIU STRON INTERNETOWYCH” DO ZINTEGROWANEGO SYSTEMU KWALIFIKACJI"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Nazwa kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wykorzystywanie standardu WCAG (Web Content Accessibility Guidelines) w redagowaniu stron internetowych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Nazwa dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Okres ważności dokumentu potwierdzającego nadanie kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Certyfikat jest ważny 5 lat. W sytuacji przedłużania ważności certyfikatu stosuje się metodę analizy dowodów i deklaracji. Przedłużenie ważności certyfikatu wymaga przedstawienia dowodów na samodzielne wykonywanie zadań na stanowisku redaktora stron internetowych zgodnych ze standardem WCAG lub stanowisku równoważnym, nieprzerwanie przez co najmniej 5 miesięcy w ciągu ostatnich 3 lat od czasu uzyskania certyfikatu. Przeprowadzana jest również rozmowa z komisją walidacyjną dotycząca przedstawionych dowodów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Poziom Polskiej Ramy Kwalifikacji przypisany do kwalifikacji rynkowej (ewentualnie odniesienie do poziomu Sektorowej Ramy Kwalifikacji)",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 poziom Polskiej Ramy Kwalifikacji"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Efekty uczenia się wymagane dla kwalifikacji rynkowej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Syntetyczna charakterystyka efektów uczenia się"
+      },
+      {
+       "type": "text",
+       "text": "Osoba posiadająca kwalifikację „Wykorzystywanie standardu WCAG (Web Content Accessibility Guidelines) w redagowaniu stron internetowych” samodzielnie zarządza modułami strony internetowej za pomocą systemów zarządzania treścią CMS. Znajduje, dodaje i weryfikuje moduły strony internetowej pod kątem ich dostępności dla osób ze szczególnymi potrzebami. Charakteryzuje strony internetowe pod kątem dostępności dla osób ze szczególnymi potrzebami bądź jej braku, klasyfikuje problemy według ich znaczenia dla dostępności cyfrowej. Samodzielnie znajduje rozwiązanie problemów związanych z redagowaniem treści w ramach dostępnych narzędzi zaplecza systemu CMS i wskazuje podstawowe problemy z treściami umieszczanymi na stronach internetowych. Redaguje treści strony internetowej w sposób dostępny dla osób ze szczególnymi potrzebami, pisze teksty na odpowiednim poziomie mglistości tekstu z wykorzystaniem narzędzi do badania mglistości. Redaguje poprawną, zgodną ze standardem WCAG, semantyczną strukturę tekstu (nadaje nagłówki, listy, tabele) oraz adekwatne opisy alternatywne zdjęć i innych grafik umieszczanych na stronie internetowej."
+      },
+      {
+       "type": "text",
+       "text": "Zestaw 1. Posługiwanie się wiedzą z zakresu standardu WCAG w obszarze dostępności cyfrowej stron internetowych"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Posługuje się wiedzą a) charakteryzuje potrzeby użytkowników w zakresie dostępności stron internetowych (m.in. osób z niepełnosprawnością fizyczną, wzroku, słuchu, z zakresu dostępności intelektualną oraz osób starszych), stron internetowych b) wymienia i definiuje różne formy dostępności treści umieszczanych na stronach internetowych (m.in. audiodeskrypcja, język migowy, napisy, zgodnie z WCAG audionapisy, audiowstęp), c) omawia zasady dostępności stron internetowych dla osób ze szczególnymi potrzebami,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_1/lit_d",
+       "text": "podaje przykłady sytuacji, w których wymagane będzie stworzenie wersji kontrastowej strony internetowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "ust_1/lit_e",
+       "text": "wymienia i definiuje podstawowe pojęcia z zakresu włączenia cyfrowego i dostępności cyfrowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Posługuje się wiedzą a) omawia przykłady narzędzi stosowanych do badania dostępności stron internetowych dla osób ze szczególnymi potrzebami, dotyczącą narzędzi b) dobiera narzędzia do kryteriów sukcesu zawartych w standardzie WCAG. dostępności stron internetowych zgodnie z WCAG",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zestaw 2. Redagowanie treści umieszczanych na stronach internetowych zgodnie z wymogami standardu WCAG"
+      },
+      {
+       "type": "text",
+       "text": "Poszczególne efekty Kryteria weryfikacji ich osiągnięcia uczenia się"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Tworzy treści a) opracowuje tekst zrozumiały dla osób ze szczególnymi potrzebami (w szczególności osób z mniejszym zasobem słownictwa), do umieszczenia na b) dodaje opisy alternatywne do zdjęć, stronie internetowej c) dodaje strukturę nagłówkową do tekstu, przy pomocy CMS d) ustawia tytuły stron, e) ustawia język,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_1/lit_f",
+       "text": "dodaje listy punktowane lub numerowane,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_1/lit_g",
+       "text": "dodaje tabele,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_1/lit_h",
+       "text": "ustawia krój czcionki.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Modyfikuje treści a) dodaje elementy graficzne, umieszczone na stronie b) dodaje linki, internetowej, c) dodaje nagłówki i listy, wykorzystując znaczniki d) dodaje tabele, HTML w kodzie strony e) zmienia język dla fragmentu tekstu,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "ust_2/lit_f",
+       "text": "implementuje multimedia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "ust_2/lit_g",
+       "text": "formatuje tekst na podstawowym poziomie (m.in. pogrubienie, kursywa, podkreślenie),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "ust_2/lit_h",
+       "text": "sprawdza technikę dodawania skip linków.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Weryfikuje dodatkowe a) weryfikuje napisy i napisy rozszerzone do filmu, usługi dostępności b) weryfikuje transkrypcję tekstową do materiału audio, cyfrowej c) weryfikuje audiodeskrypcję,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "ust_3/lit_d",
+       "text": "weryfikuje wtyczki zwiększające dostępność strony internetowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wymagania dotyczące walidacji i podmiotów przeprowadzających walidację",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Etap weryfikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "1.1.Metody"
+      },
+      {
+       "type": "text",
+       "text": "Do weryfikacji efektów uczenia się stosuje się wyłącznie metody: test teoretyczny, zadanie praktyczne uzupełnione rozmową z komisją."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Zasoby kadrowe"
+      },
+      {
+       "type": "text",
+       "text": "Komisja walidacyjna składa się z minimum 2 członków, którzy spełniają następujące wymagania:"
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący komisji walidacyjnej:"
+      },
+      {
+       "type": "tir",
+       "num": "1",
+       "path": "ust_1/tir_1",
+       "text": "posiada udokumentowane minimum pięcioletnie doświadczenie w wykorzystywaniu standardu dostępności WCAG przy redagowaniu stron internetowych,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "2",
+       "path": "ust_1/tir_2",
+       "text": "przeprowadził minimum 50 audytów dostępności stron internetowych w ciągu ostatnich trzech lat przed powołaniem na przewodniczącego komisji,",
+       "children": []
+      },
+      {
+       "type": "tir",
+       "num": "3",
+       "path": "ust_1/tir_3",
+       "text": "posiada udokumentowane doświadczenie w prowadzeniu szkoleń z zakresu dostępności cyfrowej (minimum 100 godzin szkoleniowych).",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wszyscy członkowie komisji walidacyjnej muszą posiadać udokumentowane dwuletnie doświadczenie w wykorzystywaniu standardu dostępności WCAG przy redagowaniu stron internetowych."
+        },
+        {
+         "type": "text",
+         "text": "1.3. Sposób organizacji walidacji oraz warunki organizacyjne i materialne"
+        },
+        {
+         "type": "text",
+         "text": "Weryfikacja efektów uczenia się składa się z dwóch części: teoretycznej i praktycznej."
+        },
+        {
+         "type": "text",
+         "text": "Część teoretyczna obejmuje test teoretyczny z zakresu znajomości standardu WCAG (zestaw 01). Może być przeprowadzana elektronicznie (np. na platformie internetowej wyposażonej w moduł egzaminacyjny) lub papierowo. Każda wersja testu teoretycznego musi spełniać standardy dostępności."
+        },
+        {
+         "type": "text",
+         "text": "Warunkiem przystąpienia do części praktycznej jest pozytywna weryfikacja części teoretycznej walidacji."
+        },
+        {
+         "type": "text",
+         "text": "Praktyczna część walidacji polega na wykonaniu zadań zgodnie z poleceniami zawartymi w arkuszu walidacyjnym. Zadania dotyczą redagowania oraz weryfikowania dostępność treści umieszczanych na stronach internetowych zgodnie z wymaganiami standardu WCAG. Ocenie podlega efekt zadań praktycznych. Zadania będą wykonywane na odpowiednio wyposażonym i przygotowanym stanowisku komputerowym."
+        },
+        {
+         "type": "text",
+         "text": "Rozmowa z komisją walidacyjną odbywa się tuż po wykonaniu zadań praktycznych i je uzupełnia."
+        },
+        {
+         "type": "text",
+         "text": "Praktyczną część walidacji przeprowadza się w pomieszczeniu wyposażonym w stanowisko komputerowe z systemem operacyjnym (np. Windows) i przeglądarkami internetowymi (np. Firefox i Chrome) oraz z dostępem do połączenia internetowego i słuchawkami. W czasie walidacji powinna być możliwość zainstalowania na komputerze innego oprogramowania lub dodatków do przeglądarek."
+        },
+        {
+         "type": "text",
+         "text": "Pomieszczenie egzaminacyjne powinno być dostępne dla osób niepełnosprawnych, a platforma internetowa spełniać obowiązujący standard WCAG na poziomie AA."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Etapy identyfikowania i dokumentowania",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się wymagań dotyczących etapów identyfikowania i dokumentowania efektów uczenia się."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Warunki, jakie musi spełniać osoba przystępująca do walidacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie określa się warunków, jakie musi spełniać osoba przystępująca do walidacji."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Termin dokonywania przeglądu kwalifikacji",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie rzadziej niż raz na 10 lat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Minister Cyfryzacji kieruje działem administracji rządowej – informatyzacja, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 6 października 2020 r. w sprawie szczegółowego zakresu działania Ministra Cyfryzacji (Dz. U. poz. 1716)."
+ }
+}

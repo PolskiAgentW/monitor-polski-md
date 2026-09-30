@@ -1,0 +1,375 @@
+{
+ "eli": "MP/2019/1187",
+ "title": "Zarządzenie nr 266 Prezesa Rady Ministrów z dnia 16 grudnia 2019 r. w sprawie nadania statutu Ministerstwu Funduszy i Polityki Regionalnej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1187/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 266"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 grudnia 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadania statutu Ministerstwu Funduszy i Polityki Regionalnej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 39 ust. 5 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ministerstwu Funduszy i Polityki Regionalnej nadaje się statut, stanowiący załącznik do zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do zarządzenia nr 266 Prezesa Rady Ministrów z dnia 16 grudnia 2019 r. (poz. 1187)",
+   "body": [
+    {
+     "type": "text",
+     "text": "STATUT MINISTERSTWA FUNDUSZY I POLITYKI REGIONALNEJ"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Ministerstwo Funduszy i Polityki Regionalnej, zwane dalej „Ministerstwem”, zapewnia obsługę Ministra Funduszy i Polityki Regionalnej, zwanego dalej „Ministrem”, właściwego, na podstawie rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2019 r. w sprawie szczegółowego zakresu działania Ministra Funduszy i Polityki Regionalnej (Dz. U. poz. 2263), do spraw objętych działem rozwój regionalny.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "W skład Ministerstwa wchodzą Gabinet Polityczny Ministra oraz następujące komórki organizacyjne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "Departament Budżetu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "Departament Certyfikacji i Desygnacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "Departament Europejskiego Funduszu Społecznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "Departament Informatyki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "Departament Kontroli;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "Departament Koordynacji Wdrażania Funduszy Unii Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "Departament Partnerstwa Publiczno-Prywatnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "Departament Prawny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/pkt_9",
+       "text": "Departament Programów Infrastrukturalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/pkt_10",
+       "text": "Departament Programów Pomocowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/pkt_11",
+       "text": "Departament Programów Ponadregionalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/pkt_12",
+       "text": "Departament Programów Wsparcia Innowacji i Rozwoju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/pkt_13",
+       "text": "Departament Promocji Funduszy Europejskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/pkt_14",
+       "text": "Departament Regionalnych Programów Operacyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_2/pkt_15",
+       "text": "Departament Rozwoju Cyfrowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_2/pkt_16",
+       "text": "Departament Spraw Europejskich i Współpracy Międzynarodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_2/pkt_17",
+       "text": "Departament Strategii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_2/pkt_18",
+       "text": "Departament Współpracy Terytorialnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "par_2/pkt_19",
+       "text": "Biuro Administracyjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "par_2/pkt_20",
+       "text": "Biuro Dyrektora Generalnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "par_2/pkt_21",
+       "text": "Biuro Inicjatyw Społecznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "par_2/pkt_22",
+       "text": "Biuro Komunikacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "par_2/pkt_23",
+       "text": "Biuro Ministra;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "par_2/pkt_24",
+       "text": "Biuro Obsługi Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "par_2/pkt_25",
+       "text": "Biuro Polityki Bezpieczeństwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "par_2/pkt_26",
+       "text": "Biuro Rzecznika Funduszy Europejskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "27",
+       "path": "par_2/pkt_27",
+       "text": "Biuro Zarządzania Zasobami Ludzkimi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Obsługę zadań Ministra zapewniają w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/pkt_1",
+       "text": "Departament Certyfikacji i Desygnacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/pkt_2",
+       "text": "Departament Europejskiego Funduszu Społecznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/pkt_3",
+       "text": "Departament Koordynacji Wdrażania Funduszy Unii Europejskiej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/pkt_4",
+       "text": "Departament Partnerstwa Publiczno-Prywatnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/pkt_5",
+       "text": "Departament Programów Infrastrukturalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/pkt_6",
+       "text": "Departament Programów Pomocowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/pkt_7",
+       "text": "Departament Programów Ponadregionalnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/pkt_8",
+       "text": "Departament Programów Wsparcia Innowacji i Rozwoju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/pkt_9",
+       "text": "Departament Promocji Funduszy Europejskich;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_3/pkt_10",
+       "text": "Departament Regionalnych Programów Operacyjnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_3/pkt_11",
+       "text": "Departament Rozwoju Cyfrowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_3/pkt_12",
+       "text": "Departament Strategii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_3/pkt_13",
+       "text": "Departament Współpracy Terytorialnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_3/pkt_14",
+       "text": "Biuro Rzecznika Funduszy Europejskich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Bezpośredni nadzór nad Gabinetem Politycznym Ministra sprawuje Minister.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

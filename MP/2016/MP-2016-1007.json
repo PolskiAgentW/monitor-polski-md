@@ -1,0 +1,249 @@
+{
+ "eli": "MP/2016/1007",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 19 października 2016 r. zmieniająca uchwałę w sprawie sposobu zgłaszania kandydatów na członków komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania terytorialnych komisji wyborczych i obwodowych komisji wyborczych w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/1007/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 października 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie sposobu zgłaszania kandydatów na członków komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania terytorialnych komisji wyborczych i obwodowych komisji wyborczych w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 178 § 11 i art. 182 § 11 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 25 sierpnia 2014 r. w sprawie sposobu zgłaszania kandydatów na członków komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania terytorialnych komisji wyborczych i obwodowych komisji wyborczych w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast (M.P. poz. 783) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 9 w ust. 6 wprowadzenie do wyliczenia otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„W skład każdej obwodowej komisji wyborczej wchodzi, zgodnie z art. 182 § 2a i § 3 pkt 2 Kodeksu wyborczego, osoba wskazana przez wójta:”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 11 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. W wykazie, o którym mowa w ust. 1, ujmuje się również osoby wskazane do składów komisji, zgodnie z art. 182 § 2a i § 3 pkt 2 Kodeksu wyborczego, przez wójta.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 13:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "ust. 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Losowanie przeprowadza się w ten sposób, że nazwiska kandydatów uczestniczących w losowaniu oznacza się numerami, informując o tym obecnych przy losowaniu. Do jednakowych, nieprzeźroczystych kopert wkłada się kartki z wpisanymi numerami odpowiadającymi numerom, którymi oznaczono nazwiska kandydatów. Po wymieszaniu kopert losuje się:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) przy powoływaniu terytorialnej komisji wyborczej:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) 9 kopert – w przypadku gminnej i miejskiej komisji wyborczej w gminach niebędących miastem na prawach powiatu oraz dzielnicowej komisji wyborczej w dzielnicach m.st. Warszawy,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) 8 kopert – w przypadku wojewódzkiej i powiatowej komisji wyborczej oraz miejskiej komisji wyborczej w mieście na prawach powiatu;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) przy powoływaniu obwodowej komisji wyborczej:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) 10 kopert – w przypadku komisji w obwodach od 2001 do 3000 mieszkańców,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) 8 kopert – w przypadku komisji w obwodach do 2000 mieszkańców,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) 6 kopert – w przypadku komisji w obwodach odrębnych.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "dodaje się ust. 5a i 5b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5a. Wylosowane numery są odczytywane i okazywane obecnym przy losowaniu. Odczytywane są również imiona i nazwiska kandydatów oznaczonych tymi numerami.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5b. W czynnościach losowania mogą uczestniczyć inne osoby, pod nadzorem organu przeprowadzającego losowanie.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 14 dodaje się ust. 4 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. W przypadku, o którym mowa w ust. 1:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) terytorialne komisje wyborcze, przy uwzględnieniu sędziego wskazanego przez prezesa właściwego miejscowo sądu okręgowego do wojewódzkiej i powiatowej komisji wyborczej oraz miejskiej komisji wyborczej w mieście na prawach powiatu, powołuje się łącznie w składzie 7 osób;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) obwodowe komisje wyborcze, przy uwzględnieniu osoby wskazanej przez wójta, powołuje się łącznie w składzie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) 9 osób – w przypadku komisji w obwodach od 2001 do 3000 mieszkańców,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) 7 osób – w przypadku komisji w obwodach do 2000 mieszkańców,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) 5 osób – w przypadku komisji w obwodach odrębnych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w § 16:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "w ust. 1 w pkt 5 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„6) śmierci członka komisji.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "dodaje się ust. 1a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1a. Zmiany w składach obwodowych komisji wyborczych dokonywane są także w przypadku utraty członkostwa w komisji na skutek wyrażenia zgody na kandydowanie w wyborach przez osobę będącą w stosunku do członka komisji małżonkiem, wstępnym, zstępnym, rodzeństwem, małżonkiem zstępnego lub przysposobionego albo pozostającą z nim w stosunku przysposobienia.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Osoba wchodząca w skład komisji powinna powiadomić niezwłocznie przewodniczącego komisji o wystąpieniu przyczyny, o której mowa w ust. 1 pkt 4 i 5 oraz w ust. 1a.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_5/lit_d",
+       "text": "ust. 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Uzupełnienia składu komisji dokonuje się w przypadku zmniejszenia się jej składu poniżej minimalnego składu komisji. Organ właściwy do powołania komisji dokonuje jej uzupełnienia do składu określonego w § 14 ust. 4.”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. poz. 134, 550, 588, 777, 881, 889, 1016 i 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072, z 2015 r. poz. 1043, 1044, 1045, 1923 i 2281 oraz z 2016 r. poz. 1232 i 1250."
+ }
+}

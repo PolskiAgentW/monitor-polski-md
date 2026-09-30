@@ -1,0 +1,202 @@
+{
+ "eli": "MP/2018/18",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 21 grudnia 2017 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/18/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 grudnia 2017 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2017 r. poz. 827) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 22:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "w ust. 1 wyrazy „Senatu, Zgromadzenia Narodowego oraz ich organów” zastępuje się wyrazami „Senatu oraz jego organów”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "w ust. 2 wyrazy „Senatu, Zgromadzenia Narodowego lub jego organu” zastępuje się wyrazami „Senatu lub jego organu”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "w ust. 2a we wprowadzeniu do wyliczenia wyrazy „Senatu, komisji, Zgromadzenia Narodowego lub jego organu” zastępuje się wyrazami „Senatu lub jego organu”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_1/lit_d",
+       "text": "w ust. 3 uchyla się pkt 3,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_1/lit_e",
+       "text": "w ust. 5 uchyla się pkt 3,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_1/pkt_1/lit_f",
+       "text": "w ust. 8 wyrazy „Senatu, komisji, Zgromadzenia Narodowego lub jego organu” zastępuje się wyrazami „Senatu lub jego organu”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 25a:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Sprawy senatorów, którzy naruszają swoim zachowaniem na sali posiedzeń powagę Senatu lub uniemożliwiają, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Senatu lub jego organów, w przypadku zaistnienia sytuacji, o której mowa w art. 47 ust. 3a, podlegają rozpatrzeniu przez Marszałka Senatu.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "po ust. 2 dodaje się ust. 2a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2a. W przypadku ponownego obniżenia uposażenia senatorskiego za kolejne zachowanie, o którym mowa w ust. 1, suma obniżeń w danym miesiącu nie może przekraczać połowy miesięcznego uposażenia.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "w ust. 4 w zdaniu trzecim po wyrazie „Senatu” dodaje się wyrazy „ , wydana po zasięgnięciu opinii Komisji Regulaminowej, Etyki i Spraw Senatorskich,”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 47:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_3/lit_a",
+       "text": "ust. 2 i 3 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Marszałek przywołuje „do porządku” senatora, który narusza powagę Senatu lub zakłóca porządek obrad.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Marszałek przywołuje „do porządku z zapisaniem do protokołu” senatora, który dopuścił się ciężkiego naruszenia powagi Senatu lub naruszenia porządku obrad.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "po ust. 3 dodaje się ust. 3a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3a. Marszałek może stwierdzić, że senator narusza powagę Senatu lub uniemożliwia prowadzenie obrad, jeżeli nadal narusza on powagę Senatu lub zakłóca porządek obrad, pomimo że na tym samym posiedzeniu został już przywołany „do porządku z zapisaniem do protokołu”.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_3/lit_c",
+       "text": "ust. 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Marszałek może podjąć decyzję o wykluczeniu senatora z posiedzenia, jeżeli nadal zakłóca on porządek obrad, pomimo że na tym samym posiedzeniu Marszałek stwierdził, że senator uniemożliwia prowadzenie obrad.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_3/lit_d",
+       "text": "w ust. 6 wyrazy „ust. 3 i 4” zastępuje się wyrazami „ust. 3–4”;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 62 w ust. 5 w zdaniu pierwszym po wyrazie „przepisy” dodaje się wyrazy „art. 47,”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uchwała wchodzi w życie z dniem wejścia w życie ustawy z dnia 24 listopada 2017 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora (Dz. U. z 2018 r. poz. 7).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: S. Karczewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

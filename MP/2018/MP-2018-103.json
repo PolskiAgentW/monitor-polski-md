@@ -1,0 +1,255 @@
+{
+ "eli": "MP/2018/103",
+ "title": "Zarządzenie nr 1 Prezesa Rady Ministrów z dnia 15 stycznia 2018 r. zmieniające zarządzenie w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/103/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 1"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 stycznia 2018 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2017 r. poz. 196, z poźn. zm.[^1]) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 111 Prezesa Rady Ministrów z dnia 5 października 2017 r. w sprawie nadania statutu Urzędowi Komisji Nadzoru Finansowego (M.P. poz. 947) w załączniku wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 3 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. W skład Urzędu Komisji wchodzą:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Pion Licencji – obejmujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Licencji Bankowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Licencji Ubezpieczeniowych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Pion Inspekcji – obejmujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Inspekcji Bankowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Inspekcji Ubezpieczeniowych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Pion Nadzoru Bankowego – obejmujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Bankowości Komercyjnej i Specjalistycznej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Bankowości Spółdzielczej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) Departament Spółdzielczych Kas Oszczędnościowo-Kredytowych i Instytucji Płatniczych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) Departament Regulacji Bankowych, Instytucji Płatniczych i Spółdzielczych Kas Oszczędnościowo-Kredytowych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Pion Nadzoru nad Rynkiem Kapitałowym – obejmujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Firm Inwestycyjnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Funduszy Inwestycyjnych i Funduszy Emerytalnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) Departament Spółek Publicznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) Departament Infrastruktury Rynku Kapitałowego i Nadzoru Obrotu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Pion Nadzoru nad Rynkiem Ubezpieczeniowym – obejmujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Nadzoru Ubezpieczeniowego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Monitorowania Ryzyk;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Pion Analiz – obejmujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Analiz i Współpracy z Zagranicą,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Innowacji Finansowych FinTech;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Pion Prawno-Sankcyjny – obejmujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Prawny,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Postępowań Sankcyjnych i Praktyk Rynkowych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Pion Wsparcia – obejmujący:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) Departament Zarządzania Zasobami Ludzkimi,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) Departament Komunikacji Społecznej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) Departament Administracji, Budżetu i Informatyki;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) Gabinet Komisji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Wieloosobowe Samodzielne Stanowisko do spraw Kontroli Wewnętrznej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Wieloosobowe Samodzielne Stanowisko do spraw Ochrony Informacji Niejawnych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 4 ust. 2 i 3 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Piony, o których mowa w § 3 ust. 1 pkt 7 i 8, Gabinet Komisji oraz Wieloosobowe Samodzielne Stanowisko do spraw Ochrony Informacji Niejawnych podlegają bezpośrednio Przewodniczącemu Komisji. Pionami, o których mowa w § 3 ust. 1 pkt 7 i 8, kieruje bezpośrednio Przewodniczący Komisji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przewodniczący Komisji może, w drodze zarządzenia, określić zakres bezpośredniej podległości Zastępcom Przewodniczącego Komisji pionów, o których mowa w § 3 ust. 1 pkt 1–6, Wieloosobowego Samodzielnego Stanowiska do spraw Kontroli Wewnętrznej oraz komórek organizacyjnych utworzonych na podstawie § 3 ust. 2.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 7 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Organizację wewnętrzną departamentów, Gabinetu Komisji, Wieloosobowego Samodzielnego Stanowiska do spraw Kontroli Wewnętrznej oraz Wieloosobowego Samodzielnego Stanowiska do spraw Ochrony Informacji Niejawnych określa, w drodze zarządzenia, Przewodniczący Komisji.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 724, 791, 819, 1089, 2102 i 2486."
+ }
+}

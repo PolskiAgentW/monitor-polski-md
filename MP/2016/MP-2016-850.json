@@ -1,0 +1,585 @@
+{
+ "eli": "MP/2016/850",
+ "title": "Zarządzenie nr 89 Prezesa Rady Ministrów z dnia 29 sierpnia 2016 r. w sprawie Zespołu do spraw Opracowania Rozwiązań w zakresie Poprawy Sytuacji Osób Niepełnosprawnych i Członków ich Rodzin",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/850/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 89"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 sierpnia 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Zespołu do spraw Opracowania Rozwiązań w zakresie Poprawy Sytuacji Osób Niepełnosprawnych i Członków ich Rodzin"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Zespół do spraw Opracowania Rozwiązań w zakresie Poprawy Sytuacji Osób Niepełnosprawnych i Członków ich Rodzin, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_3/pkt_1",
+       "text": "przewodniczący – Pełnomocnik Rządu do Spraw Osób Niepełnosprawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_3/pkt_2",
+       "text": "pierwszy zastępca przewodniczącego – sekretarz stanu albo podsekretarz stanu wyznaczony przez Ministra Zdrowia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_3/pkt_3",
+       "text": "drugi zastępca przewodniczącego – sekretarz stanu albo podsekretarz stanu wyznaczony przez Ministra Edukacji Narodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_3/pkt_4",
+       "text": "pozostali członkowie – po jednym przedstawicielu w randze sekretarza stanu albo podsekretarza stanu wyznaczonym przez:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_3/pkt_4/lit_a",
+         "text": "Ministra Finansów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_3/pkt_4/lit_b",
+         "text": "Ministra Infrastruktury i Budownictwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_3/pkt_4/lit_c",
+         "text": "Ministra Kultury i Dziedzictwa Narodowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_1/ust_3/pkt_4/lit_d",
+         "text": "Ministra Nauki i Szkolnictwa Wyższego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_1/ust_3/pkt_4/lit_e",
+         "text": "Ministra Rodziny, Pracy i Polityki Społecznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_1/ust_3/pkt_4/lit_f",
+         "text": "Ministra Rolnictwa i Rozwoju Wsi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_1/ust_3/pkt_4/lit_g",
+         "text": "Ministra Rozwoju,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_1/ust_3/pkt_4/lit_h",
+         "text": "Ministra Sportu i Turystyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_1/ust_3/pkt_4/lit_i",
+         "text": "Ministra Sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_1/ust_3/pkt_4/lit_j",
+         "text": "Ministra Spraw Wewnętrznych i Administracji;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_3/pkt_5",
+       "text": "sekretarz – wyznaczony przez przewodniczącego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Przewodniczący zaprasza do udziału w pracach Zespołu na prawach członka przedstawiciela:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_4/pkt_1",
+       "text": "Pełnomocnika Rządu do Spraw Osób Niepełnosprawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_4/pkt_2",
+       "text": "Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_4/pkt_3",
+       "text": "Zakładu Ubezpieczeń Społecznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_4/pkt_4",
+       "text": "Kasy Rolniczego Ubezpieczenia Społecznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_4/pkt_5",
+       "text": "Głównego Urzędu Statystycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_4/pkt_6",
+       "text": "Komendy Głównej Policji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/ust_4/pkt_7",
+       "text": "Krajowej Rady Radiofonii i Telewizji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/ust_4/pkt_8",
+       "text": "Narodowego Funduszu Zdrowia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_1/ust_4/pkt_9",
+       "text": "Państwowej Inspekcji Pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_1/ust_4/pkt_10",
+       "text": "Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_1/ust_4/pkt_11",
+       "text": "Polskiej Akademii Nauk;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_1/ust_4/pkt_12",
+       "text": "Polskiej Organizacji Turystycznej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_1/ust_4/pkt_13",
+       "text": "Urzędu Ochrony Konkurencji i Konsumentów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_1/ust_4/pkt_14",
+       "text": "Urzędu Transportu Kolejowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "Członkowie Zespołu mogą być zastępowani w jego pracach przez upoważnionych przedstawicieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_1/ust_6",
+     "text": "Przewodniczący może zapraszać do udziału w pracach Zespołu, z głosem doradczym, osoby niebędące członkami Zespołu, w szczególności ekspertów, przedstawicieli innych organów administracji rządowej, jednostek samorządu terytorialnego, organizacji pozarządowych w rozumieniu ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2016 r. poz. 239 i 395), zajmujących się problematyką dotyczącą osób niepełnosprawnych i członków ich rodzin oraz innych podmiotów, właściwych w sprawach będących przedmiotem prac Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_1/ust_7",
+     "text": "Przewodniczący może, spośród członków Zespołu i osób zaproszonych do udziału w pracach Zespołu na prawach członków, tworzyć zespoły i grupy robocze w celu realizacji zadań Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Zespołu należy opracowanie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "analizy aktualnej sytuacji osób niepełnosprawnych i członków ich rodzin ze szczególnym uwzględnieniem dostępu do edukacji, kultury, zatrudnienia oraz świadczeń zdrowotnych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "kompleksowych rozwiązań w zakresie poprawy sytuacji osób niepełnosprawnych i członków ich rodzin z uwzględnieniem postanowień Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "propozycji rozwiązań legislacyjnych i systemowych mających na celu poprawę sytuacji osób niepełnosprawnych i członków ich rodzin.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Pracami Zespołu kieruje przewodniczący, a w razie jego nieobecności pierwszy albo drugi zastępca przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Do zadań przewodniczącego należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "zwoływanie posiedzeń Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "planowanie, inicjowanie i organizowanie pracy Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "bieżące prowadzenie posiedzeń i czuwanie nad sprawnym ich przebiegiem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "reprezentowanie Zespołu na zewnątrz;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "przedstawianie Radzie Ministrów sprawozdań z działalności Zespołu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Zespół obraduje na posiedzeniach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Posiedzenia Zespołu, z własnej inicjatywy lub na wniosek co najmniej trzech członków Zespołu, zwołuje przewodniczący, a w razie jego nieobecności pierwszy albo drugi zastępca przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Z posiedzenia Zespołu sporządza się protokół, który podpisuje osoba przewodnicząca posiedzeniu oraz sekretarz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Szczegółowy tryb pracy Zespołu określa regulamin uchwalony przez Zespół na pierwszym posiedzeniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zespół podejmuje rozstrzygnięcia w formie uchwał na posiedzeniach. Uchwały są podejmowane zwykłą większością głosów w obecności co najmniej połowy członków Zespołu lub ich upoważnionych przedstawicieli. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego, a w razie jego nieobecności głos pierwszego albo drugiego zastępcy przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Osobom zaproszonym do udziału w pracach Zespołu, o których mowa w § 1 ust. 6, nie przysługuje prawo do udziału w głosowaniu nad uchwałami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Projekty uchwał mogą być też poddane pod głosowanie w trybie obiegowym, w terminie wskazanym przez przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Organy administracji rządowej oraz jednostki organizacyjne im podległe lub przez nie nadzorowane, na wniosek przewodniczącego, udzielają Zespołowi w ramach swoich kompetencji pomocy przy wykonywaniu jego zadań, w szczególności przedstawiają niezbędne informacje i dokumenty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Za udział w pracach Zespołu nie przysługuje wynagrodzenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Przedstawicielom organizacji pozarządowych i ekspertom uczestniczącym, na zaproszenie przewodniczącego, w posiedzeniu Zespołu przysługuje zwrot kosztów przejazdu lub noclegu, poniesionych w związku z uczestnictwem w tym posiedzeniu, obliczony zgodnie z przepisami dotyczącymi ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Koszty przejazdu lub noclegu, o których mowa w ust. 2, są pokrywane z budżetu państwa z części, której dysponentem jest Minister Rodziny, Pracy i Polityki Społecznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Wydatki związane z działalnością Zespołu oraz zespołów i grup roboczych są pokrywane z budżetu państwa z części, której dysponentem jest Minister Rodziny, Pracy i Polityki Społecznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Obsługę organizacyjną oraz kancelaryjno-biurową prac Zespołu zapewnia Ministerstwo Rodziny, Pracy i Polityki Społecznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Przewodniczący przedstawia Radzie Ministrów sprawozdanie roczne z realizacji zadań Zespołu, w terminie do dnia 31 marca roku następującego po roku, którego dotyczy sprawozdanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Przewodniczący po zrealizowaniu zadań, o których mowa w § 2, przedstawi Radzie Ministrów sprawozdanie końcowe z realizacji zadań Zespołu wraz z rekomendacjami, w terminie 60 dni od dnia zakończenia jego prac.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Sprawozdania, o których mowa w ust. 1 i 2, powinny zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "dane identyfikacyjne (osobę sporządzającą, podstawę prawną utworzenia Zespołu, okres objęty sprawozdaniem);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "określenie liczby i terminów posiedzeń Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_3/pkt_3",
+       "text": "informacje w przedmiocie realizacji zadań Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_3/pkt_4",
+       "text": "wnioski i rekomendacje wynikające z prac Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_3/pkt_5",
+       "text": "informacje dotyczące celowości dalszego działania Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_10/ust_3/pkt_6",
+       "text": "inne niezbędne informacje o funkcjonowaniu Zespołu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Pierwsze posiedzenie Zespołu przewodniczący zwołuje nie później niż w terminie 14 dni od dnia wejścia w życie niniejszego zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: B. Szydło"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

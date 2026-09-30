@@ -1,0 +1,754 @@
+{
+ "eli": "MP/2020/807",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 10 września 2020 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Zespołu do spraw Programu GovTech Polska",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/807/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 września 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Zespołu do spraw Programu GovTech Polska"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 55 Prezesa Rady Ministrów z dnia 20 kwietnia 2018 r. w sprawie Zespołu do spraw Programu GovTech Polska (M.P. z 2019 r. poz. 263), z uwzględnieniem zmiany wprowadzonej zarządzeniem nr 147 Prezesa Rady Ministrów z dnia 19 września 2019 r. zmieniającym niektóre zarządzenia Prezesa Rady Ministrów w sprawie organów pomocniczych Rady Ministrów i Prezesa Rady Ministrów w zakresie obowiązków sprawozdawczych tych organów (M.P. poz. 906).",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje § 10 zarządzenia nr 147 Prezesa Rady Ministrów z dnia 19 września 2019 r. zmieniającego niektóre zarządzenia Prezesa Rady Ministrów w sprawie organów pomocniczych Rady Ministrów i Prezesa Rady Ministrów w zakresie obowiązków sprawozdawczych tych organów (M.P. poz. 906), który stanowi:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„§ 10. Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 10 września 2020 r. (poz. 807)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 55"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 20 kwietnia 2018 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie Zespołu do spraw Programu GovTech Polska"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "Tworzy się Zespół do spraw Programu GovTech Polska, zwany dalej „Zespołem”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Zespół jest organem pomocniczym Prezesa Rady Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_1/ust_3",
+       "text": "Prace Zespołu koordynuje Przewodniczący Komitetu Sterującego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Do zadań Zespołu należy opracowanie i wdrożenie Programu GovTech Polska, zawierającego pakiet innowacyjnych rozwiązań cyfrowych dla administracji publicznej, zwanego dalej „Programem”.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "W skład Zespołu wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "Komitet Sterujący, w skład którego wchodzą:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "par_3/ust_1/pkt_1/lit_a",
+           "text": "Przewodniczący Komitetu Sterującego – Szef Kancelarii Prezesa Rady Ministrów,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_3/ust_1/pkt_1/lit_b",
+           "text": "członkowie:",
+           "children": [
+            {
+             "type": "tir",
+             "num": "1",
+             "path": "par_3/ust_1/pkt_1/lit_b/tir_1",
+             "text": "minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "2",
+             "path": "par_3/ust_1/pkt_1/lit_b/tir_2",
+             "text": "minister właściwy do spraw finansów publicznych,",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "3",
+             "path": "par_3/ust_1/pkt_1/lit_b/tir_3",
+             "text": "minister właściwy do spraw gospodarki,",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "4",
+             "path": "par_3/ust_1/pkt_1/lit_b/tir_4",
+             "text": "minister właściwy do spraw informatyzacji,",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "5",
+             "path": "par_3/ust_1/pkt_1/lit_b/tir_5",
+             "text": "Minister Obrony Narodowej,",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "6",
+             "path": "par_3/ust_1/pkt_1/lit_b/tir_6",
+             "text": "minister właściwy do spraw wewnętrznych,",
+             "children": []
+            },
+            {
+             "type": "tir",
+             "num": "7",
+             "path": "par_3/ust_1/pkt_1/lit_b/tir_7",
+             "text": "minister właściwy do spraw zdrowia,",
+             "children": []
+            },
+            {
+             "type": "text",
+             "text": "lub osoby przez nich wyznaczone, w randze sekretarza stanu albo podsekretarza stanu;"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "Dyrektor Programu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "Sekretarz Zespołu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_3/ust_1/pkt_4",
+         "text": "Liderzy Projektów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_3/ust_1/pkt_5",
+         "text": "Liderzy Innowacji.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "Osoby, o których mowa w ust. 1 pkt 1, mogą być zastępowane w pracach Zespołu przez upoważnionych przedstawicieli.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Liderzy Projektów i Liderzy Innowacji wykonują zadania przy pomocy komórek organizacyjnych wskazanych przez kierownika instytucji, w której są zatrudnieni.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "W Zespole wyznacza się role zarządcze i rolę monitorująco-doradczą.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Role zarządcze pełnią:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_2/pkt_1",
+         "text": "Komitet Sterujący;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_2/pkt_2",
+         "text": "Dyrektor Programu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_2/pkt_3",
+         "text": "Liderzy Projektów.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Rolę monitorująco-doradczą pełni Sekretarz Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Pracami Komitetu Sterującego kieruje Przewodniczący Komitetu Sterującego, który w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_1/pkt_1",
+         "text": "ustala termin i porządek obrad posiedzeń Komitetu Sterującego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_1/pkt_2",
+         "text": "zwołuje posiedzenia Komitetu Sterującego, z własnej inicjatywy lub na wniosek członka Komitetu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_1/pkt_3",
+         "text": "przewodniczy posiedzeniom Komitetu Sterującego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Do zadań Komitetu Sterującego należy w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_2/pkt_1",
+         "text": "sprawowanie stałego nadzoru nad procesem opracowywania Programu oraz podejmowanie kluczowych decyzji, w tym w szczególności decyzji dotyczących uruchomienia, realizacji lub zakończenia projektu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_2/pkt_2",
+         "text": "wybór projektów do realizacji spośród projektów przedstawionych przez Dyrektora Programu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_2/pkt_3",
+         "text": "wyznaczanie Lidera Projektu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_5/ust_3",
+       "text": "Komitet Sterujący, we współpracy z Dyrektorem Programu i Sekretarzem Zespołu, zapewnia realizację zadań Zespołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_5/ust_4",
+       "text": "Dyrektor Programu może, po uprzednim uzyskaniu zgody pracodawcy osoby, która ma zostać wyznaczona Liderem Projektu, proponować Komitetowi Sterującemu kandydata na Lidera Projektu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_5/ust_5",
+       "text": "W posiedzeniach Komitetu Sterującego uczestniczą, z głosem doradczym, Dyrektor Programu oraz Sekretarz Zespołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "par_5/ust_6",
+       "text": "Przewodniczący Komitetu Sterującego może zapraszać do udziału w posiedzeniach Komitetu Sterującego Liderów Projektów, Liderów Innowacji oraz inne osoby, z głosem doradczym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "par_5/ust_7",
+       "text": "Komitet Sterujący podejmuje decyzje w drodze uzgadniania stanowisk albo w trybie obiegowym, przy użyciu środków komunikacji elektronicznej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "8",
+       "path": "par_5/ust_8",
+       "text": "W przypadku gdy uzgodnienie stanowisk nie jest możliwe, projekt rozstrzygnięcia może być, z inicjatywy Przewodniczącego Komitetu Sterującego, poddany głosowaniu. Rozstrzygnięcia w drodze głosowania zapadają zwykłą większością głosów przy obecności co najmniej połowy osób wchodzących w skład Komitetu Sterującego. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Komitetu Sterującego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Dyrektor Programu jest wyznaczany przez Przewodniczącego Komitetu Sterującego i odpowiada przed Komitetem Sterującym za realizację projektów w ramach Programu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Do zadań Dyrektora Programu należy w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_6/ust_2/pkt_1",
+         "text": "przygotowanie i przedstawienie Komitetowi Sterującemu projektu Programu oraz projektów realizujących cele Programu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_6/ust_2/pkt_2",
+         "text": "przedstawianie Komitetowi Sterującemu kandydatów na Liderów Projektów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_6/ust_2/pkt_3",
+         "text": "planowanie, projektowanie i koordynacja działań w ramach Programu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_6/ust_2/pkt_4",
+         "text": "monitorowanie postępów prac w projektach i przygotowywanie raportów z tego monitorowania;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_6/ust_2/pkt_5",
+         "text": "raportowanie o postępach prac w projektach do Komitetu Sterującego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_6/ust_2/pkt_6",
+         "text": "udzielanie wsparcia Liderom Projektów w realizacji ich zadań;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_6/ust_2/pkt_7",
+         "text": "inicjowanie działań naprawczych oraz zapewnienie integralności i spójności Programu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Sekretarz Zespołu jest wyznaczany przez Przewodniczącego Komitetu Sterującego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Do zadań Sekretarza Zespołu należy w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_7/ust_2/pkt_1",
+         "text": "przygotowywanie protokołów z posiedzeń Komitetu Sterującego i przedkładanie ich Dyrektorowi Programu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_7/ust_2/pkt_2",
+         "text": "wspieranie Komitetu Sterującego, Dyrektora Programu i Liderów Projektów w realizacji przedsięwzięć Zespołu zgodnie z najlepszymi praktykami zarządzania programami i projektami;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_7/ust_2/pkt_3",
+         "text": "zapewnienie możliwości wykorzystania systemów komputerowych wspierających zarządzanie programami i projektami.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "Lider Projektu odpowiada przed Dyrektorem Programu i Komitetem Sterującym za realizację projektu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Do zadań Lidera Projektu należy w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_8/ust_2/pkt_1",
+         "text": "planowanie, przygotowanie i koordynacja realizacji projektu w zakresie zadań zleconych przez Dyrektora Programu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_8/ust_2/pkt_2",
+         "text": "bieżące monitorowanie i zapewnienie realizacji projektu w ustalonych ramach: czasu, jakości, kosztów, ryzyka i korzyści;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_8/ust_2/pkt_3",
+         "text": "raportowanie postępów prac w projekcie do Dyrektora Programu.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_8/ust_3",
+       "text": "Liderzy Projektów, w porozumieniu z Dyrektorem Programu, mogą powoływać grupy robocze dla realizacji poszczególnych zadań w ramach projektu. Powołanie grupy roboczej wymaga zgody Przewodniczącego Komitetu Sterującego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_8/ust_4",
+       "text": "Członkami grup roboczych mogą być również osoby niebędące członkami Zespołu, których wiedza i doświadczenie mogą być przydatne do realizacji zadań Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "Liderzy Innowacji są wyznaczani przez członków Zespołu, o których mowa w § 3 ust. 1 pkt 1 lit. b.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "Wyznaczając Lidera Innowacji, właściwy minister określa formę realizacji jego zadań.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_9/ust_3",
+       "text": "Do zadań Lidera Innowacji należy w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_9/ust_3/pkt_1",
+         "text": "rozeznawanie potrzeb w zakresie innowacyjnych wyzwań w dziale administracji rządowej, w którym został powołany;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_9/ust_3/pkt_2",
+         "text": "sprawdzenie, czy każde zidentyfikowane przez Lidera Innowacji wyzwanie w zakresie innowacji ma przypisanego autora, który zna jego charakter oraz ewentualne korzyści związane ze znalezieniem jego rozwiązania;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_9/ust_3/pkt_3",
+         "text": "uczestnictwo w organizowanych warsztatach dedykowanych wyzwaniom w zakresie innowacji przez nich wskazanych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_9/ust_3/pkt_4",
+         "text": "podejmowanie działań w celu zapewnienia uczestnictwa w dedykowanych warsztatach osób, które zgłaszały wyzwanie.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "Organy administracji rządowej oraz jednostki organizacyjne im podległe lub przez nie nadzorowane, na wniosek Przewodniczącego Komitetu Sterującego, udzielają Zespołowi oraz Liderom Projektów, w ramach swoich kompetencji, pomocy przy wykonywaniu ich zadań, w szczególności przedstawiają niezbędne informacje i dokumenty.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "Finansowanie projektów realizowanych w ramach Programu zapewnia minister kierujący działem administracji, w ramach którego dany projekt jest realizowany.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "Obsługę kancelaryjno-biurową oraz organizacyjną osób, o których mowa w § 3 ust. 1 pkt 1 i 2, w tym monitorowanie Programu oraz projektów realizowanych w jego ramach, zapewnia komórka organizacyjna Kancelarii Prezesa Rady Ministrów wskazana przez Przewodniczącego Komitetu Sterującego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "Komitet Sterujący na pierwszym posiedzeniu ustali regulamin pracy Zespołu definiujący przyjęte podejście projektowe.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "Członkowie Zespołu, o których mowa w § 3 ust. 1 pkt 1 lit. b, wyznaczą Liderów Innowacji w terminie do dnia 31 maja 2018 r.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "[^1]",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_15/ust_1",
+       "text": "Przewodniczący Komitetu Sterującego przedstawia Prezesowi Rady Ministrów roczne sprawozdanie z realizacji zadań Zespołu do dnia 31 stycznia roku następnego za poprzedni rok.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_15/ust_2",
+       "text": "Sprawozdanie, o którym mowa w ust. 1, zawiera informacje o:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_15/ust_2/pkt_1",
+         "text": "liczbie posiedzeń Komitetu Sterującego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_15/ust_2/pkt_2",
+         "text": "stanie realizacji przez Zespół zadań przewidzianych do wykonania w okresie objętym sprawozdaniem;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_15/ust_2/pkt_3",
+         "text": "zadaniach przewidzianych do realizacji przez Zespół na kolejny okres sprawozdawczy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_15/ust_2/pkt_4",
+         "text": "zmianach w składzie Zespołu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_15/ust_2/pkt_5",
+         "text": "kosztach funkcjonowania Zespołu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_15/ust_2/pkt_6",
+         "text": "potencjalnych zagrożeniach zidentyfikowanych przez Zespół w obszarze należącym do zakresu jego działalności oraz wskazanie środków, które pozwolą ograniczyć te zagrożenia lub ich uniknąć;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "par_15/ust_2/pkt_7",
+         "text": "wnioskach i rekomendacjach wynikających z prac Zespołu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia[^2].",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "W brzmieniu ustalonym przez § 7 zarządzenia nr 147 Prezesa Rady Ministrów z dnia 19 września 2019 r. zmieniającego niektóre zarządzenia Prezesa Rady Ministrów w sprawie organów pomocniczych Rady Ministrów i Prezesa Rady Ministrów w zakresie obowiązków sprawozdawczych tych organów (M.P. poz. 906), które weszło w życie z dniem 9 października 2019 r.",
+  "2": "Zarządzenie zostało ogłoszone w dniu 23 kwietnia 2018 r."
+ }
+}

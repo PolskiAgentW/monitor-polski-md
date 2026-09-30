@@ -1,0 +1,218 @@
+{
+ "eli": "MP/2015/1044",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 19 października 2015 r. zmieniająca uchwałę w sprawie wytycznych dla okręgowych komisji wyborczych, dotyczących wykonywania zadań związanych z ustalaniem wyników głosowania i wyników wyborów oraz trybu i zasad powoływania pełnomocników okręgowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r.",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1044/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 października 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie wytycznych dla okręgowych komisji wyborczych, dotyczących wykonywania zadań związanych z ustalaniem wyników głosowania i wyników wyborów oraz trybu i zasad powoływania pełnomocników okręgowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 161 § 1 i art. 173 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W załączniku do uchwały Państwowej Komisji Wyborczej z dnia 12 października 2015 r. w sprawie wytycznych dla okręgowych komisji wyborczych, dotyczących wykonywania zadań związanych z ustalaniem wyników głosowania i wyników wyborów oraz trybu i zasad powoływania pełnomocników okręgowych komisji wyborczych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 25 października 2015 r. (M.P. poz. 1031) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w pkt 9 po zdaniu: „Protokoły opatruje się pieczęcią komisji.” dodaje się zdanie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Ponadto komisja okręgowa sporządza protokół wyników głosowania w okręgu wyborczym w wyborach do Sejmu w formie dokumentu elektronicznego, który podpisywany jest bezpiecznym podpisem elektronicznym przez wszystkich członków komisji obecnych przy sporządzaniu protokołu.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w pkt 10 zdania:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Okręgowa komisja wyborcza niezwłocznie po sporządzeniu protokołu wyników głosowania w okręgu wyborczym w wyborach do Sejmu przekazuje do Państwowej Komisji Wyborczej za pośrednictwem sieci elektronicznego przesyłania danych:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) dokument elektroniczny zawierający obraz protokołu podpisanego przez wszystkich członków komisji okręgowej uczestniczących przy jego sporządzaniu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) plik zawierający dane z protokołu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) arkusz kalkulacyjny (csv) zawierający dane z wynikami głosowania z obwodów znajdujących się na obszarze właściwości komisji okręgowej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podpisane podpisem elektronicznym przez przewodniczącego komisji okręgowej lub sekretarza komisji okręgowej (art. 230 § 6 Kodeksu wyborczego), przy czym protokół wyników głosowania w okręgu wyborczym w wyborach do Sejmu przesyła niezwłocznie w zapieczętowanej kopercie do Państwowej Komisji Wyborczej przez osobę upoważnioną przez okręgową komisję wyborczą lub za pośrednictwem wyznaczonego operatora pocztowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Następnie okręgowa komisja wyborcza przekazuje do Państwowej Komisji Wyborczej, w analogiczny sposób, protokoły wyników głosowania i wyników wyborów w okręgu wyborczym w wyborach do Senatu.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zastępuje się zdaniami:"
+      },
+      {
+       "type": "text",
+       "text": "„Okręgowa komisja wyborcza niezwłocznie po sporządzeniu protokołu wyników głosowania w okręgu wyborczym w wyborach do Sejmu przekazuje do Państwowej Komisji Wyborczej za pośrednictwem sieci elektronicznego przesyłania danych:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) protokół wyników głosowania w okręgu wyborczym w wyborach do Sejmu sporządzony w formie dokumentu elektronicznego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dokument elektroniczny zawierający obraz protokołu podpisanego przez wszystkich członków komisji okręgowej uczestniczących przy jego sporządzaniu",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podpisane bezpiecznym podpisem elektronicznym przez wszystkich członków komisji obecnych przy jego sporządzaniu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ponadto komisja niezwłocznie przekazuje Państwowej Komisji Wyborczej za pośrednictwem sieci elektronicznego przesyłania danych:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) plik zawierający dane z protokołu wyników głosowania w okręgu wyborczym w wyborach do Sejmu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) arkusz kalkulacyjny (csv) zawierający dane z wynikami głosowania z obwodów znajdujących się na obszarze właściwości komisji okręgowej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "podpisane podpisem elektronicznym przez przewodniczącego komisji okręgowej lub sekretarza komisji okręgowej (art. 230 § 6 Kodeksu wyborczego).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Następnie okręgowa komisja wyborcza przekazuje do Państwowej Komisji Wyborczej, w analogiczny sposób, protokoły wyników głosowania i wyników wyborów w okręgu wyborczym w wyborach do Senatu, z tym, że dokument elektroniczny zawierający obraz protokołu podpisanego przez wszystkich członków komisji okręgowej uczestniczących przy jego sporządzaniu podpisuje podpisem elektronicznym przewodniczący komisji okręgowej lub sekretarz komisji okręgowej.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w pkt 11 po zdaniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Po otrzymaniu (drogą elektroniczną) wstępnej informacji z Państwowej Komisji Wyborczej, które listy kandydatów spełniają warunki uprawniające do uczestniczenia w podziale mandatów, okręgowa komisja dokonuje wstępnych ustaleń podziału mandatów (sporządza wstępny wydruk zestawienia wyników głosowania i podziału mandatów pomiędzy uprawnione listy) oraz oczekuje na zawiadomienie z Państwowej Komisji Wyborczej, o którym mowa w art. 231 § 2 Kodeksu wyborczego.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "dodaje się zdanie:"
+      },
+      {
+       "type": "text",
+       "text": "„Zostanie ono podpisane bezpiecznym podpisem elektronicznym przez Przewodniczącego Państwowej Komisji Wyborczej lub jego zastępcę i przesłane drogą elektroniczną.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w pkt 12 zdanie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Niezwłocznie po sporządzeniu protokołu wyborów posłów w okręgu wyborczym okręgowa komisja wyborcza przekazuje go do Państwowej Komisji Wyborczej, w sposób określony w pkt 10, z tym że nie przekazuje się ponownie arkusza kalkulacyjnego z wynikami głosowania z obwodów.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zastępuje się zdaniem:"
+      },
+      {
+       "type": "text",
+       "text": "„Niezwłocznie po sporządzeniu protokołu wyborów posłów w okręgu wyborczym okręgowa komisja wyborcza przekazuje go do Państwowej Komisji Wyborczej, w sposób określony w pkt 10, z tym że dokument elektroniczny zawierający obraz protokołu podpisanego przez wszystkich członków komisji okręgowej uczestniczących przy jego sporządzaniu podpisuje podpisem elektronicznym przewodniczący komisji okręgowej lub sekretarz komisji okręgowej oraz nie przekazuje się ponownie arkusza kalkulacyjnego z wynikami głosowania z obwodów.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w pkt 13 zdanie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Okręgowa komisja wyborcza przekazuje niezwłocznie Państwowej Komisji Wyborczej po jednym egzemplarzu protokołu wyborów posłów w okręgu wyborczym wraz z zestawieniem wyników głosowania i podziału mandatów pomiędzy listy kandydatów oraz protokołu wyników głosowania i wyników w okręgu wyborczym do Senatu.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "zastępuje się zdaniem:"
+      },
+      {
+       "type": "text",
+       "text": "„Okręgowa komisja wyborcza przekazuje niezwłocznie Państwowej Komisji Wyborczej po jednym egzemplarzu protokołu wyników głosowania w okręgu wyborczym w wyborach do Sejmu, protokołu wyborów posłów w okręgu wyborczym wraz z zestawieniem wyników głosowania i podziału mandatów pomiędzy listy kandydatów oraz protokołu wyników głosowania i wyników w okręgu wyborczym do Senatu.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072 oraz z 2015 r. poz. 1043, 1044 i 1045."
+ }
+}

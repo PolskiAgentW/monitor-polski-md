@@ -1,0 +1,504 @@
+{
+ "eli": "MP/2019/61",
+ "title": "Zarządzenie nr 2 Prezesa Rady Ministrów z dnia 10 stycznia 2019 r. w sprawie Zespołu do spraw implementacji do polskiego systemu statystyki publicznej międzynarodowej klasyfikacji przestępczości do celów statystycznych",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/61/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 2"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 stycznia 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Zespołu do spraw implementacji do polskiego systemu statystyki publicznej międzynarodowej klasyfikacji przestępczości do celów statystycznych"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392, z 2015 r. poz. 1064 oraz z 2018 r. poz. 1669) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Zespół do spraw implementacji do polskiego systemu statystyki publicznej międzynarodowej klasyfikacji przestępczości do celów statystycznych (International Classification of Crime for Statistical Purposes ICCS), zwanej dalej „klasyfikacją ICCS”, opracowanej przez Biuro Narodów Zjednoczonych ds. Narkotyków i Przestępczości (UNODC), zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Zespołu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "opracowanie metodologii przyporządkowania poszczególnych kategorii przestępstw określonych w klasyfikacji ICCS do przepisów karnych funkcjonujących w polskim systemie prawnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "dokonanie przyporządkowania poszczególnych kategorii przestępstw określonych w klasyfikacji ICCS do przepisów karnych funkcjonujących w polskim systemie prawnym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "przeprowadzenie analizy możliwości implementacji klasyfikacji ICCS do systemów ewidencyjnych i statystycznych producentów statystyki przestępczości w Rzeczypospolitej Polskiej – Policji, Straży Granicznej, Żandarmerii Wojskowej, Prokuratury, Sądownictwa, Biura Krajowego Rejestru Karnego oraz Służby Więziennej w celu generowania danych statystycznych według:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "kategorii przestępstw określonych w klasyfikacji ICCS,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "zmiennych dezagregujących ICCS.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący – podsekretarz stanu wyznaczony przez Ministra Sprawiedliwości;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zastępca przewodniczącego – zastępca dyrektora komórki organizacyjnej urzędu obsługującego Ministra Sprawiedliwości właściwej w sprawach dotyczących zadań z zakresu statystyki publicznej, wyznaczony przez tego ministra;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "sekretarz – pracownik komórki organizacyjnej urzędu obsługującego Ministra Sprawiedliwości właściwej w sprawach dotyczących zadań z zakresu statystyki publicznej, wyznaczony przez tego ministra;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "pozostali członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_4/lit_a",
+         "text": "dwóch pracowników komórki organizacyjnej urzędu obsługującego Ministra Sprawiedliwości właściwej w sprawach dotyczących zadań z zakresu statystyki publicznej, wyznaczonych przez tego ministra,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_4/lit_b",
+         "text": "dwóch przedstawicieli komórki organizacyjnej urzędu obsługującego Ministra Sprawiedliwości właściwej w sprawach dotyczących nadzoru administracyjnego nad działalnością administracyjną sądów powszechnych i wojskowych w zakresie wykonania orzeczeń karnych i cywilnych, wyznaczonych przez tego ministra,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_4/lit_c",
+         "text": "dwóch pracowników komórki organizacyjnej urzędu obsługującego Ministra Sprawiedliwości właściwej w sprawach dotyczących prowadzenia Krajowego Rejestru Karnego, wyznaczonych przez tego ministra,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_4/lit_d",
+         "text": "trzech przedstawicieli Instytutu Wymiaru Sprawiedliwości, wyznaczonych przez dyrektora tego instytutu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_4/lit_e",
+         "text": "czterech przedstawicieli Komendy Głównej Policji, wyznaczonych przez ministra właściwego do spraw wewnętrznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_4/lit_f",
+         "text": "dwóch przedstawicieli Komendy Głównej Straży Granicznej, wyznaczonych przez ministra właściwego do spraw wewnętrznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_4/lit_g",
+         "text": "przedstawiciel Komendy Głównej Żandarmerii Wojskowej, wyznaczony przez Ministra Obrony Narodowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_4/lit_h",
+         "text": "pięciu przedstawicieli Centralnego Zarządu Służby Więziennej, wyznaczonych przez Dyrektora Generalnego Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_4/lit_i",
+         "text": "dwóch przedstawicieli Głównego Urzędu Statystycznego, wyznaczonych przez prezesa tego urzędu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Członkowie Zespołu, o których mowa w ust. 1 pkt 4, mogą być zastępowani w pracach Zespołu przez upoważnionych przedstawicieli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Pracami Zespołu kieruje przewodniczący, do którego zadań należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "zwoływanie posiedzeń Zespołu z własnej inicjatywy lub na wniosek członków Zespołu, nie rzadziej niż jeden raz w roku kalendarzowym (w pierwszym kwartale roku);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "przewodniczenie posiedzeniom Zespołu i czuwanie nad ich sprawnym przebiegiem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "ustalanie terminu i programu kolejnych posiedzeń Zespołu, z uwzględnieniem wniosków zgłaszanych przez członków Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W razie nieobecności przewodniczącego pracami Zespołu kieruje zastępca przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W pracach Zespołu mogą brać udział:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "z głosem doradczym, osoby niebędące członkami Zespołu, zaproszone przez przewodniczącego, z inicjatywy własnej lub na wniosek pozostałych członków Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "na prawach członka Zespołu przedstawiciele Prokuratury Krajowej, wyznaczeni przez Prokuratora Krajowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Na pierwszym posiedzeniu Zespołu ustala się harmonogram realizacji zadań, o których mowa w § 2.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W celu realizacji zadań Zespołu przewodniczący, z własnej inicjatywy albo na wniosek członka Zespołu, może tworzyć grupy robocze lub zespoły doradcze złożone z członków Zespołu lub z osób zaproszonych do udziału w pracach Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przewodniczący może zlecać wykonywanie opracowań, analiz, raportów, ekspertyz lub opinii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Za udział w pracach Zespołu, grup roboczych i zespołów doradczych nie przysługuje wynagrodzenie oraz zwrot kosztów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Zespół podejmuje rozstrzygnięcia w formie uchwał na posiedzeniach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Uchwały są podejmowane zwykłą większością głosów w obecności co najmniej połowy osób, o których mowa w § 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "W przypadku równej liczby głosów rozstrzyga głos przewodniczącego, a w razie jego nieobecności – zastępcy przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Uzgodnione projekty uchwał mogą być poddane pod głosowanie w trybie obiegowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Protokół z posiedzenia Zespołu sporządza sekretarz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Protokół podpisuje przewodniczący, a w razie jego nieobecności zastępca przewodniczącego, oraz sekretarz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Organy administracji rządowej oraz jednostki organizacyjne im podległe lub przez nie nadzorowane, na wniosek przewodniczącego Zespołu, udzielają Zespołowi, w ramach swoich kompetencji, pomocy przy wykonywaniu jego zadań, w szczególności w zakresie udostępniania niezbędnych informacji i dokumentów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Obsługę techniczno-organizacyjną oraz biurową prac Zespołu zapewnia urząd obsługujący Ministra Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Wydatki związane z działalnością Zespołu są pokrywane z budżetu państwa z części, której dysponentem jest Minister Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Przewodniczący przedstawia Radzie Ministrów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "sprawozdanie roczne z realizacji zadań Zespołu za poprzedni rok kalendarzowy w terminie do dnia 31 marca każdego roku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "końcowe sprawozdanie z realizacji zadań Zespołu w terminie 30 dni od zakończenia pracy Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Sprawozdania, o których mowa w ust. 1, zawierają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "dane identyfikacyjne osoby sporządzającej i zatwierdzającej dokument, podstawę prawną utworzenia Zespołu, okres objęty sprawozdaniem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "określenie postępów w realizacji zadań Zespołu ustalonych harmonogramem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_2/pkt_3",
+       "text": "wnioski płynące z prac Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_2/pkt_4",
+       "text": "plany działalności na kolejny okres;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_13/ust_2/pkt_5",
+       "text": "informacje o ewentualnych zagrożeniach realizacji zadań Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_13/ust_2/pkt_6",
+       "text": "określenie liczby i dat posiedzeń Zespołu w okresie sprawozdawczym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_13/ust_2/pkt_7",
+       "text": "informacje dotyczące celowości dalszego istnienia Zespołu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_13/ust_2/pkt_8",
+       "text": "inne niezbędne informacje o funkcjonowaniu Zespołu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Do sprawozdań, o których mowa w ust. 1, dołącza się kopie podjętych uchwał lub innych istotnych dokumentów wytworzonych w ramach prac Zespołu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

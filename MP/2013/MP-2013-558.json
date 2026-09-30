@@ -1,0 +1,710 @@
+{
+ "eli": "MP/2013/558",
+ "title": "Uchwała Senatu Rzeczypospolitej Polskiej z dnia 20 czerwca 2013 r. w sprawie zmiany Regulaminu Senatu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/558/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "SENATU RZECZYPOSPOLITEJ POLSKIEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 czerwca 2013 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany Regulaminu Senatu"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W uchwale Senatu Rzeczypospolitej Polskiej z dnia 23 listopada 1990 r. – Regulamin Senatu (M.P. z 2010 r. Nr 39, poz. 542 i Nr 57, poz. 771 oraz z 2011 r. Nr 6, poz. 62) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 8 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "po pkt 3 dodaje się pkt 3a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3a) prowadzi sprawy z zakresu współpracy i opieki nad Polonią i Polakami za granicą,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "pkt 8 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„8) nadaje bieg sprawom przedkładanym Senatowi, zarządza drukowanie ustaw uchwalonych przez Sejm, projektów ustaw, projektów uchwał, sprawozdań i opinii komisji senackich oraz innych dokumentów stanowiących przedmiot obrad Senatu lub komisji, a także doręczenie ich senatorom,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "uchyla się pkt 8a,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_1/lit_d",
+       "text": "pkt 15 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„15) u dziela senatorom pomocy w wykonywaniu mandatu i podejmuje, na ich wniosek, odpowiednie działania zmierzające do załatwienia przedłożonych spraw,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_1/lit_e",
+       "text": "po pkt 16 dodaje się pkt 16a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„16a) określa, w drodze zarządzenia, zasady wstępu osób wykonujących zawodową działalność lobbingową, osób biorących udział w wysłuchaniu publicznym oraz publiczności na posiedzenia Senatu lub komisji senackich, uwzględniając konieczność przestrzegania powagi, porządku i wymagań bezpieczeństwa,”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_1/pkt_1/lit_f",
+       "text": "pkt 17 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„17) u stala projekt budżetu Kancelarii Senatu po zasięgnięciu opinii Prezydium Senatu i Komisji Regulaminowej, Etyki i Spraw Senatorskich oraz nadzoruje wykonanie budżetu,”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 22 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. W razie przeszkody uniemożliwiającej senatorowi udział w posiedzeniu Senatu, Zgromadzenia Narodowego lub jego organu powinien on pisemnie usprawiedliwić swoją nieobecność w terminie 14 dni od dnia nieobecności na posiedzeniu, przesyłając pismo Marszałkowi Senatu, a w przypadku posiedzenia komisji – przewodniczącemu komisji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "użyte w art. 34 w ust. 3, w art. 75c w ust. 1, w art. 75d w ust. 1, w art. 77 w ust. 1, w art. 85a w ust. 3 w pkt 1, w art. 90d w ust. 1 w pkt 1 oraz w art. 94 w ust. 1 wyrazy „do Marszałka Senatu” zastępuje się wyrazami „Marszałkowi Senatu”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 37:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_4/lit_a",
+       "text": "w ust. 1 kropkę na końcu zastępuje się przecinkiem i dodaje się pkt 4 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4) zapewnienie transmisji z posiedzeń Senatu na senackiej stronie internetowej.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_4/lit_b",
+       "text": "ust. 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Udostępnianie dokumentów i innych informacji, o których mowa w ust. 1 pkt 3, odbywa się poprzez zamieszczenie ich na senackiej stronie internetowej. Informacje niezamieszczone na stronie internetowej udostępniane są na wniosek.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_4/lit_c",
+       "text": "ust. 4 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„4. Decyzje w sprawach dotyczących dostępu do informacji publicznej wydaje Szef Kancelarii Senatu.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_4/lit_d",
+       "text": "uchyla się ust. 5;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 44:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_5/lit_a",
+       "text": "ust. 5 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„5. Przed przystąpieniem do dyskusji senatorowie mogą zgłaszać z miejsca trwające nie dłużej niż 1 minutę zapytania do sprawozdawcy w związku z referowaną ustawą, projektem ustawy, uchwały lub sprawą.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_5/lit_b",
+       "text": "w ust. 6 dodaje się zdanie drugie w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Za zgodą senatora odpowiedź może być udzielona niezwłocznie w formie pisemnej.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "art. 45 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 45. Przedmiotem obrad Senatu są w szczególności:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) ustawy uchwalone przez Sejm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) inicjatywy ustawodawcze Senatu i inne uchwały,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) sprawozdania oraz informacje przedstawiane Senatowi przez Trybunał Konstytucyjny, Krajową Radę Sądownictwa, Pierwszego Prezesa Sądu Najwyższego, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka, Krajową Radę Radiofonii i Telewizji oraz Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) informacje Rady Ministrów i członków Rady Ministrów, w tym dotyczące spraw Polonii i Polaków za granicą.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "w art. 52:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_7/lit_a",
+       "text": "ust. 1 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1. Sprawozdawca komisji omawia zamieszczone w sprawozdaniu wnioski, wyjaśniając skutki wiążące się z ich uchwaleniem oraz istniejące między nimi powiązania lub sprzeczności.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_7/lit_b",
+       "text": "w ust. 2 zdanie drugie otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Jeżeli w sprawozdaniach komisji zostały przedstawione odmienne wnioski lub podczas obrad Senatu zostały zgłoszone wnioski, o których mowa w art. 44 ust. 3, właściwe komisje ustosunkowują się do tych wniosków w trakcie zarządzonej przez Marszałka Senatu przerwy w obradach.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_7/lit_c",
+       "text": "w ust. 3 zdanie drugie otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„W sprawozdaniu połączonych komisji zamieszcza się zestawienie wniosków zawartych w sprawozdaniach komisji i wniosków senatorów zgłoszonych w toku dyskusji.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "w art. 53:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_8/lit_a",
+       "text": "ust. 2 i 3 otrzymują brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2. Głosowanie jest jawne i odbywa się przez podniesienie ręki oraz naciśnięcie przycisku aparatury elektronicznej rejestrującej indywidualne stanowiska głosujących senatorów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Na wniosek Marszałka Senatu lub co najmniej 20 senatorów oraz w przypadku awarii aparatury elektronicznej głosowanie odbywa się przez:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) podniesienie ręki przy jednoczesnym zarządzeniu przez Marszałka Senatu obliczenia głosów przez sekretarzy Senatu albo",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) użycie kart do głosowania podpisanych imieniem i nazwiskiem senatora (głosowanie imienne).”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_8/lit_b",
+       "text": "uchyla się ust. 4;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 54 ust. 5 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„5. W razie niepodjęcia uchwały, Senat może przekazać ustawę do ponownego rozpatrzenia przez właściwe komisje.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "w art. 62 w ust. 1 uchyla się zdanie drugie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_1/pkt_11",
+     "text": "w art. 66 w ust. 2 zdanie pierwsze otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Członek komisji może zgłosić zastrzeżenia do protokołu najpóźniej w dniu najbliższego po udostępnieniu tego protokołu posiedzenia komisji; o przyjęciu lub odrzuceniu zastrzeżeń decyduje komisja.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_1/pkt_12",
+     "text": "w art. 68:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_12/lit_a",
+       "text": "po ust. 1a dodaje się ust. 1b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1b. Na posiedzenie komisji, na którym rozpatrywana jest ustawa uchwalona przez Sejm, przewodniczący komisji zaprasza upoważnionego przedstawiciela wnioskodawcy projektu tej ustawy i posła sprawozdawcę.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_12/lit_b",
+       "text": "po ust. 2 dodaje się ust. 2a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2a. Jeżeli żaden z poddanych pod głosowanie wniosków dotyczących ustawy nie uzyskał większości głosów, w sprawozdaniu komisji zamieszcza się wszystkie te wnioski.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "w art. 69 ust. 1–3 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Jeżeli w toku prac nad ustawą uchwaloną przez Sejm komisja dostrzeże potrzebę wprowadzenia zmian legislacyjnych wykraczających poza materię rozpatrywanej ustawy, to wraz ze sprawozdaniem dotyczącym tej ustawy może przedstawić wniosek o podjęcie inicjatywy ustawodawczej wraz z projektem odpowiedniej ustawy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wniosek, o którym mowa w ust. 1, przedstawia sprawozdawca komisji omawiający wnioski dotyczące ustawy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Po wysłuchaniu wniosku Senat rozstrzyga o przystąpieniu do drugiego czytania projektu ustawy, z wyłączeniem stosowania art. 79, art. 79a oraz art. 80 ust. 1, 1a, 2 i 4. Drugie czytanie projektu ustawy przeprowadza się na tym samym posiedzeniu, jako odrębny punkt porządku obrad.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "w art. 72 po ust. 2 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. Przepis art. 68 ust. 2a stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_1/pkt_15",
+     "text": "w art. 73 po ust. 2 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. Przepis art. 68 ust. 2a stosuje się odpowiednio.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "w art. 75a dodaje się ust. 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Przewodniczący Komisji Spraw Unii Europejskiej zawiadamia przewodniczących właściwych komisji senackich o terminie posiedzenia w sprawie rozpatrzenia dokumentu, o którym mowa w ust. 1.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "art_1/pkt_17",
+     "text": "po art. 79 dodaje się art. 79a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 79a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przewodniczący Komisji Ustawodawczej zwraca się o przedstawienie opinii o projekcie ustawy do właściwych instytucji lub organizacji, jeżeli obowiązek zasięgnięcia takich opinii wynika z przepisów ustawy lub prawa Unii Europejskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Projekt ustawy poddaje się konsultacjom społecznym z wykorzystaniem senackiej strony internetowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przewodniczący Komisji Ustawodawczej wyznacza termin przedstawienia opinii, o których mowa w ust. 1, oraz uwag w ramach konsultacji społecznych, umożliwiający ich uwzględnienie w trakcie pierwszego czytania projektu ustawy.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "art_1/pkt_18",
+     "text": "w art. 80:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_18/lit_a",
+       "text": "po ust. 1a dodaje się ust. 1b w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„1b. Komisje mogą podjąć uchwałę o przeprowadzeniu wysłuchania publicznego dotyczącego projektu ustawy, wskazując w szczególności dzień i godzinę jego przeprowadzenia.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_18/lit_b",
+       "text": "w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Komisje po rozpatrzeniu projektu ustawy przygotowują, w terminie nie dłuższym niż 2 miesiące, a w przypadku podjęcia uchwały, o której mowa w ust. 1b – 3 miesiące, od dnia skierowania projektu przez Marszałka Senatu, wspólne sprawozdanie, w którym przedstawiają wniosek o:”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "art_1/pkt_19",
+     "text": "po art. 80 dodaje się art. 80a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 80a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Uchwałę komisji o przeprowadzeniu wysłuchania publicznego i informację dotyczącą miejsca jego przeprowadzenia ogłasza się na senackiej stronie internetowej co najmniej na 21 dni przed dniem wysłuchania publicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Prawo wzięcia udziału w wysłuchaniu publicznym ma każdy, kto zgłosił komisjom taką wolę co najmniej na 7 dni przed dniem wysłuchania publicznego, w formie pisemnej albo na adres poczty elektronicznej ogłoszony na senackiej stronie internetowej, wskazując:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) imię (imiona) i nazwisko oraz miejsce zamieszkania i adres – w odniesieniu do osób fizycznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) nazwę, siedzibę i adres, a także imię (imiona) i nazwisko oraz miejsce zamieszkania i adres osoby reprezentującej na wysłuchaniu publicznym – w odniesieniu do osób prawnych i jednostek organizacyjnych niemających osobowości prawnej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) interes, który w odniesieniu do danej regulacji zamierza chronić, lub rozwiązanie prawne, o którego uwzględnienie będzie zabiegać.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli liczba zgłoszeń przekracza liczbę dostępnych miejsc w sali posiedzeń, przewodniczący komisji ograniczają liczbę osób biorących udział w wysłuchaniu publicznym w oparciu o obiektywne kryterium zastosowane jednolicie wobec wszystkich zainteresowanych. Informację o zastosowanym kryterium i osobach dopuszczonych do udziału w wysłuchaniu publicznym ogłasza się co najmniej na 3 dni przed dniem wysłuchania publicznego na senackiej stronie internetowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Wysłuchanie publiczne odbywa się na wspólnym posiedzeniu komisji. Porządek obrad tego posiedzenia nie może obejmować innych spraw.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Przewodniczący komisji decydują o kolejności i czasie wystąpień osób, które biorą udział w wysłuchaniu publicznym.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. W szczególnie uzasadnionych przypadkach przewodniczący wspólnego posiedzenia może odroczyć posiedzenie, na którym odbywa się wysłuchanie publiczne, postanawiając o dniu, godzinie i miejscu wznowienia posiedzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. Komisje ustosunkowują się do uwag zgłoszonych w trakcie wysłuchania publicznego, przedstawiając wynikające z nich wnioski i wskazując w razie potrzeby przyczyny ich nieuwzględnienia. Informację w tej sprawie ogłasza się na senackiej stronie internetowej w ciągu 30 dni od dnia zakończenia wysłuchania publicznego.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "art_1/pkt_20",
+     "text": "w art. 84 dodaje się ust. 7–10 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„7. Projekt uchwały w sprawie ustanowienia danego roku rokiem osoby, wydarzenia albo związany z przypadającą w danym roku rocznicą, może być wniesiony do dnia 31 października poprzedniego roku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Marszałek kieruje projekt, o którym mowa w ust. 7, do Komisji Ustawodawczej. Komisja przedstawia Senatowi sprawozdanie o projekcie do dnia 30 listopada.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. Komisja Ustawodawcza może przygotować co najwyżej trzy sprawozdania zawierające wnioski o przyjęcie projektów uchwał w sprawie ustanowienia danego roku rokiem osoby albo wydarzenia, dotyczących tego samego roku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10. W szczególnie uzasadnionych przypadkach Marszałek Senatu, po zasięgnięciu opinii Prezydium Senatu, może wydłużyć terminy, o których mowa w ust. 7 i 8.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "art_1/pkt_21",
+     "text": "w art. 85a po ust. 2 dodaje się ust. 2a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2a. Przewodniczący Komisji Ustawodawczej zawiadamia przewodniczących właściwych komisji senackich o terminie posiedzenia w sprawie rozpatrzenia orzeczenia Trybunału Konstytucyjnego.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "art_1/pkt_22",
+     "text": "w art. 90b dodaje się ust. 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Przewodniczący Komisji Praw Człowieka, Praworządności i Petycji zawiadamia przewodniczących właściwych komisji senackich o terminie posiedzenia w sprawie rozpatrzenia petycji.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "art_1/pkt_23",
+     "text": "w art. 92 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Senat wybiera dwóch senatorów do składu Krajowej Rady Sądownictwa oraz dwóch senatorów do składu Krajowej Rady Prokuratury. Senat może odwołać wybranych przez siebie członków Krajowej Rady Prokuratury.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "art_1/pkt_24",
+     "text": "w art. 96 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Odwołanie członka Krajowej Rady Prokuratury może nastąpić na złożony Marszałkowi Senatu wniosek grupy co najmniej 7 senatorów. Do wniosku dołącza się uzasadnienie.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "art_1/pkt_25",
+     "text": "w załączniku do uchwały pkt 11 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„11) Komisji Spraw Emigracji i Łączności z Polakami za Granicą – opieka nad Polonią i Polakami za granicą, migracja obywateli polskich, w szczególności do państw członkowskich Unii Europejskiej, więzi z krajem Polaków i osób polskiego pochodzenia zamieszkałych za granicą i ich sytuacja prawna, inicjowanie i koordynacja współpracy środowisk polonijnych, ochrona dziedzictwa polskiej kultury i historii za granicą;”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Traci moc uchwała Senatu Rzeczypospolitej Polskiej z dnia 21 czerwca 2002 r. w sprawie utworzenia Polonijnej Rady Konsultacyjnej (M.P. Nr 27, poz. 446).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Marszałek Senatu: B. Borusewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

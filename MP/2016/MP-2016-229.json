@@ -1,0 +1,429 @@
+{
+ "eli": "MP/2016/229",
+ "title": "Zarządzenie nr 27 Prezesa Rady Ministrów z dnia 9 marca 2016 r. w sprawie utworzenia Międzyresortowego Zespołu do spraw Funduszy Unii Europejskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/229/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 27"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 marca 2016 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia Międzyresortowego Zespołu do spraw Funduszy Unii Europejskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 oraz ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392 oraz z 2015 r. poz. 1064) zarz ą dza si ę , co nast ę puje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "1 Tworzy się Międzyresortowy Zespół do spraw Funduszy Unii Europejskiej, zwany dalej „Zespołem”.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Celem Zespołu jest zapewnienie efektywnego wykorzystania przez Rzeczpospolitą Polską funduszy Unii Europejskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Do zadań Zespołu należy w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "monitorowanie postępu realizacji programów operacyjnych współfinansowanych z funduszy strukturalnych, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "dokonywanie oceny efektywności i skuteczności wykorzystania funduszy strukturalnych, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "opracowywanie rozwiązań służących zapewnieniu efektywnej absorpcji środków z funduszy strukturalnych, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "opracowywanie rozwiązań zapewniających wzmocnienie nadzoru poszczególnych ministrów nad instytucjami wdrażającymi programy operacyjne i działania w ramach tych programów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "opiniowanie dokumentów dotycz ą cych wykorzystania funduszy strukturalnych, Funduszu Spójno ś ci, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego, na wniosek wła ś ciwych ministrów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodz ą :",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodnicz ą cy – Minister Rozwoju;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "zast ę pcy przewodnicz ą cego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "sekretarz stanu w Ministerstwie Rozwoju,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "Minister Rolnictwa i Rozwoju Wsi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_2/lit_c",
+         "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "Minister Cyfryzacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "Minister Edukacji Narodowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_1/pkt_3/lit_c",
+         "text": "Minister Energii,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_1/pkt_3/lit_d",
+         "text": "Minister Finansów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_3/ust_1/pkt_3/lit_e",
+         "text": "Minister Infrastruktury i Budownictwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_3/ust_1/pkt_3/lit_f",
+         "text": "Minister Kultury i Dziedzictwa Narodowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_3/ust_1/pkt_3/lit_g",
+         "text": "Minister Nauki i Szkolnictwa Wyższego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_3/ust_1/pkt_3/lit_h",
+         "text": "Minister Obrony Narodowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "par_3/ust_1/pkt_3/lit_i",
+         "text": "Minister Rodziny, Pracy i Polityki Społecznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "par_3/ust_1/pkt_3/lit_j",
+         "text": "Minister Spraw Wewnętrznych i Administracji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "par_3/ust_1/pkt_3/lit_k",
+         "text": "Minister Sprawiedliwości,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "l",
+         "path": "par_3/ust_1/pkt_3/lit_l",
+         "text": "Minister Sportu i Turystyki,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "m",
+         "path": "par_3/ust_1/pkt_3/lit_m",
+         "text": "Minister Środowiska,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "n",
+         "path": "par_3/ust_1/pkt_3/lit_n",
+         "text": "Minister Zdrowia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "o",
+         "path": "par_3/ust_1/pkt_3/lit_o",
+         "text": "Szef Kancelarii Prezesa Rady Ministrów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "p",
+         "path": "par_3/ust_1/pkt_3/lit_p",
+         "text": "Prezes Urzędu Ochrony Konkurencji i Konsumentów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "q",
+         "path": "par_3/ust_1/pkt_3/lit_q",
+         "text": "Prezes Głównego Urz ę du Statystycznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "r",
+         "path": "par_3/ust_1/pkt_3/lit_r",
+         "text": "Prezes Urzędu Zamówień Publicznych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Osoby, o których mowa w ust. 1 pkt 2 lit. b i c oraz pkt 3, mogą być zastępowane w pracach Zespołu przez upoważnionych przedstawicieli w randze odpowiednio: sekretarzy stanu, podsekretarzy stanu lub wiceprezesów. Osoby zastępujące nie mogą pełnić funkcji zastępcy przewodniczącego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W pracach Zespołu, na prawach członka, mogą uczestniczyć marszałkowie 16 województw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Marszałkowie województw uczestniczą w pracach Zespołu na zaproszenie przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Marszałkowie województw mogą być zastępowani w pracach Zespołu przez upoważnionych przedstawicieli w randze wicemarszałka województwa lub członka zarządu województwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przewodniczący może zapraszać do udziału w pracach Zespołu, w charakterze obserwatorów, osoby inne niż wymienione w § 3 ust. 1 pkt 3 i w § 4 ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W pracach Zespołu uczestniczy sekretarz stanu do spraw europejskich w Ministerstwie Spraw Zagranicznych, w charakterze stałego obserwatora.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Pracami Zespołu kieruje przewodniczący, a w razie jego nieobecności zastępca przewodniczącego wyznaczony przez przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Posiedzenia Zespołu zwołuje przewodniczący albo zastępca przewodniczącego wyznaczony przez przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "W celu realizacji zada ń Zespołu przewodnicz ą cy mo ż e powoływa ć w ramach Zespołu grupy robocze i zespoły doradcze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Uchwały Zespołu s ą podejmowane zwykł ą wi ę kszo ś ci ą głosów. W razie równej liczby głosów o wyniku głosowania decyduje głos przewodnicz ą cego Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Szczegółowy tryb pracy Zespołu okre ś la regulamin uchwalony przez Zespół.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Przewodnicz ą cy przedstawia Radzie Ministrów, do dnia 31 marca roku nast ę puj ą cego po roku, na który sporz ą - dzane jest sprawozdanie, sprawozdania roczne z działalno ś ci Zespołu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Obsługę prac Zespołu zapewnia urząd obsługujący Ministra Rozwoju.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Znosi się Międzyresortowy Zespół do spraw Programowania i Wdrażania Funduszy Strukturalnych i Funduszu Spójności Unii Europejskiej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Traci moc zarządzenie nr 48 Prezesa Rady Ministrów z dnia 28 kwietnia 2008 r. w sprawie powołania Międzyresortowego Zespołu do spraw Wykorzystania Funduszy Strukturalnych i Funduszu Spójno ści Unii Europejskiej zmienione zarządzeniem nr 19 Prezesa Rady Ministrów z dnia 26 marca 2012 r. zmieniającym zarządzenie w sprawie powołania Międzyresortowego Zespołu do spraw Wykorzystania Funduszy Strukturalnych i Funduszu Spójności Unii Europejskiej oraz zarządzeniem nr 7 z dnia 23 stycznia 2015 r. zmieniającym zarządzenie w sprawie powołania Międzyresortowego Zespołu do spraw Programowania i Wdrażania Funduszy Strukturalnych i Funduszu Spójności Unii Europejskiej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: B. Szydło"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

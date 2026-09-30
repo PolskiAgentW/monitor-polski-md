@@ -1,0 +1,118 @@
+{
+ "eli": "MP/2020/897",
+ "title": "Zarządzenie nr 158 Prezesa Rady Ministrów z dnia 6 października 2020 r. zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezesa Rady Ministrów",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/897/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 158"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 października 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie nadania statutu Kancelarii Prezesa Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 31 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 2 Prezesa Rady Ministrów z dnia 5 stycznia 2016 r. w sprawie nadania statutu Kancelarii Prezesa Rady Ministrów (M.P. poz. 1148, z późn. zm.[^1]) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 7 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W Kancelarii działa Gabinet Polityczny Prezesa Rady Ministrów, Gabinet Polityczny Wiceprezesa Rady Ministrów Jarosława Kaczyńskiego oraz Gabinet Polityczny Wiceprezesa Rady Ministrów Piotra Glińskiego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Szczegółowy zakres zadań i kompetencji kierującego Gabinetem Politycznym Prezesa Rady Ministrów określa Prezes Rady Ministrów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Szczegółowy zakres zadań i kompetencji kierującego Gabinetem Politycznym Wiceprezesa Rady Ministrów Jarosława Kaczyńskiego określa Wiceprezes Rady Ministrów Jarosław Kaczyński.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Szczegółowy zakres zadań i kompetencji kierującego Gabinetem Politycznym Wiceprezesa Rady Ministrów Piotra Glińskiego określa Wiceprezes Rady Ministrów Piotr Gliński.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 8 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "pkt 2 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2) Biuro Wiceprezesa Rady Ministrów;”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "po pkt 2 dodaje się pkt 2a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„2a) Sekretariat Wiceprezesa Rady Ministrów;”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany tekstu jednolitego wymienionego zarządzenia zostały ogłoszone w M.P. z 2017 r. poz. 14 i 694, z 2018 r. poz. 17, 179, 287, 444, 512, 670, 1084 i 1162, z 2019 r. poz. 14, 568 i 1193 oraz z 2020 r. poz. 149, 257 i 566."
+ }
+}

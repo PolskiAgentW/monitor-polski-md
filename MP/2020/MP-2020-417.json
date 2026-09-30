@@ -1,0 +1,376 @@
+{
+ "eli": "MP/2020/417",
+ "title": "Zarządzenie nr 62 Prezesa Rady Ministrów z dnia 15 maja 2020 r. zmieniające zarządzenie w sprawie Międzyresortowego Zespołu do spraw projektów \"Baltic Pipe\" oraz rozbudowy Terminalu LNG w Świnoujściu",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/417/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 62"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 maja 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające zarządzenie w sprawie Międzyresortowego Zespołu do spraw projektów „Baltic Pipe” oraz rozbudowy Terminalu LNG w Świnoujściu"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W zarządzeniu nr 171 Prezesa Rady Ministrów z dnia 14 listopada 2017 r. w sprawie Międzyresortowego Zespołu do spraw projektów „Baltic Pipe” oraz rozbudowy Terminalu LNG w Świnoujściu (M.P. poz. 1019 oraz z 2018 r. poz. 1174) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w tytule zarządzenia ogólne określenie przedmiotu zarządzenia otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„w sprawie Międzyresortowego Zespołu do spraw kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 1 ust. 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Tworzy się Międzyresortowy Zespół do spraw kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej, zwany dalej „Zespołem”.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "po § 1 dodaje się § 1a w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 1a. Przez kluczowe inwestycje w zakresie strategicznej infrastruktury energetycznej rozumie się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) projekt „Baltic Pipe”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) projekt rozbudowy terminalu regazyfikacyjnego skroplonego gazu ziemnego (LNG) w Świnoujściu, zwanego dalej „Terminalem LNG w Świnoujściu”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) projekt budowy pływającego terminalu LNG w Zatoce Gdańskiej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) projekt budowy rurociągu ropy naftowej Gdańsk – Płock.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 2 dodaje się ust. 3 i 4 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Przez projekt budowy pływającego terminalu LNG w Zatoce Gdańskiej rozumie się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) budowę pływającej jednostki do regazyfikacji LNG w Zatoce Gdańskiej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) budowę infrastruktury hydrotechnicznej niezbędnej dla funkcjonowania jednostki, o której mowa w pkt 1, w tym falochronu wraz z torem wodnym i obrotnicą;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) budowę gazociągu podmorskiego i gazociągu lądowego łączących jednostkę, o której mowa w pkt 1, ze stacją gazową Bogatka wraz z infrastrukturą niezbędną do ich obsługi;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) budowę gazociągów Kolnik – Gdańsk, Kolnik – Gustorzyn oraz Reszki – Kolnik wraz infrastrukturą niezbędną do ich obsługi na terenie województw pomorskiego i kujawsko-pomorskiego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) budowę lub rozbudowę tłoczni gazu niezbędnych do odbioru gazu z jednostki, o której mowa w pkt 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Przez projekt budowy rurociągu ropy naftowej Gdańsk – Płock rozumie się budowę drugiej, rewersyjnej nitki rurociągu przesyłowego ropy naftowej Gdańsk – Płock wraz z infrastrukturą niezbędną do jego obsługi na terenie województw: pomorskiego, kujawsko-pomorskiego i mazowieckiego oraz rozbudowę i przebudowę istniejącej infrastruktury obiektowej, niezbędnej do prawidłowego funkcjonowania tego rurociągu:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) bazy Miszewko Strzałkowskie;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) bazy Gdańsk;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) stacji pomp Rypin;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) stacji pomp Łasin;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) stacji pomp Pelplin.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "§ 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 3. Do zadań Zespołu należy wsparcie organów administracji rządowej oraz jednostek organizacyjnych im podległych lub przez nie nadzorowanych w podejmowaniu działań dotyczących kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej koniecznych do ich terminowego ukończenia, w szczególności przez:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) koordynowanie i monitorowanie działań tych organów i jednostek w zakresie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) procesu wydawania rozstrzygnięć administracyjnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) procesu zawierania oraz wykonywania umów niezbędnych przy przygotowaniu i realizacji kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) współpracy z organami samorządu terytorialnego i innymi podmiotami uczestniczącymi w realizacji kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) opracowywania przez nie stanowisk,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) współpracy z organami innych państw w procesie decyzyjnym dotyczącym kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) sugerowanie działań wymagających wsparcia dyplomatycznego;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) zapewnianie szybkiego i pełnego przepływu niezbędnych informacji;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wypracowywanie jednolitych praktyk dotyczących rozpatrywania spraw przez organy mające różną właściwość miejscową.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w § 4 w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "w pkt 2:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "par_1/pkt_6/lit_a/tir_1",
+         "text": "po lit. e dodaje się lit. ea i eb w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„ea) minister właściwy do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "eb) minister właściwy do spraw klimatu albo wyznaczony przez niego sekretarz stanu albo podsekretarz stanu,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "par_1/pkt_6/lit_a/tir_2",
+         "text": "po lit. l dodaje się lit. la i lb w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„la) Regionalny Dyrektor Ochrony Środowiska w Warszawie,",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "lb) Regionalny Dyrektor Ochrony Środowiska w Gdańsku,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "par_1/pkt_6/lit_a/tir_3",
+         "text": "po lit. p dodaje się lit. pa i pb w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„pa) wojewoda pomorski,",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "pb) wojewoda mazowiecki,”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "par_1/pkt_6/lit_a/tir_4",
+         "text": "lit. s i t otrzymują brzmienie:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„s) Dyrektor Urzędu Morskiego w Gdyni,",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "t) Dyrektor Biura Obsługi Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej w Ministerstwie Funduszy i Polityki Regionalnej;”,",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "pkt 3 otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„3) sekretarz – wyznaczony przez Przewodniczącego Zespołu pracownik Biura Obsługi Pełnomocnika Rządu do spraw Strategicznej Infrastruktury Energetycznej w Ministerstwie Funduszy i Polityki Regionalnej.”;",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w § 5 w ust. 2 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) przedstawicieli inwestora, wykonawców lub podwykonawców odpowiedzialnych za przygotowanie i realizację kluczowych inwestycji w zakresie strategicznej infrastruktury energetycznej;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "§ 11 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 11.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Obsługę organizacyjno-techniczną Zespołu zapewnia Ministerstwo Funduszy i Polityki Regionalnej, z zastrzeżeniem ust. 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Obsługę Zespołu w zakresie ochrony informacji niejawnych zapewnia Ministerstwo Rozwoju.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wydatki związane z działalnością Zespołu są pokrywane z budżetu państwa z części, której dysponentem jest Minister Funduszy i Polityki Regionalnej, z wyjątkiem wydatków związanych z obsługą Zespołu w zakresie ochrony informacji niejawnych, które są pokrywane z budżetu państwa z części, której dysponentem jest Minister Rozwoju.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

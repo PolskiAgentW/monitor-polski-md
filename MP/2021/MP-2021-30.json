@@ -1,0 +1,2299 @@
+{
+ "eli": "MP/2021/30",
+ "title": "Uchwała nr 197 Rady Ministrów z dnia 29 grudnia 2020 r. zmieniająca uchwałę w sprawie programu rządowego pn. \"Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na rok 2020\"",
+ "converter": "eli2md 0.6.13",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/30/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA NR 197"
+  },
+  {
+   "type": "text",
+   "text": "RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 grudnia 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie programu rządowego pn. „Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na rok 2020”"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 1 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2020 r. poz. 1787) Rada Ministrów uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale nr 67/2020 Rady Ministrów z dnia 3 czerwca 2020 r. w sprawie programu rządowego pn. „Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na rok 2020” (M.P. poz. 856) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "tytuł uchwały otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„w sprawie programu rządowego pn. „Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021” ”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 1 wyrazy „rok 2020” zastępuje się wyrazami „lata 2020–2021”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "załącznik do uchwały otrzymuje brzmienie określone w załączniku do niniejszej uchwały.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do uchwały nr 197 Rady Ministrów z dnia 29 grudnia 2020 r. (poz. 30)",
+   "body": [
+    {
+     "type": "text",
+     "text": "Program"
+    },
+    {
+     "type": "text",
+     "text": "„Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "niepełnosprawnych na lata 2020–2021”",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "text",
+     "text": "Spis treści"
+    },
+    {
+     "type": "text",
+     "text": "Spis treści .............................................................................................................................................. 3"
+    },
+    {
+     "type": "text",
+     "text": "Wstęp ..................................................................................................................................................... 4"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Podstawa prawna Programu ........................................................................................................... 6"
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Diagnoza sytuacji ............................................................................................................................. 6"
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Cele Programu ............................................................................................................................... 7"
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Zakres podmiotowy i przedmiotowy Programu .......................................................................... 8"
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Realizator Programu ....................................................................................................................... 8"
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Wykonawcy Programu .................................................................................................................. 8"
+    },
+    {
+     "type": "heading",
+     "label": "VII.",
+     "text": "Finansowanie Programu oraz warunki przyznawania wykonawcom środków z Funduszu Solidarnościowego na realizację Programu ....................................................................................... 9"
+    },
+    {
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Terminy i warunki realizacji Programu ................................................................................. 11"
+    },
+    {
+     "type": "heading",
+     "label": "IX.",
+     "text": "Tryb przystąpienia do Programu ............................................................................................... 11"
+    },
+    {
+     "type": "heading",
+     "label": "X.",
+     "text": "Zadania podmiotów uczestniczących w realizacji Programu .................................................... 11"
+    },
+    {
+     "type": "heading",
+     "label": "XI.",
+     "text": "Monitoring Programu ................................................................................................................. 13"
+    },
+    {
+     "type": "heading",
+     "label": "XII.",
+     "text": "Zakres sprawozdawanych danych ............................................................................................ 14"
+    },
+    {
+     "type": "heading",
+     "label": "XIII.",
+     "text": "Załączniki .................................................................................................................................. 15 Wstęp"
+    },
+    {
+     "type": "text",
+     "text": "Program „Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021”, zwany dalej „Programem”, ma na celu wsparcie zdrowotne osób niepełnosprawnych powyżej 16. roku życia posiadających orzeczenie o lekkim albo umiarkowanym stopniu niepełnosprawności albo orzeczenie równoważne do tych dwóch stopni (w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2020 r. poz. 426, z późn zm.)), którym świadczenia z zakresu rehabilitacji leczniczej mogą pozwolić na jak najpełniejszy powrót do aktywności społecznej i życie w jak najmniejszym stopniu ograniczone barierami. Jedną z dodatkowych korzyści tego Programu może być podjęcie lub utrzymanie aktywności zawodowej i społecznej, podjęcie lub kontynuacja nauki przez osoby dotknięte niepełnosprawnością, którym świadczenia z zakresu rehabilitacji leczniczej pozwolą na utrzymanie kondycji zdrowotnej i dobrej jakości funkcjonowania."
+    },
+    {
+     "type": "text",
+     "text": "Zapewnienie wsparcia w zakresie świadczeń z zakresu rehabilitacji leczniczej wpisuje się w jeden z głównych celów utworzonego z dniem 1 stycznia 2019 r. państwowego funduszu celowego pn. „Fundusz Solidarnościowy”. Fundusz Solidarnościowy wprowadziła do porządku prawnego ustawa z dnia 23 października 2018 r. o Funduszu Solidarnościowym (Dz. U. z 2020 r. poz. 1787). Zgodnie z art. 1 ww. ustawy celem Funduszu Solidarnościowego jest m.in. wsparcie zdrowotne osób niepełnosprawnych."
+    },
+    {
+     "type": "text",
+     "text": "Realizacja Programu pozwoli na przekazanie dodatkowych środków na leczenie osób niepełnosprawnych, co powinno ułatwić dostęp do świadczeń z zakresu rehabilitacji i przełożyć się na zwiększenie skuteczności podejmowanych działań rehabilitacyjnych."
+    },
+    {
+     "type": "text",
+     "text": "Rehabilitacja lecznicza jest jedną ze składowych procesu kompleksowej rehabilitacji osób niepełnosprawnych, daje szansę na odzyskanie pełnej lub podniesienie sprawności fizycznej i psychicznej, ułatwia podejmowanie aktywności społecznych i zawodowych."
+    },
+    {
+     "type": "text",
+     "text": "Działania Programu są komplementarne wobec działań prowadzonych przez Ministerstwo Rodziny i Polityki Społecznej w programach finansowanych ze środków Funduszu Solidarnościowego oraz wpisują się w cele wskazane w Strategii na rzecz Odpowiedzialnego Rozwoju do roku 2020 (z perspektywą do 2030 r.)."
+    },
+    {
+     "type": "text",
+     "text": "Należy zaznaczyć, że projektowane działania wypełniają także postanowienia Konwencji o prawach osób niepełnosprawnych, sporządzonej w Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169, z późn. zm.), zwanej dalej „Konwencją”:"
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 25. Zdrowie stanowi, że:"
+    },
+    {
+     "type": "text",
+     "text": "„Państwa Strony uznają, że osoby niepełnosprawne mają prawo do osiągnięcia najwyższego możliwego poziomu stanu zdrowia, bez dyskryminacji ze względu na niepełnosprawność. Państwa Strony podejmą wszelkie odpowiednie środki w celu zapewnienia osobom niepełnosprawnym dostępu do usług opieki zdrowotnej biorących pod uwagę szczególnie wymogi związane z płcią, w tym rehabilitacji zdrowotnej. W szczególności, Państwa Strony: (a) zapewnią osobom niepełnosprawnym taki sam jak w przypadku innych osób zakres, jakość i standard bezpłatnej lub zapewnianej po przystępnych cenach opieki zdrowotnej i programów zdrowotnych, w tym w zakresie zdrowia seksualnego i prokreacyjnego oraz adresowanych do całej populacji programów w zakresie zdrowia publicznego,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(b) zapewnią te usługi zdrowotne, które są potrzebne osobom niepełnosprawnym, szczególnie ze względu na ich niepełnosprawność, w tym wczesne rozpoznawanie i leczenie, o ile konieczne, a także usługi mające na celu ograniczenie i zapobieganie pogłębianiu się niepełnosprawności, w tym u dzieci i osób starszych,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(c) zapewnią świadczenie usług opieki zdrowotnej możliwie blisko społeczności, w których żyją osoby niepełnosprawne, w tym na obszarach wiejskich,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(d) zobowiążą osoby wykonujące zawody medyczne do zapewniania osobom niepełnosprawnym, na podstawie swobodnie przez nie wyrażonej i świadomej zgody, opieki takiej samej jakości jak innym osobom poprzez, między innymi, podnoszenie świadomości w zakresie praw człowieka, godności, niezależności i potrzeb osób niepełnosprawnych w drodze szkoleń i upowszechniania standardów etycznych w publicznej i prywatnej opiece zdrowotnej,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(e) zakażą dyskryminacji osób niepełnosprawnych w zakresie ubezpieczenia zdrowotnego, a także ubezpieczenia na życie, jeśli takie ubezpieczenie jest dozwolone przez ustawodawstwo krajowe, przy czym ubezpieczenia będą zapewniane w sposób sprawiedliwy i racjonalny,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(f) będą zapobiegać przypadkom odmowy udzielenia, ze względu na niepełnosprawność, opieki zdrowotnej lub usług zdrowotnych, albo pożywienia i płynów.”.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Artykuł 26. Rehabilitacja stanowi, że:"
+    },
+    {
+     "type": "text",
+     "text": "„1. Państwa Strony podejmą skuteczne i odpowiednie środki, uwzględniając wzajemne wsparcie, w celu umożliwienia osobom niepełnosprawnym uzyskania i utrzymania możliwie największej niezależności, pełnych zdolności fizycznych, umysłowych, społecznych i zawodowych oraz pełnego włączenia i udziału we wszystkich aspektach życia. W tym celu Państwa Strony zorganizują, wzmocnią i rozwiną usługi i programy w zakresie wszechstronnej rehabilitacji, w szczególności w obszarze zdrowia, zatrudnienia, edukacji i usług socjalnych, w taki sposób, aby usługi i programy:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(a) były dostępne od możliwie najwcześniejszego etapu życia i były oparte na wielodyscyplinarnej ocenie indywidualnych potrzeb i potencjału,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(b) wspierały udział i włączanie w społeczność lokalną oraz we wszystkie aspekty życia społecznego, były dobrowolne i dostępne dla osób niepełnosprawnych możliwie blisko społeczności, w których żyją, w tym na obszarach wiejskich,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Państwa Strony będą popierać rozwój szkolenia wstępnego i ustawicznego personelu i specjalistów pracujących w usługach rehabilitacyjnych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Państwa Strony będą promować dostępność, znajomość i korzystanie w procesie rehabilitacji z urządzeń i technologii wspomagających, zaprojektowanych dla osób niepełnosprawnych.”.",
+     "quoted": true
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Podstawa prawna Programu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Podstawa prawna – art. 7 ust. 1 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "W zakresie nieuregulowanym w Programie oraz załączniku do Programu stosuje się przepisy ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym. W dalszej kolejności do kwestii nieuregulowanych w Programie i załączniku do Programu zastosowanie mają przepisy prawne określające sposób udzielania świadczeń opieki zdrowotnej oraz prowadzenia działalności leczniczej.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Diagnoza sytuacji"
+    },
+    {
+     "type": "text",
+     "text": "Świadczenia opieki zdrowotnej finansowane ze środków publicznych z zakresu rehabilitacji leczniczej są dostępne dla wszystkich świadczeniobiorców, w tym osób niepełnosprawnych. Grupa ta nie była do 2018 r. szczególnie wyodrębniana w tym dostępie."
+    },
+    {
+     "type": "text",
+     "text": "Ustawa z dnia 9 maja 2018 r. o szczególnych rozwiązaniach wspierających osoby o znacznym stopniu niepełnosprawności (Dz. U. poz. 932) ułatwiła – w głównej mierze osobom powyżej 16. roku życia z prawnym orzeczeniem o znacznym stopniu niepełnosprawności (zgodnie z obowiązującym systemem orzeczniczym) – dostęp m.in. do świadczeń z zakresu rehabilitacji leczniczej."
+    },
+    {
+     "type": "text",
+     "text": "Rozwiązania wskazane w niniejszym Programie mają zatem, na zasadach komplementarności, zapewnić łatwiejszy dostęp do świadczeń osobom niepełnosprawnym powyżej 16. roku życia z orzeczeniami o stopniu lekkim albo umiarkowanym bądź orzeczeniem równoważnym do któregoś z tych dwóch stopni. Szacuje się, że liczba osób niepełnosprawnych mających orzeczenie o umiarkowanym albo lekkim stopniu niepełnosprawności oraz równoważne wynosiła w 2018 r. ok. 2,227 mln osób[^1]."
+    },
+    {
+     "type": "text",
+     "text": "Jednocześnie należy wskazać, że opracowanie Programu i wykorzystanie na jego realizację środków Funduszu Solidarnościowego, na podstawie odrębnej ustawy, pozwala na elastyczniejsze kształtowanie świadczeń opieki zdrowotnej w Programie i wyjście poza tzw. „koszyki świadczeń gwarantowanych”."
+    },
+    {
+     "type": "heading",
+     "label": "III.",
+     "text": "Cele Programu"
+    },
+    {
+     "type": "text",
+     "text": "Celem Programu jest wsparcie osób niepełnosprawnych w osiągnięciu optymalnego poziomu funkcjonowania w środowisku fizycznym, społecznym i gospodarczym oraz utrzymanie go dzięki wsparciu z zakresu rehabilitacji leczniczej. Poprawa funkcjonowania w środowisku może przyczynić się do podjęcia nauki, kształcenia, pracy oraz sprzyjać wielowymiarowej aktywizacji społecznej grupy docelowej."
+    },
+    {
+     "type": "text",
+     "text": "Założeniem Programu jest umożliwienie beneficjentom osiągnięcia jak najpełniejszej aktywności w życiu społecznym, zgodnie z zamierzeniami danej osoby, a w sytuacji, kiedy świadczeniobiorca znajduje się pod opieką instytucji wspierających (np. domy pomocy społecznej, ośrodki pomocy społecznej, centra pomocy rodzinie) – ułatwienie powrotu do samodzielnego funkcjonowania."
+    },
+    {
+     "type": "text",
+     "text": "Zwiększenie dostępu do świadczeń opieki zdrowotnej w zakresie rehabilitacji leczniczej ze środków Funduszu Solidarnościowego powinno także pozytywnie oddziaływać na zmniejszenie kolejek osób oczekujących na dostęp do tychże świadczeń dla całej populacji dorosłych obywateli w kraju."
+    },
+    {
+     "type": "text",
+     "text": "Należy wskazać, że stan epidemii COVID-19 spowodował wstrzymanie procedowania Programu w 2020 r., przesunięcie terminu jego przyjęcia, publikacji i znacząco skrócił możliwość udzielania świadczeń z Programu w 2020 r. Jednocześnie należy podkreślić, że ograniczenia w udzielaniu świadczeń i usług rehabilitacyjnych w czasie epidemii COVID-19 powodują nawarstwiające się palące niezaspokojone potrzeby w zakresie rehabilitacji, które sygnalizują w szczególności osoby niepełnosprawne. Zatem realizacja Programu jest także szansą na częściowe skompensowanie obecnych zaległości w tym zakresie."
+    },
+    {
+     "type": "heading",
+     "label": "IV.",
+     "text": "Zakres podmiotowy i przedmiotowy Programu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Program zakłada zwiększenie środków finansowych w dyspozycji podmiotów wykonujących działalność leczniczą z przeznaczeniem na świadczenia opieki zdrowotnej z obszaru rehabilitacji leczniczej w warunkach ambulatoryjnych w formie fizjoterapii ambulatoryjnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zakres świadczeń udzielanych z Programu będzie obejmował świadczenia zgodne z wykazem zawartym w załączniku do Programu i będzie dostosowany do indywidualnych potrzeb pacjenta, zgodnie z decyzją podjętą przez fizjoterapeutę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Program dedykowany jest osobom powyżej 16. roku życia z orzeczeniem o niepełnosprawności w stopniu lekkim albo umiarkowanym (albo orzeczeniem równoważnym do któregoś z tych dwóch stopni w rozumieniu przepisów ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Formalne kryteria włączenia pacjenta do udziału w Programie będą zgodne z przepisami ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym, tj. niezbędne będzie posiadanie stosownych uprawnień określonych w ustawie. Ponadto kwalifikacja pacjenta dokonywana będzie zgodnie z warunkami określonymi w załączniku do Programu (odnoszącymi się także do aktów prawnych). Przewiduje się, że kwalifikacja medyczna pacjenta do świadczeń opierać będzie się na profesjonalnej wiedzy fizjoterapeutów. Odpowiednia kwalifikacja będzie miała na celu wyodrębnienie grup pacjentów, dla których rehabilitacja przyniesie wymierne korzyści zdrowotne oraz pacjentów, dla których rehabilitacja zapobiegnie powstaniu, utrwaleniu lub pogłębieniu się niepełnosprawności lub niesamodzielności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "W ramach Programu nie ma możliwości udzielania świadczeń zdrowotnych w warunkach domowych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "V.",
+     "text": "Realizator Programu"
+    },
+    {
+     "type": "text",
+     "text": "Realizatorem Programu jest Narodowy Fundusz Zdrowia, zwany dalej „NFZ”."
+    },
+    {
+     "type": "heading",
+     "label": "VI.",
+     "text": "Wykonawcy Programu"
+    },
+    {
+     "type": "text",
+     "text": "Wykonawcami Programu będą podmioty wykonujące działalność leczniczą, spełniające warunki określone przepisami prawa oraz warunki zawarte w załączniku do Programu."
+    },
+    {
+     "type": "heading",
+     "label": "VII.",
+     "text": "Finansowanie Programu oraz warunki przyznawania wykonawcom środków z Funduszu Solidarnościowego na realizację Programu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Źródłem finansowania Programu są środki Funduszu Solidarnościowego w pozycji programy rządowe. Planowana wysokość środków na realizację świadczeń w ramach Programu na 2020 r. to 24 mln zł oraz na 2021 r. – 50 mln zł. Mając na uwadze konieczność zwrotu środków Programu niewykorzystanych w 2020 r. na konto dysponenta Funduszu Solidarnościowego – kwota zaplanowana na lata 2020–2021 stanowi jedynie część środków przyznanych pierwotnie na realizację Programu. Wysokość udziału środków Funduszu Solidarnościowego w kwocie dedykowanej realizacji Programu wynosi 100%.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Dysponentem środków Funduszu Solidarnościowego jest minister właściwy do spraw zabezpieczenia społecznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Podstawą przekazania środków z Funduszu Solidarnościowego jest umowa zawarta między ministrem właściwym do spraw zabezpieczenia społecznego a Prezesem NFZ, która określa w szczególności wysokość przekazanych środków, tryb ich przekazania, a także sposób i termin ich rozliczenia (w tym zwrotu niewykorzystanych środków).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Środki z Funduszu Solidarnościowego zostaną przekazane na wyodrębniony rachunek realizatora Programu do wysokości określonej w Programie i umowie, o której mowa w ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Prezes NFZ przekazuje środki na realizację Programu oddziałom wojewódzkim NFZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Realizacja Programu następuje w trybie naboru wniosków lub otwartego konkursu ofert, zgodnie z przepisami ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Nabór wniosków albo konkursy ofert są prowadzone przez oddziały wojewódzkie NFZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Dyrektor oddziału wojewódzkiego NFZ zamieszcza listę podmiotów, których wnioski albo oferty zostały zatwierdzone wraz z kwotą przyznanych środków Funduszu Solidarnościowego na stronie internetowej oddziału wojewódzkiego NFZ oraz na stronie podmiotowej Biuletynu Informacji Publicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Środki Programu w 2021 r. będą mogły zostać przeznaczone na kontynuację finansowania umów zawartych w 2020 r. lub przeprowadzenie nowych naborów, zgodnie z ust. 6.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Dyrektor oddziału wojewódzkiego NFZ może pokryć koszty obsługi Programu w wysokości faktycznie poniesionej, nieprzekraczającej 0,5% środków przekazanych na jego realizację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Wykonawca Programu może pokryć koszty obsługi Programu w wysokości faktycznie poniesionej, nieprzekraczającej 0,5% środków przekazanych na jego realizację.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Źródłem finansowania kosztów obsługi, o których mowa w ust. 10 i 11, są środki ujęte w planie finansowym Funduszu Solidarnościowego w pozycji koszty obsługi zadań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "Koszty związane z obsługą Programu mogą dotyczyć wyłącznie wydatków bieżących w zakresie obsługi księgowej, prawnej, kadrowej oraz kosztów administracyjnych. Koszty obsługi nie mogą zostać przeznaczone na wynagrodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "Wykonawca Programu jest obowiązany do posiadania wyodrębnionego rachunku bankowego dla środków z Programu, prowadzenia wyodrębnionej ewidencji księgowej otrzymanych środków i dokonywanych z tych środków wydatków, zgodnie z art. 17 ustawy z dnia 23 października 2018 r. o Funduszu Solidarnościowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "Wydatki będą kwalifikowalne, jeżeli zostaną poniesione w okresie realizacji Programu, tj. od dnia podpisania umów z wykonawcami Programu do dnia 31 grudnia 2021 r. lub do wykorzystania dostępnej alokacji środków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "Wydatkami niekwalifikowalnymi są w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_16/pkt_1",
+       "text": "kary i grzywny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_16/pkt_2",
+       "text": "odsetki za opóźnienia w regulowaniu zobowiązań oraz odsetki za zwłokę z tytułu nieterminowego regulowania wpłat należności budżetowych i innych należności, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2020 r. poz. 1325, z późn. zm.);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_16/pkt_3",
+       "text": "wpłaty na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_16/pkt_4",
+       "text": "podatek VAT, który można odzyskać na podstawie przepisów krajowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_16/pkt_5",
+       "text": "wydatki na zakup środków trwałych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "W przypadku wątpliwości, decyzję o kwalifikowalności wydatków podejmuje właściwy Dyrektor oddziału wojewódzkiego NFZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "Zabronione jest finansowanie tego samego wydatku zarówno ze środków Programu, jak i innych środków publicznych na realizację świadczeń opieki zdrowotnej (tzw. podwójne finansowanie).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "W zakresie nieuregulowanym w niniejszym Programie i załączniku do Programu, koszty świadczeń opieki zdrowotnej mogą być ponoszone zgodnie z obowiązującymi przepisami określającymi zasady finansowania świadczeń opieki zdrowotnej ze środków publicznych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "VIII.",
+     "text": "Terminy i warunki realizacji Programu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Program będzie realizowany w terminie od dnia podpisania umów z wykonawcami Programu do dnia 31 grudnia 2021 r. lub do wykorzystania dostępnej alokacji środków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Środki będą przekazywane wykonawcom Programu w comiesięcznych transzach, zgodnie z zawartą umową oraz ogólnymi warunkami wykonywania umów na świadczenia opieki zdrowotnej finansowane ze środków publicznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Środki z Programu mogą być wykorzystywane na zasadzie refundacji poniesionych wydatków lub na zasadzie zaliczki, tj. na sfinansowanie wydatków środkami z Programu, w sposób umożliwiający terminową realizację płatności za zrealizowaną usługę.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "IX.",
+     "text": "Tryb przystąpienia do Programu"
+    },
+    {
+     "type": "text",
+     "text": "Podmioty wykonujące działalność leczniczą, składając do właściwego oddziału wojewódzkiego NFZ wniosek o przystąpienie do Programu albo ofertę konkursową, wskazują w nich w szczególności:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "przewidywaną wartość świadczeń opieki zdrowotnej z zakresu rehabilitacji leczniczej w Programie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przewidywane koszty związane z obsługą Programu.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "X.",
+     "text": "Zadania podmiotów uczestniczących w realizacji Programu"
+    },
+    {
+     "type": "text",
+     "text": "Do zadań ministra właściwego do spraw zdrowia należy:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Opracowanie Programu, w tym jego ewentualna aktualizacja.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Ocena efektów realizacji Programu na podstawie przyjętych wskaźników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Akceptacja sprawozdań rocznych i końcowego z realizacji Programu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do zadań Prezesa NFZ, jako realizatora Programu, należy:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przekazywanie środków Programu do oddziałów wojewódzkich NFZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Poinformowanie o uruchomieniu Programu w Biuletynie Informacji Publicznej NFZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Określenie zasad:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "sprawozdawania z realizacji Programu dla podmiotów wykonujących działalność leczniczą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "sprawozdawania z realizacji Programu dla oddziałów wojewódzkich NFZ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "sprawozdawania z realizacji Programu dla Narodowego Funduszu Zdrowia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Monitorowanie realizacji zadań wynikających z Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Akceptacja sprawozdań złożonych przez dyrektorów oddziałów wojewódzkich NFZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Sporządzenie rocznych i końcowego sprawozdania z realizacji Programu, na podstawie sprawozdań przekazanych przez dyrektorów oddziałów wojewódzkich NFZ, oraz przedłożenie ich do akceptacji ministra właściwego do spraw zdrowia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Przekazanie sprawozdań rocznych oraz sprawozdania końcowego z realizacji Programu, zaakceptowanych przez ministra właściwego ds. zdrowia, do ministra właściwego do spraw zabezpieczenia społecznego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do zadań Dyrektorów oddziałów wojewódzkich NFZ należy:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wystąpienie do Prezesa NFZ o przekazanie środków pieniężnych na realizację Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Ogłoszenie naborów wniosków albo ogłoszenie konkursów ofert, a także zamieszczenie informacji o wynikach naborów albo postępowań na stronie podmiotowej oraz w Biuletynie Informacji Publicznej właściwego oddziału wojewódzkiego NFZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Udzielanie informacji o zasadach realizacji Programu i warunkach naboru wniosków albo ofert konkursowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Przeprowadzenie naborów wniosków albo konkursów ofert.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Ocena pod względem formalnym i merytorycznym wniosków albo ofert konkursowych złożonych przez podmioty wykonujące działalność leczniczą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Sporządzenie i przekazanie Prezesowi NFZ listy rekomendowanych wykonawców Programu, sporządzonej na podstawie oceny złożonych wniosków albo ofert konkursowych (dla celów informacyjnych), zatwierdzonej przez właściwego dyrektora oddziału wojewódzkiego NFZ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Zawarcie umów z właściwymi podmiotami wykonującymi działalność leczniczą w terminie 14 dni od dnia zatwierdzenia listy rekomendowanych wniosków albo ofert konkursowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Przekazanie wykonawcom Programu środków finansowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Analiza oraz rozliczanie środków finansowych przyznanych wykonawcom na realizację Programu (w tym na koszty jego obsługi).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Przekazanie Prezesowi NFZ sprawozdań rocznych i końcowego z realizacji Programu w danym województwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Koordynacja, nadzór oraz kontrola zadań realizowanych przez wykonawców w Programie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do zadań wykonawców Programu należy:"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Złożenie wniosku albo oferty konkursowej na środki finansowe na realizację Programu, w tym koszty jego obsługi, do właściwego oddziału wojewódzkiego NFZ, w terminie i zgodnie z warunkami określonymi w ogłoszeniu o naborze wniosków lub konkursie ofert.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Realizacja zadań Programu zgodnie z podpisaną umową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Rozliczenie otrzymanych środków finansowych na realizację Programu oraz poddanie się kontroli zgodnie z umową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Przedstawienie, na żądanie dyrektora oddziału wojewódzkiego NFZ lub Prezesa NFZ, wyjaśnień, informacji i dokumentów dotyczących zadań realizowanych w Programie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Przekazywanie właściwemu dyrektorowi oddziału wojewódzkiego NFZ sprawozdań rocznych i końcowego. W sytuacji wykonywania umowy przez jeden rok sprawozdanie roczne jest także sprawozdaniem końcowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Informowanie o finansowaniu wsparcia ze środków pochodzących z Funduszu Solidarnościowego przyznanych w ramach Programu. Informacja na ten temat powinna się znaleźć we wszystkich materiałach, publikacjach, informacjach dla mediów, ogłoszeniach oraz wystąpieniach publicznych dotyczących realizowanego zadania. Należy stosować wytyczne w zakresie wypełniania obowiązków informacyjnych KPRM: https://www.gov.pl/web/premier/promocja.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "XI.",
+     "text": "Monitoring Programu"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wykonawca Programu przekazuje do dyrektora oddziału wojewódzkiego NFZ sprawozdanie roczne z realizacji Programu w terminie do 30 dni od dnia zakończenia realizacji zadania w danym roku. Wykonawca, który realizował zadanie na podstawie umowy obejmującej tylko jeden rok, składa sprawozdanie roczne, które jest jednocześnie sprawozdaniem końcowym (co powinno zostać zaznaczone przez Wykonawcę w formularzu sprawozdania).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Dyrektor oddziału wojewódzkiego NFZ przekazuje do Prezesa NFZ sprawozdanie roczne z realizacji Programu przez dany oddział wojewódzki NFZ w terminie do dnia 20 lutego roku następnego po zakończeniu realizacji Programu w danym roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Prezes NFZ akceptuje sprawozdania roczne z realizacji Programu, złożone przez dyrektorów oddziałów wojewódzkich, w terminie do dnia 31 marca roku następnego po zakończeniu realizacji Programu w danym roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Prezes NFZ sporządza zbiorcze sprawozdania roczne z realizacji Programu i przekazuje je do ministra właściwego do spraw zdrowia w terminie do dnia 30 kwietnia roku następnego po zakończeniu realizacji Programu w danym roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Minister właściwy do spraw zdrowia akceptuje sprawozdania w terminie do dnia 15 maja roku następnego po zakończeniu realizacji Programu w danym roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Wykonawca Programu przekazuje do dyrektora oddziału wojewódzkiego NFZ sprawozdanie końcowe z realizacji Programu w terminie do 45 dni od dnia zakończenia realizacji zadania. Nie dotyczy to wykonawców, którzy realizowali zadanie tylko w jednym roku, gdyż ich sprawozdanie roczne jest jednocześnie sprawozdaniem końcowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Dyrektor oddziału wojewódzkiego NFZ przekazuje do Prezesa NFZ sprawozdanie końcowe z realizacji Programu przez dany oddział wojewódzki NFZ w terminie do 15 marca roku następnego po zakończeniu realizacji Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Prezes NFZ akceptuje sprawozdania końcowe z realizacji Programu, złożone przez dyrektorów oddziałów wojewódzkich, w terminie do dnia 15 kwietnia roku następnego po zakończeniu realizacji Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Prezes NFZ sporządza zbiorcze sprawozdanie końcowe z realizacji Programu i przekazuje je do ministra właściwego do spraw zdrowia w terminie do dnia 30 kwietnia roku następnego po zakończeniu Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "Minister właściwy ds. zdrowia akceptuje sprawozdanie w terminie do dnia 15 maja roku następnego po zakończeniu realizacji Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "Prezes NFZ przekazuje zaakceptowane sprawozdanie końcowe oraz zaakceptowane sprawozdania roczne z realizacji Programu do ministra właściwego do spraw zabezpieczenia społecznego w terminie do dnia 31 maja roku następnego po zakończeniu realizacji Programu lub zakończenia realizacji Programu w danym roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "Dodatkowa sprawozdawczość w ramach Programu odbywa się na zasadach ogólnych wykonywania umów na świadczenia opieki zdrowotnej finansowane ze środków publicznych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "XII.",
+     "text": "Zakres sprawozdawanych danych"
+    },
+    {
+     "type": "text",
+     "text": "Minimalny zakres danych sprawozdawanych w Programie obejmuje:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Liczbę osób, którym udzielono wsparcia w Programie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Informację o udzielonych świadczeniach – w tym w szczególności o liczbie i rodzaju wykonanych świadczeń/zabiegów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Liczbę przypadków, w których wystąpiono o zgodę do dyrektora oddziału wojewódzkiego NFZ o dodatkowe cykle fizjoterapeutyczne (ponad maksymalną liczbę zagwarantowaną w Programie).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Oznaczenie przyczyny prowadzenia rehabilitacji ustalonej na podstawie diagnostyki funkcjonalnej pacjenta, a także podanie klasyfikacji ICD-10 (jeśli kod został wcześniej ustalony) – wymóg dotyczy tylko sprawozdań sporządzanych przez Wykonawców Programu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Wysokość wydatków z budżetu Funduszu Solidarnościowego na realizację Programu, zawierającą m.in. wartość udzielonych świadczeń opieki zdrowotnej.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "XIII.",
+     "text": "Załączniki"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do Programu – Warunki udzielania świadczeń w Programie „Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021”."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "Warunki udzielania świadczeń w Programie"
+    },
+    {
+     "type": "text",
+     "text": "„Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021”",
+     "quoted": true
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Użyte w Programie „Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021”, zwanym dalej „Programem”, określenia oznaczają:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "zabieg fizjoterapeutyczny – świadczenie zdrowotne udzielane w cyklach odpowiadających potrzebom zdrowotnym świadczeniobiorcy objętego leczeniem rehabilitacyjnym lub fizjoterapeutycznym;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "świadczenia obligatoryjne – minimalny zakres świadczeń gwarantowanych przez świadczeniodawcę;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "świadczenia dodatkowe – świadczenia, które mogą zostać udzielone i rozliczone przez świadczeniodawcę w sytuacji spełnienia dodatkowych wymagań określonych w niniejszym załączniku;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "świadczenia premiowane – wybrane świadczenia dodatkowe, których zapewnienie związane będzie z otrzymaniem dodatkowych punktów przy ocenie oferty lub wniosku (niezależnie od trybu), zgodnie z warunkami określonymi w wykazie szczegółowych kryteriów wyboru ofert/wniosków w Programie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W zakresie nieuregulowanym w Programie zastosowanie mają powszechnie obowiązujące przepisy prawa, w szczególności ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, z późn. zm.)."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Wykonawcy Programu"
+    },
+    {
+     "type": "text",
+     "text": "Podmiotami mogącymi udzielać świadczeń w ramach przedmiotowego Programu są podmioty wykonujące działalność leczniczą wpisane do rejestru określonego w dziale IV ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2020 r. poz. 295, z późn. zm.)."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "III. Kwalifikacja pacjenta do Programu"
+    },
+    {
+     "type": "text",
+     "text": "Warunkiem zakwalifikowania się do korzystania ze świadczeń w Programie jest posiadanie przez pacjenta orzeczenia o niepełnosprawności w stopniu lekkim albo umiarkowanym, albo orzeczenia równoważnego potwierdzonego odpowiednimi dokumentami."
+    },
+    {
+     "type": "text",
+     "text": "Kwalifikacja wstępna będzie polegała na weryfikacji przez świadczeniodawcę posiadania przez pacjenta ww. orzeczenia."
+    },
+    {
+     "type": "text",
+     "text": "Dalsza kwalifikacja pacjenta do Programu odbywa się zgodnie z przepisami ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2019 r. poz. 952, z późn. zm.) – zatem możliwe jest przeprowadzenie przez fizjoterapeutę m.in.: diagnostyki funkcjonalnej pacjenta oraz kwalifikowania, planowania i prowadzenia fizjoterapii."
+    },
+    {
+     "type": "text",
+     "text": "Udzielanie świadczeń opieki zdrowotnej w ramach Programu nie wymaga skierowania lekarza ubezpieczenia zdrowotnego. Wyjątek stanowią sytuacje określone w art. 4 ust. 4a ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty stanowiące, że fizjoterapeuta nieposiadający okresu doświadczenia w zawodzie określonego w ust. 4 pkt 2–4 może udzielać świadczeń zdrowotnych w zakresie wynikającym z posiadanego tytułu zawodowego, wyłącznie na podstawie skierowania lekarza albo innego fizjoterapeuty posiadającego prawo samodzielnego udzielania świadczeń zdrowotnych z zakresu fizjoterapii."
+    },
+    {
+     "type": "text",
+     "text": "IV. Organizacja udzielania świadczeń w Programie"
+    },
+    {
+     "type": "text",
+     "text": "Na wizycie kwalifikacyjnej fizjoterapeuta ustali dla każdego pacjenta plan fizjoterapii, określający ustalony z pacjentem cel fizjoterapii, a także zakres i optymalną intensywność świadczeń dla danego pacjenta służących realizacji założonego celu."
+    },
+    {
+     "type": "text",
+     "text": "Świadczenia w Programie mieszczą się w zakresie fizjoterapii ambulatoryjnej i obejmują:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "wizyty fizjoterapeutyczne (w liczbie adekwatnej do potrzeb pacjenta, nie mniejszej jednak niż 2 wizyty – po jednej na początku i na końcu każdego cyklu) oraz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "od 1 do 3 cykli terapeutycznych (liczbę cykli terapeutycznych dla danego pacjenta określa fizjoterapeuta zlecający lub wykonujący zabiegi).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Cykl terapeutyczny obejmuje do 10 dni zabiegowych."
+      },
+      {
+       "type": "text",
+       "text": "Jednemu pacjentowi przysługuje w Programie nie więcej niż 5 zabiegów dziennie, w tym co najmniej 3 zabiegi z zakresu kinezyterapii, przy czym nie więcej niż jedna kinezyterapia grupowa (w sytuacji udzielania takiego świadczenia u świadczeniodawcy). W sytuacji"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "wykonywania dziennie liczby zabiegów mniejszej niż 5, udział zabiegów z zakresu kinezyterapii nie może być mniejszy niż 60% wykonywanych zabiegów."
+    },
+    {
+     "type": "text",
+     "text": "W przypadku uzasadnionym względami medycznymi i koniecznością osiągnięcia celu leczniczego liczba cykli terapeutycznych może zostać zwiększona decyzją fizjoterapeuty zlecającego lub wykonującego zabiegi, za pisemną zgodą dyrektora właściwego oddziału wojewódzkiego Narodowego Funduszu Zdrowia – maksymalnie o kolejne 2 cykle."
+    },
+    {
+     "type": "text",
+     "text": "W ramach Programu prowadzi się także:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "edukację pacjenta w zakresie samoopieki i sposobu wykonywania czynności dnia codziennego oraz czynności zawodowych w sposób uwzględniający posiadane zaburzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "naukę ćwiczeń do wykonywania przez pacjenta w domu samodzielnie lub przy wsparciu opiekunów lub członków rodziny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "edukację w zakresie doboru i nauki korzystania z wyrobów medycznych (przedmiotów ortopedycznych).",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Personel"
+      },
+      {
+       "type": "text",
+       "text": "Świadczenia w Programie udzielane w ramach fizjoterapii ambulatoryjnej, z wyjątkiem masażu, muszą odbywać się pod nadzorem co najmniej osoby wykonującej zawód fizjoterapeuty i posiadającej tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuty posiadającego dyplom, świadectwo lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c ww. ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadającego co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty."
+      },
+      {
+       "type": "text",
+       "text": "VI. Wymogi lokalowe do udzielania świadczeń w Programie"
+      },
+      {
+       "type": "text",
+       "text": "Wykonawca odpowiada za utrzymanie w miejscu udzielania świadczeń odpowiednich warunków higieniczno-sanitarnych."
+      },
+      {
+       "type": "text",
+       "text": "W okresie wystąpienia stanu epidemii lub stanu zagrożenia epidemicznego (zgodnie z regulacjami ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2020 r. poz. 1845, z późn. zm.)) podczas udzielania świadczeń zaleca się wykonawcy postępowanie zgodne z „wytycznymi dla funkcjonowania gabinetów fizjoterapeutycznych w systemie rehabilitacji ambulatoryjnej w trakcie epidemii"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "COVID-19 w Rzeczypospolitej Polskiej” oraz innymi wytycznymi w zakresie udzielania świadczeń rehabilitacji leczniczej w związku z COVID-19 wydanymi lub konsultowanymi z Głównym Inspektorem Sanitarnym lub Ministrem Zdrowia."
+    },
+    {
+     "type": "text",
+     "text": "Niezależnie od powyższego wykonawcy są obowiązani przestrzegać przepisów ustawowych związanych z wykonywaniem działań podczas stanu epidemii lub stanu zagrożenia epidemicznego dotyczących COVID-19 oraz aktów wykonawczych, w tym przepisów wydanych na podstawie art. 46a i art. 46b ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi."
+    },
+    {
+     "type": "text",
+     "text": "Zaleca się, aby pomieszczenia, w których są wykonywane badania lub zabiegi, wyposażone były w co najmniej jedną umywalkę z baterią z ciepłą i zimną wodą, a także dozowniki z mydłem w płynie lub środkiem dezynfekcyjnym oraz pojemnik z ręcznikami jednorazowego użytku i pojemnik na zużyte ręczniki. Pomieszczenia, w których są wykonywane badania lub zabiegi, powinny posiadać powierzchnie wykonane z materiałów umożliwiających ich mycie i dezynfekcję. Zaleca się także, aby pomieszczenia, w których są wykonywane badania lub zabiegi przy użyciu narzędzi i sprzętu wielokrotnego użycia, niezależnie od umywalek, wyposażone były w zlew z baterią – nie dotyczy to sytuacji, gdy stanowiska mycia rąk personelu oraz narzędzi i sprzętu wielokrotnego użycia są zorganizowane w oddzielnym pomieszczeniu, do którego narzędzia i sprzęt są przenoszone w szczelnych pojemnikach, oraz w przypadku gdy mycie i sterylizacja są przeprowadzane w innym podmiocie."
+    },
+    {
+     "type": "text",
+     "text": "Miejsce, w którym są udzielane świadczenia w Programie, jest dostępne dla pacjentów z niepełnosprawnością ruchową, umożliwia pacjentowi samodzielne dotarcie do miejsca udzielania świadczeń."
+    },
+    {
+     "type": "text",
+     "text": "W miejscu udzielania świadczeń znajduje się co najmniej jedno pomieszczenie higieniczno-sanitarne dostępne dla pacjentów korzystających z Programu, dostosowane do potrzeb osób z niepełnosprawnością ruchową (wskazane byłoby dostosowanie także do innych form niepełnosprawności)."
+    },
+    {
+     "type": "text",
+     "text": "W węzłach sanitarnych dla pacjentów znajdują się poręcze i uchwyty."
+    },
+    {
+     "type": "text",
+     "text": "W budynkach wielokondygnacyjnych znajduje się dźwig lub inne urządzenie techniczne (z wyjątkiem schodołazów), umożliwiające wjazd pacjentom z niepełnosprawnością ruchową, w tym poruszającym się na wózkach inwalidzkich – wymóg odnosi się do sytuacji, gdy świadczenia są udzielane na kondygnacji innej niż parter."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "Udzielanie świadczeń musi odbywać się z zapewnieniem poszanowania intymności i godności pacjenta. Musi zostać zapewniona ochrona danych osobowych pacjenta, zgodnie z obowiązującymi przepisami."
+    },
+    {
+     "type": "text",
+     "text": "Dopuszcza się organizowanie wspólnych pomieszczeń dla wizyty fizjoterapeutycznej i zabiegów fizjoterapeutycznych, jeżeli specjalne wymogi dla danego świadczenia, określone w poniższym Kompletnym wykazie świadczeń zdrowotnych wraz z wymaganiami, nie stanowią inaczej."
+    },
+    {
+     "type": "text",
+     "text": "Dopuszcza się organizowanie wspólnych pomieszczeń dla świadczeń z wykorzystaniem wody z zakresu 2.2.2. Masaże wodne, 3.2. Elektrolecznictwo wodne oraz 3.5. Hydroterapia."
+    },
+    {
+     "type": "text",
+     "text": "Gabinet, zakład rehabilitacji lub fizjoterapii jest czynny co najmniej 5 dni w tygodniu, nie krócej niż 5 godzin dziennie bez przerwy, w tym co najmniej 2 dni w przedziale czasowym od 13.00 do 18.00."
+    },
+    {
+     "type": "text",
+     "text": "VII. Wycena świadczeń w Programie"
+    },
+    {
+     "type": "text",
+     "text": "Poziom finansowania świadczeń w Programie zostanie określony w zarządzeniu Prezesa Narodowego Funduszu Zdrowia."
+    },
+    {
+     "type": "text",
+     "text": "VIII. Wyłączenie pacjenta z Programu"
+    },
+    {
+     "type": "text",
+     "text": "Pacjent nie zostanie zakwalifikowany do Programu lub wyłączony z udziału w Programie w przypadku:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "niespełniania warunków udziału w Programie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "ostrej fazy choroby psychicznej lub uzależnienia zaobserwowanej przez fizjoterapeutę podczas kwalifikacji lub udzielania świadczeń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "braku medycznych wskazań do otrzymania świadczeń z zakresu fizjoterapii ambulatoryjnej, stwierdzonych na podstawie oceny funkcjonalnej pacjenta podczas wizyty fizjoterapeutycznej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "osiągnięcia celu terapeutycznego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IX. Pozostałe postanowienia"
+      },
+      {
+       "type": "text",
+       "text": "Umowa na udzielanie dodatkowych świadczeń w Programie może zostać zawarta, a świadczenia rozliczone – w sytuacji, w której świadczeniodawca przed podpisaniem umowy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "na realizację Programu spełnia dodatkowe warunki określone dla tych świadczeń albo oświadczy, że będzie w stanie je spełnić od momentu zawarcia umowy."
+    },
+    {
+     "type": "text",
+     "text": "W przypadku stwierdzenia w trakcie realizacji umowy na realizację Programu, iż wykonawca złożył oświadczenie niezgodne z prawdą, zostaje on wyłączony z dalszej realizacji Programu oraz wyłączony z ubiegania się o środki z kolejnych edycji Programu."
+    },
+    {
+     "type": "text",
+     "text": "W sytuacji stwierdzenia nieprawidłowej realizacji Programu przez wykonawcę, dyrektor oddziału wojewódzkiego Narodowego Funduszu Zdrowia może podjąć decyzję o rozwiązaniu umowy z wykonawcą i zdecydować o wyłączeniu tego podmiotu z możliwości uczestnictwa w kolejnych edycjach Programu."
+    },
+    {
+     "type": "text",
+     "text": "Świadczenia dodatkowe mogą być rozliczane każde oddzielnie w sytuacji spełniania dodatkowych wymogów określonych dla tych świadczeń. Każdy świadczeniodawca musi spełniać wszystkie wymogi dla świadczeń obligatoryjnych oraz oferować te świadczenia."
+    },
+    {
+     "type": "text",
+     "text": "Każde świadczenie musi spełniać „wymogi ogólne” określone przed wykazem wszystkich świadczeń, a także przed wykazem świadczeń danego rodzaju – w części X. Kompletny wykaz świadczeń zdrowotnych wraz z wymaganiami."
+    },
+    {
+     "type": "text",
+     "text": "Wymogi dla świadczeń dodatkowych oraz „wymogi dodatkowe”, które muszą spełniać ustalone grupy świadczeń lub pojedyncze świadczenia, wskazane są w części X. Kompletny wykaz świadczeń zdrowotnych wraz z wymaganiami."
+    },
+    {
+     "type": "text",
+     "text": "W sytuacji oferowania świadczeń dodatkowych muszą one spełniać wymogi ogólne dla wszystkich świadczeń, a także wymogi ogólne dla danej grupy świadczeń. Ponadto muszą być spełnione określone warunki dla oferowanych świadczeń dodatkowych, w tym m.in. wymogi sprzętowe określone jako dodatkowe."
+    },
+    {
+     "type": "text",
+     "text": "W przypadku gdy w danej grupie świadczeń (np. masaże) znajdują się tylko świadczenia dodatkowe, to świadczeniodawca nie ma obowiązku spełniania wymogów ogólnych dla tej grupy świadczeń, jeżeli nie zamierza ich oferować."
+    },
+    {
+     "type": "text",
+     "text": "X. Kompletny wykaz świadczeń zdrowotnych wraz z wymaganiami"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Wizyta fizjoterapeutyczna (obligatoryjne świadczenie)",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymogi ogólne"
+      },
+      {
+       "type": "text",
+       "text": "Personel: fizjoterapeuta, posiadający tytuł specjalisty w dziedzinie fizjoterapii lub tytuł specjalisty rehabilitacji ruchowej II stopnia, zwany dalej „specjalistą w dziedzinie"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "fizjoterapii”, lub fizjoterapeuta, posiadający tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuta, posiadający dyplom, świadectwo, lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadający co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty, w wymiarze co najmniej 1/4 etatu przeliczeniowego (równoważnik 1/4 etatu przeliczeniowego)."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zabiegi fizjoterapeutyczne",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymogi ogólne"
+      },
+      {
+       "type": "text",
+       "text": "Personel: świadczenia wykonuje fizjoterapeuta w wymiarze co najmniej 1/2 etatu przeliczeniowego (równoważnik 1/2 etatu przeliczeniowego), chyba że wskazano inaczej."
+      },
+      {
+       "type": "text",
+       "text": "2.1. Kinezyterapia"
+      },
+      {
+       "type": "text",
+       "text": "Wymogi ogólne"
+      },
+      {
+       "type": "text",
+       "text": "Wymagania lokalowe: sala musi posiadać minimum jedno stanowisko pracy indywidualnej, które powinno zapewniać warunki intymności np. przez system przesuwanych zasłon."
+      },
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe (wyposażenie sali kinezyterapii):"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "stół rehabilitacyjny lub do terapii indywidualnej (preferowany stół z regulowaną wysokością i kątem zagłówka), drabinki rehabilitacyjne lub inne, spełniające takie same funkcje;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "maty lub materace do kinezyterapii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "sprzęt do treningu w zmiennym oporze (hantle, ketle, taśmy elastyczne i inne);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "sprzęt do treningu sensorycznego (np.: berety, podkłady sensoryczne, pianki);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "sprzęt do treningu funkcjonalnego (np.: power ball, power stick, rotory do ćwiczeń kończyn górnych i kończyn dolnych);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "Uniwersalny Gabinet Usprawniania Leczniczego (UGUL) lub inny system spełniający jego rolę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "stół lub tablica do ćwiczeń manualnych (ręki);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_2/pkt_8",
+       "text": "drobny sprzęt terapeutyczny np. poduszki, wałki, kliny oraz piłki gimnastyczne lub platformy równoważne (do wykonywania ćwiczeń równoważnych) i inne.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zalecenia"
+        },
+        {
+         "type": "text",
+         "text": "Zaleca się, aby sala do kinezyterapii stanowiła odrębne pomieszczenie."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "Obligatoryjne świadczenia z zakresu Kinezyterapia"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Indywidualna praca z pacjentem (w szczególności: ćwiczenia bierne, czynno-bierne, ćwiczenia według metod neurofizjologicznych, metody reedukacji nerwowo-mięśniowej, ćwiczenia specjalne, mobilizacje i manipulacje) – nie mniej niż 30 minut; możliwość rozliczenia nie więcej niż 2 razy dziennie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Ćwiczenia wspomagane – czas trwania zabiegu: minimum 15 minut;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Ćwiczenia czynne w odciążeniu i czynne w odciążeniu z oporem – czas trwania zabiegu: minimum 15 minut;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Ćwiczenia czynne wolne i czynne z oporem – czas trwania zabiegu: minimum 15 minut;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Ćwiczenia izometryczne – czas trwania zabiegu: minimum 15 minut;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Nauka czynności lokomocji – czas trwania zabiegu: minimum 15 minut;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Wyciągi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dodatkowe świadczenia z zakresu Kinezyterapia"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Pionizacja",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: (sprzęt dodatkowy) stół pionizacyjny lub inny sprzęt lub sprzęty spełniające jego rolę;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Inne formy usprawniania – czas trwania zabiegu – minimum 15 minut;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Ćwiczenia grupowe ogólnousprawniające (nie więcej niż 10 pacjentów na 1 terapeutę).",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.2. Masaż"
+      },
+      {
+       "type": "text",
+       "text": "Wymogi ogólne"
+      },
+      {
+       "type": "text",
+       "text": "Personel:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "fizjoterapeuta lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "osoba, która uzyskała dyplom technika masażysty po ukończeniu technikum lub szkoły policealnej publicznej lub niepublicznej o uprawnieniach szkoły publicznej – zwana dalej „masażystą”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "2.2.1. Masaże ręczne / mechaniczne"
+    },
+    {
+     "type": "text",
+     "text": "Wymogi ogólne"
+    },
+    {
+     "type": "text",
+     "text": "Wymagania lokalowe: zaleca się, aby gabinet masażu stanowił odrębne pomieszczenie lub gwarantował rozwiązania zapewniające zachowanie intymności (np.: przez system przesuwanych zasłon);"
+    },
+    {
+     "type": "text",
+     "text": "Wymagania sprzętowe: stół do masażu (najlepiej regulowany w 3 płaszczyznach)."
+    },
+    {
+     "type": "text",
+     "text": "Dodatkowe świadczenia z zakresu Masaż ręczny / mechaniczny"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Masaż suchy – częściowy – minimum 20 minut na jednego pacjenta, w tym minimum 15 minut czynnego masażu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Masaż limfatyczny ręczny – leczniczy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Masaż limfatyczny mechaniczny – leczniczy;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: (sprzęt dodatkowy) rękawy lub kaftany ciśnieniowe (do masażu limfatycznego);"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Masaż mechaniczny (nie obejmuje urządzeń typu fotele masujące, maty masujące);",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: (sprzęt dodatkowy) stół do masażu hydrojet (masaż wodny suchy), stół do masażu wibracyjnego, masażery mechaniczne."
+      },
+      {
+       "type": "text",
+       "text": "2.2.2. Masaże wodne"
+      },
+      {
+       "type": "text",
+       "text": "Wymagania lokalowe: masaże wodne muszą być udzielane w oddzielnym pomieszczeniu, mając na względzie zasady bezpieczeństwa oraz poszanowanie intymności."
+      },
+      {
+       "type": "text",
+       "text": "Dodatkowe świadczenia z zakresu Masaż wodny"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Masaż podwodny – hydropowietrzny (nie obejmuje urządzeń jacuzzi);",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: wanna do masażu hydropowietrznego;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Masaż podwodny miejscowy;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: wanna do hydromasażu częściowego;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Masaż podwodny całkowity;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: wanna do hydromasażu całkowitego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Zabiegi fizykalne",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania lokalowe: zaleca się, aby zabiegi światłolecznictwa oraz elektrolecznictwa (3.1., 3.4.) były udzielane w osobnych pomieszczeniach (boksach), posiadających ściany o wysokości co najmniej 2,0 m, umożliwiających stosowanie wspólnej wentylacji mechanicznej lub w inny sposób gwarantowały wydzielenie tej przestrzeni, nawet w formie tymczasowej."
+      },
+      {
+       "type": "text",
+       "text": "3.1. Elektrolecznictwo"
+      },
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: zestaw do elektroterapii z osprzętem (w tym do terapii ultradźwiękami), aparaty wykorzystujące prąd stały oraz impulsowy małej i średniej częstotliwości – dopuszcza się stosowanie osobnych urządzeń zapewniających te rodzaje terapii."
+      },
+      {
+       "type": "text",
+       "text": "Obligatoryjne świadczenia z zakresu Elektrolecznictwo"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "Galwanizacja;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "Jonoforeza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "Elektrostymulacja;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "Tonoliza;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "Prądy diadynamiczne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "Prądy interferencyjne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "Prądy TENS;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "Prądy TRAEBERTA;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_3/pkt_9",
+       "text": "Prądy KOTZA;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_3/pkt_10",
+       "text": "Ultradźwięki miejscowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_3/pkt_11",
+       "text": "Ultrafonoforeza.",
+       "children": [
+        {
+         "type": "text",
+         "text": "3.2. Elektrolecznictwo wodne"
+        },
+        {
+         "type": "text",
+         "text": "Wymagania lokalowe: świadczenia z zakresu elektrolecznictwa wodnego muszą być udzielane w oddzielnym pomieszczeniu."
+        },
+        {
+         "type": "text",
+         "text": "Dodatkowe świadczenia z zakresu Elektrolecznictwo wodne"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "Kąpiel czterokomorowa;",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wymagania sprzętowe: zestaw do kąpieli elektryczno-wodnej;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "Kąpiel elektryczna – wodna całkowita;",
+       "children": [
+        {
+         "type": "text",
+         "text": "Wymagania sprzętowe: zestaw do kąpieli elektryczno-wodnej całkowitej."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "3.3. Leczenie polem elektromagnetycznym"
+    },
+    {
+     "type": "text",
+     "text": "Wymagania lokalowe: Leczenie polem elektromagnetycznym powinno być instalowane i wykonywane w oddzielnych pomieszczeniach (boksach), odpowiednio zabezpieczonych przed szkodliwym oddziaływaniem promieniowania elektromagnetycznego na otoczenie;"
+    },
+    {
+     "type": "text",
+     "text": "Dodatkowe świadczenia z zakresu Leczenie polem elektromagnetycznym"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Impulsowe pole elektromagnetyczne wysokiej częstotliwości (świadczenie premiowane);",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: urządzenie wytwarzające impulsowe pole elektromagnetyczne wysokiej częstotliwości;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Diatermia krótkofalowa, mikrofala (świadczenie premiowane);",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: aparatura do diatermii;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Impulsowe pole magnetyczne niskiej częstotliwości (świadczenie premiowane);",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: zestaw do magnetoterapii."
+      },
+      {
+       "type": "text",
+       "text": "3.4. Światłolecznictwo i termoterapia"
+      },
+      {
+       "type": "text",
+       "text": "Dodatkowe informacje: Zabiegi z zakresu światłolecznictwa i termoterapii wymagają posiadania i korzystania z okularów ochronnych."
+      },
+      {
+       "type": "text",
+       "text": "Obligatoryjne świadczenia z zakresu Światłolecznictwo i termoterapia"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Naświetlanie promieniowaniem widzialnym, podczerwonym lub ultrafioletowym – miejscowe;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: lampa do naświetlań promieniowaniem widzialnym, podczerwonym lub ultrafioletowym;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Laseroterapia – skaner;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: zestaw do biostymulacji laserowej – skaner;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Laseroterapia punktowa;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: zestaw do biostymulacji laserowej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "Dodatkowe świadczenia z zakresu Światłolecznictwo i termoterapia"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Okłady parafinowe;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: parafiniarka lub podgrzewacz okładów i parafiny."
+      },
+      {
+       "type": "text",
+       "text": "3.5. Hydroterapia"
+      },
+      {
+       "type": "text",
+       "text": "Wymagania lokalowe: świadczenia z zakresu hydroterapii muszą być udzielane w oddzielnym pomieszczeniu."
+      },
+      {
+       "type": "text",
+       "text": "Dodatkowe świadczenia z zakresu Hydroterapia"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Kąpiel wirowa kończyn;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: wanny do masażu wirowego kończyn górnych i kończyn dolnych;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Inne kąpiele – wirowa w tanku;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: wanna Hubbarda – motylkowa (tank);"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Natrysk biczowy, szkocki, stały płaszczowy, inne natryski;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe: katedry natryskowe – agregaty lub kabiny natryskowe"
+      },
+      {
+       "type": "text",
+       "text": "3.6. Krioterapia"
+      },
+      {
+       "type": "text",
+       "text": "Dodatkowe świadczenia z zakresu Krioterapia"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Zabieg w kriokomorze;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagania lokalowe: kriokomora powinna znajdować się w osobnym pomieszczeniu;"
+      },
+      {
+       "type": "text",
+       "text": "Personel: personel realizujący zabiegi krioterapii ogólnoustrojowej: lekarz oraz fizjoterapeuta, który uzyskał tytuł magistra, o którym mowa w art. 4 ust. 4 pkt 1 i 2 ustawy z dnia 25 września 2015 r. o zawodzie fizjoterapeuty, lub fizjoterapeuta posiadający dyplom, świadectwo, lub inny dokument, o którym mowa w art. 13 ust. 1 pkt 5 lit. b i c tej ustawy, potwierdzający ukończenie studiów drugiego stopnia oraz posiadający co najmniej 3-letnie doświadczenie w zawodzie fizjoterapeuty."
+      },
+      {
+       "type": "text",
+       "text": "Wymagania sprzętowe:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "wieloosobowa komora kriogeniczna niskotemperaturowa, zakres uzyskiwanych temperatur od -120 ○ C do -150 ○ C, z możliwością obserwacji pacjenta w trakcie zabiegu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "gabinet wyposażony w zestaw do udzielania pierwszej pomocy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "sala do kinezyterapii,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_1/lit_d",
+       "text": "cykloergometr – nie mniej niż 2 stanowiska;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Krioterapia – miejscowa (zimne powietrze, pary azotu lub CO₂) (świadczenie",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "premiowane);"
+    },
+    {
+     "type": "text",
+     "text": "Wymagania sprzętowe: zestaw do kriostymulacji parami azotu, zimnym powietrzem lub"
+    },
+    {
+     "type": "text",
+     "text": "CO₂."
+    },
+    {
+     "type": "text",
+     "text": "XI. Wykaz szczegółowych kryteriów wyboru ofert w Programie"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Niniejszy wykaz kryteriów (poza kryteriami kontrolnymi) stanowi kryteria premiujące.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ocena przedmiotowych kryteriów dokonana będzie wyłącznie w sytuacji spełnienia"
+      },
+      {
+       "type": "text",
+       "text": "wymagań ogólnych oraz wymagań dla świadczeń obligatoryjnych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Zakres „Jakość – wyniki kontroli i inne nieprawidłowości w udzielaniu świadczeń",
+     "children": [
+      {
+       "type": "text",
+       "text": "z zakresu rehabilitacji leczniczej” dotyczy jedynie sytuacji uprzedniego wykonywania"
+      },
+      {
+       "type": "text",
+       "text": "świadczeń z zakresu rehabilitacji leczniczej na podstawie umowy zawartej z Narodowym"
+      },
+      {
+       "type": "text",
+       "text": "Funduszem Zdrowia."
+      },
+      {
+       "type": "text",
+       "text": "Przedmiot postępowania: Świadczenia z zakresu fizjoterapia ambulatoryjna realizowane w ramach Programu Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5 6 Lp. Kryterium Kategoria Oceniany warunek Liczba Uwagi punktów"
+      },
+      {
+       "type": "text",
+       "text": "1.1. Magister fizjoterapii z co najmniej 5-letnim doświadczeniem jako 12 fizjoterapeuta – równoważnik co najmniej 1/2 etatu."
+      },
+      {
+       "type": "text",
+       "text": "1.2. Specjalista w dziedzinie fizjoterapii – równoważnik co 8 1. Personel najmniej 1/4 etatu."
+      },
+      {
+       "type": "text",
+       "text": "1.3. Fizjoterapeuta posiadający certyfikat potwierdzający odbycie I Jakość szkolenia (zakończonego egzaminem) w zakresie metod 2 neurofizjologicznych (np. PNF, Bobath) lub terapii manualnej."
+      },
+      {
+       "type": "text",
+       "text": "2.1. Urządzenie wytwarzające 2. Sprzęt impulsowe pole elektromagnetyczne 1 i aparatura wysokiej częstotliwości – w miejscu medyczna lub udzielania świadczeń. pomieszczenia 2.2. Aparatura do diatermii – w miejscu udzielania świadczeń. 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "2.3. Zestaw do magnetoterapii – 1 w miejscu udzielania świadczeń."
+    },
+    {
+     "type": "text",
+     "text": "2.4. Zestaw do kriostymulacji miejscowej (zimne powietrze, pary 1 azotu lub CO₂) – w miejscu udzielania świadczeń."
+    },
+    {
+     "type": "text",
+     "text": "2.5. Przebieralnia dla świadczeniobiorców stanowiąca 1 odrębne pomieszczenie – w miejscu udzielania świadczeń."
+    },
+    {
+     "type": "text",
+     "text": "1.1. Czas pracy zakładu – co najmniej 1. Dostępność – 5 dni w tygodniu, co najmniej II Dostępność harmonogram 8 godzin dziennie, w tym co najmniej 5 czasu pracy 2 razy w tygodniu w godzinach popołudniowych między godziną 11.00 a 18.00."
+    },
+    {
+     "type": "text",
+     "text": "1.1. Cena obliczona zgodnie z wzorem określonym w załączniku nr 17 do rozporządzenia Ministra Zdrowia z dnia 5 sierpnia 2016 r. w sprawie Maksymalnie III Cena 1. Cena szczegółowych kryteriów wyboru 10 ofert w postępowaniu w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej (Dz. U. poz. 1372, z późn. zm.)."
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Jakość – wyniki kontroli i inne nieprawidłowości w udzielaniu świadczeń z zakresu rehabilitacji leczniczej. Maksymalna suma punktów ujemnych: 12 1 2 3 4 Liczba Lp. Oceniany warunek punktów Uwagi ujemnych"
+    },
+    {
+     "type": "text",
+     "text": "1 Udzielenie świadczeń przez osoby o kwalifikacjach niższych niż 1 wykazane w ofercie – stwierdzone tylko na podstawie kontroli."
+    },
+    {
+     "type": "text",
+     "text": "Udzielenie świadczeń w sposób i w warunkach nieodpowiadających 2 wymogom określonym w umowie – stwierdzone tylko na podstawie 1 kontroli."
+    },
+    {
+     "type": "text",
+     "text": "3 Braki w sprzęcie i wyposażeniu wykazanym w umowie – 1,5 stwierdzone tylko na podstawie kontroli."
+    },
+    {
+     "type": "text",
+     "text": "Nieprzekazanie wymaganych informacji o prowadzonych listach oczekujących na udzielenie świadczeń opieki zdrowotnej co 4 najmniej za dwa okresy sprawozdawcze (miesięcznie) w okresie 0,5 12 miesięcy poprzedzającym o 2 miesiące miesiąc obejmujący termin złożenia oferty."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "Nieprzekazanie wymaganych informacji o pierwszym wolnym terminie udzielenia świadczenia opieki zdrowotnej co najmniej za 5 cztery okresy sprawozdawcze (tygodniowe) w okresie 12 miesięcy 0,5 poprzedzającym o 2 miesiące miesiąc obejmujący termin złożenia oferty, lub przekazanie informacji niezgodnych ze stanem faktycznym."
+    },
+    {
+     "type": "text",
+     "text": "Obciążenie świadczeniobiorców kosztami leków lub wyrobów medycznych, lub środków spożywczych specjalnego przeznaczenia 6 żywieniowego w przypadkach, o których mowa w art. 35 ustawy 0,5 z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych."
+    },
+    {
+     "type": "text",
+     "text": "7 Pobieranie nienależnych opłat od świadczeniobiorców za 0,5 świadczenia będące przedmiotem umowy."
+    },
+    {
+     "type": "text",
+     "text": "Niezasadne ordynowanie leków, wyrobów medycznych lub 8 środków spożywczych specjalnego przeznaczenia żywieniowego – 1 stwierdzone tylko na podstawie kontroli."
+    },
+    {
+     "type": "text",
+     "text": "9 Udzielanie świadczeń opieki zdrowotnej w miejscach udzielania 1 świadczeń nieobjętych umową."
+    },
+    {
+     "type": "text",
+     "text": "Przedstawienie danych niezgodnych ze stanem faktycznym, na podstawie których dokonano płatności nienależnych środków 10 finansowych lub nieprawidłowe kwalifikowanie udzielonych 0,5 świadczeń opieki zdrowotnej – stwierdzone tylko na podstawie kontroli."
+    },
+    {
+     "type": "text",
+     "text": "11 Udaremnienie lub utrudnianie kontroli. 2"
+    },
+    {
+     "type": "text",
+     "text": "12 Niewykonanie w wyznaczonym terminie zaleceń pokontrolnych. 1"
+    },
+    {
+     "type": "text",
+     "text": "13 Co najmniej 10% świadczeń po raz pierwszy przekazanych do 0,5 rozliczenia po upływie ostatniego okresu rozliczeniowego."
+    },
+    {
+     "type": "text",
+     "text": "Brak aktualnego przeglądu serwisowego sprzętu i aparatury 14 medycznej do wykonania świadczenia – stwierdzone tylko na 0,5 podstawie kontroli."
+    },
+    {
+     "type": "text",
+     "text": "II. Jakość – pozostałe warunki. Maksymalna suma punktów: 3"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3 4"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Oceniany warunek Liczba Uwagi punktów"
+    },
+    {
+     "type": "text",
+     "text": "Świadczeniodawca prowadzi historię choroby lub historię zdrowia i choroby w postaci elektronicznej, w sposób, o którym mowa 1 w przepisach wydanych na podstawie art. 30 ustawy z dnia 3 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2020 r. poz. 849), oraz wystawia skierowania co najmniej przez nanoszenie danych za pomocą wydruku."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik do Programu",
+   "body": [
+    {
+     "type": "text",
+     "text": "Świadczenia medyczne Narodowego Funduszu Zdrowia dla osób niepełnosprawnych na lata 2020–2021"
+    },
+    {
+     "type": "text",
+     "text": "III. Dostępność. Maksymalna suma punktów: 3 1 2 3 4 Lp. Oceniany warunek Odrębna aplikacja służąca wykonaniu obowiązku zapewnienia 1 bieżącej rejestracji świadczeniobiorców drogą elektroniczną, ze 3 zwrotnym automatycznym wskazaniem terminu."
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "Na podstawie Badania Aktywności Ekonomicznej Ludności Głównego Urzędu Statystycznego."
+ }
+}

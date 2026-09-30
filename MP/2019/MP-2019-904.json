@@ -1,0 +1,530 @@
+{
+ "eli": "MP/2019/904",
+ "title": "Zarządzenie nr 137 Prezesa Rady Ministrów z dnia 20 września 2019 r. w sprawie Międzyresortowego Zespołu do spraw Opracowania Strategii Bezpieczeństwa Narodowego Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/904/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE NR 137"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 września 2019 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie Międzyresortowego Zespołu do spraw Opracowania Strategii Bezpieczeństwa Narodowego Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się Międzyresortowy Zespół do spraw Opracowania Strategii Bezpieczeństwa Narodowego Rzeczypospolitej Polskiej, zwany dalej „Zespołem”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół jest organem pomocniczym Rady Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zadań Zespołu należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "opracowanie harmonogramu prac Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "opracowanie projektu Strategii Bezpieczeństwa Narodowego Rzeczypospolitej Polskiej i przedłożenie go Radzie Ministrów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W skład Zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przewodniczący – wyznaczony przez Ministra Obrony Narodowej – sekretarz stanu albo podsekretarz stanu w Ministerstwie Obrony Narodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wiceprzewodniczący:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "sekretarz stanu albo podsekretarz stanu wyznaczony przez ministra właściwego do spraw zagranicznych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "sekretarz stanu albo podsekretarz stanu wyznaczony przez ministra właściwego do spraw wewnętrznych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "pozostali członkowie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "po jednym w randze dyrektorów komórek organizacyjnych, wyznaczeni przez:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_1",
+           "text": "ministra właściwego do spraw wewnętrznych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_2",
+           "text": "ministra właściwego do spraw oświaty i wychowania,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_3",
+           "text": "ministra właściwego do spraw budżetu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "4",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_4",
+           "text": "ministra właściwego do spraw gospodarki,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "5",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_5",
+           "text": "ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "6",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_6",
+           "text": "ministra właściwego do spraw energii,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "7",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_7",
+           "text": "ministra właściwego do spraw gospodarki morskiej,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "8",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_8",
+           "text": "ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "9",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_9",
+           "text": "ministra właściwego do spraw informatyzacji,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "10",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_10",
+           "text": "ministra właściwego do spraw szkolnictwa wyższego i nauki,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "11",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_11",
+           "text": "Ministra Obrony Narodowej,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "12",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_12",
+           "text": "ministra właściwego do spraw pracy,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "13",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_13",
+           "text": "ministra właściwego do spraw rolnictwa,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "14",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_14",
+           "text": "ministra właściwego do spraw kultury fizycznej,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "15",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_15",
+           "text": "ministra właściwego do spraw zagranicznych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "16",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_16",
+           "text": "Ministra Sprawiedliwości,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "17",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_17",
+           "text": "ministra właściwego do spraw środowiska,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "18",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_18",
+           "text": "ministra właściwego do spraw łączności,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "19",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_19",
+           "text": "ministra właściwego do spraw zdrowia,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "20",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_20",
+           "text": "Szefa Agencji Bezpieczeństwa Wewnętrznego,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "21",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_21",
+           "text": "Szefa Agencji Wywiadu,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "22",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_22",
+           "text": "Ministra – Członka Rady Ministrów – Koordynatora Służb Specjalnych,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "23",
+           "path": "par_3/ust_1/pkt_3/lit_a/tir_23",
+           "text": "Szefa Kancelarii Prezesa Rady Ministrów,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "Dyrektor Rządowego Centrum Bezpieczeństwa;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "sekretarz – wyznaczony przez przewodniczącego pracownik Ministerstwa Obrony Narodowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Członkowie Zespołu, o których mowa w ust. 1 pkt 3, mogą być zastępowani w pracach Zespołu przez upoważnionych przedstawicieli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przewodniczący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "zwołuje posiedzenia Zespołu z własnej inicjatywy lub na wniosek członka Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "przewodniczy posiedzeniom;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "ustala terminy i program kolejnych posiedzeń Zespołu, z uwzględnieniem wniosków zgłaszanych przez członków Zespołu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "wskazuje wiceprzewodniczącego, który w razie nieobecności przewodniczącego wykonuje jego zadania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W celu realizacji zadań Zespołu przewodniczący zaprasza przedstawicieli Prezydenta Rzeczypospolitej Polskiej oraz może zapraszać, z własnej inicjatywy lub na wniosek członka Zespołu, inne osoby, w szczególności przedstawicieli Sejmu i Senatu, jak również innych instytucji państwowych, środowisk naukowych i eksperckich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przewodniczący może tworzyć grupy robocze złożone z członków Zespołu oraz osób zaproszonych do udziału w pracach Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Członkowie Zespołu mogą wyznaczać lub wnioskować o wyznaczenie pracowników swoich urzędów do udziału w grupach roboczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Przewodniczący może zlecać wykonanie opracowań, analiz, raportów lub ekspertyz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Przewodniczący może powierzać poszczególnym członkom Zespołu wykonanie określonych prac, niezbędnych do realizacji jego zadań.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zespół podejmuje decyzje w formie uchwał na posiedzeniach. Uchwały podejmowane są zwykłą większością głosów w obecności co najmniej połowy członków Zespołu lub ich upoważnionych przedstawicieli. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Uzgodnione projekty uchwał mogą być też poddane pod głosowanie w trybie obiegowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Osobom zaproszonym do udziału w pracach Zespołu oraz pracownikom, o których mowa w § 3 ust. 1 pkt 4 oraz w § 5 ust. 3, nie przysługuje prawo do udziału w głosowaniu nad uchwałami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Protokół z posiedzenia Zespołu sporządza sekretarz. Protokół podpisuje osoba przewodnicząca posiedzeniu oraz sekretarz.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Organy administracji rządowej oraz podległe im jednostki organizacyjne, na wniosek przewodniczącego, udzielają Zespołowi, w ramach swoich kompetencji, pomocy przy wykonywaniu jego zadań, w szczególności przedstawiają niezbędne informacje i dokumenty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Obsługę techniczno-organizacyjną oraz biurową prac Zespołu zapewnia Ministerstwo Obrony Narodowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Wydatki na obsługę, o której mowa w ust. 1, są pokrywane z budżetu państwa z części, której dysponentem jest Minister Obrony Narodowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Udział w pracach Zespołu jest nieodpłatny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Przewodniczący przedstawi Radzie Ministrów projekt Strategii Bezpieczeństwa Narodowego Rzeczypospolitej Polskiej w terminie do dnia 31 grudnia 2019 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "W terminie 30 dni po zatwierdzeniu przez Prezydenta Rzeczypospolitej Polskiej Strategii Bezpieczeństwa Narodowego Rzeczypospolitej Polskiej przewodniczący przedstawi Radzie Ministrów końcowe sprawozdanie z realizacji zadań Zespołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Z dniem akceptacji przez Radę Ministrów sprawozdania, o którym mowa w ust. 1:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "znosi się Zespół;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "traci moc zarządzenie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Traci moc zarządzenie nr 63 Prezesa Rady Ministrów z dnia 4 września 2013 r. w sprawie Międzyresortowego Zespołu do spraw Opracowania Strategii Bezpieczeństwa Narodowego Rzeczypospolitej Polskiej (M.P. poz. 719).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

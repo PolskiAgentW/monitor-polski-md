@@ -1,0 +1,171 @@
+{
+ "eli": "MP/2015/827",
+ "title": "Uchwała Państwowej Komisji Wyborczej z dnia 3 września 2015 r. zmieniająca uchwałę w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/827/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "UCHWAŁA"
+  },
+  {
+   "type": "text",
+   "text": "PAŃSTWOWEJ KOMISJI WYBORCZEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 września 2015 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniająca uchwałę w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 182 § 11 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.[^1]) Państwowa Komisja Wyborcza uchwala, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W uchwale Państwowej Komisji Wyborczej z dnia 11 kwietnia 2011 r. w sprawie powoływania obwodowych komisji wyborczych w obwodach głosowania utworzonych w kraju, w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej oraz do Parlamentu Europejskiego w Rzeczypospolitej Polskiej (M.P. Nr 30, poz. 345 oraz z 2015 r. poz. 223) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2 pkt 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) obwodzie odrębnym – należy przez to rozumieć obwód głosowania utworzony w zakładzie opieki zdrowotnej, domu pomocy społecznej, zakładzie karnym, areszcie śledczym i w oddziale zewnętrznym takiego zakładu i aresztu oraz domu studenckim lub zespołach domów studenckich;”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 6 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. W wykazie, o którym mowa w ust. 1, ujmuje się również osoby wskazane do składów komisji, zgodnie z art. 182 § 2a i § 3 pkt 2 Kodeksu wyborczego, przez wójta.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 8 ust. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4. Losowanie przeprowadza się w ten sposób, że nazwiska kandydatów uczestniczących w losowaniu oznacza się numerami, informując o tym obecnych przy losowaniu. Do jednakowych, nieprzeźroczystych kopert wkłada się kartki z wpisanymi numerami odpowiadającymi numerom, którymi oznaczono nazwiska kandydatów. Po wymieszaniu kopert losuje się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) 10 kopert – w przypadku komisji w obwodach od 2001 do 3000 mieszkańców;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) 8 kopert – w przypadku komisji w obwodach do 2000 mieszkańców;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) 6 kopert – w przypadku komisji w obwodach odrębnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wylosowane numery są odczytywane i okazywane obecnym przy losowaniu. Odczytywane są również imiona i nazwiska kandydatów oznaczonych tymi numerami. Czynności losowania mogą prowadzić pod nadzorem wójta inne osoby przez niego upoważnione.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w § 9 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. W przypadku, o którym mowa w ust. 1, po uwzględnieniu osoby wskazanej przez wójta, komisje powołuje się łącznie w składzie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) 9 osób – w przypadku komisji w obwodach od 2001 do 3000 mieszkańców;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) 7 osób – w przypadku komisji w obwodach do 2000 mieszkańców;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) 5 osób – w przypadku komisji w obwodach odrębnych.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w § 11 ust. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Uzupełnienia składu komisji dokonuje się w przypadku wygaśnięcia członkostwa powodującego zmniejszenie się jej składu poniżej minimalnego dopuszczalnego składu komisji. Wójt dokonuje uzupełnienia składu komisji do:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) 9 osób w przypadku komisji w obwodach od 2001 do 3000 mieszkańców,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) 7 osób w przypadku komisji w obwodach do 2000 mieszkańców,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) 5 osób w przypadku komisji w obwodach odrębnych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "– w sposób określony w ust. 3 i 4.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: W. Hermeliński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 26, poz. 134, Nr 94, poz. 550, Nr 102, poz. 588, Nr 134, poz. 777, Nr 147, poz. 881, Nr 149, poz. 889, Nr 171, poz. 1016 i Nr 217, poz. 1281, z 2012 r. poz. 849, 951 i 1529, z 2014 r. poz. 179, 180 i 1072 oraz z 2015 r. poz. 1043, 1044 i 1045."
+ }
+}

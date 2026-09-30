@@ -1,0 +1,515 @@
+{
+ "eli": "MP/2020/999",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 19 października 2020 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie powołania Zespołu do Spraw Międzynarodowego Prawa Humanitarnego",
+ "converter": "eli2md 0.6.7",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/999/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 października 2020 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie powołania Zespołu do Spraw Międzynarodowego Prawa Humanitarnego"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst zarządzenia nr 51 Prezesa Rady Ministrów z dnia 20 maja 2004 r. w sprawie powołania Zespołu do Spraw Międzynarodowego Prawa Humanitarnego (M.P. poz. 402), z uwzględnieniem zmian wprowadzonych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "zarządzeniem nr 90 Prezesa Rady Ministrów z dnia 16 listopada 2009 r. zmieniającym zarządzenie w sprawie powołania Zespołu do Spraw Międzynarodowego Prawa Humanitarnego (M.P. poz. 918);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "zarządzeniem nr 147 Prezesa Rady Ministrów z dnia 19 września 2019 r. zmieniającym niektóre zarządzenia Prezesa Rady Ministrów w sprawie organów pomocniczych Rady Ministrów i Prezesa Rady Ministrów w zakresie obowiązków sprawozdawczych tych organów (M.P. poz. 906).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia tekst jednolity zarządzenia nie obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "§ 2 zarządzenia nr 90 Prezesa Rady Ministrów z dnia 16 listopada 2009 r. zmieniającego zarządzenie w sprawie powołania Zespołu do Spraw Międzynarodowego Prawa Humanitarnego (M.P. poz. 918), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 2. Zarządzenie wchodzi w życie z dniem ogłoszenia.”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "§ 10 zarządzenia nr 147 Prezesa Rady Ministrów z dnia 19 września 2019 r. zmieniającego niektóre zarządzenia Prezesa Rady Ministrów w sprawie organów pomocniczych Rady Ministrów i Prezesa Rady Ministrów w zakresie obowiązków sprawozdawczych tych organów (M.P. poz. 906), który stanowi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 10. Zarządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. Morawiecki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 19 października 2020 r. (poz. 999)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 51"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 20 maja 2004 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie powołania Zespołu do Spraw Międzynarodowego Prawa Humanitarnego"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 12 ust. 1 pkt 3 i ust. 2 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2019 r. poz. 1171 oraz z 2020 r. poz. 568 i 695) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_1/ust_1",
+       "text": "Powołuje się Zespół pod nazwą „Komisja do Spraw Międzynarodowego Prawa Humanitarnego”, zwany dalej „Komisją”.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_1/ust_2",
+       "text": "Komisja działa jako organ opiniodawczo-doradczy Prezesa Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Do zadań Komisji należy upowszechnianie, w celu wprowadzenia do polskiego systemu, norm międzynarodowego prawa humanitarnego, w szczególności przez:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/pkt_1",
+       "text": "dokonywanie przeglądu i analizy umów międzynarodowych dotyczących międzynarodowego prawa humanitarnego oraz formułowanie opinii w tym zakresie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/pkt_2",
+       "text": "przedstawianie Prezesowi Rady Ministrów okresowych opinii na temat działań legislacyjnych, organizacyjnych i edukacyjnych, jakie należy podjąć w celu zapewnienia wykonania zobowiązań Rzeczypospolitej Polskiej w dziedzinie międzynarodowego prawa humanitarnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/pkt_3",
+       "text": "formułowanie propozycji związanych z przygotowaniem aktów prawnych mających na celu wdrożenie do polskiego ustawodawstwa norm międzynarodowego prawa humanitarnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/pkt_4",
+       "text": "utrzymywanie kontaktów i wymianę informacji na bieżąco z innymi Komitetami i Komisjami zajmującymi się problematyką międzynarodowego prawa humanitarnego, w szczególności z Komisją do Spraw Upowszechniania Międzynarodowego Prawa Humanitarnego działającą przy Zarządzie Głównym Polskiego Czerwonego Krzyża;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/pkt_5",
+       "text": "analizowanie informacji o przygotowywanych aktach prawnych, programach rządowych i innych dokumentach dotyczących problematyki międzynarodowego prawa humanitarnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/pkt_6",
+       "text": "opracowywanie projektów programów szkoleniowych z zakresu międzynarodowego prawa humanitarnego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/pkt_7",
+       "text": "opiniowanie, na wniosek właściwego ministra, stanowiska Polski na konferencje międzynarodowe oraz na temat realizacji zobowiązań podjętych na tych konferencjach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/pkt_8",
+       "text": "utrzymywanie kontaktów z instytucjami zajmującymi się problematyką międzynarodowego prawa humanitarnego za granicą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_3/ust_1",
+       "text": "W skład Komisji wchodzą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_3/ust_1/pkt_1",
+         "text": "przewodniczący – podsekretarz stanu w Ministerstwie Spraw Zagranicznych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_3/ust_1/pkt_2",
+         "text": "wiceprzewodniczący – przedstawiciel Szefa Kancelarii Prezesa Rady Ministrów;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_3/ust_1/pkt_3",
+         "text": "[^1] członkowie – przedstawiciele ministrów właściwych do spraw administracji publicznej, finansów publicznych, kultury i ochrony dziedzictwa narodowego, nauki[^2], oświaty i wychowania, spraw wewnętrznych, spraw zagranicznych, szkolnictwa wyższego[^2], zdrowia oraz Ministra Obrony Narodowej i Ministra Sprawiedliwości – nie więcej niż trzech przedstawicieli każdego ministra;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_3/ust_1/pkt_4",
+         "text": "sekretarz – osoba wyznaczona przez przewodniczącego Komisji.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_3/ust_2",
+       "text": "W pracach Komisji mogą uczestniczyć inne osoby zaproszone przez przewodniczącego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_3/ust_3",
+       "text": "Komisja może korzystać z pomocy ekspertów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_4/ust_1",
+       "text": "Komisja obraduje na posiedzeniach plenarnych oraz w zespołach problemowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_4/ust_2",
+       "text": "Posiedzenia plenarne zwołuje przewodniczący z własnej inicjatywy lub na wniosek co najmniej dwóch członków Komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_4/ust_3",
+       "text": "Zespoły problemowe powołuje przewodniczący w celu opracowania określonego zagadnienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Do zadań przewodniczącego należy:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_1/pkt_1",
+         "text": "przewodniczenie posiedzeniom Komisji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_1/pkt_2",
+         "text": "ustalenie harmonogramu prac Komisji, w szczególności ustalanie terminów i programów kolejnych posiedzeń Komisji przy uwzględnieniu wniosków zgłaszanych przez członków Komisji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_1/pkt_3",
+         "text": "ustalanie składu i przedmiotu działania zespołów problemowych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_5/ust_1/pkt_4",
+         "text": "powoływanie przewodniczących i wiceprzewodniczących zespołów problemowych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_5/ust_1/pkt_5",
+         "text": "zapraszanie do udziału w pracach Komisji ekspertów oraz innych osób niebędących jej członkami;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_5/ust_1/pkt_6",
+         "text": "zlecanie wykonania opinii, ekspertyz i tłumaczeń na potrzeby związane z realizacją zadań Komisji, o których mowa w § 2.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "Przewodniczący może powierzyć wykonywanie zadań wymienionych w ust. 1 wiceprzewodniczącemu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_6/ust_1",
+       "text": "Do zadań przewodniczących zespołów problemowych należy:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_6/ust_1/pkt_1",
+         "text": "przewodniczenie posiedzeniom zespołów problemowych;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_6/ust_1/pkt_2",
+         "text": "ustalanie terminów i zakresu tematycznego kolejnych posiedzeń zespołów problemowych.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_6/ust_2",
+       "text": "Przewodniczący zespołu problemowego może powierzać wykonywanie zadań wynikających z ust. 1 wiceprzewodniczącemu zespołu problemowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Posiedzenia Komisji odbywają się w zależności od potrzeb, nie rzadziej jednak niż raz na pół roku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "Posiedzenia zespołów problemowych odbywają się w zależności od potrzeb, nie rzadziej jednak niż raz między posiedzeniami Komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_7/ust_3",
+       "text": "Z posiedzeń Komisji i zespołów problemowych sporządza się protokoły podpisywane przez prowadzącego posiedzenie i sekretarza.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_7/ust_4",
+       "text": "[^3] Przewodniczący przedstawia Prezesowi Rady Ministrów półroczne sprawozdanie z realizacji zadań Komisji, w terminie do dnia 31 lipca za pierwsze półrocze oraz do dnia 31 stycznia roku następnego za drugie półrocze.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "par_7/ust_5",
+       "text": "[^3] Sprawozdanie, o którym mowa w ust. 4, zawiera informacje o:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_7/ust_5/pkt_1",
+         "text": "liczbie posiedzeń, a w przypadku braku posiedzeń o przyczynach takiego stanu;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_7/ust_5/pkt_2",
+         "text": "zadaniach zrealizowanych przez Komisję w okresie sprawozdawczym;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_7/ust_5/pkt_3",
+         "text": "problemach lub zagrożeniach, które wystąpiły podczas realizacji zadań Komisji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_7/ust_5/pkt_4",
+         "text": "zadaniach przewidzianych na kolejny okres sprawozdawczy ze wskazaniem wstępnego harmonogramu ich realizacji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_7/ust_5/pkt_5",
+         "text": "dodatkowych wnioskach, rekomendacjach, spostrzeżeniach i potencjalnych zagrożeniach istotnych z punktu widzenia obszaru działalności Komisji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_7/ust_5/pkt_6",
+         "text": "zasadności dalszego funkcjonowania Komisji.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "Obsługę administracyjno-biurową Komisji zapewnia Ministerstwo Spraw Zagranicznych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "[^4] Spotkania Komisji odbywają się w siedzibie Ministerstwa Spraw Zagranicznych lub w innym miejscu wyznaczonym przez przewodniczącego Komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "Szczegółowe zasady i tryb pracy Komisji określa regulamin pracy Komisji, uchwalony przez Komisję na wniosek przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia[^5].",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {
+  "1": "W brzmieniu ustalonym przez § 1 pkt 1 zarządzenia nr 90 Prezesa Rady Ministrów z dnia 16 listopada 2009 r. zmieniającego zarządzenie w sprawie powołania Zespołu do Spraw Międzynarodowego Prawa Humanitarnego (M.P. poz. 918), które weszło w życie z dniem 18 listopada 2009 r.",
+  "2": "Obecnie szkolnictwa wyższego i nauki, na podstawie art. 5 pkt 21 ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2020 r. poz. 1220).",
+  "3": "Dodany przez § 1 zarządzenia nr 147 Prezesa Rady Ministrów z dnia 19 września 2019 r. zmieniającego niektóre zarządzenia Prezesa Rady Ministrów w sprawie organów pomocniczych Rady Ministrów i Prezesa Rady Ministrów w zakresie obowiązków sprawozdawczych tych organów (M.P. poz. 906), które weszło w życie z dniem 9 października 2019 r.",
+  "4": "W brzmieniu ustalonym przez § 1 pkt 2 zarządzenia, o którym mowa w odnośniku 1.",
+  "5": "Zarządzenie zostało ogłoszone w dniu 27 maja 2004 r."
+ }
+}
