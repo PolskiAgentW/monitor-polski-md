@@ -24,7 +24,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 05:00 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 05:12 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -35,7 +35,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 29, razem 525 z 10601 s
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 36.
 
 Rodzaje aktów: Postanowienie 851, Obwieszczenie 524, Uchwała 462, Komunikat 241, Zarządzenie 141, Ogłoszenie 22, Umowa międzynarodowa 14, Oświadczenie rządowe 14, Apel 2, Protokół 1.
-Wersje konwertera: eli2md 0.6.4 (2272).
+Wersje konwertera: eli2md 0.6.5 (2272).
 <!-- stats:end -->
 
 ## Zawartość
@@ -95,6 +95,9 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
   [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
   Metadane z API bywają błędne: MP/2025/635 ma `promulgation_date` 2025-07-08, PDF — 11 lipca 2025 r;
   MP/2026/615 ma `announcement_date` 2206-06-11, w tytule „z dnia 11 czerwca 2026 r.” (stan na 2026-09-30).
+- **Zmiana w eli2md 0.6.5** (akty od nowa 2026-09-30 przed południem; tekst i JSON zmieniły się w 4 plikach):
+  przypisy spod kreski narysowanej linią albo położonej wysoko na stronie są definicjami `[^n]:`, a nie treścią
+  (MP/2025/605: 8 przypisów do tabeli współczynników waloryzacji). Selfcheck bez zmian.
 - **Zmiana w eli2md 0.6.4** (akty od nowa 2026-09-30 rano; tekst zmienił się w 11 plikach, drzewo JSON w 12):
   s. 1 umów międzynarodowych, na której preambuła i pierwsze artykuły są obrazem, czyta OCR, jeśli obraz wygląda
   na tekst ciągły (MP/2026/869: preambuła, art. 1 pkt 1–2). Tekst jest oznaczony notką i cytatami `> …`, jak inny
