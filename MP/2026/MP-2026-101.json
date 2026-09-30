@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/101",
  "title": "Uchwała nr 44 Rady Ministrów z dnia 16 stycznia 2026 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"OnkoPlus - rozwój Uniwersyteckiego Centrum Onkologii wraz z medycyną nuklearną\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/101/text.pdf",
  "body": [
   {
@@ -1154,7 +1154,14 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_2/lit_b",
-       "text": "wdrożenie nowoczesnych procedur diagnostycznych z zakresu medycyny nuklearnej, c) zwiększenie zakresu stosowania terapii komórkowych w hematologii i onkologii,",
+       "text": "wdrożenie nowoczesnych procedur diagnostycznych z zakresu medycyny nuklearnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "zwiększenie zakresu stosowania terapii komórkowych w hematologii i onkologii,",
        "children": []
       },
       {

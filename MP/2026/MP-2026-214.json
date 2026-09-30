@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/214",
  "title": "Uchwała nr 63 Rady Ministrów z dnia 29 stycznia 2026 r. zmieniająca uchwałę w sprawie \"Krajowego programu ochrony zabytków i opieki nad zabytkami na lata 2023-2026\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/214/text.pdf",
  "body": [
   {
@@ -1554,7 +1554,120 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "Auschwitz Birkenau, niemiecki nazistowski obóz koncentracyjny i zagłady /1940–1945/ 2) Drewniane cerkwie w polskim regionie Karpat a) Brunary Wyżne b) Chotyniec c) Kwiatoń d) Owczary e) Powroźnik f) Radruż g) Smolnik h) Turzańsk 3) Drewniane kościoły południowej Małopolski a) Binarowa b) Blizne c) Dębno Podhalańskie d) Haczów e) Lipnica Murowana f) Sękowa 4) Hala Stulecia we Wrocławiu 5) Historyczne centrum Krakowa 6) Historyczne centrum Warszawy 7) Kalwaria Zebrzydowska: manierystyczny zespół architektoniczno-krajobrazowy oraz park pielgrzymkowy",
+       "text": "Auschwitz Birkenau, niemiecki nazistowski obóz koncentracyjny i zagłady /1940–1945/",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "Drewniane cerkwie w polskim regionie Karpat a) Brunary Wyżne",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Chotyniec",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_2/lit_c",
+         "text": "Kwiatoń",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_2/lit_d",
+         "text": "Owczary",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_2/lit_e",
+         "text": "Powroźnik",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_10/pkt_2/lit_f",
+         "text": "Radruż",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_10/pkt_2/lit_g",
+         "text": "Smolnik",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_10/pkt_2/lit_h",
+         "text": "Turzańsk 3) Drewniane kościoły południowej Małopolski a) Binarowa",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_2/lit_b",
+         "text": "Blizne",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_2/lit_c",
+         "text": "Dębno Podhalańskie",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_2/lit_d",
+         "text": "Haczów",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_10/pkt_2/lit_e",
+         "text": "Lipnica Murowana",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_10/pkt_2/lit_f",
+         "text": "Sękowa 4) Hala Stulecia we Wrocławiu",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_10/pkt_5",
+       "text": "Historyczne centrum Krakowa",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_10/pkt_6",
+       "text": "Historyczne centrum Warszawy",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_10/pkt_7",
+       "text": "Kalwaria Zebrzydowska: manierystyczny zespół architektoniczno-krajobrazowy oraz park pielgrzymkowy",
        "children": [
         {
          "type": "text",
@@ -1566,7 +1679,64 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_10/pkt_8",
-       "text": "Kopalnia rud ołowiu, srebra i cynku wraz z jej systemem gospodarowania wodami podziemnymi w Tarnowskich Górach 9) Kościoły Pokoju w Jaworze i Świdnicy a) Jawor b) Świdnica 10) Królewskie kopalnie soli w Wieliczce i Bochni a) Wieliczka b) Bochnia c) Zamek Żupny w Wieliczce 11) Krzemionkowski region pradziejowego górnictwa krzemienia pasiastego 12) Park Mużakowski 13) Stare miasto w Zamościu 14) Średniowieczne miasto w Toruniu 15) Zamek krzyżacki w Malborku",
+       "text": "Kopalnia rud ołowiu, srebra i cynku wraz z jej systemem gospodarowania wodami podziemnymi w Tarnowskich Górach",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_10/pkt_9",
+       "text": "Kościoły Pokoju w Jaworze i Świdnicy a) Jawor",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_9/lit_b",
+         "text": "Świdnica 10) Królewskie kopalnie soli w Wieliczce i Bochni a) Wieliczka",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_9/lit_b",
+         "text": "Bochnia",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_9/lit_c",
+         "text": "Zamek Żupny w Wieliczce 11) Krzemionkowski region pradziejowego górnictwa krzemienia pasiastego",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_10/pkt_12",
+       "text": "Park Mużakowski",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_10/pkt_13",
+       "text": "Stare miasto w Zamościu",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_10/pkt_14",
+       "text": "Średniowieczne miasto w Toruniu",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_10/pkt_15",
+       "text": "Zamek krzyżacki w Malborku",
        "children": [
         {
          "type": "text",
@@ -2219,7 +2389,7 @@
        "type": "pkt",
        "num": "88",
        "path": "ust_10/pkt_88",
-       "text": "Rydzyna– założenie rezydencjalno-urbanistyczne",
+       "text": "Rydzyna – założenie rezydencjalno-urbanistyczne",
        "children": []
       },
       {
@@ -2254,7 +2424,7 @@
        "type": "pkt",
        "num": "93",
        "path": "ust_10/pkt_93",
-       "text": "Stargard– zespół kościoła pod wezwaniem Najświętszej Marii Panny Królowej Świata oraz średniowieczne mury obronne miasta",
+       "text": "Stargard – zespół kościoła pod wezwaniem Najświętszej Marii Panny Królowej Świata oraz średniowieczne mury obronne miasta",
        "children": []
       },
       {
@@ -2282,7 +2452,7 @@
        "type": "pkt",
        "num": "97",
        "path": "ust_10/pkt_97",
-       "text": "Strzelno– zespół dawnego klasztoru Norbertanek",
+       "text": "Strzelno – zespół dawnego klasztoru Norbertanek",
        "children": []
       },
       {
@@ -2310,7 +2480,7 @@
        "type": "pkt",
        "num": "101",
        "path": "ust_10/pkt_101",
-       "text": "Szalowa– kościół parafialny pod wezwaniem św. Michała Archanioła",
+       "text": "Szalowa – kościół parafialny pod wezwaniem św. Michała Archanioła",
        "children": []
       },
       {

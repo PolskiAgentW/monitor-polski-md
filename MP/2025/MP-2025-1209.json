@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/1209",
  "title": "Obwieszczenie Ministra Finansów i Gospodarki z dnia 17 listopada 2025 r. w sprawie stawek karty podatkowej i kwoty, do której można wykonywać świadczenia przy prowadzeniu niektórych usług, z wyjątkiem świadczeń dla ludności, oraz kwartalnych stawek ryczałtu od przychodów proboszczów i wikariuszy, obowiązujących w 2026 r.",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1209/text.pdf",
  "body": [
   {
@@ -373,7 +373,14 @@
          "type": "lit",
          "num": "h",
          "path": "ust_5/pkt_7/lit_h",
-         "text": "z przetwarzaniem pozostałych odpadów niebezpiecznych (PKWiU 38.22.19.0), i) z unieszkodliwianiem odpadów promieniotwórczych i pozostałych odpadów niebezpiecznych (PKWiU ex 38.22.2), z wyłączeniem usług zagospodarowania odpadów promieniotwórczych (ponownego przetwarzania paliw i odpadów) (PKWiU ex 38.22.21.0),",
+         "text": "z przetwarzaniem pozostałych odpadów niebezpiecznych (PKWiU 38.22.19.0),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_5/pkt_7/lit_i",
+         "text": "z unieszkodliwianiem odpadów promieniotwórczych i pozostałych odpadów niebezpiecznych (PKWiU ex 38.22.2), z wyłączeniem usług zagospodarowania odpadów promieniotwórczych (ponownego przetwarzania paliw i odpadów) (PKWiU ex 38.22.21.0),",
          "children": []
         }
        ]
@@ -651,7 +658,21 @@
          "type": "lit",
          "num": "e",
          "path": "ust_5/pkt_29/lit_e",
-         "text": "przez pilotów wycieczek i przewodników turystycznych (PKWiU 79.90.20.0), f) w zakresie rezerwacji nieruchomości będących we współwłasności (PKWiU 79.90.31.0), g) w zakresie rezerwacji centrów konferencyjnych, hal wystawienniczych (PKWiU 79.90.32.0),",
+         "text": "przez pilotów wycieczek i przewodników turystycznych (PKWiU 79.90.20.0),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_5/pkt_29/lit_f",
+         "text": "w zakresie rezerwacji nieruchomości będących we współwłasności (PKWiU 79.90.31.0),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_5/pkt_29/lit_g",
+         "text": "w zakresie rezerwacji centrów konferencyjnych, hal wystawienniczych (PKWiU 79.90.32.0),",
          "children": []
         },
         {
@@ -745,19 +766,26 @@
        "type": "pkt",
        "num": "37",
        "path": "ust_5/pkt_37",
-       "text": "naprawy i konserwacji komputerów i urządzeń peryferyjnych (PKWiU 95.11.10.0), 38) objętych grupowaniem:",
+       "text": "naprawy i konserwacji komputerów i urządzeń peryferyjnych (PKWiU 95.11.10.0),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "38",
+       "path": "ust_5/pkt_38",
+       "text": "objętych grupowaniem:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_5/pkt_37/lit_a",
+         "path": "ust_5/pkt_38/lit_a",
          "text": "„Pozostałe usługi świadczone dla ludności” (PKWiU dział 96),",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_5/pkt_37/lit_b",
+         "path": "ust_5/pkt_38/lit_b",
          "text": "„Usługi świadczone przez organizacje międzynarodowe i eksterytorialne” (PKWiU 99.00.10.0).",
          "children": []
         }
@@ -1066,14 +1094,63 @@
      "type": "lit",
      "num": "a",
      "path": "lit_a",
-     "text": "zjeżdżalnie „Gigant” 1* 123,30 zł b) zjeżdżalnie przewoźne 1* 81,00 zł 1 2 3 4 10 Imprezy pozostałe:",
+     "text": "zjeżdżalnie „Gigant” 1* 123,30 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "zjeżdżalnie przewoźne 1* 81,00 zł 1 2 3 4 10 Imprezy pozostałe:",
      "children": []
     },
     {
      "type": "lit",
      "num": "a",
      "path": "lit_a",
-     "text": "pałac strachów, labirynt 1* 2465,00 zł b) ściana emocji 1* 2007,20 zł c) ściana lalkowa 1* 685,80 zł d) głowa medium, pokazy gadów 1* 397,40 zł e) gabinet złudzeń, pokazy iluzjonistyczne 1* 170,20 zł f) gabinet luster 1* 89,30 zł g) hipodrom – kuce 1* 55,10 zł",
+     "text": "pałac strachów, labirynt 1* 2465,00 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "ściana emocji 1* 2007,20 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "ściana lalkowa 1* 685,80 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "lit_d",
+     "text": "głowa medium, pokazy gadów 1* 397,40 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "lit_e",
+     "text": "gabinet złudzeń, pokazy iluzjonistyczne 1* 170,20 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "lit_f",
+     "text": "gabinet luster 1* 89,30 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "lit_g",
+     "text": "hipodrom – kuce 1* 55,10 zł",
      "children": [
       {
        "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/87",
  "title": "Uchwała nr 31 Rady Ministrów z dnia 13 stycznia 2026 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Przebudowa, modernizacja i doposażenie Specjalistycznego Szpitala im. dra Alfreda Sokołowskiego w Wałbrzychu w celu poprawy jakości psychiatrycznej opieki zdrowotnej\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/87/text.pdf",
  "body": [
   {
@@ -340,7 +340,14 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "szkolenie przyszłych lekarzy – Szpital jest ośrodkiem dydaktycznym dla studentów medycyny; 2) modernizację infrastruktury – w ostatnich latach inwestycje objęły m.in. nowoczesny blok operacyjny i rozbudowę oddziału intensywnej terapii;",
+     "text": "szkolenie przyszłych lekarzy – Szpital jest ośrodkiem dydaktycznym dla studentów medycyny;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "modernizację infrastruktury – w ostatnich latach inwestycje objęły m.in. nowoczesny blok operacyjny i rozbudowę oddziału intensywnej terapii;",
      "children": []
     },
     {

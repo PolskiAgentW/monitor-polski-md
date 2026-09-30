@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/620",
  "title": "Uchwała nr 130 Rady Ministrów z dnia 9 czerwca 2026 r. w sprawie przyjęcia strategii dotyczącej informatyzacji państwa",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/620/text.pdf",
  "body": [
   {
@@ -1040,7 +1040,14 @@
        "type": "lit",
        "num": "b",
        "path": "ust_4/lit_b",
-       "text": "dostęp do funduszy strukturalnych, b) braki kompetencyjne i obawy c) istniejące, dobrze funkcjonujące rozwiązania w administracji, zwłaszcza po stronie (mObywatel, Twój e-PIT), samorządów, d) otwartość na zmiany i aplikowanie nowych c) niski poziom zaufania do państwa, rozwiązań, d) niekonkurencyjne wynagrodzenia e) rozwinięty rynek komercyjnych rozwiązań dla specjalistów ICT w administracji w zakresie identyfikacji elektronicznej. publicznej, e) brak pełnej interoperacyjności systemów teleinformatycznych i rejestrów publicznych wykorzystywanych w administracji publicznej,",
+       "text": "dostęp do funduszy strukturalnych, b) braki kompetencyjne i obawy",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_4/lit_c",
+       "text": "istniejące, dobrze funkcjonujące rozwiązania w administracji, zwłaszcza po stronie (mObywatel, Twój e-PIT), samorządów, d) otwartość na zmiany i aplikowanie nowych c) niski poziom zaufania do państwa, rozwiązań, d) niekonkurencyjne wynagrodzenia e) rozwinięty rynek komercyjnych rozwiązań dla specjalistów ICT w administracji w zakresie identyfikacji elektronicznej. publicznej, e) brak pełnej interoperacyjności systemów teleinformatycznych i rejestrów publicznych wykorzystywanych w administracji publicznej,",
        "children": []
       },
       {
@@ -1118,7 +1125,14 @@
        "type": "lit",
        "num": "a",
        "path": "ust_4/lit_a",
-       "text": "dostępność technologii największych a) relatywnie niski poziom robotyzacji, globalnych graczy, b) brak strategii przemysłowej, b) wysoki eksport ICT (szczególnie usług), c) niski poziom kompetencji cyfrowych, c) relatywnie wysokie nakłady polskich d) niska motywacja pracodawców do dużych firm na B+R (badania i rozwój, wdrażania innowacyjnych/cyfrowych ang. Research and Development), rozwiązań, d) rozwinięty rynek polskich komercyjnych e) niski odsetek specjalistów ICT rozwiązań w zakresie identyfikacji zatrudnionych w gospodarce, elektronicznej oraz usług zaufanych ukierunkowanych na wzrost f) niska dostępność krajowego kapitału, cyberbezpieczeństwa. g) niska innowacyjność gospodarki,",
+       "text": "dostępność technologii największych a) relatywnie niski poziom robotyzacji, globalnych graczy, b) brak strategii przemysłowej, b) wysoki eksport ICT (szczególnie usług), c) niski poziom kompetencji cyfrowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_4/lit_c",
+       "text": "relatywnie wysokie nakłady polskich d) niska motywacja pracodawców do dużych firm na B+R (badania i rozwój, wdrażania innowacyjnych/cyfrowych ang. Research and Development), rozwiązań, d) rozwinięty rynek polskich komercyjnych e) niski odsetek specjalistów ICT rozwiązań w zakresie identyfikacji zatrudnionych w gospodarce, elektronicznej oraz usług zaufanych ukierunkowanych na wzrost f) niska dostępność krajowego kapitału, cyberbezpieczeństwa. g) niska innowacyjność gospodarki,",
        "children": []
       },
       {
@@ -1137,7 +1151,14 @@
        "type": "lit",
        "num": "a",
        "path": "ust_4/lit_a",
-       "text": "zmniejszanie się zasobu siły roboczej jako a) brak silnego ekosystemu inwestycji potencjalny impuls do w startupy, automatyzacji/cyfryzacji, b) mały w stosunku do potrzeb dopływ b) szybkie tempo rozwoju gospodarki, specjalistów ICT, zagrożenia wynikające c) duże doświadczenie krajowe we z kryzysu demograficznego, wdrażaniu e-usług prywatnych, c) wysokie koszty zatrudnienia specjalistów d) wzrost cyberodporności polskiej ICT, gospodarki oraz minimalizacja strat d) \"luka cyfrowa\" wśród przedsiębiorców – wynikających z cyberataków firmy o wysokim poziomie automatyzacji w konsekwencji wzmocnienia są przeważnie duże, eksportujące, będące bezpieczeństwa procesów identyfikacji w posiadaniu zagranicznego kapitału, elektronicznej. e) zwiększająca się niestabilność geopolityczna, przekładająca się na ryzyko prowadzenia działalności gospodarczej.",
+       "text": "zmniejszanie się zasobu siły roboczej jako a) brak silnego ekosystemu inwestycji potencjalny impuls do w startupy, automatyzacji/cyfryzacji, b) mały w stosunku do potrzeb dopływ b) szybkie tempo rozwoju gospodarki, specjalistów ICT, zagrożenia wynikające",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_4/lit_c",
+       "text": "duże doświadczenie krajowe we z kryzysu demograficznego, wdrażaniu e-usług prywatnych, c) wysokie koszty zatrudnienia specjalistów d) wzrost cyberodporności polskiej ICT, gospodarki oraz minimalizacja strat d) \"luka cyfrowa\" wśród przedsiębiorców – wynikających z cyberataków firmy o wysokim poziomie automatyzacji w konsekwencji wzmocnienia są przeważnie duże, eksportujące, będące bezpieczeństwa procesów identyfikacji w posiadaniu zagranicznego kapitału, elektronicznej. e) zwiększająca się niestabilność geopolityczna, przekładająca się na ryzyko prowadzenia działalności gospodarczej.",
        "children": [
         {
          "type": "text",
@@ -1161,7 +1182,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_4/pkt_1",
-       "text": "zagwarantowanie odpowiedniej jakości sieci telekomunikacyjnej na obszarze kraju poprzez jej rozwój i utrzymanie; 2) wsparcie rozwoju kompetencji koniecznych do poruszania się w świecie cyfrowym; 3) dostarczenie przez państwo szerokiego pakietu e-usług o wysokim poziomie dojrzałości; 4) zapewnienie szeroko pojętego bezpieczeństwa sfery cyfrowej; 5) wsparcie rozwoju innowacyjnej cyfrowej gospodarki.",
+       "text": "zagwarantowanie odpowiedniej jakości sieci telekomunikacyjnej na obszarze kraju poprzez jej rozwój i utrzymanie; 2) wsparcie rozwoju kompetencji koniecznych do poruszania się w świecie cyfrowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "dostarczenie przez państwo szerokiego pakietu e-usług o wysokim poziomie dojrzałości; 4) zapewnienie szeroko pojętego bezpieczeństwa sfery cyfrowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "wsparcie rozwoju innowacyjnej cyfrowej gospodarki.",
        "children": [
         {
          "type": "text",
@@ -1170,14 +1205,14 @@
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_4/pkt_1/lit_a",
+         "path": "ust_4/pkt_5/lit_a",
          "text": "zwiększenie koordynacji prac między podmiotami administracji publicznej – zarówno centralnej, jak i samorządowej – a także wsparcia innych instytucji publicznych. Brak jednego ośrodka odpowiedzialnego za cyfryzację kraju we wszystkich obszarach wymaga poprawy mechanizmów koordynacji między różnymi podmiotami działającymi w tym zakresie. Poruszanie się w szybko zmieniającej się sferze technologii wymaga też zwiększenia elastyczności funkcjonowania państwa w tym obszarze,",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_4/pkt_1/lit_b",
+         "path": "ust_4/pkt_5/lit_b",
          "text": "przeznaczenie wystarczających zasobów finansowych, kadrowych i organizacyjnych na rozwój cyfrowego państwa, społeczeństwa i gospodarki opartej na danych. Inwestycje w obszar cyfrowy – zapewnianie cyberbezpieczeństwa, unowocześnianie procesów w administracji, usprawnianie e-usług, podniesienie liczby wdrożeń opartych o sztuczną inteligencję czy wsparcie tworzenia innowacji – są",
          "children": [
           {
@@ -1189,35 +1224,35 @@
         {
          "type": "lit",
          "num": "c",
-         "path": "ust_4/pkt_1/lit_c",
+         "path": "ust_4/pkt_5/lit_c",
          "text": "długofalowe projektowanie cyfrowego rozwoju kraju. Choć precyzyjne przewidzenie kierunków rozwoju technologii jest często niemożliwe, za istotne należy uznać zwiększenie kompetencji analitycznych ośrodków odpowiedzialnych za tworzenie polityki cyfrowej w Polsce – pozwoli to bowiem na wczesnym etapie identyfikować trendy, których uwzględnienie może być korzystne dla kraju. Należy mieć także na względzie zapewnianie neutralności technologicznej rozwiązań stosowanych przez państwo, co umożliwi uniknięcie długofalowego uzależnienia od jednego dostawcy,",
          "children": []
         },
         {
          "type": "lit",
          "num": "d",
-         "path": "ust_4/pkt_1/lit_d",
+         "path": "ust_4/pkt_5/lit_d",
          "text": "wsparcie sprawiedliwej transformacji cyfrowej , w ramach której zagwarantowany zostanie zrównoważony rozwój oraz zwiększenie konkurencyjności gospodarki (w tym w powiązaniu z transformacją energetyczną oraz prawami pracowniczymi), włączenie społeczne, dostępność cyfrowa (w szczególności dla osób z niepełnosprawnościami) oraz realizacja praw i zasad cyfrowych, zawartych m.in. w Europejskiej Deklaracji Praw i Zasad Cyfrowych w Cyfrowej Dekadzie. Odpowiednio zaprojektowana transformacja cyfrowa musi uwzględniać m.in. powiązania z transformacją energetyczną, zagwarantowanie praw pracowniczych i wsparcie przekwalifikowania osób, których miejsca pracy są zagrożone przez zmiany technologiczne oraz uwarunkowania demograficzne,",
          "children": []
         },
         {
          "type": "lit",
          "num": "e",
-         "path": "ust_4/pkt_1/lit_e",
+         "path": "ust_4/pkt_5/lit_e",
          "text": "projektowanie cyfrowych przemian w duchu technorealizmu – uznanie, że rozwój technologii nie jest odpowiedzią na wszystkie problemy. Jakkolwiek ma on potencjał do realnej poprawy jakości życia, wiąże się też z zagrożeniami, w tym z przypadkami naruszenia prawa, na które państwo musi reagować i im zapobiegać. Niezbędne jest pragmatyczne podejście, opierające się na świadomości, że technologia nie jest celem samym w sobie, i wykorzystaniu jej w tych obszarach, gdzie faktycznie przyniesie korzyści,",
          "children": []
         },
         {
          "type": "lit",
          "num": "f",
-         "path": "ust_4/pkt_1/lit_f",
+         "path": "ust_4/pkt_5/lit_f",
          "text": "przyjęcie założenia, że wprowadzanie przez państwo nowych rozwiązań cyfrowych powinno być poddawane dogłębnej weryfikacji na etapie projektowania i mitygacji zagrożeń, w celu zapewnienia bezpieczeństwa, w tym gwarancji ochrony danych osobowych – rozumianego zarówno w odniesieniu do obszaru cyberbezpieczeństwa, jak i praw podstawowych obywateli, ich dobrostanu psychicznego i spójności społecznej,",
          "children": []
         },
         {
          "type": "lit",
          "num": "g",
-         "path": "ust_4/pkt_1/lit_g",
+         "path": "ust_4/pkt_5/lit_g",
          "text": "zapewnienie partnerskiej współpracy międzynarodowej, a także między państwem a biznesem, w tym sektorem MŚP. Gospodarka cyfrowa jest globalna, a istotna część polskiego prawa cyfrowego bierze swój początek w UE. Tym samym bez dobrej współpracy międzynarodowej rozwój cyfrowego państwa i gospodarki będzie napotykał na istotne przeszkody. Konieczne jest też zapewnienie uczciwych i partnerskich relacji z firmami z sektora ICT. Na szczególną uwagę zasługują relację z największymi globalnymi firmami technologicznymi. Choć funkcjonowanie bez ich produktów często jest niemożliwe, to zarazem muszą one uczciwie kontrybuować do rozwoju państwa, również w obszarze podatkowym. W budowaniu tych relacji jest konieczne utrzymanie suwerenności w kluczowych aspektach dotyczących cyfryzacji. Niezwykle ważną kwestią będzie również współpraca z sektorem pozarządowym oraz w ramach partnerstw publiczno-społecznych.",
          "children": [
           {

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/65",
  "title": "Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 31 grudnia 2025 r. w sprawie włączenia kwalifikacji rynkowej \"Budowanie wizerunku osobistego\" do Zintegrowanego Systemu Kwalifikacji",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/65/text.pdf",
  "body": [
   {
@@ -208,12 +208,63 @@
         },
         {
          "type": "text",
-         "text": "Dobiera elementy ubioru 1) dobiera ubiór do sytuacji zgodnie z zasadami dress code; do sytuacji 2) dobiera dodatki do stroju i okazji; 3) prezentuje sposoby wiązania krawatów, muszek, apaszek, szali oraz układania poszetek; 4) stosuje zasady teorii koloru w doborze garderoby."
-        },
+         "text": "Dobiera elementy ubioru 1) dobiera ubiór do sytuacji zgodnie z zasadami dress code; do sytuacji 2) dobiera dodatki do stroju i okazji; 3) prezentuje sposoby wiązania krawatów, muszek, apaszek, szali oraz układania poszetek;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "stosuje zasady teorii koloru w doborze garderoby.",
+       "children": [
         {
          "type": "text",
-         "text": "Dokonuje analizy 1) charakteryzuje kryteria oceny urody istotne z punktu widzenia wizerunku osobistego (typ cery, urody, sylwetki); wyglądu zewnętrznego 2) charakteryzuje style ubioru służbowego (w tym business formal, business, casual, smart casual); 3) omawia zasady dotyczące dopasowania ubioru do okazji (np. sprzedażowej, prezentacyjnej, bankietowej, nieformalnej itp.); 4) charakteryzuje znaczenie kolorystyki stroju w budowaniu wizerunku w określonych sytuacjach (np. prezentacja, sytuacja sprzedaży produktu klientowi, udział w targach, bankiet, udzielanie wywiadu itp.); 5) klasyfikuje dodatki do stroju i opisuje ich znaczenie w określonej sytuacji biznesowej (np. negocjacje, udzielanie wywiadu, wystąpienie na konferencji itp.); 6) charakteryzuje znaczenie wyglądu włosów, makijażu, paznokci, zapachu w budowaniu wizerunku; 7) określa typ kolorystyczny swojej urody (wiosna, lato, jesień, zima); 8) ocenia dopasowanie rodzaju ubioru do typu urody i okazji (np. sprzedażowej, prezentacyjnej, bankietowej, nieformalnej itp.); 9) ocenia dopasowanie kolorystyki stroju oraz dodatków do sytuacji; 10) ocenia wygląd włosów, makijażu, paznokci w kontekście wizerunku osobistego; 11) identyfikuje słabe i mocne strony wyglądu zewnętrznego."
-        },
+         "text": "Dokonuje analizy 1) charakteryzuje kryteria oceny urody istotne z punktu widzenia wizerunku osobistego (typ cery, urody, sylwetki); wyglądu zewnętrznego 2) charakteryzuje style ubioru służbowego (w tym business formal, business, casual, smart casual); 3) omawia zasady dotyczące dopasowania ubioru do okazji (np. sprzedażowej, prezentacyjnej, bankietowej, nieformalnej itp.);"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "charakteryzuje znaczenie kolorystyki stroju w budowaniu wizerunku w określonych sytuacjach (np. prezentacja, sytuacja sprzedaży produktu klientowi, udział w targach, bankiet, udzielanie wywiadu itp.); 5) klasyfikuje dodatki do stroju i opisuje ich znaczenie w określonej sytuacji biznesowej (np. negocjacje, udzielanie wywiadu, wystąpienie na konferencji itp.); 6) charakteryzuje znaczenie wyglądu włosów, makijażu, paznokci, zapachu w budowaniu wizerunku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_5/pkt_7",
+       "text": "określa typ kolorystyczny swojej urody (wiosna, lato, jesień, zima);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_5/pkt_8",
+       "text": "ocenia dopasowanie rodzaju ubioru do typu urody i okazji (np. sprzedażowej, prezentacyjnej, bankietowej, nieformalnej itp.);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_5/pkt_9",
+       "text": "ocenia dopasowanie kolorystyki stroju oraz dodatków do sytuacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_5/pkt_10",
+       "text": "ocenia wygląd włosów, makijażu, paznokci w kontekście wizerunku osobistego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_5/pkt_11",
+       "text": "identyfikuje słabe i mocne strony wyglądu zewnętrznego.",
+       "children": [
         {
          "type": "text",
          "text": "Zestaw 3. Dobór zachowania do kontekstu sytuacji i celu związanego z budową wizerunku"
@@ -224,8 +275,16 @@
         },
         {
          "type": "text",
-         "text": "Analizuje zachowanie 1) na przykładzie zachowania identyfikuje wzrokowe formy komunikacji mimicznej, wokalnej, proksemicznej, dotykowej, gesty i ruchy ciała; pod kątem oceny 2) ocenia wizerunek osoby na podstawie jej sposobu wypowiedzi; wizerunku osobistego 3) ocenia zachowanie pod kątem zgodności z zasadami etykiety w biznesie i zasadami savoir-vivre’u w przykładowej sytuacji; 4) na przykładach identyfikuje sytuacje fałszowania przekazów niewerbalnych; 5) identyfikuje słabe i mocne strony zachowania werbalnego i niewerbalnego w odniesieniu do spójności komunikacyjnej osoby i jej wizerunku osobistego; 6) podaje przykłady zachowań negatywnie i pozytywnie wpływających na wizerunek."
-        },
+         "text": "Analizuje zachowanie 1) na przykładzie zachowania identyfikuje wzrokowe formy komunikacji mimicznej, wokalnej, proksemicznej, dotykowej, gesty i ruchy ciała; pod kątem oceny 2) ocenia wizerunek osoby na podstawie jej sposobu wypowiedzi; wizerunku osobistego 3) ocenia zachowanie pod kątem zgodności z zasadami etykiety w biznesie i zasadami savoir-vivre’u w przykładowej sytuacji; 4) na przykładach identyfikuje sytuacje fałszowania przekazów niewerbalnych;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_5/pkt_5",
+       "text": "identyfikuje słabe i mocne strony zachowania werbalnego i niewerbalnego w odniesieniu do spójności komunikacyjnej osoby i jej wizerunku osobistego; 6) podaje przykłady zachowań negatywnie i pozytywnie wpływających na wizerunek.",
+       "children": [
         {
          "type": "text",
          "text": "Dobiera sposoby 1) dobiera i prezentuje powitania i przedstawienia do sytuacji; zachowania do sytuacji 2) dobiera formy komunikacji niewerbalnej do sytuacji (gesty, postawa, mimika);"

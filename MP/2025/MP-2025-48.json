@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/48",
  "title": "Obwieszczenie Ministra Kultury i Dziedzictwa Narodowego z dnia 27 grudnia 2024 r. w sprawie włączenia kwalifikacji rynkowej \"Wykonywanie działań didżeja\" do Zintegrowanego Systemu Kwalifikacji",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/48/text.pdf",
  "body": [
   {
@@ -258,8 +258,37 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Metody wykorzystywane podczas weryfikacji: 1) wywiad swobodny; 2) wywiad ustrukturyzowany; 3) obserwacja w warunkach symulowanych; 4) obserwacja w warunkach rzeczywistych; 5) analiza dowodów i deklaracji.",
-     "children": []
+     "text": "Metody wykorzystywane podczas weryfikacji: 1) wywiad swobodny;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "wywiad ustrukturyzowany;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "obserwacja w warunkach symulowanych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "obserwacja w warunkach rzeczywistych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "analiza dowodów i deklaracji.",
+       "children": []
+      }
+     ]
     },
     {
      "type": "ust",
@@ -269,7 +298,28 @@
      "children": [
       {
        "type": "text",
-       "text": "Komisja walidacyjna składa się z minimum 5 osób, w tym z przewodniczącego komisji. Członkowie komisji walidacyjnej spełniają łącznie następujące warunki, z tym że każdy z członków komisji spełnia minimum jeden z warunków: 1) posiada minimum 10-letnie doświadczenie w prowadzeniu działań didżeja zdobyte w ciągu ostatnich 20 lat; 2) jest finalistą lub laureatem ogólnopolskiego konkursu didżejskiego; 3) posiada minimum 5 lat rezydentury w klubie muzycznym; 4) przeprowadził minimum 120 godzin szkoleń z zakresu opisanego w kwalifikacji."
+       "text": "Komisja walidacyjna składa się z minimum 5 osób, w tym z przewodniczącego komisji. Członkowie komisji walidacyjnej spełniają łącznie następujące warunki, z tym że każdy z członków komisji spełnia minimum jeden z warunków: 1) posiada minimum 10-letnie doświadczenie w prowadzeniu działań didżeja zdobyte w ciągu ostatnich 20 lat;"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "jest finalistą lub laureatem ogólnopolskiego konkursu didżejskiego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "posiada minimum 5 lat rezydentury w klubie muzycznym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "przeprowadził minimum 120 godzin szkoleń z zakresu opisanego w kwalifikacji.",
+       "children": []
       }
      ]
     },
@@ -281,19 +331,27 @@
      "children": [
       {
        "type": "text",
-       "text": "Instytucja certyfikacyjna musi zapewnić: 1) pomieszczenie o minimalnej powierzchni 30 m² z doprowadzoną energią elektryczną; 2) wyposażenie umożliwiające instalację sprzętu, nagłośnienie wraz z okablowaniem adekwatne do wielkości pomieszczenia, sprzęt muzyczny wraz z okablowaniem, tj. mikser, źródła dźwięku, mikrofon, bazę zawierającą minimum 50 utworów do wykorzystania przy konstrukcji seta."
+       "text": "Instytucja certyfikacyjna musi zapewnić: 1) pomieszczenie o minimalnej powierzchni 30 m² z doprowadzoną energią elektryczną;"
       },
       {
-       "type": "text",
-       "text": "Kandydat może na potrzeby walidacji skorzystać z bazy utworów udostępnionej przez instytucję certyfikującą lub z własnej bazy utworów pozyskanych legalnie. Instytucja certyfikująca nie zapewnia kandydatowi słuchawek."
-      },
-      {
-       "type": "text",
-       "text": "II. Identyfikowanie i dokumentowanie"
-      },
-      {
-       "type": "text",
-       "text": "Nie stawia się wymagań dotyczących tego etapu."
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "wyposażenie umożliwiające instalację sprzętu, nagłośnienie wraz z okablowaniem adekwatne do wielkości pomieszczenia, sprzęt muzyczny wraz z okablowaniem, tj. mikser, źródła dźwięku, mikrofon, bazę zawierającą minimum 50 utworów do wykorzystania przy konstrukcji seta.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Kandydat może na potrzeby walidacji skorzystać z bazy utworów udostępnionej przez instytucję certyfikującą lub z własnej bazy utworów pozyskanych legalnie. Instytucja certyfikująca nie zapewnia kandydatowi słuchawek."
+        },
+        {
+         "type": "text",
+         "text": "II. Identyfikowanie i dokumentowanie"
+        },
+        {
+         "type": "text",
+         "text": "Nie stawia się wymagań dotyczących tego etapu."
+        }
+       ]
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/92",
  "title": "Uchwała nr 35 Rady Ministrów z dnia 14 stycznia 2026 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Poprawa jakości oraz dostępności do świadczeń zdrowotnych w zakresie opieki psychiatrycznej poprzez budowę nowego budynku oraz wyposażenie Centrum Ochrony Zdrowia Psychicznego Samodzielnego Publicznego Zespołu Opieki Zdrowotnej w Sanoku\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/92/text.pdf",
  "body": [
   {
@@ -1155,7 +1155,14 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "obiekt zostanie dostosowany do potrzeb osób z niepełnosprawnościami (toalety, wejścia, parkingi); 3) zwiększy się liczba łóżek dla pacjentów (co pozwoli na zwiększenie liczby miejsc na Oddziale Dziennym Psychiatrycznym);",
+     "text": "obiekt zostanie dostosowany do potrzeb osób z niepełnosprawnościami (toalety, wejścia, parkingi);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "zwiększy się liczba łóżek dla pacjentów (co pozwoli na zwiększenie liczby miejsc na Oddziale Dziennym Psychiatrycznym);",
      "children": []
     },
     {

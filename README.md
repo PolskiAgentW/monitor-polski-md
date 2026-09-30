@@ -24,7 +24,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-29 21:07 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 00:59 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -35,7 +35,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 29, razem 525 z 10601 s
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 36.
 
 Rodzaje aktów: Postanowienie 851, Obwieszczenie 524, Uchwała 462, Komunikat 241, Zarządzenie 141, Ogłoszenie 22, Umowa międzynarodowa 14, Oświadczenie rządowe 14, Apel 2, Protokół 1.
-Wersje konwertera: eli2md 0.6.2 (2272).
+Wersje konwertera: eli2md 0.6.3 (2272).
 <!-- stats:end -->
 
 ## Zawartość
@@ -70,16 +70,20 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
 **Dla Monitora Polskiego takiego wzorca nie ma** (brak HTML w API), więc jakość sprawdzam słabiej:
 
 <!-- quality:start -->
-- **Czy tekst nie ginie** (`eval/selfcheck.py` z eli2md, wszystkie 2272 akty 2025–2026, eli2md 0.6.2, 2026-09-29):
+- **Czy tekst nie ginie** (`eval/selfcheck.py` z eli2md, wszystkie 2272 akty 2025–2026, eli2md 0.6.3, 2026-09-30):
   porównuję słowa wyniku ze słowami warstwy tekstowej PDF (bez winiety i nagłówków stron, bez stron czytanych
   przez OCR). Mediana odsetka słów PDF obecnych w wyniku: **0.985**, odwrotnie (słowa wyniku obecne w PDF):
-  **0.993**. Poniżej 0.95: 85 aktów, poniżej 0.8: 2. Z tych 85 aż 65 to krótkie akty (poniżej 400 słów), w których
+  **0.993**. Poniżej 0.95: 80 aktów, poniżej 0.8: żaden. Z tych 80 aż 65 to krótkie akty (poniżej 400 słów), w których
   warstwa tekstowa PDF zawiera ukrytą kopię nagłówka wklejonego załącznika; konwerter ją celowo pomija
-  (sprawdzone na MP/2025/613). Kolejności słów ani podziału na jednostki ta miara nie sprawdza.
+  (sprawdzone na MP/2025/613). W MP/2025/121 (0.876) część stron PDF ma dwie nałożone kopie tekstu, które miara
+  czyta jako strzępy liter; to one są w większości „brakującymi słowami”. Kolejności słów ani podziału na jednostki
+  ta miara nie sprawdza. Miara od 29.09 się zmieniła (strony obrócone, znak wodny, indeksy w nawiasach), więc
+  wcześniejsze wyniki nie są z tymi porównywalne.
 - **Kontrola wzrokowa** (strona PDF obok wyniku), 8 aktów: MP/2025/418 (s. 34), 613 (s. 1–2), 241 (s. 6, OCR),
   MP/2026/580 oraz — na próbnej konwersji wersją rozwojową 0.6.2.dev0 — MP/2025/113, 148, 158: tekst
   i akapity zgodne z PDF. W OCR zdarzają się błędy znaków (w MP/2025/241 „m²” odczytane jako „m””). MP/2025/121:
-  tekst pełny, ale w ciasno złożonej tabeli pozycje „2) … 5)” są doklejone do „1)”. Wybór częściowo losowy,
+  w ciasno złożonej tabeli pozycje „2) … 5)” były doklejone do „1)”; od eli2md 0.6.3 zaczynają nowe akapity
+  (229 → 535 akapitów w pliku). Wybór częściowo losowy,
   częściowo celowy (długie akty, OCR, najniższe wyniki miary powyżej).
 - **Losowa kontrola wzrokowa** (2026-09-29, eli2md 0.6.2): 15 losowych aktów, 20 stron (strona 1 i jedna losowa).
   Bez żadnego błędu: 14 stron. Błąd konwertera: 6 stron — 2 istotne (MP/2025/635: pozycje listy odznaczonych
@@ -89,11 +93,11 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
   mała (przedział 95%: 12–54% stron z błędem), 10 z 15 aktów ma 1 stronę. Raport:
   [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
   Metadane z API bywają błędne: MP/2025/635 ma `promulgation_date` 2025-07-08, PDF — 11 lipca 2025 r.
-- **Znany błąd**: w wklejonych PDF-ach (załączniki) konwerter czasem gubi wąskie litery, np. „elekt omobinos ci”
-  zamiast „elektromobilności” w MP/2025/1128 (odsetek słów 0.72). Poprawka w kolejnej wersji eli2md.
-  Ilu aktów dotyczy, nie wiem dokładnie: ciągi pojedynczych liter są w 14 plikach, ale nie wszystkie to ten błąd.
-- Drugi akt poniżej 0.8, MP/2025/541 (0.785): na s. 46–48 jest obrócona tabela z bardzo drobnym drukiem; w wyniku
-  jest ok. 2/3 słów tych stron. Przyczyny jeszcze nie zbadałem.
+- **Poprawione w eli2md 0.6.3** (dane przekonwertowane od nowa 2026-09-30; tekst zmienił się w 37 plikach):
+  w wklejonych PDF-ach konwerter gubił litery czcionek z błędnymi metrykami, np. „elekt omobinos ci” zamiast
+  „elektromobilności” w MP/2025/1128 (odsetek słów 0.72 → 0.997). W MP/2025/541 (obrócona tabela z drobnym
+  drukiem, s. 46–48) niska wartość (0.785) wynikała głównie z miary, która czytała kolumny obróconej tabeli
+  na przemian. Konwerter gubił tam też część liter (usuwał je jako duplikaty). Teraz 0.991 (nowa miara).
 - **Struktura** (art./§/ust./pkt/lit., drzewo JSON) jest zmierzona tylko na Dzienniku Ustaw 2024 (README eli2md).
   Obejrzane akty Monitora Polskiego mają podobny układ jak Dziennik Ustaw, ale struktury tu nie mierzyłem.
 <!-- quality:end -->

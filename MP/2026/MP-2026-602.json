@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/602",
  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 25 maja 2026 r. w sprawie włączenia kwalifikacji sektorowej \"Chów i utrzymywanie zwierząt nieudomowionych\" do Zintegrowanego Systemu Kwalifikacji",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/602/text.pdf",
  "body": [
   {
@@ -81,15 +81,31 @@
       },
       {
        "type": "text",
-       "text": "Charakteryzuje podstawy 1) rozpoznaje budowę układów lub narządów poszczególnych gatunków zwierząt nieudomowionych; anatomii zwierząt 2) opisuje charakterystyczne cechy budowy układów i narządów poszczególnych gatunków zwierząt nieudomowionych; nieudomowionych 3) odróżnia narządy anatomiczne zwierząt nieudomowionych na podstawie charakterystycznych cech ich budowy z uwzględnieniem płci, wieku i stanu fizjologicznego."
+       "text": "Charakteryzuje podstawy 1) rozpoznaje budowę układów lub narządów poszczególnych gatunków zwierząt nieudomowionych; anatomii zwierząt 2) opisuje charakterystyczne cechy budowy układów i narządów poszczególnych gatunków zwierząt nieudomowionych; nieudomowionych"
       },
       {
-       "type": "text",
-       "text": "Charakteryzuje podstawy 1) omawia funkcje układów lub narządów zwierząt nieudomowionych; fizjologii zwierząt 2) opisuje procesy fizjologiczne zachodzące w organizmach zwierząt nieudomowionych; nieudomowionych 3) rozróżnia prawidłowe i nieprawidłowe parametry życiowe zwierząt nieudomowionych z uwzględnieniem gatunku, płci, wieku i stanu fizjologicznego tych zwierząt."
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "odróżnia narządy anatomiczne zwierząt nieudomowionych na podstawie charakterystycznych cech ich budowy z uwzględnieniem płci, wieku i stanu fizjologicznego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Charakteryzuje podstawy 1) omawia funkcje układów lub narządów zwierząt nieudomowionych; fizjologii zwierząt 2) opisuje procesy fizjologiczne zachodzące w organizmach zwierząt nieudomowionych; nieudomowionych"
+        }
+       ]
       },
       {
-       "type": "text",
-       "text": "Posługuje się wiedzą 1) opisuje klasyfikacje taksonów w królestwie zwierząt nieudomowionych; z zakresu taksonomii 2) omawia aktualną taksonomię wybranych gatunków zwierząt nieudomowionych;"
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "rozróżnia prawidłowe i nieprawidłowe parametry życiowe zwierząt nieudomowionych z uwzględnieniem gatunku, płci, wieku i stanu fizjologicznego tych zwierząt.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Posługuje się wiedzą 1) opisuje klasyfikacje taksonów w królestwie zwierząt nieudomowionych; z zakresu taksonomii 2) omawia aktualną taksonomię wybranych gatunków zwierząt nieudomowionych;"
+        }
+       ]
       },
       {
        "type": "pkt",
@@ -269,7 +285,7 @@
        "children": [
         {
          "type": "text",
-         "text": "Charakteryzuje zoonozy 1) wyjaśnia pojęcia dotyczące chorób odzwierzęcych, m.in. zoonoza, antropozoonoza, patogen, wektor choroby, źródło zakażenia, droga zakażei antropozoonozy nia, łańcuch epidemiologiczny, panzootia, epiz otia, enzootia, choroba zakaźna, choroba zaraźliwa, choroba niezakaźna, parazytoza;"
+         "text": "Charakteryzuje zoonozy 1) wyjaśnia pojęcia dotyczące chorób odzwierzęcych, m.in. zoonoza, antropozoonoza, patogen, wektor choroby, źródło zakażenia, droga zakażei antropozoonozy nia, łańcuch epidemiologiczny, panzootia, epizootia, enzootia, choroba zakaźna, choroba zaraźliwa, choroba niezakaźna, parazytoza;"
         }
        ]
       },
@@ -457,9 +473,16 @@
        "children": [
         {
          "type": "text",
-         "text": "Wykonuje obchód 1) przeprowadza kontrolę warunków środowiskowych oraz pomieszczenia hodowlanego w poszukiwaniu nieprawidłowości; dzienny i przygotowuje 2) sprawdza liczebność zwierzostanu; raport 3) ocenia stan ogólny zwierząt nieudomowionych na podstawie obserwacji;"
+         "text": "Wykonuje obchód 1) przeprowadza kontrolę warunków środowiskowych oraz pomieszczenia hodowlanego w poszukiwaniu nieprawidłowości; dzienny i przygotowuje 2) sprawdza liczebność zwierzostanu; raport"
         }
        ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "ocenia stan ogólny zwierząt nieudomowionych na podstawie obserwacji;",
+       "children": []
       },
       {
        "type": "pkt",
@@ -490,12 +513,28 @@
        "children": [
         {
          "type": "text",
-         "text": "Omawia zasady 1) wymienia niebezpieczeństwa, które niesie za sobą praca z wybranym gatunkiem zwierząt nieudomowionych; poskramiania zwierząt 2) omawia zasady obchodzenia się ze zwierzęciem wybranego gatunku zwierząt nieudomowionych; nieudomowionych 3) wymienia metody poskramiania wybranych gatunków zwierząt nieudomowionych."
-        },
+         "text": "Omawia zasady 1) wymienia niebezpieczeństwa, które niesie za sobą praca z wybranym gatunkiem zwierząt nieudomowionych; poskramiania zwierząt 2) omawia zasady obchodzenia się ze zwierzęciem wybranego gatunku zwierząt nieudomowionych; nieudomowionych"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "wymienia metody poskramiania wybranych gatunków zwierząt nieudomowionych.",
+       "children": [
         {
          "type": "text",
-         "text": "Demonstruje techniki 1) dobiera sprzęt do poskromienia wybranego gatunku zwierząt nieudomowionych; poskramiania zwierząt 2) demonstruje bezpieczne podejście i poskromienie zwierzęcia nieudomowionego z wykorzystaniem narzędzi i technik poskramiania zwierząt; nieudomowionych 3) korzysta z urządzeń pomocnych w obchodzeniu się z wybraną grupą zwierząt nieudomowionych."
-        },
+         "text": "Demonstruje techniki 1) dobiera sprzęt do poskromienia wybranego gatunku zwierząt nieudomowionych; poskramiania zwierząt 2) demonstruje bezpieczne podejście i poskromienie zwierzęcia nieudomowionego z wykorzystaniem narzędzi i technik poskramiania zwierząt; nieudomowionych"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "korzysta z urządzeń pomocnych w obchodzeniu się z wybraną grupą zwierząt nieudomowionych.",
+       "children": [
         {
          "type": "text",
          "text": "Opisuje profilaktykę 1) wyjaśnia pojęcia dotyczące profilaktyki, m.in.: profilaktyka, prewencja, bioasekuracja, szczepienia ochronne, odrobaczanie, aseptyka, antysepzwierząt tyka; nieudomowionych 2) wymienia zabiegi profilaktyczne wykonywane u wybranego gatunku zwierząt nieudomowionych;"

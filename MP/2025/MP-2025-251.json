@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/251",
  "title": "Uchwała nr 39 Rady Ministrów z dnia 13 marca 2025 r. zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Utworzenie Centrum Leczenia Wad Twarzoczaszki, Mózgoczaszki i Chorób Rzadkich w Wojewódzkim Specjalistycznym Szpitalu Dziecięcym im. prof. dr. Stanisława Popowskiego w Olsztynie\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/251/text.pdf",
  "body": [
   {
@@ -716,8 +716,23 @@
         },
         {
          "type": "text",
-         "text": "Etap 2 polega na przebudowie pomieszczeń budynku B, na poziomach od +1 do +4, w których zostaną usytuowane: 1) Oddział Kliniczny Chirurgii i Urologii Dziecięcej z Ośrodkiem Leczenia Zmian Naczyniowych (poziom +4); 2) Oddział Neurologii Dziecięcej z Pododdziałem Neurogenetyki i Chorób Rzadkich (poziom +3); 3) Oddział Pediatryczny VI Endokrynologiczno-Diabetologiczny z Pododdziałem Reumatologii (poziom +1 i + 2)."
-        },
+         "text": "Etap 2 polega na przebudowie pomieszczeń budynku B, na poziomach od +1 do +4, w których zostaną usytuowane: 1) Oddział Kliniczny Chirurgii i Urologii Dziecięcej z Ośrodkiem Leczenia Zmian Naczyniowych (poziom +4);"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "Oddział Neurologii Dziecięcej z Pododdziałem Neurogenetyki i Chorób Rzadkich (poziom +3);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "Oddział Pediatryczny VI Endokrynologiczno-Diabetologiczny z Pododdziałem Reumatologii (poziom +1 i + 2).",
+       "children": [
         {
          "type": "text",
          "text": "Łączna powierzchnia przebudowy wyniesie około 3,8 tys. m²."

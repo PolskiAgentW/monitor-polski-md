@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/676",
  "title": "Uchwała nr 97 Rady Ministrów z dnia 16 lipca 2025 r. w sprawie ustanowienia programu rządowego pod nazwą \"Promocja Sportu Osób z Niepełnosprawnościami w 2025 r.\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/676/text.pdf",
  "body": [
   {
@@ -157,14 +157,28 @@
      "type": "pkt",
      "num": "4",
      "path": "pkt_4",
-     "text": "kreowanie pozytywnych postaw wobec uprawiania sportu osób z niepełnosprawnościami; 5) popularyzowanie sportu jako czynnika wpływającego na poprawę zdrowia osób z niepełnosprawnościami;",
+     "text": "kreowanie pozytywnych postaw wobec uprawiania sportu osób z niepełnosprawnościami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "popularyzowanie sportu jako czynnika wpływającego na poprawę zdrowia osób z niepełnosprawnościami;",
      "children": []
     },
     {
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "zwiększenie świadomości społeczeństwa na temat sportu osób z niepełnosprawnościami; 7) promocja zdrowego stylu życia i aktywności osób z niepełnosprawnościami.",
+     "text": "zwiększenie świadomości społeczeństwa na temat sportu osób z niepełnosprawnościami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "promocja zdrowego stylu życia i aktywności osób z niepełnosprawnościami.",
      "children": [
       {
        "type": "text",
@@ -267,7 +281,14 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "kampanie społeczne z wykorzystaniem prasy, radia, telewizji i mediów społecznościowych; 4) różnego rodzaju publikacje oraz wydawnictwa;",
+     "text": "kampanie społeczne z wykorzystaniem prasy, radia, telewizji i mediów społecznościowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "różnego rodzaju publikacje oraz wydawnictwa;",
      "children": []
     },
     {
@@ -414,7 +435,14 @@
        "type": "pkt",
        "num": "7",
        "path": "ust_8/pkt_7",
-       "text": "zakwaterowanie, w miarę potrzeb dostosowane dla osób z niepełnosprawnościami; 8) ubezpieczenie;",
+       "text": "zakwaterowanie, w miarę potrzeb dostosowane dla osób z niepełnosprawnościami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_8/pkt_8",
+       "text": "ubezpieczenie;",
        "children": []
       },
       {
@@ -700,7 +728,14 @@
        "type": "pkt",
        "num": "8",
        "path": "ust_6/pkt_8",
-       "text": "udział środków jednostek samorządu terytorialnego, w ramach środków własnych; 9) udział wolontariuszy.",
+       "text": "udział środków jednostek samorządu terytorialnego, w ramach środków własnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_6/pkt_9",
+       "text": "udział wolontariuszy.",
        "children": []
       }
      ]

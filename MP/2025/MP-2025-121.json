@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/121",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 3 lutego 2025 r. w sprawie ogłoszenia stawek opłat lotniczych obowiązujących w 2025 r.",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/121/text.pdf",
  "body": [
   {
@@ -54,7 +54,35 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "przyznanie uprawnień do wykonywania regularnego 9553 przewozu z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) i liczby miejsc pasażerskich 2) przyznanie uprawnień do wykonywania regularnego 6372 przewozu z wykorzystaniem statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 000 kg lub liczbie miejsc pasażerskich poniżej 20 3) przyznanie uprawnień do wykonywania nieregularnego 7963 przewozu z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) i liczby miejsc pasażerskich 4) przyznanie uprawnień do wykonywania nieregularnego 3187 przewozu z wykorzystaniem statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 000 kg lub liczbie miejsc pasażerskich poniżej 20 5) zmiana koncesji 10 % wynikającej z uprawnień stawki lub sumy stawek określonych w pkt 1–4 2. Wydanie promesy koncesji na przewóz lotniczy 50 % stawki lub sumy stawek określonych w ust. 1 pkt 1–4, z uwzględnieniem zakresu uprawnień objętych promesą",
+     "text": "przyznanie uprawnień do wykonywania regularnego 9553 przewozu z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) i liczby miejsc pasażerskich",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przyznanie uprawnień do wykonywania regularnego 6372 przewozu z wykorzystaniem statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 000 kg lub liczbie miejsc pasażerskich poniżej 20",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "przyznanie uprawnień do wykonywania nieregularnego 7963 przewozu z wykorzystaniem statków powietrznych bez ograniczenia maksymalnej masy startowej (MTOM) i liczby miejsc pasażerskich",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "przyznanie uprawnień do wykonywania nieregularnego 3187 przewozu z wykorzystaniem statków powietrznych o maksymalnej masie startowej (MTOM) poniżej 10 000 kg lub liczbie miejsc pasażerskich poniżej 20",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "zmiana koncesji 10 % wynikającej z uprawnień stawki lub sumy stawek określonych w pkt 1–4 2. Wydanie promesy koncesji na przewóz lotniczy 50 % stawki lub sumy stawek określonych w ust. 1 pkt 1–4, z uwzględnieniem zakresu uprawnień objętych promesą",
      "children": []
     },
     {
@@ -67,13 +95,27 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "wyrażenie zgody na prowadzenie operacji przez 3187 wspólnotowego przewoźnika lotniczego leasingującego od innego przedsiębiorstwa statek powietrzny z załogą zarejestrowany w państwie niebędącym członkiem Konfederacji Szwajcarskiej, państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym 2) zmiana decyzji w sprawie wyrażenia zgody na prowadzenie 1596 operacji przez wspólnotowego przewoźnika lotniczego leasingującego od innego przedsiębiorstwa statek powietrzny z załogą zarejestrowany w państwie niebędącym członkiem Konfederacji Szwajcarskiej, państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w zakresie:",
+       "text": "wyrażenie zgody na prowadzenie operacji przez 3187 wspólnotowego przewoźnika lotniczego leasingującego od innego przedsiębiorstwa statek powietrzny z załogą zarejestrowany w państwie niebędącym członkiem Konfederacji Szwajcarskiej, państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "zmiana decyzji w sprawie wyrażenia zgody na prowadzenie 1596 operacji przez wspólnotowego przewoźnika lotniczego leasingującego od innego przedsiębiorstwa statek powietrzny z załogą zarejestrowany w państwie niebędącym członkiem Konfederacji Szwajcarskiej, państwem członkowskim Unii Europejskiej lub państwem członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym, w zakresie:",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_3/pkt_1/lit_a",
-         "text": "okresu na jaki została wyrażona zgoda b) przyznanych decyzją uprawnień",
+         "path": "ust_3/pkt_2/lit_a",
+         "text": "okresu na jaki została wyrażona zgoda",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_2/lit_b",
+         "text": "przyznanych decyzją uprawnień",
          "children": []
         }
        ]
@@ -94,7 +136,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "przyznanie uprawnienia do zarządzania lotniskiem użytku 9553 publicznego 2) czynności związane ze zmianą zezwolenia na zarządzanie 962 lotniskiem użytku publicznego 2. Promesa zezwolenia na zarządzanie lotniskiem użytku 4777 publicznego 3. W zakresie zezwolenia na obsługę naziemną na lotnisku użytku publicznego:",
+       "text": "przyznanie uprawnienia do zarządzania lotniskiem użytku 9553 publicznego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "czynności związane ze zmianą zezwolenia na zarządzanie 962 lotniskiem użytku publicznego 2. Promesa zezwolenia na zarządzanie lotniskiem użytku 4777 publicznego 3. W zakresie zezwolenia na obsługę naziemną na lotnisku użytku publicznego:",
        "children": []
       },
       {
@@ -107,16 +156,107 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_1/lit_a",
-         "text": "w kat. 1 – ogólne usługi administracyjno-gospodarcze 1596 wykonywane w interesie użytkowników b) w kat. 2 – obsługa pasażerów 1596 c) w kat. 3 – obsługa bagażu 962 d) w kat. 4 – obsługa ładunków (towarów i poczty) 1596 e) w kat. 5 – obsługa płytowa statków powietrznych 1596 f) w kat. 6 – obsługa kabinowa statków powietrznych 1596 g) w kat. 7 – obsługa w zakresie zaopatrzenia statków 9553 powietrznych w paliwo, smary i inne materiały techniczne h) w kat. 8 – obsługa techniczno-administracyjna statków 1596 powietrznych i) w kat. 9 – obsługa operacyjna lotu i administracyjna 1596 załóg statków powietrznych j) w kat. 10 – transport naziemny 1596 k) w kat. 11 – obsługa w zakresie zaopatrzenia 1596 pokładowego statków powietrznych 2) przyznanie uprawnień do wykonywania własnej obsługi 1596 naziemnej na danym lotnisku użytku publicznego za każdą z kategorii określonych w pkt 1 3) czynności związane ze zmianą zezwolenia na obsługę 10 % stawki lub sumy stawek określonych w pkt 1 i 2, naziemną na danym lotnisku użytku publicznego z uwzględnieniem zakresu przyznanych uprawnień 4. W zakresie zezwolenia na prawa sprzedaży:",
+         "text": "w kat. 1 – ogólne usługi administracyjno-gospodarcze 1596 wykonywane w interesie użytkowników",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_1/lit_b",
+         "text": "w kat. 2 – obsługa pasażerów 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_3/pkt_1/lit_c",
+         "text": "w kat. 3 – obsługa bagażu 962",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_1/lit_d",
+         "text": "w kat. 4 – obsługa ładunków (towarów i poczty) 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_3/pkt_1/lit_e",
+         "text": "w kat. 5 – obsługa płytowa statków powietrznych 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_3/pkt_1/lit_f",
+         "text": "w kat. 6 – obsługa kabinowa statków powietrznych 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_3/pkt_1/lit_g",
+         "text": "w kat. 7 – obsługa w zakresie zaopatrzenia statków 9553 powietrznych w paliwo, smary i inne materiały techniczne",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_3/pkt_1/lit_h",
+         "text": "w kat. 8 – obsługa techniczno-administracyjna statków 1596 powietrznych",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "i",
+         "path": "ust_3/pkt_1/lit_i",
+         "text": "w kat. 9 – obsługa operacyjna lotu i administracyjna 1596 załóg statków powietrznych",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "j",
+         "path": "ust_3/pkt_1/lit_j",
+         "text": "w kat. 10 – transport naziemny 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "k",
+         "path": "ust_3/pkt_1/lit_k",
+         "text": "w kat. 11 – obsługa w zakresie zaopatrzenia 1596 pokładowego statków powietrznych",
          "children": []
         }
        ]
       },
       {
        "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "przyznanie uprawnień do wykonywania własnej obsługi 1596 naziemnej na danym lotnisku użytku publicznego za każdą z kategorii określonych w pkt 1",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "czynności związane ze zmianą zezwolenia na obsługę 10 % stawki lub sumy stawek określonych w pkt 1 i 2, naziemną na danym lotnisku użytku publicznego z uwzględnieniem zakresu przyznanych uprawnień 4. W zakresie zezwolenia na prawa sprzedaży:",
+       "children": []
+      },
+      {
+       "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "zezwolenie na prowadzenie przez obcego przewoźnika 9553 lotniczego sprzedaży przewozów lotniczych na terytorium Rzeczypospolitej Polskiej 2) czynności związane ze zmianą zezwolenia na prowadzenie 962 przez obcego przewoźnika lotniczego sprzedaży przewozów lotniczych na terytorium Rzeczypospolitej Polskiej",
+       "text": "zezwolenie na prowadzenie przez obcego przewoźnika 9553 lotniczego sprzedaży przewozów lotniczych na terytorium Rzeczypospolitej Polskiej",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "czynności związane ze zmianą zezwolenia na prowadzenie 962 przez obcego przewoźnika lotniczego sprzedaży przewozów lotniczych na terytorium Rzeczypospolitej Polskiej",
        "children": []
       }
      ]
@@ -132,8 +272,16 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Rozpatrzenie wniosku o wydanie zezwolenia na wykonywanie przez przewoźnika lotniczego z państwa trzeciego przewozów lotniczych do, z lub na terytorium Rzeczypospolitej Polskiej: 1) regularnych (zezwolenie eksploatacyjne) 30 720 2) nieregularnych (10 lub więcej nieregularnych lotów 23 039 handlowych w jednym sezonie rozkładowym – zezwolenie ogólne) 7. Rozpatrzenie wniosku o wydanie zezwolenia pojedynczego na 0 wykonywanie przez przewoźnika lotniczego z państwa trzeciego przewozów lotniczych do, z lub na terytorium Rzeczypospolitej Polskiej",
-     "children": []
+     "text": "Rozpatrzenie wniosku o wydanie zezwolenia na wykonywanie przez przewoźnika lotniczego z państwa trzeciego przewozów lotniczych do, z lub na terytorium Rzeczypospolitej Polskiej: 1) regularnych (zezwolenie eksploatacyjne) 30 720",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "nieregularnych (10 lub więcej nieregularnych lotów 23 039 handlowych w jednym sezonie rozkładowym – zezwolenie ogólne) 7. Rozpatrzenie wniosku o wydanie zezwolenia pojedynczego na 0 wykonywanie przez przewoźnika lotniczego z państwa trzeciego przewozów lotniczych do, z lub na terytorium Rzeczypospolitej Polskiej",
+       "children": []
+      }
+     ]
     },
     {
      "type": "ust",
@@ -145,7 +293,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "B1.1, B1.3, B2, C 483 2) B1.2, B1.4 326 3) pozostałych kategorii lub podkategorii 164 6. Przedłużenie ważności licencji mechanika lotniczego obsługi 326 technicznej Part-66, niezależnie od uprawnień wpisanych do licencji 7. Przywrócenie licencji mechanika lotniczego obsługi technicznej 326 Part-66 bez względu na zakres wpisanych kategorii lub podkategorii",
+       "text": "B1.1, B1.3, B2, C 483",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "B1.2, B1.4 326",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "pozostałych kategorii lub podkategorii 164 6. Przedłużenie ważności licencji mechanika lotniczego obsługi 326 technicznej Part-66, niezależnie od uprawnień wpisanych do licencji 7. Przywrócenie licencji mechanika lotniczego obsługi technicznej 326 Part-66 bez względu na zakres wpisanych kategorii lub podkategorii",
        "children": []
       }
      ]
@@ -160,7 +322,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_8/pkt_1",
-       "text": "za każde uprawnienie 164 2) za typ w każdej kategorii lub podkategorii 164 3) za każdą grupę 164",
+       "text": "za każde uprawnienie 164",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_8/pkt_2",
+       "text": "za typ w każdej kategorii lub podkategorii 164",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_8/pkt_3",
+       "text": "za każdą grupę 164",
        "children": []
       }
      ]
@@ -175,7 +351,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "B1.1, B1.3, B2, C 164 2) B1.2, B1.4 164 3) innych kategorii lub podkategorii 86 10. Wydanie duplikatu licencji mechanika lotniczego obsługi 70 technicznej Part-66 lub wprowadzenie w licencji zmian danych adresowych 11. Zniesienie ograniczenia obsługowego w licencji mechanika 164 lotniczego obsługi technicznej Part-66 12. Konwersja kwalifikacji krajowych do licencji mechanika 164 lotniczego obsługi technicznej Part-66 13. Wydanie świadectwa kwalifikacji mechanika poświadczania 164 obsługi statków powietrznych po raz pierwszy lub jego przywrócenie",
+       "text": "B1.1, B1.3, B2, C 164",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "B1.2, B1.4 164",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "innych kategorii lub podkategorii 86 10. Wydanie duplikatu licencji mechanika lotniczego obsługi 70 technicznej Part-66 lub wprowadzenie w licencji zmian danych adresowych 11. Zniesienie ograniczenia obsługowego w licencji mechanika 164 lotniczego obsługi technicznej Part-66 12. Konwersja kwalifikacji krajowych do licencji mechanika 164 lotniczego obsługi technicznej Part-66 13. Wydanie świadectwa kwalifikacji mechanika poświadczania 164 obsługi statków powietrznych po raz pierwszy lub jego przywrócenie",
        "children": []
       }
      ]
@@ -198,14 +388,42 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_14/pkt_1",
-       "text": "pilota samolotowego rekreacyjnego, pilota samolotowego 99 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego, pilota sterowcowego 2) pilota samolotowego zawodowego, pilota śmigłowcowego 161 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego 3) pilota samolotowego liniowego, pilota śmigłowcowego 318 liniowego, dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego 2. Każde następne wydanie licencji:",
+       "text": "pilota samolotowego rekreacyjnego, pilota samolotowego 99 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego, pilota sterowcowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_14/pkt_2",
+       "text": "pilota samolotowego zawodowego, pilota śmigłowcowego 161 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_14/pkt_3",
+       "text": "pilota samolotowego liniowego, pilota śmigłowcowego 318 liniowego, dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego 2. Każde następne wydanie licencji:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_14/pkt_1",
-       "text": "pilota samolotowego rekreacyjnego, pilota samolotowego 69 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota sterowcowego 2) pilota samolotowego zawodowego, pilota śmigłowcowego 161 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego 3) pilota samolotowego liniowego, pilota śmigłowcowego 241 liniowego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego, dyspozytora lotniczego",
+       "text": "pilota samolotowego rekreacyjnego, pilota samolotowego 69 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota sterowcowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_14/pkt_2",
+       "text": "pilota samolotowego zawodowego, pilota śmigłowcowego 161 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_14/pkt_3",
+       "text": "pilota samolotowego liniowego, pilota śmigłowcowego 241 liniowego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego, dyspozytora lotniczego",
        "children": []
       }
      ]
@@ -220,49 +438,490 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "pilota balonowego rekreacyjnego, pilota balonowego, pilota 69 szybowcowego rekreacyjnego, pilota szybowcowego 2) pilota samolotowego rekreacyjnego, pilota samolotowego 69 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota sterowcowego 3) pilota samolotowego zawodowego, pilota śmigłowcowego 161 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego 4) pilota samolotowego liniowego, pilota śmigłowcowego 318 liniowego, dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego 4. Uznanie licencji wydanej przez właściwy organ obcego państwa: 1) pilota samolotowego rekreacyjnego, pilota samolotowego 161 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego turystycznego, pilota sterowcowego 2) pilota samolotowego zawodowego, pilota śmigłowcowego 1571 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego 3) pilota samolotowego liniowego, pilota śmigłowcowego 2355 liniowego, dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego 5. Wydanie duplikatu licencji, o której mowa w ust. 1, lub 69 wprowadzenie do niej zmian danych adresowych 6. Wydanie świadectwa kwalifikacji po raz pierwszy lub jego przywrócenie dla:",
+       "text": "pilota balonowego rekreacyjnego, pilota balonowego, pilota 69 szybowcowego rekreacyjnego, pilota szybowcowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "pilota samolotowego rekreacyjnego, pilota samolotowego 69 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota sterowcowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "pilota samolotowego zawodowego, pilota śmigłowcowego 161 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "pilota samolotowego liniowego, pilota śmigłowcowego 318 liniowego, dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego 4. Uznanie licencji wydanej przez właściwy organ obcego państwa: 1) pilota samolotowego rekreacyjnego, pilota samolotowego 161 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego turystycznego, pilota sterowcowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "pilota samolotowego zawodowego, pilota śmigłowcowego 1571 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "pilota samolotowego liniowego, pilota śmigłowcowego 2355 liniowego, dyspozytora lotniczego, praktykanta-kontrolera ruchu lotniczego, kontrolera ruchu lotniczego 5. Wydanie duplikatu licencji, o której mowa w ust. 1, lub 69 wprowadzenie do niej zmian danych adresowych 6. Wydanie świadectwa kwalifikacji po raz pierwszy lub jego przywrócenie dla:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "pilota lotni, pilota paralotni, pilota motolotni, pilota statku 69 powietrznego o maksymalnej masie startowej (MTOM) do 495 kg, skoczka spadochronowego, operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe 2) informatora służby informacji powietrznej lub informatora 69 lotniskowej służby informacji powietrznej 7. Każde następne wydanie świadectwa kwalifikacji dla:",
+       "text": "pilota lotni, pilota paralotni, pilota motolotni, pilota statku 69 powietrznego o maksymalnej masie startowej (MTOM) do 495 kg, skoczka spadochronowego, operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "informatora służby informacji powietrznej lub informatora 69 lotniskowej służby informacji powietrznej 7. Każde następne wydanie świadectwa kwalifikacji dla:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "pilota lotni, pilota paralotni, pilota motolotni, pilota statku 69 powietrznego o maksymalnej masie startowej (MTOM) do 495 kg, skoczka spadochronowego, operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe 2) informatora służby informacji powietrznej lub informatora 69 lotniskowej służby informacji powietrznej 8. Wpisanie nowego uprawnienia do świadectwa kwalifikacji, za 65 każde uzyskane uprawnienie, wznowienie ważności uprawnienia, przywrócenie ważności uprawnienia 9. Uznanie świadectwa kwalifikacji wydanego przez właściwy 161 organ obcego państwa 10. Wydanie duplikatu świadectwa kwalifikacji lub wprowadzenie 69 do niego zmian danych adresowych Część III Certyfikaty, świadectwa, zaświadczenia i inne dokumenty 3.1. Certyfikacja podmiotów w zakresie szkolenia lotniczego Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu ATO Opłata podstawowa lub CTO po raz pierwszy lub wznowienie ważności certyfikatu 664 CTO nieważnego dłużej niż 12 miesięcy w zakresie: zwiększona o opłatę za poszczególne wskazane specjalności 1) pilot samolotowy rekreacyjny 220 2) pilot samolotowy turystyczny 225 3) pilot samolotowy zawodowy 443 4) pilot samolotowy liniowy 1101 5) pilot śmigłowcowy rekreacyjny 220 6) pilot śmigłowcowy turystyczny 225 7) pilot śmigłowcowy zawodowy 443 8) pilot śmigłowcowy liniowy 1101 9) pilot wiatrakowcowy turystyczny 225 10) pilot wiatrakowcowy zawodowy 664 11) pilot sterowcowy turystyczny 225 12) pilot sterowcowy zawodowy 443 13) pilot balonowy rekreacyjny 220 14) pilot balonowy 225 15) pilot szybowcowy rekreacyjny 220 16) pilot szybowcowy 225 17) nawigator lotniczy 443 18) mechanik pokładowy 443 19) pilot ultralekkiego statku powietrznego 225 20) pilot wiatrakowca ultralekkiego 225 21) pilot motolotni 225 22) instruktor 443 2. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu Opłata podstawowa CTO, ATCO TO lub FISP TO w zakresie wymaganym dla 443 uzyskania licencji lotniczej lub wznowienie ważności certyfikatu zwiększona o opłatę za poszczególne specyfikacje nieważnego dłużej niż 12 miesięcy w zakresie:",
+       "text": "pilota lotni, pilota paralotni, pilota motolotni, pilota statku 69 powietrznego o maksymalnej masie startowej (MTOM) do 495 kg, skoczka spadochronowego, operatora bezzałogowego statku powietrznego używanego w celach innych niż rekreacyjne lub sportowe",
        "children": []
       },
       {
        "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "kontroler ruchu lotniczego 1101 2) dyspozytor lotniczy 664 3) informator służby informacji powietrznej 664 4) praktykant-kontroler ruchu lotniczego 1101 3. Przeprowadzenie procesu certyfikacji na rozszerzenie zakresu Opłata podstawowa certyfikatu ATO, CTO, ATCO TO lub FISP TO i wydanie 241 nowego certyfikatu w zakresie: zwiększona o opłatę za poszczególne wskazane specjalności 1) pilot samolotowy rekreacyjny 161 2) pilot samolotowy turystyczny 161 3) pilot samolotowy zawodowy 398 4) pilot samolotowy liniowy 788 5) pilot śmigłowcowy rekreacyjny 161 6) pilot śmigłowcowy turystyczny 161 7) pilot śmigłowcowy zawodowy 398 8) pilot śmigłowcowy liniowy 788 9) pilot wiatrakowcowy turystyczny 161 10) pilot wiatrakowcowy zawodowy 631 11) pilot sterowcowy turystyczny 161 12) pilot sterowcowy zawodowy 398 13) pilot balonowy rekreacyjny 161 14) pilot balonowy 161",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "informatora służby informacji powietrznej lub informatora 69 lotniskowej służby informacji powietrznej 8. Wpisanie nowego uprawnienia do świadectwa kwalifikacji, za 65 każde uzyskane uprawnienie, wznowienie ważności uprawnienia, przywrócenie ważności uprawnienia 9. Uznanie świadectwa kwalifikacji wydanego przez właściwy 161 organ obcego państwa 10. Wydanie duplikatu świadectwa kwalifikacji lub wprowadzenie 69 do niego zmian danych adresowych Część III Certyfikaty, świadectwa, zaświadczenia i inne dokumenty 3.1. Certyfikacja podmiotów w zakresie szkolenia lotniczego Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu ATO Opłata podstawowa lub CTO po raz pierwszy lub wznowienie ważności certyfikatu 664 CTO nieważnego dłużej niż 12 miesięcy w zakresie: zwiększona o opłatę za poszczególne wskazane specjalności 1) pilot samolotowy rekreacyjny 220",
        "children": []
       },
       {
        "type": "pkt",
-       "num": "15",
-       "path": "ust_3/pkt_15",
-       "text": "pilot szybowcowy rekreacyjny 161 16) pilot szybowcowy 161 17) nawigator lotniczy 241 18) mechanik pokładowy 241 19) kontroler ruchu lotniczego 1426 20) dyspozytor lotniczy 788 21) informator służby informacji powietrznej 631 22) praktykant-kontroler ruchu lotniczego 1025 23) pilot ultralekkiego statku powietrznego 161 24) pilot wiatrakowca ultralekkiego 161 25) pilot motolotni 161 26) instruktor 318 27) informator lotniskowej służby informacji powietrznej 631 4. Przeprowadzenie procesu uznania certyfikatu organizacji Opłata podstawowa szkoleniowej lotniczej albo dokumentu równoważnego 7836 wydanego przez inne państwo na podstawie wymagań ICAO zwiększona o opłatę za poszczególne specjalności w zakresie:",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "pilot samolotowy turystyczny 225",
        "children": []
       },
       {
        "type": "pkt",
-       "num": "1",
-       "path": "ust_3/pkt_1",
-       "text": "pilota paralotni, pilota lotni, uprawnienia na klasę 161 samolotów jednosilnikowych, uprawnienia do za każdą wskazaną specjalność lub uprawnienie wykonywania lotów nocnych VFR, uprawnienia na motoszybowiec, uprawnienia na klasę balonu, uprawnienia do wykonywania lotów z napędem, uprawnienia do wykonywania lotów na motoparalotni 2) pilota samolotowego, pilota sterowcowego, pilota 318 ultralekkiego statku powietrznego, pilota śmigłowca za każdą wskazaną specjalność o maksymalnej masie startowej (MTOM) nie większej niż 600 kg, pilota wiatrakowca ultralekkiego, pilota motolotni, pilota balonu wolnego, pilota szybowcowego 3) uprawnienia do lotów z pasażerem, uprawnienia do 475 zarobkowego wykonywania czynności dowódcy balonu za każde wskazane uprawnienie wolnego na gaz, uprawnienia do zarobkowego wykonywania czynności dowódcy balonu wolnego na ogrzane powietrze 4) specjalności nawigatora lotniczego, mechanika 631 pokładowego, radiooperatora pokładowego, uprawnienia na za każdą wskazaną specjalność lub uprawnienie klasę samolotów wielosilnikowych 5) specjalności instruktora 788 za każde wskazane uprawnienie",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "pilot samolotowy zawodowy 443",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "pilot samolotowy liniowy 1101",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "pilot śmigłowcowy rekreacyjny 220",
        "children": []
       },
       {
        "type": "pkt",
        "num": "6",
        "path": "ust_3/pkt_6",
-       "text": "uprawnienia do lotów IFR, uprawnienia pilota 1101 doświadczalnego za każde wskazane uprawnienie 7) specjalności pilota zawodowego, uprawnienia na typ 1259 samolotu z załogą jednoosobową (wpisywany do licencji), za każdą wskazaną specjalność lub uprawnienie uprawnienia na typ śmigłowca jednosilnikowy z załogą jednoosobową 8) specjalności pilota liniowego, informatora służby informacji 2355 powietrznej, informatora lotniskowej służby informacji za każdą specjalność lub uprawnienie powietrznej, dyspozytora lotniczego, uprawnienia na typ śmigłowca wielosilnikowy z załogą jednoosobową 9) specjalności praktykanta-kontrolera ruchu lotniczego 3136 i kontrolera ruchu lotniczego 10) uprawnienia na typ samolotu z załogą wieloosobową, 4702 uprawnienia na typ śmigłowca z załogą wieloosobową za każdą specjalność lub uprawnienie",
+       "text": "pilot śmigłowcowy turystyczny 225",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "pilot śmigłowcowy zawodowy 443",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "pilot śmigłowcowy liniowy 1101",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_3/pkt_9",
+       "text": "pilot wiatrakowcowy turystyczny 225",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_3/pkt_10",
+       "text": "pilot wiatrakowcowy zawodowy 664",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_3/pkt_11",
+       "text": "pilot sterowcowy turystyczny 225",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_3/pkt_12",
+       "text": "pilot sterowcowy zawodowy 443",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_3/pkt_13",
+       "text": "pilot balonowy rekreacyjny 220",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_3/pkt_14",
+       "text": "pilot balonowy 225",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_3/pkt_15",
+       "text": "pilot szybowcowy rekreacyjny 220",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_3/pkt_16",
+       "text": "pilot szybowcowy 225",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_3/pkt_17",
+       "text": "nawigator lotniczy 443",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_3/pkt_18",
+       "text": "mechanik pokładowy 443",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "ust_3/pkt_19",
+       "text": "pilot ultralekkiego statku powietrznego 225",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_3/pkt_20",
+       "text": "pilot wiatrakowca ultralekkiego 225",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "ust_3/pkt_21",
+       "text": "pilot motolotni 225",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "ust_3/pkt_22",
+       "text": "instruktor 443 2. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu Opłata podstawowa CTO, ATCO TO lub FISP TO w zakresie wymaganym dla 443 uzyskania licencji lotniczej lub wznowienie ważności certyfikatu zwiększona o opłatę za poszczególne specyfikacje nieważnego dłużej niż 12 miesięcy w zakresie:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "kontroler ruchu lotniczego 1101",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "dyspozytor lotniczy 664",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "informator służby informacji powietrznej 664",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "praktykant-kontroler ruchu lotniczego 1101 3. Przeprowadzenie procesu certyfikacji na rozszerzenie zakresu Opłata podstawowa certyfikatu ATO, CTO, ATCO TO lub FISP TO i wydanie 241 nowego certyfikatu w zakresie: zwiększona o opłatę za poszczególne wskazane specjalności 1) pilot samolotowy rekreacyjny 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "pilot samolotowy turystyczny 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "pilot samolotowy zawodowy 398",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "pilot samolotowy liniowy 788",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "pilot śmigłowcowy rekreacyjny 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "pilot śmigłowcowy turystyczny 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_3/pkt_7",
+       "text": "pilot śmigłowcowy zawodowy 398",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "pilot śmigłowcowy liniowy 788",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_3/pkt_9",
+       "text": "pilot wiatrakowcowy turystyczny 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_3/pkt_10",
+       "text": "pilot wiatrakowcowy zawodowy 631",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_3/pkt_11",
+       "text": "pilot sterowcowy turystyczny 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_3/pkt_12",
+       "text": "pilot sterowcowy zawodowy 398",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_3/pkt_13",
+       "text": "pilot balonowy rekreacyjny 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_3/pkt_14",
+       "text": "pilot balonowy 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_3/pkt_15",
+       "text": "pilot szybowcowy rekreacyjny 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_3/pkt_16",
+       "text": "pilot szybowcowy 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_3/pkt_17",
+       "text": "nawigator lotniczy 241",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_3/pkt_18",
+       "text": "mechanik pokładowy 241",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "ust_3/pkt_19",
+       "text": "kontroler ruchu lotniczego 1426",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_3/pkt_20",
+       "text": "dyspozytor lotniczy 788",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "ust_3/pkt_21",
+       "text": "informator służby informacji powietrznej 631",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "22",
+       "path": "ust_3/pkt_22",
+       "text": "praktykant-kontroler ruchu lotniczego 1025",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "23",
+       "path": "ust_3/pkt_23",
+       "text": "pilot ultralekkiego statku powietrznego 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "24",
+       "path": "ust_3/pkt_24",
+       "text": "pilot wiatrakowca ultralekkiego 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "25",
+       "path": "ust_3/pkt_25",
+       "text": "pilot motolotni 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "26",
+       "path": "ust_3/pkt_26",
+       "text": "instruktor 318",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "27",
+       "path": "ust_3/pkt_27",
+       "text": "informator lotniskowej służby informacji powietrznej 631 4. Przeprowadzenie procesu uznania certyfikatu organizacji Opłata podstawowa szkoleniowej lotniczej albo dokumentu równoważnego 7836 wydanego przez inne państwo na podstawie wymagań ICAO zwiększona o opłatę za poszczególne specjalności w zakresie:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_3/pkt_1",
+       "text": "pilota paralotni, pilota lotni, uprawnienia na klasę 161 samolotów jednosilnikowych, uprawnienia do za każdą wskazaną specjalność lub uprawnienie wykonywania lotów nocnych VFR, uprawnienia na motoszybowiec, uprawnienia na klasę balonu, uprawnienia do wykonywania lotów z napędem, uprawnienia do wykonywania lotów na motoparalotni",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "pilota samolotowego, pilota sterowcowego, pilota 318 ultralekkiego statku powietrznego, pilota śmigłowca za każdą wskazaną specjalność o maksymalnej masie startowej (MTOM) nie większej niż 600 kg, pilota wiatrakowca ultralekkiego, pilota motolotni, pilota balonu wolnego, pilota szybowcowego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "uprawnienia do lotów z pasażerem, uprawnienia do 475 zarobkowego wykonywania czynności dowódcy balonu za każde wskazane uprawnienie wolnego na gaz, uprawnienia do zarobkowego wykonywania czynności dowódcy balonu wolnego na ogrzane powietrze",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "specjalności nawigatora lotniczego, mechanika 631 pokładowego, radiooperatora pokładowego, uprawnienia na za każdą wskazaną specjalność lub uprawnienie klasę samolotów wielosilnikowych",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_3/pkt_5",
+       "text": "specjalności instruktora 788 za każde wskazane uprawnienie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_3/pkt_6",
+       "text": "uprawnienia do lotów IFR, uprawnienia pilota 1101 doświadczalnego za każde wskazane uprawnienie 7) specjalności pilota zawodowego, uprawnienia na typ 1259 samolotu z załogą jednoosobową (wpisywany do licencji), za każdą wskazaną specjalność lub uprawnienie uprawnienia na typ śmigłowca jednosilnikowy z załogą jednoosobową",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_3/pkt_8",
+       "text": "specjalności pilota liniowego, informatora służby informacji 2355 powietrznej, informatora lotniskowej służby informacji za każdą specjalność lub uprawnienie powietrznej, dyspozytora lotniczego, uprawnienia na typ śmigłowca wielosilnikowy z załogą jednoosobową",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_3/pkt_9",
+       "text": "specjalności praktykanta-kontrolera ruchu lotniczego 3136 i kontrolera ruchu lotniczego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_3/pkt_10",
+       "text": "uprawnienia na typ samolotu z załogą wieloosobową, 4702 uprawnienia na typ śmigłowca z załogą wieloosobową za każdą specjalność lub uprawnienie",
        "children": []
       }
      ]
@@ -277,7 +936,28 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "BITD 788 2) FNPT 788 3) FTD 1259 4) FFS 1259",
+       "text": "BITD 788",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "FNPT 788",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "FTD 1259",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_5/pkt_4",
+       "text": "FFS 1259",
        "children": []
       }
      ]
@@ -292,7 +972,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_6/pkt_1",
-       "text": "B1.1, B1.3, B2 1101 2) B1.2, B1.4 944 3) inne kategorie lub podkategorie 788",
+       "text": "B1.1, B1.3, B2 1101",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "B1.2, B1.4 944",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_6/pkt_3",
+       "text": "inne kategorie lub podkategorie 788",
        "children": []
       }
      ]
@@ -307,7 +1001,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_9/pkt_1",
-       "text": "B1.1, B1.3, B2 554 2) B1.2, B1.4 475 3) inne kategorie lub podkategorie 398",
+       "text": "B1.1, B1.3, B2 554",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_9/pkt_2",
+       "text": "B1.2, B1.4 475",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_9/pkt_3",
+       "text": "inne kategorie lub podkategorie 398",
        "children": []
       }
      ]
@@ -322,7 +1030,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "B1.2, B1.4 952 2) innych kategoriach 788",
+       "text": "B1.2, B1.4 952",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "innych kategoriach 788",
        "children": []
       }
      ]
@@ -337,7 +1052,28 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_11/pkt_1",
-       "text": "statek powietrzny jako całość 788 2) płatowiec 398 3) silnik 398 4) awionikę 398",
+       "text": "statek powietrzny jako całość 788",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_11/pkt_2",
+       "text": "płatowiec 398",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_11/pkt_3",
+       "text": "silnik 398",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_11/pkt_4",
+       "text": "awionikę 398",
        "children": [
         {
          "type": "text",
@@ -431,33 +1167,47 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "lotni, motolotni, paralotni, balonów, spadochronów 86 2) szybowców, motoszybowców, statków powietrznych 118 kategorii specjalnej 3) samolotów i śmigłowców o maksymalnej masie startowej (MTOM):",
+       "text": "lotni, motolotni, paralotni, balonów, spadochronów 86",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "szybowców, motoszybowców, statków powietrznych 118 kategorii specjalnej",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "samolotów i śmigłowców o maksymalnej masie startowej (MTOM):",
        "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_3/pkt_1/lit_a",
+         "path": "ust_3/pkt_3/lit_a",
          "text": "do 1000 kg 164",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_3/pkt_1/lit_b",
+         "path": "ust_3/pkt_3/lit_b",
          "text": "od 1000 kg do 5700 kg 483",
          "children": []
         },
         {
          "type": "lit",
          "num": "c",
-         "path": "ust_3/pkt_1/lit_c",
+         "path": "ust_3/pkt_3/lit_c",
          "text": "od 5700 kg do 20 000 kg 1278",
          "children": []
         },
         {
          "type": "lit",
          "num": "d",
-         "path": "ust_3/pkt_1/lit_d",
+         "path": "ust_3/pkt_3/lit_d",
          "text": "powyżej 20 000 kg 3187 4. Wydanie duplikatu lub wymiana świadectwa rejestracji lub 53 świadectwa ewidencji dokonana na wniosek jego posiadacza 5. Wydanie zaświadczenia o wykreśleniu statku powietrznego 86 z rejestru lub ewidencji albo wydanie zaświadczenia o niewpisaniu statku powietrznego do rejestru lub ewidencji",
          "children": []
         }
@@ -499,28 +1249,178 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_1/lit_a",
-         "text": "do 1000 kg (w tym ultralekkie) 2394 b) od 1000 kg do 5700 kg 5098 c) od 5700 kg do 20 000 kg 12 739 d) powyżej 20 000 kg 28 652 2) wiropłatów jak dla samolotów 3) sterowców 6372 4) motoszybowców 2394 5) szybowców 1596 6) balonów załogowych 1596 7) statków powietrznych kategorii specjalnej 802–4777 8) spadochronów 802 9) silników lotniczych o maksymalnej mocy startowej lub dopuszczalnym ciągu:",
+         "text": "do 1000 kg (w tym ultralekkie) 2394",
          "children": []
         },
         {
          "type": "lit",
-         "num": "a",
-         "path": "ust_10/pkt_1/lit_a",
-         "text": "do 75 kW 1278 b) od 75 kW do 375 kW lub 10 000 N 1916 c) od 375 kW do 750 kW lub od 10 000 N do 50 000 N 5575 d) powyżej 750 kW lub 50 000 N 12 739 10) silników do motoszybowców, samolotów ultralekkich lub 483 motolotni 11) śmigieł:",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "od 1000 kg do 5700 kg 5098",
          "children": []
         },
         {
          "type": "lit",
-         "num": "a",
-         "path": "ust_10/pkt_1/lit_a",
-         "text": "o skoku stałym lub nastawnym na ziemi 962 b) o skoku zmiennym 3187 12) motolotni 642 13) lotni 132 14) paralotni 101 15) wydanie uzupełniającego certyfikatu typu (STC) dla samolotów i wiropłatów o maksymalnej masie startowej (MTOM):",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "od 5700 kg do 20 000 kg 12 739",
          "children": []
         },
         {
          "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "powyżej 20 000 kg 28 652 2) wiropłatów jak dla samolotów",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "sterowców 6372",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_10/pkt_4",
+       "text": "motoszybowców 2394",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_10/pkt_5",
+       "text": "szybowców 1596",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_10/pkt_6",
+       "text": "balonów załogowych 1596",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_10/pkt_7",
+       "text": "statków powietrznych kategorii specjalnej 802–4777",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_10/pkt_8",
+       "text": "spadochronów 802",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_10/pkt_9",
+       "text": "silników lotniczych o maksymalnej mocy startowej lub dopuszczalnym ciągu:",
+       "children": [
+        {
+         "type": "lit",
          "num": "a",
-         "path": "ust_10/pkt_1/lit_a",
-         "text": "do 1000 kg (w tym ultralekkie) 483 b) od 1000 kg do 5700 kg 1596 c) od 5700 kg do 20 000 kg 3187 d) powyżej 20 000 kg 7963 2. Przeprowadzenie procesu certyfikacji i wydanie orzeczenia typu dla następującego sprzętu lotniczego:",
+         "path": "ust_10/pkt_9/lit_a",
+         "text": "do 75 kW 1278",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_9/lit_b",
+         "text": "od 75 kW do 375 kW lub 10 000 N 1916",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_9/lit_c",
+         "text": "od 375 kW do 750 kW lub od 10 000 N do 50 000 N 5575",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_9/lit_d",
+         "text": "powyżej 750 kW lub 50 000 N 12 739 10) silników do motoszybowców, samolotów ultralekkich lub 483 motolotni",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_10/pkt_11",
+       "text": "śmigieł:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_11/lit_a",
+         "text": "o skoku stałym lub nastawnym na ziemi 962",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_11/lit_b",
+         "text": "o skoku zmiennym 3187 12) motolotni 642",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_10/pkt_13",
+       "text": "lotni 132",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_10/pkt_14",
+       "text": "paralotni 101",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_10/pkt_15",
+       "text": "wydanie uzupełniającego certyfikatu typu (STC) dla samolotów i wiropłatów o maksymalnej masie startowej (MTOM):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_10/pkt_15/lit_a",
+         "text": "do 1000 kg (w tym ultralekkie) 483",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_15/lit_b",
+         "text": "od 1000 kg do 5700 kg 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_15/lit_c",
+         "text": "od 5700 kg do 20 000 kg 3187",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_15/lit_d",
+         "text": "powyżej 20 000 kg 7963 2. Przeprowadzenie procesu certyfikacji i wydanie orzeczenia typu dla następującego sprzętu lotniczego:",
          "children": []
         }
        ]
@@ -529,7 +1429,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "urządzenia ratownicze dla konstrukcji ultralekkich, lotni, 326–962 motolotni i paralotni 2) zaczepy do holowania szybowców i transparentów 164 3) uprzęże do lotni i paralotni 101 3. Zmiany i uzupełnienia certyfikacji sprzętu lotniczego 50 % stawki określonej w ust. 1 lub 2",
+       "text": "urządzenia ratownicze dla konstrukcji ultralekkich, lotni, 326–962 motolotni i paralotni",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "zaczepy do holowania szybowców i transparentów 164",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "uprzęże do lotni i paralotni 101 3. Zmiany i uzupełnienia certyfikacji sprzętu lotniczego 50 % stawki określonej w ust. 1 lub 2",
        "children": []
       }
      ]
@@ -550,14 +1464,49 @@
          "type": "lit",
          "num": "a",
          "path": "ust_4/pkt_1/lit_a",
-         "text": "samolotów i śmigłowców o maksymalnej masie startowej (MTOM): − do 1000 kg (w tym ultralekkie) 483 − od 1000 kg do 5700 kg 802 − od 5700 kg do 20 000 kg 3187 − powyżej 20 000 kg 12 739 b) motoszybowców i szybowców 326 c) sterowców i balonów załogowych 802 d) statków powietrznych kategorii specjalnej 86–1278 e) spadochronów 86 f) motolotni, lotni i paralotni 86 3) instrukcji obsługi technicznej dla:",
+         "text": "samolotów i śmigłowców o maksymalnej masie startowej (MTOM): − do 1000 kg (w tym ultralekkie) 483 − od 1000 kg do 5700 kg 802 − od 5700 kg do 20 000 kg 3187 − powyżej 20 000 kg 12 739 b) motoszybowców i szybowców 326",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_1/lit_c",
+         "text": "sterowców i balonów załogowych 802",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_4/pkt_1/lit_d",
+         "text": "statków powietrznych kategorii specjalnej 86–1278",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_4/pkt_1/lit_e",
+         "text": "spadochronów 86",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "ust_4/pkt_1/lit_f",
+         "text": "motolotni, lotni i paralotni 86 3) instrukcji obsługi technicznej dla:",
          "children": []
         },
         {
          "type": "lit",
          "num": "a",
          "path": "ust_4/pkt_1/lit_a",
-         "text": "samolotów i śmigłowców o maksymalnej masie startowej (MTOM): − do 1000 kg (w tym ultralekkie) 326 − od 1000 kg do 5700 kg 802 − od 5700 kg do 20 000 kg 1596 − powyżej 20 000 kg 4777 b) pozostałych statków powietrznych i silników 164 4) głównego wykazu wyposażenia minimalnego (MMEL) dla statków powietrznych o maksymalnej masie startowej (MTOM): a) do 5700 kg 802 b) powyżej 5700 kg 1596 5. Zmiany w dokumentacji technicznej 50 % stawki określonej w ust. 4 6. Szczególne przypadki certyfikacji:",
+         "text": "samolotów i śmigłowców o maksymalnej masie startowej (MTOM): − do 1000 kg (w tym ultralekkie) 326 − od 1000 kg do 5700 kg 802 − od 5700 kg do 20 000 kg 1596 − powyżej 20 000 kg 4777 b) pozostałych statków powietrznych i silników 164 4) głównego wykazu wyposażenia minimalnego (MMEL) dla statków powietrznych o maksymalnej masie startowej (MTOM): a) do 5700 kg 802",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_1/lit_b",
+         "text": "powyżej 5700 kg 1596 5. Zmiany w dokumentacji technicznej 50 % stawki określonej w ust. 4 6. Szczególne przypadki certyfikacji:",
          "children": []
         }
        ]
@@ -579,13 +1528,20 @@
          "type": "lit",
          "num": "a",
          "path": "ust_4/pkt_1/lit_a",
-         "text": "samolotów i wiropłatów o maksymalnej masie startowej (MTOM): − do 5700 kg 802 − powyżej 5700 kg 3187 b) pozostałych rodzajów statków powietrznych 483 3) wydanie świadectwa zgodności z normą hałasu, wibracji 483 oraz zanieczyszczenia ziemi, wody i powietrza dla importowanych statków powietrznych 4) certyfikacja statków powietrznych bezpilotowych, 4777 wszystkich rodzajów 3.4. Zdatność do lotu statków powietrznych",
-         "children": [
-          {
-           "type": "text",
-           "text": "Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie procesu oceny zdatności do lotu statku powietrznego i wydanie świadectwa zdatności do lotu lub dokumentu równoważnego po raz pierwszy dla:"
-          }
-         ]
+         "text": "samolotów i wiropłatów o maksymalnej masie startowej (MTOM): − do 5700 kg 802 − powyżej 5700 kg 3187 b) pozostałych rodzajów statków powietrznych 483 3) wydanie świadectwa zgodności z normą hałasu, wibracji 483 oraz zanieczyszczenia ziemi, wody i powietrza dla importowanych statków powietrznych",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "certyfikacja statków powietrznych bezpilotowych, 4777 wszystkich rodzajów 3.4. Zdatność do lotu statków powietrznych",
+       "children": [
+        {
+         "type": "text",
+         "text": "Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie procesu oceny zdatności do lotu statku powietrznego i wydanie świadectwa zdatności do lotu lub dokumentu równoważnego po raz pierwszy dla:"
         }
        ]
       },
@@ -599,10 +1555,66 @@
          "type": "lit",
          "num": "a",
          "path": "ust_4/pkt_1/lit_a",
-         "text": "do 1000 kg (w tym ultralekkie) 483 b) od 1000 kg do 2730 kg 1437 c) od 2730 kg do 20 000 kg 4777 d) powyżej 20 000 kg 15 922 2) sterowców i bezpilotowych 642 3) szybowców 199 4) motoszybowców 407 5) balonów załogowych 407 6) spadochronów osobowych 199 7) spadochronów ratunkowych 326 2. Przedłużanie i odnawianie świadectw zdatności do lotu lub 75 % opłaty określonej w ust. 1 dokumentu równoważnego dla statków powietrznych, wykonanie przeglądu zdatności do lotu i wydanie poświadczenia ARC 3. Wydanie poświadczenia ARC w oparciu o rekomendację 10 % opłaty określonej w ust. 1 organizacji CAMO (wg Part-M/G z przywilejem M.A.711(b)) – obejmuje to kontrole Prezesa Urzędu Lotnictwa Cywilnego, zatwierdzanie wszelkiego typu dokumentacji i ich zmian 4. Wystawienie eksportowego świadectwa zdatności do lotu statku powietrznego lub dokumentu równoważnego dla elementu wyposażenia:",
+         "text": "do 1000 kg (w tym ultralekkie) 483",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_1/lit_b",
+         "text": "od 1000 kg do 2730 kg 1437",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_1/lit_c",
+         "text": "od 2730 kg do 20 000 kg 4777",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_4/pkt_1/lit_d",
+         "text": "powyżej 20 000 kg 15 922 2) sterowców i bezpilotowych 642",
          "children": []
         }
        ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "szybowców 199",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "motoszybowców 407",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "balonów załogowych 407",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_4/pkt_6",
+       "text": "spadochronów osobowych 199",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_4/pkt_7",
+       "text": "spadochronów ratunkowych 326 2. Przedłużanie i odnawianie świadectw zdatności do lotu lub 75 % opłaty określonej w ust. 1 dokumentu równoważnego dla statków powietrznych, wykonanie przeglądu zdatności do lotu i wydanie poświadczenia ARC 3. Wydanie poświadczenia ARC w oparciu o rekomendację 10 % opłaty określonej w ust. 1 organizacji CAMO (wg Part-M/G z przywilejem M.A.711(b)) – obejmuje to kontrole Prezesa Urzędu Lotnictwa Cywilnego, zatwierdzanie wszelkiego typu dokumentacji i ich zmian 4. Wystawienie eksportowego świadectwa zdatności do lotu statku powietrznego lub dokumentu równoważnego dla elementu wyposażenia:",
+       "children": []
       },
       {
        "type": "pkt",
@@ -614,10 +1626,66 @@
          "type": "lit",
          "num": "a",
          "path": "ust_4/pkt_1/lit_a",
-         "text": "do 2730 kg 164 b) od 2730 kg do 5700 kg 483 c) od 5700 kg do 20 000 kg 783 d) powyżej 20 000 kg 2394 2) sterowce 326 3) motoszybowce 164 4) szybowce 86 5) balony załogowe 86 6) spadochrony osobowe 53 7) spadochrony ratunkowe 132 5. Wystawienie świadectw oględzin dla statków powietrznych będących w próbach:",
+         "text": "do 2730 kg 164",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_1/lit_b",
+         "text": "od 2730 kg do 5700 kg 483",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_1/lit_c",
+         "text": "od 5700 kg do 20 000 kg 783",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_4/pkt_1/lit_d",
+         "text": "powyżej 20 000 kg 2394 2) sterowce 326",
          "children": []
         }
        ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "motoszybowce 164",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "szybowce 86",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_4/pkt_5",
+       "text": "balony załogowe 86",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_4/pkt_6",
+       "text": "spadochrony osobowe 53",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_4/pkt_7",
+       "text": "spadochrony ratunkowe 132 5. Wystawienie świadectw oględzin dla statków powietrznych będących w próbach:",
+       "children": []
       },
       {
        "type": "pkt",
@@ -629,10 +1697,45 @@
          "type": "lit",
          "num": "a",
          "path": "ust_4/pkt_1/lit_a",
-         "text": "do 1000 kg (w tym ultralekkie) 326 b) od 1000 kg do 5700 kg 483 c) od 5700 kg do 20 000 kg 1118 d) powyżej 20 000 kg 3187 2) szybowce 85 3) motoszybowce 164 4) inne (w szczególności sterowce, balony) 326 6. Wydanie duplikatu dokumentów, o których mowa w ust. 1–5 i 7 85",
+         "text": "do 1000 kg (w tym ultralekkie) 326",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_1/lit_b",
+         "text": "od 1000 kg do 5700 kg 483",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_1/lit_c",
+         "text": "od 5700 kg do 20 000 kg 1118",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_4/pkt_1/lit_d",
+         "text": "powyżej 20 000 kg 3187 2) szybowce 85",
          "children": []
         }
        ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "motoszybowce 164",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_4/pkt_4",
+       "text": "inne (w szczególności sterowce, balony) 326 6. Wydanie duplikatu dokumentów, o których mowa w ust. 1–5 i 7 85",
+       "children": []
       }
      ]
     },
@@ -646,7 +1749,28 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_7/pkt_1",
-       "text": "do 1000 kg 151 2) od 1000 kg do 5700 kg 443 3) od 5700 kg do 20 000 kg 1471 4) powyżej 20 000 kg 4406 8. Zatwierdzenie personelu przeglądu zdatności do lotu statku 443 powietrznego wykonującego przeglądy zdatności do lotu na podstawie pkt M.A.901 (g) rozporządzenia Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm.[^2])",
+       "text": "do 1000 kg 151",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_7/pkt_2",
+       "text": "od 1000 kg do 5700 kg 443",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_7/pkt_3",
+       "text": "od 5700 kg do 20 000 kg 1471",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_7/pkt_4",
+       "text": "powyżej 20 000 kg 4406 8. Zatwierdzenie personelu przeglądu zdatności do lotu statku 443 powietrznego wykonującego przeglądy zdatności do lotu na podstawie pkt M.A.901 (g) rozporządzenia Komisji (UE) nr 1321/2014 z dnia 26 listopada 2014 r. w sprawie ciągłej zdatności do lotu statków powietrznych oraz wyrobów lotniczych, części i wyposażenia, a także w sprawie zatwierdzeń udzielanych organizacjom i personelowi zaangażowanym w takie zadania (Dz. Urz. UE L 362 z 17.12.2014, str. 1, z późn. zm.[^2])",
        "children": [
         {
          "type": "text",
@@ -712,8 +1836,43 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "spełniającej wymagania PART-145[^3] a) w klasie statki powietrzne A1 A2 A3 A4 4777 2394 2394 175 8 b) w klasie silniki B1 B2 B3 3589 1758 1198 c) w klasie podzespoły 723 za każdą kategorię d) w klasie badania nieniszczące 723 2) spełniającej wymagania PART M/F[^3] a) w klasie statki powietrzne A1 A2 A3 A4 1758 1758 119 8 b) w klasie silniki B1 B2 B3 2394 1198 723 c) w klasie podzespoły 483 za każdą kategorię d) w klasie badania nieniszczące 483 3) spełniającej wymagania PL-6[^3] a) w klasie statki powietrzne A1 A2 A3 A4 1198 1198 723 b) w klasie silniki B1 B2 B3 1437 802 483 c) w klasie podzespoły 326 za każdą kategorię",
+       "text": "spełniającej wymagania PART-145[^3]",
        "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_1/lit_a",
+         "text": "w klasie statki powietrzne A1 A2 A3 A4 4777 2394 2394 175 8 b) w klasie silniki B1 B2 B3 3589 1758 1198 c) w klasie podzespoły 723 za każdą kategorię",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_1/lit_d",
+         "text": "w klasie badania nieniszczące 723 2) spełniającej wymagania PART M/F[^3]",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_1/lit_a",
+         "text": "w klasie statki powietrzne A1 A2 A3 A4 1758 1758 119 8 b) w klasie silniki B1 B2 B3 2394 1198 723 c) w klasie podzespoły 483 za każdą kategorię",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_3/pkt_1/lit_d",
+         "text": "w klasie badania nieniszczące 483 3) spełniającej wymagania PL-6[^3]",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "ust_3/pkt_1/lit_a",
+         "text": "w klasie statki powietrzne A1 A2 A3 A4 1198 1198 723 b) w klasie silniki B1 B2 B3 1437 802 483 c) w klasie podzespoły 326 za każdą kategorię",
+         "children": []
+        },
         {
          "type": "lit",
          "num": "d",
@@ -727,7 +1886,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "spełniającej wymagania PART M/G w zakresie uprawnień A1 A2 A3 A4 określonych w pkt M.A.711(a) 4777 2394 2394 802 2) spełniającej wymagania PART M/G w zakresie uprawnień 3187 1596 1118 642 określonych w pkt M.A.711(b) 3) spełniającej wymagania PART M/G w zakresie uprawnień 2394 1118 802 407 określonych w pkt M.A.711(c) 4) spełniającej wymagania PL-6 962 642 326 3. Rozszerzenie zakresu certyfikatu AMO o nową kategorię Stawka jak w ust. 1 w zakresie dodanych kategorii 4. Rozszerzenie zakresu certyfikatu CAMO o nową kategorię Stawka jak w ust. 2 w zakresie dodanych kategorii Kategorie: A1 – samoloty o maksymalnej masie startowej (MTOM) powyżej 5700 kg A2 – samoloty o maksymalnej masie startowej (MTOM) 5700 kg i poniżej A3 – śmigłowce A4 – statki powietrzne inne niż kategoria A1, A2 i A3 B1 – silniki turbinowe B2 – silniki tłokowe B3 – silniki pomocnicze APU",
+       "text": "spełniającej wymagania PART M/G w zakresie uprawnień A1 A2 A3 A4 określonych w pkt M.A.711(a) 4777 2394 2394 802 2) spełniającej wymagania PART M/G w zakresie uprawnień 3187 1596 1118 642 określonych w pkt M.A.711(b)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "spełniającej wymagania PART M/G w zakresie uprawnień 2394 1118 802 407 określonych w pkt M.A.711(c)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_3/pkt_4",
+       "text": "spełniającej wymagania PL-6 962 642 326 3. Rozszerzenie zakresu certyfikatu AMO o nową kategorię Stawka jak w ust. 1 w zakresie dodanych kategorii 4. Rozszerzenie zakresu certyfikatu CAMO o nową kategorię Stawka jak w ust. 2 w zakresie dodanych kategorii Kategorie: A1 – samoloty o maksymalnej masie startowej (MTOM) powyżej 5700 kg A2 – samoloty o maksymalnej masie startowej (MTOM) 5700 kg i poniżej A3 – śmigłowce A4 – statki powietrzne inne niż kategoria A1, A2 i A3 B1 – silniki turbinowe B2 – silniki tłokowe B3 – silniki pomocnicze APU",
        "children": [
         {
          "type": "text",
@@ -757,20 +1930,62 @@
       },
       {
        "type": "text",
-       "text": "Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie postępowania o wydanie promesy zezwolenia na założenie lotniska użytku publicznego i wydanie promesy: 1) o literze kodu A, B 7963 2) o literze kodu C, D, E 39 795 2. Przeprowadzenie postępowania o wydanie promesy zezwolenia na założenie lotniska użytku wyłącznego i wydanie promesy: 1) o literze kodu A, B 2394 2) o literze kodu C, D, E 4777 3. Przeprowadzenie postępowania o wydanie zezwolenia na założenie lotniska użytku publicznego i wydanie zezwolenia: 1) o literze kodu A, B 15 922 2) o literze kodu C, D, E 63 6 72 4. Przeprowadzenie postępowania o wydanie zezwolenia na założenie lotniska użytku wyłącznego i wydanie zezwolenia: 1) o literze kodu A, B 3187 2) o literze kodu C, D, E 6372 5. Przeprowadzenie postępowania o wpisanie lotniska użytku publicznego do rejestru lotnisk cywilnych i wydanie zaświadczenia o wpisie:"
+       "text": "Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie postępowania o wydanie promesy zezwolenia na założenie lotniska użytku publicznego i wydanie promesy: 1) o literze kodu A, B 7963"
       },
       {
        "type": "pkt",
-       "num": "1",
-       "path": "ust_4/pkt_1",
-       "text": "o literze kodu A, B 11 146 2) o literze kodu C, D, E 47 754 6. Przeprowadzenie postępowania o wpisanie lotniska użytku wyłącznego do rejestru lotnisk cywilnych i wydanie zaświadczenia o wpisie:",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "o literze kodu C, D, E 39 795 2. Przeprowadzenie postępowania o wydanie promesy zezwolenia na założenie lotniska użytku wyłącznego i wydanie promesy: 1) o literze kodu A, B 2394",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "o literze kodu C, D, E 4777 3. Przeprowadzenie postępowania o wydanie zezwolenia na założenie lotniska użytku publicznego i wydanie zezwolenia: 1) o literze kodu A, B 15 922",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "o literze kodu C, D, E 63 6 72 4. Przeprowadzenie postępowania o wydanie zezwolenia na założenie lotniska użytku wyłącznego i wydanie zezwolenia: 1) o literze kodu A, B 3187",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "o literze kodu C, D, E 6372 5. Przeprowadzenie postępowania o wpisanie lotniska użytku publicznego do rejestru lotnisk cywilnych i wydanie zaświadczenia o wpisie:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_4/pkt_1",
-       "text": "o literze kodu A, B 3985 2) o literze kodu C, D, E 7963 7. Wydanie zaświadczenia o wpisie lotniska do rejestru lotnisk 164 cywilnych 8. Przeprowadzenie postępowania o dokonanie zmiany w rejestrze 483 lotnisk cywilnych 9. Wydanie zmienionego zaświadczenia o wpisie lotniska do 164 rejestru lotnisk cywilnych",
+       "text": "o literze kodu A, B 11 146",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "o literze kodu C, D, E 47 754 6. Przeprowadzenie postępowania o wpisanie lotniska użytku wyłącznego do rejestru lotnisk cywilnych i wydanie zaświadczenia o wpisie:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_4/pkt_1",
+       "text": "o literze kodu A, B 3985",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "o literze kodu C, D, E 7963 7. Wydanie zaświadczenia o wpisie lotniska do rejestru lotnisk 164 cywilnych 8. Przeprowadzenie postępowania o dokonanie zmiany w rejestrze 483 lotnisk cywilnych 9. Wydanie zmienionego zaświadczenia o wpisie lotniska do 164 rejestru lotnisk cywilnych",
        "children": [
         {
          "type": "text",
@@ -779,21 +1994,21 @@
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_4/pkt_1/lit_a",
+         "path": "ust_4/pkt_2/lit_a",
          "text": "M – oznacza jednostkę organizacyjną zatrudniającą do 10 osób, w wymiarze min. 35 godzin tygodniowo, dla każdego zatrudnionego,",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_4/pkt_1/lit_b",
+         "path": "ust_4/pkt_2/lit_b",
          "text": "Ś – oznacza jednostkę organizacyjną zatrudniającą od 10 do 100 osób, w wymiarze min. 35 godzin tygodniowo, dla każdego zatrudnionego,",
          "children": []
         },
         {
          "type": "lit",
          "num": "c",
-         "path": "ust_4/pkt_1/lit_c",
+         "path": "ust_4/pkt_2/lit_c",
          "text": "D – oznacza jednostkę organizacyjną zatrudniającą powyżej 100 osób, w wymiarze min. 35 godzin tygodniowo, dla każdego zatrudnionego. a dn o. [^5] Wyjaśnienia do kodu referencyjnego lotniska, zwanego „kodem” w tabeli nr 1 część III podczęść 3.8, znajdują się w tomie I Załącznika 14 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r.",
          "children": []
         }
@@ -811,28 +2026,119 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "o literze kodu A 12 739 2) o literze kodu B 25 474 3) o literze kodu C 38 202 4) o literze kodu D 50 938 5) o literze kodu E 63 672 11. Zatwierdzenie instrukcji operacyjnej nowo zakładanego lotniska użytku wyłącznego:",
+       "text": "o literze kodu A 12 739",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "o literze kodu B 25 474",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "o literze kodu C 38 202",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_10/pkt_4",
+       "text": "o literze kodu D 50 938",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_10/pkt_5",
+       "text": "o literze kodu E 63 672 11. Zatwierdzenie instrukcji operacyjnej nowo zakładanego lotniska użytku wyłącznego:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "o literze kodu A 802 2) o literze kodu B 2551 3) o literze kodu C 4305 4) o literze kodu D 6052 5) o literze kodu E 7963 12. Przeprowadzenie postępowania o wydanie zezwolenia na wprowadzenie pojedynczej zmiany eksploatacyjnej i technicznej cech lotniska użytku publicznego:",
+       "text": "o literze kodu A 802",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "o literze kodu B 2551",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "o literze kodu C 4305",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_10/pkt_4",
+       "text": "o literze kodu D 6052",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_10/pkt_5",
+       "text": "o literze kodu E 7963 12. Przeprowadzenie postępowania o wydanie zezwolenia na wprowadzenie pojedynczej zmiany eksploatacyjnej i technicznej cech lotniska użytku publicznego:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "o literze kodu A, B 2078 2) o literze kodu C, D, E 4144 13. Przeprowadzenie postępowania o wydanie zezwolenia na 326 wprowadzenie pojedynczej zmiany eksploatacyjnej i technicznej cech lotniska użytku wyłącznego o literze kodu A, B, C, D, E 14. Przeprowadzenie postępowania o wpisanie lądowiska do 1596 ewidencji lądowisk i wydanie zaświadczenia 15. Wydanie zaświadczenia o wpisie lądowiska do ewidencji 164 lądowisk 16. Wydanie duplikatu zaświadczenia o wpisie lądowiska do 483 ewidencji lądowisk lub o wpisie lotniczego urządzenia naziemnego do rejestru lotniczych urządzeń naziemnych 17. Wydanie zgody na odstępstwo od wymogów dotyczących 3923 powierzchni ograniczających przeszkody 18. Przeprowadzenie procesu certyfikacji lotniska:",
+       "text": "o literze kodu A, B 2078",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "o literze kodu C, D, E 4144 13. Przeprowadzenie postępowania o wydanie zezwolenia na 326 wprowadzenie pojedynczej zmiany eksploatacyjnej i technicznej cech lotniska użytku wyłącznego o literze kodu A, B, C, D, E 14. Przeprowadzenie postępowania o wpisanie lądowiska do 1596 ewidencji lądowisk i wydanie zaświadczenia 15. Wydanie zaświadczenia o wpisie lądowiska do ewidencji 164 lądowisk 16. Wydanie duplikatu zaświadczenia o wpisie lądowiska do 483 ewidencji lądowisk lub o wpisie lotniczego urządzenia naziemnego do rejestru lotniczych urządzeń naziemnych 17. Wydanie zgody na odstępstwo od wymogów dotyczących 3923 powierzchni ograniczających przeszkody 18. Przeprowadzenie procesu certyfikacji lotniska:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_10/pkt_1",
-       "text": "o literze kodu A 15 922 2) o literze kodu B 31 835 3) o literze kodu C 47 754 4) o literze kodu D 63 672 5) o literze kodu E 79 5 85 19. Przeprowadzenie procesu certyfikacji rozszerzającego zakres uprawnień wynikających z procesu certyfikacji, o wykonywanie operacji:",
+       "text": "o literze kodu A 15 922",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_10/pkt_2",
+       "text": "o literze kodu B 31 835",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_10/pkt_3",
+       "text": "o literze kodu C 47 754",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_10/pkt_4",
+       "text": "o literze kodu D 63 672",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_10/pkt_5",
+       "text": "o literze kodu E 79 5 85 19. Przeprowadzenie procesu certyfikacji rozszerzającego zakres uprawnień wynikających z procesu certyfikacji, o wykonywanie operacji:",
        "children": []
       },
       {
@@ -845,7 +2151,28 @@
          "type": "lit",
          "num": "a",
          "path": "ust_10/pkt_1/lit_a",
-         "text": "kategorii II (CAT II) 31 835 b) kategorii III A (CAT III A) 47 754 c) kategorii III B (CAT III B) 63 672 d) kategorii III C (CAT III C) 87 542 2) startów przy ograniczonej widzialności (LVTO) 31 835 20. Przeprowadzenie procesu certyfikacji lotniska przedłużającego 50 % stawki określonej w ust. 18 ważność certyfikatu lotniska 21. Przeprowadzenie procesu certyfikacji, o którym mowa w ust. 19, 50 % opłaty określonej w ust. 19 przedłużającego ważność uprawnień",
+         "text": "kategorii II (CAT II) 31 835",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_10/pkt_1/lit_b",
+         "text": "kategorii III A (CAT III A) 47 754",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_10/pkt_1/lit_c",
+         "text": "kategorii III B (CAT III B) 63 672",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_10/pkt_1/lit_d",
+         "text": "kategorii III C (CAT III C) 87 542 2) startów przy ograniczonej widzialności (LVTO) 31 835 20. Przeprowadzenie procesu certyfikacji lotniska przedłużającego 50 % stawki określonej w ust. 18 ważność certyfikatu lotniska 21. Przeprowadzenie procesu certyfikacji, o którym mowa w ust. 19, 50 % opłaty określonej w ust. 19 przedłużającego ważność uprawnień",
          "children": []
         }
        ]
@@ -863,8 +2190,29 @@
      "type": "ust",
      "num": "24",
      "path": "ust_24",
-     "text": "Przeprowadzenie procesu certyfikacji wznawiającego ważność 25 % stawki określonej w ust. 18 certyfikatu, który był cofnięty, zawieszony lub nieważny dłużej niż 6 miesięcy, ale nie dłużej niż 12 miesięcy 25. Przeprowadzenie procesu certyfikacji, o którym mowa w ust. 19, 25 % stawki określonej w ust. 19 wznawiającego ważność uprawnień, które były cofnięte, zawieszone lub nieważne dłużej niż 6 miesięcy, ale nie dłużej niż 12 miesięcy 26. Przeprowadzenie postępowania w sprawie wydania odstępstwa, 17 312 o którym mowa w ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia Komisji (UE) nr 139/2014 z dnia 12 lutego 2014 r. ustanawiającego wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 44 z 14.02.2014, str. 1, z późn. zm.[^6]), zwanego dalej „rozporządzeniem nr 139/2014/UE” 3.9. Certyfikacja zarobkowego transportu lotniczego oraz wydawanie zatwierdzeń szczególnych (zgodnie z rozporządzeniem Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającym wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, z późn. zm.[^7]), zwanym dalej „rozporządzeniem nr 965/2012/UE”) Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AOC Opłata podstawowa po raz pierwszy lub wznowienie ważności certyfikatu AOC 7342 nieważnego dłużej niż 12 miesięcy: zwiększona o opłatę za 1) przewóz pasażerów i ich bagażu 7342 2) przewóz towarów i poczty 7342 3) przewóz sanitarny i medyczny 7342 2. Przeprowadzenie procesu wznowienia ważności certyfikatu 75 % opłaty wyliczonej zgodnie z ust. 1 AOC, który był cofnięty, zawieszony nie dłużej niż 12 miesięcy 3. Przeprowadzenie procesu związanego z wydaniem zatwierdzenia szczególnego – dla każdego egzemplarza statku powietrznego:",
+     "text": "Przeprowadzenie procesu certyfikacji wznawiającego ważność 25 % stawki określonej w ust. 18 certyfikatu, który był cofnięty, zawieszony lub nieważny dłużej niż 6 miesięcy, ale nie dłużej niż 12 miesięcy 25. Przeprowadzenie procesu certyfikacji, o którym mowa w ust. 19, 25 % stawki określonej w ust. 19 wznawiającego ważność uprawnień, które były cofnięte, zawieszone lub nieważne dłużej niż 6 miesięcy, ale nie dłużej niż 12 miesięcy 26. Przeprowadzenie postępowania w sprawie wydania odstępstwa, 17 312 o którym mowa w ADR.OPS.B.029 lit. g załącznika IV do rozporządzenia Komisji (UE) nr 139/2014 z dnia 12 lutego 2014 r. ustanawiającego wymagania oraz procedury administracyjne dotyczące lotnisk zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 44 z 14.02.2014, str. 1, z późn. zm.[^6]), zwanego dalej „rozporządzeniem nr 139/2014/UE” 3.9. Certyfikacja zarobkowego transportu lotniczego oraz wydawanie zatwierdzeń szczególnych (zgodnie z rozporządzeniem Komisji (UE) nr 965/2012 z dnia 5 października 2012 r. ustanawiającym wymagania techniczne i procedury administracyjne odnoszące się do operacji lotniczych zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 296 z 25.10.2012, str. 1, z późn. zm.[^7]), zwanym dalej „rozporządzeniem nr 965/2012/UE”) Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AOC Opłata podstawowa po raz pierwszy lub wznowienie ważności certyfikatu AOC 7342 nieważnego dłużej niż 12 miesięcy: zwiększona o opłatę za",
      "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_24/pkt_1",
+       "text": "przewóz pasażerów i ich bagażu 7342",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_24/pkt_2",
+       "text": "przewóz towarów i poczty 7342",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_24/pkt_3",
+       "text": "przewóz sanitarny i medyczny 7342 2. Przeprowadzenie procesu wznowienia ważności certyfikatu 75 % opłaty wyliczonej zgodnie z ust. 1 AOC, który był cofnięty, zawieszony nie dłużej niż 12 miesięcy 3. Przeprowadzenie procesu związanego z wydaniem zatwierdzenia szczególnego – dla każdego egzemplarza statku powietrznego:",
+       "children": []
+      },
       {
        "type": "pkt",
        "num": "1",
@@ -875,7 +2223,35 @@
          "type": "lit",
          "num": "a",
          "path": "ust_24/pkt_1/lit_a",
-         "text": "kategorii II (CAT II) 3136 b) kategorii III A (CAT III A) 3136 c) kategorii III B (CAT III B) 3136 d) kategorii III C (CAT III C) 6271 e) operacja poza standardem w kategorii II (OTS CAT II) 2939",
+         "text": "kategorii II (CAT II) 3136",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_24/pkt_1/lit_b",
+         "text": "kategorii III A (CAT III A) 3136",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_24/pkt_1/lit_c",
+         "text": "kategorii III B (CAT III B) 3136",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_24/pkt_1/lit_d",
+         "text": "kategorii III C (CAT III C) 6271",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_24/pkt_1/lit_e",
+         "text": "operacja poza standardem w kategorii II (OTS CAT II) 2939",
          "children": [
           {
            "type": "text",
@@ -887,16 +2263,86 @@
          "type": "lit",
          "num": "f",
          "path": "ust_24/pkt_1/lit_f",
-         "text": "operacja poniżej standardu w kategorii I (LTS CAT I) 2939 g) wykonywanie startów przy ograniczonej widzialności 1571 (LVTO) h) operacja podejścia z wykorzystaniem systemów 2939 polepszających widzenie (EVS), dla której wykorzystuje się możliwość wykonywania operacji przy minimach widzialności wzdłuż drogi startowej (RVR) zmniejszonych o nie więcej niż jedną trzecią publikowanych RVR 2) na operacje z określonymi specyfikacjami minimalnych 3136 osiągów nawigacyjnych (MNPS) 3) na operacje o wydłużonym zasięgu samolotami 6271 dwusilnikowymi (ETOPS) 4) na operacje z nawigacją w oparciu o charakterystyki 2939 systemów (PBN) – za każdą wpisywaną specyfikację PBN 5) na operacje w przestrzeni powietrznej ze zredukowanymi 4702 minimami separacji pionowej (RVSM) 6) na operacje śmigłowcowe z użyciem systemu 2939 noktowizyjnego (NVIS) 7) na operacje śmigłowcowe z ładunkiem na zaczepie 2939 zewnętrznym (HHO) 8) na każde inne zatwierdzenia szczególne, o których mowa 1471 w dodatku II do załącznika II (Part-ARO) do rozporządzenia nr 965/2012/UE przypis 20 4. Przeprowadzenie procesu związanego z wydaniem zatwierdzenia szczególnego dla organizacji:",
+         "text": "operacja poniżej standardu w kategorii I (LTS CAT I) 2939",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "ust_24/pkt_1/lit_g",
+         "text": "wykonywanie startów przy ograniczonej widzialności 1571 (LVTO)",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "ust_24/pkt_1/lit_h",
+         "text": "operacja podejścia z wykorzystaniem systemów 2939 polepszających widzenie (EVS), dla której wykorzystuje się możliwość wykonywania operacji przy minimach widzialności wzdłuż drogi startowej (RVR) zmniejszonych o nie więcej niż jedną trzecią publikowanych RVR",
          "children": []
         }
        ]
       },
       {
        "type": "pkt",
+       "num": "2",
+       "path": "ust_24/pkt_2",
+       "text": "na operacje z określonymi specyfikacjami minimalnych 3136 osiągów nawigacyjnych (MNPS)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_24/pkt_3",
+       "text": "na operacje o wydłużonym zasięgu samolotami 6271 dwusilnikowymi (ETOPS)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_24/pkt_4",
+       "text": "na operacje z nawigacją w oparciu o charakterystyki 2939 systemów (PBN) – za każdą wpisywaną specyfikację PBN",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_24/pkt_5",
+       "text": "na operacje w przestrzeni powietrznej ze zredukowanymi 4702 minimami separacji pionowej (RVSM)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_24/pkt_6",
+       "text": "na operacje śmigłowcowe z użyciem systemu 2939 noktowizyjnego (NVIS)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_24/pkt_7",
+       "text": "na operacje śmigłowcowe z ładunkiem na zaczepie 2939 zewnętrznym (HHO)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_24/pkt_8",
+       "text": "na każde inne zatwierdzenia szczególne, o których mowa 1471 w dodatku II do załącznika II (Part-ARO) do rozporządzenia nr 965/2012/UE przypis 20 4. Przeprowadzenie procesu związanego z wydaniem zatwierdzenia szczególnego dla organizacji:",
+       "children": []
+      },
+      {
+       "type": "pkt",
        "num": "1",
        "path": "ust_24/pkt_1",
-       "text": "na transport materiałów niebezpiecznych (DG) 6271 2) na upoważnienie do prowadzenia szkoleń personelu 2939 pokładowego zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE 3) na upoważnienie do wydawania świadectw dopuszczenia do 2939 pracy personelu pokładowego zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE 4) na operacje śmigłowcowych służb ratownictwa medycznego 7342 (HEMS)",
+       "text": "na transport materiałów niebezpiecznych (DG) 6271 2) na upoważnienie do prowadzenia szkoleń personelu 2939 pokładowego zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_24/pkt_3",
+       "text": "na upoważnienie do wydawania świadectw dopuszczenia do 2939 pracy personelu pokładowego zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE 4) na operacje śmigłowcowych służb ratownictwa medycznego 7342 (HEMS)",
        "children": [
         {
          "type": "text",
@@ -935,14 +2381,77 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "służby kontroli obszaru (ACC – Area Control Service) 31 835 2) służby kontroli zbliżania (APP – Approach Control Service) 15 922 3) służby kontroli lotniska (TWR – Aerodrome Control 15 922 Service)",
+       "text": "służby kontroli obszaru (ACC – Area Control Service) 31 835",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "służby kontroli zbliżania (APP – Approach Control Service) 15 922",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "służby kontroli lotniska (TWR – Aerodrome Control 15 922 Service)",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "ust_1/pkt_4",
-       "text": "służby informacji powietrznej (FIS – Flight Information 15 922 Service) 5) służby lotniskowej informacji powietrznej (AFIS – 1596 Aerodrome Flight Information Service) 6) służby łączności (COM – Communication Service) 1596 7) służby nawigacji (NAV – Navigation Service) 3187 8) służby dozorowania (SUR – Surveillance Service) 6372 9) służby przetwarzania i zobrazowania danych (DP – Data 15 922 Processing) 10) służby informacji lotniczej (AIS – Aeronautical Information 15 922 Service) 11) służby lub organu zapewniającego informacje 15 922 meteorologiczne 2. Przeprowadzenie procesu z wniosku o przedłużenie ważności Do 50 % opłaty określonej w ust. 1, nie więcej niż 7963 certyfikatu",
+       "text": "służby informacji powietrznej (FIS – Flight Information 15 922 Service)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "służby lotniskowej informacji powietrznej (AFIS – 1596 Aerodrome Flight Information Service)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "służby łączności (COM – Communication Service) 1596",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "służby nawigacji (NAV – Navigation Service) 3187",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "służby dozorowania (SUR – Surveillance Service) 6372",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "służby przetwarzania i zobrazowania danych (DP – Data 15 922 Processing)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "służby informacji lotniczej (AIS – Aeronautical Information 15 922 Service)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "służby lub organu zapewniającego informacje 15 922 meteorologiczne 2. Przeprowadzenie procesu z wniosku o przedłużenie ważności Do 50 % opłaty określonej w ust. 1, nie więcej niż 7963 certyfikatu",
        "children": [
         {
          "type": "text",
@@ -1057,28 +2566,134 @@
          "type": "lit",
          "num": "a",
          "path": "ust_36/pkt_1/lit_a",
-         "text": "naziemne radiostacje lotnicze 1278 b) system łączności głosowej VCS 1278 c) system transmisji danych G/G 1278 2) urządzenie radionawigacyjne (w urządzeniach połączonych opłaty sumują się):",
+         "text": "naziemne radiostacje lotnicze 1278",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_36/pkt_1/lit_b",
+         "text": "system łączności głosowej VCS 1278",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_36/pkt_1/lit_c",
+         "text": "system transmisji danych G/G 1278 2) urządzenie radionawigacyjne (w urządzeniach połączonych opłaty sumują się):",
          "children": []
         },
         {
          "type": "lit",
          "num": "a",
          "path": "ust_36/pkt_1/lit_a",
-         "text": "ILS, MLS 4777 b) VOR/DVOR 3187 c) NDB 1596 d) DME 802 e) D/GPS (GBAS) 3187 3) urządzenia dozorowania (w urządzeniach połączonych opłaty sumują się):",
+         "text": "ILS, MLS 4777",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_36/pkt_1/lit_b",
+         "text": "VOR/DVOR 3187",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_36/pkt_1/lit_c",
+         "text": "NDB 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_36/pkt_1/lit_d",
+         "text": "DME 802",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_36/pkt_1/lit_e",
+         "text": "D/GPS (GBAS) 3187 3) urządzenia dozorowania (w urządzeniach połączonych opłaty sumują się):",
          "children": []
         },
         {
          "type": "lit",
          "num": "a",
          "path": "ust_36/pkt_1/lit_a",
-         "text": "radar pierwotny dozorowania (PSR) 2394 b) radar wtórny dozorowania (MSSR) 2394 c) radar kontroli płyty lotniska 1596 d) system multilateracyjny WAM 2394 e) system multilateracyjny LAM 2394 4) system przetwarzania i zobrazowania danych 7963 5) wzrokowe pomoce nawigacyjne (systemy świetlne) 1278–1596 6) automatyczne systemy pomiarowe parametrów meteorologicznych:",
+         "text": "radar pierwotny dozorowania (PSR) 2394",
          "children": []
         },
         {
          "type": "lit",
+         "num": "b",
+         "path": "ust_36/pkt_1/lit_b",
+         "text": "radar wtórny dozorowania (MSSR) 2394",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_36/pkt_1/lit_c",
+         "text": "radar kontroli płyty lotniska 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_36/pkt_1/lit_d",
+         "text": "system multilateracyjny WAM 2394",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "ust_36/pkt_1/lit_e",
+         "text": "system multilateracyjny LAM 2394 4) system przetwarzania i zobrazowania danych 7963",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_36/pkt_5",
+       "text": "wzrokowe pomoce nawigacyjne (systemy świetlne) 1278–1596",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_36/pkt_6",
+       "text": "automatyczne systemy pomiarowe parametrów meteorologicznych:",
+       "children": [
+        {
+         "type": "lit",
          "num": "a",
-         "path": "ust_36/pkt_1/lit_a",
-         "text": "AWOS dla I kat. precyzyjnego podejścia 1596 b) AWOS dla II kat. precyzyjnego podejścia 1596 c) AWOS dla III kat. precyzyjnego podejścia 1596 d) AWOS dla potrzeb AFIS 80 2 37. Wydanie zaświadczenia o zmianie wpisu w rejestrze lotniczych urządzeń naziemnych",
+         "path": "ust_36/pkt_6/lit_a",
+         "text": "AWOS dla I kat. precyzyjnego podejścia 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_36/pkt_6/lit_b",
+         "text": "AWOS dla II kat. precyzyjnego podejścia 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_36/pkt_6/lit_c",
+         "text": "AWOS dla III kat. precyzyjnego podejścia 1596",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "ust_36/pkt_6/lit_d",
+         "text": "AWOS dla potrzeb AFIS 80 2 37. Wydanie zaświadczenia o zmianie wpisu w rejestrze lotniczych urządzeń naziemnych",
          "children": []
         },
         {
@@ -1170,35 +2785,280 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "praktykanta-kontrolera ruchu lotniczego 318 2) pilota samolotowego rekreacyjnego, pilota samolotowego 475 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego turystycznego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego, mechanika lotniczego obsługi technicznej 3) pilota samolotowego zawodowego, pilota śmigłowcowego 631 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego, dyspozytora lotniczego 4) pilota samolotowego liniowego, pilota śmigłowcowego 1571 liniowego 2. Przeprowadzenie egzaminu teoretycznego lub egzaminu teoretyczno-praktycznego kandydata na mechanika lotniczego obsługi technicznej Part-66:",
+       "text": "praktykanta-kontrolera ruchu lotniczego 318",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "pilota samolotowego rekreacyjnego, pilota samolotowego 475 turystycznego, pilota śmigłowcowego rekreacyjnego, pilota śmigłowcowego turystycznego, pilota wiatrakowcowego turystycznego, pilota balonowego rekreacyjnego, pilota balonowego, pilota szybowcowego rekreacyjnego, pilota szybowcowego, mechanika lotniczego obsługi technicznej 3) pilota samolotowego zawodowego, pilota śmigłowcowego 631 zawodowego, pilota wiatrakowcowego zawodowego, pilota sterowcowego zawodowego, nawigatora lotniczego, mechanika pokładowego, dyspozytora lotniczego",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "pilota samolotowego liniowego, pilota śmigłowcowego 1571 liniowego 2. Przeprowadzenie egzaminu teoretycznego lub egzaminu teoretyczno-praktycznego kandydata na mechanika lotniczego obsługi technicznej Part-66:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "za egzamin z każdego modułu Part-66: od M1 do M17 318 2) za każdy egzamin powtórkowy z niezaliczonego modułu 475 Part-66 3) za egzamin teoretyczno-praktyczny na typ statku 475 powietrznego o maksymalnej masie startowej (MTOM) nieprzekraczającej 5700 kg – za każdą kategorię 3. Przeprowadzenie egzaminu teoretycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do licencji:",
+       "text": "za egzamin z każdego modułu Part-66: od M1 do M17 318",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "za każdy egzamin powtórkowy z niezaliczonego modułu 475 Part-66",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "za egzamin teoretyczno-praktyczny na typ statku 475 powietrznego o maksymalnej masie startowej (MTOM) nieprzekraczającej 5700 kg – za każdą kategorię 3. Przeprowadzenie egzaminu teoretycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do licencji:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "zawodowej, liniowej 318 2) do pozostałych licencji 241 4. Przeprowadzenie egzaminu teoretycznego kandydatów na 85 członków personelu lotniczego oraz członków personelu lotniczego na świadectwo kwalifikacji 5. Przeprowadzenie egzaminu teoretycznego kandydatów na 241 członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do świadectwa kwalifikacji 6. Przeprowadzenie cząstkowego egzaminu teoretycznego na 161 uznanie licencji albo egzaminu wskazanego w decyzji o zawieszeniu lub ograniczeniu licencji albo świadectwa kwalifikacji 7. Przeprowadzenie komisyjnego egzaminu teoretycznego, za 475 każdy przedmiot 1.2. Egzaminy praktyczne na licencje, świadectwa kwalifikacji i uprawnienia wpisywane do licencji lub świadectw kwalifikacji oraz inne egzaminy praktyczne Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie egzaminu praktycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na licencję:",
+       "text": "zawodowej, liniowej 318",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "do pozostałych licencji 241 4. Przeprowadzenie egzaminu teoretycznego kandydatów na 85 członków personelu lotniczego oraz członków personelu lotniczego na świadectwo kwalifikacji 5. Przeprowadzenie egzaminu teoretycznego kandydatów na 241 członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do świadectwa kwalifikacji 6. Przeprowadzenie cząstkowego egzaminu teoretycznego na 161 uznanie licencji albo egzaminu wskazanego w decyzji o zawieszeniu lub ograniczeniu licencji albo świadectwa kwalifikacji 7. Przeprowadzenie komisyjnego egzaminu teoretycznego, za 475 każdy przedmiot 1.2. Egzaminy praktyczne na licencje, świadectwa kwalifikacji i uprawnienia wpisywane do licencji lub świadectw kwalifikacji oraz inne egzaminy praktyczne Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie egzaminu praktycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na licencję:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "pilota samolotowego rekreacyjnego 1259 2) pilota samolotowego turystycznego 1259 3) pilota śmigłowcowego rekreacyjnego 1259 4) pilota śmigłowcowego turystycznego 1259 5) pilota wiatrakowcowego turystycznego 1259 6) pilota samolotowego zawodowego 3136 7) pilota śmigłowcowego zawodowego 3136 8) pilota wiatrakowcowego zawodowego 1571 9) pilota sterowcowego zawodowego 1571 10) pilota samolotowego liniowego 4702 11) pilota śmigłowcowego liniowego 4702 12) pilota balonowego rekreacyjnego 788 13) pilota balonowego 788 14) pilota szybowcowego rekreacyjnego 161 15) pilota szybowcowego 161 16) nawigatora lotniczego 2355 17) mechanika pokładowego 1571 18) kontrolera ruchu lotniczego 3923 19) dyspozytora lotniczego 1571 20) mechanika lotniczego obsługi technicznej 1571 21) praktykanta-kontrolera ruchu lotniczego 1571 2. Przeprowadzenie egzaminu praktycznego kandydatów na 884 uprawnienia w zakresie znajomości lotniczego języka angielskiego, języka polskiego, egzaminu na przedłużenie ważności tego uprawnienia zgodnie z wymaganiami Załącznika 1 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. oraz egzaminu wykazującego biegłość językową, o której mowa w ADR.OPS.B.029 załącznika IV do rozporządzenia nr 139/2014/UE 3. Przeprowadzenie egzaminu praktycznego lub oceny kompetencji 475 kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do licencji 4. Przeprowadzenie egzaminu praktycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na świadectwo kwalifikacji dla:",
+       "text": "pilota samolotowego rekreacyjnego 1259",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "pilota samolotowego turystycznego 1259",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "pilota śmigłowcowego rekreacyjnego 1259",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "pilota śmigłowcowego turystycznego 1259",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "pilota wiatrakowcowego turystycznego 1259",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "pilota samolotowego zawodowego 3136",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "pilota śmigłowcowego zawodowego 3136",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "pilota wiatrakowcowego zawodowego 1571",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "pilota sterowcowego zawodowego 1571",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "pilota samolotowego liniowego 4702",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "pilota śmigłowcowego liniowego 4702",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "pilota balonowego rekreacyjnego 788",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "ust_1/pkt_13",
+       "text": "pilota balonowego 788",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "ust_1/pkt_14",
+       "text": "pilota szybowcowego rekreacyjnego 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "ust_1/pkt_15",
+       "text": "pilota szybowcowego 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "ust_1/pkt_16",
+       "text": "nawigatora lotniczego 2355",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "ust_1/pkt_17",
+       "text": "mechanika pokładowego 1571",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "ust_1/pkt_18",
+       "text": "kontrolera ruchu lotniczego 3923",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "19",
+       "path": "ust_1/pkt_19",
+       "text": "dyspozytora lotniczego 1571",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "20",
+       "path": "ust_1/pkt_20",
+       "text": "mechanika lotniczego obsługi technicznej 1571",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "21",
+       "path": "ust_1/pkt_21",
+       "text": "praktykanta-kontrolera ruchu lotniczego 1571 2. Przeprowadzenie egzaminu praktycznego kandydatów na 884 uprawnienia w zakresie znajomości lotniczego języka angielskiego, języka polskiego, egzaminu na przedłużenie ważności tego uprawnienia zgodnie z wymaganiami Załącznika 1 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. oraz egzaminu wykazującego biegłość językową, o której mowa w ADR.OPS.B.029 załącznika IV do rozporządzenia nr 139/2014/UE 3. Przeprowadzenie egzaminu praktycznego lub oceny kompetencji 475 kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na dodatkowe uprawnienie w zakresie wykonywanych czynności lotniczych, za każde nowe uprawnienie wpisywane do licencji 4. Przeprowadzenie egzaminu praktycznego kandydatów na członków personelu lotniczego oraz członków personelu lotniczego na świadectwo kwalifikacji dla:",
        "children": []
       },
       {
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "pilota lotni 99 2) pilota paralotni 69 3) pilota motolotni i motoparalotni 99 4) pilota statku powietrznego o maksymalnej masie startowej 99 (MTOM) do 495 kg 5) pilota – operatora modelu latającego 37 6) skoczka spadochronowego 69 7) operatora bezzałogowego statku powietrznego używanego 161 w celach innych niż rekreacyjne lub sportowe 8) pilota wiatrakowca ultralekkiego 99 9) mechanika poświadczenia obsługi statku powietrznego 161 10) informatora służby informacji powietrznej 161 11) informatora lotniskowej służby informacji powietrznej 99",
+       "text": "pilota lotni 99",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "pilota paralotni 69",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "pilota motolotni i motoparalotni 99",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "pilota statku powietrznego o maksymalnej masie startowej 99 (MTOM) do 495 kg",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "pilota – operatora modelu latającego 37",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "skoczka spadochronowego 69",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "operatora bezzałogowego statku powietrznego używanego 161 w celach innych niż rekreacyjne lub sportowe",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "pilota wiatrakowca ultralekkiego 99",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "mechanika poświadczenia obsługi statku powietrznego 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "informatora służby informacji powietrznej 161",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "informatora lotniskowej służby informacji powietrznej 99",
        "children": []
       }
      ]
@@ -1213,7 +3073,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_5/pkt_1",
-       "text": "na przedłużenie ważności uprawnienia wpisanego do 161 licencji, za każde przedłużane uprawnienie 2) na wznowienie ważności uprawnienia wpisywanego do 466 licencji, za każde wznawiane uprawnienie 3) w zakresie wykonywanych czynności egzaminacyjnych 466 wymaganych przepisami rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.[^10]) 7. Przeprowadzenie egzaminu praktycznego na przedłużenie lub 85 wznowienie ważności uprawnienia wpisywanego do świadectwa kwalifikacji, za każde przedłużane lub wznawiane uprawnienie Część II Zaświadczenia oraz poświadczenie zgodności dokumentu z oryginałem 2.1. Zaświadczenia i poświadczenia Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2",
+       "text": "na przedłużenie ważności uprawnienia wpisanego do 161 licencji, za każde przedłużane uprawnienie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_5/pkt_2",
+       "text": "na wznowienie ważności uprawnienia wpisywanego do 466 licencji, za każde wznawiane uprawnienie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_5/pkt_3",
+       "text": "w zakresie wykonywanych czynności egzaminacyjnych 466 wymaganych przepisami rozporządzenia Komisji (UE) nr 1178/2011 z dnia 3 listopada 2011 r. ustanawiającego wymagania techniczne i procedury administracyjne odnoszące się do załóg w lotnictwie cywilnym zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 216/2008 (Dz. Urz. UE L 311 z 25.11.2011, str. 1, z późn. zm.[^10]) 7. Przeprowadzenie egzaminu praktycznego na przedłużenie lub 85 wznowienie ważności uprawnienia wpisywanego do świadectwa kwalifikacji, za każde przedłużane lub wznawiane uprawnienie Część II Zaświadczenia oraz poświadczenie zgodności dokumentu z oryginałem 2.1. Zaświadczenia i poświadczenia Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2",
        "children": []
       }
      ]
@@ -1249,7 +3123,28 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "służby kontroli obszaru (ACC – Area Control Service) 31 835 2) służby kontroli zbliżania (APP – Approach Control Service) 15 922 3) służby kontroli lotniska (TWR – Aerodrome Control 15 922 Service) 4) służby informacji powietrznej (FIS – Flight Information 15 922 Service)",
+       "text": "służby kontroli obszaru (ACC – Area Control Service) 31 835",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "służby kontroli zbliżania (APP – Approach Control Service) 15 922",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "służby kontroli lotniska (TWR – Aerodrome Control 15 922 Service)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "służby informacji powietrznej (FIS – Flight Information 15 922 Service)",
        "children": []
       },
       {
@@ -1260,7 +3155,35 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_1/pkt_5",
-       "text": "służby lotniskowej informacji powietrznej (AFIS – 3187 Aerodrome Flight Information Service) 6) służby łączności (COM – Communication Service) 1596 7) służby nawigacji (NAV – Navigation Service) 3187 8) służby dozorowania (SUR – Surveillance Service) 6372 9) służby przetwarzania i zobrazowania danych (DP – Data 15 922 Processing) 10) służby informacji lotniczej (AIS – Aeronautical Information 15 922 Service) 2. Sprawowanie bieżącego nadzoru nad instytucją posiadającą 7963 certyfikat w zakresie służby meteorologicznej / organ służby",
+       "text": "służby lotniskowej informacji powietrznej (AFIS – 3187 Aerodrome Flight Information Service) 6) służby łączności (COM – Communication Service) 1596",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "służby nawigacji (NAV – Navigation Service) 3187",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "służby dozorowania (SUR – Surveillance Service) 6372",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "służby przetwarzania i zobrazowania danych (DP – Data 15 922 Processing)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "służby informacji lotniczej (AIS – Aeronautical Information 15 922 Service) 2. Sprawowanie bieżącego nadzoru nad instytucją posiadającą 7963 certyfikat w zakresie służby meteorologicznej / organ służby",
        "children": []
       }
      ]
@@ -1274,7 +3197,35 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "o literze kodu A 7963 2) o literze kodu B 23 879 3) o literze kodu C 47 754 4) o literze kodu D 63 672 5) o literze kodu E 87 542 Część III Nadzór nad posiadaczami certyfikatu AOC, certyfikatu AHAC, zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka statkiem powietrznym kategorii specjalnej, o którym mowa w art. 53a ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, lub statkiem powietrznym, o którym mowa w art. 53a ust. 2 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, oraz zezwolenia na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2",
+     "text": "o literze kodu A 7963",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "o literze kodu B 23 879",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "o literze kodu C 47 754",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "o literze kodu D 63 672",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "o literze kodu E 87 542 Część III Nadzór nad posiadaczami certyfikatu AOC, certyfikatu AHAC, zezwolenia na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka statkiem powietrznym kategorii specjalnej, o którym mowa w art. 53a ust. 1 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, lub statkiem powietrznym, o którym mowa w art. 53a ust. 2 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, oraz zezwolenia na wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2",
      "children": []
     },
     {
@@ -1287,7 +3238,56 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "na operacje w każdych warunkach meteorologicznych AWO – 1596 od E1 do E5 2) na operacje w przestrzeniach MNPS – E6 1278 3) na operacje o wydłużonym zasięgu samolotami 4777 dwusilnikowymi – ETOPS – E7 4) na operacje nawigacji obszarowej – RNAV – E8 802 5) na operacje w przestrzeniach RVSM – E9 962 6) na przewóz materiałów niebezpiecznych – DGR – E11 1278 7) na śmigłowcowe operacje przybrzeżne – E12 1596 8) na operacje transportu pilotów morskich – E13 1596",
+       "text": "na operacje w każdych warunkach meteorologicznych AWO – 1596 od E1 do E5",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "na operacje w przestrzeniach MNPS – E6 1278",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "na operacje o wydłużonym zasięgu samolotami 4777 dwusilnikowymi – ETOPS – E7",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "na operacje nawigacji obszarowej – RNAV – E8 802",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "na operacje w przestrzeniach RVSM – E9 962",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "na przewóz materiałów niebezpiecznych – DGR – E11 1278",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "na śmigłowcowe operacje przybrzeżne – E12 1596",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "na operacje transportu pilotów morskich – E13 1596",
        "children": []
       }
      ]
@@ -1315,7 +3315,14 @@
          "type": "lit",
          "num": "a",
          "path": "ust_3/pkt_1/lit_a",
-         "text": "do 1 000 000 pasażerów lub do 25 000 ton ładunku 53 b) od 1 000 000 do 2 000 000 pasażerów lub od 25 000 do 70 50 000 ton ładunku",
+         "text": "do 1 000 000 pasażerów lub do 25 000 ton ładunku 53",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_3/pkt_1/lit_b",
+         "text": "od 1 000 000 do 2 000 000 pasażerów lub od 25 000 do 70 50 000 ton ładunku",
          "children": []
         },
         {
@@ -1336,41 +3343,49 @@
          "type": "lit",
          "num": "e",
          "path": "ust_3/pkt_1/lit_e",
-         "text": "powyżej 10 000 000 pasażerów lub powyżej 250 000 371 ton ładunku 2) obsługi dotyczącej zaopatrzenia statków powietrznych w paliwo, smary i inne materiały techniczne – kat. 7 (obsługa w zakresie zaopatrzenia statków powietrznych w paliwo, smary i inne materiały techniczne) w portach lotniczych, w których ruch roboczy wynosi:",
+         "text": "powyżej 10 000 000 pasażerów lub powyżej 250 000 371 ton ładunku",
          "children": []
-        },
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_3/pkt_2",
+       "text": "obsługi dotyczącej zaopatrzenia statków powietrznych w paliwo, smary i inne materiały techniczne – kat. 7 (obsługa w zakresie zaopatrzenia statków powietrznych w paliwo, smary i inne materiały techniczne) w portach lotniczych, w których ruch roboczy wynosi:",
+       "children": [
         {
          "type": "lit",
          "num": "a",
-         "path": "ust_3/pkt_1/lit_a",
+         "path": "ust_3/pkt_2/lit_a",
          "text": "do 1 000 000 pasażerów lub do 25 000 ton ładunku 101",
          "children": []
         },
         {
          "type": "lit",
          "num": "b",
-         "path": "ust_3/pkt_1/lit_b",
+         "path": "ust_3/pkt_2/lit_b",
          "text": "od 1 000 000 do 2 000 000 pasażerów lub od 25 000 do 199 50 000 ton ładunku",
          "children": []
         },
         {
          "type": "lit",
          "num": "c",
-         "path": "ust_3/pkt_1/lit_c",
+         "path": "ust_3/pkt_2/lit_c",
          "text": "od 2 000 000 do 5 000 000 pasażerów lub od 50 000 do 371 125 000 ton ładunku",
          "children": []
         },
         {
          "type": "lit",
          "num": "d",
-         "path": "ust_3/pkt_1/lit_d",
+         "path": "ust_3/pkt_2/lit_d",
          "text": "od 5 000 000 do 10 000 000 pasażerów lub od 125 000 930 do 250 000 ton ładunku",
          "children": []
         },
         {
          "type": "lit",
          "num": "e",
-         "path": "ust_3/pkt_1/lit_e",
+         "path": "ust_3/pkt_2/lit_e",
          "text": "powyżej 10 000 000 pasażerów lub powyżej 250 000 1118 ton ładunku 4. Sprawowanie bieżącego nadzoru nad posiadaczem zezwolenia na 7342 wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka statkiem powietrznym kategorii specjalnej, o którym mowa w art. 53a ust. 1ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze, lub statkiem powietrznym, o którym mowa w art. 53a ust. 2 pkt 2 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze 5. Sprawowanie bieżącego nadzoru nad posiadaczem zezwolenia na 7342 wykonywanie zarobkowych operacji polegających na wykonywaniu lotów przeciwpożarowych i gaśniczych",
          "children": []
         }
@@ -1401,14 +3416,84 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "na operacje przy ograniczonej widzialności (LVO) – za 1571 każde zezwolenie 2) na operacje z określonymi specyfikacjami minimalnych 1571 osiągów nawigacyjnych (MNPS) 3) na operacje o wydłużonym zasięgu samolotami 4702 dwusilnikowymi – ETOPS",
+       "text": "na operacje przy ograniczonej widzialności (LVO) – za 1571 każde zezwolenie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "na operacje z określonymi specyfikacjami minimalnych 1571 osiągów nawigacyjnych (MNPS)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "na operacje o wydłużonym zasięgu samolotami 4702 dwusilnikowymi – ETOPS",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
        "path": "ust_1/pkt_4",
-       "text": "na operacje z nawigacją w oparciu o charakterystyki 736 systemów (PBN) – za każdą specyfikację PBN 5) na operacje w przestrzeni powietrznej ze zredukowanymi 1471 minimami separacji pionowej (RVSM) 6) na operacje śmigłowcowe z użyciem systemu 1471 noktowizyjnego (NVIS) 7) na operacje śmigłowcowe z ładunkiem na zaczepie 1471 zewnętrznym (HHO) 8) na operacje śmigłowcowych służb ratownictwa medycznego 2939 (HEMS) 9) na inne zatwierdzenia szczególne wpisywane do 1471 specyfikacji operacyjnej, o których mowa w Dodatku II w Part-ARO przypis 20 – za każde zezwolenie 10) na transport materiałów niebezpiecznych – DG 1471 11) na upoważnienie do szkolenia personelu pokładowego 1471 zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE 12) na upoważnienie do wydawania świadectw dopuszczenia do 1471 pracy personelu pokładowego zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE 3. Sprawowanie bieżącego nadzoru nad zgłaszającymi 2939 wykonywanie zarobkowych operacji specjalistycznych 4. Sprawowanie bieżącego nadzoru nad zgłaszającymi 2939 wykonywanie operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym 5. Sprawowanie bieżącego nadzoru nad posiadaczami zezwolenia 7342 na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka, w tym wykonywania zarobkowych operacji specjalistycznych Część V Sprawowanie bieżącego nadzoru nad posiadaczami certyfikatu ATO, CTO, ATCO TO, FISP TO oraz MTO Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2",
+       "text": "na operacje z nawigacją w oparciu o charakterystyki 736 systemów (PBN) – za każdą specyfikację PBN",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_1/pkt_5",
+       "text": "na operacje w przestrzeni powietrznej ze zredukowanymi 1471 minimami separacji pionowej (RVSM)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_1/pkt_6",
+       "text": "na operacje śmigłowcowe z użyciem systemu 1471 noktowizyjnego (NVIS)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_1/pkt_7",
+       "text": "na operacje śmigłowcowe z ładunkiem na zaczepie 1471 zewnętrznym (HHO)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_1/pkt_8",
+       "text": "na operacje śmigłowcowych służb ratownictwa medycznego 2939 (HEMS)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_1/pkt_9",
+       "text": "na inne zatwierdzenia szczególne wpisywane do 1471 specyfikacji operacyjnej, o których mowa w Dodatku II w Part-ARO przypis 20 – za każde zezwolenie",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_1/pkt_10",
+       "text": "na transport materiałów niebezpiecznych – DG 1471",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "ust_1/pkt_11",
+       "text": "na upoważnienie do szkolenia personelu pokładowego 1471 zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "ust_1/pkt_12",
+       "text": "na upoważnienie do wydawania świadectw dopuszczenia do 1471 pracy personelu pokładowego zgodnie z podczęścią CC (Part-CC) załącznika III do rozporządzenia nr 965/2012/UE 3. Sprawowanie bieżącego nadzoru nad zgłaszającymi 2939 wykonywanie zarobkowych operacji specjalistycznych 4. Sprawowanie bieżącego nadzoru nad zgłaszającymi 2939 wykonywanie operacji niezarobkowych skomplikowanym statkiem powietrznym z napędem silnikowym 5. Sprawowanie bieżącego nadzoru nad posiadaczami zezwolenia 7342 na wykonywanie zarobkowych operacji specjalistycznych wysokiego ryzyka, w tym wykonywania zarobkowych operacji specjalistycznych Część V Sprawowanie bieżącego nadzoru nad posiadaczami certyfikatu ATO, CTO, ATCO TO, FISP TO oraz MTO Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2",
        "children": []
       }
      ]
@@ -1423,7 +3508,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "ATO 1104 2) CTO, ATCO TO lub FISP TO 631 2. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 1539 MTO Part-147 szkolącego na kategorię lub podkategorię 3. Sprawowanie bieżącego nadzoru nad organizacjami 773 szkoleniowymi mechaników lotniczych obsługi technicznej innych niż organizacje MTO Part-147",
+       "text": "ATO 1104",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "CTO, ATCO TO lub FISP TO 631 2. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 1539 MTO Part-147 szkolącego na kategorię lub podkategorię 3. Sprawowanie bieżącego nadzoru nad organizacjami 773 szkoleniowymi mechaników lotniczych obsługi technicznej innych niż organizacje MTO Part-147",
        "children": []
       }
      ]
@@ -1441,8 +3533,15 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "spełniającymi wymagania PART-145[^3] a) w klasie statki powietrzne A1 A2 A3 A4 2394 1198 1198 883 b) w klasie silniki B1 B2 B3 1797 883 602 c) w klasie podzespoły 364 za każdą kategorię",
+     "text": "spełniającymi wymagania PART-145[^3]",
      "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "w klasie statki powietrzne A1 A2 A3 A4 2394 1198 1198 883 b) w klasie silniki B1 B2 B3 1797 883 602 c) w klasie podzespoły 364 za każdą kategorię",
+       "children": []
+      },
       {
        "type": "lit",
        "num": "d",
@@ -1456,11 +3555,48 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "spełniającymi wymagania PART M/F[^3] a) w klasie statki powietrzne A1 A2 A3 A4",
+     "text": "spełniającymi wymagania PART M/F[^3]",
      "children": [
       {
-       "type": "text",
-       "text": "883 883 60 2 b ) w klasie silniki B1 B2 B3 1198 602 364 c) w klasie podzespoły 245 za każdą kategorię d) w klasie badania nieniszczące 245 3) spełniającymi wymagania PL-6[^3] a) w klasie statki powietrzne A1 A2 A3 A4 602 602 364 b) w klasie silniki B1 B2 B3 723 407 245 c) w klasie podzespoły 181 d) w klasie badania nieniszczące 181 2. Sprawowanie bieżącego nadzoru nad posiadaczami certyfikatu CAMO:"
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "w klasie statki powietrzne A1 A2 A3 A4",
+       "children": [
+        {
+         "type": "text",
+         "text": "883 883 60 2 b ) w klasie silniki B1 B2 B3 1198 602 364 c) w klasie podzespoły 245 za każdą kategorię"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_2/lit_d",
+       "text": "w klasie badania nieniszczące 245",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "spełniającymi wymagania PL-6[^3]",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "w klasie statki powietrzne A1 A2 A3 A4 602 602 364 b) w klasie silniki B1 B2 B3 723 407 245 c) w klasie podzespoły 181",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_3/lit_d",
+       "text": "w klasie badania nieniszczące 181 2. Sprawowanie bieżącego nadzoru nad posiadaczami certyfikatu CAMO:",
+       "children": []
       }
      ]
     },
@@ -1468,7 +3604,21 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "spełniającymi wymagania PART M/G w zakresie A1 A2 A3 A4 uprawnień określonych w pkt M.A.711(a) 2394 1198 1198 407 2) spełniającymi wymagania PART M/G w zakresie 1596 802 562 326 uprawnień określonych w pkt M.A.711(b) 3) spełniającymi wymagania PART M/G w zakresie 1198 562 407 207 uprawnień określonych w pkt M.A.711(c) 4) spełniającymi wymagania PL-6 483 326 164 3. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 50 % wartości opłaty jak za certyfikację POA (tabela nr 1 część III podczęść 3.5.) 4. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 407 dotyczącego projektowania, produkcji i obsługi 5. Sprawowanie bieżącego nadzoru nad budową w pojedynczym 407 egzemplarzu: lotni, paralotni, spadochronu, motolotni lub ultralekkiego statku powietrznego",
+     "text": "spełniającymi wymagania PART M/G w zakresie A1 A2 A3 A4 uprawnień określonych w pkt M.A.711(a) 2394 1198 1198 407 2) spełniającymi wymagania PART M/G w zakresie 1596 802 562 326 uprawnień określonych w pkt M.A.711(b)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "spełniającymi wymagania PART M/G w zakresie 1198 562 407 207 uprawnień określonych w pkt M.A.711(c)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "spełniającymi wymagania PL-6 483 326 164 3. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 50 % wartości opłaty jak za certyfikację POA (tabela nr 1 część III podczęść 3.5.) 4. Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu 407 dotyczącego projektowania, produkcji i obsługi 5. Sprawowanie bieżącego nadzoru nad budową w pojedynczym 407 egzemplarzu: lotni, paralotni, spadochronu, motolotni lub ultralekkiego statku powietrznego",
      "children": []
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/198",
  "title": "Uchwała nr 66 Rady Ministrów z dnia 2 lutego 2026 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Utworzenie Centrum Spersonalizowanej Diagnostyki i Terapii Onkologicznej\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/198/text.pdf",
  "body": [
   {
@@ -609,7 +609,14 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_2/pkt_3",
-       "text": "Zakładu Diagnostyki Obrazowej i Radiologii Zabiegowej – Pracowni Rezonansu Magnetycznego; 4) Zakładu Radiodiagnostyki i Radiologii Zabiegowej – Pracowni Rezonansu Magnetycznego;",
+       "text": "Zakładu Diagnostyki Obrazowej i Radiologii Zabiegowej – Pracowni Rezonansu Magnetycznego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "Zakładu Radiodiagnostyki i Radiologii Zabiegowej – Pracowni Rezonansu Magnetycznego;",
        "children": []
       },
       {

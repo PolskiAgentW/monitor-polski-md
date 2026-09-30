@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/749",
  "title": "Uchwała nr 162 Rady Ministrów z dnia 24 lipca 2026 r. w sprawie ustanowienia programu rządowego pod nazwą \"Promocja Sportu Osób z Niepełnosprawnościami w 2026 r.\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/749/text.pdf",
  "body": [
   {
@@ -167,7 +167,14 @@
      "type": "pkt",
      "num": "6",
      "path": "pkt_6",
-     "text": "zwiększenie świadomości społeczeństwa na temat sportu osób z niepełnosprawnościami; 7) promocja zdrowego stylu życia i aktywności osób z niepełnosprawnościami, w tym seniorów.",
+     "text": "zwiększenie świadomości społeczeństwa na temat sportu osób z niepełnosprawnościami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "promocja zdrowego stylu życia i aktywności osób z niepełnosprawnościami, w tym seniorów.",
      "children": [
       {
        "type": "text",
@@ -448,7 +455,14 @@
        "type": "pkt",
        "num": "7",
        "path": "ust_8/pkt_7",
-       "text": "zakwaterowanie, w miarę potrzeb dostosowane dla osób z niepełnosprawnościami; 8) ubezpieczenie;",
+       "text": "zakwaterowanie, w miarę potrzeb dostosowane dla osób z niepełnosprawnościami;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_8/pkt_8",
+       "text": "ubezpieczenie;",
        "children": []
       },
       {
@@ -813,7 +827,14 @@
        "type": "pkt",
        "num": "9",
        "path": "ust_9/pkt_9",
-       "text": "udział środków jednostek samorządu terytorialnego, w ramach środków własnych; 10) udział wolontariuszy.",
+       "text": "udział środków jednostek samorządu terytorialnego, w ramach środków własnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "ust_9/pkt_10",
+       "text": "udział wolontariuszy.",
        "children": []
       }
      ]

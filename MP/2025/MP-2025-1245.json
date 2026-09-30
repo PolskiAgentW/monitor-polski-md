@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/1245",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 3 grudnia 2025 r. w sprawie włączenia kwalifikacji wolnorynkowej \"Przeładunek sztuk ciężkich - ładunków ponadgabarytowych, w tym elementów turbin wiatrowych na terminalach przeładunkowych\" do Zintegrowanego Systemu Kwalifikacji",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1245/text.pdf",
  "body": [
   {
@@ -86,7 +86,14 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_3/pkt_2",
-       "text": "wykorzystuje specjalistyczną wiedzę z zakresu posługiwania się dokumentacją przeładunkową, wykorzystywania sprzętu technicznego oraz zasad komunikacji w zespole; 3) na podstawie oznakowania ładunku i dokumentacji przeładunkowej odpowiednio rozmieszcza, mocuje i zabezpiecza ładunek przed uszkodzeniem na czas jego transportu lub magazynowania, wykorzystując odpowiednie materiały sztauerskie;",
+       "text": "wykorzystuje specjalistyczną wiedzę z zakresu posługiwania się dokumentacją przeładunkową, wykorzystywania sprzętu technicznego oraz zasad komunikacji w zespole;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_3/pkt_3",
+       "text": "na podstawie oznakowania ładunku i dokumentacji przeładunkowej odpowiednio rozmieszcza, mocuje i zabezpiecza ładunek przed uszkodzeniem na czas jego transportu lub magazynowania, wykorzystując odpowiednie materiały sztauerskie;",
        "children": []
       },
       {

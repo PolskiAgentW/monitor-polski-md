@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/1060",
  "title": "Obwieszczenie Ministra Edukacji z dnia 25 września 2025 r. w sprawie włączenia kwalifikacji wolnorynkowej \"Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM\" do Zintegrowanego Systemu Kwalifikacji",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1060/text.pdf",
  "body": [
   {
@@ -291,7 +291,21 @@
          "type": "lit",
          "num": "a",
          "path": "ust_1/pkt_2/lit_a",
-         "text": "ukończył kurs w zakresie stosowania podejścia STEAM lub b) posiada kwalifikację wolnorynkową „Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM”, lub c) posiada nadaną za granicą kwalifikację dotyczącą stosowania podejścia STEAM porównywalną z kwalifikacją wolnorynkową „Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM”;",
+         "text": "ukończył kurs w zakresie stosowania podejścia STEAM lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_1/pkt_2/lit_b",
+         "text": "posiada kwalifikację wolnorynkową „Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM”, lub",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "ust_1/pkt_2/lit_c",
+         "text": "posiada nadaną za granicą kwalifikację dotyczącą stosowania podejścia STEAM porównywalną z kwalifikacją wolnorynkową „Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM”;",
          "children": []
         }
        ]
@@ -312,7 +326,21 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "ukończył kurs podejścia STEAM lub 2) posiada kwalifikację wolnorynkową „Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM”, lub 3) posiada nadaną za granicą kwalifikację dotyczącą stosowania podejścia STEAM porównywalną z kwalifikacją wolnorynkową „Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM”. Co najmniej jeden członek komisji walidacyjnej oprócz wymogów, o których mowa powyżej, dodatkowo spełnia następujące warunki:",
+       "text": "ukończył kurs podejścia STEAM lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "posiada kwalifikację wolnorynkową „Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM”, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "posiada nadaną za granicą kwalifikację dotyczącą stosowania podejścia STEAM porównywalną z kwalifikacją wolnorynkową „Wspieranie uczenia się dzieci i młodzieży z wykorzystaniem podejścia STEAM”. Co najmniej jeden członek komisji walidacyjnej oprócz wymogów, o których mowa powyżej, dodatkowo spełnia następujące warunki:",
        "children": []
       },
       {

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/909",
  "title": "Uchwała nr 171 Rady Ministrów z dnia 2 września 2026 r. w sprawie ustanowienia programu wieloletniego pod nazwą \"Krajowy program poszukiwań surowców krytycznych\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/909/text.pdf",
  "body": [
   {
@@ -440,7 +440,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_2/pkt_1",
-       "text": "zwiększenie bezpieczeństwa surowcowego Polski przez rozwój krajowej bazy zasobowej; 2) uniezależnienie kraju od importu niektórych surowców krytycznych, a przez to zmniejszenie ryzyka przerwania łańcuchów dostaw;",
+       "text": "zwiększenie bezpieczeństwa surowcowego Polski przez rozwój krajowej bazy zasobowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "uniezależnienie kraju od importu niektórych surowców krytycznych, a przez to zmniejszenie ryzyka przerwania łańcuchów dostaw;",
        "children": []
       },
       {
@@ -1569,7 +1576,14 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_4/pkt_1",
-       "text": "cechsztyńska seria miedzionośna oraz 2) skały ultramaficzne i maficzne ofiolitów, ich zwietrzeliny i okalające osady aluwialne Sudetów i bloku przedsudeckiego.",
+       "text": "cechsztyńska seria miedzionośna oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_4/pkt_2",
+       "text": "skały ultramaficzne i maficzne ofiolitów, ich zwietrzeliny i okalające osady aluwialne Sudetów i bloku przedsudeckiego.",
        "children": [
         {
          "type": "text",
@@ -1601,19 +1615,34 @@
         },
         {
          "type": "text",
-         "text": "– metody planowanych badań geofizycznych – – przedstawiają się następująco: a) magnetyka z drona (łącznie – 1200 km), b) ERT i IP (łącznie – 60 km), c) sejsmika płytka (łącznie – 60 km)"
+         "text": "– metody planowanych badań geofizycznych – – przedstawiają się następująco: a) magnetyka z drona (łącznie – 1200 km),"
         },
         {
-         "type": "text",
-         "text": "58 Otwory wiertnicze – – wykonanie otworów wycena wraz wiertniczych: do z dokumentacjami 10 otworów wiertniczych powykonawczymi oraz (rdzeniowanych na całej czynnościami długości wiercenia) i dokumentami o głębokości do 250 m poprzedzającymi (takimi (dotyczy obszarów jak projekty robót wychodni skał maficznych geologicznych) oraz ultramaficznych i ich zwietrzelin oraz okalających je aluwiów – – w obrębie: Ślęży, – Brzeźnicy, Gogołowa, Nowej Rudy, Dzierżoniowa) wraz z przeprowadzaniem badań geofizyki otworowej (np. pomiar temperatury) i hydrogeologicznych (np. pomiar głębokości zwierciadła wód podziemnych)"
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_2/lit_b",
+         "text": "ERT i IP (łącznie – 60 km),",
+         "children": []
         },
         {
-         "type": "text",
-         "text": "4.27 Ocena krajowych perspektyw występowania skandu"
-        },
-        {
-         "type": "text",
-         "text": "Skand w Polsce nie był w przeszłości badany pod kątem perspektyw złożowych. Z tego powodu dane na temat tego metalu są bardzo ograniczone, a w polskim prawie nie ma kryteriów definiujących złoże skandu i jego granice. Zapotrzebowanie na skand wzrosło w ostatnich latach w związku z wprowadzeniem lekkich i wytrzymałych stopów aluminium ze skandem, mających zastosowanie w przemyśle motoryzacyjnym, lotniczym i kosmicznym. Na podstawie kwerendy archiwalnych opracowań złożowych oraz literatury naukowej krajowej i zagranicznej wyróżniono trzy regiony, w których można spodziewać się podwyższonych koncentracji skandu w Polsce:"
+         "type": "lit",
+         "num": "c",
+         "path": "ust_4/pkt_2/lit_c",
+         "text": "sejsmika płytka (łącznie – 60 km)",
+         "children": [
+          {
+           "type": "text",
+           "text": "58 Otwory wiertnicze – – wykonanie otworów wycena wraz wiertniczych: do z dokumentacjami 10 otworów wiertniczych powykonawczymi oraz (rdzeniowanych na całej czynnościami długości wiercenia) i dokumentami o głębokości do 250 m poprzedzającymi (takimi (dotyczy obszarów jak projekty robót wychodni skał maficznych geologicznych) oraz ultramaficznych i ich zwietrzelin oraz okalających je aluwiów – – w obrębie: Ślęży, – Brzeźnicy, Gogołowa, Nowej Rudy, Dzierżoniowa) wraz z przeprowadzaniem badań geofizyki otworowej (np. pomiar temperatury) i hydrogeologicznych (np. pomiar głębokości zwierciadła wód podziemnych)"
+          },
+          {
+           "type": "text",
+           "text": "4.27 Ocena krajowych perspektyw występowania skandu"
+          },
+          {
+           "type": "text",
+           "text": "Skand w Polsce nie był w przeszłości badany pod kątem perspektyw złożowych. Z tego powodu dane na temat tego metalu są bardzo ograniczone, a w polskim prawie nie ma kryteriów definiujących złoże skandu i jego granice. Zapotrzebowanie na skand wzrosło w ostatnich latach w związku z wprowadzeniem lekkich i wytrzymałych stopów aluminium ze skandem, mających zastosowanie w przemyśle motoryzacyjnym, lotniczym i kosmicznym. Na podstawie kwerendy archiwalnych opracowań złożowych oraz literatury naukowej krajowej i zagranicznej wyróżniono trzy regiony, w których można spodziewać się podwyższonych koncentracji skandu w Polsce:"
+          }
+         ]
         }
        ]
       },

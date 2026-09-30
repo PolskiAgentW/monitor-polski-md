@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/343",
  "title": "Uchwała nr 93 Rady Ministrów z dnia 12 marca 2026 r. zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Program inwestycyjny modernizacji podmiotów leczniczych\"",
- "converter": "eli2md 0.6.2",
+ "converter": "eli2md 0.6.3",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/343/text.pdf",
  "body": [
   {
@@ -1050,7 +1050,14 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "zauważalne są znaczne różnice w dostępie do opieki paliatywnej w poszczególnych województwach, 3) w województwach o największych potrzebach wzrost liczby łóżek jest znikomy, pogłębia się więc różnica w dostępie do świadczeń opieki zdrowotnej między województwami⁴.",
+     "text": "zauważalne są znaczne różnice w dostępie do opieki paliatywnej w poszczególnych województwach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "w województwach o największych potrzebach wzrost liczby łóżek jest znikomy, pogłębia się więc różnica w dostępie do świadczeń opieki zdrowotnej między województwami⁴.",
      "children": [
       {
        "type": "text",
