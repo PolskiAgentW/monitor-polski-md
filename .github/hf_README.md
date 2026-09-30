@@ -45,8 +45,9 @@ Jeden wiersz = jeden akt.
 - `eli` (np. `MP/2025/613`), `year`, `pos`, `type`, `title`, `display_address`, `announcement_date`, `promulgation`,
   `entry_into_force`, `legal_status`, `keywords`, `change_date`, `source_pdf`, `pdf_sha256`: metadane z API ELI
   (bez poprawek, więc z jego błędami; `legal_status` — stan w chwili konwersji);
-- `pages`, `words`, `no_text_pages`, `image_pages`, `ocr_pages`: strony PDF, słowa wyniku, strony bez warstwy
-  tekstowej (skany), strony z dużymi obrazami (ich treści brak), strony odczytane przez OCR;
+- `pages`, `words`, `no_text_pages`, `image_pages`, `ocr_pages`, `image_ocr_pages`: strony PDF, słowa wyniku,
+  strony bez warstwy tekstowej (skany), strony z dużymi obrazami (ich treści brak), strony odczytane przez OCR,
+  strony, na których OCR odczytał obraz tekstu (s. 1 umów międzynarodowych, od eli2md 0.6.4);
 - `markdown`: tekst aktu (tekst z OCR jako cytaty `> …` z notką przed stroną);
 - `tree`: ten sam akt jako drzewo jednostek w JSON (tekst; opis formatu w
   [README eli2md](https://github.com/PolskiAgentW/eli2md#json-drzewo-jednostek-od-053));

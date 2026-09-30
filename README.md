@@ -24,7 +24,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 01:01 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 03:21 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -35,7 +35,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 29, razem 525 z 10601 s
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 36.
 
 Rodzaje aktów: Postanowienie 851, Obwieszczenie 524, Uchwała 462, Komunikat 241, Zarządzenie 141, Ogłoszenie 22, Umowa międzynarodowa 14, Oświadczenie rządowe 14, Apel 2, Protokół 1.
-Wersje konwertera: eli2md 0.6.3 (2272).
+Wersje konwertera: eli2md 0.6.4 (2272).
 <!-- stats:end -->
 
 ## Zawartość
@@ -47,8 +47,9 @@ Wersje konwertera: eli2md 0.6.3 (2272).
   `tir`) z numerem, ścieżką (`par_2/ust_1/pkt_3`), tekstem i dziećmi. Opis:
   [README eli2md](https://github.com/PolskiAgentW/eli2md#json-drzewo-jednostek-od-053).
 - `index.csv`: jeden wiersz na akt, także nieudany: `eli, year, pos, type, title, announcement_date,
-  promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages, ocr_pages, status, error,
-  converter, converted_at`.
+  promulgation, change_date, pdf_sha256, pages, words, no_text_pages, image_pages, ocr_pages, image_ocr_pages,
+  status, error, converter, converted_at`. `image_ocr_pages` (od eli2md 0.6.4): liczba stron, na których OCR
+  odczytał obraz tekstu na stronie z warstwą tekstową (s. 1 umów międzynarodowych; 11 aktów).
 - Cały zbiór w jednym pliku: [`monitor-polski-md.jsonl.gz`](https://github.com/PolskiAgentW/monitor-polski-md/releases/download/dane/monitor-polski-md.jsonl.gz)
   (JSON Lines, jeden akt w wierszu: kolumny `index.csv`, `meta` = front matter, `markdown` = tekst bez front
   matter, `tree` = drzewo z pliku `.json`). Odświeżany codziennie po aktualizacji (workflow „Eksport”).
@@ -92,7 +93,12 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
   (podpis, tytuł sklejony przez granicę strony). Na żadnej stronie z warstwą tekstową nie zginęło słowo. Próba
   mała (przedział 95%: 12–54% stron z błędem), 10 z 15 aktów ma 1 stronę. Raport:
   [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
-  Metadane z API bywają błędne: MP/2025/635 ma `promulgation_date` 2025-07-08, PDF — 11 lipca 2025 r.
+  Metadane z API bywają błędne: MP/2025/635 ma `promulgation_date` 2025-07-08, PDF — 11 lipca 2025 r;
+  MP/2026/615 ma `announcement_date` 2206-06-11, w tytule „z dnia 11 czerwca 2026 r.” (stan na 2026-09-30).
+- **Zmiana w eli2md 0.6.4** (akty od nowa 2026-09-30 rano; tekst zmienił się w 11 plikach, drzewo JSON w 12):
+  s. 1 umów międzynarodowych, na której preambuła i pierwsze artykuły są obrazem, czyta OCR, jeśli obraz wygląda
+  na tekst ciągły (MP/2026/869: preambuła, art. 1 pkt 1–2). Tekst jest oznaczony notką i cytatami `> …`, jak inny
+  OCR. W JSON numerowane wiersze tabel nie są jednostkami (MP/2025/1248: lit. e–i są teraz pod pkt 2).
 - **Poprawione w eli2md 0.6.3** (dane przekonwertowane od nowa 2026-09-30; tekst zmienił się w 37 plikach):
   w wklejonych PDF-ach konwerter gubił litery czcionek z błędnymi metrykami, np. „elekt omobinos ci” zamiast
   „elektromobilności” w MP/2025/1128 (odsetek słów 0.72 → 0.997). W MP/2025/541 (obrócona tabela z drobnym

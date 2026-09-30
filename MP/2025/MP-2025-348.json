@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/348",
  "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Międzynarodowym Bankiem Współpracy Gospodarczej (MBWG) o ostatecznym uregulowaniu wzajemnych roszczeń i zobowiązań w związku z wypowiedzeniem przez Rzeczpospolitą Polską Porozumienia o utworzeniu i działalności MBWG i wystąpieniem z MBWG, podpisana w Moskwie dnia 22 listopada 2024 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/348/text.pdf",
  "body": [
   {
@@ -18,7 +18,27 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rząd Rzeczypospolitej Polskiej, reprezentowany przez fp działającego z upoważnienia Rządu Rzeczypospolitej Polskiej na podstawie pełnomocnictwa 2 dn. 18.05. JĄ , zwany dalej „Stroną polska” i Międzynarodowy Bank Współpracy Gospodarczej, zwany dalej „Bankiem”, reprezentowany przez Prezesa Zarządu Denisa Ivanova i członka Zarządu Nguyen nb Hung , działających na podstawie Statutu dalej wspólnie zwane ,,Stronami”,"
+  },
+  {
+   "type": "ocr",
+   "text": "w celu ostatecznego uregulowania wszystkich roszczeń wzajemnych i zobowiązań między Bankiem i Rzecząpospolitą Polską"
+  },
+  {
+   "type": "ocr",
+   "text": "uzgodnili, co następuje."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 1"
+  },
+  {
+   "type": "ocr",
+   "text": "Przedmiotem niniejszej Umowy jest ostateczne uregulowanie wzajemnych roszczeń i zobowiązań między Bankiem a Rzecząpospolitą Polską w związku z wypowiedzeniem przez Rzeczpospolitą Polską Porozumienia o utworzeniu idziałalności Międzynarodowego Banku Współpracy Gospodarczej, zawartego 22 października 1963 roku i odstąpieniem od członkostwa w Banku."
   },
   {
    "type": "note",

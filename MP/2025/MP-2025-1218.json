@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/1218",
  "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Mongolii o międzynarodowych przewozach drogowych, podpisana w Ułan Bator dnia 25 kwietnia 2023 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1218/text.pdf",
  "body": [
   {
@@ -18,7 +18,71 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rząd"
+  },
+  {
+   "type": "ocr",
+   "text": "Rzeczypospolitej Polskiej i Rząd Mongolii zwane dalej „Umawiającymi się Stronami”,"
+  },
+  {
+   "type": "ocr",
+   "text": "Kierując się dążeniem do rozwoju przewozów drogowych osób i rzeczy między obu państwami oraz w tranzycie przez terytoria ich państw,"
+  },
+  {
+   "type": "ocr",
+   "text": "Uzgodniły, co następuje:"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 1"
+  },
+  {
+   "type": "ocr",
+   "text": "Zakres Umowy"
+  },
+  {
+   "type": "ocr",
+   "text": "Niniejsza Umowa ma zastosowanie do międzynarodowych przewozów drogowych osób i rzeczy między Rzecząpospolitą Polską a Mongolią, w tranzycie przez terytoria ich państw oraz między terytorium państwa trzeciego a terytorium państwa jednej z Umawiających się Stron i z powrotem, pojazdami zarejestrowanymi na terytorium państwa jednej z Umawiających się Stron."
+  },
+  {
+   "type": "ocr",
+   "text": "Przewoźnicy jednej z Umawiających się Stron nie są uprawnieni do wykonywania przewozów osób i rzeczy pomiędzy dwoma miejscami położonymi na terytorium państwa drugiej Umawiającej się Strony."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 2"
+  },
+  {
+   "type": "ocr",
+   "text": "Definicje"
+  },
+  {
+   "type": "ocr",
+   "text": "Dla celów niniejszej Umowy:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) „Przewoźnik” oznacza dowolną osobę fizyczną, osobę prawną, jednostkę organizacyjną lub grupę osób nieposiadającą osobowości prawnej, zamieszkałą lub mającą siedzibę w Rzeczypospolitej Polskiej lub w Mongolii, wykonującą międzynarodowe przewozy drogowe zgodnie z przepisami prawa wewnętrznego danego kraju."
+  },
+  {
+   "type": "ocr",
+   "text": "2) „Pojazd” oznacza pojazd samochodowy, który ze względu na swoją budowę jest"
+  },
+  {
+   "type": "ocr",
+   "text": "3)"
+  },
+  {
+   "type": "ocr",
+   "text": "przeznaczony do drogowego przewozu osób lub rzeczy, lub do ciągnięcia przyczepy bez napędu mechanicznego przeznaczonej do przewozu rzeczy. Pojęcie to obejmuje także zespół pojazdów, złożony z pojazdu ciągnącego i naczepy lub przyczepy."
+  },
+  {
+   "type": "ocr",
+   "text": "„Autobus” oznacza pojazd samochodowy, który ze względu na swoją budowę jest dostosowany i przeznaczony do drogowego przewozu ponad dziewięciu osób łącznie z kierowcą."
   },
   {
    "type": "note",

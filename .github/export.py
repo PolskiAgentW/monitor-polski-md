@@ -11,7 +11,7 @@ import re
 import sys
 from pathlib import Path
 
-INTS = {"year", "pos", "pages", "words", "no_text_pages", "image_pages", "ocr_pages"}
+INTS = {"year", "pos", "pages", "words", "no_text_pages", "image_pages", "ocr_pages", "image_ocr_pages"}
 FRONT = re.compile(r"\A---\n(.*?)\n---\n+", re.S)
 
 

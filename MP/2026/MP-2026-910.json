@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/910",
  "title": "Porozumienie między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Rwandy o podejmowaniu działalności zarobkowej przez członków rodziny członka misji dyplomatycznej lub urzędu konsularnego, podpisane w Warszawie dnia 24 lipca 2026 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/910/text.pdf",
  "body": [
   {
@@ -18,7 +18,35 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rząd Rzeczypospolitej Polskiej i Rząd Republiki Rwandy, zwane dalej „Stronami”, uzgodniły, co następuje:"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 1 Uprawnienie do wykonywania działalności zarobkowej"
+  },
+  {
+   "type": "ocr",
+   "text": "Członkowie rodziny członka misji dyplomatycznej lub urzędu konsularnego jednej ze Stron, oddelegowanego do pełnienia funkcji na terytorium Państwa drugiej Strony, będą mogli, na zasadzie wzajemności, podejmować działalność zarobkową w Państwie przyjmującym, zgodnie z prawem tego Państwa oraz postanowieniami niniejszego Porozumienia, pod warunkiem, że pozostają we wspólnym gospodarstwie domowym oraz na utrzymaniu wspomnianego członka misji dyplomatycznej lub urzędu konsularnego."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 2 Definicje"
+  },
+  {
+   "type": "ocr",
+   "text": "Dla celów niniejszego Porozumienia, wyrażenie: 1)"
+  },
+  {
+   "type": "ocr",
+   "text": "2)"
+  },
+  {
+   "type": "ocr",
+   "text": "„działalność zarobkowa” oznacza każdą formę zatrudnienia za wynagrodzeniem, wykonywanie innej działalności zarobkowej lub pełnienie funkcji w zarządach osób prawnych prowadzących działalność gospodarczą; „członek misji dyplomatycznej lub urzędu konsularnego” oznacza pracownika Państwa wysyłającego, który nie jest obywatelem Państwa przyjmującego ani nie posiada w nim prawa stałego pobytu, wykonującego funkcje przedstawiciela dyplomatycznego, urzędnika konsulamego lub członka - personelu administracyjnego i technicznego misji dyplomatycznej lub urzędu konsularnego w Państwie przyjmującym, zgodnie z definicjami zawartymi w Artykule 1 litery e) i f) Konwencji wiedeńskiej o stosunkach dyplomatycznych, sporządzonej w Wiedniu dnia 18 kwietnia 1961 roku („Konwencja wiedeńska o stosunkach dyplomatycznych) lub, odpowiednio, Artykule 1 ustęp 1 litery d) i e) Konwencji wiedeńskiej o stosunkach konsularnych, sporządzonej w Wiedniu dnia 24 kwietnia 1963 roku („Konwencja wiedeńska o stosunkach konsularnych”);"
   },
   {
    "type": "note",

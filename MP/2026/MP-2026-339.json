@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/339",
  "title": "Porozumienie między Ministrem Spraw Zagranicznych Rzeczypospolitej Polskiej a Ministrem Spraw Zagranicznych Republiki Turcji o kształceniu obywateli Republiki Turcji w Kolegium Europy w Natolinie, podpisane w Ankarze dnia 16 lutego 2026 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/339/text.pdf",
  "body": [
   {
@@ -18,7 +18,35 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Minister Spraw Zagranicznych Rzeczypospolitej Polskiej i Minister Spraw Zagranicznych Republiki Turcji, zwani dalej „Umawiającymi się Stronami”,"
+  },
+  {
+   "type": "ocr",
+   "text": "- zgodnie z zasadami przyjaźni, pogłębiania współpracy oraz partnerstwa strategicznego, cechującymi stosunki między obydwoma Państwami,"
+  },
+  {
+   "type": "ocr",
+   "text": "- mając na celu konsekwentne i systematyczne wspieranie dążeń Republiki Turcji do członkostwa w Unii Europejskiej, w szczególności w kontekście profesjonalizacji kadr administracji publicznej oraz pogłębiania wiedzy dotyczącej zasad funkcjonowania Unii Europejskiej, jak również wzmocnienia zaplecza eksperckiego,"
+  },
+  {
+   "type": "ocr",
+   "text": "- świadome wspólnych wyzwań i możliwości, które niesie współpraca w obszarze tematyki europejskiej,"
+  },
+  {
+   "type": "ocr",
+   "text": "- biorąc pod uwagę wolę obu Umawiających się Stron dotyczącą ożywienia i wzmocnienia współpracy w obszarze nauki,"
+  },
+  {
+   "type": "ocr",
+   "text": "- uznając osiągnięcia Kolegium Europy w Natolinie w zakresie kształcenia kadr zaangażowanych w proces integracji europejskiej oraz dotychczasową ścisłą współpracę Umawiających się Stron z Kolegium Europy w Natolinie,"
+  },
+  {
+   "type": "ocr",
+   "text": "uzgodniły co następuje:"
   },
   {
    "type": "note",

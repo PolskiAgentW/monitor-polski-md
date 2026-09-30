@@ -10,7 +10,7 @@ import sys
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-INT = ("year", "pos", "pages", "words", "no_text_pages", "image_pages", "ocr_pages")
+INT = ("year", "pos", "pages", "words", "no_text_pages", "image_pages", "ocr_pages", "image_ocr_pages")
 FIELDS = [  # (column, where to take it from: index.csv column or front matter key)
     ("eli", "eli"), ("year", "year"), ("pos", "pos"), ("type", "type"), ("title", "title"),
     ("display_address", "meta.display_address"), ("announcement_date", "announcement_date"),
@@ -18,6 +18,7 @@ FIELDS = [  # (column, where to take it from: index.csv column or front matter k
     ("legal_status", "meta.status_pl"), ("keywords", "meta.keywords"), ("change_date", "change_date"),
     ("source_pdf", "meta.source_pdf"), ("pdf_sha256", "pdf_sha256"), ("pages", "pages"), ("words", "words"),
     ("no_text_pages", "no_text_pages"), ("image_pages", "image_pages"), ("ocr_pages", "ocr_pages"),
+    ("image_ocr_pages", "image_ocr_pages"),
     ("converter", "converter"), ("converted_at", "converted_at"),
 ]
 SCHEMA = pa.schema([(c, pa.int32() if c in INT else pa.string()) for c, _ in FIELDS]

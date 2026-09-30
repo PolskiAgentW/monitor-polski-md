@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/869",
  "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Królestwa Arabii Saudyjskiej o zniesieniu obowiązku wizowego dla posiadaczy paszportów dyplomatycznych, służbowych i specjalnych, podpisana w Warszawie dnia 26 stycznia 2026 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/869/text.pdf",
  "body": [
   {
@@ -18,7 +18,39 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rząd Rzeczypospolitej Polskiej i Rząd Królestwa Arabii Saudyjskiej, zwane dalej „Stronami”,"
+  },
+  {
+   "type": "ocr",
+   "text": "pragnąc zacieśnić przyjazne stosunki między obydwoma Państwami;"
+  },
+  {
+   "type": "ocr",
+   "text": "biorąc pod uwagę interes Stron dotyczący zwolnienia z obowiązku posiadania wiz dla swoich obywateli legitymujących się paszportami dyplomatycznymi, służbowymi i specjalnymi, zgodnie z obowiązującymi przepisami prawa obydwu Państw;"
+  },
+  {
+   "type": "ocr",
+   "text": "uzgodniły, co następuje:"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 1 DEFINCJE"
+  },
+  {
+   "type": "ocr",
+   "text": "Do celów niniejszej Umowy:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) wyrażenia „obywatele jednej Strony”, „obywatele drugiej Strony”, „obywatele każdej ze Stron” oznaczają odpowiednio, w zależności od kontekstu, obywateli Rzeczypospolitej Polskiej lub obywateli Królestwa Arabii Saudyjskiej,"
+  },
+  {
+   "type": "ocr",
+   "text": "2) wyrażenia „terytorium”, „terytorium Strony”, „terytorium drugiej Strony” oznaczają odpowiednio, w zależności od kontekstu, terytorium Rzeczypospolitej Polskiej lub terytorium Królestwa Arabii Saudyjskiej."
   },
   {
    "type": "note",

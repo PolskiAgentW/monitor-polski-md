@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/88",
  "title": "Porozumienie między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonej Republiki Tanzanii w sprawie zmiany Umowy między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonej Republiki Tanzanii o udzieleniu kredytu w ramach pomocy wiązanej, podpisanej w Dar es Salaam dnia 28 września 2015 r., zmienionej Porozumieniem podpisanym w Dar es Salaam dnia 12 września 2017 r., podpisane w Dar es Salaam dnia 21 maja 2024 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/88/text.pdf",
  "body": [
   {
@@ -18,7 +18,31 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rząd Rzeczypospolitej Polskiej i Rząd Zjednoczonej Republiki Tanzanii, zwane dalej „Umawiającymi się Stronami”, kierując się pragnieniem kontynuacji konstruktywnej współpracy gospodarczej między Rzecząpospolitą Polską a Zjednoczoną Republiką Tanzanii, postanowiły, co następuje:"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 1 W Umowie między Rządem Rzeczypospolitej Polskiej a Rządem Zjednoczonej Republiki Tanzanii o udzieleniu kredytu w ramach pomocy wiązanej, podpisanej w Dar es Salaam dnia 28 września 2015 r., zmienionej Porozumieniem z dnia 12 września 2017 r., stosownie do jej artykułu 13, wprowadza się następujące zmiany:"
+  },
+  {
+   "type": "ocr",
+   "text": "1)"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł I otrzymuje brzmienie: „Artykuł 1. Rząd Rzeczypospolitej Polskiej udzieli Rządowi Zjednoczonej Republiki Tanzanii kredytu w wysokości nieprzekraczającej 110 mln USD (słownie: sto dziesięć milionów dolarów USA), zwanego dalej „Kredytem”, na finansowanie projektów w Zjednoczonej Republice Tanzanii w dziedzinie modernizacji rolnictwa lub w innych dziedzinach ' uzgodnionych między Umawiającymi się Stronami. Kredyt będzie przeznaczony na sfinansowanie 100 % (słownie: stu procent) wartości kontraktów na dostawy towarów i usług z Rzeczypospolitej Polskiej do Zjednoczonej Republiki Tanzanii. *; w Artykule 3 ustęp 2 otrzymuje brzmienie: „2. Kontrakty będą zawarte przez przedsiębiorców mających siedzibę na terytorium Rzeczypospolitej Polskiej, zwanych dalej „polskimi przedsiębiorcami”, i importerów ze Zjednoczonej Republiki Tanzanii nie później niż do 31 grudnia 2024 r.”;"
+  },
+  {
+   "type": "ocr",
+   "text": "w Artykule 3 ustęp 3 otrzymuje brzmienie: „3. Kontrakty oraz wszystkie aneksy do kontraktów, zawarte zgodnie z niniejszą Umową, muszą być zaakceptowane przez Umawiające się Strony zgodnie z następującą procedurą:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) Ministerstwo Finansów Zjednoczonej Republiki Tanzanii poinformuje pisemnie Ministerstwo Finansów Rzeczypospolitej Polskiej o zaakceptowaniu każdego kontraktu przez właściwe władze Zjednoczonej Republiki Tanzanii,"
   },
   {
    "type": "note",

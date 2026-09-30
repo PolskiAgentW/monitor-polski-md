@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/879",
  "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Czeskiej o wzajemnej współpracy w dziedzinie obronności, podpisana w Pradze dnia 3 czerwca 2022 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/879/text.pdf",
  "body": [
   {
@@ -18,7 +18,11 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rząd Rzeczpospolitej Polskiej i Rząd Republiki Czeskiej, zwane dalej razem „Stronami” i osobno ,,Strong”; DĄŻĄC do wzmocnienia łączących ich serdecznych i sąsiedzkich relacji; UZNAJĄC potrzebę działania na rzecz trwałego umacniania pokoju i wzajemnego zaufania na Świecie; BIORĄC pod uwagę znaczenie wzajemnej współpracy w dziedzinie obronności; DZIAŁAJĄC zgodnie ze swoim prawem wewnętrznym i prawem międzynarodowym; SZANUJĄC swoje międzynarodowe zobowiązania polityczne; UWZGLĘDNIAJĄC w szczególności: — Kartę Narodów Zjednoczonych i _ Statut Międzynarodowego Trybunału Sprawiedliwości, sporządzone w San Francisco dnia 26 czerwca 1945 r.; — Traktat Północnoatłantycki, sporządzony w Waszyngtonie dnia 4 kwietnia 1949 r.; — Umowę między Państwami-Stronami Traktatu Północnoatlantyckiego dotyczącą statusu ich sił zbrojnych, sporządzoną w Londynie dnia 19 czerwca 1951 r., zwaną dalej „NATO SOFA”; — Traktat z Lizbony zmieniający Traktat o Unii Europejskiej i Traktat ustanawiający Wspólnotę Europejską, sporządzony w Lizbonie dnia 13 grudnia 2007 r.; — Umowę między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Czeskiej o wzajemnej ochronie informacji niejawnych, podpisaną w Pradze dnia 7 grudnia 2004 r.;"
   },
   {
    "type": "note",

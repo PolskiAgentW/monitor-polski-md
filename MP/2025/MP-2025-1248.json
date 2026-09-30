@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/1248",
  "title": "Uchwała nr 171 Rady Ministrów z dnia 5 grudnia 2025 r. zmieniająca uchwałę w sprawie aktualizacji \"Krajowego planu postępowania z odpadami promieniotwórczymi i wypalonym paliwem jądrowym\"",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1248/text.pdf",
  "body": [
   {
@@ -173,135 +173,141 @@
              "num": "1",
              "path": "par_1/pkt_2/lit_d/tir_9/tir_1/tir_1",
              "text": "lp. 3 i 4 otrzymują brzmienie:",
-             "children": []
+             "children": [
+              {
+               "type": "text",
+               "text": "3. Realizacja Krajowego planu (środki 2.500 300*** 200 200 500 ministra właściwego do spraw energii, a od dnia 1 lipca 2024 r. – ministra właściwego do spraw gospodarki surowcami energetycznymi)"
+              },
+              {
+               "type": "text",
+               "text": "4. Zamknięcie KSOP RÓŻAN* 10.000 - - - - – przygotowanie do zamknięcia KSOP Różan (w tym środki programu wieloletniego)[^12]"
+              }
+             ]
+            },
+            {
+             "type": "tir",
+             "num": "2",
+             "path": "par_1/pkt_2/lit_d/tir_9/tir_1/tir_2",
+             "text": "lp. 8 otrzymuje brzmienie:",
+             "children": [
+              {
+               "type": "text",
+               "text": "8. Program naukowo-badawczy 10.000 - - - 5.000 dotyczący postępowania z odpadami promieniotwórczymi**"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_1/pkt_2/lit_d/tir_9/tir_2",
+           "text": "objaśnienia otrzymują brzmienie:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„Objaśnienia:",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "* Środki własne ministra właściwego do spraw energii, a od dnia 1 lipca 2024 r. – ministra właściwego do spraw gospodarki surowcami energetycznymi w ramach określonego dla niego limitu wydatków na dany rok budżetowy, bez konieczności jego zwiększania, ewentualnie, przy powstaniu takiej możliwości, środki NFOŚiGW (zgodnie z zapisami PPEJ). W przypadku braku możliwości sfinansowania tych działań z obu tych źródeł realizacja tych zadań zostanie sfinansowana ze środków programu wieloletniego.",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "** Środki własne ministra właściwego do spraw energii, a od dnia 1 lipca 2024 r. – ministra właściwego do spraw gospodarki surowcami energetycznymi w ramach określonego dla niego limitu wydatków na dany rok budżetowy, bez konieczności jego zwiększania. Minister właściwy do spraw energii, a od dnia 1 lipca 2024 r. – minister właściwy do spraw gospodarki surowcami energetycznymi będzie poszukiwał innych możliwości sfinansowania realizacji tego działania.",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "*** Środki ujęte w ustawie budżetowej.”,",
+             "quoted": true
+            }
+           ]
+          },
+          {
+           "type": "tir",
+           "num": "3",
+           "path": "par_1/pkt_2/lit_d/tir_9/tir_3",
+           "text": "odnośniki nr 12 i 13 otrzymują brzmienie:",
+           "children": [
+            {
+             "type": "text",
+             "text": "„[^12] Po znalezieniu lokalizacji nowego NSPOP oraz po dokładnym oszacowaniu kosztów realizacji powyższego, dla zapewnienia finansowania i uproszczenia procedury uruchamiania środków finansowych, minister właściwy do spraw gospodarki surowcami energetycznymi wystąpi do Rady Ministrów z wnioskiem o ustanowienie programu wieloletniego (w rozumieniu art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych) na zamknięcie KSOP RÓŻAN.",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "[^13] Po wyborze lokalizacji NSPOP oraz po dokładnym oszacowaniu kosztów realizacji powyższego, dla zapewnienia finansowania i uproszczenia procedury uruchamiania środków finansowych, minister właściwy do spraw gospodarki surowcami energetycznymi wystąpi do Rady Ministrów z wnioskiem o ustanowienie programu wieloletniego (w rozumieniu art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych) na budowę nowego składowiska powierzchniowego odpadów promieniotwórczych.”,",
+             "quoted": true
             }
            ]
           }
          ]
+        },
+        {
+         "type": "tir",
+         "num": "10",
+         "path": "par_1/pkt_2/lit_d/tir_10",
+         "text": "w pkt 1.5:",
+         "children": [
+          {
+           "type": "tir",
+           "num": "1",
+           "path": "par_1/pkt_2/lit_d/tir_10/tir_1",
+           "text": "w akapicie 1 wyrazy „Zgodnie z art. 57f ust. 1 ustawy – Prawo atomowe, minister właściwy do spraw energii” zastępuje się wyrazami „Zgodnie z art. 57f ust. 1 ustawy – Prawo atomowe minister właściwy do spraw gospodarki surowcami energetycznymi”,",
+           "children": []
+          },
+          {
+           "type": "tir",
+           "num": "2",
+           "path": "par_1/pkt_2/lit_d/tir_10/tir_2",
+           "text": "w akapicie 3 we wprowadzeniu do wyliczenia po wyrazach „zaleciła ministrowi właściwemu do spraw energii” dodaje się wyrazy „(który był wówczas ministrem właściwym)”,",
+           "children": []
+          }
+         ]
         }
        ]
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "par_1/ust_3",
-     "text": "Realizacja Krajowego planu (środki 2.500 300*** 200 200 500 ministra właściwego do spraw energii, a od dnia 1 lipca 2024 r. – ministra właściwego do spraw gospodarki surowcami energetycznymi)",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "par_1/ust_4",
-     "text": "Zamknięcie KSOP RÓŻAN* 10.000 - - - - – przygotowanie do zamknięcia KSOP Różan (w tym środki programu wieloletniego)[^12]",
-     "children": [
-      {
-       "type": "text",
-       "text": "– – – lp. 8 otrzymuje brzmienie:"
-      }
-     ]
-    },
-    {
-     "type": "ust",
-     "num": "8",
-     "path": "par_1/ust_8",
-     "text": "Program naukowo-badawczy 10.000 - - - 5.000 dotyczący postępowania z odpadami promieniotwórczymi**",
-     "children": [
-      {
-       "type": "text",
-       "text": "– – objaśnienia otrzymują brzmienie:"
-      },
-      {
-       "type": "text",
-       "text": "„Objaśnienia:",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "* Środki własne ministra właściwego do spraw energii, a od dnia 1 lipca 2024 r. – ministra właściwego do spraw gospodarki surowcami energetycznymi w ramach określonego dla niego limitu wydatków na dany rok budżetowy, bez konieczności jego zwiększania, ewentualnie, przy powstaniu takiej możliwości, środki NFOŚiGW (zgodnie z zapisami PPEJ). W przypadku braku możliwości sfinansowania tych działań z obu tych źródeł realizacja tych zadań zostanie sfinansowana ze środków programu wieloletniego.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "** Środki własne ministra właściwego do spraw energii, a od dnia 1 lipca 2024 r. – ministra właściwego do spraw gospodarki surowcami energetycznymi w ramach określonego dla niego limitu wydatków na dany rok budżetowy, bez konieczności jego zwiększania. Minister właściwy do spraw energii, a od dnia 1 lipca 2024 r. – minister właściwy do spraw gospodarki surowcami energetycznymi będzie poszukiwał innych możliwości sfinansowania realizacji tego działania.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "*** Środki ujęte w ustawie budżetowej.”,",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "– – odnośniki nr 12 i 13 otrzymują brzmienie:"
-      },
-      {
-       "type": "text",
-       "text": "„[^12] Po znalezieniu lokalizacji nowego NSPOP oraz po dokładnym oszacowaniu kosztów realizacji powyższego, dla zapewnienia finansowania i uproszczenia procedury uruchamiania środków finansowych, minister właściwy do spraw gospodarki surowcami energetycznymi wystąpi do Rady Ministrów z wnioskiem o ustanowienie programu wieloletniego (w rozumieniu art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych) na zamknięcie KSOP RÓŻAN.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "[^13] Po wyborze lokalizacji NSPOP oraz po dokładnym oszacowaniu kosztów realizacji powyższego, dla zapewnienia finansowania i uproszczenia procedury uruchamiania środków finansowych, minister właściwy do spraw gospodarki surowcami energetycznymi wystąpi do Rady Ministrów z wnioskiem o ustanowienie programu wieloletniego (w rozumieniu art. 136 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych) na budowę nowego składowiska powierzchniowego odpadów promieniotwórczych.”,",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "– w pkt 1.5:"
-      },
-      {
-       "type": "tir",
-       "num": "1",
-       "path": "par_1/ust_8/tir_1",
-       "text": "w akapicie 1 wyrazy „Zgodnie z art. 57f ust. 1 ustawy – Prawo atomowe, minister właściwy do spraw energii” zastępuje się wyrazami „Zgodnie z art. 57f ust. 1 ustawy – Prawo atomowe minister właściwy do spraw gospodarki surowcami energetycznymi”,",
-       "children": []
-      },
-      {
-       "type": "tir",
-       "num": "2",
-       "path": "par_1/ust_8/tir_2",
-       "text": "w akapicie 3 we wprowadzeniu do wyliczenia po wyrazach „zaleciła ministrowi właściwemu do spraw energii” dodaje się wyrazy „(który był wówczas ministrem właściwym)”,",
-       "children": []
       },
       {
        "type": "lit",
        "num": "e",
-       "path": "par_1/ust_8/lit_e",
+       "path": "par_1/pkt_2/lit_e",
        "text": "w rozdziale 2 w pkt 2.5 wyraz „MKiS” zastępuje się wyrazami „urzędzie obsługującym ministra właściwego do spraw energii, a od dnia 1 lipca 2024 r. – urzędzie obsługującym ministra właściwego do spraw gospodarki surowcami energetycznymi”,",
        "children": []
       },
       {
        "type": "lit",
        "num": "f",
-       "path": "par_1/ust_8/lit_f",
+       "path": "par_1/pkt_2/lit_f",
        "text": "w rozdziale 4 w pkt 4.4.3 w akapicie 7 w zdaniu pierwszym wyrazy „podpisanie porozumienia przez ministra właściwego do spraw energii” zastępuje się wyrazami „podpisanie porozumienia przez ministra właściwego do spraw gospodarki surowcami energetycznymi”,",
        "children": []
       },
       {
        "type": "lit",
        "num": "g",
-       "path": "par_1/ust_8/lit_g",
+       "path": "par_1/pkt_2/lit_g",
        "text": "w rozdziale 7 w pkt 7.1:",
        "children": [
         {
          "type": "tir",
          "num": "1",
-         "path": "par_1/ust_8/lit_g/tir_1",
+         "path": "par_1/pkt_2/lit_g/tir_1",
          "text": "w tytule wyraz „ENERGII” zastępuje się wyrazami „GOSPODARKI SUROWCAMI ENERGETYCZNYMI”,",
          "children": []
         },
         {
          "type": "tir",
          "num": "2",
-         "path": "par_1/ust_8/lit_g/tir_2",
+         "path": "par_1/pkt_2/lit_g/tir_2",
          "text": "w akapicie 1 w zdaniu pierwszym wyrazy „Minister właściwy do spraw energii” zastępuje się wyrazami „Minister właściwy do spraw gospodarki surowcami energetycznymi”,",
          "children": []
         },
         {
          "type": "tir",
          "num": "3",
-         "path": "par_1/ust_8/lit_g/tir_3",
+         "path": "par_1/pkt_2/lit_g/tir_3",
          "text": "odnośnik nr 47 otrzymuje brzmienie:",
          "children": [
           {
@@ -316,33 +322,33 @@
       {
        "type": "lit",
        "num": "h",
-       "path": "par_1/ust_8/lit_h",
+       "path": "par_1/pkt_2/lit_h",
        "text": "w rozdziale 8:",
        "children": [
         {
          "type": "tir",
          "num": "1",
-         "path": "par_1/ust_8/lit_h/tir_1",
+         "path": "par_1/pkt_2/lit_h/tir_1",
          "text": "w pkt 8.1:",
          "children": [
           {
            "type": "tir",
            "num": "1",
-           "path": "par_1/ust_8/lit_h/tir_1/tir_1",
+           "path": "par_1/pkt_2/lit_h/tir_1/tir_1",
            "text": "w akapicie 6 wyrazy „ministra właściwego do spraw energii” zastępuje się wyrazami „ministra właściwego do spraw gospodarki surowcami energetycznymi”,",
            "children": []
           },
           {
            "type": "tir",
            "num": "2",
-           "path": "par_1/ust_8/lit_h/tir_1/tir_2",
+           "path": "par_1/pkt_2/lit_h/tir_1/tir_2",
            "text": "w akapicie 7 wyrazy „Minister właściwy do spraw energii” zastępuje się wyrazami „Minister właściwy do spraw gospodarki surowcami energetycznymi”,",
            "children": []
           },
           {
            "type": "tir",
            "num": "3",
-           "path": "par_1/ust_8/lit_h/tir_1/tir_3",
+           "path": "par_1/pkt_2/lit_h/tir_1/tir_3",
            "text": "w akapicie 10 wyrazy „ministra właściwego do spraw energii” zastępuje się wyrazami „ministra właściwego do spraw gospodarki surowcami energetycznymi”,",
            "children": []
           }
@@ -351,7 +357,7 @@
         {
          "type": "tir",
          "num": "2",
-         "path": "par_1/ust_8/lit_h/tir_2",
+         "path": "par_1/pkt_2/lit_h/tir_2",
          "text": "w pkt 8.2 w akapicie 2 wyrazy „zgodnie z cennikiem zatwierdzanym przez ministra właściwego do spraw energii” zastępuje się wyrazami „zgodnie z cennikiem zatwierdzanym przez ministra właściwego do spraw gospodarki surowcami energetycznymi”,",
          "children": []
         }
@@ -360,7 +366,7 @@
       {
        "type": "lit",
        "num": "i",
-       "path": "par_1/ust_8/lit_i",
+       "path": "par_1/pkt_2/lit_i",
        "text": "załącznik nr 1 „PROGRAM DZIAŁAŃ WYKONAWCZYCH” otrzymuje brzmienie określone w załączniku do niniejszej uchwały.",
        "children": []
       }

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/442",
  "title": "Umowa między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Konga o zniesieniu obowiązku wizowego dla posiadaczy paszportów dyplomatycznych, podpisana w Luandzie dnia 25 sierpnia 2022 r.",
- "converter": "eli2md 0.6.3",
+ "converter": "eli2md 0.6.4",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/442/text.pdf",
  "body": [
   {
@@ -18,7 +18,35 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Rząd Rzeczypospolitej Polskiej i Rząd Republiki Konga, zwane dalej „Stronami; - Ozywione wolą umocnienia przyjaznych stosunków i współpracy oraz koniecznością wprowadzenia mechanizmu mającego na celu umocnienie więzi w sferze dyplomacji pomiędzy oboma Państwami; - Uważając, że zniesienie wiz dla obywateli posiadających paszporty dyplomatyczne znacząco ułatwia stosunki międzynarodowe; - Pragnąc ułatwić przemieszczanie się urzędników między oboma Państwami; Uzgodniły, co następuje:"
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 1 Do celów niniejszej Umowy:"
+  },
+  {
+   "type": "ocr",
+   "text": "1) wyrażenia „obywatele jednej Strony”, „obywatele drugiej Strony”, „obywatele każdej ze Stron” oznaczają odpowiednio, w zależności od kontekstu, obywateli Rzeczypospolitej Polskiej lub obywateli Republiki Konga,"
+  },
+  {
+   "type": "ocr",
+   "text": "2) wyrażenia „terytorium, „terytorium Strony”, „terytorium drugiej Strony” oznaczają odpowiednio, w zależności od kontekstu, terytorium Rzeczypospolitej Polskiej lub terytorium Republiki Konga."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 2 Przedmiotem niniejszej Umowy jest zniesienie obowiązku wizowego dla obywateli każdej ze Stron, legitymujących się paszportami dyplomatycznymi."
+  },
+  {
+   "type": "ocr",
+   "text": "Artykuł 3"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Obywatele jednej Strony, legitymujący się paszportami dyplomatycznymi wydanymi przez tę Stronę, są uprawnieni do wjazdu, wyjazdu i tranzytu przez terytorium drugiej Strony bez wiz, korzystając z przejść granicznych przeznaczonych do obsługi ruchu międzynarodowego „... 3 ="
   },
   {
    "type": "note",
