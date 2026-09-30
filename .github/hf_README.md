@@ -4,7 +4,7 @@ language:
 license: cc0-1.0
 pretty_name: Monitor Polski od 2012 r. w Markdown/JSON
 size_categories:
-- 1K<n<10K
+- 10K<n<100K
 tags:
 - legal
 - law
