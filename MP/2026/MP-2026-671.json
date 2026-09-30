@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/671",
  "title": "Obwieszczenie Ministra Klimatu i Środowiska z dnia 3 lipca 2026 r. w sprawie wykazu miast o liczbie mieszkańców większej niż 100 tysięcy i aglomeracji, w których wartość wskaźnika średniego narażenia dla miasta o liczbie mieszkańców większej niż 100 tysięcy i aglomeracji przekracza wartość pułapu stężenia ekspozycji, oraz wykazu miast o liczbie mieszkańców większej niż 100 tysięcy i aglomeracji, w których wartość wskaźnika średniego narażenia dla miasta o liczbie mieszkańców większej niż 100 tysięcy i aglomeracji nie przekracza wartości pułapu stężenia ekspozycji",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/671/text.pdf",
  "body": [
   {
@@ -49,7 +49,7 @@
    "body": [
     {
      "type": "text",
-     "text": "WYKAZ MIAST O LICZBIE MIESZKAŃCÓW WIĘKSZEJ NIŻ 100 TYSIĘCY I AGLOMERACJI, W KTÓRYCH WARTOŚĆ WSKAŹNIKA ŚREDNIEGO NARAŻENIA DLA MIASTA O LICZBIE MIESZKAŃCÓW WIĘKSZEJ NIŻ 100 TYSIĘCY I AGLOMERACJI PRZEKRACZA WARTOŚĆ PUŁAPU STĘŻENIA EKSPOZYCJI[^1_2]"
+     "text": "WYKAZ MIAST O LICZBIE MIESZKAŃCÓW WIĘKSZEJ NIŻ 100 TYSIĘCY I AGLOMERACJI, W KTÓRYCH WARTOŚĆ WSKAŹNIKA ŚREDNIEGO NARAŻENIA DLA MIASTA O LICZBIE MIESZKAŃCÓW WIĘKSZEJ NIŻ 100 TYSIĘCY I AGLOMERACJI PRZEKRACZA WARTOŚĆ PUŁAPU STĘŻENIA EKSPOZYCJI¹⁾"
     },
     {
      "type": "text",
@@ -61,7 +61,7 @@
     },
     {
      "type": "text",
-     "text": "[^1_2] Pułap stężenia ekspozycji określa rozporządzenie Ministra Środowiska z dnia 24 sierpnia 2012 r. w sprawie poziomów niektórych substancji w powietrzu (Dz. U. z 2021 r. poz. 845)."
+     "text": "¹⁾ Pułap stężenia ekspozycji określa rozporządzenie Ministra Środowiska z dnia 24 sierpnia 2012 r. w sprawie poziomów niektórych substancji w powietrzu (Dz. U. z 2021 r. poz. 845)."
     }
    ]
   },

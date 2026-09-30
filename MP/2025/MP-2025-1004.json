@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/1004",
  "title": "Obwieszczenie Ministra Energii z dnia 12 września 2025 r. w sprawie wykazu jednostek organizacyjnych nadzorowanych przez Ministra Energii",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1004/text.pdf",
  "body": [
   {
@@ -113,26 +113,12 @@
      "path": "pkt_11",
      "text": "„Zakład Unieszkodliwiania Odpadów Promieniotwórczych – Przedsiębiorstwo Państwowe”.",
      "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "energia – obwieszczeniem Ministra Klimatu i Środowiska z dnia 3 kwietnia 2025 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Klimatu i Środowiska lub przez niego nadzorowanych (M.P. poz. 302);",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "pkt_2",
-     "text": "gospodarka surowcami energetycznymi – obwieszczeniem Ministra Przemysłu z dnia 16 lipca 2025 r. w sprawie wykazu jednostek organizacyjnych nadzorowanych przez Ministra Przemysłu (M.P. poz. 675).",
-     "children": []
     }
    ]
   }
  ],
  "footnotes": {
   "1": "Minister Energii kieruje działami administracji rządowej – energia i gospodarka surowcami energetycznymi, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 1206).",
-  "2": "Niniejsze obwieszczenie było poprzedzone w zakresie działu administracji rządowej:"
+  "2": "Niniejsze obwieszczenie było poprzedzone w zakresie działu administracji rządowej:\n\n1) energia – obwieszczeniem Ministra Klimatu i Środowiska z dnia 3 kwietnia 2025 r. w sprawie wykazu jednostek organizacyjnych podległych Ministrowi Klimatu i Środowiska lub przez niego nadzorowanych (M.P. poz. 302);\n\n2) gospodarka surowcami energetycznymi – obwieszczeniem Ministra Przemysłu z dnia 16 lipca 2025 r. w sprawie wykazu jednostek organizacyjnych nadzorowanych przez Ministra Przemysłu (M.P. poz. 675)."
  }
 }

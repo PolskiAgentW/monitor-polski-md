@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/267",
  "title": "Uchwała nr 19 Rady Ministrów z dnia 11 marca 2025 r. zmieniająca uchwałę w sprawie ustanowienia programu wieloletniego pn. Narodowy Program Chorób Układu Krążenia na lata 2022-2032",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/267/text.pdf",
  "body": [
   {
@@ -1605,69 +1605,6 @@
       {
        "type": "text",
        "text": "Sfinansowanie inwestycji w aparaturę i wyroby medyczne, inwestycji w rozwiązania z obszaru telemedycyny, jak również rozwiązania mające na celu informatyzację podmiotów leczniczych, inwestycji infrastrukturalnych oraz modernizacji istniejących podmiotów leczniczych, celem poprawy dostępności i jakości specjalistycznej diagnostyki i terapii chorób układu sercowo-naczyniowego."
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "ust_18/pkt_1",
-       "text": "Krajowy Rejestr Przeznaczyniowych Ekstrakcji Elektrod;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "ust_18/pkt_2",
-       "text": "Krajowy Rejestr Ablacji Podłoża Arytmii;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "ust_18/pkt_3",
-       "text": "Krajowy Rejestr Infekcyjnego Zapalenia Wsierdzia;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "ust_18/pkt_4",
-       "text": "Krajowy Rejestr Mechanicznego Wspomagania Krążenia;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "ust_18/pkt_5",
-       "text": "Krajowy Rejestr Operacji Kardiochirurgicznych;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "ust_18/pkt_6",
-       "text": "Rejestr Operacji Naczyniowych;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "7",
-       "path": "ust_18/pkt_7",
-       "text": "Rejestr Hipercholesterolemii Rodzinnej;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "8",
-       "path": "ust_18/pkt_8",
-       "text": "Ogólnopolski Rejestr Ostrych Zespołów Wieńcowych;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "9",
-       "path": "ust_18/pkt_9",
-       "text": "Ogólnopolski kardiologiczno-kardiochirurgiczny rejestr przezcewnikowego leczenia zastawek serca „POL-TaVALVE”.",
-       "children": []
       }
      ]
     }
@@ -1675,7 +1612,7 @@
   }
  ],
  "footnotes": {
-  "125": "W ramach NPChUK będą utrzymywane i rozwijane m.in. następujące rejestry medyczne:",
+  "125": "W ramach NPChUK będą utrzymywane i rozwijane m.in. następujące rejestry medyczne:\n\n1) Krajowy Rejestr Przeznaczyniowych Ekstrakcji Elektrod;\n\n2) Krajowy Rejestr Ablacji Podłoża Arytmii;\n\n3) Krajowy Rejestr Infekcyjnego Zapalenia Wsierdzia;\n\n4) Krajowy Rejestr Mechanicznego Wspomagania Krążenia;\n\n5) Krajowy Rejestr Operacji Kardiochirurgicznych;\n\n6) Rejestr Operacji Naczyniowych;\n\n7) Rejestr Hipercholesterolemii Rodzinnej;\n\n8) Ogólnopolski Rejestr Ostrych Zespołów Wieńcowych;\n\n9) Ogólnopolski kardiologiczno-kardiochirurgiczny rejestr przezcewnikowego leczenia zastawek serca „POL-TaVALVE”.",
   "126": "Zgodnie z przepisami ustawy z dnia 28 kwietnia 2011 r. o systemie informacji w ochronie zdrowia (Dz. U. z 2025 r. poz. 302)."
  }
 }

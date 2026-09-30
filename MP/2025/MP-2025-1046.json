@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/1046",
  "title": "Obwieszczenie Prezesa Głównego Urzędu Statystycznego z dnia 30 września 2025 r. w sprawie Narodowego Rachunku Zdrowia za 2023 r.",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1046/text.pdf",
  "body": [
   {
@@ -43,7 +43,7 @@
     },
     {
      "type": "text",
-     "text": "Wydatki bieżące na ochronę zdrowia razem[^1] 243 798,9"
+     "text": "Wydatki bieżące na ochronę zdrowia razem¹⁾ 243 798,9"
     },
     {
      "type": "text",
@@ -79,7 +79,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Łącznie z zagranicznymi systemami finansowania."
+     "text": "¹⁾ Łącznie z zagranicznymi systemami finansowania."
     }
    ]
   }

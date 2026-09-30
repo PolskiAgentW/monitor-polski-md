@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/147",
  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 20 stycznia 2026 r. w sprawie ogłoszenia wykazu walut wymienialnych",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/147/text.pdf",
  "body": [
   {
@@ -179,7 +179,7 @@
     },
     {
      "type": "text",
-     "text": "36 dolar wschodniokaraibski[^1] XCD"
+     "text": "36 dolar wschodniokaraibski¹⁾ XCD"
     },
     {
      "type": "text",
@@ -211,11 +211,11 @@
     },
     {
      "type": "text",
-     "text": "44 frank CFA BCEAO[^2] XOF"
+     "text": "44 frank CFA BCEAO²⁾ XOF"
     },
     {
      "type": "text",
-     "text": "45 frank CFA BEAC[^3] XAF"
+     "text": "45 frank CFA BEAC³⁾ XAF"
     },
     {
      "type": "text",
@@ -271,7 +271,7 @@
     },
     {
      "type": "text",
-     "text": "59 gulden karaibski[^4] XCG"
+     "text": "59 gulden karaibski⁴⁾ XCG"
     },
     {
      "type": "text",
@@ -535,7 +535,7 @@
     },
     {
      "type": "text",
-     "text": "[^1] Anguilla, Antigua i Barbuda, Dominika, Grenada, Montserrat, Saint Kitts i Nevis, Saint Lucia, Saint Vincent i Grenadyny. [^2] Benin, Burkina Faso, Gwinea Bissau, Mali, Niger, Senegal, Togo, Wybrzeże Kości Słoniowej. [^3] Czad, Gabon, Gwinea Równikowa, Kamerun, Kongo, Republika Środkowoafrykańska. [^4] Curaçao i Sint Maarten."
+     "text": "¹⁾ Anguilla, Antigua i Barbuda, Dominika, Grenada, Montserrat, Saint Kitts i Nevis, Saint Lucia, Saint Vincent i Grenadyny. ²⁾ Benin, Burkina Faso, Gwinea Bissau, Mali, Niger, Senegal, Togo, Wybrzeże Kości Słoniowej. ³⁾ Czad, Gabon, Gwinea Równikowa, Kamerun, Kongo, Republika Środkowoafrykańska. ⁴⁾ Curaçao i Sint Maarten."
     }
    ]
   }

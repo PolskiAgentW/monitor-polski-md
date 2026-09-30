@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/207",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 10 lutego 2026 r. w sprawie ogłoszenia stawek opłat lotniczych obowiązujących w 2026 r.",
- "converter": "eli2md 0.6.5",
+ "converter": "eli2md 0.6.7",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/207/text.pdf",
  "body": [
   {
@@ -1869,7 +1869,7 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_3/pkt_1",
-       "text": "spełniającej wymagania PART-145[^1]",
+       "text": "spełniającej wymagania PART-145¹⁾",
        "children": [
         {
          "type": "lit",
@@ -1882,7 +1882,7 @@
          "type": "lit",
          "num": "d",
          "path": "ust_3/pkt_1/lit_d",
-         "text": "w klasie badania nieniszczące 750 2) spełniającej wymagania PART M/F[^1]",
+         "text": "w klasie badania nieniszczące 750 2) spełniającej wymagania PART M/F¹⁾",
          "children": []
         },
         {
@@ -1896,7 +1896,7 @@
          "type": "lit",
          "num": "d",
          "path": "ust_3/pkt_1/lit_d",
-         "text": "w klasie badania nieniszczące 501 3) spełniającej wymagania PL-6[^1]",
+         "text": "w klasie badania nieniszczące 501 3) spełniającej wymagania PL-6¹⁾",
          "children": []
         },
         {
@@ -1937,7 +1937,7 @@
        "children": [
         {
          "type": "text",
-         "text": "[^1] W przypadku zatwierdzenia w wielu klasach końcowa opłata jest sumą opłat w poszczególnych klasach."
+         "text": "¹⁾ W przypadku zatwierdzenia w wielu klasach końcowa opłata jest sumą opłat w poszczególnych klasach."
         },
         {
          "type": "text",
@@ -1945,7 +1945,7 @@
         },
         {
          "type": "text",
-         "text": "Wysokość stawki w zł Rodzaj czynności urzędowej Wielkość jednostki organizacyjnej[^2] M Ś D 1. Uznanie certyfikatu AOC lub dokumentu równoważnego 831 2481 7429 2. Uznanie certyfikatu AMO lub dokumentu równoważnego Opłata lotnicza jak w podczęści 3.7. ust. 1 pkt 3"
+         "text": "Wysokość stawki w zł Rodzaj czynności urzędowej Wielkość jednostki organizacyjnej²⁾ M Ś D 1. Uznanie certyfikatu AOC lub dokumentu równoważnego 831 2481 7429 2. Uznanie certyfikatu AMO lub dokumentu równoważnego Opłata lotnicza jak w podczęści 3.7. ust. 1 pkt 3"
         }
        ]
       }
@@ -1966,7 +1966,7 @@
      "children": [
       {
        "type": "text",
-       "text": "3.9. Certyfikacja i rejestracja lotnisk[^3]"
+       "text": "3.9. Certyfikacja i rejestracja lotnisk³⁾"
       },
       {
        "type": "text",
@@ -2029,7 +2029,7 @@
        "children": [
         {
          "type": "text",
-         "text": "[^2] Wielkość jednostki organizacyjnej, gdzie:"
+         "text": "²⁾ Wielkość jednostki organizacyjnej, gdzie:"
         },
         {
          "type": "lit",
@@ -2049,7 +2049,7 @@
          "type": "lit",
          "num": "c",
          "path": "ust_4/pkt_2/lit_c",
-         "text": "D – oznacza jednostkę organizacyjną zatrudniającą powyżej 100 osób, w wymiarze min. 35 godzin tygodniowo, dla każdego zatrudnionego. [^3] Wyjaśnienia do kodu referencyjnego lotniska, zwanego „kodem” w tabeli nr 1 część III podczęść 3.9, znajdują się w tomie I Załącznika 14 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm.).",
+         "text": "D – oznacza jednostkę organizacyjną zatrudniającą powyżej 100 osób, w wymiarze min. 35 godzin tygodniowo, dla każdego zatrudnionego. ³⁾ Wyjaśnienia do kodu referencyjnego lotniska, zwanego „kodem” w tabeli nr 1 część III podczęść 3.9, znajdują się w tomie I Załącznika 14 do Konwencji o międzynarodowym lotnictwie cywilnym, sporządzonej w Chicago dnia 7 grudnia 1944 r. (Dz. U. z 1959 r. poz. 212, z późn. zm.).",
          "children": []
         }
        ]
@@ -2398,7 +2398,7 @@
         },
         {
          "type": "text",
-         "text": "Rodzaj czynności urzędowej Wielkość jednostki organizacyjnej[^2]"
+         "text": "Rodzaj czynności urzędowej Wielkość jednostki organizacyjnej²⁾"
         },
         {
          "type": "text",
@@ -2498,7 +2498,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AOC 7607 (krajowego) po raz pierwszy lub wznowienie ważności certyfikatu AOC (krajowego) nieważnego dłużej niż 12 miesięcy 2. Przeprowadzenie procesu wznowienia ważności certyfikatu 75 % opłaty określonej w ust. 1 AOC (krajowego), który był cofnięty albo zawieszony niedłużej niż 12 miesięcy 3. Rozpatrzenie wniosku o przedłużenie ważności certyfikatu AOC 75 % opłaty określonej w ust. 1 (krajowego) 4. Zmiana w certyfikacie lub specyfikacji AOC (krajowym albo wydanym zgodnie z rozporządzeniem nr 965/2012/UE), Wielkość jednostki organizacyjnej[^2] niezwiązana z dodaniem statku powietrznego M Ś D 167 330 654 5. Dodanie statku powietrznego i związana z tym zmiana W zależności od maksymalnej masy startowej (MTOM) statku w certyfikacie AOC (krajowym albo wydanym zgodnie powietrznego z rozporządzeniem nr 965/2012/UE) do 10 ton włącznie więcej niż 10 ton 330 818 6. Akceptacja pilota do przeprowadzania kontroli typu line-check 170",
+     "text": "Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AOC 7607 (krajowego) po raz pierwszy lub wznowienie ważności certyfikatu AOC (krajowego) nieważnego dłużej niż 12 miesięcy 2. Przeprowadzenie procesu wznowienia ważności certyfikatu 75 % opłaty określonej w ust. 1 AOC (krajowego), który był cofnięty albo zawieszony niedłużej niż 12 miesięcy 3. Rozpatrzenie wniosku o przedłużenie ważności certyfikatu AOC 75 % opłaty określonej w ust. 1 (krajowego) 4. Zmiana w certyfikacie lub specyfikacji AOC (krajowym albo wydanym zgodnie z rozporządzeniem nr 965/2012/UE), Wielkość jednostki organizacyjnej²⁾ niezwiązana z dodaniem statku powietrznego M Ś D 167 330 654 5. Dodanie statku powietrznego i związana z tym zmiana W zależności od maksymalnej masy startowej (MTOM) statku w certyfikacie AOC (krajowym albo wydanym zgodnie powietrznego z rozporządzeniem nr 965/2012/UE) do 10 ton włącznie więcej niż 10 ton 330 818 6. Akceptacja pilota do przeprowadzania kontroli typu line-check 170",
      "children": []
     },
     {
@@ -3557,7 +3557,7 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_1/pkt_1",
-       "text": "spełniającymi wymagania PART-145[^1]",
+       "text": "spełniającymi wymagania PART-145¹⁾",
        "children": [
         {
          "type": "lit",
@@ -3570,7 +3570,7 @@
          "type": "lit",
          "num": "d",
          "path": "ust_1/pkt_1/lit_d",
-         "text": "w klasie badania nieniszczące 378 2) spełniającymi wymagania PART M/F[^1]",
+         "text": "w klasie badania nieniszczące 378 2) spełniającymi wymagania PART M/F¹⁾",
          "children": []
         },
         {
@@ -3589,7 +3589,7 @@
          "type": "lit",
          "num": "d",
          "path": "ust_1/pkt_1/lit_d",
-         "text": "w klasie badania nieniszczące 254 3) spełniającymi wymagania PL-6[^1]",
+         "text": "w klasie badania nieniszczące 254 3) spełniającymi wymagania PL-6¹⁾",
          "children": []
         },
         {
