@@ -23,7 +23,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-09-30 19:34 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-09-30 22:58 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -49,6 +49,22 @@ Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 563.
 Rodzaje aktów: Postanowienie 7142, Obwieszczenie 4019, Uchwała 2744, Komunikat 2057, Zarządzenie 1268, Oświadczenie rządowe 328, Umowa międzynarodowa 308, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
 Wersje konwertera: eli2md 0.6.7 (12851), eli2md 0.6.17 (4672), eli2md 0.6.16 (299), eli2md 0.6.13 (296), eli2md 0.6.15 (39).
 <!-- stats:end -->
+
+## Teksty jednolite
+
+Monitor Polski nie ma w API HTML-a dla żadnego aktu, więc teksty jednolite z Monitora Polskiego też są tylko w PDF,
+np. Regulaminu Sejmu, Regulaminu Senatu i statutów urzędów. Tutaj jest najnowszy tekst jednolity każdego aktu.
+Tabela jest odświeżana razem ze zbiorem. Tekst jednolity podaje stan prawny na dzień wskazany w obwieszczeniu.
+Zmian ogłoszonych później w nim nie ma.
+
+<!-- tj:start -->
+| Akt | Najnowszy tekst jednolity | Ogłoszony | Wcześniejsze |
+|---|---|---|---|
+| Sejmu Rzeczypospolitej Polskiej – Regulamin Sejmu Rzeczypospolitej Polskiej | [M.P. 2026 poz. 573](MP/2026/MP-2026-573.md) | 2026-06-09 | [M.P. 2022 poz. 990](MP/2022/MP-2022-990.md), [M.P. 2021 poz. 483](MP/2021/MP-2021-483.md), [M.P. 2019 poz. 1028](MP/2019/MP-2019-1028.md) i jeszcze 1 |
+| Senatu Rzeczypospolitej Polskiej – Regulamin Senatu | [M.P. 2025 poz. 1251](MP/2025/MP-2025-1251.md) | 2025-12-15 | [M.P. 2024 poz. 10](MP/2024/MP-2024-10.md), [M.P. 2018 poz. 846](MP/2018/MP-2018-846.md), [M.P. 2017 poz. 827](MP/2017/MP-2017-827.md) i jeszcze 3 |
+
+Wszystkie akty z tekstem jednolitym w tym zbiorze (131): [TEKSTY_JEDNOLITE.md](TEKSTY_JEDNOLITE.md).
+<!-- tj:end -->
 
 ## Zawartość
 
