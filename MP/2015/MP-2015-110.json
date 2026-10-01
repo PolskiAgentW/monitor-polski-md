@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/110",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 22 grudnia 2014 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej, przeprowadzonych w dniu 7 września 2014 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/110/text.pdf",
  "body": [
   {
@@ -550,7 +550,75 @@
     },
     {
      "type": "note",
-     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Il. Informacje szczegółowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Rachunek bankowy 86 1240 6003 1111 0010 5882 8714 (nr rachunku bankowego)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wpłaty ogółem"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wpłaty 18.08.2014 8.000,00"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wpłaty , aaa EPPO ROBA P ERO REP EO ROR EPO OOP POLO RZ EO OC DOR ORO SZE AS ODE OBO REGA S SEO BZ OE NAS EE OBO EOS OR APO NOBO GO DO RSA te"
+    },
+    {
+     "type": "ocr",
+     "text": "2) wypłaty ogółem"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wypłaty ....22:08.2014 620,00"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wypłaty .....20:1,1:2014 9,80"
+    },
+    {
+     "type": "ocr",
+     "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego OUN EYT (kwota w zi)"
+    },
+    {
+     "type": "ocr",
+     "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone””!: OK PANNA PAN 0... (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) WN. Die Ac KONA | eneeees 0.......... (imię i nazwisko, miejscowość zamieszkania) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą” ”): 1 nie dotyczy 0 o (imię i nazwisko, miejscowość zamieszkania) 000000000 | (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) nie dotyczy 0 (imię i nazwisko, miejscowość zamieszkania) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "4. Kredyty bankowe””?:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) a. kredytodawca: sae. tle dotyczy EEEE b. warunki uzyskania kredytu: nie dotyczy"
+    },
+    {
+     "type": "ocr",
+     "text": "c. kwota kredytu (w zł): ..... ie, dotyczy d. kwota spłacona (w tym odsetki): nie dotyczy,"
+    },
+    {
+     "type": "ocr",
+     "text": "pia ano Ra O BRERA DRE RO err err er errr BODO RER ROL ERROR ARE PORE PEER ARE POZ ROR ASRR APR D EO GORE O OP ZOR RODZ NEA O POR PO C ERGO SORO RES DOP EPG 104000"
     },
     {
      "type": "note",

@@ -23,7 +23,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-01 05:02 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-01 23:41 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -41,13 +41,13 @@ Stan na 2026-10-01 05:02 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 1482 | 1482 | 0 |
 | 2024 | 1112 | 1112 | 0 |
 | 2025 | 1317 | 1317 | 0 |
-| 2026 | 961 | 961 | 0 |
+| 2026 | 962 | 962 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14292 z 98635 stron. Tekst z OCR (oznaczony) ma 12602 z nich w 415 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14292 z 98637 stron. Tekst z OCR (oznaczony) ma 12663 z nich w 415 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 564.
 
-Rodzaje aktów: Postanowienie 7142, Obwieszczenie 4019, Uchwała 2746, Komunikat 2057, Zarządzenie 1270, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
-Wersje konwertera: eli2md 0.6.7 (12850), eli2md 0.6.17 (4672), eli2md 0.6.13 (303), eli2md 0.6.16 (299), eli2md 0.6.15 (39).
+Rodzaje aktów: Postanowienie 7142, Obwieszczenie 4020, Uchwała 2746, Komunikat 2057, Zarządzenie 1270, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
+Wersje konwertera: eli2md 0.6.7 (12687), eli2md 0.6.17 (4640), eli2md 0.6.13 (299), eli2md 0.6.16 (297), eli2md 0.6.22 (203), eli2md 0.6.15 (38).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -135,6 +135,11 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
   [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
   Metadane z API bywają błędne: MP/2025/635 ma `promulgation_date` 2025-07-08, PDF — 11 lipca 2025 r;
   MP/2026/615 ma `announcement_date` 2206-06-11, w tytule „z dnia 11 czerwca 2026 r.” (stan na 2026-09-30).
+- **Zmiana w eli2md 0.6.22** (2026-10-02 w nocy; 202 akty, w których OCR nie dał tekstu z części stron): strona skanu,
+  z której OCR nie odczytał użytecznego tekstu, jest czytana drugi raz z podaną rozdzielczością obrazu (wcześniej
+  tesseract jej nie dostawał i na stronach z tabelami gubił odstępy między słowami). Strony odczytane wcześniej czyta
+  się jak przedtem. W tych 202 aktach: strony z tekstem z OCR 7039 → 7100, słowa 2 049 238 → 2 056 532; tekst zmienił się
+  w 24 plikach, w żadnym akcie nie ubyło stron z OCR. Akty przeliczone lokalnie (w workflow nie mieściły się w limicie czasu).
 - **Zmiana w eli2md 0.6.7** (akty od nowa 2026-09-30 około 10:00; tekst zmienił się w 20 plikach): objaśnienia
   wydrukowane w treści (pod tabelami, w formularzach) mają znaczniki `¹⁾` jak w druku, a nie `[^n]` prowadzące do
   przypisu aktu o tym numerze; przypis z wyliczeniem („1) …”, „2) …”) jest w całości przypisem. Selfcheck: lepiej

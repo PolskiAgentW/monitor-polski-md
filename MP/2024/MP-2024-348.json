@@ -1,7 +1,7 @@
 {
  "eli": "MP/2024/348",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 13 marca 2024 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 15 października 2023 r.",
- "converter": "eli2md 0.6.17",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/348/text.pdf",
  "body": [
   {
@@ -845,7 +845,123 @@
    "body": [
     {
      "type": "note",
-     "text": "[Strony 12-13 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "16. 7 342,86"
+    },
+    {
+     "type": "ocr",
+     "text": "17. 7 342,86"
+    },
+    {
+     "type": "ocr",
+     "text": "18. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "19. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "20. 7 342,86"
+    },
+    {
+     "type": "ocr",
+     "text": "21. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "22. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "23. 7 342,86"
+    },
+    {
+     "type": "ocr",
+     "text": "24. 600,00"
+    },
+    {
+     "type": "ocr",
+     "text": "25. 300,00"
+    },
+    {
+     "type": "ocr",
+     "text": "26. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "27. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "28. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "29. 300,00]"
+    },
+    {
+     "type": "ocr",
+     "text": "30. 0"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "31. 600,00"
+    },
+    {
+     "type": "ocr",
+     "text": "32. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "33. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "34. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "35. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "36. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "37. 600,00"
+    },
+    {
+     "type": "ocr",
+     "text": "38. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "39. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "40. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "41. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "42. 0"
+    },
+    {
+     "type": "ocr",
+     "text": "43. 0"
     },
     {
      "type": "note",
@@ -1075,7 +1191,31 @@
     },
     {
      "type": "note",
-     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 22 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "s = z = 2 > e Le ="
+    },
+    {
+     "type": "ocr",
+     "text": "16. 4531 720,00 17. 4531 000,00 18. 19."
+    },
+    {
+     "type": "ocr",
+     "text": "20. 4.531 000,00 21. Des 720,00 23. 4533 197,97"
+    },
+    {
+     "type": "ocr",
+     "text": "4. 4 722,00 s 492,00 26."
+    },
+    {
+     "type": "ocr",
+     "text": "57, 28."
+    },
+    {
+     "type": "ocr",
+     "text": "29. 4 230,00 30."
     },
     {
      "type": "note",
@@ -1575,7 +1715,59 @@
     },
     {
      "type": "note",
-     "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 40 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Wot"
+    },
+    {
+     "type": "ocr",
+     "text": "16. 111 441,12"
+    },
+    {
+     "type": "ocr",
+     "text": "17. 111 441,12"
+    },
+    {
+     "type": "ocr",
+     "text": "18. 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "19. 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "20. 111 441,12"
+    },
+    {
+     "type": "ocr",
+     "text": "21. 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "22. 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "23. 99 681,74 a. 250,00"
+    },
+    {
+     "type": "ocr",
+     "text": "25. 0,00 z. 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "27. 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "28. 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "29. 0,00 30. 250,00"
     },
     {
      "type": "note",
@@ -2243,7 +2435,15 @@
     },
     {
      "type": "note",
-     "text": "[Strona 61 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 61 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "o — wynajęcie sal, innych pomieszczeń lub powierzchni 44,"
+    },
+    {
+     "type": "ocr",
+     "text": "55. Nr rachunku bankowego, na którym są gromadzone środki finansowe komitetu Wyborczego: Komitet nie posiadał rachunku bankowego"
     },
     {
      "type": "note",
@@ -2405,7 +2605,51 @@
     },
     {
      "type": "note",
-     "text": "[Strony 69-70 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 69 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "16. 2.539,95 17: 2.539,95"
+    },
+    {
+     "type": "ocr",
+     "text": "18. 0,00 19; 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "2.53995 21. 0,00 22: 0.00"
+    },
+    {
+     "type": "ocr",
+     "text": "23. 0,00 24. 0.00 28, 0.00 26. 0.00 2, 0.00 28. 0.00 29, 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "30. 0,00"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 70 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "31. 2.359,95 32. 0,00 33. 0.00 34. 0.00 35."
+    },
+    {
+     "type": "ocr",
+     "text": "0,00 36. 0,00 37. 0,00 38. 0,00 39. 0,00"
+    },
+    {
+     "type": "ocr",
+     "text": "0.00 41. 2.559,95"
+    },
+    {
+     "type": "ocr",
+     "text": "42."
+    },
+    {
+     "type": "ocr",
+     "text": "0,00 43. 0,00"
     },
     {
      "type": "note",
@@ -2595,7 +2839,39 @@
     },
     {
      "type": "note",
-     "text": "[Strony 79-80 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 79 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "i)"
+    },
+    {
+     "type": "ocr",
+     "text": "16. 54.445,00 17."
+    },
+    {
+     "type": "ocr",
+     "text": "18. 54.445,00 19. 20. 21. 22,"
+    },
+    {
+     "type": "ocr",
+     "text": "23. 54.345,31"
+    },
+    {
+     "type": "ocr",
+     "text": "24. 836,40 25, 26."
+    },
+    {
+     "type": "ocr",
+     "text": "27."
+    },
+    {
+     "type": "ocr",
+     "text": "28. 836,40 29."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 80 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
     },
     {
      "type": "note",

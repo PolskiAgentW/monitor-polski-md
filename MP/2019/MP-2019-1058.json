@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/1058",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 7 października 2019 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach do Parlamentu Europejskiego przeprowadzonych w dniu 26 maja 2019 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1058/text.pdf",
  "body": [
   {
@@ -5218,7 +5218,63 @@
     },
     {
      "type": "note",
-     "text": "[Strona 138 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 138 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Kre"
+    },
+    {
+     "type": "ocr",
+     "text": "dyty bankowe**): l."
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: .......euueu eee aaa aaa aaa aaa aaa aaa aaa EEE EG EEE EEE EEE EERE EE EERE HEE"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: ........... cece eee tenner eter ens"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w Zł): .......uuu uuu cece aaa aaa aaa aaa ewa aaa de nn i"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): ..............uueu aaa fcc aaa anawa ia"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: ......u uuu aaa aaa aaa aaa ananasa wana teense eee eseeene ranna nina:"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: ........ ccc k aaa aaa aaa aaa aaa eres"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w zł): ............. eC . ny re"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): 2.0... fice cce cece eee nee eee nn nnn ene ri es"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): V. Wykaz zobowiązań niespłaconych VR dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do sptaty**): (wierzyciel — imię i nazwiskg, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) (wierzyciel — imię i ndzwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "2."
+    },
+    {
+     "type": "ocr",
+     "text": "VI. Wykaz funduszy wyborczych, z których pochodzą środki pieniezne**?: (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł) (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł) ze"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/974",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 3 września 2015 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach Prezydenta Rzeczypospolitej Polskiej, przeprowadzonych w dniach 10 maja 2015 r. i 24 maja 2015 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/974/text.pdf",
  "body": [
   {
@@ -3193,7 +3193,43 @@
     },
     {
      "type": "note",
-     "text": "[Strona 71 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 71 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2)a. kredytodawca: ........ area ae aan enaa ae aa tents wne knew ok anno ea kann aka a kia NS ce puaka kara aaa kanada ka pan aaa akwa aa aa ncea rewia A b. warunki uzyskania kredytu: ........ssosssarawa reason aeaa nne aa narnaaaaawana zeza naa wana fomaras nozna naa ny zakre teatr ay aa tara wawy nawa s i twanna SAY"
+    },
+    {
+     "type": "ocr",
+     "text": "c. kwota kredytu (w Zi): oo aaa as e aaa neon ana aa zania ano aaa nana z waza na enn nneeeeeaeecentstenssneresneneentstentenerenaeneene nee eae d. kwota splacona (w tym odsgtki): .......assans arena e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania}"
+    },
+    {
+     "type": "ocr",
+     "text": "5. Wykaz zobowiązań niesplaconych na ostatni dzień Skręzu 4 sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty” ”"
+    },
+    {
+     "type": "ocr",
+     "text": "(© é za! jeszk. fa lub nazwa i siedzibaj (wierzycie! — imię i nazwisko, b) zam Wady tod. lub nazwa } siedziba; (kwota w zt)"
+    },
+    {
+     "type": "ocr",
+     "text": "6. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne ”* | NE P>: ASA 44 ORNE PR"
+    },
+    {
+     "type": "ocr",
+     "text": "{nazwa partii, z ktorej funduszu Wd ochodzą środkii fkwota w zj) (nazwa partii, z \"której funduszu wyboró lego pąchodzą srodki fkwota w zi!"
+    },
+    {
+     "type": "ocr",
+     "text": "7. Wykaz pozostałych tytułów, niewymienionych w pkt 2—4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodeksu wyborczego”: UŁ Ooly! \"4świadczeniodawca - — Wa miejscow le zamł szkania lub. nazwa i siedzibaj kwota w zi) fświade. czentodawca — imię i hazwi M. miejscowość te mielzkania iub nazwa i siedzibaj fkwota w zi}"
+    },
+    {
+     "type": "ocr",
+     "text": "„. Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn zm.) W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowil załącznik odpowiednich punktów do sprawozdania."
+    },
+    {
+     "type": "ocr",
+     "text": "(miejscowość, data} R nazwisko oraz podpis pełnomocnika finansowego)"
     }
    ]
   },

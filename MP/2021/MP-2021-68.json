@@ -1,7 +1,7 @@
 {
  "eli": "MP/2021/68",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 30 listopada 2020 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach Prezydenta Rzeczypospolitej Polskiej przeprowadzonych w 2020 r.",
- "converter": "eli2md 0.6.13",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/68/text.pdf",
  "body": [
   {
@@ -481,7 +481,67 @@
     },
     {
      "type": "note",
-     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Dziennik Ustaw —8- - Poz. 1566"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Kredyty bankowe**?: 1."
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredylodaWCa; sco ss. Nese vision Soke aan eyesore Ade eon gies SWE Sobalac ealsenmreeavesireeses ŁĘKI"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: ..........--.-eeueaea aaa ccc aaa ec neu ececeeeeneaeceeeeeeeeeseeeess"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w Zł): .............eeeeee aaa wawa wawa wawa aaa zaawan aa aaa za aaa aaa ani n cić"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): .............e.e.eaea ea aaa aaa aaa aan wawa naka wakakaeicae ia"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: .............ccccsescccssesccssscoscnesccccssscccesccssccssseccessesscsensceccens"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: ...........-.e.eaeaea saa aa wawa wa aaa aaa aaa ease eneeeeeeneaen ones"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota: kredytu: (WZŁ): ccs sua cess cee; Sona aaa owi GOA cos a0 tes 406.5000 s oon ene aces"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): ......... 0.00. cc cece aaa aaa aaa aaa aaa aaa waw aaa aaa ae acne"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): -"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty**):"
+    },
+    {
+     "type": "ocr",
+     "text": "(wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) VI. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne**:"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł) PRECZ EORECEC O WNE (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł)"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/489",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 15 kwietnia 2013 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2012 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/489/text.pdf",
  "body": [
   {
@@ -1067,7 +1067,83 @@
     },
     {
      "type": "note",
-     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 18 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "b) darowizny (pieniężne) KR oldu... Sak... WOM SAO a0 mne | 40.000, 00"
+    },
+    {
+     "type": "ocr",
+     "text": "(wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)*"
+    },
+    {
+     "type": "ocr",
+     "text": "2) odsetki od środków na rachunkach i lokatach bankowych 0,4 4"
+    },
+    {
+     "type": "ocr",
+     "text": "3) pochodzące z posiadania i z obrotu obligacjami Skarbu Państwa i bonami skarbowymi Skarbu Państwa"
+    },
+    {
+     "type": "ocr",
+     "text": "Cone nae vasacccudnewsnwevasenseaseormuance"
+    },
+    {
+     "type": "ocr",
+     "text": "orertrrrrrreririrrrirtirert Tit ettrrirtittretrtirerrirtrttrirtrrtriiie tii ri titty"
+    },
+    {
+     "type": "ocr",
+     "text": "4) pochodzące ze sprzedaży należących do partii składników majątkowych (należy podać rodzaj i wartość poszczególnych, sprzedanych składników majątkowych)*"
+    },
+    {
+     "type": "ocr",
+     "text": "a maaD REN EBP POOR R SPRORE0000300000R50RFOBOROOZDO0ONY CUDO 0207000 000R00 OOO OZO rrr iii"
+    },
+    {
+     "type": "ocr",
+     "text": "24 P0a naa PORN EWC 0O Cz R00 NADA GNYŁORRDORREERZ BOR ORARAROSZYPNNYCO ee re rr ry"
+    },
+    {
+     "type": "ocr",
+     "text": "5) pochodzące z działalności własnej, o której mowa w art. 27 ustawy z dnia 27 czerwca 1997 r. G partiach politycznych"
+    },
+    {
+     "type": "ocr",
+     "text": "sewerteeavessccueen"
+    },
+    {
+     "type": "ocr",
+     "text": "saeweessesecenes"
+    },
+    {
+     "type": "ocr",
+     "text": "6) kredyty O"
+    },
+    {
+     "type": "ocr",
+     "text": "a) wykaz podmiotów udzielających kredytu (należy podać tączną kwotę dla każdego kredytodawcy)*"
+    },
+    {
+     "type": "ocr",
+     "text": "Anu none Ras O CZERNY REN OR NORZE SPRAY nwa sunt ROSGA OG ORZP ORO DR REDE SRO PN awe snses PRON ODAASAZSĄ DAŁO RORORDYOZSOSAPY PWZ ORROORORORE00OPOFOSN0SZN00"
+    },
+    {
+     "type": "ocr",
+     "text": "b) wykaz podmiotów udzielających gwarancji*"
+    },
+    {
+     "type": "ocr",
+     "text": "7) kwota otrzymanej dotacji podmiotowej ©"
+    },
+    {
+     "type": "ocr",
+     "text": "8) kwota otrzymanej subwencji 0"
+    },
+    {
+     "type": "ocr",
+     "text": "9) pochodzące z kasy partii nadwyżki środków pieniężnych wykazane w części Il pkt 1 oraz środki pieniężne wykazane w części II pkt 2 i 3, odprowadzone na rachunki O bankowe partii"
     },
     {
      "type": "note",

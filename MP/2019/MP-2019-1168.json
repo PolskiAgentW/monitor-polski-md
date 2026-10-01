@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/1168",
  "title": "Umowa między Ministrem Rolnictwa i Rozwoju Wsi Rzeczypospolitej Polskiej a Ministerstwem Rolnictwa i Żywności Republiki Białorusi dotycząca zwalczania wścieklizny na terytorium Republiki Białorusi w latach 2019-2020, podpisana w Poznaniu dnia 30 września 2019 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1168/text.pdf",
  "body": [
   {
@@ -1126,7 +1126,43 @@
   },
   {
    "type": "note",
-   "text": "[Strony 28-54 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strony 28-53 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 54 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "IipunoxeHne No 7 K Cor:ralieHnto M©KNy MHHHCTpoM CEJBCKOTO XO3AŃCTBA u pa3BuTua cena PecryOnnku Ilonsiia M MhHuHHCTEpcTBoM CEJIBCKOTO XO3AŃCTBA U HpONOBOJIBCTBHA PecnyOnuxun benapycp no Óopbóe c ÓelieHcTBoM Ha TeppuTopun PecryÓnukH bejrapycb B 2019 m 2020 rorax"
+  },
+  {
+   "type": "ocr",
+   "text": "PEKBH3ATBI BAHKOBCKOTO CUETA"
+  },
+  {
+   "type": "ocr",
+   "text": "3anonHuTe, nosxanyńcra, TIPOMMCHbIMU BYKBAMUY JIATHMHCKOTO AJIDABHATA."
+  },
+  {
+   "type": "ocr",
+   "text": "HAKMEHOBAHHE CUETA ) IBAN/HOMEP CHETA ) BAJIIOTA KOJ BIC/SWIFT HAHMEHOBAHBE BAHKA"
+  },
+  {
+   "type": "ocr",
+   "text": "YJMNHA H Ne"
+  },
+  {
+   "type": "ocr",
+   "text": "BAHKOBCKHE PEKBHZATBbI ” The Ministry of Finance of the Republic of Belarus BY74NBRB36009000000330000000 EURO NBRBBY2X National Bank of the Republic of Belarus AJIPEC OTĄEJEHKA BAHKA 20, Nezavisimosty Avenue"
+  },
+  {
+   "type": "ocr",
+   "text": "PISIOd JONUO,"
+  },
+  {
+   "type": "ocr",
+   "text": "8911 20d"
   },
   {
    "type": "note",

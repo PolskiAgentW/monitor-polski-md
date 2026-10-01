@@ -1,7 +1,7 @@
 {
  "eli": "MP/2016/258",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 15 lutego 2016 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, przeprowadzonych w dniu 25 października 2015 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/258/text.pdf",
  "body": [
   {
@@ -1538,7 +1538,75 @@
     },
     {
      "type": "note",
-     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 21 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "I. informacje szczegółowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Rachunek bankowy 43.4240 M03£_MAA_OO0 OWE OLE... inr rachunku bankowego!"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wpłaty ogółem b Jf"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data piarwszaj wplaty » Lh)"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wplaty .. bent kA. RE"
+    },
+    {
+     "type": "ocr",
+     "text": "2) wypłaty ogółem /"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wypiaty ............ y OM. PNessnacseneaseeenepsenaseeneaterenseteenee ee"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wypłaty ...... ATN NE"
+    },
+    {
+     "type": "ocr",
+     "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego () (kwota w zh"
+    },
+    {
+     "type": "ocr",
+     "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone””!: = £ LI ONA wwa aa te eneacaneenauennansneenanenpensneaannegescneneescesesetanrenn es eonens . fimię i nazwisko, miejscowość zamieszkaniaj ikwota w złł"
+    },
+    {
+     "type": "ocr",
+     "text": "2) OO (hh fimię i nazwisko, miejscowość zamieszkania} fkwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Wpłaty przyjęta i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą”:"
+    },
+    {
+     "type": "ocr",
+     "text": "imię I nazwisko, miejscowość zamieszkania) fkwota w zi) — P> PE NENNENĄ WENA CANA fimię i nazwisko, miejscowość zamieszkania} fkwota w zi}"
+    },
+    {
+     "type": "ocr",
+     "text": "4. Kredyty bankowe”:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) a. kredytodawca: .......0.cscccsessecseseceecerserseses sss sosneeacssnscensavsnseceenees Vyeuecccessvessmsseesasevessareressensestsnavessenesees ene ses b. warunki uzyskania kredytu:"
+    },
+    {
+     "type": "ocr",
+     "text": "c. kwota kredytu (w Zł): ...... s eeeeea sara ce anawa aa zawo ay cesses vecssscnecersuen tne Raz aaa coe ka cuseeenssnencasessanesceveceneescuteeevas kaz ada d. kwota splacona (w tym odsetki): ............-esae aaa aan aan aaa aacnanaaaaaa ina miazzeznae . kazan A pea za aiz e. kwota pozostała do spłaty (w tym odsetki na dziań sporządzenia sprawozdania): wee"
     },
     {
      "type": "note",
@@ -4731,7 +4799,39 @@
     },
     {
      "type": "note",
-     "text": "[Strony 86-87 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 86 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 87 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "2) a. kredytodawca: wiccsccseseencecrscsesseectesersseetsreseaeneeneassrenaeenss o j b. warunki uzyskania kredytu: ....... ott Lond ce. kwota kredytu (w zł): a seeeeee |- d, kwota splacona (w tym odsetki): 2... jeee eee seen ena wawaaanazanownawa paw zza wiza 00a a e. kwota pozostała do splaty (w tym odsetki na dzień sporządzenia sprawozdania): ...-seeernersenernmernssscassenees Center scares eee Pa RE Pozo ARP RP ARA oe za see wyw APA Rpa Baw Nao aRa eRe ane awe Ee ae ziż w Ee"
+    },
+    {
+     "type": "ocr",
+     "text": "5. Wykaz zobowiązań niesplaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty” . 1 + nA] U ) NS 38 zamieszkania lub nazwa i słodziba) fewota w z) NAK świeci Muhgię f nazwisko, miejscowość zamieszania lub nazwa I stedzikaj (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "2) ae _| 6. Wykaz tunduszy wyborczych, zktórych pochodzą środki pieniężne” ”:"
+    },
+    {
+     "type": "ocr",
+     "text": "ANG partil, z Rides, Monduszu wyborczego pochodzą środki) fkwota w zi) ga-N] | \\ | (nazwa partil, zktórej funduszu wyborczego pochodzą środki) fkwotawzij |\""
+    },
+    {
+     "type": "ocr",
+     "text": "7. Wykaz pozostalych tytulów, niewymienionych w pkt 2—4 i 6, w tym świadczeń nieodpłatnych, z wyjątkiem świadczeń polegających na nieodpłatnym rozpowszechnianiu plakatów i ulotek wyborczych przez osoby fizyczne oraz świadczeń określonych w art. 133 Kodaksu wyborczęgo”””*): LC | LSA — (U NA i nazwisk® Rejścowość zamieszkania lub nazwa i siedziba) (kwota w zj” (świadczeniodzwca — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) {kwota w zi)"
+    },
+    {
+     "type": "ocr",
+     "text": "0 Ustawa z dnia 5 stycznia 2011 r. — Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.). I W przypadku wykazu zawierającego większą ilość pozycji należy sporządzić go na oddzielnym arkuszu, który będzie stanowił załącznik odpowiednich punktów do sprawozdania."
+    },
+    {
+     "type": "ocr",
+     "text": "KAŻE 244206 z ! owak Je wja Ug imlelscowosé, data) 7 (imię i nazwisko ofaz podpis pelnomocnika finansowego)"
     }
    ]
   },
@@ -6397,7 +6497,155 @@
     },
     {
      "type": "note",
-     "text": "[Strony 123-124 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 123 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "a) koszty wynajmu powierzchni biurowej, w tym koszty energii elektrycznej 4GL,00"
+    },
+    {
+     "type": "ocr",
+     "text": "b) koszty telekomunikacyjne (np. telefony, tącze Internetowe) A.014.50 ©) koszty utworzenia | utrzymania strony Internotowoj komitatu A 994,50 2 Uslugi oboe 4 521 JS"
+    },
+    {
+     "type": "ocr",
+     "text": "1) korzystanie ze środków masowego przekazu I nośników plakatów 20 840,15"
+    },
+    {
+     "type": "ocr",
+     "text": "a) dzienniki | czasopiama (koszt zamieszczenia ogłoszeń | artykułów sponsorowanych) | 515050"
+    },
+    {
+     "type": "ocr",
+     "text": "b) radio (koszt usiugi emisji ogłoszenia, spotu, audycji itp.) 6 426,50"
+    },
+    {
+     "type": "ocr",
+     "text": "e) telewizja (koszt usługi ogloszenia, spotu, audycji Itp.) 0.00"
+    },
+    {
+     "type": "ocr",
+     "text": "d) nośniki plakatów (koszt akspozycji) 1379,15"
+    },
+    {
+     "type": "ocr",
+     "text": "e) reklama w Internecie (koszt uslugi emisji) 9690,7 A wykonanie matariałów wyborczych, w tym prace koncepcyjne, praca projoktowa i wy- 6 942,00"
+    },
+    {
+     "type": "ocr",
+     "text": "a) plakaty wyborcza 4644,00"
+    },
+    {
+     "type": "ocr",
+     "text": "b) filmy rekismowo I spoty 45% 0 ©) ulotki U466, 50"
+    },
+    {
+     "type": "ocr",
+     "text": "d) inne wydawnictwa Q00"
+    },
+    {
+     "type": "ocr",
+     "text": "e) raklama w Internecie 0.00"
+    },
+    {
+     "type": "ocr",
+     "text": "f) Inne materiały wyborcze (np. plakietki, rakiamówki) A0 24950"
+    },
+    {
+     "type": "ocr",
+     "text": "3) koszty spotkań wyborczych (np. wynajęcie zali, sprzętu, naglośnienie) 0.00"
+    },
+    {
+     "type": "ocr",
+     "text": "4) kozzty podróży I noclogéw 0.00"
+    },
+    {
+     "type": "ocr",
+     "text": "5) pozostała koszty [64,U0 EDO Moc og"
+    },
+    {
+     "type": "ocr",
+     "text": "4. Pozostało wydatki 0.00 €. Wysokość nadwyżki, o której mowa w art. 128 § 1—3\") Kodeksu wyborczego"
+    },
+    {
+     "type": "ocr",
+     "text": "AG AAW SS)"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 124 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "M. informacje szczegółowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Rachunek bankowy OS. AUA0.. QQ. 0000... 4930..36. 8k... AOGS (nr rachunku bankowego)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wpłaty ogółem"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wpiaty 16.09. AAA."
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wpłaty L£G.MO.ROA oa"
+    },
+    {
+     "type": "ocr",
+     "text": "2) wypłaty ogółom 5"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data plorwezoj wypłaty 43.04.4044"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wyplaty QOL BONG. 3} stan rachunku w dniu złożenia sprawozdania finansowego MG A 14 35 w kwola waj"
+    },
+    {
+     "type": "ocr",
+     "text": "2. Wplaty na rzecz komitetu wyborczego, przyjgto i niezwrócone””: 1 Dorota. Szewczyl- Sadłoubla Mańaa 60,00 “ {imig I nazwisko, miejscowość zamleazkania} (kwota w zij 2 (imię | nazwisko, miejscowość zamieszkania) (kwota w zi)"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Wpłaty przyjęte i niezwrócona, dokonane w inny sposób niż czakiem rozrachunkowym, przelawem"
+    },
+    {
+     "type": "ocr",
+     "text": "b. warunki uzyskania kredytu:"
+    },
+    {
+     "type": "ocr",
+     "text": "lub kartą płatniczą”:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) by he obj ary tite I nazwiako, awm zamieszkania) (kwota w zł) 2 fimie | nazwisko, miejscowość zamisszkania} fkwota w zi)"
+    },
+    {
+     "type": "ocr",
+     "text": "4. Krodyty bankowa ””!:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) a. kredytodawczi voceseres kradnąc"
+    },
+    {
+     "type": "ocr",
+     "text": "asece c. kwota kradytu (w zi): d. kwota splacona (w tym odsotki): ........corccscscsecsseesssesssesasees"
+    },
+    {
+     "type": "ocr",
+     "text": "6. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): +0%000505000000"
     },
     {
      "type": "note",
@@ -9366,7 +9614,71 @@
     },
     {
      "type": "note",
-     "text": "[Strona 190 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 190 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Il. Informacje szczegółowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Rachunek bankowy YM 020 ooh MAO"
+    },
+    {
+     "type": "ocr",
+     "text": "200. OWAN Ho (nr rachunku bankowego)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wpłaty ogółem (9.058, OAD"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wplaty 0. O o AA"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej Wpłaty 0 Lc cscccneccscecsessssassecavsusassevscveseaugivassersaesensavaeserseusansreesvansessatevenses"
+    },
+    {
+     "type": "ocr",
+     "text": "2) wypłaty ogółem"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej Wypłaty ...... eee. eM cece ceccsssscesceesaceecsscessacacvsavssseseeseesessavsucseseesaeaesavsepeasacsuvaneaseeeees"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wypłaty OFA, Alp EEN"
+    },
+    {
+     "type": "ocr",
+     "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego 4 {kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone””:"
+    },
+    {
+     "type": "ocr",
+     "text": "u"
+    },
+    {
+     "type": "ocr",
+     "text": "EEEE WORA (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) PN | eoeeeeees Gv vecsssssen (imię i nazwisko, miejscowość zamieszkania) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą”): UA A A ACZ ZNA WE (imię i nazwisko, miejscowość zamieszkania) fkwota w zł) EA LATA PA PO (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) 4, Kredyty bankowe ”*”!: mua 2"
+    },
+    {
+     "type": "ocr",
+     "text": "1) a. kredytodawca: i MŁ R OE b. warunki uzyskania kredytu: .........ccccccccceescesscenscescesecessesesseenaesceseeseessaceatesseaccaesesecaucenecaceactaseaneeneeateresseeasearees ee eee eee eee eee ee ee ee eee eee ee ee eee ere eer eee eer ee Terre eer errr er errr errr ee ree Tree ee reer eer Z c. kwota kredytu (w zł): ................. d. kwota spłacona (w tym odsetki): ....... uuu aaa ana ia aaa aaa aa zazna taaa zany a a zaa waka aa ina e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): .......----s--2----asu--usus1:111"
     },
     {
      "type": "note",
@@ -16422,7 +16734,67 @@
     },
     {
      "type": "note",
-     "text": "[Strona 341 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 341 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "H. informacje szczegółowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Rachunek bankowy OA. ŻGAH0006...0BAMO......02Q0.... BAAS OOO... int rachunku bankowego)"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wpiaty ogólem"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wplaty LAO. QD...2AŚ... sz Re"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wpłaty 4.0... 0.8. wal COAS EEE"
+    },
+    {
+     "type": "ocr",
+     "text": "2) wypłaty ogółem ZA ON. 204$"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wypłaty ........... RPP SO R A EA > mą"
+    },
+    {
+     "type": "ocr",
+     "text": "b) cata ostatniej wypłaty ......... Bante 82 2Q48 ROEE"
+    },
+    {
+     "type": "ocr",
+     "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego {3 2 — fb lh SSA, PR (kwota w zi)"
+    },
+    {
+     "type": "ocr",
+     "text": "2. Wpłaty na rzecz komitatu wyborczego, przyjęto i niezwrócone”*): OD po y ARLUR. KCOZIOt KUECUICWEAĄ oO)... fimię i nazwisko, miejscowość zamieszkania) i (kwota w zł) © ~ fimię I nazwisko, miejscowość zamieszkania) flowota w zi] . 3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą” ”:"
+    },
+    {
+     "type": "ocr",
+     "text": "1) eo NAC... POTTED. aan | manne (0... fimię I nazwisko, miejscowość zamieszkania) fkwota w zi} - (s p PA NIE POT KZ PAZ Je. fimię i nazwisko, miejscowość zamieszkania) {lavota w zi)"
+    },
+    {
+     "type": "ocr",
+     "text": "4. Kredyty bankowe\":"
+    },
+    {
+     "type": "ocr",
+     "text": "1) a. kredytodawca: .........-ersssasea NE... PA TTCELY.. b. warunki uzyskania kredytu: ALL G..... ROL C2 4 . RM"
+    },
+    {
+     "type": "ocr",
+     "text": "c. kwota kredytu (w zi): MEN ZEN MPOETOUA NOA d. kwota spłacona (w tym odsetki): SIA ALOR nt 2 OE a. kota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania: ...........-anseewenana"
     },
     {
      "type": "note",
@@ -17327,7 +17699,67 @@
     },
     {
      "type": "note",
-     "text": "[Strona 361 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 361 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "Il. Informacje szczegółowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "ocr",
+     "text": "1. Rachunek bankowy 115 20K3 6 ine rachunku bankow"
+    },
+    {
+     "type": "ocr",
+     "text": "1) wpłaty ogółem a. [0 WAY w. bi data ostatniej Wały „ea PN od Nana aaa ay zaneta"
+    },
+    {
+     "type": "ocr",
+     "text": "at data pierwszej wplaty."
+    },
+    {
+     "type": "ocr",
+     "text": "2) wypłaty ogólem al data pierwszej wypiaty ( U Q. 405 ha D) Gata SLATE) WYPLALY POCO"
+    },
+    {
+     "type": "ocr",
+     "text": "3) stan rachunku w dniu złożerua sprawozdania finansawega © R"
+    },
+    {
+     "type": "ocr",
+     "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone''': 7 HO weślcj (ire * nazwisko, miejscowość zamieszkatia) (xweota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "Ga"
+    },
+    {
+     "type": "ocr",
+     "text": "„Wpłaty przyjęte i niezwrócorie, dokonane w inny spasob niż czekism rozrachunkowym, przelewem lub kartą piatniczą'\"."
+    },
+    {
+     "type": "ocr",
+     "text": "fkwota w zł"
+    },
+    {
+     "type": "ocr",
+     "text": "ię i nazw +1."
+    },
+    {
+     "type": "ocr",
+     "text": "4. Kredyty bankowe”"
+    },
+    {
+     "type": "ocr",
+     "text": "1) a. kredytodawca: uuu aaa ana Mae... Miz b. warunki UZYSKANIA KLTOdYytU occ ccescrecnteeeensesesssaeeseceegescatesessecnaceecsesssensevsaeceeseasvavsuysesivevatearsarvanssesansssess"
+    },
+    {
+     "type": "ocr",
+     "text": "e. kwota pozostała do spiaty (w tym odsetki na dzień sporządzenia sprawozdania) eee cesses"
     },
     {
      "type": "note",

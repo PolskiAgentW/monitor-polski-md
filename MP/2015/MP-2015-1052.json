@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/1052",
  "title": "Umowa między Ministrem Rolnictwa i Rozwoju Wsi Rzeczypospolitej Polskiej a Ministerstwem Polityki Rolnej i Gospodarki Żywnościowej Ukrainy dotycząca realizacji programu zwalczania wścieklizny na terytorium Ukrainy w 2015 roku, podpisana w Kijowie dnia 12 sierpnia 2015 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1052/text.pdf",
  "body": [
   {
@@ -502,7 +502,23 @@
   },
   {
    "type": "note",
-   "text": "[Strony 12-13 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 12 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Powierzchnia objęta doustnym szczepieniem lisów Region | i NA > wolno żyjących przeciwko wściekliźnie - km Strefa buforowa na Ukrainie 26 400 26 400 Razem"
+  },
+  {
+   "type": "ocr",
+   "text": "PJSTOd JOWUOP"
+  },
+  {
+   "type": "ocr",
+   "text": "cSOL 20d"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 13 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
   },
   {
    "type": "note",
@@ -1686,7 +1702,43 @@
   },
   {
    "type": "note",
-   "text": "[Strony 49-94 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strony 49-77 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 78 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "7.1.2. Uini B cbepi AocnitpkeHHa craą i TBAapnuH 7.1.2.1. Llini B cpepi AocnigKeHHA craą He cTocysTbca"
+  },
+  {
+   "type": "ocr",
+   "text": "7.1.2.2. Llini B ccpepi AocnirykeHb TBapuH He cTocyeTbca 7.2. Llini B ccpepi ksanicpikanii craą i TBapuH He crocyeTbca 7.3. Uini B rany3i wenneHb a60 nikyBaHHa"
+  },
+  {
+   "type": "ocr",
+   "text": "7.3.1. Llini 8 rany3i wenneHb a6o nikyBaHHa He CcTocyeTbca"
+  },
+  {
+   "type": "ocr",
+   "text": "7.3.2. Llini B ccbepi wenneHb a60 nikyBaHHA QUKMX TBAPUH Meta nporpaMmy wenneHHa aGo nikyBaHHa KinbKicTb 403 BaKLIMHU aG0 3aranbHa KINbKICTb 403 . Tinouja nikyBanbHoro npo, PerioH 2 a POAYKTY TlnaHOBaHa KiNbKICTŁ BaKLIMHU a60 nikyBanbHoro"
+  },
+  {
+   "type": "ocr",
+   "text": "(KM) nnaHoBaHa Ao BUKNageHHA Lo kaMnaHiń nNpoAyKTy NNaHOBaHa Ha a6o noqaHHa B paMkax BUKNAJEHHA uM NOJAHHA kamnakii Tepuropia 6ycbepHoi 30Hu B Ykpaini 26 400 660 000 2 1 320 000 Pa30M 660 000 1 320 000"
+  },
+  {
+   "type": "ocr",
+   "text": "PISIOd JONUO,"
+  },
+  {
+   "type": "ocr",
+   "text": "cSOL 20d"
+  },
+  {
+   "type": "note",
+   "text": "[Strony 79-94 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
   },
   {
    "type": "note",

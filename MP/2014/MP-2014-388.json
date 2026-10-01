@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/388",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 5 maja 2014 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2013 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/388/text.pdf",
  "body": [
   {
@@ -1115,7 +1115,79 @@
     },
     {
      "type": "note",
-     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 17 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "b) darowizny (pieniężne) A POE A CENIA... DB. 620, 00 (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wpłaty)*"
+    },
+    {
+     "type": "ocr",
+     "text": "c) spadki i zapisy (pieniężne)"
+    },
+    {
+     "type": "ocr",
+     "text": "Pe PROD NZOZ eh ir ee et ee NARUSZY NOP n nnn (wykaz osób — imię i nazwisko, miejscowość zamieszkania, kwota wptaty}*"
+    },
+    {
+     "type": "ocr",
+     "text": "2) odsetki od środków na rachunkach i lokatach bankowych"
+    },
+    {
+     "type": "ocr",
+     "text": "3) pochodzące z posiadania i z obrotu obligacjami Skarbu Państwa i bonami skarbowymi Skarbu Państwa"
+    },
+    {
+     "type": "ocr",
+     "text": "4) pochodzące ze sprzedaży należących do partii sktadników majątkowych (nałeży podać rodzaj i wartość poszczególnych, sprzedanych składników majątkowych)* aapabon eens sera denen Overs ener OW SORO GAR A ORA SZORRGZnOGOw000E AONE O PEEP OSO ORO R Keane NEES NOOO SR wOnPoareE Dey aEEAE Kav ecaE HUA SerneedamnneaensracassensenerensSeBENeDeacesesuucesenerOenenaweneessaraune?sEOe ChE OOES DESEO ASE aBs recone nes batevercenuesenaeseseneee"
+    },
+    {
+     "type": "ocr",
+     "text": "5) pochodzące z działalności własnej, o której mowa w art. 27 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych"
+    },
+    {
+     "type": "ocr",
+     "text": "+apanau"
+    },
+    {
+     "type": "ocr",
+     "text": "6) kredyty"
+    },
+    {
+     "type": "ocr",
+     "text": "a) wykaz podmiotów udzielających kredytu (należy podać tączną kwotę dla każdego kredytodawcy)* Perret rrr PNE SE CUBE RZESZY ORO SARP RWE PZUN ZO SZŁY i ririreterrererertireririitia irri ert rrerererrrer errr er ert tired"
+    },
+    {
+     "type": "ocr",
+     "text": "Seed ene nee eeneeneenenus ter ccecne tec OUEVELTASEUSUOG REL SES EHeORE Cae ernaesunsae Ester or har MEE OSO Su secersawae seus nusgasnenecerenevasreraranasens"
+    },
+    {
+     "type": "ocr",
+     "text": "221210052045220000000000004920005200010000000000004700PR00DOEOEBEOPRŁOFIESOEBORAIZOZE esaSh haat Ded neeesruesnTCOEOREDREDOOSeEnEosssenssansenee ne"
+    },
+    {
+     "type": "ocr",
+     "text": "ened ewe RDA cocu setae sneer ted eU Dae cen nen esensranseecacaseverevensunarsenpoassencnssses"
+    },
+    {
+     "type": "ocr",
+     "text": "BLOT Keo UecemnaHERSSPESUACS ONC KEe NOR See ee PEshabenesnenrs sun"
+    },
+    {
+     "type": "ocr",
+     "text": "7) kwota otrzymanej dotacji podmiotowej"
+    },
+    {
+     "type": "ocr",
+     "text": "8) kwota otrzymanej subwencji"
+    },
+    {
+     "type": "ocr",
+     "text": "9) pochodzące z kasy partii nadwyżki środków pieniężnych wykazane w części II pkt 1 oraz środki pieniężne wykazane w części I! pkt 2 i 3, odprowadzone na rachunki . bankowe partii"
+    },
+    {
+     "type": "ocr",
+     "text": "Polska Partia Socjalistyczna s ul. Turecka 3 Jnowa Droit 00-745 WARSZAWA"
     },
     {
      "type": "note",

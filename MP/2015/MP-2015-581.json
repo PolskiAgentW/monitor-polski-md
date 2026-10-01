@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/581",
  "title": "Protokół między Ministrem Obrony Narodowej Rzeczypospolitej Polskiej a Ministerstwem Obrony Ukrainy o nieodpłatnym przekazaniu wybranych składników mienia wojskowego, podpisany w Warszawie dnia 14 sierpnia 2014 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/581/text.pdf",
  "body": [
   {
@@ -90,7 +90,39 @@
   },
   {
    "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Załącznik Nr 1 WYKAZ SKŁADNIKÓW MIENIA"
+  },
+  {
+   "type": "ocr",
+   "text": "Nazwa llość"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Chleb żytni w opakowaniu foliowym 169 ton"
+  },
+  {
+   "type": "ocr",
+   "text": "2. Koce wojskowe 10000"
+  },
+  {
+   "type": "ocr",
+   "text": "3. Materace koszarowo-polowe 10000"
+  },
+  {
+   "type": "ocr",
+   "text": "4. Podgłówki 10000"
+  },
+  {
+   "type": "ocr",
+   "text": "5. Poszewki na podgłówki 20000"
+  },
+  {
+   "type": "ocr",
+   "text": "6. Prześcieradła 20000"
   },
   {
    "type": "note",
@@ -110,7 +142,51 @@
   },
   {
    "type": "note",
-   "text": "[Strony 5-8 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strony 5-6 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 7 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "CNELMOIKALIIA JEAKMX 3PA3KIB MAVHA"
+  },
+  {
+   "type": "ocr",
+   "text": "MonaTok 1"
+  },
+  {
+   "type": "ocr",
+   "text": "Ne n/n HAVMEHYBAHHA KISIbKICTb"
+  },
+  {
+   "type": "ocr",
+   "text": "1. Xni6 xuTHili 8 ynakoBui 169 TOHH"
+  },
+  {
+   "type": "ocr",
+   "text": "2. KoBapa siicbkosa 10000 wr."
+  },
+  {
+   "type": "ocr",
+   "text": "3. Matpau nonboBKń 10000 wit."
+  },
+  {
+   "type": "ocr",
+   "text": "4. [lonywka 10000 wt."
+  },
+  {
+   "type": "ocr",
+   "text": "5. HaBonouka 20000 wr."
+  },
+  {
+   "type": "ocr",
+   "text": "6. Tipocrupanno 20000 wr."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
   },
   {
    "type": "note",

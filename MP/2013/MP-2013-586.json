@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/586",
  "title": "Porozumienie techniczne między Ministrem Obrony Narodowej Rzeczypospolitej Polskiej a Ministerstwem Obrony Narodowej Republiki Greckiej dotyczące realizacji Memorandum o Porozumieniu w sprawie współpracy z Wielonarodowym Centrum Koordynacji Transportu Morskiego w Atenach",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/586/text.pdf",
  "body": [
   {
@@ -554,7 +554,23 @@
   },
   {
    "type": "note",
-   "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+   "text": "[Strona 11 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "ocr",
+   "text": "Dodatek Nr 1 do Załącznika F STRUKTURA ORGANIZACYJNA AMSCC DYREKTOR"
+  },
+  {
+   "type": "ocr",
+   "text": "PJSTOd JOWUOP"
+  },
+  {
+   "type": "ocr",
+   "text": "SEKCJA WSPARCIA ZASTĘPCA DYREKTORA -SZEFSZTABU _ |------------- 4 BIURO KADR | OCHRONY"
+  },
+  {
+   "type": "ocr",
+   "text": "_ ODDZIAL PLANOWANIA ODDZIAŁ OPERACYJNY BIURO I STRATEGII DZIAŁANIA PRASOWO-INFORMACYJNE SEKCJA SEKCJA OPERACJI KOORDYNACJI BIEŻĄCYCH | MONITORINGU UMÓW BIURO WSPARCIA CZARTEROWYCH TECHNOLOGII INFORMACYJNYCH SEKCJA UMÓW OZ an U BILATERALNYCH . ——| | POROZUMIEN | OSTeK RADCA-OFICER TECHNICZNYCH PŁYWAJĄCYCH GRECKIEJ OBRONY WYBRZEŻA 986 ZOd"
   },
   {
    "type": "note",

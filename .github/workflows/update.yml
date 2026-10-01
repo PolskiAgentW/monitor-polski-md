@@ -26,6 +26,7 @@ jobs:
           sudo apt-get update -q
           sudo apt-get install -y -q tesseract-ocr tesseract-ocr-osd tesseract-ocr-pol tesseract-ocr-eng \
             tesseract-ocr-por tesseract-ocr-fra tesseract-ocr-swe tesseract-ocr-ell tesseract-ocr-spa
+          tesseract --version | head -1
           tesseract --list-langs
       - name: Instalacja eli2md
         run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.6.22"

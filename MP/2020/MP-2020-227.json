@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/227",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 30 stycznia 2020 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej przeprowadzonych w dniu 13 października 2019 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/227/text.pdf",
  "body": [
   {
@@ -2212,7 +2212,79 @@
     },
     {
      "type": "note",
-     "text": "[Strony 52-53 PDF nie mają czytelnej warstwy tekstowej (np. skan lub grafika). Ich treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 52 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Kredyty bankowe**': i"
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: ................... [ae"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: ...//2.,. WODY Aaaa"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w zł): ........... WE... QOL Y ... Rz"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): ... W/E. 7? Hel... sss ia AKADE"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): FA ee eee ENIE TALL ky"
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: ...................... ME DOT 02 z SA"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: ..... M/Ł.. DSZYOCY a"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w zł): .........../V/Ć.. PONY... MEK"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): ME BACY. stesressspnentesauaypescsgrsoassoapeape espe utc"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+    },
+    {
+     "type": "ocr",
+     "text": "2,"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Wykaz zobowiązań niesplaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do splaty**’:"
+    },
+    {
+     "type": "ocr",
+     "text": "ies w aozdinocww ka PRZE —ccmmnmencsenmnanr | miod w"
+    },
+    {
+     "type": "ocr",
+     "text": "MLETUNELL..... ANC OO. tw Aelarzychał tate i nużwisko, miejscowość zddleciakia: kb; nazwa I iniedskoj ewes wl) fvierzpelel — Amig i nazwiska, miejscowość zawiekzkoia. uk nazwa I siedzibaj (kwota w zl)"
+    },
+    {
+     "type": "ocr",
+     "text": "\"iP"
+    },
+    {
+     "type": "ocr",
+     "text": "VI. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne**\": NO a peaannnnn | 404210 fhazwa parti KĘ fińdiszi wyborczego pochodzą śadki) (kwota 4 A) fnazwa pele, ¢ + Mk f pices 1ej akańija PRM tradi) (hivota w zl)"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 53 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
     }
    ]
   },
@@ -6640,7 +6712,47 @@
     },
     {
      "type": "note",
-     "text": "[Strona 184 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 184 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Kredyty bankowe**?: I."
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: ....... brag NN b)waruniki uzyskania kredylu: zasawosoasnawa ao GG AAC AWA OWOC"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w zł): ........uuaeaaaa aa aaa e eee e aa aaa aaa zakaz aa aaa aaa aaa a naa cc ch"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): ...........-..e.aesa oaza aaa aaa aaa aaa aaa ania nan aecae"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: ........ bra NE DY WAMINkI UżyBkania REED aaa waza"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (W Zł): oo... ccc cece eee eee aaa aaa aaa eee ened eee e eee ka aaa kak karna naa i ka G:"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwotaspiacona (witymodsetki): sacz NENA ALLAN"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): TerTrrrr rrr er re rrr rrr reece ee ee eee ee ee eee ee eee ee ee V. Wykaz zobowiązań niesptaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty**': OE ZONA YER... (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "NOOO (wierzycie! — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) VI. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne**': NK > A W ASK - (nazwa partii, = której fuhduszu wyborczego pochodzą środki) ( ZPO [| weresannmeennentase (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł)"
     },
     {
      "type": "note",
@@ -8647,7 +8759,71 @@
     },
     {
      "type": "note",
-     "text": "[Strona 247 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 247 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Kredyty bankowe**?: 1."
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: ......... eee aaa aaa OC. sees ap ibiSlan GAUSS GS"
+    },
+    {
+     "type": "ocr",
+     "text": "i) Warne Wyskóma KIERO a 16 ee ce cae: nora oes seen"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w zł): pec eben adh M ORNE"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): een zozRazzzzn zo arczi aloes"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: „owe eccrine yosn"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: EM ae e ukkSÓŁŚWGRKNOGIH EE ZGOS NIR EEE"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w zł): ............... oO Pa"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): ...... O. SURES WIĘ GORE aes ome ZE"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): f"
+    },
+    {
+     "type": "ocr",
+     "text": "z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłat:"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż ty**>"
+    },
+    {
+     "type": "ocr",
+     "text": "(wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa 1 siedziba) (kwota w zł) O fwierzyciel — imię 1 nazwisko, miejscowość zamieszkania lub nazwa i wżeóaj (kwota w zb)"
+    },
+    {
+     "type": "ocr",
+     "text": "2."
+    },
+    {
+     "type": "ocr",
+     "text": "VI. Wykaz funduszy wyborczych. z których pochodzą środki pi eniezne**?: Z (nazwa partii, z której funduszu wyborczego pochodzą środka) (kwota w zł) (nazwa parin, z której \"REWA u wyborczego pochodzą środki) (kwota w v 28)"
     },
     {
      "type": "note",
@@ -9314,7 +9490,51 @@
     },
     {
      "type": "note",
-     "text": "[Strona 263 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 263 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Kredyty bankowe**?: aut ololy wy |. ANKCEJYTOdAWCA RM lala dint dO AA OPO GOL ATA dE A"
+    },
+    {
+     "type": "ocr",
+     "text": "3) RETICLE MONO al SA PAŁ az La"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (Wid)! cated scake ths ACO SAY GOA EPE | lee ee"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): TROSZE\" pee eR | EEK"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): RA; RE ha ee Se ee ee 2, A) ECUVIOM OCA SE cele mca Se rales A tines’ keen O ae kas"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: .............cccccecececssesceesesccecesevenseucuseveesaeeneuees"
+    },
+    {
+     "type": "ocr",
+     "text": "6) kwóla KrEdYtO (WZ: 5 ee area AEC EA ee abe A"
+    },
+    {
+     "type": "ocr",
+     "text": "a) kwotę spiatona (w tymradsetki) a i GA O YA ME"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): O"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty**): ( 00777 (wierzyciel ~ imię i nazwisko, miejscowość zamieszkania lub nazwa isiedsiba) | (kwota w zł) » 184 (wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "VI. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne**': I p (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł) TS Se ee a ne (ee O aa (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł)"
     },
     {
      "type": "note",
@@ -9736,7 +9956,59 @@
     },
     {
      "type": "note",
-     "text": "[Strona 274 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 274 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "III. Wynagrodzenia i składki na ubezpieczenia społeczne (w tym z tytułu umowy o dzieło lub zlecenia) nieujęte w pkt I i II „ IV. Pozostałe wydatki 0 C. Wysokość nadwyżki, o której mowa w art. 138 $ 1-3 Kodeksu wyborczego*? 0"
+    },
+    {
+     "type": "ocr",
+     "text": "Il. INFORMACJE SZCZEGÓŁOWE"
+    },
+    {
+     "type": "ocr",
+     "text": "Wyszczególnienie"
+    },
+    {
+     "type": "ocr",
+     "text": "I. Rachunek bankowy RE ME KE 2 ccsesssssssssssesinvssssasisnsussssseseseceeseeesseesatnannnnannannineetee (nr rachunku bankowego)"
+    },
+    {
+     "type": "ocr",
+     "text": "1. wpłaty ogółem:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wpłaty .W/E, DOTYCZY"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wpłaty ..4/5..7074 ae"
+    },
+    {
+     "type": "ocr",
+     "text": "2. wypłaty ogółem:"
+    },
+    {
+     "type": "ocr",
+     "text": "a) data pierwszej wypłaty W/E DOM CR"
+    },
+    {
+     "type": "ocr",
+     "text": "b) data ostatniej wypłaty „ME, DOTY oz"
+    },
+    {
+     "type": "ocr",
+     "text": "3. stan rachunku w dniu złożenia sprawozdania finansowego ESA (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "Il. Wpłaty na rzecz komitetu wyborczego przyjęte i niezwrócone**': NA WA O... (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) NA A 0... (imię i nazwisko, miejscowość zamieszkania) (kwota w zł) III. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą* *), NA WA O... (imię i nazwisko, miejscowość zamieszkania) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "(imię i nazwisko, miejscowość zamieszkania) (kwota w zł)"
     },
     {
      "type": "note",
@@ -15584,7 +15856,75 @@
     },
     {
      "type": "note",
-     "text": "[Strona 434 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+     "text": "[Strona 434 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ocr",
+     "text": "IV. Kredyty bankowe**?: 1. a). KTĘGYLOJAWCG: was BOGOWIE ae er ee RTORZCH"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: ................. SSE EE"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota kredytu (w Zł): ..............--11-21--- EEEE"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacóńa (w tymi odsetki): sss saów o iGO GW A a"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+    },
+    {
+     "type": "ocr",
+     "text": "2."
+    },
+    {
+     "type": "ocr",
+     "text": "a) kredytodawca: ...........0.0.cccecseeeeeee esses nena nema"
+    },
+    {
+     "type": "ocr",
+     "text": "b) warunki uzyskania kredytu: .................. Se ee ee ere"
+    },
+    {
+     "type": "ocr",
+     "text": "c) kwota Kodytu (WŹD: aoc ak RETENTION ARE"
+    },
+    {
+     "type": "ocr",
+     "text": "d) kwota spłacona (w tym odsetki): ............ O R AZZARO"
+    },
+    {
+     "type": "ocr",
+     "text": "e) kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania):"
+    },
+    {
+     "type": "ocr",
+     "text": "V. Wykaz zobowiązań niespłaconych na ostatni dzień okresu sprawozdawczego, innych niż z tytułu kredytu, z podaniem kwoty zobowiązania pozostałego do spłaty**':"
+    },
+    {
+     "type": "ocr",
+     "text": "(wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "(wierzyciel — imię i nazwisko, miejscowość zamieszkania lub nazwa i siedziba) (kwota w zł) VI. Wykaz funduszy wyborczych, z których pochodzą środki pieniężne**': L"
+    },
+    {
+     "type": "ocr",
+     "text": "2,"
+    },
+    {
+     "type": "ocr",
+     "text": "RE AH: = adkawowawocawannawanee | gadka (nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł)"
+    },
+    {
+     "type": "ocr",
+     "text": "(nazwa partii, z której funduszu wyborczego pochodzą środki) (kwota w zł)"
     },
     {
      "type": "note",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2016/646",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 20 czerwca 2016 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej, przeprowadzonych w dniu 6 marca 2016 r.",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.22",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/646/text.pdf",
  "body": [
   {
@@ -1459,7 +1459,67 @@
       },
       {
        "type": "note",
-       "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+       "text": "[Strona 28 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Il. Informacje szczegółowe"
+      },
+      {
+       "type": "ocr",
+       "text": "Wyszczególnienie"
+      },
+      {
+       "type": "ocr",
+       "text": "1. Rachunek bankowy (nr rachunku bankowego)"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wpłaty ogółem"
+      },
+      {
+       "type": "ocr",
+       "text": "a) data pierwszej wpłaty .. 5.%..X0lE EE RPERYAE"
+      },
+      {
+       "type": "ocr",
+       "text": "b) data ostatniej wpłaty „0%.0..20/6. ooo owos ib ot uwawedwkkaaowna dora PAPA RP RKA A0j414414444444990000R000AGORRO ŚRO ZLA A BASE BEA Y PPOR Pe WaRI ANKA"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ogółem z Z) i a) data pierwszej wypłaty ome! vee 40 LG TERRA"
+      },
+      {
+       "type": "ocr",
+       "text": "3) stan rachunku w dniu złożenia sprawozdania finansowego 00)"
+      },
+      {
+       "type": "ocr",
+       "text": "2. Wpłaty na rzecz komitetu wyborczego, przyjęte i niezwrócone” :"
+      },
+      {
+       "type": "ocr",
+       "text": "(imię i nazwisko, miejscowość zamieszkania) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "3. Wpłaty przyjęte i niezwrócone, dokonane w inny sposób niż czekiem rozrachunkowym, przelewem lub kartą płatniczą”): WA | s 200... (imię i nazwisko, miejscowość zamieszkania) (Kwota w zł"
+      },
+      {
+       "type": "ocr",
+       "text": "2) akt mm MAD... (imię i nazwisko, miejscowość zamieszkania) (kwota w zł)"
+      },
+      {
+       "type": "ocr",
+       "text": "4. Kredyty bankowe *\"): » doł"
+      },
+      {
+       "type": "ocr",
+       "text": "1) a. kredytodawca: pac M,„„„ŁOJSEY CE b. warunki uzyskania kredytu: .........us.essea eos ea aaa aaa ana aaa ay aza aaa a aaa aaa ata e zaa aaa oaza eaten taaa n teza EE tania 001"
+      },
+      {
+       "type": "ocr",
+       "text": "c. kwota kredytu (w Zł): ... ue... aaa aa saa aaa aaa eee eee naa aaa eee aaa atak aka aa aaa papie ay aaa aaa az zet aaa zakre es d. kwota spłacona (w tym odsetki): ......... eee aaa zaa aaa eee aaa aaa aaa aaa aaa raze ce ess e. kwota pozostała do spłaty (w tym odsetki na dzień sporządzenia sprawozdania): .....seseeerereereerenees"
       },
       {
        "type": "note",
