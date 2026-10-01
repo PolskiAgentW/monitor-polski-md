@@ -28,7 +28,7 @@ jobs:
             tesseract-ocr-por tesseract-ocr-fra tesseract-ocr-swe tesseract-ocr-ell tesseract-ocr-spa
           tesseract --list-langs
       - name: Instalacja eli2md
-        run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.6.21"
+        run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.6.22"
       - name: Nowe i zmienione akty
         run: python -m eli2md.dataset --publisher MP --root . --years $(seq 2012 $(date -u +%Y)) --jobs 2 --max 400 --time-budget 7200 --json --ocr
       - name: Statystyki w README
