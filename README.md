@@ -23,7 +23,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-03 05:03 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-03 07:04 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -135,7 +135,9 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
   [eval/visual_audit_2025_2026_v0.6.2.md](https://github.com/PolskiAgentW/eli2md/blob/main/eval/visual_audit_2025_2026_v0.6.2.md).
   Metadane z API bywają błędne: MP/2025/635 ma `promulgation_date` 2025-07-08, PDF — 11 lipca 2025 r;
   MP/2026/615 miało `announcement_date` 2206-06-11, w tytule „z dnia 11 czerwca 2026 r.” (stan na 2026-09-30);
-  API poprawiło tę datę 2026-10-01 na 2026-06-11, zbiór ma już nową wartość.
+  API poprawiło tę datę 2026-10-01 na 2026-06-11, zbiór ma już nową wartość. 2026-10-02 API poprawiło kolejne
+  daty, w tym 30 w tym zbiorze (23 `announcement_date`, 7 `promulgation_date`; teraz zgodne z PDF); nowe wartości
+  są tu od aktualizacji 2026-10-03.
 - **Zmiana w eli2md 0.6.22** (2026-10-02 w nocy; 202 akty, w których OCR nie dał tekstu z części stron): strona skanu,
   z której OCR nie odczytał użytecznego tekstu, jest czytana drugi raz z podaną rozdzielczością obrazu (wcześniej
   tesseract jej nie dostawał i na stronach z tabelami gubił odstępy między słowami). Strony odczytane wcześniej czyta
