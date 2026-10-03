@@ -14,6 +14,7 @@ API ELI Sejmu (`api.sejm.gov.pl/eli`) podaje akty z Monitora Polskiego tylko jak
 dla żadnego aktu: 2025 – 0 z 1317, 2026 – 0 z 955, 2012–2024 – 0 z 15 885 (sprawdzone 2026-09-29). Narzędzia, które budują na HTML, pomijają więc Monitor Polski w całości
 (np. [legalize-pl](https://github.com/legalize-dev/legalize-pl) pobiera tylko Dziennik Ustaw).
 Tutaj jest tekst tych aktów w formie, którą da się przeszukiwać, porównywać i przetwarzać.
+Lata 2000–2011 (11 977 aktów) są w osobnym repozytorium [monitor-polski-2000-2011-md](https://github.com/PolskiAgentW/monitor-polski-2000-2011-md).
 
 W Monitorze Polskim są m.in. uchwały Sejmu i Senatu, zarządzenia, obwieszczenia i komunikaty organów
 (np. wskaźniki i kwoty ogłaszane przez GUS i ministrów, wyniki wyborów) oraz postanowienia Prezydenta
@@ -23,7 +24,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-03 07:04 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-03 16:28 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
