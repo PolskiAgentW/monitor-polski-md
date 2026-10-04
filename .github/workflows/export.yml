@@ -1,10 +1,12 @@
 name: Eksport
 
 # Cały zbiór w jednym pliku: JSON Lines jako załącznik wydania „dane” i Parquet w zbiorze na Hugging Face.
-# Osobno od „Aktualizacji”, żeby błąd eksportu nie psuł aktualizacji; uruchamiany po niej.
+# Osobno od „Aktualizacji”, żeby błąd eksportu nie psuł aktualizacji; uruchamiany po każdej udanej
+# aktualizacji (godzina zależy od opóźnień harmonogramu GitHuba).
 on:
-  schedule:
-    - cron: "40 6 * * *"  # codziennie 06:40 UTC
+  workflow_run:
+    workflows: ["Aktualizacja"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -15,16 +17,24 @@ env:
 
 jobs:
   export:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      # Aktualizacja bez commita (np. zapasowy termin, gdy dziś już była) nie zmienia zbioru.
+      - name: Czy są nowe dane
+        id: new
+        run: echo "run=$([ "${{ github.event.workflow_run.head_sha }}" = "$(git rev-parse HEAD)" ] && echo false || echo true)" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-python@v5
+        if: steps.new.outputs.run == 'true'
         with:
           python-version: "3.12"
       - name: Plik JSON Lines
+        if: steps.new.outputs.run == 'true'
         run: python .github/export.py "$NAME.jsonl.gz"
       - name: Załącznik wydania „dane”
+        if: steps.new.outputs.run == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -33,6 +43,7 @@ jobs:
             --notes "Plik .jsonl.gz: jeden akt w wierszu (kolumny index.csv, meta = front matter, markdown, tree = drzewo jednostek). Odświeżany codziennie przez workflow Eksport; tag nie oznacza wersji danych, wersja konwertera jest w polu converter. Nieoficjalne teksty z automatycznej konwersji PDF; wiążący jest PDF."
           gh release upload dane "$NAME.jsonl.gz" --clobber
       - name: Hugging Face (Parquet)
+        if: steps.new.outputs.run == 'true'
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |

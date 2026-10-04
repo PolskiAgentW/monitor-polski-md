@@ -3,17 +3,38 @@ name: Aktualizacja
 on:
   schedule:
     - cron: "53 4 * * *"  # codziennie 04:53 UTC
+    # Zapas: GitHub potrafi opóźnić uruchomienie z harmonogramu o kilka godzin albo je pominąć (2026-10-04
+    # aktualizacja DU ruszyła o 08:17 zamiast 04:23). Ten termin aktualizuje tylko wtedy, gdy dziś jeszcze
+    # nie było udanej aktualizacji.
+    - cron: "17 10 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: read
 
 concurrency:
   group: update
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.today.outputs.run }}
+    steps:
+      - id: today
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ github.event.schedule }}" != "17 10 * * *" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          n=$(gh run list -R "$GITHUB_REPOSITORY" -w update.yml -s success --created ">=$(date -u +%F)" --json databaseId --jq length)
+          echo "Udanych aktualizacji dziś: $n"
+          echo "run=$([ "$n" = 0 ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
   update:
+    needs: check
+    if: needs.check.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 180
     steps:
@@ -42,7 +63,7 @@ jobs:
           if git diff --cached --quiet; then echo "Bez zmian."; exit 0; fi
           n=$(git diff --cached --name-only -- MP | wc -l)
           git commit -q -m "Aktualizacja $(date -u +%Y-%m-%d): zmienione pliki aktów: $n"
-          git push
+          git pull -q --rebase && git push
       # Zielony run, który nic nie znajduje, wygląda jak zdrowy. Najdłuższa przerwa w ogłaszaniu
       # aktów w Monitorze Polskim w 2025–2026 to 6 dni, więc brak nowego aktu przez 10 dni oznacza awarię.
       - name: Kontrola świeżości

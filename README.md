@@ -167,7 +167,8 @@ Dziennika Ustaw z 2024 r., które mają i PDF, i oficjalny HTML (wyniki w README
 Błędy konwersji zgłaszaj w Issues. Najlepiej podaj pozycję aktu i fragment.
 
 Aktualizacja: codziennie o 04:53 UTC workflow `.github/workflows/update.yml` pobiera listę aktów
-z API ELI (lata od 2012). Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.
+z API ELI (lata od 2012). GitHub potrafi opóźnić taki start o kilka godzin, więc jeśli do 10:17 UTC nie było
+udanej aktualizacji, workflow rusza drugi raz. Konwertuje nowe akty oraz te, którym zmienił się `changeDate`, i commituje wynik.
 Lata 2012–2024 zostały przekonwertowane jednorazowo 2026-09-30.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w Monitorze Polskim w latach 2025–2026 wyniosła 6 dni.
