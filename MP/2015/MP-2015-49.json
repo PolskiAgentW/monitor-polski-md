@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/49",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 16 grudnia 2014 r. w sprawie ogłoszenia jednolitego tekstu uchwały Rady Ministrów w sprawie zatwierdzenia Regulaminu Komitetu do Spraw Europejskich",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/49/text.pdf",
  "body": [
   {
@@ -35,7 +35,7 @@
    "children": [
     {
      "type": "text",
-     "text": "„§ 2. Do projektów dokumentów, które przed dniem wejścia w życie niniejszej uchwały zostały skierowane do uzgodnień lub konsultacji na podstawie § 12 uchwały nr 49 Rady Ministrów z dnia 19 marca 2002 r. – Regulamin pracy Rady Ministrów (M.P. Nr 13, poz. 221, z późn. zm. a) ), stosuje się przepisy dotychczasowe.",
+     "text": "„§ 2. Do projektów dokumentów, które przed dniem wejścia w życie niniejszej uchwały zostały skierowane do uzgodnień lub konsultacji na podstawie § 12 uchwały nr 49 Rady Ministrów z dnia 19 marca 2002 r. – Regulamin pracy Rady Ministrów (M.P. Nr 13, poz. 221, z późn. zm.[^a]), stosuje się przepisy dotychczasowe.",
      "quoted": true
     },
     {
@@ -1211,20 +1211,13 @@
      "num": "29",
      "path": "par_29",
      "text": "Przewodniczący Komitetu powołuje i odwołuje sekretarza Komitetu na wniosek Sekretarza do Spraw Europejskich, o którym mowa w art. 2 ust. 2 pkt 1 ustawy, spośród członków korpusu służby cywilnej zatrudnionych w urzędzie obsługującym ministra właściwego do spraw członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej.",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "par_29/lit_a",
-       "text": "Zmiany wymienionej uchwały zostały ogłoszone w M.P. z 2002 r. Nr 30, poz. 482, z 2004 r. Nr 42, poz. 734, z 2005 r. Nr 55, poz. 757, z 2006 r. Nr 40, poz. 439, z 2009 r. Nr 20, poz. 246, z 2010 r. Nr 5, poz. 47 oraz z 2011 r. Nr 1, poz. 6, Nr 50, poz. 553, Nr 78, poz. 785 i Nr 113, poz. 1146.",
-       "children": []
-      }
-     ]
+     "children": []
     }
    ]
   }
  ],
  "footnotes": {
+  "a": "Zmiany wymienionej uchwały zostały ogłoszone w M.P. z 2002 r. Nr 30, poz. 482, z 2004 r. Nr 42, poz. 734, z 2005 r. Nr 55, poz. 757, z 2006 r. Nr 40, poz. 439, z 2009 r. Nr 20, poz. 246, z 2010 r. Nr 5, poz. 47 oraz z 2011 r. Nr 1, poz. 6, Nr 50, poz. 553, Nr 78, poz. 785 i Nr 113, poz. 1146.",
   "1": "Dodany przez § 1 pkt 1 uchwały nr 233 Rady Ministrów z dnia 23 grudnia 2013 r. zmieniającej uchwałę w sprawie zatwierdzenia Regulaminu Komitetu do Spraw Europejskich (M.P. poz. 1041), która weszła w życie z dniem 1 stycznia 2014 r.",
   "2": "Oznaczenie ust. 1 nadane przez § 1 pkt 2 uchwały, o której mowa w odnośniku 1.",
   "3": "Dodany przez § 1 pkt 2 uchwały, o której mowa w odnośniku 1.",

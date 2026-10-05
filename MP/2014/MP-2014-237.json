@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/237",
  "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 17 marca 2014 r. w sprawie zmiany Programu Rozwoju Obszarów Wiejskich na lata 2007-2013",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/237/text.pdf",
  "body": [
   {
@@ -643,352 +643,370 @@
            "type": "text",
            "text": "Oś 3: Tworzenie Nowy Budowa 4 1 349 791,00 Środek 321 i umożliwianie infrastruktury dostępu szerokopasmowego do infrastruktury Internetu szerokopasmowej, w tym urządzeń do przesyłu wstecznego i urządzeń naziemnych (np.: stacjonarnych, bezprzewodowych naziemnych, wykorzystujących połączenia satelitarne lub będących kombinacją różnych technologii) ”;",
            "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "2) w rozdziale 6 podrozdział 6.2 „Plan finansowy w podziale na osie (w euro na cały okres)” i podrozdział 6.3 „Orientacyjny budżet związany z operacjami, o których mowa w art. 16a rozporządzenia nr 1698/2005, za okres od dnia 1 stycznia 2009 r. do dnia 31 grudnia 2013 r. (art. 16a ust. 3b do wysokości kwot, o których mowa w art. 69 ust. 5a rozporządzenia nr 1698/2005)” otrzymują brzmienie:",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "„6.2. Plan finansowy w podziale na osie (w euro na cały okres)",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Wkład publiczny Oś Stawka wkładu Ogółem wkład publiczny EFRROW (%) Kwota EFRROW",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 1 7 662 896 285,00 75,00% 5 747 172 214,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 2 5 177 001 520,00 80,00% 4 141 601 216,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 3 3 348 419 635,00 75,00% 2 511 314 727,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 4 787 500 000,00 80,00% 630 000 000,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Pomoc techniczna 266 600 000,00 75,00% 199 950 000,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Razem 17 242 417 440,00 76,73% 13 230 038 156,00 Tabela finansowa w podziale na osie, dodatkowe środki, o których mowa w art. 69 ust. 5a rozporządzenia (WE) nr 1698/2005 – regiony konwergencji",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś Ogółem wkład publiczny (EUR) Stawka wkładu Kwota EFRROW (EUR) EFRROW (%)",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 1 110 865 000,00 90,00% 99 778 500,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 2 68 854 767,00 90,00% 61 969 291,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 3 7 935 788,00 90,00% 7 142 209,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 4 0 0 0",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Razem 187 655 555,00 90,00% 168 890 000,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "6.3. Orientacyjny budżet związany z operacjami, o których mowa w art. 16a rozporządzenia nr 1698/2005, za okres od dnia 1 stycznia 2009 r. do dnia 31 grudnia 2013 r. (art. 16a ust. 3b do wysokości kwot, o których mowa w art. 69 ust. 5a rozporządzenia nr 1698/2005)",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś/środek Nazwa działania Wkład EFRROW na lata 2009–2013",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 1: Środek 121 Modernizacja gospodarstw wiejskich 66 000 500,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 1: Środek 125 Poprawianie i rozwijanie infrastruktury związanej 33 778 000,00 z rozwojem i dostosowaniem rolnictwa i leśnictwa",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Łącznie oś 1 99 778 500,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 2: Środek 214 Program rolnośrodowiskowy 61 969 291,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Łącznie oś 2 61 969 291,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Oś 3: Środek 321 Operacje związane z priorytetami wymienionymi 7 142 209,00 w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Łącznie oś 3 7 142 209,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Program łącznie 168 890 000,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Ogółem w ramach osi 1, 2, 3 i 4 operacje związane z priorytetami 161 747 791,00 wymienionymi w art. 16a ust. 1 lit. a–f rozporządzenia nr 1698/2005",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Ogółem w ramach osi 3 i 4 operacje związane z priorytetami wymienionymi 7 142 209,00 ”; w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "3) rozdział 7 „INDYKATYWNY PODZIAŁ NA POSZCZEGÓLNE DZIAŁANIA ROZWOJU OBSZARÓW WIEJSKICH (W EURO NA CAŁY OKRES)” otrzymuje brzmienie:",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "„7. INDykaTyWNy PODzIaŁ Na POSzCzEGÓlNE DzIaŁaNIa ROzWOju OBSzaRÓW WIEjSkICh (W EuRO Na CaŁy OkRES)",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Kod Nazwa działania/oś 1 Wydatki publiczne Wydatki Koszt całkowity działania prywatne*",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Szkolenia zawodowe dla osób 111 zatrudnionych w rolnictwie 30 000 000,00 0,00 30 000 000,00 i leśnictwie",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "112 Ułatwianie startu młodym 581 000 000,00 0,00 581 000 000,00 rolnikom",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "113 Renty strukturalne 2 389 600 000,00 0,00 2 389 600 000,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "114 Korzystanie z usług doradczych 48 000 000,00 12 000 000,00 60 000 000,00 przez rolników i posiadaczy lasów",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "121 Modernizacja gospodarstw rolnych 2 274 199 222,00 3 411 298 833,00 5 685 498 055,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Zwiększanie wartości dodanej 123 podstawowej produkcji rolnej 932 000 000,00 2 796 000 000,00 3 728 000 000,00 i leśnej",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Poprawianie i rozwijanie 125 infrastruktury związanej 602 962 063,00 0,00 602 962 063,00 z rozwojem i dostosowaniem rolnictwa i leśnictwa",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Przywracanie potencjału produkcji rolnej zniszczonego w wyniku 126 wystąpienia klęsk żywiołowych 169 500 000,00 18 833 334,00 188 333 334,00 oraz wprowadzenie odpowiednich działań zapobiegawczych",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "132 Uczestnictwo rolników 19 000 000,00 0,00 19 000 000,00 w systemach jakości żywności",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "133 Działania informacyjne 10 000 000,00 4 285 714,00 14 285 714,00 i promocyjne",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Zobowiązania z okresu 2004–2006 141 dla działania „Wspieranie 535 000 000,00 0,00 535 000 000,00 gospodarstw niskotowarowych”",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "142 Grupy producentów rolnych 182 500 000,00 0,00 182 500 000,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "RAZEM Oś I 7 773 761 285,00 6 242 417 881,00 14 016 179 166,00 Kod Nazwa działania/oś 2 Wydatki publiczne Wydatki Koszt całkowity działania prywatne",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Wspieranie gospodarowania 211, 212 na obszarach górskich i innych 2 448 750 000,00 0,00 2 448 750 000,00 obszarach o niekorzystnych warunkach gospodarowania (ONW)",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "214 Program rolnośrodowiskowy 2 372 604 767,00 0,00 2 372 604 767,00 (płatności rolnośrodowiskowe)",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "221, 223 Zalesianie gruntów rolnych oraz 294 501 520,00 0,00 294 501 520,00 zalesianie gruntów innych niż rolne",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Odtwarzanie potencjału produkcji 226 leśnej zniszczonego przez 130 000 000,00 0,00 130 000 000,00 katastrofy i wprowadzanie instrumentów zapobiegawczych",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "RAZEM Oś II 5 245 856 287,00 0,00 5 245 856 287,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Kod Nazwa działania/oś 3 Wydatki publiczne Wydatki Koszt całkowity działania prywatne*",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "311 Różnicowanie w kierunku 345 580 000,00 345 580 000,00 691 160 000,00 działalności nierolniczej",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "312 Tworzenie i rozwój 803 583 600,00 803 583 600,00 1 607 167 200,00 mikroprzedsiębiorstw",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "321 Podstawowe usługi dla gospodarki 1 640 316 481,00 0 1 640 316 481,00 i ludności wiejskiej",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "322, Odnowa i rozwój wsi 566 875 342,00 0 566 875 342,00 323, 313",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "RAZEM Oś III 3 356 355 423,00 1 149 163 600,00 4 505 519 023,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Kod Nazwa działania/oś 4 Wydatki publiczne Wydatki Koszt całkowity działania prywatne*",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "4.1/413 Wdrażanie lokalnych strategii 640 500 000,00 416 108 629,00 1 056 608 629,00 rozwoju",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "4.21 Wdrażanie projektów współpracy 15 000 000,00 0 15 000 000,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Funkcjonowanie lokalnej grupy 4.31 działania, nabywanie umiejętności 132 000 000,00 0 132 000 000,00 i aktywizacja",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "RAZEM tylko Oś IV 787 500 000,00 416 108 629,00 1 203 608 629,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "RAZEM Oś I, II, III, IV 17 163 472 995,00 7 807 690 110,00 24 971 163 105,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Kod Nazwa działania Wydatki publiczne Wydatki Koszt całkowity działania prywatne",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "- Pomoc Techniczna 266 600 000,00 0 266 600 000,00",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "RAZEM PROW 2007–2013 17 430 072 995,00 7 807 690 110,00 25 237 763 105,00 ”;",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "4) w załączniku 10 „Szczegółowy opis pakietów rolnośrodowiskowych oraz kalkulacja wysokości płatności rolnośrodowiskowej”:",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "a) w pakiecie 1 „Rolnictwo zrównoważone” w wariancie 1.1 „Zrównoważony system gospodarowania” część „Wysokość płatności rolnośrodowiskowej – 360 PLN/ha” otrzymuje brzmienie:",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "„Wysokość płatności rolnośrodowiskowej – 360 PlN/ha",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Płatność rolnośrodowiskowa jest przyznawana w wysokości 100% stawki podstawowej za powierzchnię od 0,1 ha do 20 ha.”,",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "b) w pakiecie 2 „Rolnictwo ekologiczne”:",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "– część „Wymogi pakietu” otrzymuje brzmienie:",
-           "quoted": true
-          },
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "w rozdziale 6 podrozdział 6.2 „Plan finansowy w podziale na osie (w euro na cały okres)” i podrozdział 6.3 „Orientacyjny budżet związany z operacjami, o których mowa w art. 16a rozporządzenia nr 1698/2005, za okres od dnia 1 stycznia 2009 r. do dnia 31 grudnia 2013 r. (art. 16a ust. 3b do wysokości kwot, o których mowa w art. 69 ust. 5a rozporządzenia nr 1698/2005)” otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„6.2. Plan finansowy w podziale na osie (w euro na cały okres)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wkład publiczny Oś Stawka wkładu Ogółem wkład publiczny EFRROW (%) Kwota EFRROW",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 1 7 662 896 285,00 75,00% 5 747 172 214,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 2 5 177 001 520,00 80,00% 4 141 601 216,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 3 3 348 419 635,00 75,00% 2 511 314 727,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 4 787 500 000,00 80,00% 630 000 000,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pomoc techniczna 266 600 000,00 75,00% 199 950 000,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Razem 17 242 417 440,00 76,73% 13 230 038 156,00 Tabela finansowa w podziale na osie, dodatkowe środki, o których mowa w art. 69 ust. 5a rozporządzenia (WE) nr 1698/2005 – regiony konwergencji",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś Ogółem wkład publiczny (EUR) Stawka wkładu Kwota EFRROW (EUR) EFRROW (%)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 1 110 865 000,00 90,00% 99 778 500,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 2 68 854 767,00 90,00% 61 969 291,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 3 7 935 788,00 90,00% 7 142 209,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 4 0 0 0",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Razem 187 655 555,00 90,00% 168 890 000,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6.3. Orientacyjny budżet związany z operacjami, o których mowa w art. 16a rozporządzenia nr 1698/2005, za okres od dnia 1 stycznia 2009 r. do dnia 31 grudnia 2013 r. (art. 16a ust. 3b do wysokości kwot, o których mowa w art. 69 ust. 5a rozporządzenia nr 1698/2005)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś/środek Nazwa działania Wkład EFRROW na lata 2009–2013",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 1: Środek 121 Modernizacja gospodarstw wiejskich 66 000 500,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 1: Środek 125 Poprawianie i rozwijanie infrastruktury związanej 33 778 000,00 z rozwojem i dostosowaniem rolnictwa i leśnictwa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Łącznie oś 1 99 778 500,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 2: Środek 214 Program rolnośrodowiskowy 61 969 291,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Łącznie oś 2 61 969 291,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś 3: Środek 321 Operacje związane z priorytetami wymienionymi 7 142 209,00 w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Łącznie oś 3 7 142 209,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Program łącznie 168 890 000,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ogółem w ramach osi 1, 2, 3 i 4 operacje związane z priorytetami 161 747 791,00 wymienionymi w art. 16a ust. 1 lit. a–f rozporządzenia nr 1698/2005",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ogółem w ramach osi 3 i 4 operacje związane z priorytetami wymienionymi 7 142 209,00 ”; w art. 16a ust. 1 lit. g rozporządzenia nr 1698/2005",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "rozdział 7 „INDYKATYWNY PODZIAŁ NA POSZCZEGÓLNE DZIAŁANIA ROZWOJU OBSZARÓW WIEJSKICH (W EURO NA CAŁY OKRES)” otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„7. INDykaTyWNy PODzIaŁ Na POSzCzEGÓlNE DzIaŁaNIa ROzWOju OBSzaRÓW WIEjSkICh (W EuRO Na CaŁy OkRES)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Kod Nazwa działania/oś 1 Wydatki publiczne Wydatki Koszt całkowity działania prywatne*",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Szkolenia zawodowe dla osób 111 zatrudnionych w rolnictwie 30 000 000,00 0,00 30 000 000,00 i leśnictwie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "112 Ułatwianie startu młodym 581 000 000,00 0,00 581 000 000,00 rolnikom",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "113 Renty strukturalne 2 389 600 000,00 0,00 2 389 600 000,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "114 Korzystanie z usług doradczych 48 000 000,00 12 000 000,00 60 000 000,00 przez rolników i posiadaczy lasów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "121 Modernizacja gospodarstw rolnych 2 274 199 222,00 3 411 298 833,00 5 685 498 055,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zwiększanie wartości dodanej 123 podstawowej produkcji rolnej 932 000 000,00 2 796 000 000,00 3 728 000 000,00 i leśnej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Poprawianie i rozwijanie 125 infrastruktury związanej 602 962 063,00 0,00 602 962 063,00 z rozwojem i dostosowaniem rolnictwa i leśnictwa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przywracanie potencjału produkcji rolnej zniszczonego w wyniku 126 wystąpienia klęsk żywiołowych 169 500 000,00 18 833 334,00 188 333 334,00 oraz wprowadzenie odpowiednich działań zapobiegawczych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "132 Uczestnictwo rolników 19 000 000,00 0,00 19 000 000,00 w systemach jakości żywności",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "133 Działania informacyjne 10 000 000,00 4 285 714,00 14 285 714,00 i promocyjne",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zobowiązania z okresu 2004–2006 141 dla działania „Wspieranie 535 000 000,00 0,00 535 000 000,00 gospodarstw niskotowarowych”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "142 Grupy producentów rolnych 182 500 000,00 0,00 182 500 000,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "RAZEM Oś I 7 773 761 285,00 6 242 417 881,00 14 016 179 166,00 Kod Nazwa działania/oś 2 Wydatki publiczne Wydatki Koszt całkowity działania prywatne",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wspieranie gospodarowania 211, 212 na obszarach górskich i innych 2 448 750 000,00 0,00 2 448 750 000,00 obszarach o niekorzystnych warunkach gospodarowania (ONW)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "214 Program rolnośrodowiskowy 2 372 604 767,00 0,00 2 372 604 767,00 (płatności rolnośrodowiskowe)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "221, 223 Zalesianie gruntów rolnych oraz 294 501 520,00 0,00 294 501 520,00 zalesianie gruntów innych niż rolne",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Odtwarzanie potencjału produkcji 226 leśnej zniszczonego przez 130 000 000,00 0,00 130 000 000,00 katastrofy i wprowadzanie instrumentów zapobiegawczych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "RAZEM Oś II 5 245 856 287,00 0,00 5 245 856 287,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Kod Nazwa działania/oś 3 Wydatki publiczne Wydatki Koszt całkowity działania prywatne*",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "311 Różnicowanie w kierunku 345 580 000,00 345 580 000,00 691 160 000,00 działalności nierolniczej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "312 Tworzenie i rozwój 803 583 600,00 803 583 600,00 1 607 167 200,00 mikroprzedsiębiorstw",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "321 Podstawowe usługi dla gospodarki 1 640 316 481,00 0 1 640 316 481,00 i ludności wiejskiej",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "322, Odnowa i rozwój wsi 566 875 342,00 0 566 875 342,00 323, 313",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "RAZEM Oś III 3 356 355 423,00 1 149 163 600,00 4 505 519 023,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Kod Nazwa działania/oś 4 Wydatki publiczne Wydatki Koszt całkowity działania prywatne*",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4.1/413 Wdrażanie lokalnych strategii 640 500 000,00 416 108 629,00 1 056 608 629,00 rozwoju",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4.21 Wdrażanie projektów współpracy 15 000 000,00 0 15 000 000,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Funkcjonowanie lokalnej grupy 4.31 działania, nabywanie umiejętności 132 000 000,00 0 132 000 000,00 i aktywizacja",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "RAZEM tylko Oś IV 787 500 000,00 416 108 629,00 1 203 608 629,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "RAZEM Oś I, II, III, IV 17 163 472 995,00 7 807 690 110,00 24 971 163 105,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Kod Nazwa działania Wydatki publiczne Wydatki Koszt całkowity działania prywatne",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "- Pomoc Techniczna 266 600 000,00 0 266 600 000,00",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "RAZEM PROW 2007–2013 17 430 072 995,00 7 807 690 110,00 25 237 763 105,00 ”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "w załączniku 10 „Szczegółowy opis pakietów rolnośrodowiskowych oraz kalkulacja wysokości płatności rolnośrodowiskowej”:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_4/lit_a",
+       "text": "w pakiecie 1 „Rolnictwo zrównoważone” w wariancie 1.1 „Zrównoważony system gospodarowania” część „Wysokość płatności rolnośrodowiskowej – 360 PLN/ha” otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Wysokość płatności rolnośrodowiskowej – 360 PlN/ha",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Płatność rolnośrodowiskowa jest przyznawana w wysokości 100% stawki podstawowej za powierzchnię od 0,1 ha do 20 ha.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_4/lit_b",
+       "text": "w pakiecie 2 „Rolnictwo ekologiczne”:",
+       "children": [
+        {
+         "type": "tir",
+         "num": "1",
+         "path": "pkt_4/lit_b/tir_1",
+         "text": "część „Wymogi pakietu” otrzymuje brzmienie:",
+         "children": [
           {
            "type": "text",
            "text": "„Wymogi pakietu:",
@@ -1043,12 +1061,15 @@
            "type": "text",
            "text": "10) w przypadku realizacji wariantów 2.9, 2.10, 2.11, 2.12 płatność przysługuje wyłącznie do powierzchni, na której są uprawiane gatunki drzew owocowych w okresie owocowania lub krzewów owocujących.”,",
            "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "– w części „Wysokości płatności rolnośrodowiskowych:” akapit drugi otrzymuje brzmienie:",
-           "quoted": true
-          },
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "2",
+         "path": "pkt_4/lit_b/tir_2",
+         "text": "w części „Wysokości płatności rolnośrodowiskowych:” akapit drugi otrzymuje brzmienie:",
+         "children": [
           {
            "type": "text",
            "text": "„Płatność rolnośrodowiskowa jest przyznawana:",
@@ -1093,32 +1114,15 @@
            "type": "text",
            "text": "4) w przypadku wariantu 2.7. Uprawy zielarskie (dla których zakończono okres przestawiania), wariantu 2.8. Uprawy zielarskie (w okresie przestawiania), wariantu 2.9. Uprawy sadownicze i jagodowe (dla których zakończono okres przestawiania), wariantu 2.10. Uprawy sadownicze i jagodowe (w okresie przestawiania), wariantu 2.11. Pozostałe uprawy sadownicze i jagodowe (dla których zakończono okres przestawiania) i wariantu 2.12. Pozostałe uprawy sadownicze i jagodowe (w okresie przestawiania) w wysokości 100% stawki podstawowej za powierzchnię od 0,1 ha do 10 ha.”,",
            "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "– w pakiecie 4 „Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych poza obszarami Natura 2000” po części „Wspólne wymogi dla wariantów w ramach pakietu 4” dodaje się akapit w brzmieniu:",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "„Płatność rolnośrodowiskowa jest przyznawana w wysokości:",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "1) 100% stawki podstawowej – za powierzchnię od 0,1 ha do 10 ha;",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "2) 50% stawki podstawowej – za powierzchnię od 10,01 ha do 20 ha.”,",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "– w pakiecie 5 „Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych na obszarach Natura 2000” po części „Wysokości stawek płatności w pakiecie Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych na obszarach Natura 2000” dodaje się akapit w brzmieniu:",
-           "quoted": true
-          },
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "3",
+         "path": "pkt_4/lit_b/tir_3",
+         "text": "w pakiecie 4 „Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych poza obszarami Natura 2000” po części „Wspólne wymogi dla wariantów w ramach pakietu 4” dodaje się akapit w brzmieniu:",
+         "children": [
           {
            "type": "text",
            "text": "„Płatność rolnośrodowiskowa jest przyznawana w wysokości:",
@@ -1133,12 +1137,38 @@
            "type": "text",
            "text": "2) 50% stawki podstawowej – za powierzchnię od 10,01 ha do 20 ha.”,",
            "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "4",
+         "path": "pkt_4/lit_b/tir_4",
+         "text": "w pakiecie 5 „Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych na obszarach Natura 2000” po części „Wysokości stawek płatności w pakiecie Ochrona zagrożonych gatunków ptaków i siedlisk przyrodniczych na obszarach Natura 2000” dodaje się akapit w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Płatność rolnośrodowiskowa jest przyznawana w wysokości:",
+           "quoted": true
           },
           {
            "type": "text",
-           "text": "– w pakiecie 8 „Ochrona gleb i wód” akapit czwarty otrzymuje brzmienie:",
+           "text": "1) 100% stawki podstawowej – za powierzchnię od 0,1 ha do 10 ha;",
            "quoted": true
           },
+          {
+           "type": "text",
+           "text": "2) 50% stawki podstawowej – za powierzchnię od 10,01 ha do 20 ha.”,",
+           "quoted": true
+          }
+         ]
+        },
+        {
+         "type": "tir",
+         "num": "5",
+         "path": "pkt_4/lit_b/tir_5",
+         "text": "w pakiecie 8 „Ochrona gleb i wód” akapit czwarty otrzymuje brzmienie:",
+         "children": [
           {
            "type": "text",
            "text": "„Płatność rolnośrodowiskowa jest przyznawana w wysokości:",
@@ -1153,30 +1183,33 @@
            "type": "text",
            "text": "2) 50% stawki podstawowej – za powierzchnię od 10,01 ha do 20 ha.”;",
            "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "5) w załączniku 15 „Tabela dotycząca pomocy państwa, którą należy dołączyć do każdego programu rozwoju obszarów wiejskich” otrzymuje brzmienie:",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "„Tabela dotycząca pomocy państwa, którą należy dołączyć do każdego programu rozwoju obszarów wiejskich",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Kod Nazwa działania Podstawy prawne Czas trwania działania",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "226 „Odtwarzanie potencjału produkcji Decyzja Komisji Europejskiej z dnia Do 31.12.2015 r. leśnej zniszczonego przez 1 grudnia 2010 r. nr N93/2010 – Polska katastrofy oraz wprowadzanie dotycząca pomocy państwa – instrumentów zapobiegawczych” Odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych Decyzja Komisji Europejskiej z dnia 19 października 2011 r. dotycząca pomocy państwa SA.33531 (2011/N) – Polska, którą dokonano zmiany istniejącego programu pomocy „Odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych” (N93/2010) Decyzja Komisji Europejskiej z dnia 14 października 2013 r. dotycząca pomocy państwa SA. 36709 (2013/N) – Polska, którą dokonano zmiany istniejącego programu pomocy „Odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych” (N93/2010) ”.",
-           "quoted": true
           }
          ]
         }
        ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "w załączniku 15 „Tabela dotycząca pomocy państwa, którą należy dołączyć do każdego programu rozwoju obszarów wiejskich” otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Tabela dotycząca pomocy państwa, którą należy dołączyć do każdego programu rozwoju obszarów wiejskich",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Kod Nazwa działania Podstawy prawne Czas trwania działania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "226 „Odtwarzanie potencjału produkcji Decyzja Komisji Europejskiej z dnia Do 31.12.2015 r. leśnej zniszczonego przez 1 grudnia 2010 r. nr N93/2010 – Polska katastrofy oraz wprowadzanie dotycząca pomocy państwa – instrumentów zapobiegawczych” Odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych Decyzja Komisji Europejskiej z dnia 19 października 2011 r. dotycząca pomocy państwa SA.33531 (2011/N) – Polska, którą dokonano zmiany istniejącego programu pomocy „Odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych” (N93/2010) Decyzja Komisji Europejskiej z dnia 14 października 2013 r. dotycząca pomocy państwa SA. 36709 (2013/N) – Polska, którą dokonano zmiany istniejącego programu pomocy „Odtwarzanie potencjału produkcji leśnej zniszczonego przez katastrofy oraz wprowadzanie instrumentów zapobiegawczych” (N93/2010) ”.",
+       "quoted": true
       }
      ]
     }

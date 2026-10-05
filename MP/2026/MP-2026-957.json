@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/957",
  "title": "Memorandum o porozumieniu między Ministrem Nauki i Szkolnictwa Wyższego Rzeczypospolitej Polskiej a Federalną Minister ds. Kobiet, Nauki i Badań Naukowych Republiki Austrii o współpracy w dziedzinie nauk humanistycznych i społecznych, podpisane w Warszawie dnia 16 grudnia 2025 r.",
- "converter": "eli2md 0.6.13",
+ "converter": "eli2md 0.6.25.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/957/text.pdf",
  "body": [
   {
@@ -18,7 +18,7 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Na stronie 1 PDF jest obraz tekstu (skan). Tekst poniżej odczytał z obrazu OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "ocr",
@@ -46,7 +46,7 @@
   },
   {
    "type": "note",
-   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 2 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "ocr",
@@ -102,7 +102,7 @@
   },
   {
    "type": "note",
-   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 3 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "ocr",
@@ -134,7 +134,7 @@
   },
   {
    "type": "note",
-   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 4 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "ocr",
@@ -166,7 +166,7 @@
   },
   {
    "type": "note",
-   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 5 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "ocr",
@@ -214,7 +214,7 @@
   },
   {
    "type": "note",
-   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.3.4, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+   "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "ocr",
@@ -250,7 +250,7 @@
   },
   {
    "type": "ocr",
-   "text": "6 Lb A C LA beat ot A A BE ne Ain Bo Der Minister fiir Wissenschaft ind Die Bundesministerin fiir Frauen, Hochschulwesen der Republik Polen Wissenschaft und Forschung der Republik Osterreich"
+   "text": "Der Minister fiir Wissenschaft And Die Bundesministerin fiir Frauen, Hochschulwesen der Republik Polen Wissenschaft und Forschung der Republik Osterreich"
   }
  ],
  "annexes": [],

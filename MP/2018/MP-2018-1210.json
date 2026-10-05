@@ -1,7 +1,7 @@
 {
  "eli": "MP/2018/1210",
  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 29 listopada 2018 r. w sprawie ogłoszenia wykazu walut wymienialnych",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/1210/text.pdf",
  "body": [
   {
@@ -554,16 +554,11 @@
     {
      "type": "text",
      "text": "128 yuan renminbi (Chiny) CNY"
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "pkt_1",
-     "text": "Anguilla, Antigua i Barbuda, Dominika, Grenada, Montserrat, Saint Kitts i Nevis, Saint Lucia, Saint Vincent i Grenadyny. 2) Obecnie dolar Zimbabwe jest zawieszony i zastąpiony dolarem amerykańskim. 3) Benin, Burkina Faso, Gwinea Bissau, Mali, Niger, Senegal, Togo, Wybrzeże Kości Słoniowej. 4) Czad, Gabon, Gwinea Równikowa, Kamerun, Kongo, Republika Środkowoafrykańska. 5) Curaçao i Sint Maarten.",
-     "children": []
     }
    ]
   }
  ],
- "footnotes": {}
+ "footnotes": {
+  "1": "Anguilla, Antigua i Barbuda, Dominika, Grenada, Montserrat, Saint Kitts i Nevis, Saint Lucia, Saint Vincent i Grenadyny. 2) Obecnie dolar Zimbabwe jest zawieszony i zastąpiony dolarem amerykańskim. 3) Benin, Burkina Faso, Gwinea Bissau, Mali, Niger, Senegal, Togo, Wybrzeże Kości Słoniowej. 4) Czad, Gabon, Gwinea Równikowa, Kamerun, Kongo, Republika Środkowoafrykańska. 5) Curaçao i Sint Maarten."
+ }
 }

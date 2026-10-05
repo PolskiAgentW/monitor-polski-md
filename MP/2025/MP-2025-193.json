@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/193",
  "title": "Uchwała nr 13 Rady Ministrów z dnia 11 lutego 2025 r. w sprawie przyjęcia \"Polityki Promocji Gospodarczej Polski\"",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/193/text.pdf",
  "body": [
   {
@@ -4175,18 +4175,38 @@
     },
     {
      "type": "note",
-     "text": "[Na stronie 102 PDF większość znaków nie ma kodów Unicode (np. formularz). Tekst poniżej jest niepełny, pełna treść jest tylko w PDF.]"
+     "text": "[Strona 102 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "text",
-     "text": "Branża Waga kraju dla danej branży branży"
+     "type": "ocr",
+     "text": "Waga kraju dla danej branży"
     },
     {
-     "type": "text",
-     "text": "Odzież gotowa i dodatki Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Białoruś Bośnia i Odzież gotowa i dodatki modowe Odzież gotowa i dodatki Bułgaria Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Odzież gotowa i dodatki modowe Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Włochy Obuwie, wyroby skórzane i skóry wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Bułgaria Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry skórzane i skóry Korea Południowa Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Łotwa Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry Obuwie, wyroby skórzane i skóry"
+     "type": "ocr",
+     "text": "07.1. 07.1. 07.1. 07.1."
     },
     {
-     "type": "text",
+     "type": "ocr",
+     "text": "07.1. 07.1. 07.1. 07.1. 07.1. 07.1. 07.1. 07.1. 07.1. 07.1. 07.1. 07.1. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2. 07.2."
+    },
+    {
+     "type": "ocr",
+     "text": "Odzież gotowa i dodatki modowe Norwegia Odzież gotowa i dodatki modowe Szwecja Odzież gotowa i dodatki modowe Turcja Odzież gotowa i dodatki modowe Bośnia i Odzież gotowa i dodatki modowe Hercegowina Odzież gotowa i dodatki modowe Bułgaria Odzież gotowa i dodatki modowe Czechy Odzież gotowa i dodatki modowe Dania Odzież gotowa i dodatki modowe Hongkong Odzież gotowa i dodatki modowe Irlandia Odzież gotowa i dodatki modowe Izrael Odzież gotowa i dodatki modowe Malezja Odzież gotowa i dodatki modowe Serbia Odzież gotowa i dodatki modowe Singapur Odzież gotowa i dodatki modowe Ukraina Odzież gotowa i dodatki modowe"
+    },
+    {
+     "type": "ocr",
+     "text": "Wielka Brytania Obuwie, wyroby skórzane i skóry Holandia Obuwie, wyroby skórzane i skóry Szwajcaria Obuwie, wyroby skórzane i skóry Hiszpania Obuwie, wyroby skórzane i skóry Włochy Obuwie, wyroby skórzane i skóry Meksyk Obuwie, wyroby skórzane i skóry Australia Obuwie, wyroby skórzane i skóry Bułgaria Obuwie, wyroby skórzane i skóry Czechy Obuwie, wyroby skórzane i skóry Francja Obuwie, wyroby skórzane i skóry Japonia Obuwie, wyroby skórzane i skóry"
+    },
+    {
+     "type": "ocr",
+     "text": "Korea Południowa"
+    },
+    {
+     "type": "ocr",
+     "text": "NON NIN IN IN IN IN NN (w Obuwie, wyroby skórzane i skóry Niemcy Obuwie, wyroby skórzane i skóry Norwegia Obuwie, wyroby skórzane i skóry Rumunia Obuwie, wyroby skórzane i skóry Turcja Obuwie, wyroby skórzane i skóry Chiny Obuwie, wyroby skórzane i skóry Chorwacja Obuwie, wyroby skórzane i skóry Grecja Obuwie, wyroby skórzane i skóry Kanada Obuwie, wyroby skórzane i skóry Łotwa Obuwie, wyroby skórzane i skóry Serbia Obuwie, wyroby skórzane i skóry Singapur Obuwie, wyroby skórzane i skóry Szwecja Obuwie, wyroby skórzane i skóry Ukraina"
+    },
+    {
+     "type": "ocr",
      "text": "23"
     },
     {
@@ -5031,34 +5051,30 @@
     },
     {
      "type": "note",
-     "text": "[Na stronie 119 PDF większość znaków nie ma kodów Unicode (np. formularz). Tekst poniżej jest niepełny, pełna treść jest tylko w PDF.]"
+     "text": "[Strona 119 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "text",
-     "text": "Branża Waga kraju dla danej branży branży"
+     "type": "ocr",
+     "text": "Papier, tektura, celuloza"
     },
     {
-     "type": "text",
-     "text": "Włochy"
+     "type": "ocr",
+     "text": "Francja"
     },
     {
-     "type": "text",
-     "text": "Korea Południowa"
+     "type": "ocr",
+     "text": "Waga kraju dla danej branży"
     },
     {
-     "type": "text",
-     "text": "Słowacja"
+     "type": "ocr",
+     "text": "Papier, tektura, celuloza Holandia Papier, tektura, celuloza Kanada Papier, tektura, celuloza Malezja Papier, tektura, celuloza Włochy Papier, tektura, celuloza Australia 3 Papier, tektura, celuloza Japonia 3 Papier, tektura, celuloza Meksyk 3 Papier, tektura, celuloza Rumunia 3 Papier, tektura, celuloza Chiny 2 Papier, tektura, celuloza Hiszpania 2 Papier, tektura, celuloza Indie 2 Papier, tektura, celuloza Korea Południowa 2 Papier, tektura, celuloza Niemcy 2 Papier, tektura, celuloza Słowacja 2 Papier, tektura, celuloza Turcja 2 Papier, tektura, celuloza Węgry 2 Papier, tektura, celuloza Wielka Brytania 2 Papier, tektura, celuloza Austria Papier, tektura, celuloza Belgia Papier, tektura, celuloza Dania Papier, tektura, celuloza Filipiny Papier, tektura, celuloza Indonezja Papier, tektura, celuloza Kazachstan Papier, tektura, celuloza Litwa Papier, tektura, celuloza"
     },
     {
-     "type": "text",
-     "text": "Węgry"
+     "type": "ocr",
+     "text": "Stany Zjednoczone Papier, tektura, celuloza Szwajcaria Papier, tektura, celuloza Ukraina Artykuły drukowane Czechy Artykuły drukowane Holandia Artykuły drukowane Włochy Artykuły drukowane Hiszpania Artykuły drukowane Francja 4 Artykuły drukowane Irlandia 4 Artykuły drukowane Meksyk 4 Artykuły drukowane Szwajcaria 4 Artykuły drukowane Belgia 3 Artykuły drukowane Chiny 3 Artykuły drukowane Niemcy 3 Artykuły drukowane Stany Zjednoczone 3"
     },
     {
-     "type": "text",
-     "text": "Artykuły drukowane Artykuły drukowane Artykuły drukowane Włochy Artykuły drukowane Artykuły drukowane Artykuły drukowane Artykuły drukowane Artykuły drukowane Artykuły drukowane Artykuły drukowane Artykuły drukowane Artykuły drukowane"
-    },
-    {
-     "type": "text",
+     "type": "ocr",
      "text": "40"
     },
     {

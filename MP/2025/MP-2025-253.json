@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/253",
  "title": "Uchwała nr 41 Rady Ministrów z dnia 13 marca 2025 r. zmieniająca uchwałę w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Utworzenie kompleksu Intensywnej Terapii w Instytucie \"Centrum Zdrowia Matki Polki\" w Łodzi\"",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25.2",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/253/text.pdf",
  "body": [
   {
@@ -1039,11 +1039,11 @@
   },
   {
    "type": "note",
-   "text": "[Na stronie 25 PDF większość znaków nie ma kodów Unicode (np. formularz). Tekst poniżej jest niepełny, pełna treść jest tylko w PDF.]"
+   "text": "[Strona 25 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Powierzchnia obsługi pacjenta"
+   "type": "ocr",
+   "text": "2.5 | Klinika Okulistyki 625 625 10 12 2.6 | Powierzchnia obsługi pacjenta 1500 1 000 - - 2.7 |Podsumowanie 4225 5 200 48 59"
   },
   {
    "type": "note",

@@ -35,7 +35,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-05 05:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-05 09:16 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -55,11 +55,11 @@ Stan na 2026-10-05 05:17 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2025 | 1317 | 1317 | 0 |
 | 2026 | 963 | 963 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14292 z 98639 stron. Tekst z OCR (oznaczony) ma 12663 z nich w 415 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14297 z 98639 stron. Tekst z OCR (oznaczony) ma 12668 z nich w 415 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 564.
 
 Rodzaje aktów: Postanowienie 7142, Obwieszczenie 4020, Uchwała 2747, Komunikat 2057, Zarządzenie 1270, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
-Wersje konwertera: eli2md 0.6.7 (12667), eli2md 0.6.17 (4631), eli2md 0.6.13 (299), eli2md 0.6.16 (297), eli2md 0.6.22 (233), eli2md 0.6.15 (38).
+Wersje konwertera: eli2md 0.6.25 (9949), eli2md 0.6.25.2 (6419), eli2md 0.6.25.1 (1797).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -183,6 +183,14 @@ udanej aktualizacji, workflow rusza drugi raz. Konwertuje nowe akty oraz te, kt�
 Lata 2012–2024 zostały przekonwertowane jednorazowo 2026-09-30.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w Monitorze Polskim w latach 2025–2026 wyniosła 6 dni.
+
+Zmiana 2026-10-05 (eli2md 0.6.25, 0.6.25.1 i 0.6.25.2 — ten sam wynik; wszystkie akty od nowa; wcześniej wersje
+0.6.7–0.6.22, w większości 0.6.7). Zmienione 16 z 18 165 plików, w 10 z nich te same słowa: więcej nagłówków
+jednostek w 5 plikach, więcej przypisów w 5, w żadnym mniej. Słowa: −138 / +433 w 6 plikach: notki o stronach z OCR
+(nowe brzmienie, tesseract 5.5.0 zamiast 5.3.4), strony odczytane przez OCR, których wcześniej nie było (MP/2025/193,
+MP/2025/253, MP/2023/1470: po 1–2 strony), a w MP/2015/614 litera po numerze normy jest sklejona z numerem
+(„PN-57/B-024051a)” zamiast „PN-57/B-024051 a)”). Żaden plik nie stracił więcej niż 2% słów. Od 2026-10-05 workflow
+aktualizacji używa eli2md 0.6.25.2.
 
 ## Licencja
 

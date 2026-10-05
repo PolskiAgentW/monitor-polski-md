@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/572",
  "title": "Uchwała Nr 34 Rady Ministrów z dnia 29 kwietnia 2019 r. w sprawie przyjęcia Krajowego programu ograniczania zanieczyszczenia powietrza",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/572/text.pdf",
  "body": [
   {
@@ -3391,13 +3391,6 @@
          "text": "¹) Dz. Urz. UE L 344 z 17.12.2016, str. 1."
         }
        ]
-      },
-      {
-       "type": "pkt",
-       "num": "63",
-       "path": "ust_09/pkt_63",
-       "text": "3 Liczba dni z przekroczeniami wartości dobowej 50 µg/m w roku kalendarzowym. 64) Stężenie średnie roczne. 137 | Stro na 65) Stężenie średnie roczne. 138 | Stro na X X 2",
-       "children": []
       }
      ]
     }
@@ -3455,6 +3448,7 @@
   "59": "Liczba godzin z przekroczeniami wartości jednogodzinnej 200 µg/m³ w roku kalendarzowym.",
   "60": "Liczba dni z przekroczeniami wartości dobowej 125 µg/m³ w roku kalendarzowym.",
   "61": "Stężenie średnie w okresie zimowym (01.10.2017 – 31.03.2018).",
-  "62": "Stężenie średnie roczne – dotyczy oceny pod kątem ochrony roślin. 136 | Stro na"
+  "62": "Stężenie średnie roczne – dotyczy oceny pod kątem ochrony roślin. 136 | Stro na",
+  "63": "3 Liczba dni z przekroczeniami wartości dobowej 50 µg/m w roku kalendarzowym. 64) Stężenie średnie roczne. 137 | Stro na 65) Stężenie średnie roczne. 138 | Stro na X X 2"
  }
 }

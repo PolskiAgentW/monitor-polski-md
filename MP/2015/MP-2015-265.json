@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/265",
  "title": "Uchwała nr 20 Rady Ministrów z dnia 5 lutego 2015 r. zmieniająca uchwałę w sprawie zakresu i warunków dofinansowania Regionalnego Programu Operacyjnego Województwa Mazowieckiego na lata 2007-2013",
- "converter": "eli2md 0.6.7",
+ "converter": "eli2md 0.6.25",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/265/text.pdf",
  "body": [
   {
@@ -92,117 +92,125 @@
          "type": "text",
          "text": "3 85 1 668 716 – –",
          "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) w § 2 ust. 1 i 2 otrzymują brzmienie:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "„1. Na realizację projektów objętych pomocą publiczną, realizację instrumentów inżynierii finansowej, w tym Inicjatywę JEREMIE oraz Inicjatywę JESSICA, oraz realizację innych projektów wskazanych przez Instytucję Zarządzającą w ramach RPO przeznacza się inne, niepochodzące z EFRR, środki z budżetu państwa przeznaczone na realizację programów operacyjnych, do wysokości 113 253 547 euro, w tym 294 480 euro na współfinansowanie projektów realizowanych ze środków przyznanych w ramach dostosowania technicznego, co na dzień 22 grudnia 2011 r., to jest na dzień otrzymania notyfikacji decyzji nr K(2011) 9872, wynosi odpowiednio 512 698 807,27 zł, w tym 1 333 110,96 zł, według kursu Europejskiego Banku Centralnego z przedostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym otrzymano notyfikację decyzji nr K(2011) 9872.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2. W ramach kwoty 113 253 547 euro na realizację RPO przeznacza się środki z budżetu państwa niepochodzące z EFRR w kwocie 294 480 euro, co na dzień 22 grudnia 2011 r., to jest na dzień otrzymania notyfikacji decyzji nr K(2011) 9872, wynosi 1 333 110,96 zł, według kursu Europejskiego Banku Centralnego z przedostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym otrzymano notyfikację decyzji nr K(2011) 9872. Środki te zostaną przeznaczone na realizację uzgodnionych z Ministerstwem Rozwoju Regionalnego[^1] projektów z zakresu usuwania skutków powodzi w województwie mazowieckim, na terenie Gminy Słubice, z zastrzeżeniem ust. 5. Podział tych środków przedstawia się następująco:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Oś priorytetowa Poziom dofinansowania Środki EFRR Poziom wkładu Środki wkładu krajowego EFRR (%) (w euro) krajowego (%) (w euro)",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1 2 3 4 5",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Gmina Słubice",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3 – – 15 294 480",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "4) § 4 otrzymuje brzmienie:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "„§ 4. Podział środków, o których mowa w § 1 ust. 1 i 3, § 2 ust. 1 i 2 i § 3 pkt 4, na osie priorytetowe RPO przedstawia się następująco:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Oś priorytetowa Poziom dofinansowania Środki EFRR Poziom wkładu Środki wkładu krajowego EFRR (%) (w euro) krajowego (%) (w euro)",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1 2 3 4 5",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1 85,00 440 053 384 15,00 77 656 480",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2 85,00 205 127 627 15,00 36 198 993",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3 85,00 548 279 887 15,00 96 779 025",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "4 84,00 215 911 358 16,00 42 519 283",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "5 85,00 89 743 340 15,00 15 837 060",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "6 84,00 140 182 726 16,00 26 502 834",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "7 85,00 169 834 703 15,00 29 088 477",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "8 92,00 59 469 775 8,00 5 171 285",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "ogółem na RPO 85,00 1 868 602 800 15,00 329 753 437 ”.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 2. Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-         "quoted": true
         }
        ]
       }
      ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w § 2 ust. 1 i 2 otrzymują brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„1. Na realizację projektów objętych pomocą publiczną, realizację instrumentów inżynierii finansowej, w tym Inicjatywę JEREMIE oraz Inicjatywę JESSICA, oraz realizację innych projektów wskazanych przez Instytucję Zarządzającą w ramach RPO przeznacza się inne, niepochodzące z EFRR, środki z budżetu państwa przeznaczone na realizację programów operacyjnych, do wysokości 113 253 547 euro, w tym 294 480 euro na współfinansowanie projektów realizowanych ze środków przyznanych w ramach dostosowania technicznego, co na dzień 22 grudnia 2011 r., to jest na dzień otrzymania notyfikacji decyzji nr K(2011) 9872, wynosi odpowiednio 512 698 807,27 zł, w tym 1 333 110,96 zł, według kursu Europejskiego Banku Centralnego z przedostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym otrzymano notyfikację decyzji nr K(2011) 9872.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W ramach kwoty 113 253 547 euro na realizację RPO przeznacza się środki z budżetu państwa niepochodzące z EFRR w kwocie 294 480 euro, co na dzień 22 grudnia 2011 r., to jest na dzień otrzymania notyfikacji decyzji nr K(2011) 9872, wynosi 1 333 110,96 zł, według kursu Europejskiego Banku Centralnego z przedostatniego dnia roboczego miesiąca poprzedzającego miesiąc, w którym otrzymano notyfikację decyzji nr K(2011) 9872. Środki te zostaną przeznaczone na realizację uzgodnionych z Ministerstwem Rozwoju Regionalnego[^1] projektów z zakresu usuwania skutków powodzi w województwie mazowieckim, na terenie Gminy Słubice, z zastrzeżeniem ust. 5. Podział tych środków przedstawia się następująco:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś priorytetowa Poziom dofinansowania Środki EFRR Poziom wkładu Środki wkładu krajowego EFRR (%) (w euro) krajowego (%) (w euro)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Gmina Słubice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3 – – 15 294 480",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "§ 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„§ 4. Podział środków, o których mowa w § 1 ust. 1 i 3, § 2 ust. 1 i 2 i § 3 pkt 4, na osie priorytetowe RPO przedstawia się następująco:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Oś priorytetowa Poziom dofinansowania Środki EFRR Poziom wkładu Środki wkładu krajowego EFRR (%) (w euro) krajowego (%) (w euro)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1 85,00 440 053 384 15,00 77 656 480",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2 85,00 205 127 627 15,00 36 198 993",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3 85,00 548 279 887 15,00 96 779 025",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4 84,00 215 911 358 16,00 42 519 283",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5 85,00 89 743 340 15,00 15 837 060",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6 84,00 140 182 726 16,00 26 502 834",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7 85,00 169 834 703 15,00 29 088 477",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8 92,00 59 469 775 8,00 5 171 285",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ogółem na RPO 85,00 1 868 602 800 15,00 329 753 437 ”.",
+       "quoted": true
+      }
+     ]
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
+   "children": []
   },
   {
    "type": "signature",
