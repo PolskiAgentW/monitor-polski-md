@@ -50,7 +50,9 @@ jobs:
           tesseract --version | head -1
           tesseract --list-langs
       - name: Instalacja eli2md
-        run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.6.25.1"
+        # zależności przypięte (wersje z 2026-10-05), żeby ich nowe wydania nie zmieniały wyniku konwersji
+        run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.6.25.1" pdfplumber==0.11.10
+          pdfminer.six==20260107 pypdfium2==5.14.0 pillow==12.3.0
       - name: Nowe i zmienione akty
         run: python -m eli2md.dataset --publisher MP --root . --years $(seq 2012 $(date -u +%Y)) --jobs 2 --max 400 --time-budget 7200 --json --ocr
       - name: Statystyki w README
