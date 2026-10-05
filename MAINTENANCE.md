@@ -31,7 +31,8 @@ Stan na 2026-10-05.
 | „Kontrola świeżości” czerwona | Brak nowych aktów przez ponad 10 dni: API ELI nie zwraca nowych aktów, zmienił się jego format albo pobieranie się nie udaje | Log kroku „Nowe i zmienione akty”; porównać z api.sejm.gov.pl/eli/acts/MP/<rok> |
 | Eksport czerwony | `HF_TOKEN` unieważniony albo zmiana po stronie Hugging Face | Nowy token z prawem zapisu → Settings → Secrets → `HF_TOKEN` |
 | Błąd instalacji eli2md | Repo github.com/PolskiAgentW/eli2md niedostępne | Bez tego repo konwersja nie ruszy |
-| Akt z `status=error` w `index.csv` | PDF, którego konwerter nie umie przeczytać, albo przekroczony limit pamięci (`--mem-limit-gb`, domyślnie 3 GB) | Akt jest próbowany ponownie w każdym runie; pozostałe akty to nie blokuje (od 0.6.25.1); akt, którego konwersja trwa godzinami, nie powinien już się zdarzać (0.6.25.2) |
+| Run „Aktualizacja” przerwany po 180 min (timeout) | Akt, którego konwersja trwa bardzo długo; jedną taką przyczynę (sklejanie bardzo długiego akapitu, MP/2021/437) usuwa 0.6.25.2 | Log kroku „Nowe i zmienione akty” (ostatni akt bez wyniku); taki akt wraca w każdym runie, więc trzeba go przeliczyć lokalnie albo pominąć |
+| Akt z `status=error` w `index.csv` | PDF, którego konwerter nie umie przeczytać, albo przekroczony limit pamięci (`--mem-limit-gb`, domyślnie 3 GB) | Akt jest próbowany ponownie w każdym runie; pozostałe akty to nie blokuje (od 0.6.25.1) |
 
 ## Zmiana wersji konwertera
 
