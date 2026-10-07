@@ -47,7 +47,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-06 05:02 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-07 05:26 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -65,13 +65,13 @@ Stan na 2026-10-06 05:02 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 1482 | 1482 | 0 |
 | 2024 | 1112 | 1112 | 0 |
 | 2025 | 1317 | 1317 | 0 |
-| 2026 | 967 | 967 | 0 |
+| 2026 | 973 | 973 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14297 z 98645 stron. Tekst z OCR (oznaczony) ma 12668 z nich w 415 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14297 z 98661 stron. Tekst z OCR (oznaczony) ma 12667 z nich w 415 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 564.
 
-Rodzaje aktów: Postanowienie 7142, Obwieszczenie 4021, Uchwała 2748, Komunikat 2058, Zarządzenie 1271, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
-Wersje konwertera: eli2md 0.6.25 (9949), eli2md 0.6.25.2 (6423), eli2md 0.6.25.1 (1797).
+Rodzaje aktów: Postanowienie 7143, Obwieszczenie 4025, Uchwała 2749, Komunikat 2058, Zarządzenie 1271, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
+Wersje konwertera: eli2md 0.6.25 (9897), eli2md 0.6.25.2 (6488), eli2md 0.6.25.1 (1790).
 <!-- stats:end -->
 
 ## Teksty jednolite
