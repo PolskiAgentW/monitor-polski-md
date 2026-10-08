@@ -1,0 +1,102 @@
+{
+ "eli": "MP/2026/974",
+ "title": "Obwieszczenie Ministra Energii z dnia 6 października 2026 r. w sprawie maksymalnej ceny paliw ciekłych na stacji paliw",
+ "converter": "eli2md 0.6.25.2",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/974/text.pdf",
+ "body": [
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ENERGII[^1]"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 października 2026 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie maksymalnej ceny paliw ciekłych na stacji paliw"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 34a ust. 5 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. z 2026 r. poz. 599 i 900) ogłasza się, że maksymalna cena paliw ciekłych w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2025 r. poz. 1529) na stacji paliw:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "dla benzyny silnikowej bezołowiowej 95 (CN 2710 12 45):",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "wynosi 6,35 zł za 1 dm³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "powiększona o podatek od towarów i usług wynosi 6,86 zł za 1 l;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dla benzyny silnikowej bezołowiowej 98 (CN 2710 12 49):",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "wynosi 7,16 zł za 1 dm³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "powiększona o podatek od towarów i usług wynosi 7,74 zł za 1 l;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "dla oleju napędowego (CN 2710 19 42, 2710 19 44 i 2710 20 11):",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "wynosi 7,22 zł za 1 dm³,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "powiększona o podatek od towarów i usług wynosi 7,80 zł za 1 l.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Energii: M. Motyka"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {
+  "1": "Minister Energii kieruje działem administracji rządowej – gospodarka surowcami energetycznymi, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Energii (Dz. U. poz. 1206)."
+ }
+}
