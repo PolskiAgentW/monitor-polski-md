@@ -3567,16 +3567,12 @@
      "num": "75",
      "path": "art_75",
      "text": "W trakcie postępowania nad ustawą budżetową komisje mogą przesłuchiwać upoważnionych przedstawicieli właściwych resortów.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ VIIIA"
-      },
-      {
-       "type": "text",
-       "text": "Postępowanie w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ VIIIA",
+     "text": "Postępowanie w sprawach związanych z członkostwem Rzeczypospolitej Polskiej w Unii Europejskiej"
     },
     {
      "type": "heading",
@@ -4405,16 +4401,12 @@
      "num": "85",
      "path": "art_85",
      "text": "W trybie przewidzianym dla uchwał Senat może podejmować rezolucje, oświadczenia, apele i opinie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ IXA"
-      },
-      {
-       "type": "text",
-       "text": "Wykonywanie orzeczeń Trybunału Konstytucyjnego"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ IXA",
+     "text": "Wykonywanie orzeczeń Trybunału Konstytucyjnego"
     },
     {
      "type": "art",
@@ -4526,16 +4518,12 @@
      "num": "85f",
      "path": "art_85f",
      "text": "Do postępowania z projektami ustaw wykonujących orzeczenia Trybunału Konstytucyjnego stosuje się przepisy działu IX, chyba że przepisy niniejszego działu stanowią inaczej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ IXB"
-      },
-      {
-       "type": "text",
-       "text": "Postępowanie w sprawie sprawozdania Krajowej Rady Radiofonii i Telewizji oraz informacji o działalności Rady Mediów Narodowych"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ IXB",
+     "text": "Postępowanie w sprawie sprawozdania Krajowej Rady Radiofonii i Telewizji oraz informacji o działalności Rady Mediów Narodowych"
     },
     {
      "type": "art",
@@ -4741,18 +4729,14 @@
        "num": "5",
        "path": "art_90/ust_5",
        "text": "O uchwale Senatu w sprawie wniosku o przeprowadzenie referendum Marszałek Senatu zawiadamia Prezydenta oraz Prezesa Rady Ministrów.",
-       "children": [
-        {
-         "type": "text",
-         "text": "DZIAŁ XA"
-        },
-        {
-         "type": "text",
-         "text": "Rozpatrywanie petycji"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ XA",
+     "text": "Rozpatrywanie petycji"
     },
     {
      "type": "art",

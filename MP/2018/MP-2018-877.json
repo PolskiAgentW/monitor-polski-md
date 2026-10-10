@@ -978,18 +978,14 @@
        "num": "6",
        "path": "par_13/ust_6",
        "text": "Przepisy ust. 1–4 nie naruszają uprawnień klientów z tytułu odpowiedzialności sprzedawcy za wady rzeczy, wynikających z przepisów powszechnie obowiązujących.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Rozdział 6a[^13]"
-        },
-        {
-         "type": "text",
-         "text": "Przetwarzanie danych osobowych"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 6a",
+     "text": "[^13] Przetwarzanie danych osobowych"
     },
     {
      "type": "par",

@@ -198,6 +198,15 @@ Lata 2012–2024 zostały przekonwertowane jednorazowo 2026-09-30.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w Monitorze Polskim w latach 2025–2026 wyniosła 6 dni.
 
+Zmiana 2026-10-10 (drzewo JSON, kod drzewa eli2md 0.6.50, 14 aktów; opis w README eli2md, wpis 0.6.50): nagłówki z
+liczebnikiem słownym („DZIAŁ PIĄTY”, „CZĘŚĆ PIERWSZA”), z numerem rzymskim z wielką literą („DZIAŁ IVA”) albo z
+odnośnikiem po numerze („Rozdział 5a[^28]”) są w `.json` węzłami `heading`. Wcześniej trafiały jako tekst do artykułu,
+paragrafu albo punktu przed nimi. Nowych nagłówków: 35, żaden nie zniknął. `.md` się nie zmienił, więc pole
+`converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Słowa w drzewach: zgubione 0.
+Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru). W MP/2019/1190 dodatkowo 11 artykułów umowy
+(„Artykuł N”) jest węzłami `art` (zmiana kodu drzewa z 0.6.39): jednostek 26 → 37, żadna nie zniknęła, a ścieżki
+jednostek zmieniły się tylko w tym akcie.
+
 Zmiana 2026-10-05 (eli2md 0.6.25, 0.6.25.1 i 0.6.25.2 — ten sam wynik; wszystkie akty od nowa; wcześniej wersje
 0.6.7–0.6.22, w większości 0.6.7). Zmienione 16 z 18 165 plików, w 10 z nich te same słowa: więcej nagłówków
 jednostek w 5 plikach, więcej przypisów w 5, w żadnym mniej. Słowa: −138 / +433 w 6 plikach: notki o stronach z OCR

@@ -9945,18 +9945,14 @@
        "num": "8",
        "path": "art_196/ust_8",
        "text": "Nad pytaniem i udzieloną odpowiedzią nie przeprowadza się dyskusji. Prawo do postawienia pytania dodatkowego przysługuje wyłącznie zadającemu pytanie. Dodatkowe pytanie nie może trwać dłużej niż 1 minutę, a uzupełniająca odpowiedź nie może trwać dłużej niż 3 minuty. Marszałek Sejmu może wyrazić zgodę na wydłużenie czasu odpowiedzi na pytanie dodatkowe.",
-       "children": [
-        {
-         "type": "text",
-         "text": "DZIAŁ IIIA[^7]"
-        },
-        {
-         "type": "text",
-         "text": "Posiedzenia Sejmu, komisji i podkomisji z wykorzystaniem środków komunikacji elektronicznej umożliwiających porozumiewanie się na odległość"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ IIIA",
+     "text": "[^7] Posiedzenia Sejmu, komisji i podkomisji z wykorzystaniem środków komunikacji elektronicznej umożliwiających porozumiewanie się na odległość"
     },
     {
      "type": "art",
@@ -10460,12 +10456,12 @@
      "num": "202",
      "path": "art_202",
      "text": "Organizację Kancelarii Sejmu określa statut Kancelarii, nadany na wniosek Szefa Kancelarii Sejmu w trybie art. 10 ust. 1 pkt 14.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ IVA Dostęp do informacji publicznej oraz informacji o środowisku i jego ochronie"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ IVA",
+     "text": "Dostęp do informacji publicznej oraz informacji o środowisku i jego ochronie"
     },
     {
      "type": "art",

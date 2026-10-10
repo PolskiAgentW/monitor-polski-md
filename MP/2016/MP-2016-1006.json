@@ -3840,16 +3840,12 @@
      "num": "156",
      "path": "par_156",
      "text": "Członek Rady Ministrów udostępnia OSR ex post w RPL.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ VA[^30]"
-      },
-      {
-       "type": "text",
-       "text": "Stanowisko w sprawie rozstrzyganej przez Trybunał Konstytucyjny"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ VA",
+     "text": "[^30] Stanowisko w sprawie rozstrzyganej przez Trybunał Konstytucyjny"
     },
     {
      "type": "par",

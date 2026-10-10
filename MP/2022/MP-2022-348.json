@@ -3254,18 +3254,14 @@
        "num": "2",
        "path": "par_80/ust_2",
        "text": "Rządowe Centrum Legislacji udostępnia w RPL protokół z posiedzenia komisji prawniczej albo informację o zwolnieniu projektu ustawy albo projektu rozporządzenia z obowiązku rozpatrzenia przez komisję prawniczą, nie później niż w terminie 5 dni od dnia rozpatrzenia projektu albo zwolnienia projektu z obowiązku rozpatrzenia przez komisję.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Rozdział 6a[^67]"
-        },
-        {
-         "type": "text",
-         "text": "Potwierdzenie projektu ustawy i projektu rozporządzenia przez Stały Komitet Rady Ministrów"
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 6a",
+     "text": "[^67] Potwierdzenie projektu ustawy i projektu rozporządzenia przez Stały Komitet Rady Ministrów"
     },
     {
      "type": "par",
