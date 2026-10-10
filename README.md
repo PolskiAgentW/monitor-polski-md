@@ -207,6 +207,10 @@ Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru). W MP/201
 („Artykuł N”) jest węzłami `art` (zmiana kodu drzewa z 0.6.39): jednostek 26 → 37, żadna nie zniknęła, a ścieżki
 jednostek zmieniły się tylko w tym akcie.
 
+Od 2026-10-10 codzienna aktualizacja używa eli2md 0.6.50 (wcześniej 0.6.25.2). Sprawdzenie przed zmianą: 100
+najnowszych aktów MP przeliczonych wersją 0.6.50 z tych samych PDF ma ten sam `.md` i `.json` co w zbiorze (poza
+polem `converter`).
+
 Zmiana 2026-10-05 (eli2md 0.6.25, 0.6.25.1 i 0.6.25.2 — ten sam wynik; wszystkie akty od nowa; wcześniej wersje
 0.6.7–0.6.22, w większości 0.6.7). Zmienione 16 z 18 165 plików, w 10 z nich te same słowa: więcej nagłówków
 jednostek w 5 plikach, więcej przypisów w 5, w żadnym mniej. Słowa: −138 / +433 w 6 plikach: notki o stronach z OCR
