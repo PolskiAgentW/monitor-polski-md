@@ -50,7 +50,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-13 09:17 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-13 10:42 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -74,7 +74,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14297 z 9876
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 565.
 
 Rodzaje aktów: Postanowienie 7144, Obwieszczenie 4036, Uchwała 2751, Komunikat 2061, Zarządzenie 1271, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
-Wersje konwertera: eli2md 0.6.25 (8191), eli2md 0.6.25.2 (5428), eli2md 0.6.56 (3109), eli2md 0.6.25.1 (1458), eli2md 0.6.54 (6).
+Wersje konwertera: eli2md 0.6.25 (8191), eli2md 0.6.25.2 (5428), eli2md 0.6.56 (3104), eli2md 0.6.25.1 (1458), eli2md 0.6.54 (6), eli2md 0.6.57 (5).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -199,6 +199,11 @@ Lata 2012–2024 zostały przekonwertowane jednorazowo 2026-09-30.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w Monitorze Polskim w latach 2025–2026 wyniosła 6 dni.
 
+Zmiana 2026-10-13 (eli2md 0.6.57, 5 aktów): tytuł bez tego, co API ELI dopisuje po tabulatorze (np. MP/2022/971:
+„…Rady Polityki Pieniężnej⇥202”). Dotyczy `title` we front matter, linii `# tytuł`, `title` w `.json` i w `index.csv`
+w MP/2022/971, 972, MP/2024/1037, MP/2025/1058 i MP/2026/354; tekst bez zmian (A/B 0.6.56 → 0.6.57). Od tej zmiany
+codzienna aktualizacja używa eli2md 0.6.57.
+
 Zmiana 2026-10-13 (eli2md 0.6.56, 2 724 akty): podpis pod aktem. W tych aktach podpis był zwykłym akapitem `.md`,
 a w `.json` tekstem ostatniej jednostki (w 472) albo tekstem na najwyższym poziomie. Konwerter nie rozpoznawał podpisu
 z przecinkiem w nazwie urzędu, z „z up.”/„wz.” przed nazwiskiem, z długą nazwą urzędu („Przewodniczący Krajowej Rady
@@ -218,8 +223,8 @@ nowy `change_date`). W tych 385 i w 2 724 opisanych wyżej stara data ogłoszeni
 wszystkie to daty, które API poprawiło po zgłoszeniu rozbieżności z drukiem. W MP/2026/72 w zbiorze był też tekst
 z PDF sprzed jego wymiany w API. Wcześniej te 385 plików było z eli2md
 0.6.25.2 (375), 0.6.25 (8) i 0.6.25.1 (2). Treść zmienia się w 18: w 5 strony odczytane przez OCR (tesseract 5.5.0
-zamiast 5.3.4), w pozostałych przypisy, indeksy i odstępy jak wyżej. Jedna zmiana jest na gorsze: w tabeli MP/2019/572
-„6 ng/m” → „6ng/m” (od eli2md 0.6.51; do poprawienia). W pozostałych 367 zmienia się tylko nagłówek i pole `converter`.
+zamiast 5.3.4), w pozostałych przypisy, indeksy i odstępy jak wyżej. W tabeli MP/2019/572
+„6 ng/m” → „6ng/m” (od eli2md 0.6.51): tak jest w warstwie tekstowej PDF, bez odstępu między „6” a „ng”. W pozostałych 367 zmienia się tylko nagłówek i pole `converter`.
 Od tej zmiany codzienna aktualizacja używa eli2md 0.6.56 (wcześniej 0.6.54).
 
 Zmiana 2026-10-10 (drzewo JSON, kod drzewa eli2md 0.6.50, 14 aktów; opis w README eli2md, wpis 0.6.50): nagłówki z
