@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/767",
  "title": "Uchwała nr 80/2019 Państwowej Komisji Wyborczej z dnia 5 sierpnia 2019 r. zmieniająca uchwałę w sprawie sposobu zgłaszania kandydatów na członków obwodowych komisji wyborczych, wzoru zgłoszenia oraz zasad powoływania tych komisji, w tym trybu przeprowadzania losowania, w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz w wyborach wójtów, burmistrzów i prezydentów miast",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/767/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: S. Marciniak"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: S. Marciniak"
   }
  ],
  "annexes": [
@@ -82,11 +81,23 @@
     },
     {
      "type": "text",
-     "text": "Adres Powiat Gmina Miejscowość Ulica zamieszkania: Nr Nr Poczta Kod - domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+     "text": "Adres Powiat Gmina Miejscowość zamieszkania: Ulica Nr Nr Poczta Kod - domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
     },
     {
      "type": "text",
-     "text": "Dokonuję zgłoszenia kandydatów na członków obwodowych komisji wyborczych w mieście/gminie"
+     "text": "Dokonuję zgłoszenia kandydatów na członków obwodowych komisji wyborczych w mieście/gminie Nazwa miasta/gminy"
+    },
+    {
+     "type": "text",
+     "text": "Liczba zgłaszanych kandydatów Liczba załączników"
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r . ....................................................."
+    },
+    {
+     "type": "text",
+     "text": "UWAGA: – osoba dokonująca zgłoszenia z upoważnienia pełnomocnika komitetu wyborczego dołącza do zgłoszenia upoważnienie lub jego kopię (z oryginałem do wglądu); – w przypadku zgłoszenia obywatela UE niebędącego obywatelem polskim, w miejsce nr ewidencyjnego PESEL należy wpisać nr paszportu lub nazwę i nr innego dokumentu stwierdzającego tożsamość."
     },
     {
      "type": "text",
@@ -98,7 +109,7 @@
     },
     {
      "type": "text",
-     "text": "........................................................................................."
+     "text": "......................................................................................... (czytelny podpis osoby przyjmującej zgłoszenie)"
     },
     {
      "type": "text",
@@ -249,11 +260,23 @@
     },
     {
      "type": "text",
-     "text": "Adres Powiat Gmina Miejscowość Ulica zamieszkania: Nr Nr Poczta Kod - domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+     "text": "Adres Powiat Gmina Miejscowość zamieszkania: Ulica Nr Nr Poczta Kod - domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
     },
     {
      "type": "text",
      "text": "Dokonuję zgłoszenia kandydatów na członków obwodowych komisji wyborczych ds. przeprowadzenia głosowania w obwodzie w mieście/gminie Nazwa miasta/gminy"
+    },
+    {
+     "type": "text",
+     "text": "Liczba zgłaszanych kandydatów Liczba załączników"
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r . ....................................................."
+    },
+    {
+     "type": "text",
+     "text": "UWAGA: – osoba dokonująca zgłoszenia z upoważnienia pełnomocnika komitetu wyborczego dołącza do zgłoszenia upoważnienie lub jego kopię (z oryginałem do wglądu); – w przypadku zgłoszenia obywatela UE niebędącego obywatelem polskim, w miejsce nr ewidencyjnego PESEL należy wpisać nr paszportu lub nazwę i nr innego dokumentu stwierdzającego tożsamość."
     },
     {
      "type": "text",
@@ -265,7 +288,7 @@
     },
     {
      "type": "text",
-     "text": "........................................................................................."
+     "text": "......................................................................................... (czytelny podpis osoby przyjmującej zgłoszenie)"
     },
     {
      "type": "text",
@@ -416,11 +439,23 @@
     },
     {
      "type": "text",
-     "text": "Adres Powiat Gmina Miejscowość Ulica zamieszkania: Nr Nr Poczta Kod - domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
+     "text": "Adres Powiat Gmina Miejscowość zamieszkania: Ulica Nr Nr Poczta Kod - domu lokalu pocztowy Numer ewidencyjny Numer PESEL telefonu Adres e-mail"
     },
     {
      "type": "text",
      "text": "Dokonuję zgłoszenia kandydatów na członków obwodowych komisji wyborczych ds. ustalenia wyników głosowania w obwodzie w mieście/gminie Nazwa miasta/gminy"
+    },
+    {
+     "type": "text",
+     "text": "Liczba zgłaszanych kandydatów Liczba załączników"
+    },
+    {
+     "type": "text",
+     "text": "....................................... dnia ..................20..... r . ....................................................."
+    },
+    {
+     "type": "text",
+     "text": "UWAGA: – osoba dokonująca zgłoszenia z upoważnienia pełnomocnika komitetu wyborczego dołącza do zgłoszenia upoważnienie lub jego kopię (z oryginałem do wglądu); – w przypadku zgłoszenia obywatela UE niebędącego obywatelem polskim, w miejsce nr ewidencyjnego PESEL należy wpisać nr paszportu lub nazwę i nr innego dokumentu stwierdzającego tożsamość."
     },
     {
      "type": "text",
@@ -432,7 +467,7 @@
     },
     {
      "type": "text",
-     "text": "........................................................................................."
+     "text": "......................................................................................... (czytelny podpis osoby przyjmującej zgłoszenie)"
     },
     {
      "type": "text",
@@ -546,7 +581,7 @@
     },
     {
      "type": "text",
-     "text": "Nazwa miasta/gminy Liczba zgłaszanych kandydatów Liczba załączników ....................................... dnia ..................20..... r . ..................................................... (miejscowość) (podpis osoby dokonującej zgłoszenia) UWAGA: – osoba dokonująca zgłoszenia z upoważnienia pełnomocnika komitetu wyborczego dołącza do zgłoszenia upoważnienie lub jego kopię (z oryginałem do wglądu); – w przypadku zgłoszenia obywatela UE niebędącego obywatelem polskim, w miejsce nr ewidencyjnego PESEL należy wpisać nr paszportu lub nazwę i nr innego dokumentu stwierdzającego tożsamość. (czytelny podpis osoby przyjmującej zgłoszenie) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis kandydata na członka komisji) Liczba zgłaszanych kandydatów Liczba załączników ....................................... dnia ..................20..... r . ..................................................... (miejscowość) (podpis osoby dokonującej zgłoszenia) UWAGA: – osoba dokonująca zgłoszenia z upoważnienia pełnomocnika komitetu wyborczego dołącza do zgłoszenia upoważnienie lub jego kopię (z oryginałem do wglądu); – w przypadku zgłoszenia obywatela UE niebędącego obywatelem polskim, w miejsce nr ewidencyjnego PESEL należy wpisać nr paszportu lub nazwę i nr innego dokumentu stwierdzającego tożsamość. (czytelny podpis osoby przyjmującej zgłoszenie) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis kandydata na członka komisji) Liczba zgłaszanych kandydatów Liczba załączników ....................................... dnia ..................20..... r . ..................................................... (miejscowość) (podpis osoby dokonującej zgłoszenia) UWAGA: – osoba dokonująca zgłoszenia z upoważnienia pełnomocnika komitetu wyborczego dołącza do zgłoszenia upoważnienie lub jego kopię (z oryginałem do wglądu); – w przypadku zgłoszenia obywatela UE niebędącego obywatelem polskim, w miejsce nr ewidencyjnego PESEL należy wpisać nr paszportu lub nazwę i nr innego dokumentu stwierdzającego tożsamość. (czytelny podpis osoby przyjmującej zgłoszenie) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis kandydata na członka komisji)"
+     "text": "(miejscowość) (podpis osoby dokonującej zgłoszenia) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis osoby dokonującej zgłoszenia) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis osoby dokonującej zgłoszenia) (miejscowość) (podpis kandydata na członka komisji) (miejscowość) (podpis kandydata na członka komisji)"
     }
    ]
   }

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/428",
  "title": "Uchwała nr 72/2019 Państwowej Komisji Wyborczej z dnia 6 maja 2019 r. w sprawie wytycznych dla rejonowych i okręgowych komisji wyborczych, dotyczących trybu i sposobu wykonywania zadań związanych z ustalaniem wyników głosowania w wyborach do Parlamentu Europejskiego zarządzonych na dzień 26 maja 2019 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/428/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [

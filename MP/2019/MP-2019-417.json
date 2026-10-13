@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/417",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 26 kwietnia 2019 r. w sprawie wysokości zasiłku dla bezrobotnych",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/417/text.pdf",
  "body": [
   {
@@ -51,12 +51,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "do dnia 31 grudnia 2009 r., wynosi 690,90 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska"
   }
  ],
  "annexes": [],

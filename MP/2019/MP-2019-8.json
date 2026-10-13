@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/8",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 19 listopada 2018 r. w sprawie ustalenia wzorów urzędowych formularzy oraz druków wyborczych stosowanych w wyborach ponownych, uzupełniających, przedterminowych, wyborach do nowych rad oraz w wyborach przedterminowych i wyborach ponownych wójtów, burmistrzów i prezydentów miast, przeprowadzanych w toku kadencji w latach 2018-2023",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/8/text.pdf",
  "body": [
   {
@@ -100,12 +100,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [

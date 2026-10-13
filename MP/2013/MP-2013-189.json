@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/189",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dla obwodowych komisji wyborczych, dotyczących zadań i trybu przygotowania oraz przeprowadzenia głosowania w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/189/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [
@@ -429,7 +428,7 @@
        "type": "pkt",
        "num": "7",
        "path": "ust_17/pkt_7",
-       "text": "s prawdza, czy urna jest pusta, a następnie zamyka ją i opieczętowuje; urna powinna być ustawiona w takim miejscu, by była przez cały czas głosowania widoczna dla członków komisji i mężów zaufania oraz obserwatorów międzynarodowych; ponadto możliwe jest wyznaczenie jednego członka komisji (rotacyjnie), którego zadaniem będzie czuwanie nad urną. Urny nie wolno wynosić z lokalu wyborczego; dotyczy to również urny zasadniczej w obwodach głosowania utworzonych w zakładach opieki zdrowotnej i domach pomocy społecznej.",
+       "text": "sprawdza, czy urna jest pusta, a następnie zamyka ją i opieczętowuje; urna powinna być ustawiona w takim miejscu, by była przez cały czas głosowania widoczna dla członków komisji i mężów zaufania oraz obserwatorów międzynarodowych; ponadto możliwe jest wyznaczenie jednego członka komisji (rotacyjnie), którego zadaniem będzie czuwanie nad urną. Urny nie wolno wynosić z lokalu wyborczego; dotyczy to również urny zasadniczej w obwodach głosowania utworzonych w zakładach opieki zdrowotnej i domach pomocy społecznej.",
        "children": [
         {
          "type": "text",
@@ -1475,7 +1474,7 @@
      "type": "ust",
      "num": "53",
      "path": "ust_53",
-     "text": "D rugi egzemplarz protokołu głosowania, spis wyborców wraz z dołączonymi do niego zaświadczeniami oraz aktami pełnomocnictwa, listę wyborców, którzy udzielili pełnomocnictwa do głosowania, na którym komisja odnotowywała fakt głosowania przez pełnomocnika, oraz sporządzone wcześniej pakiety zawierające posegregowane karty do głosowania, a także wszystkie arkusze pomocnicze i niewykorzystane formularze protokołu (także błędnie wypełnione), pakuje się w zbiorczą paczkę, którą opisuje się, pieczętuje i zabezpiecza. Pozostałą dokumentację komisji (protokoły posiedzeń, uchwały, drugie egzemplarze raportu ostrzeżeń itp.) komisja pakuje w odrębną paczkę, którą opisuje i pieczętuje.",
+     "text": "Drugi egzemplarz protokołu głosowania, spis wyborców wraz z dołączonymi do niego zaświadczeniami oraz aktami pełnomocnictwa, listę wyborców, którzy udzielili pełnomocnictwa do głosowania, na którym komisja odnotowywała fakt głosowania przez pełnomocnika, oraz sporządzone wcześniej pakiety zawierające posegregowane karty do głosowania, a także wszystkie arkusze pomocnicze i niewykorzystane formularze protokołu (także błędnie wypełnione), pakuje się w zbiorczą paczkę, którą opisuje się, pieczętuje i zabezpiecza. Pozostałą dokumentację komisji (protokoły posiedzeń, uchwały, drugie egzemplarze raportu ostrzeżeń itp.) komisja pakuje w odrębną paczkę, którą opisuje i pieczętuje.",
      "children": []
     },
     {
@@ -1537,7 +1536,7 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_56/pkt_4",
-       "text": "k omisja, w drodze uchwały, określa czas (godziny) głosowania poza lokalem wyborczym i przerwę w głosowaniu, w tym czasie, w lokalu przy wykorzystaniu urny zasadniczej i spisu wyborców. Zaleca się, aby przerwę w głosowaniu zarządzić w czasie, gdy większość wyborców umieszczonych w spisie oddała głosy w lokalu wyborczym. Przerwa w głosowaniu, o której mowa, nie stanowi podstawy do przedłużenia czasu głosowania. Uchwałę komisji obwodowej o przerwie w głosowaniu należy wywiesić przed rozpoczęciem głosowania na drzwiach lokalu wyborczego. Uchwała powinna być wywieszona w taki sposób, żeby możliwe było jej odczytanie także z wózka inwalidzkiego;",
+       "text": "komisja, w drodze uchwały, określa czas (godziny) głosowania poza lokalem wyborczym i przerwę w głosowaniu, w tym czasie, w lokalu przy wykorzystaniu urny zasadniczej i spisu wyborców. Zaleca się, aby przerwę w głosowaniu zarządzić w czasie, gdy większość wyborców umieszczonych w spisie oddała głosy w lokalu wyborczym. Przerwa w głosowaniu, o której mowa, nie stanowi podstawy do przedłużenia czasu głosowania. Uchwałę komisji obwodowej o przerwie w głosowaniu należy wywiesić przed rozpoczęciem głosowania na drzwiach lokalu wyborczego. Uchwała powinna być wywieszona w taki sposób, żeby możliwe było jej odczytanie także z wózka inwalidzkiego;",
        "children": []
       },
       {
@@ -1551,7 +1550,7 @@
        "type": "pkt",
        "num": "6",
        "path": "ust_56/pkt_6",
-       "text": "g łosowanie poza lokalem wyborczym może prowadzić co najmniej dwóch członków komisji przez nią wyznaczonych, zgłoszonych przez różne komitety wyborcze; członkom komisji mogą towarzyszyć mężowie zaufania;",
+       "text": "głosowanie poza lokalem wyborczym może prowadzić co najmniej dwóch członków komisji przez nią wyznaczonych, zgłoszonych przez różne komitety wyborcze; członkom komisji mogą towarzyszyć mężowie zaufania;",
        "children": []
       },
       {

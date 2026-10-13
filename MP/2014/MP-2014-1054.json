@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/1054",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 4 listopada 2014 r. w sprawie wytycznych dla komisarzy wyborczych dotyczących sprawdzania prawidłowości ustalenia wyników głosowania i wyników wyborów do organów jednostek samorządu terytorialnego, zarządzonych na dzień 16 listopada 2014 r., i ogłaszania wyników tych wyborów na obszarze województwa",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/1054/text.pdf",
  "body": [
   {
@@ -65,12 +65,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [

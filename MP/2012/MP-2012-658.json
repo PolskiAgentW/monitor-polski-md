@@ -1,7 +1,7 @@
 {
  "eli": "MP/2012/658",
  "title": "Obwieszczenie Prezesa Głównego Urzędu Miar z dnia 2 sierpnia 2012 r. w sprawie wykazu dokumentów normatywnych Międzynarodowej Organizacji Metrologii Prawnej (OIML)",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/658/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "pkt_3",
    "text": "wykaz tytułów aktów prawnych wdrażających dyrektywy nowego podejścia dotyczące przyrządów pomiarowych, tj. dyrektywę 2004/22/WE Parlamentu Europejskiego i Rady w sprawie przyrządów pomiarowych (MID), wraz z danymi dotyczącymi miejsca ich publikacji – wykaz jest określony w załączniku nr 3 do obwieszczenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Głównego Urzędu Miar: J.M. Popowska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Głównego Urzędu Miar: J.M. Popowska"
   }
  ],
  "annexes": [

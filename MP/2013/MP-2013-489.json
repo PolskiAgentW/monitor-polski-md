@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/489",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 15 kwietnia 2013 r. w sprawie sprawozdań o źródłach pozyskania środków finansowych przez partie polityczne w 2012 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/489/text.pdf",
  "body": [
   {
@@ -115,12 +115,11 @@
    "num": "11",
    "path": "ust_11",
    "text": "Polska Partia Imperium Słowiańskiego „Razem” (EwP 318).",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [

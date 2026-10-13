@@ -1,7 +1,7 @@
 {
  "eli": "MP/2016/463",
  "title": "Obwieszczenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 12 maja 2016 r. w sprawie zmiany Programu Operacyjnego \"Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013\"",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/463/text.pdf",
  "body": [
   {
@@ -128,14 +128,14 @@
        "type": "text",
        "text": "oGóŁeM 978 790 099 734 092 574 244 697 525 75% ”.",
        "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk"
   }
  ],
  "annexes": [],

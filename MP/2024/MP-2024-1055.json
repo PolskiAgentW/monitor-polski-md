@@ -1,7 +1,7 @@
 {
  "eli": "MP/2024/1055",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2024 r. w sprawie wysokości kwoty wpłat na indywidualne konto zabezpieczenia emerytalnego w roku 2025",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/1055/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "wysokość kwoty wpłat na indywidualne konto zabezpieczenia emerytalnego, o której mowa w art. 13a ust. 1a wymienionej ustawy, w roku 2025 wynosi 15 611,40 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk"
   }
  ],
  "annexes": [],

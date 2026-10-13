@@ -1,7 +1,7 @@
 {
  "eli": "MP/2022/898",
  "title": "Komunikat Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 13 września 2022 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczeji Rozwoju (OECD)",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/898/text.pdf",
  "body": [
   {
@@ -56,14 +56,13 @@
      "num": "b",
      "path": "pkt_3/lit_b",
      "text": "obliczane zgodnie z Załącznikami II i IV do Porozumienia OECD – stanowiące załącznik nr 2 do komunikatu.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: wz. M. Drapikowska"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: wz. M. Drapikowska"
   }
  ],
  "annexes": [

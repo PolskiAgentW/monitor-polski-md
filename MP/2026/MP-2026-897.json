@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/897",
  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 3 września 2026 r. o wskazaniu wystaw dających pierwszeństwo do uzyskania prawa ochronnego albo prawa z rejestracji, w przypadku wystawiania na nich wzoru użytkowego albo wzoru przemysłowego",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/897/text.pdf",
  "body": [
   {
@@ -54,12 +54,11 @@
    "num": "4",
    "path": "pkt_4",
    "text": "XVIII Międzynarodowe Targi Transportu Zbiorowego TRANSEXPO, organizowane w dniach od 14 do 16 października 2026 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Skrzydło-Tefelska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Skrzydło-Tefelska"
   }
  ],
  "annexes": [],

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2017/831",
  "title": "Komunikat Prezesa Narodowego Funduszu Zdrowia z dnia 25 lipca 2017 r. w sprawie ogłoszenie sprawozdania finansowego Narodowego Funduszu Zdrowia za 2016 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/831/text.pdf",
  "body": [
   {
@@ -25,7 +25,7 @@
    "text": "Na podstawie art. 104 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793, z późn. zm.[^1]) ogłasza się łączne sprawozdanie finansowe Narodowego Funduszu Zdrowia za 2016 r., stanowiące załącznik do komunikatu."
   },
   {
-   "type": "text",
+   "type": "signature",
    "text": "p.o. Prezes Narodowego Funduszu Zdrowia: A. Jacyna"
   }
  ],
@@ -285,7 +285,7 @@
      "type": "ust",
      "num": "5",
      "path": "ust_5",
-     "text": "Zysk (strata) z lat ubiegłych na początek okresu -193 744 974,67 1 061 026 181,78 5.1. Zysk z lat ubiegłych na początek okresu 643 943 853,42 1 425 614 304,30 - zmiany przyjętych zasad (polityki) rachunkowości 0,00 - korekty błędów 0,00 0,00 5.2. Zysk z lat ubiegłych na początek okresu, po korektach 643 943 853,42 1 425 614 304,30 a) zwiększenie (z tytułu) 0,00 0,00 - podziału zysku z lat ubiegłych 0,00 0,00 - przejęcie wyniku z lat ubiegłych z Oddziałów Wojewódzkich NFZ 0,00 0,00 b) zmniejszenie (z tytułu) 0,00 -1 061 026 181,78 - pokrycie nadwyżki kosztów nad przychodami z lat ubiegłych 0,00 0,00 - przekazanie wyniku z lat ubiegłych do Centrali NFZ 0,00 0,00 - przekazanie na fundusz zapasowy 0,00 -1 061 026 181,78 5.3.Zysk z lat ubiegłych na koniec okresu 643 943 853,42 364 588 122,52 5.4. Strata z lat ubiegłych na początek okresu - 8 3 7 688 828,09 -364 588 122,52 - zmiany przyjętych zasad (polityki) rachunkowości 0,00",
+     "text": "Zysk (strata) z lat ubiegłych na początek okresu -193 744 974,67 1 061 026 181,78 5.1. Zysk z lat ubiegłych na początek okresu 643 943 853,42 1 425 614 304,30 - zmiany przyjętych zasad (polityki) rachunkowości 0,00 - korekty błędów 0,00 0,00 5.2. Zysk z lat ubiegłych na początek okresu, po korektach 643 943 853,42 1 425 614 304,30 a) zwiększenie (z tytułu) 0,00 0,00 - podziału zysku z lat ubiegłych 0,00 0,00 - przejęcie wyniku z lat ubiegłych z Oddziałów Wojewódzkich NFZ 0,00 0,00 b) zmniejszenie (z tytułu) 0,00 -1 061 026 181,78 - pokrycie nadwyżki kosztów nad przychodami z lat ubiegłych 0,00 0,00 - przekazanie wyniku z lat ubiegłych do Centrali NFZ 0,00 0,00 - przekazanie na fundusz zapasowy 0,00 -1 061 026 181,78 5.3.Zysk z lat ubiegłych na koniec okresu 643 943 853,42 364 588 122,52 5.4. Strata z lat ubiegłych na początek okresu -837 688 828,09 -364 588 122,52 - zmiany przyjętych zasad (polityki) rachunkowości 0,00",
      "children": [
       {
        "type": "text",

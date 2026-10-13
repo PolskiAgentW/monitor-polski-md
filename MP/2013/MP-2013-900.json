@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/900",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 7 października 2013 r. o przyjętych i odrzuconych sprawozdaniach partii politycznych o źródłach pozyskania środków finansowych w 2012 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/900/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "pkt_3",
    "text": "odrzucić sprawozdania 5 partii politycznych, wymienionych w załączniku nr 3 do komunikatu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2018/842",
  "title": "Ogłoszenie Przewodniczącego Krajowej Rady Radiofonii i Telewizji z dnia 20 sierpnia 2018 r. o możliwości uzyskania koncesji na rozpowszechnianie programu radiowego",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/842/text.pdf",
  "body": [
   {
@@ -140,12 +140,12 @@
     {
      "type": "text",
      "text": "VI. Niezwłocznie po wszczęciu postępowania lista wnioskodawców uczestniczących w postępowaniu opublikowana zostanie w Internecie na stronie www.krrit.gov.pl oraz wywieszona w siedzibie Biura Krajowej Rady Radiofonii i Telewizji."
-    },
-    {
-     "type": "text",
-     "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski"
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski"
   }
  ],
  "annexes": [],

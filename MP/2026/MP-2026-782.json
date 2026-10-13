@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/782",
  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 5 sierpnia 2026 r. o wskazaniu wystaw dających pierwszeństwo do uzyskania prawa ochronnego albo prawa z rejestracji, w przypadku wystawiania na nich wzoru użytkowego albo wzoru przemysłowego",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/782/text.pdf",
  "body": [
   {
@@ -103,12 +103,11 @@
    "num": "11",
    "path": "pkt_11",
    "text": "Perlage CAVALIADA POZNAŃ: Targi Sprzętu i Akcesoriów Jeździeckich, organizowane w dniach 10–13 grudnia 2026 r. w Poznaniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Skrzydło-Tefelska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Skrzydło-Tefelska"
   }
  ],
  "annexes": [],

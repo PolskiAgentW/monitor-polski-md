@@ -1,21 +1,9 @@
 {
  "eli": "MP/2019/567",
  "title": "Obwieszczenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 12 czerwca 2019 r. w sprawie wyczerpania ogólnej kwoty połowowej dobijaka określonej dla podobszarów 22-32 Morza Bałtyckiego na 2019 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/567/text.pdf",
  "body": [
-  {
-   "type": "text",
-   "text": "MONITOR POLSKI DZIENNIK URZĘDOWY RZECZYPOSPOLITEJ POLSKIEJ"
-  },
-  {
-   "type": "text",
-   "text": "Warszawa, dnia 13 czerwca 2019 r."
-  },
-  {
-   "type": "text",
-   "text": "Poz. 56 7"
-  },
   {
    "type": "text",
    "text": "OBWIESZCZENIE"
@@ -37,7 +25,7 @@
    "text": "Na podstawie art. 57 ust. 1 pkt 2 ustawy z dnia 19 grudnia 2014 r. o rybołówstwie morskim (Dz. U. z 2019 r. poz. 586, 642 i 730) ogłasza się, że ogólna kwota połowowa dobijaka określona dla podobszarów 22–32[^2] Morza Bałtyckiego na 2019 r. została wyczerpana."
   },
   {
-   "type": "text",
+   "type": "signature",
    "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk"
   }
  ],

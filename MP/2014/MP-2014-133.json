@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/133",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 27 stycznia 2014 r. w sprawie regulaminów okręgowych, rejonowych i obwodowych komisji wyborczych powołanych do przeprowadzenia wyborów do Parlamentu Europejskiego w Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/133/text.pdf",
  "body": [
   {
@@ -36,15 +36,17 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    },
-    {
-     "type": "text",
-     "text": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 27 stycznia 2014 r. (poz. 133)"
-    },
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do uchwały Państwowej Komisji Wyborczej z dnia 27 stycznia 2014 r. (poz. 133)",
+   "body": [
     {
      "type": "text",
      "text": "Załącznik nr 1"
@@ -52,488 +54,486 @@
     {
      "type": "text",
      "text": "REGULAMIN OKRĘGOWYCH KOMISJI WYBORCZYCH"
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "Okręgowa komisja wyborcza, zwana dalej „komisją”, wykonuje swoje zadania określone w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.), zwanej dalej „Kodeksem wyborczym”, stosując wytyczne i wyjaśnienia Państwowej Komisji Wyborczej.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "Komisja rozstrzyga w sprawach należących do jej właściwości w obecności co najmniej połowy swojego składu, w tym przewodniczącego komisji lub jednego z jego zastępców.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "3",
-   "path": "par_3",
-   "text": "",
-   "children": [
+    },
     {
-     "type": "ust",
+     "type": "par",
      "num": "1",
-     "path": "par_3/ust_1",
-     "text": "Komisja może przydzielić do wykonania określone czynności, wynikające z jej zadań, przewodniczącemu, zastępcom przewodniczącego, członkom komisji, sekretarzowi komisji lub zespołom powoływanym w tym celu ze swego składu.",
+     "path": "par_1",
+     "text": "Okręgowa komisja wyborcza, zwana dalej „komisją”, wykonuje swoje zadania określone w ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, z późn. zm.), zwanej dalej „Kodeksem wyborczym”, stosując wytyczne i wyjaśnienia Państwowej Komisji Wyborczej.",
      "children": []
     },
     {
-     "type": "ust",
+     "type": "par",
      "num": "2",
-     "path": "par_3/ust_2",
-     "text": "Komisja może zlecić rejonowej komisji wyborczej wykonywanie zadań, a w szczególności pomocniczych czynności związanych ze sprawdzaniem zgłoszeń list kandydatów na posłów do Parlamentu Europejskiego, w tym wykazów osób popierających listę.",
+     "path": "par_2",
+     "text": "Komisja rozstrzyga w sprawach należących do jej właściwości w obecności co najmniej połowy swojego składu, w tym przewodniczącego komisji lub jednego z jego zastępców.",
      "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "4",
-   "path": "par_4",
-   "text": "",
-   "children": [
+    },
     {
-     "type": "ust",
-     "num": "1",
-     "path": "par_4/ust_1",
-     "text": "Na pierwszym posiedzeniu, które z upoważnienia Państwowej Komisji Wyborczej organizuje dyrektor właściwej miejscowo dla siedziby komisji delegatury Krajowego Biura Wyborczego, komisja:",
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "",
      "children": [
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "par_4/ust_1/pkt_1",
-       "text": "wybiera przewodniczącego komisji, jeśli funkcji tej nie może pełnić komisarz wyborczy;",
+       "path": "par_3/ust_1",
+       "text": "Komisja może przydzielić do wykonania określone czynności, wynikające z jej zadań, przewodniczącemu, zastępcom przewodniczącego, członkom komisji, sekretarzowi komisji lub zespołom powoływanym w tym celu ze swego składu.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "par_4/ust_1/pkt_2",
-       "text": "wybiera dwóch zastępców przewodniczącego;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "par_4/ust_1/pkt_3",
-       "text": "powołuje sekretarza komisji;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "par_4/ust_1/pkt_4",
-       "text": "omawia zadania i ustala tryb swojej pracy oraz obowiązki i uprawnienia osób wchodzących w jej skład;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "par_4/ust_1/pkt_5",
-       "text": "ustala sposób niezwłocznego podania do publicznej wiadomości informacji o swoim składzie, siedzibie i pełnionych dyżurach;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "par_4/ust_1/pkt_6",
-       "text": "ustala działania związane z przyjmowaniem do zarejestrowania zgłoszeń list kandydatów na posłów do Parlamentu Europejskiego, a także sposób podania o tym informacji do publicznej wiadomości.",
+       "path": "par_3/ust_2",
+       "text": "Komisja może zlecić rejonowej komisji wyborczej wykonywanie zadań, a w szczególności pomocniczych czynności związanych ze sprawdzaniem zgłoszeń list kandydatów na posłów do Parlamentu Europejskiego, w tym wykazów osób popierających listę.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "par_4/ust_2",
-     "text": "W przypadku, o którym mowa w ust. 1 pkt 1, do czasu wyboru przewodniczącego pierwszemu posiedzeniu komisji przewodniczy najstarszy wiekiem członek komisji.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "par_4/ust_3",
-     "text": "Komisja powołuje na sekretarza komisji, o którym mowa w ust. 1 pkt 3, dyrektora właściwej miejscowo delegatury Krajowego Biura Wyborczego lub osobę przez niego wskazaną. Sekretarz komisji uczestniczy w jej pracach z głosem doradczym.",
-     "children": []
-    },
-    {
-     "type": "ust",
+     "type": "par",
      "num": "4",
-     "path": "par_4/ust_4",
-     "text": "Komisja powołuje pełnomocników do wypełniania zadań wyborczych.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "5",
-   "path": "par_5",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "par_5/ust_1",
-     "text": "Pracami komisji kieruje przewodniczący, który w szczególności:",
+     "path": "par_4",
+     "text": "",
      "children": [
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "1",
-       "path": "par_5/ust_1/pkt_1",
-       "text": "czuwa nad wykonywaniem zadań komisji;",
-       "children": []
+       "path": "par_4/ust_1",
+       "text": "Na pierwszym posiedzeniu, które z upoważnienia Państwowej Komisji Wyborczej organizuje dyrektor właściwej miejscowo dla siedziby komisji delegatury Krajowego Biura Wyborczego, komisja:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_4/ust_1/pkt_1",
+         "text": "wybiera przewodniczącego komisji, jeśli funkcji tej nie może pełnić komisarz wyborczy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_4/ust_1/pkt_2",
+         "text": "wybiera dwóch zastępców przewodniczącego;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_4/ust_1/pkt_3",
+         "text": "powołuje sekretarza komisji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_4/ust_1/pkt_4",
+         "text": "omawia zadania i ustala tryb swojej pracy oraz obowiązki i uprawnienia osób wchodzących w jej skład;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_4/ust_1/pkt_5",
+         "text": "ustala sposób niezwłocznego podania do publicznej wiadomości informacji o swoim składzie, siedzibie i pełnionych dyżurach;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "par_4/ust_1/pkt_6",
+         "text": "ustala działania związane z przyjmowaniem do zarejestrowania zgłoszeń list kandydatów na posłów do Parlamentu Europejskiego, a także sposób podania o tym informacji do publicznej wiadomości.",
+         "children": []
+        }
+       ]
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "2",
-       "path": "par_5/ust_1/pkt_2",
-       "text": "reprezentuje komisję na zewnątrz;",
+       "path": "par_4/ust_2",
+       "text": "W przypadku, o którym mowa w ust. 1 pkt 1, do czasu wyboru przewodniczącego pierwszemu posiedzeniu komisji przewodniczy najstarszy wiekiem członek komisji.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "3",
-       "path": "par_5/ust_1/pkt_3",
-       "text": "ustala projekt porządku obrad komisji, zwołuje jej posiedzenia i im przewodniczy;",
+       "path": "par_4/ust_3",
+       "text": "Komisja powołuje na sekretarza komisji, o którym mowa w ust. 1 pkt 3, dyrektora właściwej miejscowo delegatury Krajowego Biura Wyborczego lub osobę przez niego wskazaną. Sekretarz komisji uczestniczy w jej pracach z głosem doradczym.",
        "children": []
       },
       {
-       "type": "pkt",
+       "type": "ust",
        "num": "4",
-       "path": "par_5/ust_1/pkt_4",
-       "text": "podpisuje w imieniu komisji uchwały podjęte na posiedzeniach, w których uczestniczył, oraz pisma związane z działalnością komisji, z zastrzeżeniem spraw wymienionych w § 11;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "par_5/ust_1/pkt_5",
-       "text": "zleca wykonanie, w zakresie swojej właściwości, określonych zadań obsługującej komisję delegaturze Krajowego Biura Wyborczego, a w razie potrzeby również innym delegaturom Krajowego Biura Wyborczego na obszarze właściwości okręgowej komisji wyborczej.",
+       "path": "par_4/ust_4",
+       "text": "Komisja powołuje pełnomocników do wypełniania zadań wyborczych.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "par_5/ust_2",
-     "text": "W razie nieobecności przewodniczącego komisji jego obowiązki pełni zastępca przewodniczącego starszy wiekiem, a w razie również jego nieobecności – drugi z zastępców przewodniczącego.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "6",
-   "path": "par_6",
-   "text": "Do zadań sekretarza komisji należy:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "par_6/pkt_1",
-     "text": "zapewnienie obsługi organizacyjnej komisji;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "par_6/pkt_2",
-     "text": "przygotowywanie i przedstawianie komisji, po uzgodnieniu z jej przewodniczącym, projektów uchwał, rozstrzygnięć oraz innych materiałów będących przedmiotem posiedzeń;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "3",
-     "path": "par_6/pkt_3",
-     "text": "podejmowanie, w ustalonym przez komisję zakresie, współdziałania z wojewodą i organami jednostek samorządu terytorialnego oraz konsulami i kapitanami statków, dla prawidłowego przebiegu prac przygotowawczych do wyborów;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "par_6/pkt_4",
-     "text": "zapewnianie warunków organizacyjno-technicznych szkoleń obwodowych komisji wyborczych, na obszarze, na którym okręgowa komisja wyborcza wykonuje zadania rejonowej komisji wyborczej;",
-     "children": []
-    },
-    {
-     "type": "pkt",
+     "type": "par",
      "num": "5",
-     "path": "par_6/pkt_5",
-     "text": "wykonywanie innych zadań zleconych przez komisję.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "7",
-   "path": "par_7",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "par_7/ust_1",
-     "text": "Członkowie komisji mają obowiązek uczestniczenia w posiedzeniach i innych pracach komisji.",
-     "children": []
+     "path": "par_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_5/ust_1",
+       "text": "Pracami komisji kieruje przewodniczący, który w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_5/ust_1/pkt_1",
+         "text": "czuwa nad wykonywaniem zadań komisji;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_5/ust_1/pkt_2",
+         "text": "reprezentuje komisję na zewnątrz;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_5/ust_1/pkt_3",
+         "text": "ustala projekt porządku obrad komisji, zwołuje jej posiedzenia i im przewodniczy;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_5/ust_1/pkt_4",
+         "text": "podpisuje w imieniu komisji uchwały podjęte na posiedzeniach, w których uczestniczył, oraz pisma związane z działalnością komisji, z zastrzeżeniem spraw wymienionych w § 11;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "par_5/ust_1/pkt_5",
+         "text": "zleca wykonanie, w zakresie swojej właściwości, określonych zadań obsługującej komisję delegaturze Krajowego Biura Wyborczego, a w razie potrzeby również innym delegaturom Krajowego Biura Wyborczego na obszarze właściwości okręgowej komisji wyborczej.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_5/ust_2",
+       "text": "W razie nieobecności przewodniczącego komisji jego obowiązki pełni zastępca przewodniczącego starszy wiekiem, a w razie również jego nieobecności – drugi z zastępców przewodniczącego.",
+       "children": []
+      }
+     ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "par_7/ust_2",
-     "text": "W razie niemożności wzięcia udziału w pracach komisji jej członek jest obowiązany powiadomić o tym, w miarę możliwości jeszcze przed posiedzeniem, przewodniczącego lub sekretarza komisji.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "8",
-   "path": "par_8",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "par_8/ust_1",
-     "text": "Uchwały komisji zapadają większością głosów w głosowaniu jawnym. W razie równej liczby głosów rozstrzyga głos przewodniczącego posiedzenia.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "par_8/ust_2",
-     "text": "Wybory przewodniczącego komisji, w przypadku, o którym mowa w § 4 ust. 1 pkt 1, i zastępców przewodniczącego komisji odbywają się w głosowaniu jawnym, chyba że członek komisji zażąda głosowania tajnego. W razie równej liczby głosów ponawia się głosowanie.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "9",
-   "path": "par_9",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "par_9/ust_1",
-     "text": "W posiedzeniach mogą uczestniczyć osoby zaproszone przez przewodniczącego komisji.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "par_9/ust_2",
-     "text": "Na wniosek członka komisji posiedzenie lub jego część odbywa się wyłącznie z udziałem członków komisji.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "10",
-   "path": "par_10",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "par_10/ust_1",
-     "text": "Z posiedzenia komisji sporządza się protokół, w którym podaje się:",
+     "type": "par",
+     "num": "6",
+     "path": "par_6",
+     "text": "Do zadań sekretarza komisji należy:",
      "children": [
       {
        "type": "pkt",
        "num": "1",
-       "path": "par_10/ust_1/pkt_1",
-       "text": "porządek obrad;",
+       "path": "par_6/pkt_1",
+       "text": "zapewnienie obsługi organizacyjnej komisji;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "2",
-       "path": "par_10/ust_1/pkt_2",
-       "text": "imiona i nazwiska uczestników;",
+       "path": "par_6/pkt_2",
+       "text": "przygotowywanie i przedstawianie komisji, po uzgodnieniu z jej przewodniczącym, projektów uchwał, rozstrzygnięć oraz innych materiałów będących przedmiotem posiedzeń;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "3",
-       "path": "par_10/ust_1/pkt_3",
-       "text": "zwięzłą treść wystąpień;",
+       "path": "par_6/pkt_3",
+       "text": "podejmowanie, w ustalonym przez komisję zakresie, współdziałania z wojewodą i organami jednostek samorządu terytorialnego oraz konsulami i kapitanami statków, dla prawidłowego przebiegu prac przygotowawczych do wyborów;",
        "children": []
       },
       {
        "type": "pkt",
        "num": "4",
-       "path": "par_10/ust_1/pkt_4",
-       "text": "podjęte rozstrzygnięcia i ustalenia.",
+       "path": "par_6/pkt_4",
+       "text": "zapewnianie warunków organizacyjno-technicznych szkoleń obwodowych komisji wyborczych, na obszarze, na którym okręgowa komisja wyborcza wykonuje zadania rejonowej komisji wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/pkt_5",
+       "text": "wykonywanie innych zadań zleconych przez komisję.",
        "children": []
       }
      ]
     },
     {
-     "type": "ust",
-     "num": "2",
-     "path": "par_10/ust_2",
-     "text": "Do protokołu dołącza się podjęte uchwały.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "par_10/ust_3",
-     "text": "Uchwały komisji podpisuje przewodniczący posiedzenia, z zastrzeżeniem § 11.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "4",
-     "path": "par_10/ust_4",
-     "text": "Protokół podpisują przewodniczący posiedzenia i sekretarz komisji.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "11",
-   "path": "par_11",
-   "text": "Wszyscy członkowie komisji obecni na posiedzeniu podpisują:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "par_11/pkt_1",
-     "text": "uchwały podjęte w sprawach:",
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "",
      "children": [
       {
-       "type": "lit",
-       "num": "a",
-       "path": "par_11/pkt_1/lit_a",
-       "text": "wady zgłoszenia i odmowy rejestracji listy kandydatów na posłów do Parlamentu Europejskiego z powodu nieusunięcia wady zgłoszenia (art. 215 § 3 i 5 w związku z art. 338 Kodeksu wyborczego),",
+       "type": "ust",
+       "num": "1",
+       "path": "par_7/ust_1",
+       "text": "Członkowie komisji mają obowiązek uczestniczenia w posiedzeniach i innych pracach komisji.",
        "children": []
       },
       {
-       "type": "lit",
-       "num": "b",
-       "path": "par_11/pkt_1/lit_b",
-       "text": "odmowy rejestracji kandydata na posła do Parlamentu Europejskiego z powodu nieposiadania prawa wybieralności (art. 215 § 4 w związku z art. 338 Kodeksu wyborczego),",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "par_11/pkt_1/lit_c",
-       "text": "odmowy rejestracji listy kandydatów na posłów do Parlamentu Europejskiego z powodu nieuzyskania ustawowo wymaganego poparcia wyborców (art. 216 § 2 i art. 217 § 2 w związku z art. 338 Kodeksu wyborczego),",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "d",
-       "path": "par_11/pkt_1/lit_d",
-       "text": "przyznania numerów zarejestrowanym listom kandydatów na posłów do Parlamentu Europejskiego (art. 220 § 1 w związku z art. 338 Kodeksu wyborczego),",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "e",
-       "path": "par_11/pkt_1/lit_e",
-       "text": "skreślenia kandydata z zarejestrowanej listy kandydatów na posłów do Parlamentu Europejskiego, uzupełnienia listy kandydatów na posłów do Parlamentu Europejskiego oraz unieważnienia rejestracji listy (art. 222 § 4 w związku z art. 338 i art. 346 Kodeksu wyborczego);",
+       "type": "ust",
+       "num": "2",
+       "path": "par_7/ust_2",
+       "text": "W razie niemożności wzięcia udziału w pracach komisji jej członek jest obowiązany powiadomić o tym, w miarę możliwości jeszcze przed posiedzeniem, przewodniczącego lub sekretarza komisji.",
        "children": []
       }
      ]
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "par_11/pkt_2",
-     "text": "protokoły rejestracji list kandydatów na posłów do Parlamentu Europejskiego (art. 345 § 1 Kodeksu wyborczego);",
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_8/ust_1",
+       "text": "Uchwały komisji zapadają większością głosów w głosowaniu jawnym. W razie równej liczby głosów rozstrzyga głos przewodniczącego posiedzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_8/ust_2",
+       "text": "Wybory przewodniczącego komisji, w przypadku, o którym mowa w § 4 ust. 1 pkt 1, i zastępców przewodniczącego komisji odbywają się w głosowaniu jawnym, chyba że członek komisji zażąda głosowania tajnego. W razie równej liczby głosów ponawia się głosowanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_9/ust_1",
+       "text": "W posiedzeniach mogą uczestniczyć osoby zaproszone przez przewodniczącego komisji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_9/ust_2",
+       "text": "Na wniosek członka komisji posiedzenie lub jego część odbywa się wyłącznie z udziałem członków komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_10/ust_1",
+       "text": "Z posiedzenia komisji sporządza się protokół, w którym podaje się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "par_10/ust_1/pkt_1",
+         "text": "porządek obrad;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "par_10/ust_1/pkt_2",
+         "text": "imiona i nazwiska uczestników;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "par_10/ust_1/pkt_3",
+         "text": "zwięzłą treść wystąpień;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "par_10/ust_1/pkt_4",
+         "text": "podjęte rozstrzygnięcia i ustalenia.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_10/ust_2",
+       "text": "Do protokołu dołącza się podjęte uchwały.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "par_10/ust_3",
+       "text": "Uchwały komisji podpisuje przewodniczący posiedzenia, z zastrzeżeniem § 11.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "par_10/ust_4",
+       "text": "Protokół podpisują przewodniczący posiedzenia i sekretarz komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "Wszyscy członkowie komisji obecni na posiedzeniu podpisują:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/pkt_1",
+       "text": "uchwały podjęte w sprawach:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_11/pkt_1/lit_a",
+         "text": "wady zgłoszenia i odmowy rejestracji listy kandydatów na posłów do Parlamentu Europejskiego z powodu nieusunięcia wady zgłoszenia (art. 215 § 3 i 5 w związku z art. 338 Kodeksu wyborczego),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_11/pkt_1/lit_b",
+         "text": "odmowy rejestracji kandydata na posła do Parlamentu Europejskiego z powodu nieposiadania prawa wybieralności (art. 215 § 4 w związku z art. 338 Kodeksu wyborczego),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_11/pkt_1/lit_c",
+         "text": "odmowy rejestracji listy kandydatów na posłów do Parlamentu Europejskiego z powodu nieuzyskania ustawowo wymaganego poparcia wyborców (art. 216 § 2 i art. 217 § 2 w związku z art. 338 Kodeksu wyborczego),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_11/pkt_1/lit_d",
+         "text": "przyznania numerów zarejestrowanym listom kandydatów na posłów do Parlamentu Europejskiego (art. 220 § 1 w związku z art. 338 Kodeksu wyborczego),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_11/pkt_1/lit_e",
+         "text": "skreślenia kandydata z zarejestrowanej listy kandydatów na posłów do Parlamentu Europejskiego, uzupełnienia listy kandydatów na posłów do Parlamentu Europejskiego oraz unieważnienia rejestracji listy (art. 222 § 4 w związku z art. 338 i art. 346 Kodeksu wyborczego);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/pkt_2",
+       "text": "protokoły rejestracji list kandydatów na posłów do Parlamentu Europejskiego (art. 345 § 1 Kodeksu wyborczego);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/pkt_3",
+       "text": "protokół wyników głosowania w okręgu wyborczym (art. 353 § 1 Kodeksu wyborczego).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "Uchwały komisji i protokoły, o których mowa w § 11, oraz – stosownie do decyzji przewodniczącego komisji – inne wydawane przez komisję dokumenty opatrywane są pieczęcią komisji.",
      "children": []
     },
     {
-     "type": "pkt",
-     "num": "3",
-     "path": "par_11/pkt_3",
-     "text": "protokół wyników głosowania w okręgu wyborczym (art. 353 § 1 Kodeksu wyborczego).",
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "Komisja, sprawując nadzór nad przestrzeganiem prawa wyborczego na obszarze okręgu wyborczego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/pkt_1",
+       "text": "występuje do Państwowej Komisji Wyborczej o uchylenie uchwał rejonowych komisji wyborczych podjętych z naruszeniem prawa lub niezgodnie z wytycznymi Państwowej Komisji Wyborczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/pkt_2",
+       "text": "rozpatruje skargi na działalność rejonowych komisji wyborczych, występuje o usunięcie stwierdzonych uchybień oraz zawiadamia pisemnie skarżącego o rozstrzygnięciu i czynnościach podjętych w związku ze skargą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "par_14/ust_1",
+       "text": "Komisja wykonuje zadania rejonowej komisji wyborczej na określonym przez Państwową Komisję Wyborczą obszarze danego okręgu wyborczego, w sposób i w trybie określonym w regulaminie rejonowych komisji wyborczych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "par_14/ust_2",
+       "text": "Przepis ust. 1 stosuje się odpowiednio do inspekcji powołanej przez komisję w związku z wykonywaniem zadań rejonowej komisji wyborczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "Przewodniczący wydaje członkom komisji dokument potwierdzający członkostwo i pełnioną w komisji funkcję. Dokument potwierdzający pełnienie funkcji przewodniczącego komisji wydaje zastępca przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "W przypadku konieczności zmiany w składzie komisji przewodniczący komisji niezwłocznie powiadamia o tym Państwową Komisję Wyborczą.",
      "children": []
     }
    ]
   },
-  {
-   "type": "par",
-   "num": "12",
-   "path": "par_12",
-   "text": "Uchwały komisji i protokoły, o których mowa w § 11, oraz – stosownie do decyzji przewodniczącego komisji – inne wydawane przez komisję dokumenty opatrywane są pieczęcią komisji.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "13",
-   "path": "par_13",
-   "text": "Komisja, sprawując nadzór nad przestrzeganiem prawa wyborczego na obszarze okręgu wyborczego:",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "par_13/pkt_1",
-     "text": "występuje do Państwowej Komisji Wyborczej o uchylenie uchwał rejonowych komisji wyborczych podjętych z naruszeniem prawa lub niezgodnie z wytycznymi Państwowej Komisji Wyborczej;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "par_13/pkt_2",
-     "text": "rozpatruje skargi na działalność rejonowych komisji wyborczych, występuje o usunięcie stwierdzonych uchybień oraz zawiadamia pisemnie skarżącego o rozstrzygnięciu i czynnościach podjętych w związku ze skargą.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "14",
-   "path": "par_14",
-   "text": "",
-   "children": [
-    {
-     "type": "ust",
-     "num": "1",
-     "path": "par_14/ust_1",
-     "text": "Komisja wykonuje zadania rejonowej komisji wyborczej na określonym przez Państwową Komisję Wyborczą obszarze danego okręgu wyborczego, w sposób i w trybie określonym w regulaminie rejonowych komisji wyborczych.",
-     "children": []
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "par_14/ust_2",
-     "text": "Przepis ust. 1 stosuje się odpowiednio do inspekcji powołanej przez komisję w związku z wykonywaniem zadań rejonowej komisji wyborczej.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "15",
-   "path": "par_15",
-   "text": "Przewodniczący wydaje członkom komisji dokument potwierdzający członkostwo i pełnioną w komisji funkcję. Dokument potwierdzający pełnienie funkcji przewodniczącego komisji wydaje zastępca przewodniczącego.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "16",
-   "path": "par_16",
-   "text": "W przypadku konieczności zmiany w składzie komisji przewodniczący komisji niezwłocznie powiadamia o tym Państwową Komisję Wyborczą.",
-   "children": []
-  }
- ],
- "annexes": [
   {
    "heading": "Załącznik nr 2",
    "body": [

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/1058",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 7 października 2019 r. w sprawie sprawozdań finansowych komitetów wyborczych uczestniczących w wyborach do Parlamentu Europejskiego przeprowadzonych w dniu 26 maja 2019 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1058/text.pdf",
  "body": [
   {
@@ -115,12 +115,12 @@
     {
      "type": "text",
      "text": "Przedłożone sprawozdania stanowią załączniki nr 1–26 do komunikatu, według załączonego wykazu."
-    },
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [

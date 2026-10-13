@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/673",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 20 lipca 2015 r. w sprawie zasad drukowania i trybu przekazywania kart do głosowania dla obwodów głosowania utworzonych za granicą w referendum ogólnokrajowym zarządzonym na dzień 6 września 2015 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/673/text.pdf",
  "body": [
   {
@@ -65,12 +65,11 @@
    "num": "4",
    "path": "par_4",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [],

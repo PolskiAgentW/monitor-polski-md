@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/374",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 15 kwietnia 2015 r. w sprawie zmian w składzie Okręgowej Komisji Wyborczej Nr 51 w Koszalinie powołanej w celu przeprowadzenia wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2015 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/374/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [],

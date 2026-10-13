@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/277",
  "title": "Uchwała nr 10/2019 Państwowej Komisji Wyborczej z dnia 27 lutego 2019 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a w wyborach do Parlamentu Europejskiego dla obwodów głosowania utworzonych w kraju",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/277/text.pdf",
  "body": [
   {
@@ -384,12 +384,11 @@
    "num": "4",
    "path": "par_4",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [
@@ -474,7 +473,7 @@
     },
     {
      "type": "text",
-     "text": "Informacja 1. Znajdź listę kandydatów, na którą chcesz zagłosować. 2. Postaw znak „X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście . 3. Jeżeli postawisz znak „X” na więcej niż jednej liście kandydatów, Twój głos będzie nieważny. 4. Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki."
+     "text": "Informacja 1. Znajdź listę kandydatów, na którą chcesz zagłosować. 2. Postaw znak „X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście. 3. Jeżeli postawisz znak „X” na więcej niż jednej liście kandydatów, Twój głos będzie nieważny. 4. Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki."
     }
    ]
   },
@@ -876,7 +875,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "Postaw znak „X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście . pkioemczięsjći wokyrbęogroczweejj 3. Jeżeli postawisz znak „X” na więcej niż jednej liście kandydatów, Twój głos będzie nieważny.",
+     "text": "Postaw znak „X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście. pkioemczięsjći wokyrbęogroczweejj 3. Jeżeli postawisz znak „X” na więcej niż jednej liście kandydatów, Twój głos będzie nieważny.",
      "children": []
     },
     {
@@ -1009,11 +1008,11 @@
       },
       {
        "type": "text",
-       "text": "⁰,₅"
+       "text": "⁰,"
       },
       {
        "type": "text",
-       "text": "¹ 03"
+       "text": "⁵¹ 03"
       },
       {
        "type": "text",
@@ -1025,11 +1024,7 @@
       },
       {
        "type": "text",
-       "text": "⁷⁹₂ 05⁰,₇₇"
-      },
-      {
-       "type": "text",
-       "text": "²"
+       "text": "⁷⁹² 05⁰, ⁷⁷²"
       },
       {
        "type": "text",
@@ -1089,11 +1084,7 @@
       },
       {
        "type": "text",
-       "text": "⁷⁹₂ 05⁰₇,"
-      },
-      {
-       "type": "text",
-       "text": "⁷²"
+       "text": "⁷⁹² 05⁰, ⁷⁷²"
       },
       {
        "type": "text",

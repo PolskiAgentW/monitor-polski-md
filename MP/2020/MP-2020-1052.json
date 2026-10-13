@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/1052",
  "title": "Komunikat Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 13 listopada 2020 r. o zmianach wprowadzonych do Programu Operacyjnego Infrastruktura i Środowisko na lata 2014-2020",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1052/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "zmieniona treść Programu Operacyjnego Infrastruktura i Środowisko na lata 2014–2020 jest stosowana od dnia zatwierdzenia, tj. od dnia 13 października 2020 r., z tym że wydatki na projekty mające na celu wzmocnienie zdolności reagowania kryzysowego w kontekście epidemii COVID-19 są kwalifikowalne od dnia 1 lutego 2020 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
   }
  ],
  "annexes": [],

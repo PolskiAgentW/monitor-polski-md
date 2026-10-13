@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/934",
  "title": "Obwieszczenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 5 października 2020 r. w sprawie wysokości stawek opłaty podwyższonej obowiązujących od dnia 1 stycznia 2021 r.",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/934/text.pdf",
  "body": [
   {
@@ -184,12 +184,12 @@
     {
      "type": "text",
      "text": "– są określone w załączniku do obwieszczenia."
-    },
-    {
-     "type": "text",
-     "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk"
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk"
   }
  ],
  "annexes": [
@@ -234,7 +234,7 @@
     },
     {
      "type": "text",
-     "text": "8 Izodryna (C H C ) 1331,51 zł 12 8 l6"
+     "text": "8 Izodryna (C₁₂H₈Cl6) 1331,51 zł"
     },
     {
      "type": "text",
@@ -462,7 +462,7 @@
     },
     {
      "type": "text",
-     "text": "67 Chemiczne zapotrzebowanie tlenu metodą dwuchromianową (ChZT Cr ) 16,77 zł"
+     "text": "67 Chemiczne zapotrzebowanie tlenu metodą dwuchromianową (ChZTCr) 16,77 zł"
     },
     {
      "type": "text",

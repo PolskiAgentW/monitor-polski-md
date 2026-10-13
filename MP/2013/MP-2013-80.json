@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/80",
  "title": "Obwieszczenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 14 lutego 2013 r. w sprawie ogłoszenia obowiązujących w 2013 r. stawek opłat lotniczych",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/80/text.pdf",
  "body": [
   {
@@ -25,7 +25,7 @@
    "text": "Na podstawie art. 26a ust. 4 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2012 r. poz. 933, z późn. zm.[^2]) ogłasza się wysokość stawek kwotowych opłat lotniczych, obowiązujących w 2013 r."
   },
   {
-   "type": "text",
+   "type": "signature",
    "text": "Minister Transportu, Budownictwa i Gospodarki Morskiej: wz. T. Jarmuziewicz"
   }
  ],
@@ -2161,17 +2161,25 @@
         },
         {
          "type": "text",
-         "text": "Wysokość stawki w zł Rodzaj czynności urzędowej Wielkość jednostki organizacyjnej²⁾ M Ś D 1. Uznanie certyfikatu AOC, certyfikatu AWC lub dokumentu równoważnego 519 1 556 4 667 2 . Uznanie certyfikatu AMO lub dokumentu równoważnego Opłata lotnicza jak w podczęści 3.6. ust. 1 pkt 3 3 . Uznanie certyfikatu CAMO lub dokumentu równoważnego Opłata lotnicza jak w podczęści 3.6. ust. 2 pkt 4 4 . Uznanie certyfikatu symulatora lotu oraz urządzeń treningowych 312 519 1 037"
-        },
-        {
-         "type": "text",
-         "text": "3.8. Certyfikacja i rejestracja lotnisk³⁾"
-        },
-        {
-         "type": "text",
-         "text": "Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie postępowania o wydanie promesy zezwolenia na założenie lotniska użytku publicznego i wydanie promesy:"
+         "text": "Wysokość stawki w zł Rodzaj czynności urzędowej Wielkość jednostki organizacyjnej²⁾ M Ś D 1. Uznanie certyfikatu AOC, certyfikatu AWC lub dokumentu równoważnego 519 1 556 4 667"
         }
        ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Uznanie certyfikatu AMO lub dokumentu równoważnego Opłata lotnicza jak w podczęści 3.6. ust. 1 pkt 3 3. Uznanie certyfikatu CAMO lub dokumentu równoważnego Opłata lotnicza jak w podczęści 3.6. ust. 2 pkt 4 4. Uznanie certyfikatu symulatora lotu oraz urządzeń treningowych 312 519 1 037",
+     "children": [
+      {
+       "type": "text",
+       "text": "3.8. Certyfikacja i rejestracja lotnisk³⁾"
+      },
+      {
+       "type": "text",
+       "text": "Rodzaj czynności urzędowej Wysokość opłaty lotniczej w zł 1 2 1. Przeprowadzenie postępowania o wydanie promesy zezwolenia na założenie lotniska użytku publicznego i wydanie promesy:"
       },
       {
        "type": "pkt",

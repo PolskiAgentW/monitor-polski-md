@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/281",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 7 kwietnia 2014 r. o komitetach wyborczych utworzonych w związku z wyborami do Parlamentu Europejskiego, zarządzonymi na dzień 25 maja 2014 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/281/text.pdf",
  "body": [
   {
@@ -497,12 +497,12 @@
     {
      "type": "text",
      "text": "– siedziba Komitetu: 60-391 Poznań, ul. Swoboda 2/4 lok. 1."
-    },
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [],

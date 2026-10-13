@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/123",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 20 stycznia 2014 r. w sprawie sposobu drukowania kart do głosowania oraz trybu ich przekazania wraz z nakładkami na karty do głosowania sporządzonymi w alfabecie Braille'a obwodowym komisjom wyborczym w wyborach do Parlamentu Europejskiego w 2014 roku",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/123/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem podjęcia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [

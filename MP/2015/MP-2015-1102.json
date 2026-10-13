@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/1102",
  "title": "Obwieszczenie Prezesa Głównego Urzędu Miar z dnia 19 października 2015 r. w sprawie wykazu dokumentów normatywnych Międzynarodowej Organizacji Metrologii Prawnej (OIML)",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1102/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "wykaz numerów i tytułów dokumentów normatywnych Międzynarodowej Organizacji Metrologii Prawnej (OIML), wycofanych przez Komisję Europejską w 2014 r.[^3], uprzednio uznanych za specyfikacje zharmonizowane, gdzie wskazano te postanowienia, których spełnienie pozwalało na domniemanie zgodności przyrządu pomiarowego z zasadniczymi wymaganiami dyrektywy 2004/22/WE (MID) wdrożonej rozporządzeniem Ministra Gospodarki z dnia 18 grudnia 2006 r. w sprawie zasadniczych wymagań dla przyrządów pomiarowych – wykaz określa załącznik nr 2 do obwieszczenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Głównego Urzędu Miar: J.M. Popowska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Głównego Urzędu Miar: J.M. Popowska"
   }
  ],
  "annexes": [
@@ -78,7 +77,7 @@
     },
     {
      "type": "text",
-     "text": "1.1. 5.3.1 Objęte, z wyjątkiem wartości Q min do Q t"
+     "text": "1.1. 5.3.1 Objęte, z wyjątkiem wartości Qmin do Qt"
     },
     {
      "type": "text",
@@ -148,7 +147,7 @@
      "type": "ust",
      "num": "2",
      "path": "ust_2",
-     "text": "5.6. Objęte, z wyjątkiem wartości Q min ≤ Q ≤ Q t",
+     "text": "5.6. Objęte, z wyjątkiem wartości Qmin ≤ Q ≤ Qt",
      "children": []
     },
     {
@@ -193,7 +192,7 @@
       },
       {
        "type": "text",
-       "text": "7.3. 5.11. Objęte, z wyjątkiem natężeń przepływu 6.7.2 poniżej Q min"
+       "text": "7.3. 5.11. Objęte, z wyjątkiem natężeń przepływu 6.7.2 poniżej Qmin"
       },
       {
        "type": "text",
@@ -405,11 +404,11 @@
       },
       {
        "type": "text",
-       "text": "1.1. 5.2. Objęte dla klasy 1,5, jeśli Q max /Q min ≥ 150"
+       "text": "1.1. 5.2. Objęte dla klasy 1,5, jeśli Qmax/Qmin ≥ 150"
       },
       {
        "type": "text",
-       "text": "Objęte dla klasy 1,0, jeśli Q max /Q min ≥ 20"
+       "text": "Objęte dla klasy 1,0, jeśli Qmax/Qmin ≥ 20"
       },
       {
        "type": "text",
@@ -445,7 +444,7 @@
       },
       {
        "type": "text",
-       "text": "2.2. 5.3.5 Objęte, jeśli obrana temperatura t sp mieści się w zakresie od 15°C do 25°C"
+       "text": "2.2. 5.3.5 Objęte, jeśli obrana temperatura tsp mieści się w zakresie od 15°C do 25°C"
       },
       {
        "type": "text",

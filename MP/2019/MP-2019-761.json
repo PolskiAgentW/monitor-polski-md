@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/761",
  "title": "Uchwała nr 78/2019 Państwowej Komisji Wyborczej z dnia 5 sierpnia 2019 r. w sprawie wzorów pieczęci okręgowych i obwodowych komisji wyborczych powoływanych w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/761/text.pdf",
  "body": [
   {
@@ -153,12 +153,11 @@
    "num": "5",
    "path": "par_5",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: S. Marciniak"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: S. Marciniak"
   }
  ],
  "annexes": [],

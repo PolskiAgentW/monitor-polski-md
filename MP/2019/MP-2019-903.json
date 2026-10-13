@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/903",
  "title": "Uchwała nr 251/2019 Państwowej Komisji Wyborczej z dnia 17 września 2019 r. zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/903/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [
@@ -418,7 +417,7 @@
     },
     {
      "type": "text",
-     "text": "Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, ⁰⁶ 175,00 mm Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, 258,00 mm⁰⁶ Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej m m₀₀, 340,00 mm⁰⁶ Nakładka na kartę do głosowania Sejmu Rzwe wczyybpooraspcho lidteoj Polskiej mm₀₀, ⁰⁶ 175,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 258,00 mm Nakładkaw n aw ykbaortręa cdho dgoło sowania Sejmu Rzeczypospolitej Polskiej mm₀₀, ⁰⁶ 340,00 mm 255,40 mm mm 235,40 mm⁰⁰,₀₆ Nakładka do Sejmu na kartę Rzeczypospolitej do głosowania Polskiej w wyborach mm (opis jak powyżej alfabetem Braillea) mm 94⁰³, 00 , 7,00 mm mm₀₆ mm⁰⁶,₈₃ ⁰⁰,⁷ 0 mm₀₀,₅ 0 7,90 mm mm mm mm 08 00 , 00 , 496 52 , 575 #01 #01 #01 75,50 mm 75,50 mm 75,50 mm 0 0 8 60,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, 175,00 mm⁰⁶ Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospoitej Polskiej m m₀₀, N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm"
+     "text": "Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, ⁰⁶ 175,00 mm Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, 258,00 mm⁰⁶ Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, 340,00 mm⁰⁶ N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 175,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 258,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 340,00 mm 255,40 mm mm 235,40 mm⁰⁰,₀₆ Nakładka do Sejmu na kartę Rzeczypospolitej do głosowania Polskiej w wyborach mm (opis jak powyżej alfabetem Braillea) mm 94⁰³, 00 , 7,00 mm mm₀₆ mm⁰⁶,₈₃ ⁰⁰,⁷ 0 mm₀₀,₅ 0 7,90 mm mm mm mm 08 00 , 00 , 496 52 , 575 #01 #01 #01 75,50 mm 75,50 mm 75,50 mm 0 0 8 60,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, 175,00 mm⁰⁶ N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho idg teoło j P o ls k ie j mm₀₀, N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm"
     }
    ]
   }

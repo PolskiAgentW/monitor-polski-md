@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/566",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 26 czerwca 2013 r. w sprawie wykazu dyplomów, świadectw i innych dokumentów wydanych w państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA)- stronach umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, potwierdzających posiadanie kwalifikacji do wykonywania w Rzeczypospolitej Polskiej zawodu farmaceuty przez obywateli tych państw",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/566/text.pdf",
  "body": [
   {
@@ -25,7 +25,7 @@
    "text": "Na podstawie art. 2b ust. 2 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2008 r. Nr 136, poz. 856, z 2010 r. Nr 107, poz. 679 oraz z 2011 r. Nr 113, poz. 657) ogłasza się wykaz dyplomów, świadectw i innych dokumentów wydanych w państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronach umowy o Europejskim Obszarze Gospodarczym i Konfederacji Szwajcarskiej, potwierdzających posiadanie kwalifikacji do wykonywania w Rzeczypospolitej Polskiej zawodu farmaceuty przez obywateli tych państw – stanowiący załącznik do obwieszczenia."
   },
   {
-   "type": "text",
+   "type": "signature",
    "text": "Minister Zdrowia: B.A. Arłukowicz"
   }
  ],
@@ -113,7 +113,7 @@
       },
       {
        "type": "text",
-       "text": "Lietuva Aukštojo mokslo diplomas, (Republika nurodantis suteiktą vaistininko U n i versitetas - Litewska) profesinę kvalifikaciją"
+       "text": "Lietuva Aukštojo mokslo diplomas, (Republika nurodantis suteiktą vaistininko Universitetas - Litewska) profesinę kvalifikaciją"
       },
       {
        "type": "text",

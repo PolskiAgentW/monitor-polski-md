@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/1123",
  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 6 listopada 2019 r. o wskazaniu wystaw dających pierwszeństwo do uzyskania prawa ochronnego albo prawa z rejestracji, w przypadku wystawiania na nich wzoru użytkowego albo wzoru przemysłowego",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1123/text.pdf",
  "body": [
   {
@@ -173,12 +173,11 @@
    "num": "21",
    "path": "pkt_21",
    "text": "XI Europejski Salon Nowych Technologii dla Muzeów, Konserwacji Zabytków i Dziedzictwa Narodowego EXPOSITIO organizowany w dniach od 1 do 3 czerwca 2020 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
   }
  ],
  "annexes": [],

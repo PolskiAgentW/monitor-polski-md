@@ -1,7 +1,7 @@
 {
  "eli": "MP/2022/551",
  "title": "Ogłoszenie Krajowej Rady Radiofonii i Telewizji z dnia 25 maja 2022 r. w sprawie stawek kwotowych opłat abonamentowych na rok kalendarzowy 2023",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/551/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "za używanie odbiornika telewizyjnego albo odbiornika radiofonicznego i telewizyjnego – 27,30 zł[^2].",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Krajowej Rady Radiofonii i Telewizji: W. Kołodziejski"
   }
  ],
  "annexes": [],

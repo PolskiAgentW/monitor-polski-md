@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/568",
  "title": "Obwieszczenie Ministra Zdrowia z dnia 26 czerwca 2013 r. w sprawie wykazu dyplomów, świadectw i innych dokumentów poświadczających formalne kwalifikacje w zakresie specjalizacji medycznych lekarza i lekarza dentysty będącego obywatelem państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA)- strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/568/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "pkt_3",
    "text": "wykaz dyplomów, świadectw i innych dokumentów poświadczających formalne kwalifikacje specjalisty w danej dziedzinie medycyny, odpowiadające specjalizacji II stopnia lub tytułowi specjalisty, uzyskiwanym przez lekarzy dentystów w Rzeczypospolitej Polskiej – stanowiący załącznik nr 3 do obwieszczenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Zdrowia: B.A. Arłukowicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: B.A. Arłukowicz"
   }
  ],
  "annexes": [

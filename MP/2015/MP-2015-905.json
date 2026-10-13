@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/905",
  "title": "Komunikat Ministra Środowiska z dnia 17 września 2015 r. w sprawie Krajowego Programu Ochrony Powietrza",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/905/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "Krajowy Program Ochrony Powietrza, o którym mowa w pkt 1, będzie stosowany od dnia 1 października 2015 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Środowiska: M.H. Grabowski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M.H. Grabowski"
   }
  ],
  "annexes": [],

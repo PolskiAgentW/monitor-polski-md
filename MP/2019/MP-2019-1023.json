@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/1023",
  "title": "Obwieszczenie Ministra Finansów, Inwestycji i Rozwoju z dnia 3 października 2019 r. w sprawie ogłoszenia obowiązujących w 2020 r. maksymalnych stawek opłat za usunięcie, przechowywanie i strzeżenie środka transportu lub towaru w wyznaczonym miejscu",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1023/text.pdf",
  "body": [
   {
@@ -152,14 +152,13 @@
      "num": "b",
      "path": "pkt_6/lit_b",
      "text": "za każdą dobę przechowywania i strzeżenia – 5 zł 20 gr za 1 m³ albo 1 zł 20 gr za 1 m² powierzchni magazynowej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński"
   }
  ],
  "annexes": [],

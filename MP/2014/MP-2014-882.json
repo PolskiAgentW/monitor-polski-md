@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/882",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 1 września 2014 r. w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/882/text.pdf",
  "body": [
   {
@@ -92,12 +92,11 @@
    "num": "10",
    "path": "par_10",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [

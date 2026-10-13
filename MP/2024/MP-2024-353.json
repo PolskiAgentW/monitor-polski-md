@@ -1,7 +1,7 @@
 {
  "eli": "MP/2024/353",
  "title": "Uchwała nr 232/2024 Krajowej Rady Sądownictwa z dnia 23 kwietnia 2024 r. w sprawie zmiany Regulaminu Krajowej Rady Sądownictwa",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/353/text.pdf",
  "body": [
   {
@@ -284,14 +284,13 @@
      "num": "2",
      "path": "par_2/ust_2",
      "text": "Uchwała podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Przewodniczący Krajowej Rady Sądownictwa: D. Pawełczyk-Woicka"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Krajowej Rady Sądownictwa: D. Pawełczyk-Woicka"
   }
  ],
  "annexes": [],

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/1083",
  "title": "Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 5 listopada 2020 r. w sprawie stawek karty podatkowej i kwoty, do której można wykonywać świadczenia przy prowadzeniu niektórych usług, z wyjątkiem świadczeń dla ludności, oraz kwartalnych stawek ryczałtu od przychodów proboszczów i wikariuszy, obowiązujących w 2021 r.",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1083/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "pkt_3",
    "text": "wysokość kwartalnych stawek ryczałtu od przychodów wikariuszy w załączniku nr 3 do obwieszczenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
   }
  ],
  "annexes": [
@@ -78,7 +77,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni a:"
+     "text": "Obj aśni e nia:"
     },
     {
      "type": "ust",
@@ -167,7 +166,7 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Przy prowadzeniu działalności wymienionej w lp. 70 − 76 dopuszczalne jest − poza świadczeniami dla ludności − wykonywanie świadczeń dla innych odbiorców w rozmiarze nieprzekraczającym kwoty 70 055 zł przychodu rocznie.",
+     "text": "Przy prowadzeniu działalności wymienionej w lp. 70−76 dopuszczalne jest − poza świadczeniami dla ludności − wykonywanie świadczeń dla innych odbiorców w rozmiarze nieprzekraczającym kwoty 70 055 zł przychodu rocznie.",
      "children": []
     },
     {
@@ -231,7 +230,7 @@
       },
       {
        "type": "text",
-       "text": "Ob j aś ni e ni a:"
+       "text": "Obj aśni e nia:"
       }
      ]
     },
@@ -818,7 +817,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni a:"
+     "text": "Obj aśni e nia:"
     },
     {
      "type": "ust",
@@ -904,7 +903,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni a:"
+     "text": "Obj aśni e nia:"
     },
     {
      "type": "ust",
@@ -955,7 +954,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni a:"
+     "text": "Obj aśni e nia:"
     },
     {
      "type": "ust",
@@ -1006,7 +1005,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni a:"
+     "text": "Obj aśni e nia:"
     },
     {
      "type": "ust",
@@ -1156,7 +1155,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Ob j aś ni e ni a:"
+       "text": "Obj aśni e nia:"
       }
      ]
     },
@@ -1232,7 +1231,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni a:"
+     "text": "Obj aśni e nia:"
     },
     {
      "type": "ust",
@@ -1272,7 +1271,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Ob j aś ni e ni a:"
+       "text": "Obj aśni e nia:"
       }
      ]
     },
@@ -1315,7 +1314,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni e:"
+     "text": "Obj aśni e nie:"
     },
     {
      "type": "text",
@@ -1332,7 +1331,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni a:"
+     "text": "Obj aśni e nia:"
     },
     {
      "type": "ust",
@@ -1371,7 +1370,7 @@
     },
     {
      "type": "text",
-     "text": "5 Usługi w zakresie wytwórczości ludowej i artystycznej 35–48 48–66 48–77 Ob j aś ni e ni a:"
+     "text": "5 Usługi w zakresie wytwórczości ludowej i artystycznej 35–48 48–66 48–77 Obj aśni e nia:"
     },
     {
      "type": "ust",
@@ -1417,7 +1416,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni e:"
+     "text": "Obj aśni e nie:"
     },
     {
      "type": "text",
@@ -1515,7 +1514,7 @@
     },
     {
      "type": "text",
-     "text": "Ob j aś ni e ni e:"
+     "text": "Obj aśni e nie:"
     },
     {
      "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/1192",
  "title": "Komunikat Ministra Kultury, Dziedzictwa Narodowego i Sportu z dnia 11 grudnia 2020 r. o podjęciu przez Radę Ministrów uchwały w sprawie ustanowienia programu wieloletniego \"Budowa siedziby Europejskiego Centrum Filmowego CAMERIMAGE\"",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1192/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Treść Programu została zamieszczona w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego pod adresem: http://bip.mkidn.gov.pl, w zakładce „Legislacja”, w części „Programy wieloletnie”.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Kultury, Dziedzictwa Narodowego i Sportu: P. Gliński"
   }
  ],
  "annexes": [],

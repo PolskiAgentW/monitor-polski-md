@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/124",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 25 lutego 2013 r. w sprawie wytycznych dotyczących stosowania uchwał Państwowej Komisji Wyborczej w wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej VIII kadencji",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/124/text.pdf",
  "body": [
   {
@@ -80,12 +80,11 @@
    "num": "4",
    "path": "par_4",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [],

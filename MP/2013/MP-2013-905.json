@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/905",
  "title": "Obwieszczenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 8 listopada 2013 r. w sprawie wysokości stawki opłaty paliwowej na rok 2014",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/905/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "pkt_3",
    "text": "134,44 zł za 1000 kg gazów i innych wyrobów, o których mowa w art. 37h ust. 4 pkt 4 i 5 ustawy.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak"
   }
  ],
  "annexes": [],

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/184",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 17 lutego 2014 r. zmieniająca uchwałę w sprawie należności pieniężnych przysługujących członkom komisji wyborczych i osobom powołanym w skład inspekcji w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej, Prezydenta Rzeczypospolitej Polskiej i Parlamentu Europejskiego oraz sposobu dokumentowania dni zwolnienia od pracy",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/184/text.pdf",
  "body": [
   {
@@ -70,12 +70,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [],

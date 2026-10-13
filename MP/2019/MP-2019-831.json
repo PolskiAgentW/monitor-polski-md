@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/831",
  "title": "Uchwała nr 84/2019 Państwowej Komisji Wyborczej z dnia 12 sierpnia 2019 r. w sprawie ustalenia wzorów potwierdzenia zgłoszenia listy kandydatów na posłów i protokołu rejestracji listy kandydatów na posłów oraz potwierdzenia zgłoszenia kandydata na senatora i protokołu rejestracji kandydata na senatora",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/831/text.pdf",
  "body": [
   {
@@ -72,12 +72,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [
@@ -696,7 +695,7 @@
       },
       {
        "type": "text",
-       "text": "Imię Drugie Nazwisko imię Zawód Miejsce Nazwa lub skrót nazwy partii politycznej, zamieszkania której kandydat jest członkiem Oznaczenie kandydata, który nie należy do żadnej partii politycznej, nazwą lub skrótem nazwy partii popierającej kandydata (w przypadku braku wpisać „brak oznaczenia”) Kandydat złożył oświadczenie, złożył informację, o której jest zwolniony z obowiązku (zaznaczyć o którym mowa mowa w art. 212 § 5 pkt 3 złożenia oświadczenia, o którym właściwe) w art. 212 § 5 pkt 3 Kodeksu wyborczego mowa w art. 212 § 5 pkt 3 Kodeksu Kodeksu wyborczego wyborczego"
+       "text": "Imię Drugie Nazwisko imię Zawód Miejsce zamieszkania Nazwa lub skrót nazwy partii politycznej, której kandydat jest członkiem Oznaczenie kandydata, który nie należy do żadnej partii politycznej, nazwą lub skrótem nazwy partii popierającej kandydata (w przypadku braku wpisać „brak oznaczenia”) Kandydat złożył oświadczenie, złożył informację, o której jest zwolniony z obowiązku (zaznaczyć o którym mowa mowa w art. 212 § 5 pkt 3 złożenia oświadczenia, o którym właściwe) w art. 212 § 5 pkt 3 Kodeksu wyborczego mowa w art. 212 § 5 pkt 3 Kodeksu Kodeksu wyborczego wyborczego"
       },
       {
        "type": "text",

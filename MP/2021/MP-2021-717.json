@@ -1,7 +1,7 @@
 {
  "eli": "MP/2021/717",
  "title": "Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 27 lipca 2021 r. w sprawie maksymalnych opłat za usunięcie i przechowywanie statków lub innych obiektów pływających na rok 2022",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/717/text.pdf",
  "body": [
   {
@@ -57,12 +57,11 @@
    "num": "5",
    "path": "pkt_5",
    "text": "usunięcia statku o długości kadłuba powyżej 20 m – 238 zł oraz za każdą dobę jego przechowywania – 180 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
   }
  ],
  "annexes": [],

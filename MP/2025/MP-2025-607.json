@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/607",
  "title": "Uchwała nr 12/2025 Zarządu Narodowego Banku Polskiego z dnia 16 czerwca 2025 r. zmieniająca uchwałę w sprawie warunków i zasad sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/607/text.pdf",
  "body": [
   {
@@ -151,12 +151,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem § 1 pkt 2 lit. a, który wchodzi w życie z dniem 22 lipca 2025 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: A. Glapiński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: A. Glapiński"
   }
  ],
  "annexes": [
@@ -169,7 +168,7 @@
     },
     {
      "type": "text",
-     "text": "PROTOKÓŁ REKLAMACYJNY NR ……."
+     "text": "PROTOKÓŁ REKLAMACYJNY NR……."
     },
     {
      "type": "text",

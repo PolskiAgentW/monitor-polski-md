@@ -1,7 +1,7 @@
 {
  "eli": "MP/2018/5",
  "title": "Komunikat Prezesa Państwowej Agencji Atomistyki z dnia 14 grudnia 2017 r. w sprawie sytuacji radiacyjnej kraju w III kwartale 2017 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/5/text.pdf",
  "body": [
   {
@@ -55,12 +55,12 @@
     {
      "type": "text",
      "text": "Powyższe dane wskazują, że narażenie osób z ogółu ludności kraju powodowane obecnymi w środowisku i w żywności sztucznymi izotopami promieniotwórczymi utrzymuje się na bardzo niskim poziomie stanowiącym jedynie kilka procent wartości dawki granicznej dla ogółu ludności wynoszącej 1 mSv w ciągu roku."
-    },
-    {
-     "type": "text",
-     "text": "p.o. Prezes Państwowej Agencji Atomistyki: A. Przybycin"
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "p.o. Prezes Państwowej Agencji Atomistyki: A. Przybycin"
   }
  ],
  "annexes": [],

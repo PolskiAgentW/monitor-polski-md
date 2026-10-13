@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/711",
  "title": "Obwieszczenie Ministra Środowiska z dnia 11 sierpnia 2014 r. w sprawie maksymalnych stawek opłat produktowych dla poszczególnych produktów na rok 2015",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/711/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "pkt_3",
    "text": "dla produktów wymienionych w poz. 5 w załączniku nr 4a do ustawy, o której mowa w pkt 1 – 10,51 zł za 1 kg.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Środowiska: M.H. Grabowski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M.H. Grabowski"
   }
  ],
  "annexes": [],

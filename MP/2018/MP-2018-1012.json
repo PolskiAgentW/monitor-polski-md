@@ -1,7 +1,7 @@
 {
  "eli": "MP/2018/1012",
  "title": "Obwieszczenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 12 października 2018 r. w sprawie wysokości stawek należności za korzystanie ze śródlądowych dróg wodnych i ich odcinków oraz śluz i pochylni obowiązujących od dnia 1 stycznia 2019 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/1012/text.pdf",
  "body": [
   {
@@ -196,18 +196,17 @@
          "num": "2",
          "path": "par_2/pkt_4/lit_c/tir_2",
          "text": "w godzinach od 19⁰⁰ do 7⁰⁰ wynosi 8,40 zł.",
-         "children": [
-          {
-           "type": "text",
-           "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk"
-          }
-         ]
+         "children": []
         }
        ]
       }
      ]
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk"
   }
  ],
  "annexes": [],

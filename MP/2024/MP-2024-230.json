@@ -1,7 +1,7 @@
 {
  "eli": "MP/2024/230",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 24 marca 2024 r. w sprawie wysokości kwot świadczeń przysługujących rodzinie zastępczej i prowadzącemu rodzinny dom dziecka, wysokości pomocy dla osoby usamodzielnianej oraz wysokości kwot określonych w umowach",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/230/text.pdf",
  "body": [
   {
@@ -107,12 +107,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "określonej w umowach, o której mowa w art. 54 ust. 3 pkt 9 i 12a, art. 62 ust. 2 pkt 7, 11 i 14 oraz w art. 75 ust. 2 pkt 6 ustawy – podlega waloryzacji o nie mniej niż 11,4 %.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk"
   }
  ],
  "annexes": [],

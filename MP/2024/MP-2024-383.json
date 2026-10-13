@@ -1,7 +1,7 @@
 {
  "eli": "MP/2024/383",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 20 maja 2024 r. w sprawie wysokości kwot premii i kosztów przejazdu",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/383/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "maksymalnej kwoty ryczałtu z tytułu kosztów przejazdu, o których mowa w art. 66l ust. 6 pkt 1 powołanej ustawy, wynosi 889,40 zł, a maksymalnej kwoty miesięcznej transzy – 148,70 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk"
   }
  ],
  "annexes": [],

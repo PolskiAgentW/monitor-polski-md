@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/1126",
  "title": "Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 26 listopada 2020 r. w sprawie stawek akcyzy na paliwa silnikowe w roku 2021",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/1126/text.pdf",
  "body": [
   {
@@ -87,12 +87,11 @@
    "num": "5",
    "path": "pkt_5",
    "text": "pozostałych paliw silnikowych – 1771,00 zł/1000 litrów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
   }
  ],
  "annexes": [],

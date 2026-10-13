@@ -1,7 +1,7 @@
 {
  "eli": "MP/2018/872",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 30 lipca 2018 r. w sprawie ustalenia wzorów protokołów sporządzanych przez obwodowe komisje wyborcze w wyborach do rad gmin, rad powiatów, sejmików województw i rad dzielnic m.st. Warszawy oraz wyborach wójtów, burmistrzów i prezydentów miast",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/872/text.pdf",
  "body": [
   {
@@ -106,12 +106,11 @@
    "num": "12",
    "path": "par_12",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [

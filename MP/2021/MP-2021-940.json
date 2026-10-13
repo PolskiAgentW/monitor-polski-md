@@ -1,7 +1,7 @@
 {
  "eli": "MP/2021/940",
  "title": "Obwieszczenie Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 13 października 2021 r. w sprawie ogłoszenia listy krajów i terytoriów wskazanych w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej, które nie zostały ujęte w wykazie krajów i terytoriów stosujących szkodliwą konkurencję podatkową wydawanym na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych, oraz dnia przyjęcia tego wykazu przez Radę Unii Europejskiej",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/940/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Unijny wykaz jurysdykcji niechętnych współpracy do celów podatkowych został przyjęty przez Radę Unii Europejskiej w dniu 5 października 2021 r. i jest dostępny pod linkiem: https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/ ?uri=CELEX:52021XG1012(07)&from=PL.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów, Funduszy i Polityki Regionalnej: T. Kościński"
   }
  ],
  "annexes": [

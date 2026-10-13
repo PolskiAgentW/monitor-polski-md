@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/488",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 15 kwietnia 2013 r. w sprawie informacji finansowych partii politycznych o otrzymanej subwencji oraz o poniesionych z subwencji wydatkach w 2012 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/488/text.pdf",
  "body": [
   {
@@ -33,43 +33,48 @@
    "text": "Przedłożone informacje finansowe stanowią załączniki nr 1–7 do niniejszego komunikatu, według załączonego wykazu, w kolejności numerów ewidencyjnych partii politycznych (EwP)."
   },
   {
-   "type": "text",
+   "type": "signature",
    "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-  },
-  {
-   "type": "text",
-   "text": "WYKAZ ZAŁĄCZNIKÓW ZAWIERAJĄCYCH INFORMACJE FINANSOWE PARTII POLITYCZNYCH"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 1 Partia Demokratyczna – demokraci.pl (EwP 12)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 2 Polskie Stronnictwo Ludowe (EwP 34)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 3 Unia Pracy (EwP 62)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 4 Sojusz Lewicy Demokratycznej (EwP 87)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 5 Prawo i Sprawiedliwość (EwP 124)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 6 Platforma Obywatelska Rzeczypospolitej Polskiej (EwP 131)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 7 Ruch Palikota (EwP 313)"
   }
  ],
  "annexes": [
+  {
+   "heading": "Załączniki do komunikatu Państwowej Komisji Wyborczej z dnia 15 kwietnia 2013 r. (poz. 488)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ ZAŁĄCZNIKÓW ZAWIERAJĄCYCH INFORMACJE FINANSOWE PARTII POLITYCZNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1 Partia Demokratyczna – demokraci.pl (EwP 12)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 2 Polskie Stronnictwo Ludowe (EwP 34)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 3 Unia Pracy (EwP 62)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 4 Sojusz Lewicy Demokratycznej (EwP 87)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 5 Prawo i Sprawiedliwość (EwP 124)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 6 Platforma Obywatelska Rzeczypospolitej Polskiej (EwP 131)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 7 Ruch Palikota (EwP 313)"
+    }
+   ]
+  },
   {
    "heading": "Załącznik nr 1",
    "body": [
@@ -4766,10 +4771,6 @@
     {
      "type": "ocr",
      "text": "Bikłocha 08 , 605 354 631"
-    },
-    {
-     "type": "text",
-     "text": "Załączniki do komunikatu Państwowej Komisji Wyborczej z dnia 15 kwietnia 2013 r. (poz. 488)"
     }
    ]
   }

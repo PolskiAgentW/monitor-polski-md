@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/648",
  "title": "Obwieszczenie Ministra Środowiska z dnia 25 lipca 2014 r. w sprawie wysokości stawek kar za przekroczenie warunków wprowadzania ścieków do wód lub do ziemi oraz za przekroczenie dopuszczalnego poziomu hałasu, na rok 2015",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/648/text.pdf",
  "body": [
   {
@@ -111,12 +111,11 @@
    "num": "9",
    "path": "pkt_9",
    "text": "jednostkowe stawki kar za przekroczenie dopuszczalnego poziomu hałasu, zawarte w załączniku nr 5 do obwieszczenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Środowiska: M.H. Grabowski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M.H. Grabowski"
   }
  ],
  "annexes": [
@@ -442,7 +441,7 @@
       },
       {
        "type": "text",
-       "text": "67 Chemiczne zapotrzebowanie tlenu metodą dwuchromianową (ChZT Cr ) 15,81"
+       "text": "67 Chemiczne zapotrzebowanie tlenu metodą dwuchromianową (ChZTCr) 15,81"
       },
       {
        "type": "text",
@@ -479,6 +478,10 @@
       {
        "type": "text",
        "text": "76 Suma chlorków i siarczanów (Cl+SO₄) 4,87"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 3"
       },
       {
        "type": "text",
@@ -568,6 +571,6 @@
  ],
  "footnotes": {
   "1": "Minister Środowiska kieruje działem administracji rządowej – środowisko, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 18 listopada 2011 r. w sprawie szczegółowego zakresu działania Ministra Środowiska (Dz. U. Nr 248, poz. 1493 i Nr 284, poz. 1671).",
-  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457 i 822. Załącznik nr 3"
+  "2": "Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 1238 oraz z 2014 r. poz. 40, 47, 457 i 822."
  }
 }

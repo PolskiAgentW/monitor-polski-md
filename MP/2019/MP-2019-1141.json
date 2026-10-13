@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/1141",
  "title": "Obwieszczenie Ministra Finansów, Inwestycji i Rozwoju z dnia 5 listopada 2019 r. w sprawie stawek karty podatkowej i kwoty, do której można wykonywać świadczenia przy prowadzeniu niektórych usług, z wyjątkiem świadczeń dla ludności, oraz kwartalnych stawek ryczałtu od przychodów proboszczów i wikariuszy, obowiązujących w 2020 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1141/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "pkt_3",
    "text": "wysokość kwartalnych stawek ryczałtu od przychodów wikariuszy w załączniku nr 3 do obwieszczenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński"
   }
  ],
  "annexes": [
@@ -171,7 +170,7 @@
      "type": "ust",
      "num": "4",
      "path": "ust_4",
-     "text": "Przy prowadzeniu działalności wymienionej w lp. 70 − 76 dopuszczalne jest − poza świadczeniami dla ludności − wykonywanie świadczeń dla innych odbiorców w rozmiarze nieprzekraczającym kwoty 67 621 zł przychodu rocznie.",
+     "text": "Przy prowadzeniu działalności wymienionej w lp. 70−76 dopuszczalne jest − poza świadczeniami dla ludności − wykonywanie świadczeń dla innych odbiorców w rozmiarze nieprzekraczającym kwoty 67 621 zł przychodu rocznie.",
      "children": []
     },
     {

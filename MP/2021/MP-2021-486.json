@@ -1,7 +1,7 @@
 {
  "eli": "MP/2021/486",
  "title": "Obwieszczenie Ministra Rozwoju, Pracy i Technologii z dnia 19 maja 2021 r. w sprawie wysokości zasiłku dla bezrobotnych",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/486/text.pdf",
  "body": [
   {
@@ -51,12 +51,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "do dnia 31 grudnia 2009 r., wynosi 730,90 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rozwoju, Pracy i Technologii: J. Gowin"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rozwoju, Pracy i Technologii: J. Gowin"
   }
  ],
  "annexes": [],

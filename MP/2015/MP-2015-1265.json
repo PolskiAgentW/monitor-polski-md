@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/1265",
  "title": "Uchwała Zgromadzenia Ogólnego Sędziów Sądu Najwyższego z dnia 24 listopada 2015 r. zmieniająca uchwałę Zgromadzenia Ogólnego Sędziów Sądu Najwyższego z dnia 1 grudnia 2003 r. w sprawie regulaminu Sądu Najwyższego",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/1265/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Zgromadzenia Ogólnego Sędziów Sądu Najwyższego: M. Gersdorf"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Zgromadzenia Ogólnego Sędziów Sądu Najwyższego: M. Gersdorf"
   }
  ],
  "annexes": [],

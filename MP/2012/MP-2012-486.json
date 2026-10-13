@@ -1,7 +1,7 @@
 {
  "eli": "MP/2012/486",
  "title": "Komunikat Nr 07/2012/(DOKE) Prezesa Zarządu Banku Gospodarstwa Krajowego z dnia 10 lipca 2012 r. w sprawie stałych stóp procentowych - stóp CIRR (stóp referencyjnych oprocentowania rynkowego) dla poszczególnych walut, ogłaszanych okresowo przez Sekretariat Organizacji Współpracy Gospodarczej i Rozwoju (OECD)",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/486/text.pdf",
  "body": [
   {
@@ -95,12 +95,12 @@
     {
      "type": "text",
      "text": "> 8,5 lat 2,59 1 2 3 4 forint węgierski HUF 9,15 ≤ 5 lat 1,31 frank szwajcarski > 5 do 8,5 lat CHF 1,07 > 8,5 lat 1,39 ≤ 5 lat 1,39 funt brytyjski > 5 do 8,5 lat GBP 1,80 > 8,5 lat 2,23 ≤ 5 lat 1,10 jen japoński > 5 do 8,5 lat JPY 1,22 > 8,5 lat 1,44 korona czeska CZK 3,00 ≤ 5 lat 1,11 korona duńska > 5 do 8,5 lat DKK 1,55 > 8,5 lat 1,98 korona norweska NOK 2,51 ≤ 5 lat 1,94 korona szwedzka > 5 do 8,5 lat SEK 2,08 > 8,5 lat 2,21 won koreański KRW 4,41 złoty polski PLN 5,87"
-    },
-    {
-     "type": "text",
-     "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: wz. W. Wierzbicki"
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Zarządu Banku Gospodarstwa Krajowego: wz. W. Wierzbicki"
   }
  ],
  "annexes": [],

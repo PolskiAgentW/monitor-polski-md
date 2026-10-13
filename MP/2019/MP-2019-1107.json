@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/1107",
  "title": "Obwieszczenie Ministra Finansów, Inwestycji i Rozwoju z dnia 4 listopada 2019 r. w sprawie stawek akcyzy na paliwa silnikowe w roku 2020",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1107/text.pdf",
  "body": [
   {
@@ -87,12 +87,11 @@
    "num": "5",
    "path": "pkt_5",
    "text": "pozostałych paliw silnikowych – 1794,00 zł/1000 litrów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów, Inwestycji i Rozwoju: J. Kwieciński"
   }
  ],
  "annexes": [],

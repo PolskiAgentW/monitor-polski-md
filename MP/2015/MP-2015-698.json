@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/698",
  "title": "Uchwała Państwowej Komisji Wyborczej dnia 20 lipca 2015 r. w sprawie wzorów potwierdzenia zgłoszenia listy kandydatów na posłów i protokołu rejestracji listy kandydatów na posłów oraz potwierdzenia zgłoszenia kandydata na senatora i protokołu rejestracji kandydata na senatora",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/698/text.pdf",
  "body": [
   {
@@ -72,12 +72,11 @@
    "num": "3",
    "path": "par_3",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [
@@ -591,7 +590,7 @@
     },
     {
      "type": "text",
-     "text": "Imię Drugie Nazwisko imię Zawód Miejsce Nazwa lub skrót nazwy partii politycznej, zamieszkania której kandydat jest członkiem Oznaczenie kandydata, który nie należy do żadnej partii politycznej, nazwą lub skrótem nazwy partii popierającej kandydata *) Kandydat złożył oświadczenie, o którym mowa w art. 212 § 5 pkt 3 Kodeksu *) Kandydat złożył informację, o której mowa w art. 212 § 5 pkt 3 Kodeksu *) Kandydat jest zwolniony z obowiązku złożenia oświadczenia, o którym mowa w art. 212 § 5 pkt 3 Kodeksu, ze względu na to, że jest urodzony po dniu 31 lipca 1972 r. *)"
+     "text": "Imię Drugie Nazwisko imię Zawód Miejsce zamieszkania Nazwa lub skrót nazwy partii politycznej, której kandydat jest członkiem Oznaczenie kandydata, który nie należy do żadnej partii politycznej, nazwą lub skrótem nazwy partii popierającej kandydata *) Kandydat złożył oświadczenie, o którym mowa w art. 212 § 5 pkt 3 Kodeksu *) Kandydat złożył informację, o której mowa w art. 212 § 5 pkt 3 Kodeksu *) Kandydat jest zwolniony z obowiązku złożenia oświadczenia, o którym mowa w art. 212 § 5 pkt 3 Kodeksu, ze względu na to, że jest urodzony po dniu 31 lipca 1972 r. *)"
     },
     {
      "type": "text",
@@ -673,14 +672,21 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "zgłoszona lista kandydatów zawiera nie mniej niż 35% kandydatów – kobiet i nie mniej niż 35% kandydatów – mężczyzn ............................................................... (podpis osoby dokonującej zgłoszenia) (pieczęć komisji) *) Niepotrzebne skreślić. Wraz ze zgłoszeniem pełnomocnik wniósł *) – nie wniósł *) o oznaczenie kandydatów, którzy nie należą do żadnej partii politycznej, nazwą lub skrótem nazwy partii popierającej kandydata (art. 212 § 3 Kodeksu) (pieczęć komisji) imię Zawód Miejsce",
+     "text": "zgłoszona lista kandydatów zawiera nie mniej niż 35% kandydatów – kobiet i nie mniej niż 35% kandydatów – mężczyzn ............................................................... (podpis osoby dokonującej zgłoszenia) (pieczęć komisji) *) Niepotrzebne skreślić. Wraz ze zgłoszeniem pełnomocnik wniósł *) – nie wniósł *) o oznaczenie kandydatów, którzy nie należą do żadnej partii politycznej, nazwą lub skrótem nazwy partii popierającej kandydata (art. 212 § 3 Kodeksu) (pieczęć komisji) imię Zawód Miejsce zamieszkania",
      "children": []
     },
     {
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "kandydat jest oznaczony nazwą partii politycznej, której zamieszkania jest członkiem *) Nazwa partii politycznej 3) w zgłoszeniu umieszczono informację o tym, że kandydat nie należy do partii politycznej *)",
+     "text": "kandydat jest oznaczony nazwą partii politycznej, której jest członkiem *) Nazwa partii politycznej",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "w zgłoszeniu umieszczono informację o tym, że kandydat nie należy do partii politycznej *)",
      "children": []
     },
     {

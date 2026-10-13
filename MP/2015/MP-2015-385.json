@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/385",
  "title": "Obwieszczenie Ministra Środowiska z dnia 16 kwietnia 2015 r. w sprawie średniej krajowej dochodów gmin i powiatów w 2014 r. przypadających na jednego mieszkańca",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/385/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "dla powiatów – 4,14 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Środowiska: M.H. Grabowski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M.H. Grabowski"
   }
  ],
  "annexes": [],

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2022/1125",
  "title": "Komunikat Ministra Funduszy i Polityki Regionalnej z dnia 16 listopada 2022 r. o podjęciu przez Komisję Europejską decyzji zatwierdzającej program współpracy Interreg Polska-Słowacja 2021-2027",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2022/1125/text.pdf",
  "body": [
   {
@@ -43,12 +43,11 @@
    "num": "3",
    "path": "pkt_3",
    "text": "treść programu, o którym mowa w pkt 1, została zamieszczona na stronie internetowej administrowanej przez Ministerstwo Funduszy i Polityki Regionalnej: https://www.ewt.gov.pl w zakładce: Poznaj programy Interreg 2021–2027/ Program Interreg Polska-Słowacja 2021–2027 oraz na portalu: https://www.funduszeeuropejskie.gov.pl w zakładce: Poznaj Fundusze Europejskie 2021–2027/Współpraca Terytorialna (Interreg)/Zobacz szczegóły nowych programów/ Program Interreg Polska-Słowacja 2021–2027.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Funduszy i Polityki Regionalnej: wz. M. Jarosińska-Jedynak"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Funduszy i Polityki Regionalnej: wz. M. Jarosińska-Jedynak"
   }
  ],
  "annexes": [],

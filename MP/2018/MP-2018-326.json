@@ -1,7 +1,7 @@
 {
  "eli": "MP/2018/326",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 23 marca 2018 r. w sprawie wysokości kwot świadczeń przysługujących rodzinie zastępczej i prowadzącemu rodzinny dom dziecka oraz wysokości pomocy dla osoby usamodzielnianej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2018/326/text.pdf",
  "body": [
   {
@@ -92,12 +92,11 @@
    "num": "10",
    "path": "pkt_10",
    "text": "art. 150 ust. 1 ustawy – wynosi nie mniej niż 1577 zł, a w przypadku osoby legitymującej się orzeczeniem o umiarkowanym albo znacznym stopniu niepełnosprawności wynosi nie mniej niż 3154 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rodziny, Pracy i Polityki Społecznej: E. Rafalska"
   }
  ],
  "annexes": [],

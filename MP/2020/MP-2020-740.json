@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/740",
  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 13 sierpnia 2020 r. o wskazaniu wystaw dających pierwszeństwo do uzyskania prawa ochronnego albo prawa z rejestracji, w przypadku wystawiania na nich wzoru użytkowego albo wzoru przemysłowego",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/740/text.pdf",
  "body": [
   {
@@ -171,12 +171,11 @@
    "num": "15",
    "path": "pkt_15",
    "text": "Festiwal Sztuki i Przedmiotów Artystycznych, organizowany w dniach 4–6 grudnia 2020 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
   }
  ],
  "annexes": [],

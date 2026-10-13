@@ -1,7 +1,7 @@
 {
  "eli": "MP/2021/619",
  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 29 czerwca 2021 r. o wskazaniu wystaw dających pierwszeństwo do uzyskania prawa ochronnego albo prawa z rejestracji, w przypadku wystawiania na nich wzoru użytkowego albo wzoru przemysłowego",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2021/619/text.pdf",
  "body": [
   {
@@ -75,12 +75,11 @@
    "num": "7",
    "path": "pkt_7",
    "text": "XII Międzynarodowe Targi Zabawek i Artykułów dla Matki i Dziecka KIDS' TIME, organizowane w dniach 28–30 września 2021 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
   }
  ],
  "annexes": [],

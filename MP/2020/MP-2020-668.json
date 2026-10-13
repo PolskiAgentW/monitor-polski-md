@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/668",
  "title": "Uchwała nr 33/2020 Zarządu Narodowego Banku Polskiego z dnia 21 lipca 2020 r. zmieniająca uchwałę w sprawie warunków i zasad sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/668/text.pdf",
  "body": [
   {
@@ -166,12 +166,12 @@
         },
         {
          "type": "text",
-         "text": "L i – oznacza liczbę danych wartości kolekcjonerskich przyznanych i-temu Dystrybutorowi po redukcji, z zaokrągleniem w dół do części całkowitych,",
+         "text": "Li – oznacza liczbę danych wartości kolekcjonerskich przyznanych i-temu Dystrybutorowi po redukcji, z zaokrągleniem w dół do części całkowitych,",
          "quoted": true
         },
         {
          "type": "text",
-         "text": "n i – oznacza liczbę danych wartości kolekcjonerskich, na które i-ty Dystrybutor złożył zapotrzebowanie,",
+         "text": "ni – oznacza liczbę danych wartości kolekcjonerskich, na które i-ty Dystrybutor złożył zapotrzebowanie,",
          "quoted": true
         },
         {
@@ -186,7 +186,7 @@
         },
         {
          "type": "text",
-         "text": "N i – oznacza transzę danych wartości kolekcjonerskich, przeznaczoną do sprzedaży dla Dystrybutorów;",
+         "text": "Ni – oznacza transzę danych wartości kolekcjonerskich, przeznaczoną do sprzedaży dla Dystrybutorów;",
          "quoted": true
         },
         {
@@ -231,12 +231,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że § 1 pkt 1 lit. a i pkt 2 lit. a, mają zastosowanie po raz pierwszy do zapotrzebowań rocznych dotyczących wartości kolekcjonerskich emitowanych od 2021 roku.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: A. Glapiński"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: A. Glapiński"
   }
  ],
  "annexes": [],

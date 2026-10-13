@@ -1,7 +1,7 @@
 {
  "eli": "MP/2013/1011",
  "title": "Uchwała Zarządu Narodowego Banku Polskiego z dnia 5 grudnia 2013 r. w sprawie warunków i zasad sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2013/1011/text.pdf",
  "body": [
   {
@@ -464,7 +464,11 @@
        "children": [
         {
          "type": "text",
-         "text": "n L = i × N i i = H i ∑ n i = 1 i"
+         "text": "ni Li = × Ni i = H ∑ ni"
+        },
+        {
+         "type": "text",
+         "text": "i = 1"
         },
         {
          "type": "text",
@@ -472,11 +476,11 @@
         },
         {
          "type": "text",
-         "text": "L – oznacza liczbę danych monet lub banknotów kolekcjonerskich przyznanych i-temu Dystrybutorowi po i redukcji, z zaokrągleniem w dół do części całkowitych,"
+         "text": "Li – oznacza liczbę danych monet lub banknotów kolekcjonerskich przyznanych i-temu Dystrybutorowi po redukcji, z zaokrągleniem w dół do części całkowitych,"
         },
         {
          "type": "text",
-         "text": "n – oznacza liczbę danych monet lub banknotów kolekcjonerskich, na które i-ty Dystrybutor złożył zamói wienie,"
+         "text": "ni – oznacza liczbę danych monet lub banknotów kolekcjonerskich, na które i-ty Dystrybutor złożył zamówienie,"
         },
         {
          "type": "text",
@@ -484,11 +488,11 @@
         },
         {
          "type": "text",
-         "text": "i = H ∑ n – oznacza sumaryczną liczbę danych monet lub banknotów kolekcjonerskich, na które wszyscy Dystrybui = 1 i torzy złożyli zamówienia,"
+         "text": "i = H ∑ ni – oznacza sumaryczną liczbę danych monet lub banknotów kolekcjonerskich, na które wszyscy Dystrybui = 1 torzy złożyli zamówienia,"
         },
         {
          "type": "text",
-         "text": "N – oznacza transzę danych monet lub banknotów kolekcjonerskich, przeznaczoną do sprzedaży dla Dystryi butorów;"
+         "text": "Ni – oznacza transzę danych monet lub banknotów kolekcjonerskich, przeznaczoną do sprzedaży dla Dystrybutorów;"
         }
        ]
       },
@@ -595,7 +599,7 @@
          "type": "lit",
          "num": "a",
          "path": "par_10/ust_1/pkt_1/lit_a",
-         "text": "5 5% tej wartości – dla monet o nominale 50 zł,",
+         "text": "55% tej wartości – dla monet o nominale 50 zł,",
          "children": []
         },
         {
@@ -820,12 +824,11 @@
    "num": "17",
    "path": "par_17",
    "text": "Uchwała wchodzi w życie z dniem 1 marca 2014 r., z wyjątkiem § 5 ust. 2 i § 15, które wchodzą w życie z dniem ogłoszenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: wz. P. Wiesiołek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Zarządu Narodowego Banku Polskiego: wz. P. Wiesiołek"
   }
  ],
  "annexes": [

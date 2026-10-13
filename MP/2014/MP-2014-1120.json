@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/1120",
  "title": "Obwieszczenie Ministra Środowiska z dnia 20 listopada 2014 r. w sprawie wysokości stawek należności za korzystanie ze śródlądowych dróg wodnych oraz śluz i pochylni na rok 2015",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/1120/text.pdf",
  "body": [
   {
@@ -164,16 +164,15 @@
        "num": "2",
        "path": "pkt_5/lit_c/tir_2",
        "text": "w godzinach od 16⁰⁰ do 7⁰⁰ – 8,16 zł.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Minister Środowiska: M.H. Grabowski"
-        }
-       ]
+       "children": []
       }
      ]
     }
    ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M.H. Grabowski"
   }
  ],
  "annexes": [],

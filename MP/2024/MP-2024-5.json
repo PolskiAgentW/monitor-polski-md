@@ -1,7 +1,7 @@
 {
  "eli": "MP/2024/5",
  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 21 grudnia 2023 r. o wskazaniu wystaw dających pierwszeństwo do uzyskania prawa ochronnego albo prawa z rejestracji, w przypadku wystawiania na nich wzoru użytkowego albo wzoru przemysłowego",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/5/text.pdf",
  "body": [
   {
@@ -152,12 +152,11 @@
    "num": "18",
    "path": "pkt_18",
    "text": "SUBCONTRACTING – Targi Kooperacji Przemysłowej, organizowane w dniach 4–7 czerwca 2024 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
   }
  ],
  "annexes": [],

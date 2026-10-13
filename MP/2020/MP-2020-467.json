@@ -1,7 +1,7 @@
 {
  "eli": "MP/2020/467",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 22 maja 2020 r. w sprawie wysokości zasiłku dla bezrobotnych",
- "converter": "eli2md 0.6.25.1",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2020/467/text.pdf",
  "body": [
   {
@@ -51,12 +51,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "do dnia 31 grudnia 2009 r., wynosi 706,80 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rodziny, Pracy i Polityki Społecznej: M. Maląg"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rodziny, Pracy i Polityki Społecznej: M. Maląg"
   }
  ],
  "annexes": [],

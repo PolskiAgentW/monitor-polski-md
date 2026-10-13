@@ -1,7 +1,7 @@
 {
  "eli": "MP/2015/48",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 16 grudnia 2014 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Rządowemu Centrum Legislacji",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2015/48/text.pdf",
  "body": [
   {
@@ -159,47 +159,48 @@
   {
    "type": "signature",
    "text": "Prezes Rady Ministrów: E. Kopacz"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 16 grudnia 2014 r. (poz. 48)"
-  },
-  {
-   "type": "text",
-   "text": "ZARZĄDZENIE NR 79"
-  },
-  {
-   "type": "text",
-   "text": "PREZESA RADY MINISTRÓW"
-  },
-  {
-   "type": "text",
-   "text": "z dnia 28 czerwca 2002 r."
-  },
-  {
-   "type": "text",
-   "text": "w sprawie nadania statutu Rządowemu Centrum Legislacji"
-  },
-  {
-   "type": "text",
-   "text": "Na podstawie art. 14i ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "Rządowemu Centrum Legislacji nadaje się statut, stanowiący załącznik do zarządzenia.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia[^1].",
-   "children": []
   }
  ],
  "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Prezesa Rady Ministrów z dnia 16 grudnia 2014 r. (poz. 48)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZARZĄDZENIE NR 79"
+    },
+    {
+     "type": "text",
+     "text": "PREZESA RADY MINISTRÓW"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 28 czerwca 2002 r."
+    },
+    {
+     "type": "text",
+     "text": "w sprawie nadania statutu Rządowemu Centrum Legislacji"
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 14i ust. 1 ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów (Dz. U. z 2012 r. poz. 392) zarządza się, co następuje:"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Rządowemu Centrum Legislacji nadaje się statut, stanowiący załącznik do zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Zarządzenie wchodzi w życie z dniem ogłoszenia[^1].",
+     "children": []
+    }
+   ]
+  },
   {
    "heading": "Załącznik do zarządzenia nr 79 Prezesa Rady Ministrów z dnia 28 czerwca 2002 r.",
    "body": [

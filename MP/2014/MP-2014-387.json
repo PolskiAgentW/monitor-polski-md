@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/387",
  "title": "Komunikat Państwowej Komisji Wyborczej z dnia 5 maja 2014 r. w sprawie informacji finansowych partii politycznych o otrzymanej subwencji oraz o poniesionych z subwencji wydatkach w 2013 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/387/text.pdf",
  "body": [
   {
@@ -33,35 +33,40 @@
    "text": "Przedłożone informacje finansowe stanowią załączniki nr 1–5 do komunikatu, według załączonego wykazu, w kolejności numerów ewidencyjnych partii politycznych (EwP)."
   },
   {
-   "type": "text",
+   "type": "signature",
    "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-  },
-  {
-   "type": "text",
-   "text": "WYKAZ ZAŁĄCZNIKÓW ZAWIERAJĄCYCH INFORMACJE FINANSOWE PARTII POLITYCZNYCH"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 1 Polskie Stronnictwo Ludowe (EwP 34)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 2 Sojusz Lewicy Demokratycznej (EwP 87)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 3 Prawo i Sprawiedliwość (EwP 124)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 4 Platforma Obywatelska Rzeczypospolitej Polskiej (EwP 131)"
-  },
-  {
-   "type": "text",
-   "text": "Załącznik nr 5 Twój Ruch (EwP 313)"
   }
  ],
  "annexes": [
+  {
+   "heading": "Załączniki do komunikatu Państwowej Komisji Wyborczej z dnia 5 maja 2014 r. (poz. 387)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ ZAŁĄCZNIKÓW ZAWIERAJĄCYCH INFORMACJE FINANSOWE PARTII POLITYCZNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 1 Polskie Stronnictwo Ludowe (EwP 34)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 2 Sojusz Lewicy Demokratycznej (EwP 87)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 3 Prawo i Sprawiedliwość (EwP 124)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 4 Platforma Obywatelska Rzeczypospolitej Polskiej (EwP 131)"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik nr 5 Twój Ruch (EwP 313)"
+    }
+   ]
+  },
   {
    "heading": "Załącznik nr 1",
    "body": [
@@ -3912,10 +3917,6 @@
     {
      "type": "ocr",
      "text": "Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna Kod BIC (SWIFT): BPKOPLPW"
-    },
-    {
-     "type": "text",
-     "text": "Załączniki do komunikatu Państwowej Komisji Wyborczej z dnia 5 maja 2014 r. (poz. 387)"
     }
    ]
   }

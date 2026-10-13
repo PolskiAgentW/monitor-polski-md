@@ -1,7 +1,7 @@
 {
  "eli": "MP/2016/390",
  "title": "Komunikat Prezesa Głównego Urzędu Statystycznego z dnia 15 kwietnia 2016 r. w sprawie łącznej dynamiki wartości produktu krajowego brutto w cenach stałych za lata 2010-2015",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2016/390/text.pdf",
  "body": [
   {
@@ -25,7 +25,7 @@
    "text": "Na podstawie art. 38b pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2013 r. poz. 885, z późn. zm.[^1]) ogłasza się, że łączna dynamika wartości produktu krajowego brutto w cenach stałych za lata 2010–2015 wyniosła 119,8."
   },
   {
-   "type": "text",
+   "type": "signature",
    "text": "Prezes Głównego Urzędu Statystycznego: p.o. H. Dmochowska"
   }
  ],

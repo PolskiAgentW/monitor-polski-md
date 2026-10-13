@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/885",
  "title": "Uchwała nr 225/2019 Państwowej Komisji Wyborczej z dnia 9 września 2019 r. zmieniająca uchwałę w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/885/text.pdf",
  "body": [
   {
@@ -217,12 +217,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [
@@ -311,7 +310,7 @@
     },
     {
      "type": "text",
-     "text": "Informacja 1 Znajdź listę kandydatów, na którą chcesz zagłosować 2 Postaw znak X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście . pkioezięs woybęogrozwee 3 Jeżeli postawisz znak X” na więcej niż jedne liście kandydatów, Twój głos będzie nieważny 4 Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki."
+     "text": "Informacja 1 Znajdź listę kandydatów, na którą chcesz zagłosować 2 Postaw znak X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście. pkioezięs woybęogrozwee 3 Jeżeli postawisz znak X” na więcej niż jedne liście kandydatów, Twój głos będzie nieważny 4 Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki."
     }
    ]
   },

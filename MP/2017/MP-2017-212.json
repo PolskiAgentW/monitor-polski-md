@@ -1,7 +1,7 @@
 {
  "eli": "MP/2017/212",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 17 lutego 2017 r. w sprawie wysokości opłaty za wydanie duplikatu Karty Dużej Rodziny oraz wysokości kosztów gminy związanych z przyznaniem tej Karty oraz wydaniem jej duplikatu",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/212/text.pdf",
  "body": [
   {
@@ -50,12 +50,11 @@
    "num": "4",
    "path": "pkt_4",
    "text": "wysokość kwoty, o której mowa w art. 29 ust. 6, wynosi 1,34 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rodziny, Pracy i Polityki Społecznej: wz. S. Szwed"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rodziny, Pracy i Polityki Społecznej: wz. S. Szwed"
   }
  ],
  "annexes": [],

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/884",
  "title": "Uchwała nr 207/2019 Państwowej Komisji Wyborczej z dnia 2 września 2019 r. w sprawie wzorów kart do głosowania oraz nakładek na karty do głosowania sporządzonych w alfabecie Braille'a w wyborach do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej dla obwodów głosowania utworzonych w kraju",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/884/text.pdf",
  "body": [
   {
@@ -931,12 +931,11 @@
    "num": "8",
    "path": "par_8",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Zastępca Przewodniczącego Państwowej Komisji Wyborczej: W. Kozielewicz"
   }
  ],
  "annexes": [
@@ -2237,7 +2236,7 @@
     },
     {
      "type": "text",
-     "text": "Informacja 1. Znajdź listę kandydatów, na którą chcesz zagłosować. 2. Postaw znak „X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście . 3. Jeżeli postawisz znak „X” na więcej niż jednej liście kandydatów, Twój głos będzie nieważny. pkioemczięsjći wokyrbęogroczweejj 4. Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki."
+     "text": "Informacja 1. Znajdź listę kandydatów, na którą chcesz zagłosować. 2. Postaw znak „X” w kratce przy nazwisku wybranego kandydata wyłącznie na tej liście. 3. Jeżeli postawisz znak „X” na więcej niż jednej liście kandydatów, Twój głos będzie nieważny. pkioemczięsjći wokyrbęogroczweejj 4. Znak „X” to co najmniej dwie linie przecinające się wewnątrz kratki."
     }
    ]
   },
@@ -2548,11 +2547,11 @@
       },
       {
        "type": "text",
-       "text": "94,50 mm mm str. ...... str. ...... ⁰⁰,₇₉ mm"
+       "text": "94,50 mm mm str. ...... str. ...... ⁰⁰, mm"
       },
       {
        "type": "text",
-       "text": "² str. ...... str. ......⁰⁰,₇₇₂"
+       "text": "⁷⁹² str. ...... str. ......⁰⁰,₇₇₂"
       },
       {
        "type": "text",
@@ -2628,7 +2627,11 @@
       },
       {
        "type": "text",
-       "text": "⁰⁰,₆ 08 28 mm ⁰⁰, 09 29 mm ⁷⁰⁰ ⁹² 10 30 ,₇₇₂"
+       "text": "⁰⁰,₆ 08 28 mm ⁰⁰, 09 29 mm"
+      },
+      {
+       "type": "text",
+       "text": "⁷⁹² 10 30⁰⁰,₇₇₂"
       },
       {
        "type": "text",
@@ -3071,7 +3074,7 @@
     },
     {
      "type": "text",
-     "text": "w wyborach do Senatu Rzeczypospolitej Polskiej w dniu .............. r . mm"
+     "text": "w wyborach do Senatu Rzeczypospolitej Polskiej w dniu .............. r. mm"
     },
     {
      "type": "text",
@@ -3079,11 +3082,7 @@
     },
     {
      "type": "text",
-     "text": "mm 33,20 mm 9,00 mm mm m TAK ⁰⁰, m⁰⁰,"
-    },
-    {
-     "type": "text",
-     "text": "⁸⁴¹ ................................................................................................................................. ⁰⁰, (nazwisko i imię - imiona)⁸²¹ ⁰¹ mm NIE"
+     "text": "mm 33,20 mm 9,00 mm mm ⁰⁰, mm TAK₀₀ ₈₄₁ ................................................................................................................................. , ⁰⁰, (nazwisko i imię - imiona)⁸²¹ ⁰¹ mm NIE"
     },
     {
      "type": "text",
@@ -3496,7 +3495,7 @@
     },
     {
      "type": "text",
-     "text": "340,00 mm ,⁰⁶"
+     "text": "340,00 mm⁰⁰,⁰⁶"
     }
    ]
   },
@@ -3696,6 +3695,10 @@
     },
     {
      "type": "text",
+     "text": "mm₀₀,"
+    },
+    {
+     "type": "text",
      "text": "410,00 mm"
     }
    ]
@@ -3774,7 +3777,7 @@
     },
     {
      "type": "text",
-     "text": "⁰⁰,¹₁ #03"
+     "text": "⁰⁰,₁₁ #03"
     },
     {
      "type": "text",
@@ -3823,7 +3826,7 @@
     },
     {
      "type": "text",
-     "text": "mm mm Nakładka na kartę do głosowania w wyborach⁰⁸ 7,00 mm do Senatu Rzeczypospolitej Polskiej ,⁰² mm ⁰⁶,₆₃ (opis jak powyżej alfabetem Braille`a)"
+     "text": "mm mm Nakładka na kartę do głosowania w wyborach⁰⁸ 7,00 mm₆₃ do Senatu Rzeczypospolitej Polskiej ,⁰² mm ⁰⁶, (opis jak powyżej alfabetem Braille`a)"
     },
     {
      "type": "text",
@@ -3920,7 +3923,7 @@
     },
     {
      "type": "text",
-     "text": "mm m $tak 32,70 mm m ²⁰⁸, mm⁰⁸,₀ mm⁰⁰ mm⁰⁰⁸⁴¹⁰, ₀₀, $nie⁹,⁰¹¹ ⁷"
+     "text": "mm $tak ²⁰⁸, 32,70 mm mm₀₈, mm mm⁰⁰ mm⁰⁰⁸⁴¹⁰⁰, ₀₀, $nie⁹,⁰¹¹ ⁷"
     },
     {
      "type": "text",
@@ -3948,7 +3951,7 @@
     },
     {
      "type": "text",
-     "text": "⁰²⁰²⁰² ⁰³⁰³⁰³ ⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹ 11 11 11 08 , ¹²¹²¹²⁷⁸² ¹³¹³¹³ ¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸ pieczęć okręgowej komisji wyborczej ⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹ 11 11 11 11 08 , ¹²¹²¹²¹²⁷⁸² ¹³¹³¹³¹³ ¹⁴¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸ pieczęć okręgowej komisji wyborczej ⁰³⁰³⁰³ ⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰ 12 12 12 00 , ¹³¹³¹³⁴¹³ ¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹ ²⁰²⁰²⁰ ⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰¹⁰ 12 12 12 12 07313 ¹³¹³¹³¹³ ¹⁴¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹¹⁹ ²⁰²⁰²⁰²⁰ pkioemczięsjći wokyrbęogroczweejj ⁰⁴⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰¹⁰¹⁰ 12 12 12 12 12 07 , ¹³¹³¹³¹³¹³³¹³ ¹⁴¹⁴¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹¹⁹¹⁹ ²⁰²⁰²⁰²⁰²⁰ pkioemczięsjći wokyrbęogroczweejj ⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰ ¹¹¹¹¹¹ 14 14 14 07 ,₉₅₃ ¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹ ²⁰²⁰²⁰ ²¹²¹²¹ ²²²²²² ²³²³²³ ²⁴²⁴²⁴ ⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰¹⁰ ¹¹¹¹¹¹¹¹ 14 14 14 14 06 ,₉₅₃ ¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹¹⁹ ²⁰²⁰²⁰²⁰ ²¹²¹²¹²¹ ²²²²²²²² ²³²³²³²³ ²⁴²⁴²⁴²⁴ pkioemczięsjći wokyrbęogroczweejj ⁰⁴⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰¹⁰¹⁰ ¹¹¹¹¹¹¹¹¹¹ 14 14 14 14 14 07 ,₉₅₃ ¹⁵¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹¹⁹¹⁹ ²⁰²⁰²⁰²⁰²⁰ ²¹²¹²¹²¹²¹ ²²²²²²²²²² ²³²³²³²³²³ ²⁴²⁴²⁴²⁴²⁴ pkioemczięsjći wokyrbęogroczweejj ²⁶²⁶²⁶²⁶²⁶ ²⁷²⁷²⁷²⁷²⁷ ²⁸²⁸²⁸²⁸²⁸ ²⁹²⁹²⁹²⁹²⁹ ³⁰³⁰³⁰³⁰³⁰ ³¹³¹³¹³¹³¹ ³²³²³²³²³² ³²³²³²³²³²³² ²⁵²⁵²⁵²⁵²⁵ ²⁶²⁶²⁶²⁶²⁶ ²⁷²⁷²⁷²⁷²⁷ ²⁸²⁸²⁸²⁸²⁸ ²⁹²⁹²⁹²⁹²⁹ ³⁰³⁰³⁰³⁰³⁰ ³¹³¹³¹³¹³¹ ³²³²³²³²³² ³³³³³³³³³³ ³⁴³⁴³⁴³⁴³⁴ ³⁵³⁵³⁵³⁵³⁵ ³⁶³⁶³⁶³⁶³⁶ ³⁷³⁷³⁷³⁷³⁷ ³⁸³⁸³⁸³⁸³⁸ ³⁹³⁹³⁹³⁹³⁹ ⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰ ³²³³³²³³³²³³³²³³³²³³³²³³ ³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵ ³⁶³³⁶³⁷³⁶³⁷³⁶³³⁶³⁷³⁶³⁷ ³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹ ⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰ pieczęć okręgowej komisji wyborczej 13 33 14 34 15 35 16 36 17 37 18 38 19 39 20 40 13 33 14 34 15 35 16 36 17 37 18 38 19 39 20 40 pieczęć okręgowej komisji wyborczej pieczęć okręgowej komisji wyborczej Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, ⁰⁶ 17500 mm Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, 258,00 mm⁰⁶ N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, 340,00 mm⁰⁶ N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 175,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 258,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 340,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j m m₀₀, N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho idg teoło j P o ls k ie j m m₀₀, N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j m m₀₀ Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, ⁰⁶ 328,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, Nakładka na kartę do głosowania Sejmu Rzwe wczyybpooraspcho lidteoj Polskiej mm₀₀, ⁰⁶ 328,00 mm N a k ła d k a n trę o s o w a n ia S e jm u R zw e awc zyk yba por o sa pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ mm mm ₀₀, #20 #40⁰⁰, Nakładka na kartę do głosowania mm w wyborach do Sejmu Rzeczypospolitej Polskiej 00 , mm Nakładka na kartę do głosowania 55⁰⁷, w wyborach do Senatu Rzeczypospolitej Polskiej mm ⁰⁰, ⁰⁴ mm Nakładka na kartę do głosowania⁰⁷,⁵⁵ w wyborach do Senatu Rzeczypospolitej Polskiej mm ⁰⁰, ⁹²³⁰"
+     "text": "⁰²⁰²⁰² ⁰³⁰³⁰³ ⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹ 11 11 11 08 , ¹²¹²¹²⁷⁸² ¹³¹³¹³ ¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸ pieczęć okręgowej komisji wyborczej ⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹ 11 11 11 11 08 , ¹²¹²¹²¹²⁷⁸² ¹³¹³¹³¹³ ¹⁴¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸ pieczęć okręgowej komisji wyborczej ⁰³⁰³⁰³ ⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰ 12 12 12 00 , ¹³¹³¹³⁴¹³ ¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹ ²⁰²⁰²⁰ ⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰¹⁰ 12 12 12 12 07313 ¹³¹³¹³¹³ ¹⁴¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹¹⁹ ²⁰²⁰²⁰²⁰ pkioemczięsjći wokyrbęogroczweejj ⁰⁴⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰¹⁰¹⁰ 12 12 12 12 12 07 , ¹³¹³¹³¹³¹³³¹³ ¹⁴¹⁴¹⁴¹⁴¹⁴ ¹⁵¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹¹⁹¹⁹ ²⁰²⁰²⁰²⁰²⁰ pkioemczięsjći wokyrbęogroczweejj ⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰ ¹¹¹¹¹¹ 14 14 14 07 ,₉₅₃ ¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹ ²⁰²⁰²⁰ ²¹²¹²¹ ²²²²²² ²³²³²³ ²⁴²⁴²⁴ ⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰¹⁰ ¹¹¹¹¹¹¹¹ 14 14 14 14 06 ,₉₅₃ ¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹¹⁹ ²⁰²⁰²⁰²⁰ ²¹²¹²¹²¹ ²²²²²²²² ²³²³²³²³ ²⁴²⁴²⁴²⁴ pkioemczięsjći wokyrbęogroczweejj ⁰⁴⁰⁴⁰⁴⁰⁴⁰⁴ ⁰⁵⁰⁵⁰⁵⁰⁵⁰⁵ ⁰⁶⁰⁶⁰⁶⁰⁶⁰⁶ ⁰⁷⁰⁷⁰⁷⁰⁷⁰⁷ ⁰⁸⁰⁸⁰⁸⁰⁸⁰⁸ ⁰⁹⁰⁹⁰⁹⁰⁹⁰⁹ ¹⁰¹⁰¹⁰¹⁰¹⁰ ¹¹¹¹¹¹¹¹¹¹ 14 14 14 14 14 07 ,₉₅₃ ¹⁵¹⁵¹⁵¹⁵¹⁵ ¹⁶¹⁶¹⁶¹⁶¹⁶ ¹⁷¹⁷¹⁷¹⁷¹⁷ ¹⁸¹⁸¹⁸¹⁸¹⁸ ¹⁹¹⁹¹⁹¹⁹¹⁹ ²⁰²⁰²⁰²⁰²⁰ ²¹²¹²¹²¹²¹ ²²²²²²²²²² ²³²³²³²³²³ ²⁴²⁴²⁴²⁴²⁴ pkioemczięsjći wokyrbęogroczweejj ²⁶²⁶²⁶²⁶²⁶ ²⁷²⁷²⁷²⁷²⁷ ²⁸²⁸²⁸²⁸²⁸ ²⁹²⁹²⁹²⁹²⁹ ³⁰³⁰³⁰³⁰³⁰ ³¹³¹³¹³¹³¹ ³²³²³²³²³² ³²³²³²³²³²³² ²⁵²⁵²⁵²⁵²⁵ ²⁶²⁶²⁶²⁶²⁶ ²⁷²⁷²⁷²⁷²⁷ ²⁸²⁸²⁸²⁸²⁸ ²⁹²⁹²⁹²⁹²⁹ ³⁰³⁰³⁰³⁰³⁰ ³¹³¹³¹³¹³¹ ³²³²³²³²³² ³³³³³³³³³³ ³⁴³⁴³⁴³⁴³⁴ ³⁵³⁵³⁵³⁵³⁵ ³⁶³⁶³⁶³⁶³⁶ ³⁷³⁷³⁷³⁷³⁷ ³⁸³⁸³⁸³⁸³⁸ ³⁹³⁹³⁹³⁹³⁹ ⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰ ³²³³³²³³³²³³³²³³³²³³³²³³ ³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵³⁴³⁵ ³⁶³³⁶³⁷³⁶³⁷³⁶³³⁶³⁷³⁶³⁷ ³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹³⁸³⁹ ⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰⁴⁰ pieczęć okręgowej komisji wyborczej 13 33 14 34 15 35 16 36 17 37 18 38 19 39 20 40 13 33 14 34 15 35 16 36 17 37 18 38 19 39 20 40 pieczęć okręgowej komisji wyborczej pieczęć okręgowej komisji wyborczej Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, ⁰⁶ 17500 mm Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, 258,00 mm⁰⁶ N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, 340,00 mm⁰⁶ N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 175,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 258,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 340,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho idg teoło j P o ls k ie j mm₀₀, N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm Nakładka na kartę do głosowania w wyborach do Sejmu Rzeczypospolitej Polskiej mm₀₀, ⁰⁶ 328,00 mm N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, N a k ła d k a n o s o w a n ia S e jm u R zw e awc zyk yba por o tręas pcdho l idg teoło j P o ls k ie j mm₀₀, ⁰⁶ 328,00 mm N a k ła d k a n trę o s o w a n ia S e jm u R zw e awc zyk yba por o sa pcdho l idg teoło j P o ls k ie j ⁰⁶ mm mm ₀₀, #20 #40⁰⁰, Nakładka na kartę do głosowania mm w wyborach do Sejmu Rzeczypospolitej Polskiej 00 , mm Nakładka na kartę do głosowania 55⁰⁷, w wyborach do Senatu Rzeczypospolitej Polskiej mm ⁰⁰, ⁰⁴ mm Nakładka na kartę do głosowania⁰⁷,⁵⁵ w wyborach do Senatu Rzeczypospolitej Polskiej mm ⁰⁰, ⁹²³⁰"
     }
    ]
   }

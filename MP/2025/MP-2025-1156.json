@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/1156",
  "title": "Obwieszczenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 listopada 2025 r. w sprawie wysokości kwoty wpłat na indywidualne konto zabezpieczenia emerytalnego w roku 2026",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/1156/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "wysokość kwoty wpłat na indywidualne konto zabezpieczenia emerytalnego, o której mowa w art. 13a ust. 1a wymienionej ustawy, w roku 2026 wynosi 16 956 zł.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rodziny, Pracy i Polityki Społecznej: A. Dziemianowicz-Bąk"
   }
  ],
  "annexes": [],

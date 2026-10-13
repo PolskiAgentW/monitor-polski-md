@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/178",
  "title": "Uchwała Państwowej Komisji Wyborczej z dnia 10 lutego 2014 r. w sprawie trybu i sposobu przekazywania przez obwodowe i rejonowe komisje wyborcze Państwowej Komisji Wyborczej w trakcie głosowania danych o liczbie osób uprawnionych do głosowania oraz o liczbie wyborców, którym wydano karty do głosowania w stałych obwodach głosowania utworzonych w kraju w wyborach do Parlamentu Europejskiego w 2014 r.",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/178/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "par_2",
    "text": "Uchwała wchodzi w życie z dniem podjęcia i podlega ogłoszeniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Państwowej Komisji Wyborczej: S.J. Jaworski"
   }
  ],
  "annexes": [

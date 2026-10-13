@@ -1,7 +1,7 @@
 {
  "eli": "MP/2024/712",
  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 18 lipca 2024 r. o wskazaniu wystaw dających pierwszeństwo do uzyskania prawa ochronnego albo prawa z rejestracji, w przypadku wystawienia na nich wzoru użytkowego albo wzoru przemysłowego",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/712/text.pdf",
  "body": [
   {
@@ -61,12 +61,11 @@
    "num": "5",
    "path": "pkt_5",
    "text": "XVII Międzynarodowe Targi Transportu Zbiorowego TRANSEXPO organizowane w dniach 16–18 października 2024 r.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
   }
  ],
  "annexes": [],

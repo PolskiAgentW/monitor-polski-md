@@ -1,7 +1,7 @@
 {
  "eli": "MP/2023/883",
  "title": "Obwieszczenie Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej z dnia 17 sierpnia 2023 r. o wskazaniu wystaw dających pierwszeństwo do uzyskania prawa ochronnego albo prawa z rejestracji, w przypadku wystawiania na nich wzoru użytkowego albo wzoru przemysłowego",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/883/text.pdf",
  "body": [
   {
@@ -117,12 +117,11 @@
    "num": "13",
    "path": "pkt_13",
    "text": "CAVALIADA POZNAŃ – Targi Sprzętu i Akcesoriów Jeździeckich, organizowane w dniach 7–10 grudnia 2023 r. w Poznaniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Urzędu Patentowego Rzeczypospolitej Polskiej: E. Demby-Siwek"
   }
  ],
  "annexes": [],

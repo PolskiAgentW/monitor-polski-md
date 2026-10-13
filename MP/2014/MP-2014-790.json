@@ -1,7 +1,7 @@
 {
  "eli": "MP/2014/790",
  "title": "Obwieszczenie Ministra Środowiska z dnia 11 sierpnia 2014 r. w sprawie wysokości stawek opłat za korzystanie ze środowiska na rok 2015",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.56",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2014/790/text.pdf",
  "body": [
   {
@@ -36,12 +36,11 @@
    "num": "2",
    "path": "pkt_2",
    "text": "jednostkowe stawki opłat za korzystanie ze środowiska, zawarte w załączniku nr 2 do obwieszczenia.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Minister Środowiska: M.H. Grabowski"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Środowiska: M.H. Grabowski"
   }
  ],
  "annexes": [
@@ -123,7 +122,7 @@
     },
     {
      "type": "text",
-     "text": "2 Chemiczne zapotrzebowanie tlenu oznaczane metodą 1,71 dwuchromianową (ChZT Cr )"
+     "text": "2 Chemiczne zapotrzebowanie tlenu oznaczane metodą 1,71 dwuchromianową (ChZTCr)"
     },
     {
      "type": "text",
