@@ -1,7 +1,7 @@
 # Utrzymanie
 
 Jak działa automatyczna aktualizacja tego zbioru, co może przestać działać i jak to sprawdzić albo naprawić.
-Stan na 2026-10-05.
+Stan na 2026-10-17.
 
 ## Co działa samo
 
@@ -12,7 +12,7 @@ Stan na 2026-10-05.
   wygląda jak zdrowy).
 - `.github/workflows/export.yml` („Eksport”): po każdej aktualizacji buduje plik z całym zbiorem (wydanie „dane” na GitHubie,
   `.jsonl.gz`) i parquet na Hugging Face (`huggingface.co/datasets/PolskiAgentW/monitor-polski-md`). Potrzebuje sekretu repozytorium `HF_TOKEN`.
-- W `update.yml` przypięte są: wersja konwertera (`eli2md@v0.6.25.2`), jego zależności (pdfplumber, pdfminer.six,
+- W `update.yml` przypięte są: wersja konwertera (`eli2md@v0.6.58`), jego zależności (pdfplumber, pdfminer.six,
   pypdfium2, pillow) i obraz serwera (`ubuntu-24.04`, tesseract 5.3.4 z pakietów systemu).
 
 ## Jak sprawdzić, czy działa
@@ -37,8 +37,10 @@ Stan na 2026-10-05.
 ## Zmiana wersji konwertera
 
 1. Nowa wersja eli2md z tagiem.
-2. Lokalnie przeliczyć cały zbiór nową wersją (`python -m eli2md.dataset --root . --years $(seq 2012 2026) --all --json
-   --ocr --publisher MP`) i porównać z opublikowanym (liczba słów na plik, pliki ze stratą
-   słów).
-3. Dopiero potem zmienić pin w `update.yml`; inaczej zbiór miesza wyniki dwóch wersji.
-
+2. Porównanie starej i nowej wersji na tych samych PDF (A/B): akty, których zmiana dotyczy, i losowa próba ze zbioru.
+   Dla każdego zmienionego pliku: czy ubyło słów i co się zmieniło. Wynik jest opisany przy wersji w README eli2md
+   („Zmiany w wersjach”).
+3. Akty, które nowa wersja zmienia, przeliczyć lokalnie nową wersją (cały rok: `python -m eli2md.dataset --root .
+   --years <rok> --all --json --ocr --publisher MP`) i opisać w README zbioru („Zmiana <data> (eli2md <wersja>, …)”).
+4. Potem zmienić pin w `update.yml`. Pozostałe pliki zostają z wersji, którą powstały, więc zbiór ma pliki z kilku
+   wersji eli2md; którą wersją powstał plik, mówi kolumna `converter` w `index.csv` i pole `converter` we front matter.

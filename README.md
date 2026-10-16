@@ -199,6 +199,11 @@ Lata 2012–2024 zostały przekonwertowane jednorazowo 2026-09-30.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w Monitorze Polskim w latach 2025–2026 wyniosła 6 dni.
 
+Zmiana 2026-10-16 (eli2md 0.6.58, 0 aktów): codzienna aktualizacja używa eli2md 0.6.58. Zmiana w tej wersji
+(artykuł albo paragraf złożony ciasno pod nagłówkiem rozdziału) nie dotyczy żadnego z 301 sprawdzonych aktów tego zbioru
+(A/B 0.6.57 → 0.6.58: 298 losowych aktów z lat 2012–2026 i 3, których nagłówki zawierają „art. … §”; wszystkie bez
+zmian), więc opublikowanych plików nie przeliczałem.
+
 Zmiana 2026-10-13 (eli2md 0.6.57, 5 aktów): tytuł bez tego, co API ELI dopisuje po tabulatorze (np. MP/2022/971:
 „…Rady Polityki Pieniężnej⇥202”). Dotyczy `title` we front matter, linii `# tytuł`, `title` w `.json` i w `index.csv`
 w MP/2022/971, 972, MP/2024/1037, MP/2025/1058 i MP/2026/354; tekst bez zmian (A/B 0.6.56 → 0.6.57). Od tej zmiany
