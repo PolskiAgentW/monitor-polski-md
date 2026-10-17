@@ -199,6 +199,11 @@ Lata 2012–2024 zostały przekonwertowane jednorazowo 2026-09-30.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w Monitorze Polskim w latach 2025–2026 wyniosła 6 dni.
 
+Zmiana 2026-10-17 (eli2md 0.6.60, 0 aktów): codzienna aktualizacja używa eli2md 0.6.60. Zmiana w tej wersji
+(indeks dolny pod kursywną wielką literą wzoru) nie dotyczy żadnego z 306 sprawdzonych aktów tego zbioru
+(A/B 0.6.59 → 0.6.60: 301 aktów z wcześniejszych A/B i 5 przeliczonych w aktualizacji przez 0.6.58; wszystkie bez zmian),
+więc opublikowanych plików nie przeliczałem.
+
 Zmiana 2026-10-17 (eli2md 0.6.59, 0 aktów): codzienna aktualizacja używa eli2md 0.6.59. Zmiana w tej wersji
 (znak bez szerokości w ciągu indeksów dolnych wzoru) nie dotyczy żadnego z 306 sprawdzonych aktów tego zbioru
 (A/B 0.6.58 → 0.6.59: 301 aktów z A/B przy 0.6.58 i 5 przeliczonych w aktualizacji przez 0.6.58; wszystkie bez zmian),
