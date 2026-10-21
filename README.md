@@ -50,7 +50,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-20 05:18 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-21 05:22 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -68,13 +68,13 @@ Stan na 2026-10-20 05:18 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 1482 | 1482 | 0 |
 | 2024 | 1112 | 1112 | 0 |
 | 2025 | 1317 | 1317 | 0 |
-| 2026 | 1014 | 1014 | 0 |
+| 2026 | 1021 | 1021 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14297 z 98877 stron. Tekst z OCR (oznaczony) ma 12668 z nich w 415 aktach; treści pozostałych brak.
-Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 566.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14297 z 98972 stron. Tekst z OCR (oznaczony) ma 12668 z nich w 415 aktach; treści pozostałych brak.
+Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 567.
 
-Rodzaje aktów: Postanowienie 7144, Obwieszczenie 4050, Uchwała 2753, Komunikat 2069, Zarządzenie 1271, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
-Wersje konwertera: eli2md 0.6.25 (8185), eli2md 0.6.25.2 (5408), eli2md 0.6.56 (3104), eli2md 0.6.25.1 (1455), eli2md 0.6.57 (28), eli2md 0.6.60 (25), eli2md 0.6.54 (6), eli2md 0.6.58 (5).
+Rodzaje aktów: Postanowienie 7144, Obwieszczenie 4052, Uchwała 2756, Komunikat 2071, Zarządzenie 1271, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
+Wersje konwertera: eli2md 0.6.25 (8185), eli2md 0.6.25.2 (5352), eli2md 0.6.56 (3103), eli2md 0.6.25.1 (1455), eli2md 0.6.60 (89), eli2md 0.6.57 (28), eli2md 0.6.54 (6), eli2md 0.6.58 (5).
 <!-- stats:end -->
 
 ## Teksty jednolite
