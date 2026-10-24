@@ -199,6 +199,13 @@ Lata 2012–2024 zostały przekonwertowane jednorazowo 2026-09-30.
 Jeśli przez ponad 10 dni nie przybędzie żaden nowy akt, workflow kończy się błędem, żeby cicha awaria
 była widoczna. Najdłuższa przerwa w ogłaszaniu aktów w Monitorze Polskim w latach 2025–2026 wyniosła 6 dni.
 
+Zmiana 2026-10-24 (eli2md 0.6.61, 0 aktów): codzienna aktualizacja używa eli2md 0.6.61. Zmiana w tej wersji
+(oznaczenie litery albo punktu z odnośnikiem na początku wiersza zaczyna nową jednostkę zamiast doklejać się do poprzedniego
+akapitu, np. „a) Departament Administracji Publicznej, b)[^5] Departament Ochrony Ludności…” w MP/2017/592) zmienia
+7 ze 110 sprawdzonych aktów tego zbioru. A/B 0.6.60 → 0.6.61: 103 akty przeliczone w aktualizacji przez 0.6.60 bez zmian;
+7 obwieszczeń z takim oznaczeniem (MP/2012/32, MP/2013/363, MP/2017/592, MP/2019/1028, MP/2021/772, MP/2023/553,
+MP/2023/1336) ma te same słowa i poprawiony podział na jednostki. Tych 7 plików jeszcze nie przeliczałem.
+
 Zmiana 2026-10-17 (eli2md 0.6.60, 0 aktów): codzienna aktualizacja używa eli2md 0.6.60. Zmiana w tej wersji
 (indeks dolny pod kursywną wielką literą wzoru) nie dotyczy żadnego z 306 sprawdzonych aktów tego zbioru
 (A/B 0.6.59 → 0.6.60: 301 aktów z wcześniejszych A/B i 5 przeliczonych w aktualizacji przez 0.6.58; wszystkie bez zmian),
