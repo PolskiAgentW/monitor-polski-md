@@ -1,7 +1,7 @@
 {
  "eli": "MP/2019/1028",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 3 października 2019 r. w sprawie ogłoszenia jednolitego tekstu uchwały Sejmu Rzeczypospolitej Polskiej - Regulamin Sejmu Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2019/1028/text.pdf",
  "body": [
   {
@@ -2397,7 +2397,14 @@
          "type": "pkt",
          "num": "4",
          "path": "art_30/ust_3/pkt_4",
-         "text": "ustalonym przez Marszałka Sejmu w przypadku wyboru organu po raz pierwszy, jeżeli ustawa nie określiła terminów zgłaszania kandydatów, a także kolejnych wyborów, jeżeli upływ kadencji nie wynika z aktów ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”; 5)[^24] ustalonym przez Marszałka Sejmu w przypadku zaistnienia innych niż określone w pkt 1–4 okoliczności powodujących konieczność dokonania wyboru.",
+         "text": "ustalonym przez Marszałka Sejmu w przypadku wyboru organu po raz pierwszy, jeżeli ustawa nie określiła terminów zgłaszania kandydatów, a także kolejnych wyborów, jeżeli upływ kadencji nie wynika z aktów ogłoszonych w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”;",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_30/ust_3/pkt_5",
+         "text": "[^24] ustalonym przez Marszałka Sejmu w przypadku zaistnienia innych niż określone w pkt 1–4 okoliczności powodujących konieczność dokonania wyboru.",
          "children": []
         }
        ]
@@ -2478,7 +2485,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_31/ust_1",
-       "text": "Wybór albo powołanie poszczególnych osób na stanowiska państwowe określone w art. 26–29 następuje bezwzględną większością głosów. 1a.[^26] Powołanie i odwołanie Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz członka Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu następuje większością głosów.",
+       "text": "Wybór albo powołanie poszczególnych osób na stanowiska państwowe określone w art. 26–29 następuje bezwzględną większością głosów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1a",
+       "path": "art_31/ust_1a",
+       "text": "[^26] Powołanie i odwołanie Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz członka Kolegium Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu następuje większością głosów.",
        "children": []
       },
       {
@@ -10134,7 +10148,14 @@
        "type": "ust",
        "num": "1",
        "path": "art_200/ust_1",
-       "text": "Kancelarią Sejmu kieruje Szef Kancelarii Sejmu przy pomocy nie więcej niż dwóch zastępców. 2.[^1] Szefa Kancelarii Sejmu powołuje i odwołuje Marszałek Sejmu, po zasięgnięciu opinii Komisji Regulaminowej, Spraw Poselskich i Immunitetowych.",
+       "text": "Kancelarią Sejmu kieruje Szef Kancelarii Sejmu przy pomocy nie więcej niż dwóch zastępców.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_200/ust_2",
+       "text": "[^1] Szefa Kancelarii Sejmu powołuje i odwołuje Marszałek Sejmu, po zasięgnięciu opinii Komisji Regulaminowej, Spraw Poselskich i Immunitetowych.",
        "children": []
       },
       {

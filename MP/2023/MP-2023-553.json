@@ -1,7 +1,7 @@
 {
  "eli": "MP/2023/553",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 16 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Międzyresortowego Zespołu do spraw Koordynacji Działań na rzecz Rozwoju Wszechstronnego Partnerstwa Strategicznego między Rzecząpospolitą Polską a Chińską Republiką Ludową",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/553/text.pdf",
  "body": [
   {
@@ -280,236 +280,243 @@
            "type": "lit",
            "num": "b",
            "path": "par_3/ust_1/pkt_3/lit_b",
-           "text": "[^5] sekretarz stanu lub podsekretarz stanu w Kancelarii Prezesa Rady Ministrów, c)[^6] po jednym przedstawicielu, w randze sekretarza stanu albo podsekretarza stanu, wyznaczonym przez Ministra Sprawiedliwości, Ministra Obrony Narodowej oraz ministra właściwego do spraw:",
+           "text": "[^5] sekretarz stanu lub podsekretarz stanu w Kancelarii Prezesa Rady Ministrów,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "par_3/ust_1/pkt_3/lit_c",
+           "text": "[^6] po jednym przedstawicielu, w randze sekretarza stanu albo podsekretarza stanu, wyznaczonym przez Ministra Sprawiedliwości, Ministra Obrony Narodowej oraz ministra właściwego do spraw:",
            "children": [
             {
              "type": "tir",
              "num": "1",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_1",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_1",
              "text": "administracji publicznej,",
              "children": []
             },
             {
              "type": "tir",
              "num": "2",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_2",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_2",
              "text": "budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa,",
              "children": []
             },
             {
              "type": "tir",
              "num": "3",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_3",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_3",
              "text": "aktywów państwowych,",
              "children": []
             },
             {
              "type": "tir",
              "num": "4",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_4",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_4",
              "text": "budżetu,",
              "children": []
             },
             {
              "type": "tir",
              "num": "5",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_5",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_5",
              "text": "energii,",
              "children": []
             },
             {
              "type": "tir",
              "num": "6",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_6",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_6",
              "text": "finansów publicznych,",
              "children": []
             },
             {
              "type": "tir",
              "num": "7",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_7",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_7",
              "text": "gospodarki morskiej,",
              "children": []
             },
             {
              "type": "tir",
              "num": "8",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_8",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_8",
              "text": "gospodarki wodnej,",
              "children": []
             },
             {
              "type": "tir",
              "num": "9",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_9",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_9",
              "text": "gospodarki złożami kopalin,",
              "children": []
             },
             {
              "type": "tir",
              "num": "10",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_10",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_10",
              "text": "instytucji finansowych,",
              "children": []
             },
             {
              "type": "tir",
              "num": "11",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_11",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_11",
              "text": "informatyzacji,",
              "children": []
             },
             {
              "type": "tir",
              "num": "12",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_12",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_12",
              "text": "członkostwa Rzeczypospolitej Polskiej w Unii Europejskiej,",
              "children": []
             },
             {
              "type": "tir",
              "num": "13",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_13",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_13",
              "text": "klimatu,",
              "children": []
             },
             {
              "type": "tir",
              "num": "14",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_14",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_14",
              "text": "kultury i ochrony dziedzictwa narodowego,",
              "children": []
             },
             {
              "type": "tir",
              "num": "15",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_15",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_15",
              "text": "kultury fizycznej,",
              "children": []
             },
             {
              "type": "tir",
              "num": "16",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_16",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_16",
              "text": "łączności,",
              "children": []
             },
             {
              "type": "tir",
              "num": "17",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_17",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_17",
              "text": "oświaty i wychowania,",
              "children": []
             },
             {
              "type": "tir",
              "num": "18",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_18",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_18",
              "text": "pracy,",
              "children": []
             },
             {
              "type": "tir",
              "num": "19",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_19",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_19",
              "text": "rolnictwa,",
              "children": []
             },
             {
              "type": "tir",
              "num": "20",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_20",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_20",
              "text": "rozwoju wsi,",
              "children": []
             },
             {
              "type": "tir",
              "num": "21",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_21",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_21",
              "text": "rozwoju regionalnego,",
              "children": []
             },
             {
              "type": "tir",
              "num": "22",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_22",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_22",
              "text": "rynków rolnych,",
              "children": []
             },
             {
              "type": "tir",
              "num": "23",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_23",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_23",
              "text": "rybołówstwa,",
              "children": []
             },
             {
              "type": "tir",
              "num": "24",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_24",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_24",
              "text": "szkolnictwa wyższego i nauki,",
              "children": []
             },
             {
              "type": "tir",
              "num": "25",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_25",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_25",
              "text": "transportu,",
              "children": []
             },
             {
              "type": "tir",
              "num": "26",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_26",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_26",
              "text": "turystyki,",
              "children": []
             },
             {
              "type": "tir",
              "num": "27",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_27",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_27",
              "text": "środowiska,",
              "children": []
             },
             {
              "type": "tir",
              "num": "28",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_28",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_28",
              "text": "rodziny,",
              "children": []
             },
             {
              "type": "tir",
              "num": "29",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_29",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_29",
              "text": "spraw wewnętrznych,",
              "children": []
             },
             {
              "type": "tir",
              "num": "30",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_30",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_30",
              "text": "wyznań religijnych oraz mniejszości narodowych i etnicznych,",
              "children": []
             },
             {
              "type": "tir",
              "num": "31",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_31",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_31",
              "text": "zabezpieczenia społecznego,",
              "children": []
             },
             {
              "type": "tir",
              "num": "32",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_32",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_32",
              "text": "zdrowia,",
              "children": []
             },
             {
              "type": "tir",
              "num": "33",
-             "path": "par_3/ust_1/pkt_3/lit_b/tir_33",
+             "path": "par_3/ust_1/pkt_3/lit_c/tir_33",
              "text": "żeglugi śródlądowej;",
              "children": []
             }

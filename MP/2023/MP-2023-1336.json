@@ -1,7 +1,7 @@
 {
  "eli": "MP/2023/1336",
  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 14 listopada 2023 r. w sprawie ogłoszenia jednolitego tekstu uchwały Zarządu Narodowego Banku Polskiego w sprawie warunków i zasad sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/1336/text.pdf",
  "body": [
   {
@@ -784,7 +784,7 @@
           },
           {
            "type": "text",
-           "text": "L – oznacza liczbę danych wartości kolekcjonerskich przyznanych i-temu Dystrybutorowi po redukcji, z zai okrągleniem w dół do części całkowitych, y o e n i – oznacza liczbę danych wartości kolekcjonerskich, na które i-ty Dystrybutor złożył zapotrzebowanie,"
+           "text": "Li – oznacza liczbę danych wartości kolekcjonerskich przyznanych i-temu Dystrybutorowi po redukcji, z zaokrągleniem w dół do części całkowitych, y o e ni – oznacza liczbę danych wartości kolekcjonerskich, na które i-ty Dystrybutor złożył zapotrzebowanie,"
           },
           {
            "type": "text",
@@ -849,7 +849,7 @@
         },
         {
          "type": "text",
-         "text": "N i – oznacza transzę danych wartości kolekcjonerskich, przeznaczoną do sprzedaży dla Dystrybutorów;"
+         "text": "Ni – oznacza transzę danych wartości kolekcjonerskich, przeznaczoną do sprzedaży dla Dystrybutorów;"
         },
         {
          "type": "pkt",
@@ -2059,7 +2059,14 @@
            "type": "lit",
            "num": "a",
            "path": "par_8/ust_3/pkt_1/lit_a",
-           "text": "przelewem bankowym na rachunek bankowy, z którego wpłynęła zapłata, lub b)[^31] na rachunek karty płatniczej, którą dokonano płatności;",
+           "text": "przelewem bankowym na rachunek bankowy, z którego wpłynęła zapłata, lub",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_8/ust_3/pkt_1/lit_b",
+           "text": "[^31] na rachunek karty płatniczej, którą dokonano płatności;",
            "children": []
           }
          ]
@@ -2089,7 +2096,14 @@
            "type": "lit",
            "num": "a",
            "path": "par_8/ust_4/pkt_1/lit_a",
-           "text": "przelewem bankowym na rachunek bankowy, z którego wpłynęła zapłata, lub b)[^32] na rachunek karty płatniczej, którą dokonano płatności, lub",
+           "text": "przelewem bankowym na rachunek bankowy, z którego wpłynęła zapłata, lub",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "par_8/ust_4/pkt_1/lit_b",
+           "text": "[^32] na rachunek karty płatniczej, którą dokonano płatności, lub",
            "children": []
           },
           {

@@ -1,7 +1,7 @@
 {
  "eli": "MP/2012/32",
  "title": "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 stycznia 2012 r. w sprawie ogłoszenia jednolitego tekstu uchwały Sejmu Rzeczypospolitej Polskiej - Regulamin Sejmu Rzeczypospolitej Polskiej",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2012/32/text.pdf",
  "body": [
   {
@@ -6742,7 +6742,14 @@
          "type": "pkt",
          "num": "11a",
          "path": "art_148b/ust_1/pkt_11a",
-         "text": "[^48] propozycje zmian Traktatu o Unii Europejskiej i Traktatu o funkcjonowaniu Unii Europejskiej, 11b)[^48] projekty decyzji Rady Europejskiej upoważniających Radę do zmiany sposobu głosowania, o których mowa w art. 48 ust. 7 Traktatu o Unii Europejskiej,",
+         "text": "[^48] propozycje zmian Traktatu o Unii Europejskiej i Traktatu o funkcjonowaniu Unii Europejskiej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "11b",
+         "path": "art_148b/ust_1/pkt_11b",
+         "text": "[^48] projekty decyzji Rady Europejskiej upoważniających Radę do zmiany sposobu głosowania, o których mowa w art. 48 ust. 7 Traktatu o Unii Europejskiej,",
          "children": []
         },
         {

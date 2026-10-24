@@ -1,7 +1,7 @@
 {
  "eli": "MP/2017/592",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 29 maja 2017 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Spraw Wewnętrznych i Administracji",
- "converter": "eli2md 0.6.25",
+ "converter": "eli2md 0.6.61",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2017/592/text.pdf",
  "body": [
   {
@@ -355,7 +355,14 @@
          "type": "lit",
          "num": "a",
          "path": "par_3/pkt_1/lit_a",
-         "text": "Departament Administracji Publicznej, b)[^5] Departament Ochrony Ludności i Zarządzania Kryzysowego w zakresie przeciwdziałania skutkom klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu oraz usuwania skutków takich zdarzeń;",
+         "text": "Departament Administracji Publicznej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/pkt_1/lit_b",
+         "text": "[^5] Departament Ochrony Ludności i Zarządzania Kryzysowego w zakresie przeciwdziałania skutkom klęsk żywiołowych i innych podobnych zdarzeń zagrażających bezpieczeństwu powszechnemu oraz usuwania skutków takich zdarzeń;",
          "children": []
         }
        ]
