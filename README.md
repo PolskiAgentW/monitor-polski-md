@@ -50,7 +50,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-25 05:16 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-25 20:49 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -74,7 +74,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14297 z 9899
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 567.
 
 Rodzaje aktów: Postanowienie 7144, Obwieszczenie 4058, Uchwała 2759, Komunikat 2073, Zarządzenie 1272, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
-Wersje konwertera: eli2md 0.6.25 (8181), eli2md 0.6.25.2 (5348), eli2md 0.6.56 (3103), eli2md 0.6.25.1 (1454), eli2md 0.6.60 (103), eli2md 0.6.57 (28), eli2md 0.6.61 (7), eli2md 0.6.54 (6), eli2md 0.6.58 (5).
+Wersje konwertera: eli2md 0.6.25 (8178), eli2md 0.6.25.2 (5343), eli2md 0.6.56 (3098), eli2md 0.6.25.1 (1453), eli2md 0.6.60 (103), eli2md 0.6.57 (28), eli2md 0.6.67 (14), eli2md 0.6.61 (7), eli2md 0.6.54 (6), eli2md 0.6.58 (5).
 <!-- stats:end -->
 
 ## Teksty jednolite
@@ -207,6 +207,14 @@ akapitu, np. „a) Departament Administracji Publicznej, b)[^5] Departament Ochr
 MP/2023/1336) ma te same słowa i poprawiony podział na jednostki. Te 7 plików przeliczyłem ponownie (z eli2md 0.6.25–0.6.25.2
 na 0.6.61): oznaczenie zaczyna teraz osobną jednostkę, 6 ma te same słowa co poprzednio, a w MP/2023/1336 indeksy dolne
 wróciły do symboli we wzorze (np. „N i” → „Ni”, te same znaki).
+
+Zmiana 2026-10-25 (eli2md 0.6.67, 14 aktów; opis w README eli2md, wpis 0.6.67): ostatnia pozycja rocznika ma w winiecie
+gwiazdkę przy numerze pozycji, a pod kreską na s. 1 przypis „*) Ostatnia pozycja w 2025 r.”. To przypis winiety, ale stał na
+końcu tekstu aktu i w ostatniej jednostce drzewa. Przeliczyłem ponownie 14 takich obwieszczeń (MP/2012/1024, MP/2013/1041,
+MP/2014/1226, MP/2015/1307, MP/2016/1257, MP/2017/1224, MP/2018/1291, MP/2019/1207, MP/2020/1217, MP/2021/1206,
+MP/2022/1291, MP/2023/1483, MP/2024/1112, MP/2025/1317; wcześniej z eli2md 0.6.25–0.6.56): w każdym ubywa tylko słów
+przypisu, nic nie przybywa. Codzienna aktualizacja używa od dziś eli2md 0.6.67: na 40 losowych aktach z lat 2012–2026 (20 DU, 20 MP)
+daje te same pliki co 0.6.61 i 0.6.66 (poza numerem wersji).
 
 Zmiana 2026-10-17 (eli2md 0.6.60, 0 aktów): codzienna aktualizacja używa eli2md 0.6.60. Zmiana w tej wersji
 (indeks dolny pod kursywną wielką literą wzoru) nie dotyczy żadnego z 306 sprawdzonych aktów tego zbioru

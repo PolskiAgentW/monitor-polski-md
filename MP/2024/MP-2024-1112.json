@@ -1,7 +1,7 @@
 {
  "eli": "MP/2024/1112",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 23 grudnia 2024 r. w sprawie ogłoszenia jednolitego tekstu zarządzenia Prezesa Rady Ministrów w sprawie Komitetu Sterującego do spraw Krajowego Programu Ochrony Powietrza",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.67",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2024/1112/text.pdf",
  "body": [
   {
@@ -582,12 +582,7 @@
      "num": "12",
      "path": "par_12",
      "text": "Zarządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia[^13].",
-     "children": [
-      {
-       "type": "text",
-       "text": "*) Ostatnia pozycja w 2024 r."
-      }
-     ]
+     "children": []
     }
    ]
   }
