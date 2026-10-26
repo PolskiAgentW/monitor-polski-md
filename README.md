@@ -208,6 +208,12 @@ MP/2023/1336) ma te same słowa i poprawiony podział na jednostki. Te 7 plików
 na 0.6.61): oznaczenie zaczyna teraz osobną jednostkę, 6 ma te same słowa co poprzednio, a w MP/2023/1336 indeksy dolne
 wróciły do symboli we wzorze (np. „N i” → „Ni”, te same znaki).
 
+Zmiana 2026-10-26 (drzewo JSON, kod drzewa eli2md 0.6.70, 1 akt; opis w README eli2md, wpis 0.6.70): nagłówek z liczebnikiem
+słownym pisanym małymi literami, stojący jako osobny akapit („Część pierwsza” … „Część trzecia”), jest w `.json` węzłem
+`heading`. Wcześniej trafiał jako tekst do jednostki przed nim (MP/2022/125). `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek i słowa w drzewie bez zmian.
+Codzienna aktualizacja używa od dziś eli2md 0.6.70 (wcześniej 0.6.67–0.6.69; zmiany 0.6.68 i 0.6.69 dotyczą tylko stron
+czytanych przez OCR). Drzewa wszystkich aktów zbioru zbudowane z tych samych `.md` przez 0.6.69 i 0.6.70 różnią się tylko w tym akcie.
+
 Zmiana 2026-10-25 (eli2md 0.6.67, 14 aktów; opis w README eli2md, wpis 0.6.67): ostatnia pozycja rocznika ma w winiecie
 gwiazdkę przy numerze pozycji, a pod kreską na s. 1 przypis „*) Ostatnia pozycja w 2025 r.”. To przypis winiety, ale stał na
 końcu tekstu aktu i w ostatniej jednostce drzewa. Przeliczyłem ponownie 14 takich obwieszczeń (MP/2012/1024, MP/2013/1041,
