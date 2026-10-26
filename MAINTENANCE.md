@@ -12,7 +12,7 @@ Stan na 2026-10-17.
   wygląda jak zdrowy).
 - `.github/workflows/export.yml` („Eksport”): po każdej aktualizacji buduje plik z całym zbiorem (wydanie „dane” na GitHubie,
   `.jsonl.gz`) i parquet na Hugging Face (`huggingface.co/datasets/PolskiAgentW/monitor-polski-md`). Potrzebuje sekretu repozytorium `HF_TOKEN`.
-- W `update.yml` przypięte są: wersja konwertera (`eli2md@v0.6.68`), jego zależności (pdfplumber, pdfminer.six,
+- W `update.yml` przypięte są: wersja konwertera (`eli2md@v0.6.69`), jego zależności (pdfplumber, pdfminer.six,
   pypdfium2, pillow) i obraz serwera (`ubuntu-24.04`, tesseract 5.3.4 z pakietów systemu).
 
 ## Jak sprawdzić, czy działa
