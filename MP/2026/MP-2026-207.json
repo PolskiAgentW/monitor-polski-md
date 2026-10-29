@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/207",
  "title": "Obwieszczenie Ministra Infrastruktury z dnia 10 lutego 2026 r. w sprawie ogłoszenia stawek opłat lotniczych obowiązujących w 2026 r.",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/207/text.pdf",
  "body": [
   {
@@ -990,7 +990,7 @@
      "type": "ust",
      "num": "6",
      "path": "ust_6",
-     "text": "Przeprowadzanie procesu certyfikacji na rozszerzenie zakresu 3249 certyfikatu FTD dla wszystkich uprawnień lub specjalności 7. Wydanie certyfikatu kwalifikacji szkoleniowego urządzenia 817 symulacji lotu (FSTD) za każde zat wierdzenie 8. Przeprowadzenie procesu certyfikacji MTO Part-147 po raz pierwszy i wydanie certyfikatu zatwierdzenia albo przywrócenie jego ważności w zakresie do prowadzenia szkoleń podstawowych i egzaminowania, za każdą kategorię lub podkategorię:",
+     "text": "Przeprowadzanie procesu certyfikacji na rozszerzenie zakresu 3249 certyfikatu FTD dla wszystkich uprawnień lub specjalności 7. Wydanie certyfikatu kwalifikacji szkoleniowego urządzenia 817 symulacji lotu (FSTD) za każde zatwierdzenie 8. Przeprowadzenie procesu certyfikacji MTO Part-147 po raz pierwszy i wydanie certyfikatu zatwierdzenia albo przywrócenie jego ważności w zakresie do prowadzenia szkoleń podstawowych i egzaminowania, za każdą kategorię lub podkategorię:",
      "children": [
       {
        "type": "pkt",
@@ -1863,7 +1863,7 @@
      "children": [
       {
        "type": "text",
-       "text": "Rodzaj czynności urzędowej Wysokość s tawki w zł 1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AMO po raz pierwszy lub wznowienie certyfikatu nieważnego dłużej niż 12 miesięcy, dla jednostki:"
+       "text": "Rodzaj czynności urzędowej Wysokość stawki w zł 1. Przeprowadzenie procesu certyfikacji i wydanie certyfikatu AMO po raz pierwszy lub wznowienie certyfikatu nieważnego dłużej niż 12 miesięcy, dla jednostki:"
       },
       {
        "type": "pkt",
@@ -1910,7 +1910,7 @@
          "type": "lit",
          "num": "d",
          "path": "ust_3/pkt_1/lit_d",
-         "text": "w klasie badania nieniszczące 33 8 2. Przeprowadzenie procesu certyfikacji jednostki zarządzania ciągłą zdatnością do lotu i wydanie certyfikatu CAMO po raz pierwszy lub wznowienie certyfikatu nieważnego dłużej niż 12 miesięcy:",
+         "text": "w klasie badania nieniszczące 338 2. Przeprowadzenie procesu certyfikacji jednostki zarządzania ciągłą zdatnością do lotu i wydanie certyfikatu CAMO po raz pierwszy lub wznowienie certyfikatu nieważnego dłużej niż 12 miesięcy:",
          "children": []
         }
        ]
@@ -1990,7 +1990,7 @@
        "type": "pkt",
        "num": "2",
        "path": "ust_4/pkt_2",
-       "text": "o literze kodu C, D, E 65 9 65 4. Przeprowadzenie postępowania o wydanie zezwolenia na założenie lotniska użytku wyłącznego i wydanie zezwolenia: 1) o literze kodu A, B 3302",
+       "text": "o literze kodu C, D, E 65 965 4. Przeprowadzenie postępowania o wydanie zezwolenia na założenie lotniska użytku wyłącznego i wydanie zezwolenia: 1) o literze kodu A, B 3302",
        "children": []
       },
       {
@@ -3439,7 +3439,7 @@
      "type": "ust",
      "num": "1",
      "path": "ust_1",
-     "text": "Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu Opłata podstawowa w wysokości 100 % opłaty podstawowej AOC określonej w tabeli nr 1 częś ć III podczęść 3.10.1 ust. 1 2. Sprawowanie bieżącego nadzoru nad wydanymi zatwierdzeniami szczególnymi (dla przewoźników AOC oraz pozostałych użytkowników):",
+     "text": "Sprawowanie bieżącego nadzoru nad posiadaczem certyfikatu Opłata podstawowa w wysokości 100 % opłaty podstawowej AOC określonej w tabeli nr 1 część III podczęść 3.10.1 ust. 1 2. Sprawowanie bieżącego nadzoru nad wydanymi zatwierdzeniami szczególnymi (dla przewoźników AOC oraz pozostałych użytkowników):",
      "children": [
       {
        "type": "pkt",

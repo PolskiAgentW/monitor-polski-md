@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/50",
  "title": "Uchwała nr 3 Rady Ministrów z dnia 7 stycznia 2026 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Modernizacja i przebudowa komórek szpitala psychiatrycznego wraz z wyposażeniem, posadowieniem kontenerowej poradni zdrowia psychicznego wraz z wyposażeniem i rewitalizacją przyległego parku w celu poprawy jakości świadczeń\"",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/50/text.pdf",
  "body": [
   {
@@ -203,7 +203,7 @@
     },
     {
      "type": "text",
-     "text": "Zadanie 1 : Kompleksowa modernizacja budynków A, G i M, w których funkcjonują oddziały stacjonarne i oddział zabezpieczenia sądowego."
+     "text": "Zadanie 1: Kompleksowa modernizacja budynków A, G i M, w których funkcjonują oddziały stacjonarne i oddział zabezpieczenia sądowego."
     },
     {
      "type": "text",
@@ -217,7 +217,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "wymianę instalacji wewnętrznych , w tym instalacji elektrycznej, wodno-kanalizacyjnej, wentylacyjnej, grzewczej oraz teletechnicznej, w celu zapewnienia bezpieczeństwa i efektywności energetycznej;",
+     "text": "wymianę instalacji wewnętrznych, w tym instalacji elektrycznej, wodno-kanalizacyjnej, wentylacyjnej, grzewczej oraz teletechnicznej, w celu zapewnienia bezpieczeństwa i efektywności energetycznej;",
      "children": []
     },
     {
@@ -231,7 +231,7 @@
      "type": "pkt",
      "num": "3",
      "path": "pkt_3",
-     "text": "termomodernizację obiektów , obejmującą ocieplenie przegród zewnętrznych, wymianę stolarki okiennej i drzwiowej oraz modernizację systemu grzewczego;",
+     "text": "termomodernizację obiektów, obejmującą ocieplenie przegród zewnętrznych, wymianę stolarki okiennej i drzwiowej oraz modernizację systemu grzewczego;",
      "children": []
     },
     {
@@ -245,7 +245,7 @@
      "type": "pkt",
      "num": "5",
      "path": "pkt_5",
-     "text": "zakup wyposażenia medycznego i terapeutycznego , niezbędnego do prowadzenia skutecznej terapii w warunkach stacjonarnych – m.in. łóżek szpitalnych, aparatury diagnostycznej, sprzętu rehabilitacyjnego i multimedialnego do terapii zajęciowej.",
+     "text": "zakup wyposażenia medycznego i terapeutycznego, niezbędnego do prowadzenia skutecznej terapii w warunkach stacjonarnych – m.in. łóżek szpitalnych, aparatury diagnostycznej, sprzętu rehabilitacyjnego i multimedialnego do terapii zajęciowej.",
      "children": [
       {
        "type": "text",
@@ -265,7 +265,7 @@
      "type": "pkt",
      "num": "1",
      "path": "pkt_1",
-     "text": "budowę nowego, kontenerowego budynku Poradni Zdrowia Psychicznego , spełniającego aktualne normy w zakresie infrastruktury medycznej. Poradnia zapewni opiekę ambulatoryjną w ramach modelu środowiskowego, obejmującą m.in. konsultacje psychiatryczne, psychoterapię, terapię grupową i psychoedukację;",
+     "text": "budowę nowego, kontenerowego budynku Poradni Zdrowia Psychicznego, spełniającego aktualne normy w zakresie infrastruktury medycznej. Poradnia zapewni opiekę ambulatoryjną w ramach modelu środowiskowego, obejmującą m.in. konsultacje psychiatryczne, psychoterapię, terapię grupową i psychoedukację;",
      "children": []
     },
     {

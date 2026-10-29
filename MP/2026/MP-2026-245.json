@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/245",
  "title": "Uchwała nr 80 Rady Ministrów z dnia 16 lutego 2026 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Przebudowa i modernizacja infrastruktury Warmińsko-Mazurskiego Centrum Onkologii w Olsztynie wraz z doposażeniem w sprzęt medyczny najnowszej generacji w celu realizacji kompleksowych i innowacyjnych metod leczenia onkologicznego\"",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/245/text.pdf",
  "body": [
   {
@@ -314,7 +314,7 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "zapewnienie kompleksowego leczenia nowotworów piersi – utworzenie Centrum Leczenia Nowotworów Piersi, tzw. Breast Cancer Unit ;",
+     "text": "zapewnienie kompleksowego leczenia nowotworów piersi – utworzenie Centrum Leczenia Nowotworów Piersi, tzw. Breast Cancer Unit;",
      "children": []
     },
     {
@@ -518,7 +518,7 @@
        "type": "lit",
        "num": "b",
        "path": "pkt_1/lit_b",
-       "text": "w części budynku szpitalnego (bryła F ):",
+       "text": "w części budynku szpitalnego (bryła F):",
        "children": [
         {
          "type": "text",
@@ -534,7 +534,7 @@
        "type": "lit",
        "num": "c",
        "path": "pkt_1/lit_c",
-       "text": "kondygnacja techniczna – budynki szpitalne (bryły E i F ) – nadbudowana kondygnacja stanowić będzie przestrzeń wentylacyjną pozwalającą na pozostawienie istniejącej infrastruktury znajdującej się na dachu budynków E i F, bez konieczności jej przebudowy – m.in. rozległe systemy kanałów wentylacji mechanicznej i klimatyzacji, instalacja wody lodowej i centralnego ogrzewania obsługujące oddziały i pracownie znajdujące się na innych piętrach. Projektowany poziom VII piętra.",
+       "text": "kondygnacja techniczna – budynki szpitalne (bryły E i F) – nadbudowana kondygnacja stanowić będzie przestrzeń wentylacyjną pozwalającą na pozostawienie istniejącej infrastruktury znajdującej się na dachu budynków E i F, bez konieczności jej przebudowy – m.in. rozległe systemy kanałów wentylacji mechanicznej i klimatyzacji, instalacja wody lodowej i centralnego ogrzewania obsługujące oddziały i pracownie znajdujące się na innych piętrach. Projektowany poziom VII piętra.",
        "children": [
         {
          "type": "text",
