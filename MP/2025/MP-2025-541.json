@@ -1,7 +1,7 @@
 {
  "eli": "MP/2025/541",
  "title": "Uchwała nr 72 Rady Ministrów z dnia 27 maja 2025 r. w sprawie zatwierdzenia Programu Ochrony Ludności i Obrony Cywilnej na lata 2025-2026",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2025/541/text.pdf",
  "body": [
   {
@@ -104,7 +104,7 @@
      "children": [
       {
        "type": "text",
-       "text": ", 2025–2026 ……………………………………………………… 35 CYWILNEJ W LATACH"
+       "text": ", 2025–2026……………………………………………………… 35 CYWILNEJ W LATACH"
       }
      ]
     },
@@ -1317,7 +1317,7 @@
        "type": "pkt",
        "num": "4",
        "path": "ust_6/pkt_4",
-       "text": "Obszar 4 : Edukacja, szkolenia oraz baza i zaplecze szkoleniowe, który tworzą działy: • Edukacja,",
+       "text": "Obszar 4: Edukacja, szkolenia oraz baza i zaplecze szkoleniowe, który tworzą działy: • Edukacja,",
        "children": [
         {
          "type": "text",

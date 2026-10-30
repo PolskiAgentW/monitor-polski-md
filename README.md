@@ -50,7 +50,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-10-29 05:57 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-10-30 11:34 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -74,7 +74,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 426, razem 14297 z 9899
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 567.
 
 Rodzaje aktów: Postanowienie 7144, Obwieszczenie 4058, Uchwała 2759, Komunikat 2073, Zarządzenie 1272, Oświadczenie rządowe 329, Umowa międzynarodowa 309, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
-Wersje konwertera: eli2md 0.6.25 (8178), eli2md 0.6.25.2 (4982), eli2md 0.6.56 (3067), eli2md 0.6.25.1 (1453), eli2md 0.6.73 (400), eli2md 0.6.60 (96), eli2md 0.6.57 (27), eli2md 0.6.67 (14), eli2md 0.6.61 (7), eli2md 0.6.54 (6), eli2md 0.6.58 (5).
+Wersje konwertera: eli2md 0.6.25 (8178), eli2md 0.6.25.2 (4637), eli2md 0.6.56 (3020), eli2md 0.6.25.1 (1453), eli2md 0.6.73 (799), eli2md 0.6.60 (89), eli2md 0.6.57 (27), eli2md 0.6.67 (14), eli2md 0.6.61 (7), eli2md 0.6.54 (6), eli2md 0.6.58 (5).
 <!-- stats:end -->
 
 ## Teksty jednolite
