@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/866",
  "title": "Obwieszczenie Prezesa Narodowego Banku Polskiego z dnia 6 sierpnia 2026 r. w sprawie ogłoszenia jednolitego tekstu uchwały Zarządu Narodowego Banku Polskiego w sprawie warunków i zasad sprzedaży przez Narodowy Bank Polski monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/866/text.pdf",
  "body": [
   {
@@ -769,11 +769,11 @@
           },
           {
            "type": "text",
-           "text": "L – oznacza liczbę danych wartości kolekcjonerskich przyznanych i-temu Dystrybutorowi po redukcji, z zaokrąglei niem w dół do części całkowitych,"
+           "text": "Li – oznacza liczbę danych wartości kolekcjonerskich przyznanych i-temu Dystrybutorowi po redukcji, z zaokrągleniem w dół do części całkowitych,"
           },
           {
            "type": "text",
-           "text": "n i – oznacza liczbę danych wartości kolekcjonerskich, na które i-ty Dystrybutor złożył zapotrzebowanie,"
+           "text": "ni – oznacza liczbę danych wartości kolekcjonerskich, na które i-ty Dystrybutor złożył zapotrzebowanie,"
           },
           {
            "type": "text",
@@ -785,7 +785,7 @@
           },
           {
            "type": "text",
-           "text": "N i – oznacza transzę danych wartości kolekcjonerskich, przeznaczoną do sprzedaży dla Dystrybutorów;"
+           "text": "Ni – oznacza transzę danych wartości kolekcjonerskich, przeznaczoną do sprzedaży dla Dystrybutorów;"
           }
          ]
         },
@@ -1678,7 +1678,7 @@
        "type": "ust",
        "num": "1",
        "path": "par_6/ust_1",
-       "text": "Administratorem danych osobowych jest NBP, z siedzibą w Warszawie, przy ul. Świętokrzy skiej 11/21, 00-919 Warszawa.",
+       "text": "Administratorem danych osobowych jest NBP, z siedzibą w Warszawie, przy ul. Świętokrzyskiej 11/21, 00-919 Warszawa.",
        "children": []
       },
       {

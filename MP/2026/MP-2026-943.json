@@ -1,7 +1,7 @@
 {
  "eli": "MP/2026/943",
  "title": "Uchwała nr 6/2026 Rady Polityki Pieniężnej z dnia 8 września 2026 r. w sprawie ustalenia założeń polityki pieniężnej na rok 2027",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2026/943/text.pdf",
  "body": [
   {
@@ -44,7 +44,7 @@
   },
   {
    "type": "text",
-   "text": "Członkowie Rady Polityki Pieniężnej: I .K. Dąbrowski, I. Duda, W.S. Janczyk, L. Kotecki, P. Litwiniuk, G. Masłowska, H.J. Wnorowski, M. Zarzecki"
+   "text": "Członkowie Rady Polityki Pieniężnej: I.K. Dąbrowski, I. Duda, W.S. Janczyk, L. Kotecki, P. Litwiniuk, G. Masłowska, H.J. Wnorowski, M. Zarzecki"
   }
  ],
  "annexes": [
@@ -57,7 +57,7 @@
     },
     {
      "type": "text",
-     "text": "Warszawa, 2026 Formułując Założenia polityki pieniężnej na rok 2027 , Rada Polityki Pieniężnej, zwana dalej „Radą”, wypełnia zobowiązanie zawarte w art. 227 ust. 6 Konstytucji Rzeczypospolitej Polskiej do corocznego ustalenia założeń polityki pieniężnej i przedłożenia ich do wiadomości Sejmowi."
+     "text": "Warszawa, 2026 Formułując Założenia polityki pieniężnej na rok 2027, Rada Polityki Pieniężnej, zwana dalej „Radą”, wypełnia zobowiązanie zawarte w art. 227 ust. 6 Konstytucji Rzeczypospolitej Polskiej do corocznego ustalenia założeń polityki pieniężnej i przedłożenia ich do wiadomości Sejmowi."
     },
     {
      "type": "text",
@@ -214,7 +214,7 @@
     },
     {
      "type": "text",
-     "text": "Operacje dostrajające będą stanowić instrument uzupełniający operacje podstawowe w zakresie realizacji celu operacyjnego polityki pieniężnej NBP. Przesłanką zastosowania tych operacji może być potrzeba zasilenia sektora bankowego w płynność lub absorpcji płynności. W ramach operacji zasilających NBP może oferować transakcje repo , a także dokonywać przedterminowego wykupu bonów pieniężnych NBP. W przypadku operacji absorbujących bank centralny może stosować emisję bonów pieniężnych NBP, a także oferować transakcje reverse repo . Zapadalność, rentowność oraz sposób przeprowadzania tych operacji będą adekwatne do celu ich zastosowania."
+     "text": "Operacje dostrajające będą stanowić instrument uzupełniający operacje podstawowe w zakresie realizacji celu operacyjnego polityki pieniężnej NBP. Przesłanką zastosowania tych operacji może być potrzeba zasilenia sektora bankowego w płynność lub absorpcji płynności. W ramach operacji zasilających NBP może oferować transakcje repo, a także dokonywać przedterminowego wykupu bonów pieniężnych NBP. W przypadku operacji absorbujących bank centralny może stosować emisję bonów pieniężnych NBP, a także oferować transakcje reverse repo. Zapadalność, rentowność oraz sposób przeprowadzania tych operacji będą adekwatne do celu ich zastosowania."
     },
     {
      "type": "text",
@@ -255,7 +255,7 @@
     },
     {
      "type": "text",
-     "text": "Depozyt na koniec dnia będzie umożliwiać lokowanie, w każdym dniu operacyjnym, nadwyżek środków w banku centralnym na termin overnight . Oprocentowanie tego instrumentu będzie określać, co do zasady, dolne ograniczenie rentowności transakcji o terminie overnight zawieranych na rynku międzybankowym."
+     "text": "Depozyt na koniec dnia będzie umożliwiać lokowanie, w każdym dniu operacyjnym, nadwyżek środków w banku centralnym na termin overnight. Oprocentowanie tego instrumentu będzie określać, co do zasady, dolne ograniczenie rentowności transakcji o terminie overnight zawieranych na rynku międzybankowym."
     },
     {
      "type": "text",
