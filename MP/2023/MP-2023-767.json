@@ -1,7 +1,7 @@
 {
  "eli": "MP/2023/767",
  "title": "Uchwała nr 120 Rady Ministrów z dnia 5 lipca 2023 r. w sprawie ustanowienia programu inwestycyjnego pod nazwą \"Pediatria PLUS - dostosowanie infrastruktury do aktualnych standardów opieki pediatrycznej i psychiatrycznej - Szpitala Klinicznego im. Karola Jonschera Uniwersytetu Medycznego im. Karola Marcinkowskiego w Poznaniu\"",
- "converter": "eli2md 0.6.25.2",
+ "converter": "eli2md 0.6.73",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/MP/2023/767/text.pdf",
  "body": [
   {
@@ -366,7 +366,7 @@
        "type": "pkt",
        "num": "1",
        "path": "ust_4/pkt_1",
-       "text": "leczenia szpitalnego – świadczeń w zakresie: alergologii dziecięcej, anestezjologii i intensywnej terapii dla dzieci, chirurgii dziecięcej, chorób płuc dziecięcych, chorób zakaźnych dziecięcych, diabetologii dziecięcej, endokrynologii dziecięcej, gastroenterologii dziecięcej, kardiochirurgii dziecięcej, kardiologii dziecięcej, nefrologii dziecięcej, neurochirurgii dziecięcej, neurologii dziecięcej, onkologii i hematologii dziecięcej, otorynolaryngologii dziecięcej, pediatrii, reumatologii dziecięcej, transplantologii klinicznej dziecięcej, chemioterapii w trybie jednodniowym z zakresem skojarzonym, chemioterapii - hospitalizacji z zakresem skojarzonym, chemioterapii w warunkach ambulatoryjnych z zakresem skojarzonym, operacji wad wrodzonych serca i naczyń poniżej 1. r.ż., operacji wad serca i aorty piersiowej poniżej 18. r.ż., kardiologicznych zabiegów interwencyjnych poniżej 18. r.ż., dziecięcej izby przyjęć , przezskórnego lub z innego dostępu wszczepiania zastawek serca;",
+       "text": "leczenia szpitalnego – świadczeń w zakresie: alergologii dziecięcej, anestezjologii i intensywnej terapii dla dzieci, chirurgii dziecięcej, chorób płuc dziecięcych, chorób zakaźnych dziecięcych, diabetologii dziecięcej, endokrynologii dziecięcej, gastroenterologii dziecięcej, kardiochirurgii dziecięcej, kardiologii dziecięcej, nefrologii dziecięcej, neurochirurgii dziecięcej, neurologii dziecięcej, onkologii i hematologii dziecięcej, otorynolaryngologii dziecięcej, pediatrii, reumatologii dziecięcej, transplantologii klinicznej dziecięcej, chemioterapii w trybie jednodniowym z zakresem skojarzonym, chemioterapii - hospitalizacji z zakresem skojarzonym, chemioterapii w warunkach ambulatoryjnych z zakresem skojarzonym, operacji wad wrodzonych serca i naczyń poniżej 1. r.ż., operacji wad serca i aorty piersiowej poniżej 18. r.ż., kardiologicznych zabiegów interwencyjnych poniżej 18. r.ż., dziecięcej izby przyjęć, przezskórnego lub z innego dostępu wszczepiania zastawek serca;",
        "children": []
       },
       {
@@ -380,7 +380,7 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_4/pkt_3",
-       "text": "leczenia psychiatrycznego: świadczeń psychiatrycznych dla dorosłych , świadczeń psychiatrycznych dla dzieci i młodzieży , poradni zdrowia psychicznego dla dorosłych, izby przyjęć psychiatrii, leczenia elektrowstrząsami chorych z zaburzeniami psychicznymi (EW) ze wskazań życiowych;",
+       "text": "leczenia psychiatrycznego: świadczeń psychiatrycznych dla dorosłych, świadczeń psychiatrycznych dla dzieci i młodzieży, poradni zdrowia psychicznego dla dorosłych, izby przyjęć psychiatrii, leczenia elektrowstrząsami chorych z zaburzeniami psychicznymi (EW) ze wskazań życiowych;",
        "children": []
       },
       {
@@ -399,7 +399,7 @@
        "type": "pkt",
        "num": "5",
        "path": "ust_4/pkt_5",
-       "text": "pozostałych świadczeń: badań tomografii komputerowej (TK), dializoterapii otrzewnowej, hemodializoterapii , leczenia cukrzycy z zastosowaniem pompy insulinowej , badań echokardiologicznych płodu, badań rezonansu magnetycznego (RM).",
+       "text": "pozostałych świadczeń: badań tomografii komputerowej (TK), dializoterapii otrzewnowej, hemodializoterapii, leczenia cukrzycy z zastosowaniem pompy insulinowej, badań echokardiologicznych płodu, badań rezonansu magnetycznego (RM).",
        "children": [
         {
          "type": "text",
@@ -2388,7 +2388,7 @@
     },
     {
      "type": "text",
-     "text": "Medyczne efekty realizacji inwestycji oraz efekty dla pacjenta i opiekunów: ─ dostosowanie oddziałów szpitalnych do wymogów sanitarno-epidemiologicznych (realizacja decyzji organu Państwowej Inspekcji Sanitarnej), ─ działalność kardiologiczna zostanie zlokalizowana w j ednej przestrzeni (dotychczas rozproszona w infrastrukturze Szpitala), co wpłynie na podniesienie komfortu pacjentów i zapewnienie najlepszych"
+     "text": "Medyczne efekty realizacji inwestycji oraz efekty dla pacjenta i opiekunów: ─ dostosowanie oddziałów szpitalnych do wymogów sanitarno-epidemiologicznych (realizacja decyzji organu Państwowej Inspekcji Sanitarnej), ─ działalność kardiologiczna zostanie zlokalizowana w jednej przestrzeni (dotychczas rozproszona w infrastrukturze Szpitala), co wpłynie na podniesienie komfortu pacjentów i zapewnienie najlepszych"
     },
     {
      "type": "text",

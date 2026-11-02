@@ -50,7 +50,7 @@ obwieszczenia 239, komunikaty 137, zarządzenia 84, pozostałe 32.
 ## Stan
 
 <!-- stats:start -->
-Stan na 2026-11-01 11:32 UTC (liczone z `index.csv`, aktualizowane automatycznie).
+Stan na 2026-11-02 12:56 UTC (liczone z `index.csv`, aktualizowane automatycznie).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -68,13 +68,13 @@ Stan na 2026-11-01 11:32 UTC (liczone z `index.csv`, aktualizowane automatycznie
 | 2023 | 1482 | 1482 | 0 |
 | 2024 | 1112 | 1112 | 0 |
 | 2025 | 1317 | 1317 | 0 |
-| 2026 | 1055 | 1055 | 0 |
+| 2026 | 1064 | 1064 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 427, razem 14325 z 99073 stron. Tekst z OCR (oznaczony) ma 12694 z nich w 416 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 427, razem 14325 z 99100 stron. Tekst z OCR (oznaczony) ma 12694 z nich w 416 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 568.
 
-Rodzaje aktów: Postanowienie 7144, Obwieszczenie 4069, Uchwała 2767, Komunikat 2074, Zarządzenie 1272, Oświadczenie rządowe 330, Umowa międzynarodowa 310, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
-Wersje konwertera: eli2md 0.6.25 (8178), eli2md 0.6.25.2 (4466), eli2md 0.6.56 (3002), eli2md 0.6.25.1 (1453), eli2md 0.6.73 (1060), eli2md 0.6.60 (65), eli2md 0.6.67 (14), eli2md 0.6.57 (12), eli2md 0.6.61 (7).
+Rodzaje aktów: Postanowienie 7144, Obwieszczenie 4076, Uchwała 2769, Komunikat 2074, Zarządzenie 1272, Oświadczenie rządowe 330, Umowa międzynarodowa 310, Ogłoszenie 241, Orzeczenie 19, Porozumienie 9, Protokół 8, Apel 4, Stanowisko 3, Rezolucja 3, Informacja 1, Traktat 1, Opinia 1, Oświadczenie 1.
+Wersje konwertera: eli2md 0.6.25 (8176), eli2md 0.6.25.2 (4464), eli2md 0.6.56 (3001), eli2md 0.6.25.1 (1452), eli2md 0.6.73 (1075), eli2md 0.6.60 (65), eli2md 0.6.67 (14), eli2md 0.6.57 (12), eli2md 0.6.61 (7).
 <!-- stats:end -->
 
 ## Teksty jednolite
