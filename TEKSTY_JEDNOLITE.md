@@ -39,7 +39,7 @@ Najnowszy tekst jednolity każdego aktu w tym zbiorze (z pliku `index.csv`, odś
 | Prezesa Rady Ministrów w sprawie nadania statutu Biuru Rzecznika Praw Pacjenta | [M.P. 2015 poz. 650](MP/2015/MP-2015-650.md) | 2015-07-27 | [M.P. 2014 poz. 209](MP/2014/MP-2014-209.md) |
 | Prezesa Rady Ministrów w sprawie nadania statutu Kancelarii Prezesa Rady Ministrów | [M.P. 2026 poz. 72](MP/2026/MP-2026-72.md) | 2026-01-15 | [M.P. 2023 poz. 3](MP/2023/MP-2023-3.md), [M.P. 2022 poz. 871](MP/2022/MP-2022-871.md), [M.P. 2016 poz. 1148](MP/2016/MP-2016-1148.md) i jeszcze 2 |
 | Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Administracji i Cyfryzacji | [M.P. 2014 poz. 39](MP/2014/MP-2014-39.md) | 2014-01-16 | – |
-| Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Cyfryzacji | [M.P. 2017 poz. 765](MP/2017/MP-2017-765.md) | 2017-08-01 | – |
+| Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Cyfryzacji | [M.P. 2026 poz. 1176](MP/2026/MP-2026-1176.md) | 2026-11-24 | [M.P. 2017 poz. 765](MP/2017/MP-2017-765.md) |
 | Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Energii | [M.P. 2017 poz. 375](MP/2017/MP-2017-375.md) | 2017-04-13 | – |
 | Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Finansów | [M.P. 2021 poz. 845](MP/2021/MP-2021-845.md) | 2021-09-16 | [M.P. 2013 poz. 363](MP/2013/MP-2013-363.md) |
 | Prezesa Rady Ministrów w sprawie nadania statutu Ministerstwu Funduszy i Polityki Regionalnej | [M.P. 2025 poz. 557](MP/2025/MP-2025-557.md) | 2025-06-09 | [M.P. 2024 poz. 500](MP/2024/MP-2024-500.md) |
